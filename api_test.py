@@ -20,7 +20,7 @@ for idx, comment in enumerate(data_comments):
         )
     )
 
-comments_to_file = list(map(lambda s: str.strip(s), comments))
+comments_to_file = [comment.strip() for comment in comments]
 
 with open(f"comments.json", "w", encoding="utf8") as f:
     json.dump(

@@ -37,4 +37,3 @@ def get_likes(*video_id: str):
     assert False, "Not implemented"
 
 
-get_comments("EOxarwd3eTs")
