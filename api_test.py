@@ -5,6 +5,7 @@ from get_video import get_comments, get_likes
 # https://returnyoutubedislikeapi.com/votes?videoId=EOxarwd3eTs
 
 data = get_comments("EOxarwd3eTs")
+likes = print(get_likes("EOxarwd3eTs"))
 
 comments = []
 data_comments = data["items"]
@@ -20,7 +21,9 @@ for idx, comment in enumerate(data_comments):
         )
     )
 
-comments_to_file = [comment.strip() for comment in comments]
+comments_to_file = [comment.strip("\n") for comment in comments]
+
+print(f"Written {len(comments_to_file)} comments to file")
 
 with open(f"comments.json", "w", encoding="utf8") as f:
     json.dump(
