@@ -7,7 +7,7 @@ def get_comments(video_id: str):
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyAPMn3uOPZrooP9pa4nSkQ7OZjIR-4MtJM"
+    DEVELOPER_KEY = your_api_key
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY
@@ -34,10 +34,10 @@ def get_comments(video_id: str):
             )
         )
 
-    with open(f"comments_{video_id}.json", "a", encoding="utf8") as f:
-        json.dump(comments, f)
+    with open(f"comments_{video_id}.json", "a", encoding="utf8") as comments_file:
+        json.dump(comments, comments_file)
 
-    print(f"Written {len(comments)} comments to {f.name}")
+    print(f"Written {len(comments)} comments to {comments_file.name}")
     return comments
 
 
