@@ -1,13 +1,14 @@
 import requests
 import json
 import googleapiclient.discovery
+import key
 
 # Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
 def get_comments(video_id: str):
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = your_api_key
+    DEVELOPER_KEY = key.API_KEY
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY

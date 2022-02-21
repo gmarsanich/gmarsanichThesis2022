@@ -1,7 +1,4 @@
-__pycache__/get_video.cpython-310.pyc
-comments_EOxarwd3eTs_likes.json
-comments_EOxarwd3eTs_raw.json
-comments.json
-.gitignore
-__pycache__/get_video.cpython-310.pyc
-test.py
+__pycache__
+*.json
+key.py
+api_test.py
