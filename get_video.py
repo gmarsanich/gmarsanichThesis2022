@@ -1,47 +1,44 @@
 import requests
 import json
+import googleapiclient.discovery
 
-
+# Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
 def get_comments(video_id: str):
-    payload = {
-        "key": "AIzaSyAPMn3uOPZrooP9pa4nSkQ7OZjIR-4MtJM",
-        "textFormat": "plainText",
-        "part": "snippet",
-        "videoId": "",
-        "maxResults": 100,
-        "nextPageToken": "",
-    }
 
-    payload["videoId"] = video_id
+    api_service_name = "youtube"
+    api_version = "v3"
+    DEVELOPER_KEY = "AIzaSyAPMn3uOPZrooP9pa4nSkQ7OZjIR-4MtJM"
 
-    # https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyAPMn3uOPZrooP9pa4nSkQ7OZjIR-4MtJM&textFormat=plainText&part=snippet&videoId=EOxarwd3eTs&maxResults=9999
-
-    comment_request = requests.get(
-        "https://www.googleapis.com/youtube/v3/commentThreads?", params=payload
+    youtube = googleapiclient.discovery.build(
+        api_service_name, api_version, developerKey=DEVELOPER_KEY
     )
 
-    with open(f"comments_{str(video_id)}_raw.json", "wb") as fd:
-        for chunk in comment_request.iter_content(chunk_size=128):
-            fd.write(chunk)
+    request = youtube.commentThreads().list(
+        part="snippet", maxResults=100, textFormat="plainText", videoId=video_id
+    )
+    response = request.execute()
 
-    with open(f"comments_{video_id}_raw.json", "r", encoding="utf8") as f:
-        data = json.load(f)
+    print(response["nextPageToken"])
 
-    # next_page_token = ""
-    # next_page_token += data.get("nextPageToken")
+    comments = []
+    data_comments = response["items"]
 
-    # while comment_request.status_code == 200:
-    #       payload["nextPageToken"] = next_page_token
-    #       print(next_page_token)
+    for idx, comment in enumerate(data_comments):
+        comment = data_comments[idx]
+        comments.append(
+            (
+                comment.get("snippet")
+                .get("topLevelComment")
+                .get("snippet")
+                .get("textOriginal")
+            )
+        )
 
-    # payload["nextPageToken"] = next_page_token
-    # print(payload)
+    with open(f"comments_{video_id}.json", "a", encoding="utf8") as f:
+        json.dump(comments, f)
 
-    # comment_request = requests.get(
-    #     "https://www.googleapis.com/youtube/v3/commentThreads?", params=payload
-    # )
-
-    return data
+    print(f"Written {len(comments)} comments to {f.name}")
+    return comments
 
 
 def get_likes(video_id: str):
