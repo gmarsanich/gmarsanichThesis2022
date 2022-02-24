@@ -1,4 +1,4 @@
 __pycache__
 *.json
 key.py
-api_test.py
+test.py
