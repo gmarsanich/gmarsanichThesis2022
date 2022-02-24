@@ -2,9 +2,27 @@ import requests
 import json
 import googleapiclient.discovery
 import key
+from pytube import extract
 
-# Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
-def get_comments(video_id: str):
+
+def get_id(video_url: str) -> str:
+
+    """
+    Takes a YouTube video url and extracts the ID by using the extract function from the pytube package and returns it
+    """
+
+    id_ = extract.video_id(video_url)
+    return id_
+
+
+def get_comments(video_url: str):
+
+    """
+    Calls the YouTube API and collects the json response with raw comment data. It then removes any data that is not the comment text and writes it to a json file
+    Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
+    """
+
+    video_id = get_id(video_url)
 
     api_service_name = "youtube"
     api_version = "v3"
@@ -39,10 +57,18 @@ def get_comments(video_id: str):
         json.dump(comments, comments_file)
 
     print(f"Written {len(comments)} comments to {comments_file.name}")
+
     return comments
 
 
-def get_likes(video_id: str):
+def get_likes(video_url: str):
+
+    """
+    Calls the Return YouTube Dislike API and saves the json response
+    Code adapted from returnyoutubedislike.com
+    """
+
+    video_id = get_id(video_url)
 
     payload = {"videoId": ""}
     payload["videoId"] = video_id
