@@ -7,9 +7,7 @@ from pytube import extract
 
 def get_id(video_url: str) -> str:
 
-    """
-    Takes a YouTube video url and extracts the ID by using the extract function from the pytube package and returns it
-    """
+    """Takes a YouTube video url and extracts the ID by using the extract function from the pytube package and returns it"""
 
     id_ = extract.video_id(video_url)
     return id_
@@ -17,9 +15,9 @@ def get_id(video_url: str) -> str:
 
 def get_comments(video_url: str):
 
-    """
-    Calls the YouTube API and collects the json response with raw comment data. It then removes any data that is not the comment text and writes it to a json file
+    """Calls the YouTube API and collects the json response with raw comment data. It then removes any data that is not the comment text and writes it to a json file
     Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
+
     """
 
     video_id = get_id(video_url)
@@ -61,11 +59,17 @@ def get_comments(video_url: str):
     return comments
 
 
-def get_likes(video_url: str):
+def get_likes(video_url: str, v=False):
 
-    """
-    Calls the Return YouTube Dislike API and saves the json response
+    """Calls the Return YouTube Dislike API and saves the json response
+    param video_url: str
+    param v: bool
+
+    It takes an optional argument v. If v is true, then the function returns all the data associated with the video
+    Otherwise, it only returns the likes and dislikes
+
     Code adapted from returnyoutubedislike.com
+
     """
 
     video_id = get_id(video_url)
@@ -79,4 +83,12 @@ def get_likes(video_url: str):
         for chunk in likes.iter_content(chunk_size=128):
             fd.write(chunk)
 
-    return likes
+    with open(f"comments_{str(video_id)}_likes.json", "r") as f:
+        likes = json.load(f)
+
+    if v:
+        return (
+            f"The video with ID {video_id} has the following data: {likes}"
+        )
+    else:
+        return f"The video with ID {video_id} has the following like to dislike ratio: {likes['likes']} - {likes['dislikes']}"
