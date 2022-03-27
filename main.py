@@ -32,17 +32,10 @@ for comment in comments:
     blob_list.append(textblob_dict)
 
     # Bert
-    # the label and score are separated - negative with high score means highly negative and vice versa.
-    # I apply a simple function to keep the scoring system consistent
+    # the pipeline API returns a label and a confidence score rather than a polarity score
     c = classifier(comment)
-    label = c[0]["label"]
-    score = c[0]["score"]
-    if label == "NEGATIVE":
-        score *= -1
-    bert_dict = {
-        "Comments": comment,
-        "Score": score,
-    }
+
+    bert_dict = {"Comments": comment, "Score": c[0]["label"]}
     bert_list.append(bert_dict)
 
 print("Vader analysis", end="")
@@ -60,8 +53,8 @@ print("Mean sentiment score: ", textblob_mean, end="\n")
 print("BERT analysis", end="")
 bert_df = pd.DataFrame(bert_list)
 print(bert_df.head())
-bert_mean = bert_df["Score"].mean()
-print("Mean sentiment score: ", bert_mean, end="\n")
+bert_mode = bert_df["Score"].mode()
+print("Most common label: ", bert_mode, end="\n")
 
 likes = print(get_likes(url))
 likes_verbose = print(get_likes(url, True))
