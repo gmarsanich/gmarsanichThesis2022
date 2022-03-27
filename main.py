@@ -1,19 +1,27 @@
 from get_video import get_comments, get_likes
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
-from textblob.sentiments import NaiveBayesAnalyzer as nba
 from transformers import pipeline
+from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
+
 import pandas as pd
 
 url = "https://www.youtube.com/watch?v=JZBLN-42BY0"
 
 comments = get_comments(url)
 
-# Analysis
+### Analysis
 vader_list = []
 blob_list = []
 bert_list = []
-classifier = pipeline("sentiment-analysis")
+
+# Bert analyzer
+model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
+model = TFAutoModelForSequenceClassification.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
+
+# Vader analyzer
 analyzer = SentimentIntensityAnalyzer()
 
 for comment in comments:
@@ -24,7 +32,6 @@ for comment in comments:
 
     # TextBlob
     blob = TextBlob(comment)
-    blob.sentiment.polarity
     textblob_dict = {
         "Comments": comment,
         "Score": blob.sentiment.polarity,
@@ -32,10 +39,8 @@ for comment in comments:
     blob_list.append(textblob_dict)
 
     # Bert
-    # the pipeline API returns a label and a confidence score rather than a polarity score
     c = classifier(comment)
-
-    bert_dict = {"Comments": comment, "Score": c[0]["label"]}
+    bert_dict = {"Comments": comment, "Score": c[0]["score"]}
     bert_list.append(bert_dict)
 
 print("Vader analysis", end="")
@@ -53,8 +58,8 @@ print("Mean sentiment score: ", textblob_mean, end="\n")
 print("BERT analysis", end="")
 bert_df = pd.DataFrame(bert_list)
 print(bert_df.head())
-bert_mode = bert_df["Score"].mode()
-print("Most common label: ", bert_mode, end="\n")
+bert_mean = bert_df["Score"].mean()
+print("Mean sentiment score: ", bert_mean, end="\n")
 
 likes = print(get_likes(url))
 likes_verbose = print(get_likes(url, True))
