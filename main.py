@@ -1,9 +1,7 @@
 from get_video import get_comments, get_likes
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
-from transformers import pipeline
-from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
-
+from transformers import pipeline, AutoTokenizer, TFAutoModelForSequenceClassification 
 import pandas as pd
 
 url = "https://www.youtube.com/watch?v=JZBLN-42BY0"
