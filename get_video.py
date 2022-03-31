@@ -13,7 +13,7 @@ def get_id(video_url: str) -> str:
     return id_
 
 
-def get_comments(video_url: str):
+def get_comments(video_url: str) -> list:
 
     """Calls the YouTube API and collects the json response with raw comment data. It then removes any data that is not the comment text and writes it to a json file
     Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
@@ -59,7 +59,7 @@ def get_comments(video_url: str):
     return comments
 
 
-def get_likes(video_url: str, v=False):
+def get_likes(video_url: str, v=False) -> str:
 
     """Calls the Return YouTube Dislike API and saves the json response
     param video_url: str
@@ -87,8 +87,6 @@ def get_likes(video_url: str, v=False):
         likes = json.load(f)
 
     if v:
-        return (
-            f"The video with ID {video_id} has the following data: {likes}"
-        )
+        return f"The video with ID {video_id} has the following data: {likes}"
     else:
         return f"The video with ID {video_id} has the following like to dislike ratio: {likes['likes']} - {likes['dislikes']}"
