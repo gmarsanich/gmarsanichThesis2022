@@ -4,7 +4,7 @@ from textblob import TextBlob
 from transformers import pipeline, AutoTokenizer, TFAutoModelForSequenceClassification
 import pandas as pd
 
-url = ""
+url = str(input("Enter a YouTube URL: "))
 
 comments = get_comments(url)
 
