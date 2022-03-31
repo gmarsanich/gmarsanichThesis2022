@@ -1,12 +1,10 @@
 from get_video import get_comments, get_likes
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
-from transformers import pipeline
-from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
-
+from transformers import pipeline, AutoTokenizer, TFAutoModelForSequenceClassification
 import pandas as pd
 
-url = "https://www.youtube.com/watch?v=JZBLN-42BY0"
+url = ""
 
 comments = get_comments(url)
 
@@ -43,23 +41,26 @@ for comment in comments:
     bert_dict = {"Comments": comment, "Score": c[0]["score"]}
     bert_list.append(bert_dict)
 
-print("Vader analysis", end="")
+print("Vader analysis")
 vader_df = pd.DataFrame(vader_list)
 print(vader_df.head())
 vader_mean = vader_df["Score"].mean()
-print("Mean sentiment score: ", vader_mean, end="\n")
+print("Mean sentiment score: ", vader_mean)
+print("\n")
 
-print("TextBlob analysis", end="")
+print("TextBlob analysis")
 textblob_df = pd.DataFrame(blob_list)
 print(textblob_df.head())
 textblob_mean = textblob_df["Score"].mean()
-print("Mean sentiment score: ", textblob_mean, end="\n")
+print("Mean sentiment score: ", textblob_mean)
+print("\n")
 
-print("BERT analysis", end="")
+print("BERT analysis")
 bert_df = pd.DataFrame(bert_list)
 print(bert_df.head())
 bert_mean = bert_df["Score"].mean()
-print("Mean sentiment score: ", bert_mean, end="\n")
+print("Mean sentiment score: ", bert_mean)
+print("\n")
 
 likes = print(get_likes(url))
 likes_verbose = print(get_likes(url, True))
