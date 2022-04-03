@@ -6,7 +6,6 @@
 # main.py
 - Implement baseline (average like/dislike ratio)
 - Calculate accuracy of prediction
-- Clean up TensorFlow console messages
 - Define ranges for negative, neutral and positive for TextBlob and BERT
 - Output pandas dataframe to CSV for easier visualization
 - Implement scoring for comment sentiment
