@@ -35,7 +35,7 @@ def get_comments(video_url: str) -> list:
     )
     response = request.execute()
 
-    print(response["nextPageToken"])
+    #print(response["nextPageToken"])
 
     comments = []
     data_comments = response["items"]
