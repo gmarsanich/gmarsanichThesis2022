@@ -11,4 +11,5 @@
 - Define ranges for negative, neutral and positive for TextBlob and BERT
 - Output pandas dataframe to CSV for easier visualization
 - Implement scoring for comment sentiment
-- Implement language checking and instantiate correct model for language (use pattern library)
+- Instantiate correct model for detected language
+- Check local files for comment file before making API request
