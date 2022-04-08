@@ -1,3 +1,11 @@
+# Suppressing warnings
+import os
+
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+
+import logging
+logging.disable(logging.WARNING)
+
 from get_video import get_comments, get_likes
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
@@ -23,6 +31,12 @@ classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
 analyzer = SentimentIntensityAnalyzer()
 
 for comment in comments:
+
+    """positive sentiment: compound score >= 0.05
+        neutral sentiment: (compound score > -0.05) and (compound score < 0.05)
+        negative sentiment: compound score <= -0.05
+    NOTE: The compound score is the one most commonly used for sentiment analysis by most researchers, including the authors."""
+
     # Vader
     vs = analyzer.polarity_scores(comment)
     vader_dict = {"Comments": comment, "Score": vs["compound"]}
