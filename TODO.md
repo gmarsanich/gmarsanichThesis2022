@@ -12,4 +12,3 @@
 - Output pandas dataframe to CSV for easier visualization
 - Implement scoring for comment sentiment
 - Instantiate correct model for detected language
-- Check local files for comment file before making API request
