@@ -1,6 +1,6 @@
 __pycache__
 *.json
-key.py
-test.py
 *.txt
 *.bak
+*.csv
+*__.py
