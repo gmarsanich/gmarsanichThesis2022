@@ -1,7 +1,9 @@
 import requests
 import json
 import googleapiclient.discovery
-import key
+import key__
+import os.path
+from os import path
 from pytube import extract
 
 
@@ -13,18 +15,23 @@ def get_id(video_url: str) -> str:
     return id_
 
 
-def get_comments(video_url: str) -> list:
+def get_title(video_url: str) -> str:
 
-    """Calls the YouTube API and collects the json response with raw comment data. It then removes any data that is not the comment text and writes it to a json file
-    Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/
+    """Takes a YouTube video url and extracts the title by using the title method from the pytube package and returns it"""
 
-    """
+    return video_url.title
 
-    video_id = get_id(video_url)
+
+def call_yt_api(video_id: str) -> list:
+
+    """This function is not intended for use in the main application.
+    It calls the YouTube API and collects the json response with raw comment data.
+    It then removes any data that is not the comment text and writes it to a json file
+    Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/"""
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = key.API_KEY
+    DEVELOPER_KEY = key__.API_KEY
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY
@@ -35,7 +42,7 @@ def get_comments(video_url: str) -> list:
     )
     response = request.execute()
 
-    #print(response["nextPageToken"])
+    # print(response["nextPageToken"])
 
     comments = []
     data_comments = response["items"]
@@ -59,11 +66,28 @@ def get_comments(video_url: str) -> list:
     return comments
 
 
+def get_comments(video_url: str) -> list:
+
+    """This function searches the current working directory for a file matching the filename parameter
+    If a matching file is found, its contents will be anaylzed so that unnecessary API calls are not made.
+    If the file is not found, it calls the call_yt_api function defined earlier
+
+    """
+
+    video_id = get_id(video_url)
+    filename = f"comments_{video_id}.json"
+    if path.exists(filename):
+        with open(filename, "r") as f:
+            comments = json.load(f)
+            print(f"Reading from local file <{filename}>")
+            return comments
+    else:
+        return call_yt_api(video_id)
+
+
 def get_likes(video_url: str, v=False) -> str:
 
     """Calls the Return YouTube Dislike API and saves the json response
-    param video_url: str
-    param v: bool
 
     It takes an optional argument v. If v is true, then the function returns all the data associated with the video
     Otherwise, it only returns the likes and dislikes
