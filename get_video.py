@@ -47,8 +47,7 @@ def call_yt_api(video_id: str) -> list:
     comments = []
     data_comments = response["items"]
 
-    for idx, comment in enumerate(data_comments):
-        comment = data_comments[idx]
+    for comment in data_comments:
         comments.append(
             (
                 comment.get("snippet")
