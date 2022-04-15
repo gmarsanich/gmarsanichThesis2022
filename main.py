@@ -46,11 +46,11 @@ def show_analysis(
     print(df.head())
     mean = df["Sentiment score"].mean()
     print("Mean sentiment score: ", mean)
-    print("\n")
     if save:
         assert filename is not None, "You must provide a title for the filename"
         df.to_csv(f"analysis_{filename}.csv")
         print(f"saved to <analysis_{filename}.csv>")
+        print("\n")
     return df
 
 
