@@ -31,33 +31,44 @@ def call_yt_api(video_id: str) -> list:
     api_service_name = "youtube"
     api_version = "v3"
     DEVELOPER_KEY = key__.API_KEY  # Your YouTube API key
+    comments = []
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY
     )
 
-    request = youtube.commentThreads().list(
-        part="snippet", maxResults=100, textFormat="plainText", videoId=video_id
-    )
-    response = request.execute()
+    def load_comments(response):
+        for item in response["items"]:
+            comment = item["snippet"]["topLevelComment"]
+            text = comment["snippet"]["textDisplay"]
+            comments.append(text)
 
-    # print(response["nextPageToken"])
-
-    comments = []
-    data_comments = response["items"]
-
-    for comment in data_comments:
-        comments.append(
-            (
-                comment.get("snippet")
-                .get("topLevelComment")
-                .get("snippet")
-                .get("textOriginal")
+    def get_comment_threads(youtube: object, video_id: str, nextPageToken: str):
+        results = (
+            youtube.commentThreads()
+            .list(
+                part="snippet",
+                maxResults=100,
+                videoId=video_id,
+                textFormat="plainText",
+                pageToken=nextPageToken,
             )
+            .execute()
         )
+        return results
 
-    with open(f"comments_{video_id}.json", "a", encoding="utf8") as comments_file:
-        json.dump(comments, comments_file)
+    response = get_comment_threads(youtube, video_id, "")
+    next_page_token = response["nextPageToken"]
+    load_comments(response)
+
+    try:
+        while next_page_token:
+            response = get_comment_threads(youtube, video_id, next_page_token)
+            next_page_token = response["nextPageToken"]
+            load_comments(response)
+    except:
+        with open(f"comments_{video_id}.json", "a", encoding="utf8") as comments_file:
+            json.dump(comments, comments_file, ensure_ascii=False)
 
     print(f"Written {len(comments)} comments to {comments_file.name}")
 
