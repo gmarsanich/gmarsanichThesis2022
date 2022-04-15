@@ -9,9 +9,10 @@ import spacy
 from spacy_langdetect import LanguageDetector
 from spacy.language import Language
 
-# Suppressing warnings
+# Suppressing warnings and setting up TensorFlow GPU
 logging.disable(logging.WARNING)
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 
 def detect_language(text: str) -> str:
@@ -43,13 +44,14 @@ def show_analysis(
     df = pd.DataFrame(analyzed_comments)
     df.style.set_properties(**{"text-align": "center"})
     print(df.head())
-    mean = df["Score"].mean()
+    mean = df["Sentiment score"].mean()
     print("Mean sentiment score: ", mean)
     print("\n")
     if save:
         assert filename is not None, "You must provide a title for the filename"
         df.to_csv(f"analysis_{filename}.csv")
         print(f"saved to <analysis_{filename}.csv>")
+    return df
 
 
 def main():
@@ -82,7 +84,7 @@ def main():
         vs = analyzer.polarity_scores(comment)
         vader_dict = {
             "Comments": comment,
-            "Score": vs["compound"],
+            "Sentiment score": vs["compound"],
             "Language": lang,
         }
         vader_list.append(vader_dict)
@@ -91,7 +93,7 @@ def main():
         blob = TextBlob(comment)
         textblob_dict = {
             "Comments": comment,
-            "Score": blob.sentiment.polarity,
+            "Sentiment score": blob.sentiment.polarity,
             "Language": lang,
         }  # Polarity is a a float between -1 and 1 where -1 is negative and 1 is positive
         blob_list.append(textblob_dict)
@@ -100,7 +102,7 @@ def main():
         c = classifier(comment)
         bert_dict = {
             "Comments": comment,
-            "Score": c[0]["score"],
+            "Sentiment score": c[0]["score"],
             "Language": lang,
         }
         bert_list.append(bert_dict)
