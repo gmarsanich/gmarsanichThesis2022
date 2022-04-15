@@ -2,7 +2,6 @@ import requests
 import json
 import googleapiclient.discovery
 import key__
-import os.path
 from os import path
 from pytube import extract
 
@@ -31,7 +30,7 @@ def call_yt_api(video_id: str) -> list:
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = key__.API_KEY
+    DEVELOPER_KEY = key__.API_KEY  # Your YouTube API key
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=DEVELOPER_KEY
@@ -97,19 +96,20 @@ def get_likes(video_url: str, v=False) -> str:
 
     video_id = get_id(video_url)
 
-    payload = {"videoId": ""}
-    payload["videoId"] = video_id
+    payload = {"videoId": video_id}
 
-    likes = requests.get("https://returnyoutubedislikeapi.com/votes?", params=payload)
+    data = requests.get("https://returnyoutubedislikeapi.com/votes?", params=payload)
 
     with open(f"comments_{str(video_id)}_likes.json", "wb") as fd:
-        for chunk in likes.iter_content(chunk_size=128):
+        for chunk in data.iter_content(chunk_size=128):
             fd.write(chunk)
 
     with open(f"comments_{str(video_id)}_likes.json", "r") as f:
-        likes = json.load(f)
+        data = json.load(f)
+
+    ratio = round(data["likes"] / data["dislikes"], 3)
 
     if v:
-        return f"The video with ID {video_id} has the following data: {likes}"
+        return f"The video with ID <{video_id}> has the following data: {data}"
     else:
-        return f"The video with ID {video_id} has the following like to dislike ratio: {likes['likes']} - {likes['dislikes']}"
+        return f"The video with ID <{video_id}> has the following like to dislike counts: {data['likes']} - {data['dislikes']}\nRatio = {ratio}"
