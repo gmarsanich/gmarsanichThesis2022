@@ -1,6 +1,6 @@
 import os
 import logging
-from get_video import get_comments, get_likes, get_id
+from get_video import get_comments, load_comments, get_likes, get_id
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob
 from transformers import pipeline, AutoTokenizer, TFAutoModelForSequenceClassification
@@ -31,7 +31,7 @@ def detect_language(text: str) -> str:
 
 
 def show_analysis(
-    model_name: str, analyzed_comments: list, save: bool = False, filename: str = None
+    analyzed_comments: list, save: bool = False, filename: str = None
 ) -> None:
 
     """This function prints the analysis of the given list of comments
@@ -40,12 +40,10 @@ def show_analysis(
     If a filename is provided and save is False, the function will not save the results to file.
     """
 
-    print(f"{model_name} analysis")
+    print(f"Analysis of comments")
     df = pd.DataFrame(analyzed_comments)
     df.style.set_properties(**{"text-align": "center"})
     print(df.head())
-    mean = df["Sentiment score"].mean()
-    print("Mean sentiment score: ", mean)
     if save:
         assert filename is not None, "You must provide a title for the filename"
         df.to_csv(f"analysis_{filename}.csv")
@@ -56,13 +54,11 @@ def show_analysis(
 
 def main():
     url = str(input("Enter a YouTube URL: "))
-    comments = get_comments(url)
+    comments = load_comments(url)
     video_id = get_id(url)
 
     ### Analysis
-    vader_list = []
-    blob_list = []
-    bert_list = []
+    df_list = []
 
     # Bert analyzer
     model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
@@ -82,34 +78,27 @@ def main():
 
         # Vader
         vs = analyzer.polarity_scores(comment)
-        vader_dict = {
-            "Comments": comment,
-            "Sentiment score": vs["compound"],
-            "Language": lang,
-        }
-        vader_list.append(vader_dict)
+        vader_score = vs["compound"]
 
-        # TextBlob
+        # TextBlob - Polarity is a a float between -1 and 1 where -1 is negative and 1 is positive
         blob = TextBlob(comment)
-        textblob_dict = {
-            "Comments": comment,
-            "Sentiment score": blob.sentiment.polarity,
-            "Language": lang,
-        }  # Polarity is a a float between -1 and 1 where -1 is negative and 1 is positive
-        blob_list.append(textblob_dict)
+        blob_score = blob.sentiment.polarity
 
         # Bert
         c = classifier(comment)
-        bert_dict = {
-            "Comments": comment,
-            "Sentiment score": c[0]["score"],
+        bert_score = c[0]["score"]
+
+        df_dict = {
+            "Comment": comment,
+            "Vader score": vader_score,
+            "Textblob score": blob_score,
+            "BERT score": bert_score,
             "Language": lang,
         }
-        bert_list.append(bert_dict)
 
-    show_analysis("Vader", vader_list, save=True, filename=f"{video_id}_vader")
-    show_analysis("Texblob", blob_list, save=True, filename=f"{video_id}_blob")
-    show_analysis("BERT", bert_list, save=True, filename=f"{video_id}_bert")
+        df_list.append(df_dict)
+
+    show_analysis(df_list, save=True, filename=f"{video_id}")
 
     print(get_likes(url))  # only prints likes and dislikes
     print(get_likes(url, v=True))  # prints all data related to the video
