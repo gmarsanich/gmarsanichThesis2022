@@ -21,7 +21,7 @@ def get_title(video_url: str) -> str:
     return video_url.title
 
 
-def call_yt_api(video_id: str) -> list:
+def get_comments(video_id: str) -> list:
 
     """This function is not intended for use in the main application.
     It calls the YouTube API and collects the json response with raw comment data.
@@ -37,7 +37,7 @@ def call_yt_api(video_id: str) -> list:
         api_service_name, api_version, developerKey=DEVELOPER_KEY
     )
 
-    def load_comments(response):
+    def save_comments(response):
         for item in response["items"]:
             comment = item["snippet"]["topLevelComment"]
             text = comment["snippet"]["textDisplay"]
@@ -59,15 +59,15 @@ def call_yt_api(video_id: str) -> list:
 
     response = get_comment_threads(youtube, video_id, "")
     next_page_token = response["nextPageToken"]
-    load_comments(response)
+    save_comments(response)
 
     try:
         while next_page_token:
             response = get_comment_threads(youtube, video_id, next_page_token)
             next_page_token = response["nextPageToken"]
-            load_comments(response)
+            save_comments(response)
     except:
-        with open(f"comments_{video_id}.json", "a", encoding="utf8") as comments_file:
+        with open(f"comments_{video_id}.json", "a", encoding="utf-8") as comments_file:
             json.dump(comments, comments_file, ensure_ascii=False)
 
     print(f"Written {len(comments)} comments to {comments_file.name}")
@@ -75,23 +75,22 @@ def call_yt_api(video_id: str) -> list:
     return comments
 
 
-def get_comments(video_url: str) -> list:
+def load_comments(video_url: str) -> list:
 
     """This function searches the current working directory for a file matching the filename parameter
-    If a matching file is found, its contents will be anaylzed so that unnecessary API calls are not made.
-    If the file is not found, it calls the call_yt_api function defined earlier
+    If a matching file is found, it will be loaded and its contents will be returned.
 
     """
 
     video_id = get_id(video_url)
     filename = f"comments_{video_id}.json"
     if path.exists(filename):
-        with open(filename, "r") as f:
+        print(f"Reading from local file <{filename}>")
+        with open(filename, "r", encoding="utf-8") as f:
             comments = json.load(f)
-            print(f"Reading from local file <{filename}>")
             return comments
     else:
-        return call_yt_api(video_id)
+        return f"File <{filename}> not found"
 
 
 def get_likes(video_url: str, v=False) -> str:
@@ -123,4 +122,4 @@ def get_likes(video_url: str, v=False) -> str:
     if v:
         return f"The video with ID <{video_id}> has the following data: {data}"
     else:
-        return f"The video with ID <{video_id}> has the following like to dislike counts: {data['likes']} - {data['dislikes']}\nRatio = {ratio}"
+        return f"The video with ID <{video_id}> has the following like to dislike counts: {data['likes']} - {data['dislikes']}\nRatio = {ratio} likes for every dislike"
