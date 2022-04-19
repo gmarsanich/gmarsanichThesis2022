@@ -1,9 +1,11 @@
-import requests
 import json
-import googleapiclient.discovery
-import key__
 from os import path
+
+import googleapiclient.discovery
+import requests
 from pytube import extract
+
+import key__
 
 
 def get_id(video_url: str) -> str:
@@ -14,14 +16,7 @@ def get_id(video_url: str) -> str:
     return id_
 
 
-def get_title(video_url: str) -> str:
-
-    """Takes a YouTube video url and extracts the title by using the title method from the pytube package and returns it"""
-
-    return video_url.title
-
-
-def get_comments(video_id: str) -> list:
+def get_comments(video_url: str) -> list:
 
     """This function is not intended for use in the main application.
     It calls the YouTube API and collects the json response with raw comment data.
@@ -37,11 +32,13 @@ def get_comments(video_id: str) -> list:
         api_service_name, api_version, developerKey=DEVELOPER_KEY
     )
 
-    def save_comments(response):
+    def save_comments(response: dict) -> None:
         for item in response["items"]:
             comment = item["snippet"]["topLevelComment"]
             text = comment["snippet"]["textDisplay"]
-            comments.append(text)
+            comments.append(
+                text.strip()
+            )  # creating the list list of comments within the function, appending to it and returning it breaks the loop and it will always return 100 comments
 
     def get_comment_threads(youtube: object, video_id: str, nextPageToken: str):
         results = (
@@ -57,6 +54,7 @@ def get_comments(video_id: str) -> list:
         )
         return results
 
+    video_id = get_id(video_url)
     response = get_comment_threads(youtube, video_id, "")
     next_page_token = response["nextPageToken"]
     save_comments(response)
@@ -75,22 +73,20 @@ def get_comments(video_id: str) -> list:
     return comments
 
 
-def load_comments(video_url: str) -> list:
+def load_comments(filename: str) -> list:
 
     """This function searches the current working directory for a file matching the filename parameter
     If a matching file is found, it will be loaded and its contents will be returned.
 
     """
 
-    video_id = get_id(video_url)
-    filename = f"comments_{video_id}.json"
     if path.exists(filename):
         print(f"Reading from local file <{filename}>")
         with open(filename, "r", encoding="utf-8") as f:
             comments = json.load(f)
             return comments
     else:
-        return f"File <{filename}> not found"
+        assert False, f"File <{filename}> not found"
 
 
 def get_likes(video_url: str, v=False) -> str:
