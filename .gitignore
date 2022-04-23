@@ -1,6 +1,6 @@
 __pycache__
 *.json
-*.txt
 *.bak
 *.csv
 *__.py
+*__.txt

@@ -64,7 +64,7 @@ def get_comments(video_url: str) -> list:
             response = get_comment_threads(youtube, video_id, next_page_token)
             next_page_token = response["nextPageToken"]
             save_comments(response)
-    except:
+    except KeyError:
         with open(f"comments_{video_id}.json", "a", encoding="utf-8") as comments_file:
             json.dump(comments, comments_file, ensure_ascii=False)
 
