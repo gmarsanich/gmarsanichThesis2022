@@ -6,7 +6,7 @@ from scipy.stats import pearsonr
 from spacy.language import Language
 from spacy_langdetect import LanguageDetector
 from textblob import TextBlob
-from transformers import AutoTokenizer, TFAutoModelForSequenceClassification, pipeline
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
@@ -29,10 +29,13 @@ def bert_classifier(s: str) -> float:
 
     """This function returns a sentiment score using the BERT sentiment analysis pipeline"""
 
-    model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
-    model = TFAutoModelForSequenceClassification.from_pretrained(model_name)
+    model_name = "distilbert-base-multilingual-cased"
+    model = AutoModelForSequenceClassification.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
+
+    classifier = pipeline(
+        "sentiment-analysis", model=model, tokenizer=tokenizer, device=0
+    )
 
     initial_str = classifier(s)
 
@@ -91,11 +94,10 @@ def show_analysis(analyzed_comments: list, n: int = 4) -> pd.DataFrame:
 
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
     """To save the results to a CSV file, a filename must be provided.
-    If a filename is not provided the function will not save file.
+    If a filename is not provided the function will not save to file.
     """
     if filename:
         df.to_csv(f"analysis_{filename}.csv")
         print(f"saved to <analysis_{filename}.csv>")
-        print("\n")
     else:
         return "A filename is required to save the results"
