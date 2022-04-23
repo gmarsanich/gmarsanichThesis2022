@@ -1,21 +1,14 @@
-import logging
-import os
 import time
-
 import pandas as pd
 
 import utils
 from get_video import get_comments, get_id, get_likes, load_comments
-
-# Suppressing warnings and setting up TensorFlow GPU
-logging.disable(logging.WARNING)
-os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+from transformers.utils import logging
 
 
 def main():
-    comments = get_comments("https://www.youtube.com/watch?v=4DCbZJh-Gk4")
-    # comments = load_comments("")
+    # comments = get_comments("https://www.youtube.com/watch?v=4DCbZJh-Gk4")
+    comments = load_comments("comments_4DCbZJh-Gk4.json")
     # video_id = get_id(url)
 
     ### Analysis
@@ -42,7 +35,6 @@ def main():
 
         # Bert
         bert_score = utils.bert_classifier(comment)
-
         df_dict = {
             "Comment": comment,
             "Language": lang,
@@ -58,12 +50,13 @@ def main():
                 f"{checkpoints[i+1] :.0f}% of the comments have been analyzed\nTime elapsed: {elapsed_time :.2f} seconds"
             )  # shamelessly stolen from Comp. Ling. Notebook 8
 
-    df = utils.show_analysis(df_list, 10)
-    utils.save_analysis(df, "test")
+    df = pd.DataFrame(df_list)
+    utils.save_analysis(df, "test_debug")
 
     # print(get_likes(url))  # only prints likes and dislikes
     # print(get_likes(url, v=True))  # prints all data related to the video
 
 
 if __name__ == "__main__":
+    logging.set_verbosity_error()
     main()
