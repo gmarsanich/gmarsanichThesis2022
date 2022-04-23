@@ -65,10 +65,10 @@ def get_comments(video_url: str) -> list:
             next_page_token = response["nextPageToken"]
             save_comments(response)
     except KeyError:
-        with open(f"comments_{video_id}.json", "a", encoding="utf-8") as comments_file:
+        with open(f"comments_{video_id}.json", "w", encoding="utf-8") as comments_file:
             json.dump(comments, comments_file, ensure_ascii=False)
 
-    print(f"Written {len(comments)} comments to {comments_file.name}")
+    print(f"Written <{len(comments)}> comments to <{comments_file.name}>")
 
     return comments
 
