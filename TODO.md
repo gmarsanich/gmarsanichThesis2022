@@ -8,5 +8,3 @@
 - Check correlation between models
 - Make Vader range same as BERT and TextBlob
 - Automate video collection
-- Make it faster
-  - BERT is the bottleneck
