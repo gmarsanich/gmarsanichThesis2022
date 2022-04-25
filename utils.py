@@ -1,8 +1,5 @@
-from itertools import combinations
-
 import pandas as pd
 import spacy
-from scipy.stats import pearsonr
 from spacy.language import Language
 from spacy_langdetect import LanguageDetector
 from textblob import TextBlob
@@ -25,11 +22,19 @@ def detect_language(text: str) -> str:
     return doc._.language["language"]
 
 
-def bert_classifier(s: str) -> float:
+def bert_classifier(lst: list) -> list:
 
-    """This function returns a sentiment score using the BERT sentiment analysis pipeline"""
+    """This function returns a sentiment score using the BERT sentiment analysis pipeline
+    This function is fundamentally different from the other 2 analysis functions in this file:
+    If a single input is passed, the BERT based classifier can take around 15 seconds to process it and return a score
+    Instead, if a list of inputs is passed, the classifier is likely to take up less time.
+    For example, iterating through a list of n strings and passing each element through the classifier,
+    we can expect a computation time of ~15 * n seconds. If an entire list is passed, this is not the case.
+    For 100 strings, we can expect this classifier to take around 30-40 seconds to process the entire list.
+    This is still orders of magnitude slower than Vader or Textblob, but it means that it can process 100 strings in less than 20 minutes
+    """
 
-    model_name = "distilbert-base-multilingual-cased"
+    model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
@@ -37,18 +42,25 @@ def bert_classifier(s: str) -> float:
         "sentiment-analysis", model=model, tokenizer=tokenizer, device=0
     )
 
-    initial_str = classifier(s)
+    t = classifier(lst)  # classifier returns list of dict
 
-    label, score = initial_str[0]["label"], initial_str[0]["score"]
+    l = []
 
     pos = ["5 stars", "4 stars"]
     neg = ["1 star", "2 stars"]
     neutral = ["2 stars", "3 stars"]
 
-    if label in pos or label in neutral:
-        return score
-    if label in neg:
-        return score * -1
+    for dict_, comment in zip(t, lst):
+
+        if dict_["label"] in pos or dict_["label"] in neutral:
+            dict_["score"] *= 1
+
+        if dict_["label"] in neg:
+            dict_["score"] *= -1
+
+        l.append(dict_["score"])
+
+    return l
 
 
 def vader_classifier(s: str) -> float:
@@ -77,19 +89,6 @@ def textblob_classifier(s: str) -> float:
 
 
 # Wrapper functions for pandas methods
-
-
-def show_analysis(analyzed_comments: list, n: int = 4) -> pd.DataFrame:
-
-    """This function prints the head of the dataframe. The parameter n determines how many rows are printed
-    It also returns the entire dataframe but does not print it
-    """
-
-    print(f"Analysis of comments")
-    df = pd.DataFrame(analyzed_comments)
-    df.style.set_properties(**{"text-align": "center"})
-    print(df.head(n))
-    return df
 
 
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
