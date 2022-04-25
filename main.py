@@ -35,6 +35,7 @@ def main():
 
         # Bert
         bert_score = utils.bert_classifier(comment)
+
         df_dict = {
             "Comment": comment,
             "Language": lang,
