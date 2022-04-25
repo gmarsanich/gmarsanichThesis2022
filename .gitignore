@@ -4,3 +4,4 @@ __pycache__
 *.csv
 *__.py
 *__.txt
+tests
