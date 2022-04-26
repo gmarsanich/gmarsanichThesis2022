@@ -4,8 +4,33 @@ from os import path
 import googleapiclient.discovery
 import requests
 from pytube import extract
+from serpapi import GoogleSearch
 
 import key__
+
+
+def get_videos(search_term: str) -> list:
+
+    """This function takes a search term and returns a list of videos related to that term
+    BEWARE: this function returns a list of lists which I can't seem to be able to flatten within the function
+    """
+
+    params = {
+        "api_key": key__.SEARCH_KEY,
+        "engine": "youtube",
+        "search_query": search_term,
+    }
+
+    urls = []
+
+    search = GoogleSearch(params)
+    results = search.get_dict()
+
+    response = []
+    for result in results["video_results"]:
+        response.append(result["link"])
+
+    return response
 
 
 def get_id(video_url: str) -> str:
