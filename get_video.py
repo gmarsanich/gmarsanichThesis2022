@@ -114,13 +114,9 @@ def load_comments(filename: str) -> list:
         assert False, f"File <{filename}> not found"
 
 
-def get_likes(video_url: str, v=False) -> str:
+def get_likes(video_url: str) -> str or dict:
 
     """Calls the Return YouTube Dislike API and saves the json response
-
-    It takes an optional argument v. If v is true, then the function returns all the data associated with the video
-    Otherwise, it only returns the likes and dislikes
-
     Code adapted from returnyoutubedislike.com
 
     """
@@ -131,16 +127,8 @@ def get_likes(video_url: str, v=False) -> str:
 
     data = requests.get("https://returnyoutubedislikeapi.com/votes?", params=payload)
 
-    with open(f"comments_{str(video_id)}_likes.json", "wb") as fd:
-        for chunk in data.iter_content(chunk_size=128):
-            fd.write(chunk)
+    data = data.json()
 
-    with open(f"comments_{str(video_id)}_likes.json", "r") as f:
-        data = json.load(f)
+    likes, dislikes = data["likes"], data["dislikes"]
 
-    ratio = round(data["likes"] / data["dislikes"], 3)
-
-    if v:
-        return f"The video with ID <{video_id}> has the following data: {data}"
-    else:
-        return f"The video with ID <{video_id}> has the following like to dislike counts: {data['likes']} - {data['dislikes']}\nRatio = {ratio} likes for every dislike"
+    return {"URL": video_url, "likes": likes, "dislikes": dislikes}
