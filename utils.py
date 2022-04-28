@@ -96,7 +96,7 @@ def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
     If a filename is not provided the function will not save to file.
     """
     if filename:
-        df.to_csv(f"analysis_{filename}.csv")
+        df.to_csv(f"analysis_{filename}.csv", index=False)
         print(f"saved to <analysis_{filename}.csv>")
     else:
         return "A filename is required to save the results"
