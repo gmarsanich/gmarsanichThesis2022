@@ -1,3 +1,7 @@
+import os
+import pathlib
+import shutil
+
 import pandas as pd
 import spacy
 from spacy.language import Language
@@ -88,9 +92,6 @@ def textblob_classifier(s: str) -> float:
     return blob_score
 
 
-# Wrapper functions for pandas methods
-
-
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
     """To save the results to a CSV file, a filename must be provided.
     If a filename is not provided the function will not save to file.
@@ -100,3 +101,12 @@ def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
         print(f"saved to <analysis_{filename}.csv>")
     else:
         return "A filename is required to save the results"
+
+
+def move_dir(filename: str, destination: str, pattern: str = "*"):
+    """This function moves a file to a new directory"""
+    curdir = os.getcwd()
+    original = f"{curdir}\\{filename}"
+    target = f"{destination}\\{filename}"
+    shutil.move(original, target)
+    print(f"Moved <{filename}> to <{target}>")
