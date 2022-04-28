@@ -43,7 +43,7 @@ def get_id(video_url: str) -> str:
 
 def get_comments(video_url: str) -> list:
 
-    """This function is not intended for use in the main application.
+    """This function is a garbled mess of spaghetti code
     It calls the YouTube API and collects the json response with raw comment data.
     It then removes any data that is not the comment text and writes it to a json file
     Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/"""
@@ -57,15 +57,29 @@ def get_comments(video_url: str) -> list:
         api_service_name, api_version, developerKey=DEVELOPER_KEY
     )
 
-    def save_comments(response: dict) -> None:
+    def extract_comments(response: dict) -> None:
         for item in response["items"]:
             comment = item["snippet"]["topLevelComment"]
             text = comment["snippet"]["textDisplay"]
-            comments.append(
-                text.strip()
-            )  # creating the list list of comments within the function, appending to it and returning it breaks the loop and it will always return 100 comments
+            clean = text.strip()
+            comments.append(clean)
+            # creating the list list of comments within the function, appending to it and returning it breaks the loop and it will always return 100 comments
 
-    def get_comment_threads(youtube: object, video_id: str, nextPageToken: str):
+    # special case for videos with less than 100 commments
+    def get_comment_threads_no_npt(youtube: object, video_id: str) -> dict:
+        results = (
+            youtube.commentThreads()
+            .list(
+                part="snippet",
+                maxResults=100,
+                videoId=video_id,
+                textFormat="plainText",
+            )
+            .execute()
+        )
+        return results
+
+    def get_comment_threads(youtube: object, video_id: str, nextPageToken: str) -> dict:
         results = (
             youtube.commentThreads()
             .list(
@@ -79,21 +93,38 @@ def get_comments(video_url: str) -> list:
         )
         return results
 
+    def save_comments(filename: str) -> None:
+        with open(filename, "w", encoding="utf-8") as comments_file:
+            json.dump(comments, comments_file, ensure_ascii=False)
+        print(f"Written <{len(comments)}> comments to <{comments_file.name}>")
+
     video_id = get_id(video_url)
     response = get_comment_threads(youtube, video_id, "")
-    next_page_token = response["nextPageToken"]
-    save_comments(response)
+
+    # If a video has less than 100 comments, run the no_npt version of the function
 
     try:
-        while next_page_token:
+        next_page_token = response["nextPageToken"]
+    except KeyError:
+        response = get_comment_threads_no_npt(
+            youtube,
+            video_id,
+        )
+        extract_comments(response)
+        save_comments(filename=f"comments_{video_id}.json")
+        return comments
+
+    # If it has more than 100 comments, keep trying until next_page_token is empty
+
+    try:
+        while next_page_token and len(comments) <= 450:
             response = get_comment_threads(youtube, video_id, next_page_token)
             next_page_token = response["nextPageToken"]
-            save_comments(response)
+            extract_comments(response)
     except KeyError:
-        with open(f"comments_{video_id}.json", "w", encoding="utf-8") as comments_file:
-            json.dump(comments, comments_file, ensure_ascii=False)
+        save_comments(filename=f"comments_{video_id}.json")
 
-    print(f"Written <{len(comments)}> comments to <{comments_file.name}>")
+    save_comments(filename=f"comments_{video_id}.json")
 
     return comments
 
