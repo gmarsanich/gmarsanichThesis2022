@@ -92,6 +92,44 @@ def textblob_classifier(s: str) -> float:
     return blob_score
 
 
+def generate_labels(lst: list, model_name: str) -> list:
+
+    """This function generates labels for sentiment scores for a given model"""
+
+    if model_name == "vader":
+        vader_labels = []
+        for score in lst:
+            if score >= 0.05:
+                vader_labels.append("Positive")
+            if score > -0.05 and score < 0.05:
+                vader_labels.append("Neutral")
+            if score <= -0.05:
+                vader_labels.append("Negative")
+        return vader_labels
+
+    if model_name == "bert":
+        bert_labels = []
+        for score in lst:
+            if score >= 0.33:
+                bert_labels.append("Positive")
+            if score >= 0 and score < 0.33:
+                bert_labels.append("Netural")
+            if score < 0:
+                bert_labels.append("Negative")
+        return bert_labels
+
+    if model_name == "blob":
+        blob_labels = []
+        for score in lst:
+            if score >= 0.33:
+                blob_labels.append("Positive")
+            if score >= 0 and score < 0.33:
+                blob_labels.append("Netural")
+            if score < 0:
+                blob_labels.append("Negative")
+        return blob_labels
+
+
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
     """To save the results to a CSV file, a filename must be provided.
     If a filename is not provided the function will not save to file.
