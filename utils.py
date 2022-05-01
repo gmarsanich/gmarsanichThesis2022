@@ -9,21 +9,30 @@ from spacy_langdetect import LanguageDetector
 from textblob import TextBlob
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import deepl
+import key__
+import langdetect as ld
 
 
 def detect_language(text: str) -> str:
 
-    """This function takes a string and detects the language it's most likely written in using the SpaCy library"""
+    """This function detects the language of a given text"""
 
-    def get_lang_detector(nlp, name):
-        """Required by SpaCy"""
-        return LanguageDetector()
+    try:
+        lang = ld.detect(text)
+    except ld.lang_detect_exception.LangDetectException:
+        lang = "NA"
+    return lang
 
-    nlp = spacy.load("en_core_web_sm")
-    Language.factory("language_detector", func=get_lang_detector)
-    nlp.add_pipe("language_detector", last=True)
-    doc = nlp(text)
-    return doc._.language["language"]
+
+def translate(text: str, src: str) -> str:
+
+    """This function translates a given text into English using the Deepl API"""
+
+    auth_key = key__.DEEPL_KEY
+    translator = deepl.Translator(auth_key)
+    result = translator.translate_text(text, target_lang="EN-US")
+    return str(result)
 
 
 def bert_classifier(lst: list) -> list:
