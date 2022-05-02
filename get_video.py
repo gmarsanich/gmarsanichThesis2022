@@ -117,7 +117,7 @@ def get_comments(video_url: str) -> list:
     # If it has more than 100 comments, keep trying until next_page_token is empty
 
     try:
-        while next_page_token and len(comments) <= 450:
+        while next_page_token and len(comments) <= 500:
             response = get_comment_threads(youtube, video_id, next_page_token)
             next_page_token = response["nextPageToken"]
             extract_comments(response)
