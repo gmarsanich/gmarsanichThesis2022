@@ -1,6 +1,7 @@
 # main.py
 
-- Calculate accuracy of prediction
-- Implement scoring for comment sentiment
 - Process comments and store results somewhere
-- Instantiate correct model for language
+  - Best to do it in batches
+- Implement scoring for comment sentiment
+- Run prediction based
+- Calculate accuracy of prediction
