@@ -31,7 +31,10 @@ def translate(text: str, src: str) -> str:
 
     auth_key = key__.DEEPL_KEY
     translator = deepl.Translator(auth_key)
-    result = translator.translate_text(text, target_lang="EN-US")
+    try:
+        result = translator.translate_text(text, target_lang="EN-US")
+    except ValueError:
+        result = text
     return str(result)
 
 
@@ -55,7 +58,7 @@ def bert_classifier(lst: list) -> list:
         "sentiment-analysis", model=model, tokenizer=tokenizer, device=0
     )
 
-    t = classifier(lst)  # classifier returns list of dict
+    t = classifier(lst, truncation=True)  # classifier returns list of dict
 
     l = []
 
@@ -150,9 +153,11 @@ def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
         return "A filename is required to save the results"
 
 
-def move_dir(filename: str, destination: str, pattern: str = "*"):
+def move_dir(
+    filename: str, destination: str, pattern: str = "*", source: str = os.getcwd()
+) -> None:
     """This function moves a file to a new directory"""
-    curdir = os.getcwd()
+    curdir = source
     original = f"{curdir}\\{filename}"
     target = f"{destination}\\{filename}"
     shutil.move(original, target)
