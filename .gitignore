@@ -1,11 +1,12 @@
 __pycache__
-*.json
 *.bak
-*.csv
 *__.py
 *__.txt
+*__.csv
+*__.json
 tests
 !analysis_top50_ratio.csv
 !links.json
 !videos__.json
 !half_links.json
+Trash
