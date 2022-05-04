@@ -161,3 +161,23 @@ def move_dir(
     target = f"{destination}\\{filename}"
     shutil.move(original, target)
     print(f"Moved <{filename}> to <{target}>")
+
+
+def find_missing(directory: str) -> list:
+
+    "This function takes in a directory and returns a list of files that have not been analyzed"
+
+    target_dir = directory
+    data = os.listdir(target_dir)
+    os.chdir(directory)
+
+    c = [file for file in data if file.endswith(".csv")]
+    j = [file for file in data if file.endswith(".json")]
+
+    newfjl = []
+    for fj in j:
+        newfj = f"analysis_{fj}.csv"
+        newfjl.append(newfj)
+
+    missing = [f for f in newfjl if f not in c]
+    return missing
