@@ -1,0 +1,846 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+كون,0.0,Neutral,0.0,Netural,0.30486026406288147,Netural
+دو دو دو,0.0,Neutral,0.0,Netural,0.2626095414161682,Netural
+المال,0.0,Neutral,0.0,Netural,0.2945982813835144,Netural
+لاليسا,0.0,Neutral,0.0,Netural,0.2621774971485138,Netural
+السواد الزهري,0.0,Neutral,-0.1,Negative,0.2628479301929474,Netural
+فتيات متيمات للحب,0.6369,Positive,0.5,Positive,0.3201789855957031,Netural
+Don't leave me alone:(,0.2235,Positive,-0.75,Negative,-0.30163809657096863,Negative
+كيف تحب ذلك ؟,0.3612,Positive,0.0,Netural,0.5704038143157959,Positive
+Hit u with that ddddu ah yeah ah yeah :),0.7506,Positive,0.5,Positive,0.5776643753051758,Positive
+LILISA,0.0,Neutral,0.0,Netural,0.2533727288246155,Netural
+Don't know what to do without you,0.0,Neutral,0.0,Netural,-0.2220245748758316,Negative
+Wanna listen a joke ?,0.296,Positive,0.0,Netural,-0.710944652557373,Negative
+♡,0.0,Neutral,0.0,Netural,0.5759676098823547,Positive
+"@rory why you don't come today
+:'(",0.3875,Positive,-1.0,Negative,-0.33158811926841736,Negative
+"421,515",0.0,Neutral,0.0,Netural,0.24391938745975494,Netural
+❤❤❤❤❤❤❤❤🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️🥰🥰🥰🥰🥰,0.998,Positive,0.0,Netural,0.30857792496681213,Netural
+Str3am fast blinks,0.0,Neutral,0.2,Netural,-0.3350573480129242,Negative
+VAMOS POR LOS 2B,0.0,Neutral,0.0,Netural,-0.26519590616226196,Negative
+Look up in the sky it's a bird it's a plane,0.0,Neutral,0.0,Netural,-0.27728745341300964,Negative
+1.9B Let's go !!!!!!,0.0,Neutral,0.0,Netural,-0.4411163032054901,Negative
+Hi,0.0,Neutral,0.0,Netural,0.23648656904697418,Netural
+"Blackpink we all blinks appreciate your hardwork we love you so much .
+They always provide me emotional support.  They really have a special place in my heart.  I will love you guys till the end of time. You guys made me involve in kpop . I don't know what would I do if you guys aren't here . I love you so much from my heart.  I will literally don't want to live if they disband.  I hope they will renew their contract",0.9868,Positive,0.2881673881673882,Netural,0.8010441660881042,Positive
+Hlo every one hlo,0.0,Neutral,0.0,Netural,-0.47849205136299133,Negative
+Satroopa behra are you here ?,0.0,Neutral,0.0,Netural,-0.23112209141254425,Negative
+Saamea Sarfaraz are you here ?,0.0,Neutral,0.0,Netural,-0.2664753794670105,Negative
+ِ,0.0,Neutral,0.0,Netural,0.2846148908138275,Netural
+ج,0.0,Neutral,0.0,Netural,0.25274091958999634,Netural
+م,0.0,Neutral,0.0,Netural,0.27192965149879456,Netural
+عندنا الساعه 4:53,0.0,Neutral,0.0,Netural,-0.2567877173423767,Negative
+قاعد اس.ترم,0.0,Neutral,0.0,Netural,0.24300242960453033,Netural
+Are yll here ?,0.0,Neutral,0.0,Netural,-0.3463138937950134,Negative
+Guysss pleaseeeee I begggggg you all to str3am it as much as you cannnnnn pleasessss <3,0.4404,Positive,0.6,Positive,0.47296658158302307,Positive
+Lisa,0.0,Neutral,0.0,Netural,0.31730103492736816,Netural
+2b,0.0,Neutral,0.0,Netural,0.3122630715370178,Netural
+Jennie's rap is faster than my internet connection,0.0,Neutral,0.0,Netural,0.519210934638977,Positive
+🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰🍰,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Anyone here??,0.0,Neutral,0.0,Netural,-0.5595164895057678,Negative
+str3aming,0.0,Neutral,0.0,Netural,-0.2536984980106354,Negative
+"Heyyy EVERYONE
+I am back;",0.0,Neutral,0.0,Netural,-0.38852524757385254,Negative
+Guys don't give up . Keep str3aming,0.0,Neutral,0.0,Netural,0.30486878752708435,Netural
+"15 complete
+°°°°°°°°°°°°°°°°°°°",0.0,Neutral,0.1,Netural,0.39245665073394775,Positive
+"Blinks, Dudududu is very close to 2 billion!!
+Let us stream it!!!
+Go Blinks!!!",0.0,Neutral,1.0,Positive,-0.813161313533783,Negative
+I LOVE YOU BLACPINK,0.6369,Positive,0.5,Positive,0.7346548438072205,Positive
+واو,0.5859,Positive,0.1,Netural,0.27531537413597107,Netural
+I LOVE YOU LISA,0.6369,Positive,0.5,Positive,0.8346372842788696,Positive
+I LOVE YOU JISOO,0.6369,Positive,0.5,Positive,0.8173805475234985,Positive
+I like this duu du duu du song 😘,0.6486,Positive,0.0,Netural,0.6448779106140137,Positive
+I LOVE YOU ROSÈ,0.6369,Positive,0.5,Positive,0.836286723613739,Positive
+I LOVE YOU JENNIE,0.6369,Positive,0.5,Positive,0.805708646774292,Positive
+Stre@m we need atleast 900k everyday it is getting only 500k daily ;-;,0.0,Neutral,-0.06666666666666667,Negative,-0.3328370749950409,Negative
+I am back,0.0,Neutral,0.0,Netural,0.37767863273620605,Positive
+"1B, 860, 406
+BLINKs, lets stream DDU-DU DDU-DU more. We only need 39.5M vi3ws to complete 1.9B and 139.5M vi3ws for 2B",0.0,Neutral,0.19999999999999998,Netural,-0.3627248704433441,Negative
+"How many are stea3ming ?
+ Present !!",0.0,Neutral,0.25,Netural,-0.32629212737083435,Negative
+We want black pink x bts pls support blinks,0.5106,Positive,-0.13333333333333333,Negative,0.23810452222824097,Netural
+"401,374",0.0,Neutral,0.0,Netural,0.25971344113349915,Netural
+Woww no one is $treaming,0.3818,Positive,0.1,Netural,-0.4256228804588318,Negative
+Hey hey any one here?,0.0,Neutral,0.0,Netural,-0.4335781931877136,Negative
+🙂🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰,0.9987,Positive,0.0,Netural,0.30857792496681213,Netural
+Yaaa fighting,-0.3612,Negative,0.0,Netural,0.23854699730873108,Netural
+Happy 73.9M subscribers,0.5719,Positive,0.8,Positive,0.6321983337402344,Positive
+"1860M 
+Blinks! Keep streaming.  Let's claim 2B asap! Let's make another history for our pinks!",0.0,Neutral,0.0,Netural,-0.3772841989994049,Negative
+Heyyyy,0.0,Neutral,0.0,Netural,-0.2575046718120575,Negative
+Slaypink,0.0,Neutral,0.0,Netural,-0.3634638488292694,Negative
+LOVE.   💗🖤🇰🇷📞📲🎁,0.9291,Positive,0.5,Positive,0.6842993497848511,Positive
+"13 complete 
+°°°°°°°°°°°°°°°°°°°",0.0,Neutral,0.1,Netural,0.3883897364139557,Positive
+"395,207",0.0,Neutral,0.0,Netural,0.2564093768596649,Netural
+Let's get it to 2B,0.0,Neutral,0.0,Netural,0.32740211486816406,Netural
+Bye guys I will come later,0.0,Neutral,0.0,Netural,0.41800791025161743,Positive
+"We are very slow it look impossible to reach 1,000,000
+Fighting blink",-0.34,Negative,-0.5283333333333333,Negative,-0.5094671249389648,Negative
+Esa é minha música preferida do k pop coreano,0.4588,Positive,0.5,Positive,0.6251257061958313,Positive
+Hãy tặng Blackpink món quà ý nghĩa nào Blink: 2 tỷ view nhân ngày 8/8😘,0.7906,Positive,0.5,Positive,-0.5611293911933899,Negative
+Let's continue to reproduce this gem. LET'S GET 2 BILLION!!,0.0,Neutral,0.0,Netural,0.6413512825965881,Positive
+"ㅡ ㅓ모,ㅓ사,무시차",-0.2732,Negative,0.0,Netural,0.35237008333206177,Positive
+weh ini kapan 2b nya ayo streamm,0.5859,Positive,0.1,Netural,-0.3244009017944336,Negative
+Top 5 b-side track of BP?,0.2023,Positive,0.5,Positive,0.764933705329895,Positive
+Have you checked lesserafim debut fearless??,0.504,Positive,0.0,Netural,-0.47595128417015076,Negative
+The daily vi32s should increase to 1.2M,0.3182,Positive,0.0,Netural,0.3044999837875366,Netural
+Neden guyu biyti sil fil yesim,0.0,Neutral,0.0,Netural,-0.3528781235218048,Negative
+hi,0.0,Neutral,0.0,Netural,0.23648656904697418,Netural
+"Jisoo is a visual queen
+Jennie is a rap queen
+Rosé is a vocal queen
+Lisa is a dance queen",0.0,Neutral,0.0,Netural,0.33144065737724304,Positive
+"10 completed 
+°°°°°°°°°°°°°°°°°°°°",0.0,Neutral,0.0,Netural,0.6028433442115784,Positive
+eu dansa as músicas suas,0.0,Neutral,0.0,Netural,0.43813687562942505,Positive
+나는 당신의 팬입니다,0.3182,Positive,0.0,Netural,0.6525405049324036,Positive
+블랙핑크 당신은 매우 아름답고 아름답습니다,0.854,Positive,0.925,Positive,0.8076587319374084,Positive
+"I still can't get over this song, it's just so beautiful, so artistic, breath taking rap and vocals and visuals, it just perfectt",0.7177,Positive,0.5916666666666667,Positive,0.8932487368583679,Positive
+"373,886",0.0,Neutral,0.0,Netural,0.2499341517686844,Netural
+Im back :),0.4588,Positive,0.25,Netural,0.2931008040904999,Netural
+"Jisoo's short hair, so gorgeous",0.7283,Positive,0.35,Positive,0.72756427526474,Positive
+"373,886",0.0,Neutral,0.0,Netural,0.2499341517686844,Netural
+"It does not matter, even if a century passes, the d4 still shines.",-0.0191,Neutral,0.0,Netural,0.4011252224445343,Positive
+Wow i really like this song. It's so addictive,0.7645,Positive,0.10000000000000002,Netural,0.8589993715286255,Positive
+2B soon goooo dont stop,0.2235,Positive,0.0,Netural,-0.4721342921257019,Negative
+"374,000",0.0,Neutral,0.0,Netural,-0.3974136710166931,Negative
+"Ayo blinks we can make it to 2B.
+but idk why it seems stuck, or mybe it just bc of my internet connection",-0.4767,Negative,0.0,Netural,0.35864365100860596,Positive
+REINAS LAS AMOOOOO,0.6369,Positive,0.5,Positive,0.48889288306236267,Positive
+Amor esa música e a minha música preferida,0.802,Positive,0.5,Positive,0.7152674198150635,Positive
+Rose te amo flaca,0.6369,Positive,0.55,Positive,-0.4556719958782196,Negative
+STREAM BLINKSSS,0.0,Neutral,0.0,Netural,-0.3802674114704132,Negative
+"Bye blinks
+I gotta go",0.0,Neutral,0.0,Netural,0.32204052805900574,Netural
+Fun fact : Blackpink is queen of kpop,0.5106,Positive,0.3,Netural,0.4907611012458801,Positive
+Blinks let’s take this song to 2 billion!🖤💗,0.8858,Positive,0.0,Netural,-0.6484540104866028,Negative
+Blackpink in your area,0.0,Neutral,0.0,Netural,0.4502510726451874,Positive
+Guys lets try to get this song at 2b before there 4th anniversary!,0.0,Neutral,0.0,Netural,0.3706161677837372,Positive
+Why we are so slow :<,-0.5233,Negative,-0.30000000000000004,Negative,-0.37594887614250183,Negative
+Yyyyyyyyyyyyyyyyyyyyyyyyyyyy,0.0,Neutral,0.0,Netural,-0.2903057634830475,Negative
+"363,403",0.0,Neutral,0.0,Netural,0.28936225175857544,Netural
+2B let's go,0.0,Neutral,0.0,Netural,0.3027091920375824,Netural
+"362,026",0.0,Neutral,0.0,Netural,-0.2867675721645355,Negative
+Hay◉‿◉,0.0,Neutral,0.0,Netural,0.2963923513889313,Netural
+watch this vidio in low speed 😂😂,0.5719,Positive,0.0,Netural,0.32121995091438293,Netural
+"Attention everyone
+I am leaving the fandom blink
+Yeah it's time to say goodbye",0.296,Positive,0.0,Netural,-0.5870973467826843,Negative
+I remembered this time yesterday was so many BLINKS but today,0.0,Neutral,0.5,Positive,0.3400692641735077,Positive
+Str3am this blinks and other song also,0.0,Neutral,-0.125,Negative,-0.45896872878074646,Negative
+LETS GO 2B‼️,0.0,Neutral,0.0,Netural,0.2856503427028656,Netural
+"Str3aming guide for blackpink mv
+
+•always use search bar
+
+• video quality at least 480 hp
+
+• watch full
+
+• Never replay the mv, always listen 2-3 songs in gap (so you can str3am other songs too)
+
+• use the word like vi3ws,lik3s, str3am, em0j!$
+
+•watching in 2x speed don't work
+
+•leave a reply after watching
+
+•if someone is spamming, then reply dots in
+his/her comment
+""...................""
+
+I hope it will help and you guys str3am
+
+And also you can str3am KTL ,  I mean make d4 and ktl as you r main",0.6476,Positive,-0.050416666666666665,Negative,-0.35774344205856323,Negative
+No one is str3aming :-\,-0.4767,Negative,0.0,Netural,-0.5151917338371277,Negative
+"359,233",0.0,Neutral,0.0,Netural,0.2845483422279358,Netural
+"Fan BLACKPINK
+Wow",0.5859,Positive,0.1,Netural,0.5839871168136597,Positive
+How many people got into K-Pop too bc of this song?👇,0.0,Neutral,0.5,Positive,-0.3711070120334625,Negative
+DDDDDDDDDDDD IS THE BEST I LOVE BLACKPICK,0.8555,Positive,0.75,Positive,0.8190779089927673,Positive
+🥰😍🤩😘❤❤❤❤❤wow,0.9847,Positive,0.0,Netural,0.30857792496681213,Netural
+Mag kambak na kyo,0.0,Neutral,0.0,Netural,0.36901989579200745,Positive
+Hiii,0.0,Neutral,0.0,Netural,0.27937567234039307,Netural
+blinks forever,0.0,Neutral,0.0,Netural,0.4665266275405884,Positive
+blackpink in your area <3,0.4404,Positive,1.0,Positive,0.2896932363510132,Netural
+please please let’s get to 2b for our pinks!,0.5983,Positive,0.0,Netural,-0.26206883788108826,Negative
+"|STREAMING GUIDE!!!|
+• Don't use emojis. It can freeze the views.
+• Never replay the video. Give at least 10 to 15 min gap
+• If someone is spamming reply in dots ""..........""
+•  Video quality at least 480p
+•  Always use search bar.
+
+( We are very slow we need to increase our speed. Inform this to all the BLINKS we need them. Let's go we can achieve 2B)",-0.3561,Negative,-0.33,Negative,-0.4280124306678772,Negative
+🔥🔥🤩🤩🥇,-0.1779,Negative,0.0,Netural,0.30857792496681213,Netural
+I love you black pink,0.6369,Positive,0.07777777777777779,Netural,0.8163804411888123,Positive
+Soooooooooo nice 👍,0.4215,Positive,0.6,Positive,0.4476776123046875,Positive
+Love from India 2b soon fighting!!,0.508,Positive,0.78125,Positive,0.6721897125244141,Positive
+Blink let's make a gift to our idols.Before their comeback we make the mv of ddu-du-ddu-du to 2 billion.We can do it.Come on blink.We make our blackpink happy as they do it all the time🖤💖🖤💖🖤💖,0.9902,Positive,0.8,Positive,0.5189225077629089,Positive
+BLACKPINK THE BEST GIRL GROUP,0.6369,Positive,1.0,Positive,0.82411789894104,Positive
+"349,953",0.0,Neutral,0.0,Netural,0.24810369312763214,Netural
+Hi black pink in am your big fan 🤟🏻,0.3182,Positive,-0.08888888888888889,Negative,0.7239673137664795,Positive
+DDDD IS THE BEST BP SONG EVER!,0.6696,Positive,1.0,Positive,0.9210081100463867,Positive
+Quiz: who own du du du du Era?,0.0,Neutral,0.6,Positive,-0.29754990339279175,Negative
+"Avocado, where are you from??",0.0,Neutral,0.0,Netural,-0.34124821424484253,Negative
+"344,543",0.0,Neutral,0.0,Netural,0.25513342022895813,Netural
+"This never gets old 
+On the way to 2B",0.0,Neutral,0.1,Netural,0.304639995098114,Netural
+Bruh why can't people stop using em0j!s,0.2914,Positive,0.0,Netural,-0.5023236274719238,Negative
+Dear idi*ts get out,0.3818,Positive,0.0,Netural,-0.3807202875614166,Negative
+Toma ya 😁😁😁😁😁😁😁,0.9638,Positive,0.0,Netural,0.4221723675727844,Positive
+💜💜💜💜💜💜,0.9803,Positive,0.0,Netural,0.30857792496681213,Netural
+💜💜💜💜💜💜💜💜💜💜💜💜,0.995,Positive,0.0,Netural,0.30857792496681213,Netural
+Str3am guyss,0.0,Neutral,0.0,Netural,0.3826473653316498,Positive
+"343,333",0.0,Neutral,0.0,Netural,0.2684640884399414,Netural
+"Jennie: có một vẻ đẹp sang trọng , thần thái . Nhìn vào cứ tưởng là tiểu thư tài phiệt
+Jisoo: có một vẻ đẹp thuần khiết , đáng yêu. Kiểu như hoa hậu Hàn Quốc
+Lisa: có vẻ đẹp tựa búp bê sống , có body quá đẹp lun
+Rose: có vẻ đẹp ngọt ngào, nữ tính . Một đoá hoa hồng kiều diễm 
+Các cô gái Hắc Hường thật tài năng, giàu có và xinh đẹp ♥️",0.9948,Positive,0.5899350649350649,Positive,0.4253378212451935,Positive
+"|*str3@m!ng guide*|
+• don't use em0j!$. It can freeze the vi3ws.
+• Never replay the video. Give at least 10 to 15 min gap
+• If someone is sp@mm!ng reply in dots
+..........
+•  video quality at least 480p
+•  always use search bar.
+
+( We are very slow we need to increase our speed. Inform this to all the BLINKS we need them. Let's go we can achieve 2B)",0.5229,Positive,-0.33,Negative,-0.4168202579021454,Negative
+나는 인도에서 온 모든 노래를 좋아합니다.,0.6369,Positive,0.5,Positive,0.7097680568695068,Positive
+"Kim¹²³ is preethi, remember her??",0.0,Neutral,0.0,Netural,-0.2945098280906677,Negative
+love from India,0.6369,Positive,0.5,Positive,0.5484558939933777,Positive
+"Ok now I can comment
+Btw this is my 2nd acc",0.296,Positive,0.25,Netural,0.3419762849807739,Positive
+Go to 2b,0.0,Neutral,0.0,Netural,-0.2901446521282196,Negative
+Last time look this dress all blackpink so beautiful 💖,0.9175,Positive,0.425,Positive,0.8490092754364014,Positive
+Uhh YouTube is deleting my comments,0.0,Neutral,0.0,Netural,-0.550207793712616,Negative
+8,0.0,Neutral,0.0,Netural,0.3862052261829376,Positive
+Avocado are you here ?,0.0,Neutral,0.0,Netural,0.21907877922058105,Netural
+"Hey, BLINKS I'm back",0.0,Neutral,0.0,Netural,-0.403688907623291,Negative
+Hello is anyone here are you guys dead,-0.6486,Negative,-0.2,Negative,-0.8687319755554199,Negative
+Keep str3aming blinks,0.0,Neutral,0.0,Netural,-0.3159745931625366,Negative
+Can Iove this several time,0.0,Neutral,0.0,Netural,0.3060436248779297,Netural
+ALL MY BLINKS ARE DEAD~,-0.6486,Negative,-0.2,Negative,-0.38456594944000244,Negative
+DuDuDuDu💜,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+All i is I can see is dead blinkss,-0.6486,Negative,-0.2,Negative,-0.28794264793395996,Negative
+Can we surpassed 1m today???,0.0,Neutral,0.0,Netural,-0.30483824014663696,Negative
+"323,907",0.0,Neutral,0.0,Netural,-0.23861907422542572,Negative
+jennie rap🔥🔥🔥,-0.7351,Negative,0.0,Netural,0.303007572889328,Netural
+💜💜💜💜💜💜💜💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕,0.9986,Positive,0.0,Netural,0.30857792496681213,Netural
+Is my comment is visible?,0.0,Neutral,0.0,Netural,0.28785768151283264,Netural
+Can you see my comment,0.0,Neutral,0.0,Netural,0.23787641525268555,Netural
+Rose😀😙😍,0.9042,Positive,0.0,Netural,0.30857792496681213,Netural
+"315,777",0.0,Neutral,0.0,Netural,0.28227436542510986,Netural
+3k in 2 min,0.0,Neutral,0.0,Netural,-0.22875742614269257,Negative
+"312,820",0.0,Neutral,0.0,Netural,0.23414351046085358,Netural
+Wow,0.5859,Positive,0.1,Netural,0.6995608806610107,Positive
+We need comeback,0.0,Neutral,0.0,Netural,0.23485341668128967,Netural
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+OMG   VAU😱😱😱😱😱😱😱😱😱😱😱😱💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘🤗🤗,0.9998,Positive,0.0,Netural,0.268912672996521,Netural
+Fanboy or fangirl ?,0.0,Neutral,0.0,Netural,0.2614571452140808,Netural
+"Lisa you are prity, I love you BLACKPINK ❤️❤️❤️",0.6369,Positive,0.5,Positive,0.7853228449821472,Positive
+Jennie rap still iconic,0.0,Neutral,0.5,Positive,0.6220056414604187,Positive
+I LOVE THIS SONG,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+Protect this record,0.3818,Positive,0.0,Netural,0.5604572296142578,Positive
+I love you BLACKPINK so much ❤️❤️❤️❤️❤️❤️😍💗💓💞❣️❣️❣️❣️❣️❣️❣️,0.9957,Positive,0.35,Positive,0.8921308517456055,Positive
+Gtg be back in some mins,0.0,Neutral,0.0,Netural,0.36902299523353577,Positive
+Vi3ws r freezed,0.0,Neutral,0.0,Netural,-0.4047863483428955,Negative
+STR@# D4,0.0,Neutral,0.0,Netural,0.27027660608291626,Netural
+We need to make our queens happy,0.5719,Positive,0.8,Positive,0.4879550039768219,Positive
+Who are str3aming?,0.0,Neutral,0.0,Netural,-0.46349650621414185,Negative
+"4k in 5min
+.......... at least it's not 2k:'(",0.0,Neutral,-0.65,Negative,-0.3467756509780884,Negative
+Hiii,0.0,Neutral,0.0,Netural,0.27937567234039307,Netural
+Hi Avocado and Saamea sarfaraz,0.0,Neutral,0.0,Netural,0.2570818364620209,Netural
+"299,154",0.0,Neutral,0.0,Netural,0.24327035248279572,Netural
+"299,260",0.0,Neutral,0.0,Netural,0.24843186140060425,Netural
+"294,483",0.0,Neutral,0.0,Netural,0.26541104912757874,Netural
+I love  your  song  can you all put more songs.,0.6369,Positive,0.5,Positive,0.8455535173416138,Positive
+"Hi lisa  ,jennie, jisoo and rose",0.0,Neutral,0.6,Positive,0.34993410110473633,Positive
+"Hi blinks please reply someone avacado ,saame,kim where are you all",0.3182,Positive,0.0,Netural,-0.5808958411216736,Negative
+Hi hello avacado and saame and kim,0.0,Neutral,0.0,Netural,0.308015376329422,Netural
+we need 140 million vi3ws,0.0,Neutral,0.0,Netural,-0.24914172291755676,Negative
+Hi blinks comments here lets talk,0.0,Neutral,0.0,Netural,-0.284121572971344,Negative
+"290,146",0.0,Neutral,0.0,Netural,0.25877025723457336,Netural
+BLINKSSS WHERE ARE YOU!!!,0.0,Neutral,0.0,Netural,-0.39425066113471985,Negative
+Guess who is in pfp without seeing it in large,0.0,Neutral,0.21428571428571427,Netural,0.2833532392978668,Netural
+Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink Blackpink,0.0,Neutral,0.0,Netural,0.2531263530254364,Netural
+Blessed eid,0.5994,Positive,0.0,Netural,0.8108677268028259,Positive
+"Is it OK I just watch it 15 times ?
+I am really tired today I think I want to rest........",0.0103,Neutral,0.04999999999999999,Netural,0.44004714488983154,Positive
+Lets make it 2b blinks,0.0,Neutral,0.0,Netural,-0.3108177185058594,Negative
+Saamea Sarfaraz and Avocado are you here ?,0.0,Neutral,0.0,Netural,-0.239669531583786,Negative
+Just imagine how 2b views look nice in this song,0.4215,Positive,0.6,Positive,0.4783816635608673,Positive
+Hey Don't use em0j!$,0.0,Neutral,0.0,Netural,-0.6404005289077759,Negative
+i can’t be the only one who’s still not tired of this song at all,0.3412,Positive,0.1,Netural,-0.3195957839488983,Negative
+Personally I’m not a K-pop fan but this chorus is STUCK in my head!,-0.6567,Negative,0.0,Netural,-0.36336851119995117,Negative
+Just Queen things😇😍😍😎😎,0.9325,Positive,0.0,Netural,0.5882949829101562,Positive
+"Str3aming guide for blackpink mv
+
+•always use search bar
+
+• video quality at least 480 hp
+
+• watch full
+
+• Never replay the mv, always listen 2-3 songs in gap (so you can str3am other songs too)
+
+• use the word like vi3ws,lik3s, str3am, em0j!$
+
+•watching in 2x speed don't work
+
+•leave a reply after watching
+
+•if someone is spamming, then reply dots in
+his/her comment
+""...................""
+
+I hope it will help and you guys str3am
+
+And also you can str3am KTL ,  I mean make d4 and ktl as you r main",0.6476,Positive,-0.050416666666666665,Negative,-0.35774344205856323,Negative
+BLACKPINK BEST GIRL GROUP EVER!!!!!!,0.7482,Positive,1.0,Positive,0.9301124811172485,Positive
+Still the best song ever!!!!,0.7482,Positive,1.0,Positive,0.8655812740325928,Positive
+This masterpiece is undoubtedly one of Blackpink's best songs.,0.8519,Positive,1.0,Positive,0.8828181624412537,Positive
+"282,320",0.0,Neutral,0.0,Netural,0.24962174892425537,Netural
+"Imagine, D4 will hit 2b then how much happy our pinks will be and we who str3am day and night, who live here 24/7, who have make so many frnds in a comment section, what we will do? Cry or happy?  Maybe both because it will become a memory of freindship, love and joy....
+Keep str3aming blinks and met Everyday and makes beautiful memories.",0.9556,Positive,0.5232954545454545,Positive,0.7013630867004395,Positive
+"379,321",0.0,Neutral,0.0,Netural,0.26614856719970703,Netural
+Str3am guys,0.0,Neutral,0.0,Netural,0.30086109042167664,Netural
+"Here I come kick in the door  
+Guess who's back",0.0,Neutral,0.0,Netural,-0.4253320097923279,Negative
+Blinks let's make it 2 billion!! fighting!!,-0.5673,Negative,0.0,Netural,-0.6321558356285095,Negative
+sin no😢,-0.2846,Negative,0.0,Netural,0.41308724880218506,Positive
+"Str3aming guide for blackpink mv
+
+•always use search bar
+
+• video quality at least 480 hp
+
+• watch full
+
+• Never replay the mv, always listen 2-3 songs in gap (so you can str3am other songs too)
+
+• use the word like vi3ws,lik3s, str3am, em0j!$
+
+•watching in 2x speed don't work
+
+•leave a reply after watching
+
+•if someone is spamming, then reply dots in
+his/her comment
+""...................""
+
+I hope it will help and you guys str3am
+
+And also you can str3am KTL ,  I mean make d4 and ktl as you r main",0.6476,Positive,-0.050416666666666665,Negative,-0.35774344205856323,Negative
+"id*ot, stop using em0j!$ it is freezing the Vi3ws",-0.4389,Negative,0.0,Netural,-0.7161983251571655,Negative
+Stop using em0ji$,-0.296,Negative,0.0,Netural,-0.574898362159729,Negative
+............,0.0,Neutral,0.0,Netural,-0.2577529847621918,Negative
+Blinks let's make this 2 billion,0.0,Neutral,0.0,Netural,-0.5296981930732727,Negative
+Hello please if you are a blink comments here 👇 hi,0.3182,Positive,0.0,Netural,-0.30998241901397705,Negative
+Anyone here? Im bored 😔,-0.2023,Negative,-0.5,Negative,-0.6358065605163574,Negative
+Please blinks be fast we need to watch it again and again 😭🙏 and please if you are a real blink then please watch it atleast 4 times,0.4215,Positive,0.2,Netural,0.26232799887657166,Netural
+2 Billion here we comeeee!!!,0.0,Neutral,0.0,Netural,-0.6799644231796265,Negative
+"When I say
+No one can be black pink
+ I don't lie",-0.296,Negative,-0.13333333333333333,Negative,-0.48570188879966736,Negative
+BP!!!! BLINKS!!!!,0.0,Neutral,0.0,Netural,-0.6407662034034729,Negative
+The song is still legendary,0.0,Neutral,1.0,Positive,0.45057958364486694,Positive
+"Blinks, we cant be slow 
+we have to make it 2B",0.0,Neutral,-0.30000000000000004,Negative,0.39405784010887146,Positive
+2 billion les go,0.0,Neutral,0.0,Netural,-0.38595080375671387,Negative
+"I see the stage on jisoo ,s singing time 😯",0.0,Neutral,0.0,Netural,0.3502880334854126,Positive
+WE REALLY NEED MORE BLINKIES HERE!,0.0,Neutral,0.4125,Positive,0.26206138730049133,Netural
+"266,086",0.0,Neutral,0.0,Netural,-0.32652798295021057,Negative
+Pls make a comeback,0.0772,Positive,0.0,Netural,0.2601635754108429,Netural
+WHY ARE WE SO SLOW?,0.0,Neutral,-0.30000000000000004,Negative,-0.3691674768924713,Negative
+사랑해요 블랙핑크 💖💖💖💖,0.9831,Positive,0.5,Positive,0.7040804028511047,Positive
+"5k in 15 minutes
+What else I can expect",0.0,Neutral,0.0,Netural,0.572630763053894,Positive
+"264,569",0.0,Neutral,0.0,Netural,0.25537118315696716,Netural
+Anyone here????,0.0,Neutral,0.0,Netural,-0.6814260482788086,Negative
+Blinks let's stre@m D4 and make it 2.B,0.0,Neutral,0.0,Netural,-0.3249933123588562,Negative
+Fangirl or fanboy?,0.0,Neutral,0.0,Netural,-0.28252527117729187,Negative
+I think mostly blinks str3am afternoon,0.0,Neutral,0.5,Positive,0.5092970728874207,Positive
+i love you all bp,0.6369,Positive,0.5,Positive,0.8672192096710205,Positive
+"259,470",0.0,Neutral,0.0,Netural,0.27017343044281006,Netural
+Way to go to 2 billion views. 🎉🎉🎉,0.7964,Positive,0.0,Netural,0.40460115671157837,Positive
+I am back blinks let's str3am,0.0,Neutral,0.0,Netural,-0.3738090991973877,Negative
+"Ilysm bp
+2billlion before the anniversary",0.0,Neutral,0.0,Netural,0.376006156206131,Positive
+1.86B,0.0,Neutral,0.0,Netural,0.24973098933696747,Netural
+"@Avocado @Rory @kateplusandrea
+@Saamea Sarfaraz @Aafifa Sheikh 
+I miss you guys were are you ?",-0.1531,Negative,0.0,Netural,-0.33507099747657776,Negative
+I thought its fake but lisa actually has a tail 😂 lol,0.7579,Positive,0.10000000000000002,Netural,-0.32483145594596863,Negative
+Best girls,0.6369,Positive,1.0,Positive,0.8934604525566101,Positive
+"248,900",0.0,Neutral,0.0,Netural,-0.31387242674827576,Negative
+JISOO SLAYS,0.0,Neutral,0.0,Netural,0.2518424391746521,Netural
+Why always stuck in 1.8 billion?,-0.25,Negative,0.0,Netural,-0.6097790002822876,Negative
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+Jisoo,0.0,Neutral,0.0,Netural,0.24822835624217987,Netural
+Blinks vamps fazer esse hit bate 2B de views,0.0,Neutral,0.0,Netural,-0.453349232673645,Negative
+Any blinks here ?,0.0,Neutral,0.0,Netural,-0.21897348761558533,Negative
+Do you want to do GT?,0.0772,Positive,0.0,Netural,0.25507888197898865,Netural
+I love black pink songs ❤❤❤❤❤❤,0.9854,Positive,0.07777777777777779,Netural,0.6399785876274109,Positive
+GT Yapmak İsteyen?,0.0772,Positive,0.0,Netural,-0.3497900366783142,Negative
+60230,0.0,Neutral,0.0,Netural,0.2583555579185486,Netural
+Esto es una joyita. Sin duda es una de las canciones mas iconicas del kpop.,0.0,Neutral,0.5,Positive,0.7366206645965576,Positive
+Hlo anyone here?,0.0,Neutral,0.0,Netural,-0.550247848033905,Negative
+La canción más iconica del kpop,0.0,Neutral,0.5,Positive,0.7348908185958862,Positive
+I hate jennie rap jennie face jennie copy CL 2ne1🧐🤯🙄🙄😒😏😑🤨🥴😡,-0.5719,Negative,-0.8,Negative,-0.47203895449638367,Negative
+We need jisoo solo,0.0,Neutral,0.0,Netural,0.3167491853237152,Netural
+My queens,0.0,Neutral,0.0,Netural,0.5999004244804382,Positive
+the best blackpink era of all time,0.6369,Positive,1.0,Positive,0.9330332279205322,Positive
+EYYO LETS MAKE IT 2 BILLION VIEWS-!!!,0.0,Neutral,0.0,Netural,0.4800327718257904,Positive
+i m Indian but I like you soo much 😍,0.8256,Positive,0.2,Netural,0.4997362196445465,Positive
+❤ love you,0.8555,Positive,0.5,Positive,0.8466797471046448,Positive
+"Guys please keep streaming
+We need to reach 2B in any how!",0.4003,Positive,0.0,Netural,-0.4300365149974823,Negative
+"I can't get enough of Blackpink's music, it will always be amazing.",0.5859,Positive,0.30000000000000004,Netural,0.6256040334701538,Positive
+How you like that,0.3612,Positive,0.0,Netural,0.672561526298523,Positive
+Lisa,0.0,Neutral,0.0,Netural,0.31730103492736816,Netural
+Jisoo,0.0,Neutral,0.0,Netural,0.24822835624217987,Netural
+Jennie,0.0,Neutral,0.0,Netural,0.2797340452671051,Netural
+Rose,0.0,Neutral,0.6,Positive,0.3971712589263916,Positive
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+Blink,0.0,Neutral,0.0,Netural,-0.3357590436935425,Negative
+Dududu,0.0,Neutral,0.0,Netural,-0.3309200406074524,Negative
+anyone st43aming here with me?? w@tching for the 5th or 6th time today. What about you all?,0.0,Neutral,0.0,Netural,-0.7007936239242554,Negative
+♥️♥️♥️♥️♥️😍😍😍,0.9849,Positive,0.0,Netural,0.30857792496681213,Netural
+ทำไมโรเซ่ย้อมผมสีเเดง😡👺👹💩🤬🖤💥💢,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+"BLINKS, HAGAMOS STREAM!! ESTAMOS HACIÉNDOLO BIEN",0.0,Neutral,0.2857142857142857,Netural,0.3769994378089905,Positive
+"1.9, 1.9, 1.9",0.0,Neutral,0.0,Netural,-0.35381558537483215,Negative
+GUYS LETS GET THIS SONG TO 2BILLION AND MAKE BLACKPINK THE FIRST K POP GIRL GROUP TO HIT 2 BILLION. GUYS LETS GO!!!,0.0,Neutral,0.48828125,Positive,-0.7109017372131348,Negative
+"|*str3@m!ng guide*|
+• don't use em0j!$. It can freeze the vi3ws.
+• Never replay the video. Give at least 10 to 15 min gap
+• If someone is sp@mm!ng reply in dots
+..........
+
+( We are very slow we need to increase our speed. Inform this to all the BLINKS we need them. Let's go we can achieve 2B)",0.5229,Positive,-0.34500000000000003,Negative,-0.4375914931297302,Negative
+"So guys today is the last day of my exam 
+After my exam I will like literally str3am it every minutes",0.3612,Positive,0.0,Netural,0.3775326609611511,Positive
+what if this song of blackpink didn't exist? what would happen to blackpink career,0.0,Neutral,0.0,Netural,-0.5188692808151245,Negative
+"Lisa: Queen of dance
+Jennie: Queen of rap
+Rose: Queen of visual
+Jisoo: Queen of Blackpink",0.0,Neutral,0.3,Netural,0.3383989632129669,Positive
+This music is awesome . I like every bit of it.,0.765,Positive,1.0,Positive,0.8993590474128723,Positive
+1.9 billion as soon as possible,0.0,Neutral,0.0,Netural,-0.5521134734153748,Negative
+"Listen up Blinks! 
+
+This video almost has 2bil views! If it gets 2b it will be the first kpop group to get 2b views in their song. 
+
+I've been watching this video many times and it is entertaining even if I watch it too much! anyways.. 
+We got this blinkks
+Saranghae Blinkks annyoeng!",0.6209,Positive,0.390625,Positive,-0.24733798205852509,Negative
+I think we are going slow??,0.0,Neutral,-0.30000000000000004,Negative,-0.4002550542354584,Negative
+Less than 140M before 2B guyz we can do this FIGHTING!!,-0.657,Negative,-0.26041666666666663,Negative,0.5512774586677551,Positive
+Keep str3aming,0.0,Neutral,0.0,Netural,-0.23037990927696228,Negative
+"181,105",0.0,Neutral,0.0,Netural,0.2740378677845001,Netural
+Blackpink hwyyy,0.0,Neutral,0.0,Netural,0.23576213419437408,Netural
+اذهبو إلى الجحيم يا أيها الكوريين,-0.6808,Negative,0.0,Netural,-0.49077701568603516,Negative
+LETS GO 1.9B BLINKS BEFORE THE COMEBACK,0.0,Neutral,0.0,Netural,-0.4494280219078064,Negative
+Only 40M 🤩 chúng ta sẽ có 1 du duu du duu cán mốc 1.9B,0.0,Neutral,0.0,Netural,-0.42504769563674927,Negative
+i love BLACKPINK💗,0.8779,Positive,0.5,Positive,0.8423482775688171,Positive
+4000万,0.0,Neutral,0.0,Netural,-0.29128143191337585,Negative
+Any blinks here ? ♡ ♡ ♡ ♡ ♡,0.0,Neutral,0.0,Netural,0.5105640292167664,Positive
+Ooooo 2b when ?,0.0,Neutral,0.0,Netural,-0.3250713050365448,Negative
+Stre3am more blinks,0.0,Neutral,0.5,Positive,-0.294580340385437,Negative
+Tan hermosas las paved their own way ᦗ,0.6361,Positive,0.725,Positive,0.8358086943626404,Positive
+Let's go 1.9 bilion view,0.0,Neutral,0.0,Netural,-0.37474268674850464,Negative
+76million go,0.0,Neutral,0.0,Netural,-0.27542492747306824,Negative
+6th account,0.0,Neutral,0.0,Netural,0.3635123074054718,Positive
+a mi no me gusta blackpink y bts es megor☠,0.1999,Positive,0.0,Netural,-0.5463947653770447,Negative
+"Armies are spreading a news on social media saying they are gonna make boy with love 2 billion before ddu du ddu du 
+No we shouldn't let them make it 2 billion and make history as ""First kpop group song to hit 2 b"" before there come back share this message",0.6369,Positive,0.19583333333333333,Netural,-0.644178032875061,Negative
+Keep str3aming,0.0,Neutral,0.0,Netural,-0.23037990927696228,Negative
+"140,698",0.0,Neutral,0.0,Netural,0.23038876056671143,Netural
+"139,472",0.0,Neutral,0.0,Netural,0.24437372386455536,Netural
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+40 mill more binks we can do it str3ammmm,0.0,Neutral,0.5,Positive,0.3976028859615326,Positive
+"137,479",0.0,Neutral,0.0,Netural,0.270731121301651,Netural
+C'mon blinks lets do it,0.0,Neutral,0.0,Netural,0.3376932144165039,Positive
+LAS AMOOOOOO,0.6369,Positive,0.5,Positive,-0.23370322585105896,Negative
+"1,860,134
+Only 866k to reach 61million  
+We have 19 hours according to my time .........
+Let's reach 866k in 19 hours 
+Let's gooo...........",0.0516,Positive,0.0,Netural,-0.5490369200706482,Negative
+Blink hagan strem para llegar a 2B de vistas,0.0258,Neutral,0.0,Netural,-0.24913927912712097,Negative
+No s,-0.296,Negative,0.0,Netural,-0.4501824676990509,Negative
+Anyone alive ?,0.3818,Positive,0.1,Netural,-0.5904378294944763,Negative
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+Guys tell your all blinks friends to str3am it pleasee,0.4767,Positive,0.0,Netural,0.354364275932312,Positive
+"I love this song 
+I love you blackpink",0.8555,Positive,0.5,Positive,0.8818761706352234,Positive
+Ah yeah Ah yeah,0.5267,Positive,0.0,Netural,0.24089328944683075,Netural
+Blackpink,0.0,Neutral,0.0,Netural,0.24101245403289795,Netural
+Are anyone here I guess blinks are not str3aming Are you guys dead,-0.6486,Negative,-0.2,Negative,-0.707650899887085,Negative
+Let's keep str3aming,0.0,Neutral,0.0,Netural,0.22848695516586304,Netural
+"keep watching until you reach 2B
+, I have faith that we will make it",0.4404,Positive,0.0,Netural,0.3029167056083679,Netural
+Blinks!!!! 40M más si se puedeee 1.9B,0.0,Neutral,0.5,Positive,-0.5490186214447021,Negative
+"FALTAM APENAS 40 MILHÕES DE VIEWS PARA OS 1,9B VAMOS LÁ BLINKS!!!!!!!",0.0,Neutral,0.0,Netural,-0.7431352734565735,Negative
+860.105,0.0,Neutral,0.0,Netural,0.2447601854801178,Netural
+Blackpink Queens,0.0,Neutral,0.0,Netural,0.24688322842121124,Netural
+هيبة جيسو واو,0.5859,Positive,0.1,Netural,0.2542063295841217,Netural
+"اسود وردي هم الثورة 
+احسنتن عملاً ، احبكم",0.743,Positive,0.07777777777777778,Netural,0.7162197828292847,Positive
+احبك اسود وردي انتم الأفضل,0.8555,Positive,0.30833333333333335,Netural,0.7402430176734924,Positive
+Flawless queens,0.5106,Positive,1.0,Positive,-0.25524622201919556,Negative
+BLINKS!! don't forget  We have to get d4 to 2B listen to d4 as much as you can!!! And keep strxxmxng it as you can!!! we have to reach the 2B for our girls. BLINKS don't give up please we can get it for our beautiful girls. You can BLINK!!!,0.707,Positive,0.8814697265625,Positive,0.5669410228729248,Positive
+I love You blekipink,0.6369,Positive,0.5,Positive,0.7016468644142151,Positive
+Hermosasssss Mis patronas 💖💖💖,0.9595,Positive,0.0,Netural,0.737683892250061,Positive
+Ilove ❤,0.6369,Positive,0.0,Netural,0.25260528922080994,Netural
+احبك,0.6369,Positive,0.5,Positive,0.6440166234970093,Positive
+احبك,0.6369,Positive,0.5,Positive,0.6440166234970093,Positive
+أحبك,0.6369,Positive,0.5,Positive,0.6440166234970093,Positive
+احبك,0.6369,Positive,0.5,Positive,0.6440166234970093,Positive
+BLINKS!! don't forget  We have to get d4 to 2B listen to d4 as much as you can!!! And keep strxxmxng it as you can!!! we have to reach the 2B for our girls. BLINKS don't give up please we can get it for our beautiful girls. You can BLINK!!!,0.707,Positive,0.8814697265625,Positive,0.5669410228729248,Positive
+Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
+$$$$$$,0.0,Neutral,0.0,Netural,-0.4034900367259979,Negative
+That body roll!,0.0,Neutral,0.0,Netural,-0.4735969603061676,Negative
+JIIII,0.0,Neutral,0.0,Netural,0.291166216135025,Netural
+la Lisa lahmo,0.0,Neutral,0.0,Netural,-0.3566557765007019,Negative
+Mo sahiiii badshakal nang,0.0,Neutral,0.0,Netural,-0.33595189452171326,Negative
+Gasha,0.0,Neutral,0.0,Netural,-0.26477208733558655,Negative
+Nala mo sahiiii lahmo sheset,0.0,Neutral,0.0,Netural,-0.3381233215332031,Negative
+Nala du sahi pasand yot,0.0,Neutral,0.0,Netural,-0.3620755970478058,Negative
+Nala nis bilkul pasand met,0.4201,Positive,0.2,Netural,-0.313434898853302,Negative
+"$$
+___",0.0,Neutral,0.0,Netural,-0.35595178604125977,Negative
+♡,0.0,Neutral,0.0,Netural,0.5759676098823547,Positive
+<3,0.4404,Positive,1.0,Positive,0.35808172821998596,Positive
+2B we come,0.0,Neutral,0.0,Netural,0.3406780958175659,Positive
+Te amo,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
+2B soon,0.0,Neutral,0.0,Netural,0.2917346954345703,Netural
+BLINKS!! don't forget  We have to get d4 to 2B listen to d4 as much as you can!!! And keep strxxmxng it as you can!!! we have to reach the 2B for our girls. BLINKS don't give up please we can get it for our beautiful girls. You can BLINK!!!,0.707,Positive,0.8814697265625,Positive,0.5669410228729248,Positive
+I LOVE YOU BLACKPINK,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
+WE GOT THIS BLINKS ON THE WAY TO 2B,0.0,Neutral,0.0,Netural,-0.2708093523979187,Negative
+we need to make it to 2 billion blinks!! ❤️,0.0,Neutral,0.0,Netural,-0.46747979521751404,Negative
+واوووووو هاياىاغنيه كلش حلوه  ؤتجبرك تركص❣️❣️❣️,0.9693,Positive,0.22499999999999998,Netural,-0.4033063054084778,Negative
+Love you,0.6369,Positive,0.5,Positive,0.8381887674331665,Positive
+انا بحب ليسا روزي كتير وبتمنى انوتعرضو أغاني جديدة🤩,0.7964,Positive,0.27878787878787875,Netural,0.5686145424842834,Positive
+Blackpink😘😘😘,0.8126,Positive,0.0,Netural,0.30857792496681213,Netural
+🔥🔥🤤🤤,-0.5859,Negative,0.0,Netural,0.30857792496681213,Netural
+Jisoo is the strongest visual in K-pop,0.4404,Positive,0.0,Netural,0.8162964582443237,Positive
+Jisoo is so beautiful ، oh my heart can't stand her beauty and cuteness,0.8865,Positive,0.85,Positive,0.7483261823654175,Positive
+"60 million complete 
+We have to make it 61 million tomorrow....
+Byee blinks I will come tomorrow ♡",0.0,Neutral,0.1,Netural,-0.3867546319961548,Negative
+🤍,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+"Bye guys
+I have to eat dinner 
+But I'll be back soon 
+Keep str3aming :)",0.6124,Positive,0.25,Netural,0.3843783140182495,Positive
+"Bye blinks
+I am going to sleep, let's meet tomorrow",0.0,Neutral,0.0,Netural,0.3346973657608032,Positive
+"I am going to sleep bye blinks 
+See you tomorrow ♡♡♡♡",0.0,Neutral,0.0,Netural,0.41621798276901245,Positive
+"@preethi you can search it 
+""YouTube par ek aur account Kaise banaye""
+Yes I wrote this in Hindi because yo*tube was deleting my comment",0.4019,Positive,0.0,Netural,-0.42162248492240906,Negative
+"Finallllllyyyyyy
+I was feeling like we are stuck in 1,859 but not its 1,860b 
+Next target: 1m tomorrow",0.128,Positive,0.0,Netural,-0.29332903027534485,Negative
+Yayyy let's gooo,0.0,Neutral,0.0,Netural,-0.2578583061695099,Negative
+Woahhhhhh finally,0.0,Neutral,0.0,Netural,0.3077160120010376,Netural
+Saamea sarfaraz r u there???,0.0,Neutral,0.0,Netural,-0.3947144150733948,Negative
+Blackpink♡,0.0,Neutral,0.0,Netural,0.46702370047569275,Positive
+More 470 vi3ws come on blinks,0.0,Neutral,0.5,Positive,-0.3136424124240875,Negative
+💞,0.6486,Positive,0.0,Netural,0.30857792496681213,Netural
+When she says think twice she sounds like she saying do u think I care?,0.6908,Positive,0.0,Netural,-0.3640410304069519,Negative
+"998,286",0.0,Neutral,0.0,Netural,-0.27410855889320374,Negative
+"I think the views are freezed it is 997,011",0.0,Neutral,0.0,Netural,-0.5037552118301392,Negative
+"997,011
+Only 3k then I will go to sleep",0.0,Neutral,0.0,Netural,-0.5243072509765625,Negative
+"997,011",0.0,Neutral,0.0,Netural,-0.3585958480834961,Negative
+And here is when kpop found their number one queens!!!! 👑,0.3544,Positive,0.0,Netural,0.4647236764431,Positive
+Str3am,0.4019,Positive,0.0,Netural,0.24906541407108307,Netural
+"994,541",0.0,Neutral,0.0,Netural,-0.22379738092422485,Negative
+Vi3ws are frozen!(?),0.0,Neutral,0.0,Netural,-0.6045908331871033,Negative
+"992,185",0.0,Neutral,0.0,Netural,-0.24679066240787506,Negative
+"20 k to reach 60 m 
+Let's get it today ....",0.0258,Neutral,0.0,Netural,-0.23592282831668854,Negative
+989,0.0,Neutral,0.0,Netural,0.25022831559181213,Netural
+Aaaa finalmente está chegando perto Dr 2 bi,0.0,Neutral,0.0,Netural,0.2887346148490906,Netural
+"12 am °°°°°°°
+Sharing my full str34m list 
+
+D4 - 17
+KTL - 15
+ICECREAM - 10
+HYLT - 12
+BOOMBAYAH  - 2
+AIIYL - 2
+OTG - 6
+SOLO - 2",0.4215,Positive,0.35,Positive,0.5478776097297668,Positive
+"987,295
+Only 23k blinks",0.0,Neutral,0.0,Netural,-0.47251394391059875,Negative
+Road to 2B ❤️,0.0,Neutral,0.0,Netural,0.2748597264289856,Netural
+2022,0.0,Neutral,0.0,Netural,0.2900533974170685,Netural
+Hello everyone,0.0,Neutral,0.0,Netural,0.6170139312744141,Positive
+"984,320",0.0,Neutral,0.0,Netural,-0.24444565176963806,Negative
+TODKKDGÑJLITWWQASVMBCBJGOPLLKÑKJHGHKKLLK😘,0.4215,Positive,0.0,Netural,0.30857792496681213,Netural
+"976,558",0.0,Neutral,0.0,Netural,-0.254056453704834,Negative
+Are you a fan girl or fan boy ?,0.0,Neutral,0.0,Netural,-0.30316582322120667,Negative
+When two girls says blackpink then two other girls so *cute*,0.5949,Positive,0.1875,Netural,0.33436402678489685,Positive
+Up,0.0,Neutral,0.0,Netural,0.2804710865020752,Netural
+Up,0.0,Neutral,0.0,Netural,0.2804710865020752,Netural
+Up,0.0,Neutral,0.0,Netural,0.2804710865020752,Netural
+Up,0.0,Neutral,0.0,Netural,0.2804710865020752,Netural
+Let's go 2B,0.0,Neutral,0.0,Netural,0.2845242917537689,Netural
+So much love,0.6682,Positive,0.5,Positive,0.8150020241737366,Positive
+Blackpink in your area,0.0,Neutral,0.0,Netural,0.4502510726451874,Positive
+Blackpink is the revolution,0.0,Neutral,0.0,Netural,0.540950357913971,Positive
+Jennie's rap is incredible,0.0,Neutral,0.9,Positive,0.7090303301811218,Positive
+We love you blackpink,0.6369,Positive,0.5,Positive,0.8215909004211426,Positive
+Blackpink ♡,0.0,Neutral,0.0,Netural,0.5031813979148865,Positive
+Jennie ♡,0.0,Neutral,0.0,Netural,0.4843965470790863,Positive
+Lisa ♡,0.0,Neutral,0.0,Netural,0.562102198600769,Positive
+Rosé ♡,0.0,Neutral,0.0,Netural,0.6292715072631836,Positive
+"Oye,Jisoo donde te cortaste el pelo color rosa será natural.",0.1027,Positive,0.0,Netural,0.323489785194397,Netural
+Jisoo ♡,0.0,Neutral,0.0,Netural,0.5197401642799377,Positive
+Lets go 1.9 billion,0.0,Neutral,0.0,Netural,-0.5331525206565857,Negative
+Is my comment is visible???,0.0,Neutral,0.0,Netural,-0.38208237290382385,Negative
+"972,973",0.0,Neutral,0.0,Netural,0.22418077290058136,Netural
+@avocado here?,0.0,Neutral,0.0,Netural,-0.38860270380973816,Negative
+"Only 30k to 1,860,000,000",0.0,Neutral,0.0,Netural,-0.5082817673683167,Negative
+"Hey blinks its me saamea
+Yes its my 3rd account, YouTube was deleting all my comments on other accounts, so I created this one as I don't want you guys to feel lonely",0.3086,Positive,-0.075,Negative,0.31956061720848083,Netural
+"BLACKPINK
+Ah yeah, ah yeah
+BLACKPINK
+Ah yeah, ah yeah, eh
+착한 얼굴에 그렇지 못한 태도
+가녀린 몸매 속 가려진 volume은 두 배로
+거침없이 직진 굳이 보진 않지 눈치
+Black 하면 Pink 우린 예쁘장한 savage (BLACKPINK)
+원할 땐 대놓고 뺏지
+넌 뭘 해도 칼로 물 베기
+두 손엔 가득한 fat check
+궁금하면 해봐 fact check
+눈 높인 꼭대기
+물 만난 물고기
+좀 독해 난 toxic
+You 혹해 I'm foxy
+두 번 생각해
+흔한 남들처럼 착한 척은 못 하니까
+착각하지 마
+쉽게 웃어주는 건 날 위한 거야
+아직은 잘 모르겠지 굳이 원하면 test me
+넌 불 보듯이 뻔해
+만만한 걸 원했다면
+Oh wait til' I do what I do
+Hit you with that ddu-du ddu-du du
+Ah yeah, ah yeah
+Hit you with that ddu-du ddu-du du
+Ah yeah, ah yeah
+Dudu dududu
+지금 내가 걸어가는 거린
+BLACKPINK four way 사거리
+동서남북 사방으로 run it
+너네 버킷리스트 싹 다 I bought it
+널 당기는 것도 멀리 밀치는 것도 제멋대로 하는 bad girl
+좋건 싫어하건 누가 뭐라 하던 when the bass drop, it's another banger
+두 번 생각해
+흔한 남들처럼 착한 척은 못 하니까
+착각하지 마
+쉽게 웃어주는 건 날 위한 거야
+아직은 잘 모르겠지
+굳이 원하면 test me
+넌 불 보듯이 뻔해
+만만한 걸 원했다면
+Oh wait til' I do what I do
+Hit you with that ddu-du ddu-du du
+Ah yeah, ah yeah
+Hit you with that ddu-du ddu-du du
+Ah yeah, ah yeah
+Dudu dududu
+What you gonna do
+When I come come through with that that uh uh huh
+What you gonna do
+When I come come through with that that uh uh huh
+뜨거워 뜨거워 뜨거워 like fire
+뜨거워 뜨거워 뜨거워 like fire
+BLACKPINK
+Hey
+Ah yeah, ah yeah, ah yeah, ah yeah
+뜨거워 뜨거워 뜨거워 like fire (hey)
+뜨거워 뜨거워 뜨거워 like fire (fire)
+Hit you with that ddu-du ddu-du du",0.9941,Positive,0.12078869047619048,Netural,-0.3545933961868286,Negative
+"I gtg to the mall 
+see you guys later <3
+Str3am hard!",0.4199,Positive,0.21180555555555555,Netural,-0.3875458836555481,Negative
+972,0.0,Neutral,0.0,Netural,0.222715362906456,Netural
+The prettiest girls I’ve ever seen,0.5719,Positive,0.0,Netural,0.9037318229675293,Positive
+bye everyone I know I just came but its 11:37pm where I live so I've to go today I was not able to str3am properly today because I was travelling meet you tommorow :),0.6124,Positive,0.09659090909090909,Netural,0.4623384475708008,Positive
+967,0.0,Neutral,0.0,Netural,0.27665674686431885,Netural
+BLACKPİNK 👌💞💙💚💜🖤,0.0,Neutral,0.0,Netural,0.2941039204597473,Netural
+I love you jennie,0.6369,Positive,0.5,Positive,0.805708646774292,Positive
+Sorry guys I was st34ming with you but comments get deleted. So I can't comment. Can anyone please tell me how to create a new YouTube account. My comments are getting deleted......,0.6652,Positive,-0.18181818181818182,Negative,-0.6093305945396423,Negative
+"962,007",0.0,Neutral,0.0,Netural,-0.3091810941696167,Negative
+We are so close 60!!,0.0,Neutral,0.0,Netural,-0.3812382221221924,Negative
+"661,981",0.0,Neutral,0.0,Netural,0.24807509779930115,Netural
+Rosé’s part is so relaxing,0.6269,Positive,0.0,Netural,0.5071713328361511,Positive
+It’s another banger,0.0,Neutral,0.0,Netural,-0.33081716299057007,Negative
+Jennie is the best cat,0.6369,Positive,1.0,Positive,0.7009515762329102,Positive
+Lisa is so hoott,0.0,Neutral,0.0,Netural,-0.32938504219055176,Negative
+"957,497",0.0,Neutral,0.0,Netural,0.24948269128799438,Netural
+Hereee comess mee ;),0.2263,Positive,0.25,Netural,0.4816591143608093,Positive
+me,0.0,Neutral,0.0,Netural,0.2765241265296936,Netural
+Like fire,0.0258,Neutral,0.0,Netural,0.3914002776145935,Positive
+Rosé is so cuteee,0.5949,Positive,0.5,Positive,0.547360360622406,Positive
+Hit you with that ddu du ddu du,0.0,Neutral,0.0,Netural,0.35800614953041077,Positive
+Ah yeah ah yeah,0.5267,Positive,0.0,Netural,0.24089328944683075,Netural
+I want Jisoo to dye her hair,0.0772,Positive,0.0,Netural,0.3188425302505493,Netural
+Jisoo’s visual is so pretty,0.6269,Positive,0.125,Netural,0.3666336238384247,Positive
+Jennie,0.0,Neutral,0.0,Netural,0.2797340452671051,Netural
+Don’t forget to str3am otg after d4,-0.2263,Negative,0.0,Netural,-0.28138405084609985,Negative
+"952,818",0.0,Neutral,0.0,Netural,-0.2974124550819397,Negative
+Here I come kick in the door XD,0.6739,Positive,0.0,Netural,0.31153374910354614,Netural
+I’ll go bring my headphones then I’ll str3am 2728292772167272 times,0.0,Neutral,0.0,Netural,-0.5425482988357544,Negative
+"Just 50k 
+Keep str3aming blinks",0.0,Neutral,0.0,Netural,-0.42766469717025757,Negative
+Can anyone tell me how to create a second YouTube channel my comments are getting deleted.....,0.2732,Positive,0.0,Netural,-0.5767458081245422,Negative
+"Seriously in my test
+Dududu is coming",-0.1779,Negative,-0.3333333333333333,Negative,-0.3471221923828125,Negative
+Anyone alive?,0.3818,Positive,0.1,Netural,-0.5904378294944763,Negative
+59k,0.0,Neutral,0.6,Positive,0.272352933883667,Netural
+انهن الاروع على الاطلاق، هناك سحر خاص في اغانيهن، فتياتنا اللطيفات القويات يستحقن الكثير من الحب من البلينكز,0.9537,Positive,0.45809523809523806,Positive,0.4038544297218323,Positive
+تحفة فنية,0.0,Neutral,0.0,Netural,0.42878735065460205,Positive
+ملكات,0.0,Neutral,0.0,Netural,0.424652636051178,Positive
+I can cover full of d4 rap (with lisa and jennie too),0.0,Neutral,0.35,Positive,0.47820228338241577,Positive
+This song never gets old,0.0,Neutral,0.1,Netural,0.4263049066066742,Positive
+Let's get 2billion blinks stream as much as you can,0.0,Neutral,0.2,Netural,0.4832666218280792,Positive
+Hi blinks let’s get this MV to 2 billion and get blackpink first kpop groupe to reach 2 billion before their next comeback let’s go WE CAN DO IT FOR OUR QUEENS,0.0258,Neutral,0.125,Netural,0.27574849128723145,Netural
+Hi....I'm back =),0.4939,Positive,0.25,Netural,-0.31492817401885986,Negative
+Str€@ming :)),0.0,Neutral,0.5,Positive,0.38313257694244385,Positive
+"Blinks Let's do 2B
+Stre@m!!!",0.0,Neutral,0.0,Netural,-0.3855493664741516,Negative
+👍👍👍👍👍,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+That    was   my     brother    your   songs  are    amazing😃😃😃😃😄😄😄😃😃😃😃😃😃😃🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😍,0.9992,Positive,0.0,Netural,0.4550093114376068,Positive
+"Blinks let's make 2B as a comeback gift for our girls
+Let's get it",0.4404,Positive,0.0,Netural,0.3675481081008911,Positive
+To be honest i wouldn't be surprised if you were aliens. No wonder the animals look scared for their life.,-0.354,Negative,0.35,Positive,0.3365161120891571,Positive
+We were commenting for so many time why it's not 26 lakh yet,0.0,Neutral,0.5,Positive,-0.3522484302520752,Negative
+"I am not studying because I can't betray blackpink
+Will you pray for me blinks?",0.6876,Positive,0.0,Netural,-0.4035465121269226,Negative
+Blackpink <3,0.4404,Positive,1.0,Positive,0.3520694375038147,Positive
+Let's pray everyone that blackpink hylt dp will never take over this mv,0.3182,Positive,0.0,Netural,-0.47325780987739563,Negative
+Stream,0.0,Neutral,0.0,Netural,0.280324786901474,Netural
+Its May 1st 2022! Let’s get BLACKPINK to 2M views! Edit: OMG 20M LIKES?,0.627,Positive,0.0,Netural,-0.6015281081199646,Negative
+Bruuuuhhh yorum tutmusşşş,0.0,Neutral,0.0,Netural,-0.2989732027053833,Negative
+Bruuuhhh,0.0,Neutral,0.0,Netural,-0.3134222626686096,Negative
+"What make you to Stan bp, I mean their are so many other groups but you choose bp, but why?",0.0,Neutral,0.020833333333333332,Netural,0.3185877203941345,Netural
+Stream,0.0,Neutral,0.0,Netural,0.280324786901474,Netural
+In which class u study,0.0,Neutral,0.0,Netural,0.3519930839538574,Positive
+Hi Saamea sarfaraz,0.0,Neutral,0.0,Netural,0.27257609367370605,Netural
+"Your fav color
+(I am bored so just)",0.2263,Positive,-0.5,Negative,-0.45530635118484497,Negative
+Bravo Bravo cut,-0.2732,Negative,0.0,Netural,0.6258044838905334,Positive
+"923,200",0.0,Neutral,0.0,Netural,-0.26034876704216003,Negative
+If you put the speed of the video 0.75x  slowed it will be nice,0.4215,Positive,0.6,Positive,0.42502540349960327,Positive
+🌈🦄🕊️,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+WAW,0.0,Neutral,0.0,Netural,0.2867412865161896,Netural
+I am alive now @rory are you here?,0.3818,Positive,0.1,Netural,0.5306252837181091,Positive
+Hiiiii,0.0,Neutral,0.0,Netural,0.27055633068084717,Netural
+Diyecek bir şey yok MÜKEMMEL ÖTESİ,0.6633,Positive,1.0,Positive,-0.6100680828094482,Negative
+"Hy, Stre@m guys",0.0,Neutral,0.0,Netural,0.264506995677948,Netural
+❤❤❤❤❤❤,0.9803,Positive,0.0,Netural,0.30857792496681213,Netural
+Blinks !!!! We should give them 2B the queens deserve it sm 🖤💗,0.9056,Positive,0.0,Netural,-0.3379683494567871,Negative
+Hi Any blinks alive?,0.3818,Positive,0.1,Netural,-0.3438085615634918,Negative
+they exist and there real,0.0,Neutral,0.2,Netural,0.45120537281036377,Positive
+U-U,0.0,Neutral,0.0,Netural,0.2786180078983307,Netural
+If it hits 1.9B then the posters of it will be posted in all BP social medias. And many Blinks will str3am it to make 2B faster. And many new Blinks will discover this song too. So let's reach 1.9B fast!,0.1705,Positive,0.2839393939393939,Netural,-0.24471385776996613,Negative
+ROS'E she's so pretty wow,0.8479,Positive,0.175,Netural,0.695072591304779,Positive
+im in love with this song bro,0.6369,Positive,0.5,Positive,0.6900485754013062,Positive
+love you blackpink,0.6369,Positive,0.5,Positive,0.8282743692398071,Positive
+"Hello iam back
+I never forgot ddududu
+I come here again to make 2B faster",0.0,Neutral,0.0,Netural,0.5155176520347595,Positive
+Let's get this to 2 Billion,0.0,Neutral,0.0,Netural,-0.3877663314342499,Negative
+I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
+Listening in may 2022 attendance here🤚,0.4939,Positive,0.0,Netural,-0.26852676272392273,Negative
+These kind of songs are never geting recommended and getting billions of views✨,0.1798,Positive,0.6,Positive,-0.322458952665329,Negative
+I Love  You ❤️,0.6369,Positive,0.5,Positive,0.8701996207237244,Positive
+Stream,0.0,Neutral,0.0,Netural,0.280324786901474,Netural
+1.9B goooo,0.0,Neutral,0.0,Netural,0.2586595416069031,Netural
+Stream so we can reach 1900M🏃‍♀️🏃‍♀️🏃‍♀️🏃‍♀️,0.0935,Positive,0.0,Netural,0.35666584968566895,Positive
+Hagan stream para que lleguemos a las 1900M 🏃‍♀️🏃‍♀️🏃‍♀️🏃‍♀️,0.0935,Positive,0.0,Netural,0.2362680733203888,Netural
+YA CASI 2 BILLONES DE VISTAS 🥺🥺,0.0,Neutral,0.0,Netural,-0.2895585596561432,Negative
+Bye gtg eat,0.0,Neutral,0.0,Netural,0.41429832577705383,Positive
+95K,0.0,Neutral,0.0,Netural,0.22778759896755219,Netural
+Lunch time wanna come over,0.0,Neutral,0.0,Netural,-0.39222705364227295,Negative
+"I was actually a bigger black head 
+I use to hate every single member of blackpink mainly Jennie",-0.5719,Negative,-0.17428571428571432,Negative,-0.47834181785583496,Negative
+97k,0.3612,Positive,0.0,Netural,0.24083155393600464,Netural
+You will never believe that I was a blackpink hater before=-O,-0.4215,Negative,0.0,Netural,-0.3819531202316284,Negative
+Hello its me gourav its my another ac,0.0,Neutral,0.0,Netural,0.2873246967792511,Netural
+Can we str3am 100k today? Or atleast by tomorrow?,0.0,Neutral,-0.3,Negative,-0.29806652665138245,Negative
+Where d they exist?,0.0,Neutral,0.0,Netural,-0.434907466173172,Negative
+I love this song so much I love you also,0.8646,Positive,0.5,Positive,0.8986963629722595,Positive
+Day 274 of listening to DDU-DU-DDU-DU for a year,0.0,Neutral,0.0,Netural,0.22519907355308533,Netural
+"Finally 900k 
+Now more 100k for 1,860,000,000
+And more and more and more 100k
+For 2b",0.0,Neutral,0.4,Positive,0.46438345313072205,Positive
+Yay we reached,0.5859,Positive,0.0,Netural,0.25625479221343994,Netural
+Actually we are just 4 or 5 free people who are just commenting continuously hahah,0.5106,Positive,0.2,Netural,-0.48414164781570435,Negative
+Blink forever :-),0.3182,Positive,0.5,Positive,0.6667434573173523,Positive
+Jisoo kim,0.0,Neutral,0.0,Netural,0.27292197942733765,Netural
+Kim jisoo,0.0,Neutral,0.0,Netural,0.2788311839103699,Netural
+Why isn't it increasing ;-;,0.0,Neutral,0.0,Netural,-0.3399207293987274,Negative
+Lets keep str34ming to make it get 2B!!!!,0.0,Neutral,0.0,Netural,0.2813222408294678,Netural
+Hwaiting,0.0,Neutral,0.0,Netural,0.22365529835224152,Netural
+"899,662
+Not we waiting for 1k",0.0,Neutral,0.0,Netural,-0.4065256416797638,Negative
+Less than 1k,0.0,Neutral,-0.16666666666666666,Negative,-0.41337820887565613,Negative
+"898,104
+Are we really known as MONSTER STR3AMERS ??",0.0,Neutral,0.2,Netural,-0.4560377299785614,Negative
+Just 2k c'mon Str3am harder,0.0,Neutral,-0.1,Negative,-0.42299962043762207,Negative
+"Only 200 in 7min
+Disgusting!!!",-0.6458,Negative,-0.5,Negative,-0.7829957008361816,Negative
+Anyone here?,0.0,Neutral,0.0,Netural,-0.46796709299087524,Negative
+Almost there,0.0,Neutral,0.0,Netural,0.3302187919616699,Positive
+I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+"897,500
+C'mon blinks just 3k",0.0,Neutral,0.0,Netural,-0.44361114501953125,Negative
+افضل اغنية حتى الان لدرجة انها وصلت M1.8,0.7063,Positive,0.55,Positive,0.7741600871086121,Positive
+"893,870",0.0,Neutral,0.0,Netural,0.23483650386333466,Netural
+𝙰𝙲𝚃𝚄𝙰𝙻𝚈 𝚝𝚘𝚘 𝚋𝚊𝚍 𝚜𝚘𝚗𝚐,0.0,Neutral,0.0,Netural,0.39043518900871277,Positive
+I love you jisoo,0.6369,Positive,0.5,Positive,0.8173805475234985,Positive
+Falta poquito para los 2B Views hagamos realidad y que blackpink lo logré este año a reproducir está canción,0.34,Positive,-0.09375,Negative,0.3379250764846802,Positive
+Jennie's Rap Will Always Be Fire ! 🔥🔥🔥,-0.8356,Negative,0.0,Netural,0.6358565092086792,Positive
+2B+💥🔥,-0.5994,Negative,0.0,Netural,0.2568807005882263,Netural
+2B+ 🔥🔥,-0.5859,Negative,0.0,Netural,0.2568807005882263,Netural
+मेरी बैटरी खत्म हो गई है इसलिए सभी को अलविदा,-0.3612,Negative,0.0,Netural,-0.47211477160453796,Negative
+I have watched more than 50 kdrma,0.0,Neutral,0.5,Positive,0.3113137185573578,Netural
+"Blink since???
+Me from mid- 2018",0.0,Neutral,0.0,Netural,-0.47675836086273193,Negative
+स्ट्रीमिंग के लिए सभी को धन्यवाद,0.4404,Positive,0.2,Netural,0.2865394949913025,Netural
+Mass Str3aming from now,0.0,Neutral,0.0,Netural,0.39096421003341675,Positive
+"888,943",0.0,Neutral,0.0,Netural,-0.25103843212127686,Negative
+"First song you listened from BLACKPINK?
+Mine was HYLT",0.0,Neutral,0.25,Netural,-0.35098713636398315,Negative
+Recuerdo q con esta canción conocí a blakpink <3,0.4404,Positive,1.0,Positive,0.383443683385849,Positive
+Blinks let’s str€am and hit 2B asap,0.0,Neutral,0.0,Netural,-0.5796879529953003,Negative
+BP COMEBACK WHEN T.T,0.0,Neutral,0.0,Netural,-0.24896597862243652,Negative
+Fav solo song :),0.7184,Positive,0.5,Positive,0.33070167899131775,Positive
+"886,516",0.0,Neutral,0.0,Netural,0.23985345661640167,Netural
+D4 will always remain *ICONIC*,0.0,Neutral,0.5,Positive,0.7870754599571228,Positive
+"Fvck I think I have hack y@utube , by the way will vi@w increase if we see blackpink mv offline [DOWNLOAD]??? Please 
+-thanks",0.7608,Positive,0.2,Netural,-0.35117340087890625,Negative
+Your fav blackpink song :),0.7184,Positive,0.5,Positive,0.47735074162483215,Positive
+"I am 18 year old 
+What is ur age",0.0,Neutral,0.1,Netural,-0.2985210120677948,Negative
+"Your bias in Black pink
+Me : ot4
+:)",0.3818,Positive,0.07777777777777778,Netural,0.4494427442550659,Positive
