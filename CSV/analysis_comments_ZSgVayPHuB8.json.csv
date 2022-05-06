@@ -1,0 +1,865 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+1:42 good prank moves u got there,0.4404,Positive,0.7,Positive,0.41966187953948975,Positive
+I love you ❤️❤️❤️❤️❤️❤️❤️❤️🌺❤️❤️❤️❤️❤️❤️❤️❤️🌺🌺🌺🌺🌺🌺🌺🌺🌺❤️❤️❤️❤️❤️💞💞💞💞💞💞,0.9861,Positive,0.5,Positive,0.8701996207237244,Positive
+Hi heley queen I love you 💖,0.891,Positive,0.5,Positive,0.8358598947525024,Positive
+Wow you are amazing,0.8225,Positive,0.35000000000000003,Positive,0.9400358200073242,Positive
+"Letra e tradução 
+Dance Monkey
+They say: Oh my God, I see the way you shine
+Take your hand, my dear, and place them both in mine
+You know you stopped me dead while I was passing by
+And now I beg to see you dance just one more time
+Ooh, I see you, see you, see you every time 
+
+And oh my, I, I, I, I like your style
+You, you make me, make me, make me wanna cry
+And now I beg to see you dance just one more time
+So they say
+Dance for me, dance for me, dance for me, oh, oh, oh 
+
+I've never seen anybody do the things you do before
+They say
+Move for me, move for me, move for me, ay-ay-ay
+And when you’re done I'll make you do it all again
+I said: Oh my God, I see you walking by 
+
+Take my hands, my dear, and look me in my eyes
+Just like a monkey, I've been dancing my whole life
+And you just beg to see me dance just one more time
+Ooh, I see you, see you, see you every time 
+
+And I, I, I, I like your style
+You, you make me, make me, make me wanna cry
+And now I beg to see you dance just one more time
+So they say
+Dance for me, dance for me, dance for me, oh, oh, oh 
+
+I’ve never seen anybody do the things you do before
+They say
+Move for me, move for me, move for me, ay-ay-ay
+And when you're done I'll make you do it all again
+They say
+Dance for me, dance for me, dance for me, oh oh oh, oh-oh, oh-oh 
+
+I've never seen anybody do the things you do before
+They say
+Move for me, move for me, move for me, ay-ay-ay
+And when you're done I'll make you do it all again
+Ooh, ooh, ooh, ooh, ooh
+(Do it all again, do it all again, do it all again)
+Oh-oh, oh-oh, oh
+Ooh, ooh, ooh, ooh, ooh-ooh 
+
+(Do it all again, do it all again, do it all again)
+Ooh, ah-ah, ah-ah
+They say
+Dance for me, dance for me, dance for me, oh oh oh 
+
+I've never seen anybody do the things you do before
+They say
+Move for me, move for me, move for me, ay-ay-ay
+And when you're done I’ll make you do it all again
+They say
+Dance for me, dance for me, dance for me, oh oh oh, oh-oh, oh-oh 
+
+I’ve never seen anybody do the things you do before
+They say
+Move for me, move for me, move for me, ay-ay-ay
+And when you're done I’ll make you do it all again
+All again
+
+
+Eles dizem: Oh meu Deus, eu vejo como você brilha
+Pegue sua mão, querida, e coloque as duas nas minhas
+Você sabe que me paralisou quando eu estava passando
+E agora eu imploro para te ver dançar só mais uma vez
+Ooh, eu te vejo, te vejo, te vejo toda vez 
+
+E, oh meu Deus, eu, eu, eu, eu gosto do seu estilo
+Você, você me faz, me faz, me faz querer chorar
+E agora eu imploro para você dançar apenas mais uma vez
+Então eles dizem 
+Dance para mim, dance para mim, dance para mim, oh, oh, oh 
+
+Eu nunca vi alguém fazer as coisas que você faz antes
+Eles dizem
+Mexa-se para mim, mexa-se para mim, mexa-se para mim ay-ay-ay
+E quando você terminar, eu farei você fazer tudo de novo
+Eu digo: Oh meu Deus, eu vejo você passando 
+
+Pegue minhas mãos, minha querida, e me olhe nos meus olhos
+Assim como um macaco, eu tenho dançado a minha vida inteira
+E você apenas implora para me ver dançar somente mais uma vez
+Ooh, eu te vejo, te vejo, te vejo toda vez 
+
+E, oh meu Deus, eu, eu, eu, eu gosto do seu estilo
+Você, você me faz, me faz, me faz querer chorar
+E agora eu imploro para te ver dançar só mais uma vez
+Então eles dizem
+Dance para mim, dance para mim, dance para mim, oh, oh, oh 
+
+Eu nunca vi alguém fazer as coisas que você faz antes
+Eles dizem
+Mexa-se para mim, mexa-se para mim, mexa-se para mim ay-ay-ay
+E quando você terminar, eu farei você fazer tudo de novo
+Eles dizem
+Dance para mim, dance para mim, dance para mim, oh oh oh, oh-oh 
+
+Eu nunca vi alguém fazer as coisas que você faz antes
+Eles dizem
+Mexa-se para mim, mexa-se para mim, mexa-se para mim ay-ay-ay
+E quando você terminar, eu farei você fazer tudo de novo
+Ooh, ooh, ooh, ooh, ooh
+(Faça tudo de novo, faça tudo de novo, faça tudo de novo)
+Oh-oh, oh-oh, oh
+Ooh, ooh, ooh, ooh, ooh-ooh 
+
+(Faça tudo de novo, faça tudo de novo, faça tudo de novo)
+Ooh, ah-ah, ah-ah
+Eles dizem
+Dance para mim, dance para mim, dance para mim, oh oh oh 
+
+Eu nunca vi alguém fazer as coisas que você faz antes
+Eles dizem
+Mexa-se para mim, mexa-se para mim, mexa-se para mim ay-ay-ay 
+E quando terminar, farei você fazer tudo de novo
+Eles dizem
+Dance para mim, dance para mim, dance para mim, oh oh oh, oh-oh, oh-oh 
+
+Eu nunca vi alguém fazer as coisas que você faz antes
+Eles dizem
+Mexa-se para mim, mexa-se para mim, mexa-se para mim ay-ay-ay
+E quando terminar, farei você fazer tudo de novo
+Tudo de novo",0.6908,Positive,0.2375,Netural,0.47078368067741394,Positive
+wow~~,0.5859,Positive,0.1,Netural,0.6785343885421753,Positive
+Accident that's why all the song,-0.4767,Negative,0.0,Netural,-0.5003229379653931,Negative
+No,-0.296,Negative,0.0,Netural,-0.531922459602356,Negative
+I love dance Monkey :),0.802,Positive,0.31666666666666665,Netural,0.740561306476593,Positive
+Dancey monkey  haaaaaaayyyy  lindo  verdad😂❤❤❤❤❤❤,0.9836,Positive,-0.05,Negative,-0.4560081958770752,Negative
+danfe moconkey :D,0.6166,Positive,1.0,Positive,0.3016810417175293,Netural
+I translat in Hindi,0.0,Neutral,0.0,Netural,0.26817891001701355,Netural
+I listen this every day,0.0,Neutral,0.0,Netural,0.6454410552978516,Positive
+Perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
+Zor xosha,0.5719,Positive,0.0,Netural,-0.33988773822784424,Negative
+"И уже никого подобный бред не удивляет, а многие им восхищаются. Пример отката эволюции мозга.",-0.1063,Negative,0.25,Netural,-0.27158427238464355,Negative
+I love it so much!,0.6696,Positive,0.375,Positive,0.9126124978065491,Positive
+"Чики,брики получай, брики,чики,больно,по фиг мне.🤘🚀😎💫😘",0.6124,Positive,0.0,Netural,-0.5053035020828247,Negative
+💖😍🤩😘😸😻💘😽,0.981,Positive,0.0,Netural,0.30857792496681213,Netural
+😻😸😘🤩😍💖,0.9623,Positive,0.0,Netural,0.30857792496681213,Netural
+Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+I wanna be like her because im in real a devil too haha,0.0258,Neutral,0.2,Netural,0.22287136316299438,Netural
+"Jesus is God & He loves you
+
+Jesus will soon be seen by all men, women, and children in the clouds. Jesus is returning now! Believe and be saved.
+
+Exodus 3:14 (God speaking)
+And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.
+
+John 8:58 (Jesus speaking)
+Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+
+John 10:30 (Jesus speaking)
+I and my Father are one.
+
+Isaiah 9:6
+For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, *The everlasting Father,* The Prince of Peace.
+
+Matthew 1:23
+Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, *God with us.*
+
+John 1:1 & 14
+1 In the beginning was the Word, and the Word was with God, and the Word was God.
+14 And the Word was made flesh (Lord Jesus), and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+
+John 8:24 (Jesus speaking)
+I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+
+John 14:9 (Jesus speaking)
+Jesus saith unto him, Have I been so long time with you and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
+
+Hebrews 1:1-3, & 8 (God calls His Son ""O God"" because Jesus IS God in the flesh)
+1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
+2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
+8 But unto the Son he saith: Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
+
+1 John 5:7;
+For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+
+Titus 2:13
+Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+
+Revelation 1:7
+Behold, he cometh with clouds; *and every eye shall see him,* and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+
+Isaiah 44:6 (God speaking).
+Thus saith the LORD the King of Israel and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.
+
+Revelation 1:8 (Jesus speaking)
+I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, *the Almighty.*
+
+Revelation 22:13 (Jesus speaking);
+I am Alpha and Omega, the beginning and the end, the first and the last.
+
+---
+
+There Are None Righteous / How To Be Saved
+
+Romans 3:10 & 23
+10 As it is written, There is none righteous, no, not one:
+23 For all have sinned, and come short of the glory of God;
+
+Luke 5:31-32 (Jesus speaking).
+31 And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
+32 I came not to call the righteous, but sinners to repentance.
+
+1 Peter 3:18 (The word “quicken” means “to make alive”)
+For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
+
+Romans 10:9
+That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
+
+Acts 4:12.
+Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.
+
+Ephesians 2:8-9
+8 For by grace are ye saved through faith and that not of yourselves: it is the gift of God:
+9 Not of works, lest any man should boast.
+
+Repent of your sins or suffer the consequences. Lord Jesus died in our places personally to take the death punishment that sin deserves and then resurrected by the power of God. Believe this and sincerely repent of your sins each time you sin and you will have eternal life and nothing to fear. Fail to repent and you will end up in the Lake of Fire.",0.991,Positive,0.08703492063492062,Netural,0.7228086590766907,Positive
+It is very good,0.4927,Positive,0.9099999999999999,Positive,0.46378636360168457,Positive
+Se now is mi favorite,0.4588,Positive,0.5,Positive,0.7216058373451233,Positive
+Divine Woman 🔥😍❣,0.8555,Positive,0.0,Netural,0.6232311129570007,Positive
+"Lena
+Lena",0.0,Neutral,0.0,Netural,0.28295207023620605,Netural
+😍❤💞🦄❤😤❤😘😘😘😘😘😘😘😘😘😘,0.9931,Positive,0.0,Netural,0.30857792496681213,Netural
+"செம்ம இசை . நடிப்பு அதி தீவிரம்
+. வாழ்த்துகள்",0.6369,Positive,0.0,Netural,0.3336349427700043,Positive
+Awesome music 🎶😘❤️,0.7845,Positive,1.0,Positive,0.8098678588867188,Positive
+Harley quinn is amzing beautifull girl,0.8271,Positive,0.7250000000000001,Positive,0.5581028461456299,Positive
+"Jajaja q"" buen video",0.8591,Positive,0.5333333333333333,Positive,0.43312570452690125,Positive
+Jjjj,0.0,Neutral,0.0,Netural,0.27277708053588867,Netural
+WOW ❤️❤️❤️❤️,0.6739,Positive,0.1,Netural,0.6722603440284729,Positive
+jalicuin,0.0,Neutral,0.0,Netural,0.4827454686164856,Positive
+(O_x),0.0,Neutral,0.0,Netural,0.23587384819984436,Netural
+👍👍👍👍👍,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+🥇🥇🥇🥇♥👑,0.9485,Positive,0.0,Netural,0.30857792496681213,Netural
+"Chat et un grand,,,,,,w,🤘🤟🖖",0.0,Neutral,0.0,Netural,0.3295939862728119,Netural
+coollllllllllllllllllllllllllllllllllllllllllllllllllll,0.0,Neutral,0.0,Netural,0.23515138030052185,Netural
+i  Guay   !,0.0,Neutral,0.0,Netural,0.24777640402317047,Netural
+"""THIS song NEVER gets OLD. No MATTER how MUCH listen, I NEVER get BORED""❤",0.6956,Positive,-0.06666666666666665,Negative,0.5046089291572571,Positive
+Nearly umed,0.0,Neutral,0.1,Netural,-0.5106246471405029,Negative
+I almost fainted my friend and I was eating frenchries and I almost died,-0.0953,Negative,0.0,Netural,-0.40777963399887085,Negative
+She's so cool,0.3804,Positive,0.35,Positive,0.6857478618621826,Positive
+160,0.0,Neutral,0.0,Netural,0.24390935897827148,Netural
+Meincanto😇,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+Yncreible,0.0,Neutral,0.9,Positive,0.3518907129764557,Positive
+My favorite songs ❤️❤️❤️❤️❤️,0.4588,Positive,0.5,Positive,0.9154966473579407,Positive
+Hehehe,0.0,Neutral,0.0,Netural,-0.2742430865764618,Negative
+👌👌👌✔️✔️✔️✔️👑👑👑🎉🎉🏆🏆🏆,0.9712,Positive,0.0,Netural,0.30857792496681213,Netural
+👌👌👌🌎🌎🌎,0.9545,Positive,0.0,Netural,0.30857792496681213,Netural
+Oha,0.0,Neutral,0.0,Netural,0.2852349579334259,Netural
+انا غانكبر غنولي تماما بحالك تماما عجبتني اغنيه قصباني كيف مامي وادي السي ماما اي اي بايت نطلاقاو شي نهار يا ربي نشوفك يا رب يا رب يا رب العالمين ا سيدي ربي باي باي باي باي🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦💋💋💋💋💋💋💋💕💕💕💕💕🌺🌺🌺🌺🌺🌷🌷🌷🌷🌷💗💗💗💐💐💐💐💐🌷🌷🌷🌷🌷🌹🌹🌹🌹🌹🌺🌺🌺🌺🌺💕💕💕💕💕💕💕❤❤❤❤❤💋💋💋💋💋♥♥♥♥♥😍😍😍😍😍🌷💕💕💕💕💕💕💗💗💗💗💗🌹🌹🌹🌹🌹❤❤❤❤❤😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷💕💕💕💕💕💕💋💋💋💋💋😘😘😘😘😘🌹🌹🌹🌹🌹😍😍😍😍😍🌷🇲🇦😘💕💋🌹😳♥🌙🌴🌺👍❤😁😍😉🌷💐💗😜💗💓💞💕💟❣💔❤💛💚💙💜💋💌💘💝💖😻😍😘😚😚,1.0,Positive,0.8,Positive,-0.3393212854862213,Negative
+روان heartfelt thanks and regards Dr s to whom this email is strictly confidential and intended only for the email I sent,0.7506,Positive,0.06666666666666667,Netural,-0.333385169506073,Negative
+Można się zakochać   =D,0.6369,Positive,0.75,Positive,0.38664236664772034,Positive
+💞💕❤️🤩,0.8625,Positive,0.0,Netural,0.30857792496681213,Netural
+❤💘💘💘💘❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💘💘💘💘❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💘💘💘💘💘💘❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💘💘💘💘💘❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❣❣❣💌💖❤‍🩹❤🧡💛💚💙💜🤎🖤🤍👍🏻,0.9999,Positive,0.0,Netural,0.30857792496681213,Netural
+Mmmmm harley quinn😁😜😛😃😀😍😘,0.9153,Positive,0.0,Netural,0.38253217935562134,Positive
+Sem palavras 😋,-0.296,Negative,0.0,Netural,-0.3928177058696747,Negative
+Qik niet 😈😨😢😢😢😢😯,0.0,Neutral,0.0,Netural,-0.5893503427505493,Negative
+😲🙀😢😢😢😢😢😢😈,-0.9337,Negative,0.0,Netural,0.30857792496681213,Netural
+නියමයි👍👍👍,0.6249,Positive,0.8,Positive,0.30857792496681213,Netural
+Chido que me gustaría saber como puedo ser ella,0.3612,Positive,0.0,Netural,0.33368802070617676,Positive
+🥰,0.8074,Positive,0.0,Netural,0.30857792496681213,Netural
+😂😂😂😂really matches the lyrics with her psycho😂😂😂😂😂😂😂,0.9779,Positive,0.0,Netural,0.4563865661621094,Positive
+I sooo want to be like her 🤩🤩🤩🤩🤩,0.4215,Positive,0.0,Netural,0.30633383989334106,Netural
+1st Like bro,0.3612,Positive,0.0,Netural,0.4430629014968872,Positive
+Jarli cuin 😎😼🙊,0.6705,Positive,0.0,Netural,0.33278539776802063,Positive
+🌟😈🤑🥰🤩👍💓💓💓,0.9851,Positive,0.0,Netural,0.30857792496681213,Netural
+I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
+Good 👍👍😊😊🤩🥰,0.969,Positive,0.7,Positive,0.5060494542121887,Positive
+I like hardly quine,0.3612,Positive,-0.2916666666666667,Negative,0.3678421974182129,Positive
+💀☠️😱😝😜🤪😇,-0.4215,Negative,0.0,Netural,0.30857792496681213,Netural
+😈😈😈😈😈👻👻😃,0.9169,Positive,0.0,Netural,0.30857792496681213,Netural
+😍😍😍😍😍😍👩‍⚖😘😘😘😘😘😘😘😘😈😈👿👿👿,0.9867,Positive,0.0,Netural,0.30857792496681213,Netural
+Great singer and great actress,0.8481,Positive,0.8,Positive,0.8025913834571838,Positive
+Well done Aussie. Aussie woman rule.,0.2732,Positive,0.0,Netural,0.6006476283073425,Positive
+Да полный класс!!!,0.4574,Positive,0.125,Netural,0.572605550289154,Positive
+Your so cool😘,0.659,Positive,0.0,Netural,0.4114716351032257,Positive
+Hdjgs,0.0,Neutral,0.0,Netural,0.31856679916381836,Netural
+👍🏻😈👿,-0.0772,Negative,0.0,Netural,0.30857792496681213,Netural
+Ye granny jesi lag rahi hai lol🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣,0.9897,Positive,0.0,Netural,0.31016039848327637,Netural
+IS VERY COOL,0.3804,Positive,0.45499999999999996,Positive,0.5945883989334106,Positive
+SUPER!!!,0.6981,Positive,0.6510416666666665,Positive,0.8130416870117188,Positive
+Gfgfnyadu4vhyd,0.0,Neutral,0.0,Netural,0.21859976649284363,Netural
+😻😎,0.7184,Positive,0.0,Netural,0.30857792496681213,Netural
+This is better,0.4404,Positive,0.5,Positive,0.369466096162796,Positive
+🖤🖤🖤🖤🖤🖤🖤🖤🖤,0.9911,Positive,0.0,Netural,0.30857792496681213,Netural
+I LOVE HARLEY QUINN,0.6369,Positive,0.5,Positive,0.7569191455841064,Positive
+Amei😘😇,0.8658,Positive,0.7,Positive,0.30857792496681213,Netural
+Amei,0.5994,Positive,0.7,Positive,0.2903938293457031,Netural
+❤😈❤❤❤❤❤❤❤❤❤,0.9936,Positive,0.0,Netural,0.30857792496681213,Netural
+👧😚,0.5719,Positive,0.0,Netural,0.30857792496681213,Netural
+4,0.0,Neutral,0.0,Netural,0.3892470896244049,Positive
+Harley quinn la meilleur et la vrai anti heros,0.8519,Positive,0.675,Positive,0.7429870963096619,Positive
+☺🍫,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+สามเหลี่ยมเมอร์บิวส์ด้า  ยกทับ จับศึก ทั่วโลก ด้วยวิธินี้ 🔪👽👌👆,0.5473,Positive,0.0,Netural,0.2984410226345062,Netural
+👆💚👌😙😙😙😙😙,0.9922,Positive,0.0,Netural,0.30857792496681213,Netural
+พยาบาล สุดแส๊บ,0.0,Neutral,0.0,Netural,0.27248919010162354,Netural
+"很好聽😊💕🎧🎵🎶
+讚賞！😊💕💝💖
+讚美！😊💕💐🌹",0.9945,Positive,1.0,Positive,0.8163579106330872,Positive
+"Oh my God, Lady Joker",0.3818,Positive,0.0,Netural,0.561363697052002,Positive
+Eci,0.0,Neutral,0.0,Netural,0.2765233516693115,Netural
+هههههههاي,0.0,Neutral,0.2,Netural,0.22971196472644806,Netural
+😎🤑,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+Me encanta,0.6369,Positive,0.5,Positive,0.7738614678382874,Positive
+😮😮♥♥♥😎😎,0.9618,Positive,0.0,Netural,0.30857792496681213,Netural
+JE  TADORE   ET   SES   TROS    COOL,0.7579,Positive,0.425,Positive,0.5437295436859131,Positive
+Me gusta mucho 😍,0.6705,Positive,0.0,Netural,0.5180273056030273,Positive
+Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+Arley  quiin  sei fantastica e  salutami  anche  joker,0.6808,Positive,1.0,Positive,0.7503172159194946,Positive
+https://youtu.be/BHvZqINNh6E,0.0,Neutral,0.0,Netural,-0.2335491180419922,Negative
+I love harley,0.6369,Positive,0.5,Positive,0.764040470123291,Positive
+Linda canción amor,0.7906,Positive,0.55,Positive,0.4411012530326843,Positive
+Oau,0.0,Neutral,0.0,Netural,0.28116729855537415,Netural
+Please do Tokyo drift,0.3182,Positive,0.0,Netural,-0.2732616364955902,Negative
+yes your right we can say god bless to everyone and the family will be happy 💖🤩💖,0.9723,Positive,0.5428571428571429,Positive,0.8026239275932312,Positive
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0.0,Neutral,0.0,Netural,-0.5034006834030151,Negative
+ME ENCANTO ME GUSTA DE HOY PARA ADELANTE HARLEY QUINN,0.7717,Positive,0.5,Positive,0.7561227083206177,Positive
+She reminds me of my first wife until she was committed in to the asylum,0.2732,Positive,0.25,Netural,0.34044790267944336,Positive
+"Omg she'is omg omg
+😳😍😍😂",0.836,Positive,0.0,Netural,-0.27555954456329346,Negative
+Brids of prey✖️ alexa blis✔️,0.5719,Positive,0.0,Netural,0.24342003464698792,Netural
+Brids of prey,0.0,Neutral,0.0,Netural,0.2499535232782364,Netural
+😎🔥❤🔥😎,0.7506,Positive,0.0,Netural,0.30857792496681213,Netural
+Are you still going north or are there any days,0.0,Neutral,0.0,Netural,-0.3199302554130554,Negative
+Jjjj,0.0,Neutral,0.0,Netural,0.27277708053588867,Netural
+⁰⁰,0.0,Neutral,0.0,Netural,-0.273838609457016,Negative
+WEWW TRE TREBIEN,0.0,Neutral,0.0,Netural,0.2765122652053833,Netural
+O my god I like them,0.5574,Positive,0.0,Netural,0.5144456028938293,Positive
+19+,0.0,Neutral,0.0,Netural,0.3207295536994934,Netural
+Canto te gusta mucho Carly te quiero Carly eres la mejor,0.8979,Positive,0.75,Positive,0.6587563157081604,Positive
+Very funny 😁😂😂😂 video's ✓✓✓,0.9312,Positive,0.325,Netural,0.5703314542770386,Positive
+Hi,0.0,Neutral,0.0,Netural,0.23648656904697418,Netural
+My girl,0.0,Neutral,0.0,Netural,0.5821101069450378,Positive
+https://youtu.be/ZSgVayPHuB8,0.0,Neutral,0.0,Netural,0.22942152619361877,Netural
+I like it 😝,0.3612,Positive,0.0,Netural,0.4648337960243225,Positive
+C'est moi le monkey de FILLON DANS SON FION,-0.6408,Negative,-0.05,Negative,0.44940122961997986,Positive
+Ali,0.0,Neutral,0.0,Netural,0.23548772931098938,Netural
+😁😄,0.8176,Positive,0.0,Netural,0.30857792496681213,Netural
+İtis nice,0.4215,Positive,0.6,Positive,0.383632093667984,Positive
+Wow 🥰😍🤩😘🎀🎀🎀🎀🎀🎀🎀🎀🎀,0.9509,Positive,0.1,Netural,0.6722603440284729,Positive
+"Arlequina linda
+🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️",0.9986,Positive,0.9934782608695653,Positive,0.28925859928131104,Netural
+😇❤❤❤❤❤🥇❤🥇❤❤🥇❤🥇🥇🥇🥇🥇🥇🥇🫂🫂🫂🫂🫂🫂,0.997,Positive,0.0,Netural,0.30857792496681213,Netural
+Ti voglio bene,0.6369,Positive,0.5,Positive,0.4107365012168884,Positive
+Mía y miradel Isabel. Nahomi,0.0,Neutral,0.0,Netural,0.4031130373477936,Positive
+Tu aies une ouf👍❤️ et surtous j'adore ❤️❤️❤️💓💓💓💓😁,0.9839,Positive,0.25,Netural,0.7296390533447266,Positive
+Es preciso la niña,0.0,Neutral,0.0,Netural,0.32365262508392334,Netural
+Q mulher gata letysgo 🤞❤️ t,0.0,Neutral,0.25,Netural,-0.4257105588912964,Negative
+Ah man i dunno that why this song gives me relax 😌,0.6705,Positive,0.0,Netural,0.3196371793746948,Netural
+Is fantastic 😜😜👍👍👍,0.5574,Positive,0.4,Positive,0.8256582617759705,Positive
+👿👿👿😈💌🖤,0.3612,Positive,0.0,Netural,0.30857792496681213,Netural
+اني احب هارلي كو ين,0.6369,Positive,0.5,Positive,0.4008661210536957,Positive
+Maritza Tellz,0.0,Neutral,0.0,Netural,0.2651916444301605,Netural
+Me,0.0,Neutral,0.0,Netural,0.2765241265296936,Netural
+😏😏,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Chica hermosa,0.5994,Positive,0.85,Positive,0.6943084597587585,Positive
+Çok goźel,0.0,Neutral,0.2,Netural,0.39208516478538513,Positive
+Cool😘😘😘😘😘😘😘😘😘😘😘 me gusta mucho 😓👿👍,0.9788,Positive,0.0,Netural,0.532429575920105,Positive
+Nekem tetszik,0.3612,Positive,0.0,Netural,0.47583773732185364,Positive
+Name movie,0.0,Neutral,0.0,Netural,0.23047131299972534,Netural
+😱😨😰😭😭😭🤧🤧,-0.9601,Negative,0.0,Netural,0.30857792496681213,Netural
+👻👹😈,0.1779,Positive,0.0,Netural,0.30857792496681213,Netural
+После вчерашнегося дня рождения,0.0,Neutral,0.0,Netural,0.44257232546806335,Positive
+🥰🥰🥰🥰🥰🥰😇😇😇🥰🥰,0.9968,Positive,0.0,Netural,0.30857792496681213,Netural
+💃😡😝😈,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+شكر,0.3612,Positive,0.0,Netural,0.3328782618045807,Positive
+Harly   Quinn  Buena😋😋,0.0,Neutral,0.0,Netural,0.3108018934726715,Netural
+ESCELEXTE,0.0,Neutral,0.0,Netural,0.2361590713262558,Netural
+CID,0.0,Neutral,0.0,Netural,0.26204046607017517,Netural
+Movie Name,0.0,Neutral,0.0,Netural,0.2569657564163208,Netural
+Need to do dinner soon dear,0.3818,Positive,0.0,Netural,0.37704089283943176,Positive
+That's my mama,0.0,Neutral,0.0,Netural,0.26582565903663635,Netural
+👫😈😈😈😈😈,0.9325,Positive,0.0,Netural,0.30857792496681213,Netural
+👍🏼✌️✌️✌️me encanto,0.5994,Positive,0.7,Positive,0.7629538774490356,Positive
+Me encanta 😈😈👏,0.8807,Positive,0.5,Positive,0.8068308234214783,Positive
+Oi,0.0,Neutral,0.0,Netural,0.25598862767219543,Netural
+Amei😇❤,0.9022,Positive,0.7,Positive,0.30857792496681213,Netural
+Ti cuida Coringa,0.5719,Positive,0.0,Netural,0.3354572355747223,Positive
+Música que é a cara da arlequina,0.0,Neutral,0.0,Netural,0.35340291261672974,Positive
+omaicat ¡Noooooo!ya ya ya o Jarli,0.0,Neutral,0.0,Netural,-0.6624165177345276,Negative
+Название фильма ?,0.0,Neutral,0.0,Netural,-0.3035532236099243,Negative
+Wooooow💕💕,0.8625,Positive,0.0,Netural,0.30857792496681213,Netural
+❤❤❤❤❤,0.9719,Positive,0.0,Netural,0.30857792496681213,Netural
+😄😁💖😉🎇🎆🤩💪😃😁👍,0.9607,Positive,0.0,Netural,0.30857792496681213,Netural
+😈😈😈😈,0.9001,Positive,0.0,Netural,0.30857792496681213,Netural
+😈😈😈😈😈👻,0.9136,Positive,0.0,Netural,0.30857792496681213,Netural
+Que buena música,0.4404,Positive,0.7,Positive,0.4533059000968933,Positive
+16:04 You’re my perfect woman.,0.5719,Positive,1.0,Positive,0.881982684135437,Positive
+pobre de su llena,-0.4767,Negative,-0.025000000000000022,Negative,-0.4235573709011078,Negative
+I y ı'm turkish,0.0,Neutral,0.0,Netural,-0.32215195894241333,Negative
+Im in LOVE. No Doubt.,0.7931,Positive,0.5,Positive,0.5716508626937866,Positive
+No entiendo cómo se pronuncia,0.0,Neutral,0.0,Netural,-0.30012714862823486,Negative
+Класс😃😃😃😃😃,0.8885,Positive,0.0,Netural,0.30857792496681213,Netural
+WOW YOU MUSIC POWER,0.5859,Positive,0.1,Netural,0.851601779460907,Positive
+i like the songs,0.3612,Positive,0.0,Netural,0.5255424976348877,Positive
+😎😍😍😘,0.8957,Positive,0.0,Netural,0.30857792496681213,Netural
+Oh I see you everytime and my eye I like your style make me make me wanna cry just one more time dance for me oh.oh anybody do that things before,-0.1531,Negative,0.5,Positive,0.6602574586868286,Positive
+Haaarley quieen. Take my hand my dear,0.7003,Positive,0.0,Netural,0.6193723678588867,Positive
+Perfect video with perfect song!,0.8268,Positive,1.0,Positive,0.9196726083755493,Positive
+God bless are family’s and everyone so we bless each other,0.7893,Positive,-0.125,Negative,0.5895730257034302,Positive
+So cool,0.3804,Positive,0.35,Positive,0.67906254529953,Positive
+I'm love this song,0.6369,Positive,0.5,Positive,0.8315754532814026,Positive
+Super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
+พล,0.0,Neutral,0.05000000000000002,Netural,0.30857792496681213,Netural
+😨😨😨😨🥺🥺😟😟😟😏😏😏😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😻😻😻😻😻❤,0.998,Positive,0.0,Netural,0.30857792496681213,Netural
+"3:10 The longer you hide your feelings for someone, the more you fall for them.",-0.1779,Negative,0.5,Positive,0.4478687644004822,Positive
+Страхотна песен много е хубава,0.8016,Positive,0.79,Positive,0.4140070676803589,Positive
+Hoy presentamos: 1.000 maneras de reiniciarte el Windows con Harley Quinn M♥♥,0.8555,Positive,0.0,Netural,0.3466722071170807,Positive
+Devil 😈,-0.34,Negative,0.0,Netural,0.4759581387042999,Positive
+Chido oido,0.0,Neutral,0.0,Netural,0.2750682830810547,Netural
+"10:10 If kisses were snowflakes, I would send you a blizzard.",0.5106,Positive,0.0,Netural,-0.4495847821235657,Negative
+الجميلة أغنية كتير وله حبيتها,0.8225,Positive,0.85,Positive,0.39176222681999207,Positive
+💜💜💜💜💜,0.9719,Positive,0.0,Netural,0.30857792496681213,Netural
+8:27 You may only be one person to the world but you may be the world to one person.,0.0,Neutral,0.0,Netural,-0.32106298208236694,Negative
+🥰🥰🥰😈😈😈🖕🏻🖕🏻🖕🏻,0.9847,Positive,0.0,Netural,0.30857792496681213,Netural
+Hillary,0.0,Neutral,0.0,Netural,0.31356528401374817,Netural
+"MANO ESSE ERA MEU VIDEO FAVORITO :0
+LEMBREI DELE AGORA E MAIS:SEU VIDEO TA PERFEITO TA OK :)",0.9337,Positive,0.6,Positive,0.5988451838493347,Positive
+Gau,0.0,Neutral,0.0,Netural,0.37493857741355896,Positive
+Sl,0.0,Neutral,0.0,Netural,0.2968391478061676,Netural
+100000🖤😈,0.802,Positive,0.0,Netural,0.30857792496681213,Netural
+я влюблен в эмоции этой девушки. I'm in love with this girl's emotions,0.8555,Positive,0.5,Positive,0.6866475343704224,Positive
+Вовсе не такая тупая такая тупая песня Зачем вообще одеваться её в ерунду,-0.891,Negative,-0.39999999999999997,Negative,-0.5298165082931519,Negative
+Ясная песня ещё какая страшная страшная песня,-0.5859,Negative,-0.3,Negative,-0.4355766177177429,Negative
+Aha,0.0,Neutral,0.0,Netural,0.26942160725593567,Netural
+Hola harlicuin,0.0,Neutral,0.0,Netural,0.2497521936893463,Netural
+Sabrina,0.0,Neutral,0.0,Netural,0.3607128858566284,Positive
+Dance monkey la la la,0.0,Neutral,-0.05,Negative,0.2639777958393097,Netural
+The ghost of so many wild gypsy queens rest in this song painted of the face of the smile in her chaos. ~of lovers n thieves,-0.5267,Negative,0.3,Netural,0.5144657492637634,Positive
+오 그래 그게 내가 필요했던 노래야,0.296,Positive,0.0,Netural,0.26267409324645996,Netural
+👹👹👹😈👹😈👹👹😈😈😎😎😎😎😎😎😎😎😎😎😎😎😎😎,0.9943,Positive,0.0,Netural,0.30857792496681213,Netural
+😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😉😉😉😉😉😉😉😉😉😉😎😎😎😎👹👹😈👹😈😈👹😈😈😈😈😈😈👹😈😈👹😠😡😡😠😡😠👺🖕🖕🖕🖕🖕🖕,0.9979,Positive,0.0,Netural,0.30857792496681213,Netural
+Pp,0.0,Neutral,0.0,Netural,0.2713668644428253,Netural
+ana mitloki  ya sadi9ati😈😈😈😈😈ahsanti😘,0.9501,Positive,0.0,Netural,0.32759591937065125,Netural
+واو انا بحبها,0.8402,Positive,0.3,Netural,0.6243663430213928,Positive
+احسن أغنية لدي,0.6369,Positive,1.0,Positive,0.7823758721351624,Positive
+I like to be like her,0.6124,Positive,0.0,Netural,0.49934813380241394,Positive
+😈😈😈😈😈😈😈😈😈😈,0.9818,Positive,0.0,Netural,0.30857792496681213,Netural
+Very beautiful song good,0.8104,Positive,0.85,Positive,0.5728940367698669,Positive
+Mi  queso  mi   queso mi  queso  mi hojoooo😈💯👍,0.4588,Positive,0.0,Netural,-0.45606088638305664,Negative
+Dance,0.0,Neutral,0.0,Netural,0.3491361737251282,Positive
+Wery good,0.4404,Positive,0.7,Positive,0.36938488483428955,Positive
+Как называется  фильм?🙏,0.0,Neutral,0.0,Netural,-0.3479797840118408,Negative
+Me encanta la cara de reverendo idiota del villano de esta peli porque se parece a la vida real un hombre acomplejado y sin futuro con una amante buena parada me refiero a este gran actor llamado ewan macgregor,0.7891,Positive,0.08680555555555558,Netural,0.6854979991912842,Positive
+پیشم دو کوس غباری است تا بیخ پوشت است مادرش 🤣🤣🤳🥴,0.7506,Positive,-0.1,Negative,-0.2627774477005005,Negative
+Amei,0.5994,Positive,0.7,Positive,0.2903938293457031,Netural
+Amei,0.5994,Positive,0.7,Positive,0.2903938293457031,Netural
+https://youtu.be/gY56N_zk3VM,0.0,Neutral,0.0,Netural,0.24490472674369812,Netural
+It looked so good. 👏👏👏,0.5777,Positive,0.7,Positive,0.5341590642929077,Positive
+",",0.0,Neutral,0.0,Netural,0.25913411378860474,Netural
+I can sing this song my favourite song is dance monkey,0.0,Neutral,-0.05,Negative,0.6195167899131775,Positive
+I like your small heart,0.7717,Positive,-0.25,Negative,0.5120453238487244,Positive
+Lovely song,0.5859,Positive,0.5,Positive,0.5464433431625366,Positive
+I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+Amo a Harley Quinn,0.0,Neutral,0.0,Netural,0.36906909942626953,Positive
+CIA Nando e nois 1990 zl,0.0,Neutral,0.0,Netural,-0.4262333810329437,Negative
+Hoje eu não tô acreditando 😞😢😢😞😢😢😢,-0.9437,Negative,0.0,Netural,-0.38316935300827026,Negative
+What a bad girl ☠️😈,-0.128,Negative,-0.6999999999999998,Negative,-0.9091818332672119,Negative
+😍😍😍😍😍😍😍😍😍😍😍😍💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸💸😂💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💴💶💶💵💵💵💶💶💶💶💶💵💵💴💶💵💵💵💵💵💵💵💶💶💶💶💶💶💶💶💵💶💵💴💴💸💸💸💸💸💸😘😘😘😘💷💷💷💷💷💷🤩😍😍😍😍❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️,0.9956,Positive,0.0,Netural,0.30857792496681213,Netural
+So bad I love it,0.1706,Positive,-0.09999999999999992,Negative,0.7348598837852478,Positive
+Jarli cuin y el guason,0.128,Positive,0.0,Netural,0.276197612285614,Netural
+Wow 😈😈😈😈😝😛😜🤪😳😈😈💙,0.9776,Positive,0.1,Netural,0.6722603440284729,Positive
+LINETTE 7🤘🤘🤘🤘🤘🤘🐱🤯🤯🤯🤯🤯🤯👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼💓💓🦄🦄🦄🦄🤯🤯🤯🤩🤩😍😍😍😍😍🤑🤑🎠🎠😅🙃,0.9884,Positive,0.0,Netural,0.3086602985858917,Netural
+I love HARLEY QUEEN 😍😍😍,0.9217,Positive,0.5,Positive,0.7988129258155823,Positive
+🥰,0.8074,Positive,0.0,Netural,0.30857792496681213,Netural
+me ncanta,0.6369,Positive,0.5,Positive,0.28221580386161804,Netural
+💜💜💜💜🖤🖤🖤🖤🖤🖤💋💋❤️🤑😘,0.9947,Positive,0.0,Netural,0.30857792496681213,Netural
+I love this song 🎵 ❤,0.8555,Positive,0.5,Positive,0.8616991639137268,Positive
+Aaaaaaaaaaaa🤭🇷🇸🇷🇸😵😵,0.1027,Positive,0.0,Netural,0.30857792496681213,Netural
+"15:09 I’m lucky because I have plans for today, for tomorrow, for the week, and for my whole life—to make you happy.",0.7579,Positive,0.4444444444444445,Positive,0.6990630030632019,Positive
+Hola XDAAAAAAAAAAAAAAAAA,0.0,Neutral,0.0,Netural,-0.4418945014476776,Negative
+Una maravilla con 200 enhorabuena,0.5994,Positive,0.0,Netural,0.8598262071609497,Positive
+❤‍🩹😲😘,0.6597,Positive,0.0,Netural,0.30857792496681213,Netural
+Who desain this aktions he is a real hero 💕💖 👍,0.936,Positive,0.2,Netural,0.795903205871582,Positive
+😆😆😆🤠,0.7579,Positive,0.0,Netural,0.30857792496681213,Netural
+Asya 🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺😢😢😢😢😢,-0.9382,Negative,0.0,Netural,0.33385875821113586,Positive
+Deliziosa!,0.6114,Positive,1.0,Positive,0.7691075205802917,Positive
+The most beautiful and the best song and the best acting,0.9273,Positive,0.67,Positive,0.9536728262901306,Positive
+I LOVE HARLI KWEN!🤪👍🦂GOKER!🤡,0.7592,Positive,0.5,Positive,0.8564497232437134,Positive
+❤❤❤👍👍👍,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Harley   Quinn,0.0,Neutral,0.0,Netural,0.3261134624481201,Netural
+yo no puedo por que  vibo  en Montevideo(❁´◡`❁)╰(*°▽°*)╯ los quiero mucos me saludas en oro bideo,0.7759,Positive,0.2787878787878788,Netural,-0.42005881667137146,Negative
+I like she verry much,0.3612,Positive,0.2,Netural,0.4930606186389923,Positive
+"Simétrica
+❤💗💗😍☺💰💵 📩?
+.",0.9682,Positive,0.0,Netural,0.3632856011390686,Positive
+I don’t like her here,0.3612,Positive,0.0,Netural,-0.40995556116104126,Negative
+Its a little bit  scary,-0.4445,Negative,-0.34375,Negative,0.4592282772064209,Positive
+q Honda rrasa,0.0,Neutral,0.0,Netural,0.37647005915641785,Positive
+Harley Quinn sucks,-0.3612,Negative,-0.3,Negative,-0.6580215692520142,Negative
+😈👿👿😈😈😈😈😈👿😈😈😷😈😈😈😈😈😈😈😈😈😈👿😈👿👿👿👿😈😈😈👿👿👿👿😡😡😡😡😡😡🤕🤕🤕🤕🤕🤕🤕🤕👹👹👹 😈😈👿👹👺😠👿💀fjxjxjxjfjdjfjdndjdjdjdjdkejrjrjfjdjfjdjjdjuejekekrkejfjejrkrkekjeueurjrjfjfjjfjfkdkkdkkdkkdjfjfnfjfnjbg,0.9393,Positive,0.0,Netural,0.34280773997306824,Positive
+Esta chida,0.0,Neutral,0.0,Netural,-0.4532473683357239,Negative
+From seeing this it reminds me of Toga Himiko,0.0,Neutral,0.0,Netural,0.48842182755470276,Positive
+"by the way what's the tittle of that movie??, i love to watch it",0.6767,Positive,0.5,Positive,0.36297211050987244,Positive
+i love this girl,0.6369,Positive,0.5,Positive,0.8717299103736877,Positive
+"16:26 Has anybody ever told you that you have the best smile? I bet you hear that a lot, huh?",0.7941,Positive,0.65,Positive,-0.21597903966903687,Negative
+Harley Lover😘😘😘😘😘💗💗👌,0.9869,Positive,0.0,Netural,0.42578572034835815,Positive
+"2:55 I don't want to be your number one, I want to be your only one.",0.0971,Positive,0.0,Netural,-0.33558154106140137,Negative
+Ahoj jak se jmenuješ,0.0,Neutral,0.0,Netural,0.425106406211853,Positive
+Как это фильм?,0.0,Neutral,0.0,Netural,-0.27049365639686584,Negative
+Diana 1,0.0,Neutral,0.0,Netural,0.41756874322891235,Positive
+"13:07 Sweety, can I be your only love ?",0.6369,Positive,0.25,Netural,0.529831051826477,Positive
+Celia💗💗💗💖,0.9723,Positive,0.0,Netural,0.30857792496681213,Netural
+Wow,0.5859,Positive,0.1,Netural,0.6995608806610107,Positive
+Harley Quinn is one of my favorite female movie characters.,0.4588,Positive,0.25,Netural,0.8502888679504395,Positive
+แดสโซนี่ นี่หว่า,0.0,Neutral,0.0,Netural,0.2502828538417816,Netural
+this girl is so smart  I like it if I be her I like to help people,0.8874,Positive,0.21428571428571427,Netural,0.6084855198860168,Positive
+WoW,0.5859,Positive,0.1,Netural,0.6995608806610107,Positive
+😉😉😉😎😎😊,0.9001,Positive,0.0,Netural,0.30857792496681213,Netural
+I harlequin,0.0,Neutral,0.0,Netural,0.3439619243144989,Positive
+Dankey monkey 👍👍👍👍,0.0,Neutral,-0.05,Negative,0.27593091130256653,Netural
+Good job,0.4404,Positive,0.7,Positive,0.5159298777580261,Positive
+Yei increidibol,0.0,Neutral,0.9,Positive,-0.3405527174472809,Negative
+Sonja and Louis I love them from x factor in this video,0.6369,Positive,0.5,Positive,0.7562543153762817,Positive
+"من أجل هذه الفتاه سامحت جميع الروم.
+توقيع.
+المحارب.",0.4588,Positive,0.0,Netural,0.5265658497810364,Positive
+😛😈😍👍🤔🤔😔,0.743,Positive,0.0,Netural,0.30857792496681213,Netural
+Honestly I admire her gifts. But that's exactly what gift's are. Gifts not to be misconstrued 💐,0.4678,Positive,0.425,Positive,0.43069568276405334,Positive
+Love ypu somuh,0.6369,Positive,0.5,Positive,0.724183976650238,Positive
+মাসাআল্লাহ,0.0,Neutral,0.0,Netural,0.25480276346206665,Netural
+Zo'r❤,0.6369,Positive,0.0,Netural,0.2808429002761841,Netural
+Я тоже  себе куплю биту,0.0,Neutral,0.0,Netural,0.4581594467163086,Positive
+Ты где так научилась драться😘,-0.0258,Neutral,0.0,Netural,0.5817762613296509,Positive
+I and all world love Harley Quinn,0.6369,Positive,0.5,Positive,0.8083718419075012,Positive
+I  am your  fan,0.3182,Positive,0.0,Netural,0.688962996006012,Positive
+adorei a música 😊,0.872,Positive,0.7,Positive,0.6212470531463623,Positive
+Amo,0.0,Neutral,0.0,Netural,0.4348050653934479,Positive
+23,0.0,Neutral,0.0,Netural,0.26179835200309753,Netural
+l love Haley  I  am desse,0.802,Positive,0.5,Positive,0.6656960844993591,Positive
+❤💙❤💙❤💙her hair color,0.9719,Positive,0.0,Netural,0.2916904091835022,Netural
+U,0.0,Neutral,0.0,Netural,0.27402862906455994,Netural
+I love this song and  the music 🎵🎶 now it's my ringtone !,0.6696,Positive,0.625,Positive,0.8709221482276917,Positive
+عالی  thank you,0.7351,Positive,1.0,Positive,0.6220030188560486,Positive
+ÉSSA É AMINHA MUSICA PREFERIDA,0.4588,Positive,0.5,Positive,0.5404754281044006,Positive
+It's touched my heart,0.6369,Positive,0.0,Netural,0.5437076687812805,Positive
+❤️❤️❤️❤️❤️💯❤️❤️,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+"13:00 I guess your parents are bakers, because they made you such a cutie pie!",0.4199,Positive,0.0,Netural,0.29348447918891907,Netural
+❤❤❤❤❤❤❤❤❤,0.9911,Positive,0.0,Netural,0.30857792496681213,Netural
+Harley Quinn ésa es mí valiente villana,-0.0516,Negative,0.8,Positive,0.6557120084762573,Positive
+Deliziosa!,0.6114,Positive,1.0,Positive,0.7691075205802917,Positive
+I love Harley Quinn,0.6369,Positive,0.5,Positive,0.7569191455841064,Positive
+espuena peleando,0.1027,Positive,0.7,Positive,0.369648277759552,Positive
+Showwww Brasil 🇧🇷👍,0.0,Neutral,0.0,Netural,0.32554855942726135,Netural
+😍😍😍😍😍😍😍😍😍🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣😂😂😂😂🤣🤣😂😂🤣🤣😂🤣🤣🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕,0.9985,Positive,0.0,Netural,0.30857792496681213,Netural
+que  malas  es,-0.5423,Negative,-0.6999999999999998,Negative,-0.5292626619338989,Negative
+Я твоя фанатка уууууууууууууууууу,0.3182,Positive,0.0,Netural,-0.3278792202472687,Negative
+She is a Evil queen and I just want to be like him and I know that song a lot I sing it every time,-0.3818,Negative,-1.0,Negative,0.49664440751075745,Positive
+I also goosebumps you super work like this do super 😍😍 super work 🤣😍😍,0.9825,Positive,0.3333333333333333,Positive,0.8633689284324646,Positive
+Why now 😭 funny seen 😂😂😂😭😂😂😂😂😂😂😂😂😂😂😂😂 dal,0.9892,Positive,0.25,Netural,0.43064558506011963,Positive
+Harley Quinn is my first favorite DC super villains,0.3612,Positive,0.3611111111111111,Positive,0.7737911343574524,Positive
+Yo me voy a  pintar  el cabello  asi,0.3612,Positive,0.0,Netural,0.38931533694267273,Positive
+😝😜😛🤩😍😘🤗🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤💢💖,0.9972,Positive,0.0,Netural,0.30857792496681213,Netural
+Me encanta,0.6369,Positive,0.5,Positive,0.7738614678382874,Positive
+Any one in 2022 ??,0.0,Neutral,0.0,Netural,-0.6819750070571899,Negative
+💜☺JIOEKEODKDND,0.802,Positive,0.0,Netural,0.30857792496681213,Netural
+I8+movie,0.0,Neutral,0.0,Netural,0.44815540313720703,Positive
+Hi 😊,0.7184,Positive,0.0,Netural,0.3258702754974365,Netural
+Hi 😊,0.7184,Positive,0.0,Netural,0.3258702754974365,Netural
+Hi 😊,0.7184,Positive,0.0,Netural,0.3258702754974365,Netural
+OP song,0.0,Neutral,0.0,Netural,0.2548483908176422,Netural
+Hola,0.0,Neutral,0.0,Netural,0.25504207611083984,Netural
+I love you hq,0.6369,Positive,0.5,Positive,0.8225034475326538,Positive
+Pamiu,0.0,Neutral,0.0,Netural,0.25395628809928894,Netural
+Вот это фейерверк Харли забобахала! Иииииихххххааааааа!)))),0.0,Neutral,0.0,Netural,0.47154274582862854,Positive
+Bueeeniiisima me encantó 😌👏👏,0.8737,Positive,0.8049999999999999,Positive,0.744022011756897,Positive
+👏👏👏👏👏❤️😍,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+❤️❤️❤️❤️❤️😍😻🥰😘😍🤩,0.959,Positive,0.0,Netural,0.30857792496681213,Netural
+Marina   E.   Amiga  da Micheley,0.4939,Positive,0.0,Netural,0.271028071641922,Netural
+quot,0.0,Neutral,0.0,Netural,0.30194607377052307,Netural
+She’s beautiful,0.5994,Positive,0.85,Positive,0.6781904101371765,Positive
+I love Harley quinn,0.6369,Positive,0.5,Positive,0.7569191455841064,Positive
+You are super women,0.5994,Positive,0.3333333333333333,Positive,0.7481709122657776,Positive
+Harley Quinn you are beautiful,0.5994,Positive,0.85,Positive,0.7508132457733154,Positive
+Hato cuin.   Soi.    Tucán.    Numero.  1.,0.0772,Positive,0.0,Netural,-0.30839598178863525,Negative
+Pduld,0.0,Neutral,0.0,Netural,0.28330326080322266,Netural
+Lllk no se,0.0,Neutral,0.0,Netural,-0.5149235725402832,Negative
+Love Harley Quinn and this song,0.6369,Positive,0.5,Positive,0.7681854367256165,Positive
+😍😍💜💜💜💜💜💜,0.9864,Positive,0.0,Netural,0.30857792496681213,Netural
+🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Дезвоми дезвоми  бехтарин музыка,0.8555,Positive,1.0,Positive,-0.3420763909816742,Negative
+So funny,0.4927,Positive,0.25,Netural,0.657056450843811,Positive
+Great song great Quinn,0.8481,Positive,0.8,Positive,0.7187458872795105,Positive
+🌜🌛,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+My name Mani i love you Harley Quinn,0.6369,Positive,0.5,Positive,0.8704962134361267,Positive
+Harley Quinn you are unbeaten and awesome I love you very much,0.8519,Positive,0.5866666666666667,Positive,0.9276719093322754,Positive
+You are awesome Harley,0.6249,Positive,1.0,Positive,0.852532148361206,Positive
+Harley Quinn loves you very much,0.5719,Positive,0.26,Netural,0.6775503158569336,Positive
+Yooo Billy get in er 2 in the breezzzzx,0.0,Neutral,0.0,Netural,0.29534056782722473,Netural
+U look a bit like Billy 😁😎😂xxx,0.765,Positive,0.0,Netural,0.35215499997138977,Positive
+Harley all Indians love you,0.6369,Positive,0.5,Positive,0.8078482151031494,Positive
+Harley Quinn you are unbeaten and awesome,0.6249,Positive,1.0,Positive,0.8894204497337341,Positive
+Flmi.   Çok.         Güzel,0.5994,Positive,0.85,Positive,0.5185059905052185,Positive
+Haha hehe  😄,0.8176,Positive,0.2,Netural,0.30966097116470337,Netural
+Vc  é ótima atriz ti adoro,0.8519,Positive,0.65,Positive,0.7551304697990417,Positive
+Me encanta ❤️❤️❤️,0.6369,Positive,0.5,Positive,0.8068308234214783,Positive
+❤️ ... Joker !! 😎,0.6229,Positive,0.0,Netural,0.3870561718940735,Positive
+Mola mucho me encanta Harley Quinn,0.7939,Positive,0.4775,Positive,0.7542693614959717,Positive
+Puddings my puffy muffin,0.0,Neutral,0.0,Netural,0.3927675783634186,Positive
+🤭🤭🤭🤭☺☺👍,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+"مكايلة هالحجي 
+.،
+.،",0.0,Neutral,0.0,Netural,-0.23190492391586304,Negative
+Lo sé si es eres,0.0,Neutral,0.0,Netural,0.31492993235588074,Netural
+MANO DO CÉU,0.0,Neutral,0.0,Netural,0.2889452874660492,Netural
+😻,0.4588,Positive,0.0,Netural,0.30857792496681213,Netural
+Loveeeeeeeee 😻😻😻😻😻❤️❤️❤️❤️,0.9325,Positive,0.0,Netural,0.30641791224479675,Netural
+"Офигенный клип, а главное. Есть смысл.......",0.7713,Positive,0.6333333333333333,Positive,0.28618550300598145,Netural
+Hey copy cat this my favourite song  phoniex entaimntent is song safari sucide skuade,0.0,Neutral,0.0,Netural,0.42472898960113525,Positive
+Ik den ven van harli quinn,0.6369,Positive,0.5,Positive,0.35395461320877075,Positive
+Endereço daqui a Simaria pelo amor de Deus vai,0.743,Positive,0.5,Positive,0.40983444452285767,Positive
+i love  harly  qinn the best,0.8555,Positive,0.75,Positive,0.883960485458374,Positive
+cul muchacha,-0.5423,Negative,0.0,Netural,0.2882409989833832,Netural
+cul muchacha,-0.5423,Negative,0.0,Netural,0.2882409989833832,Netural
+Herly qen is the queen  of  bance,0.0,Neutral,0.0,Netural,0.3195829391479492,Netural
+Tiho 0jzgeqf97t j.v,0.0,Neutral,0.0,Netural,-0.279601514339447,Negative
+Melhora,0.4588,Positive,0.0,Netural,0.40656548738479614,Positive
+no tiene sentido👎👎👎👎👎👎,0.0,Neutral,0.0,Netural,-0.5153343677520752,Negative
+Omg,0.0,Neutral,0.0,Netural,0.2883588373661041,Netural
+Baaaaaaaaaaaaaaaab that means good,0.4404,Positive,0.7,Positive,0.3357536792755127,Positive
+счастье это когда тебя любят 🇫🇷🇲🇽🧡😍🙋🧠1️⃣😍😠🇫🇷,0.9559,Positive,0.7,Positive,0.6187416315078735,Positive
+"как же я люблю тебя.
+но я живу а мтрашной стране
+и ты меня не знаешь и презираещ{ъумоу я мпоро
+тебя вспоминать 😝😝😍🤫🧡🇲🇽🐽🤫🌨️🇷🇺🤣☺️🆗👌",-0.6858,Negative,-0.04090909090909092,Negative,0.46082887053489685,Positive
+"какая мимика, я не знаю как там дела но я думаю что это будет дешевле",0.0,Neutral,0.0,Netural,0.4364789128303528,Positive
+Que ermosa😍,0.7845,Positive,0.0,Netural,0.24327346682548523,Netural
+Love 😘 juo 😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😁😁😁😁😁😁😁😁😚😚😚😚😚😚😚😚😚😚😚😚😋😋😋😋😋😋😋😋😋😋😋😋😋😋😌😋😋😋😋😋😋😋😋😋😌😌😌😋😋😋😋😋😋😋😋😋😋😋😋😋😋😛😛😛😛😛😛😋😋😋😋😋😛😛😋😛😋😛😋😛😋😛😛😛😛😋😋😋😋😌😌😋😋😋😋😋😋😌😋😋😋😌😋😋😀😃😄😁😆😅😂🤣😭,0.7906,Positive,0.5,Positive,0.7370560765266418,Positive
+Абажаю  тебя!!! 😍😉💖🐈🐱🦊💓💗😎🤩😍!!!,0.9901,Positive,0.0,Netural,0.6189869046211243,Positive
+牛,0.0,Neutral,0.0,Netural,0.26083117723464966,Netural
+🤡🤯🤙👹👿🤩😘🥰🤡👍,0.875,Positive,0.0,Netural,0.30857792496681213,Netural
+😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😙😚😚😚😚😚😚😚😚😚😚😚,0.9999,Positive,0.0,Netural,0.30857792496681213,Netural
+6666y6yyy,0.0,Neutral,0.0,Netural,-0.2554982304573059,Negative
+영화제목이뭐에요?,0.0,Neutral,0.0,Netural,-0.2789754867553711,Negative
+espuena peliando,0.1027,Positive,0.7,Positive,-0.3532090187072754,Negative
+💜💜💙💙❤❤💕👍,0.9855,Positive,0.0,Netural,0.30857792496681213,Netural
+Karai meu essa deve te duido muito kara,-0.5267,Negative,0.0,Netural,0.270784854888916,Netural
+Alguém sabe o nome desse filme,0.0,Neutral,0.0,Netural,-0.26510676741600037,Negative
+"😜
+   👉👈",0.0,Neutral,0.0,Netural,0.34280773997306824,Positive
+Harley Quinn is the beeeeest,0.0,Neutral,0.0,Netural,0.5028830170631409,Positive
+is this a movie,0.0,Neutral,0.0,Netural,0.32192233204841614,Netural
+How a girl make this she is alone by herself I watch this video every day amazing I wish I was like,0.7906,Positive,0.6000000000000001,Positive,0.7996092438697815,Positive
+😁😁,0.7184,Positive,0.0,Netural,0.30857792496681213,Netural
+Kak pacarnya joker,0.0,Neutral,0.0,Netural,0.2409721314907074,Netural
+э,0.0,Neutral,0.0,Netural,0.2581351101398468,Netural
+name movie,0.0,Neutral,0.0,Netural,0.23047131299972534,Netural
+Liên kết web,0.0,Neutral,0.0,Netural,0.3193807601928711,Netural
+YO ME LLAMO MILAGROS Y ME FASCINÓ LA CANCIÓN😘💖💘💜💟☺😊😀😁😍,0.9918,Positive,0.0,Netural,0.687576174736023,Positive
+Que mugEr,0.0,Neutral,0.0,Netural,-0.2545066475868225,Negative
+😙😙😙💞,0.9761,Positive,0.0,Netural,0.30857792496681213,Netural
+Как называется этот фильм?,0.0,Neutral,0.0,Netural,-0.3553067445755005,Negative
+Как называется этот фильм?,0.0,Neutral,0.0,Netural,-0.3553067445755005,Negative
+😱😱😃😃😇,-0.5574,Negative,0.0,Netural,0.30857792496681213,Netural
+Me encanta este video lo vería 10000 veces uuf,0.8402,Positive,0.3,Netural,0.8374999165534973,Positive
+😍😍😍😍,0.9001,Positive,0.0,Netural,0.30857792496681213,Netural
+My dream is to dance and to sing love that amazing,0.875,Positive,0.55,Positive,0.8094919323921204,Positive
+純潔而勇敢,0.5267,Positive,0.5071428571428571,Positive,0.6357862949371338,Positive
+😈☺😄,0.8885,Positive,0.0,Netural,0.30857792496681213,Netural
+D,0.0,Neutral,0.0,Netural,0.24998661875724792,Netural
+I wish I was like you,0.6369,Positive,0.0,Netural,0.30203190445899963,Netural
+Мне бы такуюююююю,0.3612,Positive,0.0,Netural,0.4547092914581299,Positive
+0:00,0.0,Neutral,0.0,Netural,-0.6361402273178101,Negative
+Seriuously afraid that all of performance.point about dont understand is more scared.especially bird of prey naming is worst..,-0.7003,Negative,-0.3666666666666667,Negative,-0.5825464129447937,Negative
+😆,0.3612,Positive,0.0,Netural,0.30857792496681213,Netural
+Canción,0.0,Neutral,0.0,Netural,0.31016382575035095,Netural
+Я тоже так хочу,0.0772,Positive,0.0,Netural,0.628749668598175,Positive
+Jkdcsye,0.0,Neutral,0.0,Netural,0.27972376346588135,Netural
+😏😈🙉😕🤣,0.5994,Positive,0.0,Netural,0.30857792496681213,Netural
+❤❤😎😎✌✌😝😝,0.9674,Positive,0.0,Netural,0.30857792496681213,Netural
+"I like  this  song
+😇🗻",0.6705,Positive,0.0,Netural,0.5901457071304321,Positive
+vacano,0.0,Neutral,0.0,Netural,0.27604940533638,Netural
+❤🍀💚🌠,0.8555,Positive,0.0,Netural,0.30857792496681213,Netural
+ekkkkkkkkkkkkkkkkkk,0.0,Neutral,0.0,Netural,-0.3319690227508545,Negative
+I'm lovin 'it,0.0,Neutral,0.0,Netural,0.5796545147895813,Positive
+https://youtu.be/EwSX5DbwmKo,0.0,Neutral,0.0,Netural,-0.24118486046791077,Negative
+Oi a lerquina,0.0,Neutral,0.0,Netural,-0.25610342621803284,Negative
+A mí gusta mucho Harley Quinn 😀😀😀😀😀😀😀😀😀😀,0.9744,Positive,0.2,Netural,0.4598085284233093,Positive
+"Wooow me encanta esa chica todas sus peligula soy su fant , y amo esa musica 😎😍😍😘😘",0.9758,Positive,0.5,Positive,0.8213222622871399,Positive
+Fc,0.0,Neutral,0.0,Netural,0.28117313981056213,Netural
+P,0.0,Neutral,0.0,Netural,0.2397068440914154,Netural
+P,0.0,Neutral,0.0,Netural,0.2397068440914154,Netural
+I was also seen this background video in Sarena Safari Song,0.0,Neutral,0.0,Netural,0.328382283449173,Netural
+شنو اسم الفلم ووووووواو,0.5859,Positive,0.1,Netural,-0.32569995522499084,Negative
+she look like that dhar mann actor,0.3612,Positive,0.0,Netural,0.2719802260398865,Netural
+Perfect song sver,0.5719,Positive,1.0,Positive,0.8153385519981384,Positive
+Ох...й позитив!,0.5983,Positive,0.28409090909090906,Netural,0.5631932616233826,Positive
+Spr,0.0,Neutral,0.0,Netural,0.2952156662940979,Netural
+"Sakra, to byla ženská 😇😁",-0.4019,Negative,0.0,Netural,0.24531888961791992,Netural
+"Wow
+Very nice",0.7841,Positive,0.44,Positive,0.7834535837173462,Positive
+Dans gücü adına,0.0,Neutral,0.0,Netural,0.49366486072540283,Positive
+Harleyy Quin and music is beatiful I loved😍🥰😇😊😎🤠💋,0.986,Positive,0.85,Positive,0.43434813618659973,Positive
+It is a evil girl,-0.6597,Negative,-1.0,Negative,-0.3841640055179596,Negative
+Bien maldición sel,-0.1531,Negative,0.0,Netural,0.34989672899246216,Positive
+"Twinkle Twinkle Little Star Karaoke - With lyrics.
+https://youtu.be/qQ8bD_TISxQ",0.0,Neutral,-0.1875,Negative,0.26965197920799255,Netural
+Vdmd d zvd,0.0,Neutral,0.0,Netural,-0.25070756673812866,Negative
+Vd. 😀,0.3612,Positive,0.0,Netural,0.3803274631500244,Positive
+What is a good song,0.4404,Positive,0.7,Positive,0.3896010220050812,Positive
+Kalėdinės dovanos super a Plungė boy,0.5994,Positive,0.3333333333333333,Positive,0.5078782439231873,Positive
+:) ❤🌍💚,0.9081,Positive,0.5,Positive,0.4511561393737793,Positive
+Built 1091+35+40🌳🌎🌹💙☔🐱🏢,0.6369,Positive,0.0,Netural,0.3472175598144531,Positive
+🤣🤣😂🤣😂🤣🤣😂😂😃🤣🤣🤣😂🤣🤣🤣🤣😂,0.9952,Positive,0.0,Netural,0.30857792496681213,Netural
+Download karne ka option hi nahin hai pagal,-0.296,Negative,0.0,Netural,0.26268908381462097,Netural
+❤👍💔😍,0.8519,Positive,0.0,Netural,0.30857792496681213,Netural
+nice Harley Quinn and the song dance monkey awesome,0.7845,Positive,0.5166666666666666,Positive,0.5902812480926514,Positive
+🤫👿👿👿👿👿,-0.9477,Negative,0.0,Netural,0.30857792496681213,Netural
+Somewhere in the brazil....,0.0,Neutral,0.0,Netural,-0.2449498027563095,Negative
+Brutal 👍❤,0.0258,Neutral,-0.875,Negative,-0.31152236461639404,Negative
+Que chulo 😍👍❤💚,0.9287,Positive,0.35,Positive,0.27729302644729614,Netural
+ٍ,0.0,Neutral,0.0,Netural,0.2846148908138275,Netural
+Es la mejor cansio,0.6369,Positive,1.0,Positive,0.8685522675514221,Positive
+.,0.0,Neutral,0.0,Netural,0.2539338767528534,Netural
+Dad joker,0.128,Positive,0.0,Netural,0.3517342507839203,Positive
+MOMI HARLEQUIN,0.0,Neutral,0.0,Netural,0.31889936327934265,Netural
+"Versión en español de la canción Dance Monkey de Tones And I.
+Realizado por Betzabeth.
+Producción: Latín Producción.
+
+
+
+Letra:
+Dicen: oh dios mío, yo te vi brillar 
+Veo tu mano y la quiero agarrar 
+me quedé loca cuando yo te vi pasar
+y ahora ruego por volverte a ver bailar
+UH!  te veo veo veo caminar
+Y me gusta la manera en la que vas uh!
+Me haces, haces, haces querer llorar,
+y ahora ruego por volverte a ver bailar...
+Así que : báilame, báilame , báilame eh eh eh 
+Nunca he visto a quien como tu lo pueda hacer. 
+Di- cen : muevete , muevete, muevete para mi y cuando acabes yo te obligaré a seguir.
+
+les Dije ""Dios"" al verte caminar
+toma mi mano, baby, vente sin pensar,
+soy como un mono, nunca dejo de bailar,
+y tú me ruegas por hacerlo  una vez mas, 
+UH!te veo veo veo caminar
+Y me gusta la manera en la que vas
+Tu me haces, haces, haces querer llorar,
+y ahora ruego por volverte a ver bailar...Así que : báilame, báilame , báilame eh eh eh 
+Nunca he visto a quien como tu lo pueda hacer. 
+Di- cen : muevete , muevete, muevete para mi y cuando acabes yo te obligaré a seguir.
+dance for me, dance for me, dance for me, oh oh oh 
+Nunca nadie te verá igual que yo 
+Di- cen: move for me, move for me, move for me yeee yeh
+y cuando acabes vuelve y hazlo otra vez , otra vez , Betzabeth , Latin production",0.4826,Positive,-0.05892857142857144,Negative,-0.2990633547306061,Negative
+I like the video you made,0.3612,Positive,0.0,Netural,0.4870435893535614,Positive
+😝 завтра утром я буду в Бельгии,0.0,Neutral,0.0,Netural,0.33248865604400635,Positive
+Dance monkey ❤❤,0.8555,Positive,-0.05,Negative,0.32473817467689514,Netural
+Amei essa música a maquininha favorita gostei,0.8658,Positive,0.6,Positive,0.7221748232841492,Positive
+I like Harley Quinn outfit,0.3612,Positive,0.0,Netural,0.5100956559181213,Positive
+Я ТАЩЮСЬ СПАСИБА,0.7506,Positive,0.6,Positive,-0.30555853247642517,Negative
+Verry good this song,0.4404,Positive,0.7,Positive,0.46387428045272827,Positive
+Bad yuh fuk,-0.5423,Negative,-0.6999999999999998,Negative,-0.581943929195404,Negative
+Uh can you please call the police 👮‍♂️ please,0.5574,Positive,0.0,Netural,-0.40013858675956726,Negative
+Harley queen forever ❤❤,0.8555,Positive,0.0,Netural,0.772061288356781,Positive
+Gggg,0.0,Neutral,0.0,Netural,0.26480937004089355,Netural
+"She kicking them down and drop she must be saying darn,damn uh curse you and screw it a good fi yuh a bug a yuh the man is full he see her running with the trolley and still stand up in the way like you saying you shall not pass and he just made her push him down imagine if you see someone running towards you with a trolley to push you down you're going to stop right there and you shall not pass I'm just make them push you down like that no no oh no oh no oh no no no.Harley Quinn is way scarier than that OMG she took up the garbage and threw it and the woman and the truck and she's jumping all about like a monkey yeah that's why they made this video with the song dance monkey but the part that says oh my God I see the way you shine she does not shine.She almost hit down all the mannequins she swag through the truck like nothing if it was me my hands would light a fire and she swayed through the truck and the man didn't seriously notice OMG Lmfao OMFG",0.9293,Positive,0.04371693121693121,Netural,-0.7004401087760925,Negative
+Wow!!!!!!!!!😉😉😉😉😉,0.7156,Positive,0.0,Netural,0.757124125957489,Positive
+plis mas de esto me gusta el dance monquei,0.3612,Positive,0.225,Netural,0.3711925148963928,Positive
+я тот человек который никому не нужен,0.0,Neutral,0.6,Positive,-0.9164856672286987,Negative
+я не знаю как там дела в Москве и мне кажется убить себя хорошо 🧡,0.1531,Positive,0.0,Netural,0.48130300641059875,Positive
+она мне нравится 💯🧡🇵🇱🇷🇺🇺🇦👌🚜🧠🧠👌😍😍😝🐷🤗👌🚜💯а шзащдпазкмиледжппиопть,0.3612,Positive,0.0,Netural,0.34409773349761963,Positive
+Что за фильм?,0.0,Neutral,0.0,Netural,-0.28342220187187195,Negative
+Top Hit,0.2023,Positive,0.5,Positive,0.8481258749961853,Positive
+Мне нравится.                                   Перевести на монгольский.,0.3612,Positive,0.0,Netural,0.3074309527873993,Netural
+🍋🍋🍋🍋🍋🍋🍋🍋🍋🍋🍋🍋🍋,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Гдееееееее? Такую женщину найти?,0.0,Neutral,0.0,Netural,-0.4767126739025116,Negative
+Often I'll do nothing that we can,0.0,Neutral,0.0,Netural,-0.4109969437122345,Negative
+Best song ever,0.6369,Positive,1.0,Positive,0.9553784728050232,Positive
+Песня бомба,-0.4939,Negative,0.0,Netural,-0.36811789870262146,Negative
+Ni👿😈,-0.0772,Negative,0.0,Netural,0.30857792496681213,Netural
+😺😺,0.6124,Positive,0.0,Netural,0.30857792496681213,Netural
+"Song & Music? It's like ""Dinner & a Movie""!",0.4199,Positive,0.0,Netural,0.3054063022136688,Netural
+Privet,0.0,Neutral,0.0,Netural,-0.43162262439727783,Negative
+a girl can also fight,-0.3818,Negative,0.0,Netural,0.37610185146331787,Positive
+At the ending it was wonderful ❤️,0.5719,Positive,1.0,Positive,0.4090476334095001,Positive
+"Was this the original in the movie? Betty Bitchslap just did this on ""Queen of the Universe"" and KILT IT!",0.3802,Positive,0.46875,Positive,-0.23688127100467682,Negative
+😍😀🌃,0.6705,Positive,0.0,Netural,0.30857792496681213,Netural
+ฮาลี่นางโรคจิตแต่เซ็กซี่,0.6808,Positive,0.5,Positive,0.30857792496681213,Netural
+А где она так драться научилась? Вроде психотерапевт,0.34,Positive,0.0,Netural,0.2640875577926636,Netural
+20 21 wow very nice pictur congratulations 2021 song ❤️,0.9013,Positive,0.44,Positive,0.7385382056236267,Positive
+I love this song so much,0.6369,Positive,0.35,Positive,0.8750550150871277,Positive
+super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
+Without Harley Quinn I wouldn't even like this song love you mama ❤ 😘,0.8776,Positive,0.5,Positive,-0.3783254623413086,Negative
+Josune te kiero...lo demas patadon y palante,0.6369,Positive,0.5,Positive,-0.30029234290122986,Negative
+I  like  this song,0.3612,Positive,0.0,Netural,0.5468980669975281,Positive
+My Queen,0.0,Neutral,0.0,Netural,0.7366372346878052,Positive
+Love 😍😍😍😍😍😍🇩🇿🇩🇿🇩🇿,0.969,Positive,0.5,Positive,0.7371776700019836,Positive
+😍😍💕💕😍😍💕💕🤣😂😍💕💕🎉🎉🎉,0.9951,Positive,0.0,Netural,0.30857792496681213,Netural
+El tráiler junto con la cadencia de este temazo dan ganas de salir a romper un poco ciertas reglas! 😈😈 Temazo!,0.9563,Positive,0.44497767857142856,Positive,0.44258934259414673,Positive
+👌👌👌en même temps ce n'est qu'une vidéo 🤣🤣🤣,0.9798,Positive,0.0,Netural,-0.5404478907585144,Negative
+👨‍❤️‍💋‍👨🔪💀🎧🍓🎤💣👺🇲🇲,-0.1027,Negative,0.0,Netural,0.30857792496681213,Netural
+Eddy Juela Teban Briana Juela Eddy Juela Teban es         🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩😈😈😈😈😈😈😈😈,0.0,Neutral,0.0,Netural,0.38103052973747253,Positive
+AMI ME ENCANTA LA MÚSICA  ELECTRÓNICA 😀😀😎😎😜🎤🎤🎧,0.9426,Positive,0.5,Positive,0.7682615518569946,Positive
+احب الغنية,0.8316,Positive,0.4375,Positive,0.5257512927055359,Positive
+Nossa oh my god!! Eu não sabia que a harley é tão patroa assim!! Ameii harley me impressionou patroaa poderosa,0.918,Positive,0.3640625,Positive,0.8575991988182068,Positive
+❤️❤️❤️❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Ella es muy joven atractiva. Guapa. Y tambiem creo que cariñosa. Me gusta la voz de ella es sensual. Y ella es un amor esta chica💕💞😎💖💔💗💗💗💗💗💖💜😍😍😍😍😍😄😄😄😄 Gracias. Hermosa mujer ok,0.9989,Positive,0.5333333333333333,Positive,0.6979151368141174,Positive
+Ek gaane Mumbai chutiya Ke Papxhgdgdyeheuygrtgsgeteyeutege4shye,0.0,Neutral,0.0,Netural,-0.4444602131843567,Negative
+"I love you 
+Her
+Quite",0.6369,Positive,0.5,Positive,0.7872124314308167,Positive
+I love you hlecey,0.6369,Positive,0.5,Positive,0.7038376927375793,Positive
+"Дайте  мне эту женщину и я вам скажу, что я её Люблю)))",0.6369,Positive,0.5,Positive,0.6118438839912415,Positive
+I love you a king❤️,0.6369,Positive,0.5,Positive,0.8283307552337646,Positive
+Heres MUI bonita,0.5413,Positive,0.325,Netural,0.40202441811561584,Positive
+Españis,0.0,Neutral,0.0,Netural,0.23705340921878815,Netural
+😍🥰😇🤩😘😜😻😺💗💖❤💙💚💛🧡,0.9951,Positive,0.0,Netural,0.30857792496681213,Netural
+eu adoro essa música 🎶 🎶 🎶,0.6369,Positive,0.5,Positive,0.6887067556381226,Positive
+This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
+❤❤❤❤❤❤❤❤❤,0.9911,Positive,0.0,Netural,0.30857792496681213,Netural
+im cerebrate beautiful song 🇹🇿,0.5994,Positive,0.85,Positive,0.6733470559120178,Positive
+"Люди добрые, какой это фильм?",0.4404,Positive,0.7,Positive,0.27197766304016113,Netural
+The song is just amazing!🤩💥💥💥,-0.4574,Negative,0.0,Netural,0.8124188184738159,Positive
+"Why not to be crazy like her, lets go to dance on the streets and be happy!!!",0.8447,Positive,0.2,Netural,0.5666786432266235,Positive
+cungli,0.0,Neutral,0.0,Netural,0.25154802203178406,Netural
+💞💞,0.8625,Positive,0.0,Netural,0.30857792496681213,Netural
+"Love this song!! 
+You make me make make me wanna try!
+I like your style Harley!🙂😍🤩",0.9233,Positive,0.9765625,Positive,0.932048499584198,Positive
+I like Harley Quinn,0.3612,Positive,0.0,Netural,0.4676467478275299,Positive
+She's a very biggest queen of evil 😈😎😈,0.5574,Positive,-0.4,Negative,0.4107580780982971,Positive
+Omg  sheeeeeesh,0.0,Neutral,0.0,Netural,-0.2871852517127991,Negative
+Omg.,0.0,Neutral,0.0,Netural,0.2702479660511017,Netural
+Perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
+👍👍👍👍❤❤❤,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Soy tu fan  número 1,0.3818,Positive,0.0,Netural,0.7322537899017334,Positive
+👍👍👍,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+My favourite song,0.0,Neutral,0.0,Netural,0.8636926412582397,Positive
+"Joe
+Martinez",0.0,Neutral,0.0,Netural,0.2592238187789917,Netural
+I love this song ❤️❤️,0.6369,Positive,0.5,Positive,0.8624796271324158,Positive
+Bekar song 👎👎,0.0,Neutral,0.0,Netural,0.27540501952171326,Netural
+😜😜😜😜😜😜😜😜😜😜😜😜😜🎊🎊🎊🎊🎉🎊🎊🎊🎊🎊💯💯💥💥💥💥💥💥💥💥,-0.936,Negative,0.0,Netural,0.30857792496681213,Netural
+Queen,0.0,Neutral,0.0,Netural,0.6063578128814697,Positive
+Harley Quinn im love,0.6369,Positive,0.5,Positive,0.5840981006622314,Positive
+"youtube,Billy-The-Kid.""..... ""Billy Get Your Guns..""",0.0,Neutral,0.0,Netural,0.27120235562324524,Netural
+The world's best editing,0.6369,Positive,1.0,Positive,0.9261908531188965,Positive
+Did anyone play magic tails 3 it has this song,0.34,Positive,0.5,Positive,0.40349632501602173,Positive
+Taa,0.0,Neutral,0.0,Netural,0.2924862802028656,Netural
+Woooooooooooooooooooooooooooooooooooooooooooooooooow!,0.0,Neutral,0.0,Netural,0.32325389981269836,Netural
+Manisha Bharati Nahin Hai yah sab Jo bhej rahi hun na Main To Hira hun hun,0.0,Neutral,0.0,Netural,-0.35625672340393066,Negative
+Kya baat hai tumhari aur Kitni acchi fight karti,-0.1027,Negative,0.0,Netural,-0.2658946216106415,Negative
+Hi,0.0,Neutral,0.0,Netural,0.23648656904697418,Netural
+"I like the old harley more. Not this one
+But the song
+And the performance 🔥🔥",-0.6652,Negative,0.3,Netural,0.4168281853199005,Positive
+Cómo lo ISO haré 😁,0.4588,Positive,0.0,Netural,0.5315626859664917,Positive

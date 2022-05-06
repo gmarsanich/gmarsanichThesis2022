@@ -1,0 +1,622 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+ggnhv,0.0,Neutral,0.0,Netural,0.2533056139945984,Netural
+Kırmızı renk,0.0,Neutral,0.0,Netural,0.2379736751317978,Netural
+Enes abi ben sarı diyorum,0.0,Neutral,0.0,Netural,-0.32945263385772705,Negative
+KIrmızı,0.0,Neutral,0.0,Netural,-0.238939568400383,Negative
+Yeşil doğa mavi deniz sarı güneş kırmızı kan,0.0,Neutral,-0.05,Negative,0.29485657811164856,Netural
+❤💚💙💛,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+😌,0.3818,Positive,0.0,Netural,0.30857792496681213,Netural
+QİZ,0.0,Neutral,0.0,Netural,0.26817581057548523,Netural
+Değişik,0.0,Neutral,0.0,Netural,0.2927197217941284,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+10:46 40 millyon oldu lan,0.0,Neutral,0.0,Netural,-0.6679671406745911,Negative
+Hemsi ç,0.0,Neutral,0.0,Netural,0.29970619082450867,Netural
+Boklar,0.0,Neutral,0.0,Netural,0.2664641737937927,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi çok güzel olmuş ellerine sağlık,0.6674,Positive,0.78,Positive,0.31250739097595215,Netural
+❤💛❤💛❤💛❤💚💙💛,0.9928,Positive,0.0,Netural,0.30857792496681213,Netural
+Yani sarı kırmızı,0.0,Neutral,0.0,Netural,-0.337787389755249,Negative
+"Sarl,diyorum",0.0,Neutral,0.0,Netural,-0.3849627375602722,Negative
+Kırmızı abi,0.0,Neutral,0.0,Netural,0.4275308847427368,Positive
+Yeşili ve mavi en sevdim reklet💚💙,0.9081,Positive,0.09999999999999999,Netural,0.5416923761367798,Positive
+Ijob,0.0,Neutral,0.0,Netural,0.2608236074447632,Netural
+Kırmizı,0.0,Neutral,0.0,Netural,0.21855822205543518,Netural
+QİZ,0.0,Neutral,0.0,Netural,0.26817581057548523,Netural
+Kırmızı yeşil mavi çok güzel olmuşsunuz Enes Batur Bu arkadaşların kim,0.8439,Positive,0.16249999999999998,Netural,0.578859806060791,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi renk daha güzel,0.4404,Positive,0.25,Netural,0.4166169762611389,Positive
+💙❤️💛💚,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+malsınız,0.4404,Positive,0.7,Positive,-0.6761307716369629,Negative
+kırmızı 100,0.0,Neutral,0.0,Netural,0.5981062650680542,Positive
+Rengii,0.0,Neutral,0.0,Netural,0.2990770936012268,Netural
+Blue red green yellow,0.0,Neutral,-0.05,Negative,0.2560775876045227,Netural
+Abi  melemen de yiye bilirdin,0.0,Neutral,0.0,Netural,0.25666528940200806,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+YEŞİL,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Ben getir ilki tutuyor,0.0,Neutral,0.25,Netural,0.4860156178474426,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+♥️💚💙💛,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Bence mavi daha iyi,0.4404,Positive,0.25,Netural,0.36389732360839844,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Eren batur youtube budur,0.0,Neutral,0.0,Netural,-0.4984268844127655,Negative
+Kırmızı en sevdiğim,0.4588,Positive,0.25,Netural,0.7604943513870239,Positive
+💙📍,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Benim en sevdim renk mavi,0.4588,Positive,0.25,Netural,0.5385766625404358,Positive
+Aslı Güngör son öpücük 😘 çok iyi bir kelime bence de çok seviyorum bu şarkı size gelsin mi e bir soz bu şarkıyı paylaşasim geliyor bugun çok renkli toplar tarifi haritası sadece çaydanlık değil mi yikama bir zaman yalnız bir kelime bence bu şarkı sözleri de çok iyi bir şekilde sorumlu değildir bu şarkı soylicekler ve k,0.956,Positive,0.34571428571428564,Positive,-0.3034438490867615,Negative
+Sari,0.0,Neutral,0.0,Netural,0.2823569178581238,Netural
+Kırmızı   ve mavi   ve yeşil   ve sarı   💙💙💙💙💙💚💚💚💚💚💛💛💛💛💛❤❤❤❤❤      elmas gibi siniz      💎,0.9983,Positive,-0.05,Negative,-0.35258740186691284,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+yeşil mavi kırmızı sarı 15:55,0.0,Neutral,-0.05,Negative,-0.2765792906284332,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı yeşil mavi sarı. Rengi seviyorum ♥️♥️♥️♥️♥️♥️💚💚💚💚💚💚💛💛💛💛💛💛💛💙💙💙💙💙💙💙,0.9987,Positive,0.06,Netural,0.2904329001903534,Netural
+Ben hep bütün renkleri seviyorum❤️💜🧡🖤🤍💚🤎💙💖,0.9756,Positive,0.5,Positive,0.4350004494190216,Positive
+❤🇹🇷❤🇹🇷❤,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Hepsi ben ayrımcılık yapmam,0.0,Neutral,0.0,Netural,-0.32693374156951904,Negative
+Kırmızı yeşil sarı mavi,0.0,Neutral,-0.05,Negative,0.29548564553260803,Netural
+❤❤❤❤❤❣❣❣💗💗💖💖💝💝💘💘💌💌💟💟💕💕💞💞💓💓,0.9989,Positive,0.0,Netural,0.30857792496681213,Netural
+Mor,0.0,Neutral,0.0,Netural,0.25757652521133423,Netural
+Mavi en iyisi,0.6369,Positive,0.5,Positive,0.3515312075614929,Positive
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abiantalyayagelirmisin,0.0,Neutral,0.0,Netural,0.2775692343711853,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Ben kırmızıyı çok seviyorum,0.6369,Positive,0.2333333333333333,Netural,0.629370927810669,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızı   çok    iyi   en  iyi  Enes   batur,0.8258,Positive,0.6366666666666666,Positive,0.8172990083694458,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Tatbiki mavi vales haha,0.4588,Positive,0.1,Netural,-0.309119313955307,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Ben her zaman Enes abinin takımınındayım,0.0,Neutral,0.0,Netural,0.35384759306907654,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+❤️💙💚💛,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Sarı kırmızı dünyaların yıldızı ❤💛,0.8555,Positive,0.0,Netural,0.3889082670211792,Positive
+En sevdim renk mavi:),0.7184,Positive,0.3333333333333333,Positive,0.46335363388061523,Positive
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Enes abi diyorsun ki artık ben yeşilim 🤣🤣🤣🤣,0.8625,Positive,-0.2,Negative,-0.24893955886363983,Negative
+Sarı kırmızı yeşil kedi kırmışsın Sarı,-0.4215,Negative,-0.05,Negative,-0.4249800443649292,Negative
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Sarı kırmızı,0.0,Neutral,0.0,Netural,0.2619244456291199,Netural
+Abi Eski Videolarını Özledim,-0.1531,Negative,0.1,Netural,0.36060404777526855,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+KIRMIZI,0.0,Neutral,0.0,Netural,0.2716061770915985,Netural
+",💙💚💛❤️",0.9274,Positive,0.0,Netural,0.3325739800930023,Positive
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Tek çare Zafer partisi 🇹🇷 yanındayız başkanım seninleyiz her zaman gençler olarak Türkiye'nin umudu Ümit Özdağ 🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷,0.6808,Positive,0.05,Netural,-0.29755887389183044,Negative
+kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Abi neden artık viedo atmıyorsun?????,0.0,Neutral,0.0,Netural,-0.4473179578781128,Negative
+🥒🏅🍎🦋,0.4767,Positive,0.0,Netural,0.30857792496681213,Netural
+Belgesi salakları kırmızı ile mavi ile sarı ben hepinizi tutum sarı kırmızı da mavi ile beyazı da yeşili de,0.4019,Positive,-0.1111111111111111,Negative,-0.5742568969726562,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi 1:42 de artık ben yeşilim diyorsun ama kırmızısın,0.0,Neutral,-0.1,Negative,-0.29664766788482666,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+bisikleti sürdüğünüz sahil yolunda restoranda sizi görmüştüm,0.0,Neutral,0.0,Netural,-0.23120541870594025,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi kırmızı,0.0,Neutral,0.0,Netural,0.3205847144126892,Netural
+Elektronik in der Nähe wieder runter,0.0,Neutral,-0.15555555555555559,Negative,-0.27876758575439453,Negative
+"En uyumlu takım""❤️💚💙💛"" müqq
+
+
+Devamı oku",0.9274,Positive,0.5,Positive,0.5437026619911194,Positive
+Abi video çooook güzeldi ve ayrıca kırmızı kan rengi yeşil doğa rengi mavi deniz rengi sarı güneş rengi,0.5994,Positive,0.12999999999999998,Netural,0.4115568995475769,Positive
+Kırmızıyı seçiyorum çünkü o Türk bayrağının rengidir,0.0,Neutral,0.0,Netural,0.2461026906967163,Netural
+2:20 amq koyım tüm telapatilerin,0.0,Neutral,0.0,Netural,-0.43952441215515137,Negative
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı Yeşil Mavi Sarı ❤️ 💚 💙 💛,0.9274,Positive,-0.05,Negative,0.2732119560241699,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+🌈,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Hepsini çok seviyorum,0.6369,Positive,0.5,Positive,0.3096577823162079,Netural
+Abi ilk başta ben yeşilim dedin,0.0,Neutral,0.024999999999999994,Netural,0.25533685088157654,Netural
+Abi ben mavi demek🤣,0.4404,Positive,-0.15625,Negative,0.24682986736297607,Netural
+merhaba ben yusuf ben enes  baturu sevmiyom sadece guzel oyunari izliyom,0.1999,Positive,0.35,Positive,-0.23397089540958405,Negative
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+❤❤❤,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı ♥️♥️♥️♥️♥️♥️♥️,0.9854,Positive,0.0,Netural,0.2665470838546753,Netural
+Hep rengi,0.0,Neutral,0.0,Netural,-0.4448774755001068,Negative
+❤️💚💙💛 🏆🏇🏻🏇🏻🏇🏻🏇🏻 📕📗📘📒,0.9274,Positive,0.0,Netural,0.37613287568092346,Positive
+Kı4cdtved t,0.0,Neutral,0.0,Netural,-0.23272205889225006,Negative
+Abi sarı patates yiye bilir,0.0,Neutral,0.0,Netural,-0.28969433903694153,Negative
+1.41,0.0,Neutral,0.0,Netural,-0.22737039625644684,Negative
+Bence mi yemek Fenerbahçe,0.0,Neutral,0.0,Netural,0.43252983689308167,Positive
+Çok güzel video olmuş enes abi❤💛💚💙,0.9678,Positive,0.78,Positive,0.6081039905548096,Positive
+🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+❤💚💙💛,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+e❤❤cbfcg,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+acsc,0.0,Neutral,0.0,Netural,0.24793942272663116,Netural
+"Kırmızı, Yeşil, Mavi, Sarı ❤💚💙💛",0.9571,Positive,-0.05,Negative,-0.23835192620754242,Negative
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kırmızı yeşil mavi ve renk seviyorum ❤💚💙💛,0.9719,Positive,0.075,Netural,0.4364537000656128,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+"Kırmızı,yeşil,mavi,sarı",0.0,Neutral,-0.05,Negative,-0.24048802256584167,Negative
+Hepsi!!!!!!!!!!!!!!!!,0.0,Neutral,0.0,Netural,-0.6097224354743958,Negative
+Yeşil daha güzel herkes var,0.6361,Positive,0.3833333333333333,Positive,0.37069249153137207,Positive
+O benim arabam desem,0.0,Neutral,0.0,Netural,0.34426864981651306,Positive
+Normalde de zaten kötü örnek oluyorsun hep küfür ediyorsun bebek enes,-0.5719,Negative,-0.2749999999999999,Negative,0.4076426327228546,Positive
+Enes niye çocuklara kötü davranmak istiyorsun bu gün 23 nisan  çocuk bayramı bebek enes,-0.0258,Neutral,-0.6999999999999998,Negative,-0.5226486325263977,Negative
+Bebek  enes hahaha,0.5574,Positive,0.2,Netural,0.2526034116744995,Netural
+sarı💛,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Mavi yeminetti mavili yoruma mavi yazacanlara yorum yapıcam dedi ben yazdım yorum yapmadı (MAVİ)AAAAAAAAAAAAA!!!!!!,0.0,Neutral,0.0,Netural,-0.6721195578575134,Negative
+kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Sbi sən yanlış böyle demeleydin kırmızı  yeşil mavi  sarı,0.3724,Positive,-0.13999999999999999,Negative,-0.3565579652786255,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kirmizi,0.0,Neutral,0.0,Netural,0.2716061770915985,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Abi biz para gözdiliz berisi 900 TL dese bile kabul etmem😌😔☹,-0.6671,Negative,0.0,Netural,-0.310957670211792,Negative
+Abi kırmızı,0.0,Neutral,0.0,Netural,0.3205847144126892,Netural
+Enes batur 1.40 saniyesinde evet ben yeşilim diyor,0.4019,Positive,-0.2,Negative,-0.38130784034729004,Negative
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+🤣😎😛😀😂😋😚😍😒😙😊😘😗🤔🙁👏🙄😓😣💍💖💗😼💜❤😅😜😏😐😑😶🙄😏😣😥🤔🤗🙂☺😚😙😗😆😉😊😋😎😍😘😅😄😃🤣😂😁😀,0.9989,Positive,0.0,Netural,0.30857792496681213,Netural
+😤🎉😡😄😂😘😄😡😀💔😄😘😁🤣😅😄😍🥰😄😘😙🤣😀💔🙉😍💔😙😤🧐😱🥱🤨🥱😒🤗😥😧🙂😑😡😶☺️😢😨🥱🧐☺️🙄😠😮😌😟🤬🤒😺🎉❤️⭐🤍🌟🙀🎉🙊💨😼❤️💙🤍🖤😽💌💗👣💕💚👣💗🦴💋🦠🤲👌✊👋✌️🖖👍🖕👇,0.9987,Positive,0.0,Netural,0.30857792496681213,Netural
+KAYSERİNAVAYOLARL,0.0,Neutral,0.0,Netural,0.27098050713539124,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+"Kırmızı,yeşil,mavi,sarı❤💛💚💙",0.9571,Positive,-0.06666666666666667,Negative,-0.2517951726913452,Negative
+',0.0,Neutral,0.0,Netural,0.2700677812099457,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+YESiL,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+❤❤❤❤❤,0.9719,Positive,0.0,Netural,0.30857792496681213,Netural
+Ben sarı ve kırmızı beyaz seviyorum,0.6369,Positive,0.125,Netural,0.38820984959602356,Positive
+Mavi abi ben Ahmet,0.0,Neutral,0.0,Netural,0.251748263835907,Netural
+Abi pomeslere Kecap goysana,0.0,Neutral,0.0,Netural,0.25513654947280884,Netural
+hepsi zenginiz 🎉🎉🎉🎉🎉🎉🎉🎉🎉😊,0.9847,Positive,0.375,Positive,-0.22603367269039154,Negative
+💚💛❤💙,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı  yeşil   sarı    mavi,0.0,Neutral,-0.05,Negative,0.29548564553260803,Netural
+s😂😂😂😂😂s 😂❤,0.9638,Positive,0.0,Netural,0.34280773997306824,Positive
+❤💚💛💙🥰,0.9779,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Yeşil en sevdiğim renk,0.4588,Positive,0.15,Netural,0.4571094214916229,Positive
+11:21 bende abi valla ketchup'sız olmuyooooo😢,0.3724,Positive,0.0,Netural,0.27866068482398987,Netural
+Mavi 💙💙💙💙,0.9571,Positive,0.0,Netural,-0.33795732259750366,Negative
+sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+❤️💚💙💛,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+💛💚💙❤️,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+İşte geliyor geliyor tinky tinky,0.0,Neutral,0.0,Netural,0.3156607449054718,Netural
+"Kırmızı, yeşil, mavi ve sarı renk seviyorum ❤💚💙💛",0.9719,Positive,0.06,Netural,0.5535660982131958,Positive
+Kırmızı ile sarıyı seçiyorum toplam250tl😁,0.4588,Positive,0.0,Netural,0.3767792284488678,Positive
+❤🇹🇷,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Ceza,-0.4939,Negative,0.0,Netural,0.2807113826274872,Netural
+Enes batur kraldır...,0.0,Neutral,0.0,Netural,0.3169391453266144,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Abi çilek var ama🤘,0.0,Neutral,0.0,Netural,0.24844233691692352,Netural
+Kirmizi,0.0,Neutral,0.0,Netural,0.2716061770915985,Netural
+Kırmızı ben adalete inanyorum hakınız olanı veririim ಠ_ಠ,0.5267,Positive,0.0,Netural,-0.5067627429962158,Negative
+Kırmızı domates vardı.. yeşil salatalık,0.0,Neutral,-0.1,Negative,-0.35204562544822693,Negative
+Sarı 💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛,0.9982,Positive,0.0,Netural,0.252010703086853,Netural
+Ben mor rengni çok seviyorum,0.6369,Positive,0.5,Positive,0.4187878966331482,Positive
+Kırmızı kırmızı,0.0,Neutral,0.0,Netural,-0.3015859127044678,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Sarı çox Yaxşı,0.4927,Positive,0.45499999999999996,Positive,0.41396474838256836,Positive
+Kırızı,0.0,Neutral,0.0,Netural,-0.2629832923412323,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Enes batur red,0.0,Neutral,0.0,Netural,0.23925460875034332,Netural
+💛💙💚❤👍,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi iuiiiiiiiiiiiiiiiiiiiiiii,0.0,Neutral,0.0,Netural,-0.3775466978549957,Negative
+kırmızı kırmızı,0.0,Neutral,0.0,Netural,-0.3015859127044678,Negative
+🌈🌈🌈🌈🌈😘🤩,0.4215,Positive,0.0,Netural,0.30857792496681213,Netural
+🔴🤔🤫,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+🔴🔵🟢🟡,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi Colar Geg Öyem Mavi,0.0,Neutral,0.0,Netural,-0.3063170313835144,Negative
+Mavi  diyorum,0.0,Neutral,0.0,Netural,-0.3110179305076599,Negative
+Abi aksam yemeginde patatese ketcap sikabilirdun,0.0,Neutral,0.0,Netural,0.28531312942504883,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+🍏🍏🍏🍐🍐🍐🍐,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+❤🇹🇷🌹🦜🦀🦞🦐🐙🍎🍒🍓🍉🍅🌶️🎈💄,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+hgufy🔴🔵➗➕,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+KMYS,0.0,Neutral,0.0,Netural,0.2544310688972473,Netural
+Oha o o hoc,0.0,Neutral,0.0,Netural,0.29777225852012634,Netural
+Ben en çok kırmızıyı sevdim,0.3612,Positive,0.25,Netural,0.6858433485031128,Positive
+Mavi💙💙,0.8555,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi💙,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Mor hem mavi hem kırmızının karışım rengi+2000 lq,0.0,Neutral,0.0,Netural,0.317278653383255,Netural
+💙💗,0.8779,Positive,0.0,Netural,0.30857792496681213,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Beyaz🤍 siyah🖤,0.6369,Positive,0.0,Netural,0.34280773997306824,Positive
+Kırmızı♥️ yeşil💚 mavi💙sarı💛,0.9274,Positive,0.0,Netural,0.355956494808197,Positive
+ABİ SENİ ÖZLEDİM NEDEN VIDEO CEK MIYON,-0.1531,Negative,0.0,Netural,-0.33836260437965393,Negative
+💧,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Enes abi hem sigara ve hem içki içiyorsun neden ki enes abi,0.0,Neutral,0.0,Netural,-0.3901853561401367,Negative
+Mavi kırmızı yeşil sarı çok seviyorum Hepsini hepinizi tutuyorum,0.6369,Positive,0.08333333333333333,Netural,0.4618939757347107,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+"11askdneko00099xn,nksbs1000010000000000000",0.0,Neutral,0.0,Netural,-0.25746843218803406,Negative
+E3jdbeojeosbsoeh oebodie8436r6r6e82vdkwkeh92hroebfoedkdoejeihe9wje wjkwbew9,0.0,Neutral,0.0,Netural,-0.36118084192276,Negative
+🤩,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+❤💚💙💛🌈,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+küçük lümden.    beri.    sarıyı.    seviyorum,0.6369,Positive,0.08333333333333333,Netural,0.3591918349266052,Positive
+"KIRMIZI
+YEŞİL
+MAVİ
+  SARI",0.0,Neutral,-0.05,Negative,0.3144126534461975,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Fenerbahçe,0.0,Neutral,0.0,Netural,0.3189587891101837,Netural
+Tarihe  bir   tarih   yazar.  Yaşa      Fenerbahçe    ne      mutlu    seni      sevene   Fenerbahçe  bu  yıl   marşı,0.836,Positive,0.34659090909090906,Positive,0.33602648973464966,Positive
+Patatezlere kepçat dökseydin.,0.0,Neutral,0.0,Netural,-0.2657430171966553,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Güneş batarken ardından tepelerin amk tüm teletabilerin,0.0,Neutral,0.0972222222222222,Netural,-0.4243592619895935,Negative
+Mavi💙💙💙💙,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+En sevdiğim renk kırmızı 🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️🆎️,0.4588,Positive,0.25,Netural,0.7733088135719299,Positive
+"""Vales"" para karın doyurmuyo",0.0,Neutral,0.0,Netural,-0.26871076226234436,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Ama  sevgi   yi  satın  alamazsın,-0.6759,Negative,0.5,Positive,0.3202395737171173,Netural
+Zaten seni seviyorum boşuna yemek yapmayın,0.6369,Positive,0.5,Positive,0.3108033835887909,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi minecraft prosu,0.0,Neutral,0.0,Netural,0.2907399535179138,Netural
+Enes abi neden sigara içtin ki 6 yıl önce söz verdin bütün herkese!!!!!!!???,0.6379,Positive,0.0,Netural,-0.7391563653945923,Negative
+Kırmızı ile mavi,0.0,Neutral,0.0,Netural,-0.2917840778827667,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mert abi mısır alabilirdi,0.0,Neutral,0.0,Netural,-0.28771474957466125,Negative
+😍💖💗💙💚💛🧡💜❤💞💝❣💕💓💕,0.9973,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi💧💧💧💧🌊❄,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı yeşil mavi sarı mavi sarı kırmızı yeşil Siri kalp,0.6369,Positive,-0.05,Negative,-0.31752946972846985,Negative
+😱,-0.7003,Negative,0.0,Netural,0.30857792496681213,Netural
+Kırmızı yeşil mavi sarı,0.0,Neutral,-0.05,Negative,0.30387958884239197,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+❤️💛💚💙,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi            rengi          seviyorum,0.6369,Positive,0.25,Netural,0.4068600833415985,Positive
+Kırmızı  100  tl  ye   gerekyok    cebinde   kalsın  enes   batur,0.0,Neutral,0.0,Netural,-0.6091567277908325,Negative
+Peki yeşil olwn karpuzun kirmizi cikmasi👌,0.8038,Positive,-0.2,Negative,0.31182339787483215,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+😺🖤🦂🍋🍉🍈🍒🍐🍏🌶,0.7717,Positive,0.0,Netural,0.30857792496681213,Netural
+💙💛💚❤️,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+RED,0.0,Neutral,0.0,Netural,0.4460115134716034,Positive
+Yeşil ve kırmzı,0.0,Neutral,-0.1,Negative,0.3364332914352417,Positive
+❤️💚💙💛,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+💛,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+❤💙💚💛hira,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Enesabisenitutuyorumkırmzı,0.0,Neutral,0.0,Netural,-0.32843735814094543,Negative
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Enes bayrak almadın,0.0,Neutral,0.0,Netural,-0.36500707268714905,Negative
+Abi seni çok seviyorum benim bisikletinim kırmızı💖💖red,0.9517,Positive,0.35,Positive,0.42997249960899353,Positive
+Bende 🥰😍,0.8834,Positive,0.0,Netural,0.35839706659317017,Positive
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Hepsini severim❤💚💙💛,0.9719,Positive,0.5,Positive,0.22878332436084747,Netural
+Bende,0.0,Neutral,0.0,Netural,0.2780056595802307,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+❤💙💛💚😘😘😘😘,0.9818,Positive,0.0,Netural,0.30857792496681213,Netural
+🌈,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Herkes,0.0,Neutral,0.0,Netural,0.2665715515613556,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+RET,0.0,Neutral,0.0,Netural,-0.4757913053035736,Negative
+Mavi abi vales abi,0.0,Neutral,0.0,Netural,0.37133798003196716,Positive
+🔥❤️❣️👍,0.4215,Positive,0.0,Netural,0.30857792496681213,Netural
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+qirrrrrrrrrmiiiiiiiizi lan,0.0,Neutral,0.0,Netural,0.2245471179485321,Netural
+Enes abi seni tutuyorum kırmızı diyorum,0.0,Neutral,0.0,Netural,0.4088411033153534,Positive
+En Sevdiğim renk mavidirⓂ️🌀💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💚💙💙💙💙💙💙💙💙❤️❤️❤️❤️❤️❤️💛💛💛💙💙💙💙💙💙💙,0.9996,Positive,0.5,Positive,0.5079680681228638,Positive
+Bence en güzel renk en güzel renk bence en güzel renk kırmızı,0.9271,Positive,0.5785714285714285,Positive,0.572662889957428,Positive
+Tdjzz h,0.0,Neutral,0.0,Netural,0.24342916905879974,Netural
+",💕💌🏂",0.8591,Positive,0.0,Netural,0.3325739800930023,Positive
+Kirmızı,0.0,Neutral,0.0,Netural,-0.238939568400383,Negative
+🌼🌸🏵💮🌹🌺🌷🦠💗🤍🐬🦋❤🧡❣💋💟💕💞💓💗💖💝💘💌💛💚💙💜🤎🖤🤍🧡🦋🦓🦌🦓🦄🐮🦬🐱🦝🦊🐺🐩🐕‍🦺🦮🐕🐶🦧🦍🐒🐵🐈🐈‍⬛🦁🐯🐆🐅🐴🦄🦓🦬🐓🐔🐣🐤🐥🐦🐧🕊🦅🦆🦆🦢🦉🦤🦖🦕🐉🐲🐍🦎🐢🐊🐸🦜🦚🦩🪶🐛🦋🐌🐌🐚🐙🦈🐡🐠🐟🦭🦭🐋🐳🐜🐝🪲🐞🦗🕷🪳🕸🦂🦟🪰🪰🪱🦠🪴🌱⚘🌷🌼🌼🌻🌻🌺🥀🌹🌹🏵💮🌸💐🌸🌲🌲🌳🌴🌵🌾🌿🌿☘🍀🍁🍂🍂🪴❗❗❗❗❗❗♀️♀️♀️♀️❗❗❗♀️❗❗❗❗❗⁉️⁉️⁉️⭕⁉️‼️⁉️⁉️‼️😰😥😥😥😰😥😰😥😰😥😰😰😥😰😥😰😥😥😰😰😥😥😰😰😥😱😭😱😱😭😭😱😭😭😱😭😱😭😭😭😖,-0.9989,Negative,0.0,Netural,0.5109211802482605,Positive
+A,0.0,Neutral,0.0,Netural,0.31870728731155396,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kırmızıyı çok seviyom,0.6369,Positive,0.2333333333333333,Netural,0.3709328770637512,Positive
+2020 den beri izliyorum,0.0,Neutral,0.0,Netural,-0.3798305094242096,Negative
+Abi benim en sevdiğim renk siyah 😂black bela adam,0.4939,Positive,-0.008333333333333325,Negative,0.6439846158027649,Positive
+Mertabiniyelimonataicmefin,0.0,Neutral,0.0,Netural,0.2522728443145752,Netural
+Abi karpuz ye,0.0,Neutral,0.0,Netural,0.28077682852745056,Netural
+🇵🇹🇺🇲🇹🇷⚰️🧼💊🧪❣️🗝️🃏🏖️🤎💜🥥❣️🦄🍌🍎🥶🥵🤢😕😡💙,0.9517,Positive,0.0,Netural,0.30857792496681213,Netural
+🥺🥺🥺😍😍😍😗😗😍😘🥰🥰🥰🥰🥰🥰🙃🤪🤓🥺🎉🤗🥺😍😘,0.9974,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Hepiniz çk yakışıklısınız karar veremem,0.6269,Positive,0.5,Positive,-0.5452824234962463,Negative
+Enes abi ben çocuğum ama ben teker kaldıra biliyorum😁,0.6124,Positive,0.0,Netural,-0.3372631072998047,Negative
+"BeratYıldız 
+Kırmızı yeşil mavi sarı",0.0,Neutral,-0.05,Negative,-0.2957477569580078,Negative
+Berat Yıldız,0.0,Neutral,0.0,Netural,0.32491981983184814,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+SARl,0.0,Neutral,0.0,Netural,0.26586252450942993,Netural
+En sevdiğim renklerden biri kırmızı Enes abi,0.4588,Positive,0.25,Netural,0.7278805375099182,Positive
+Şirin baba şirin baba,0.7184,Positive,0.5,Positive,0.24925197660923004,Netural
+Kırmızı = yeşil,0.0,Neutral,-0.1,Negative,0.3104332685470581,Netural
+Kırmızı Yeşil Mavi Sarı,0.0,Neutral,-0.05,Negative,0.30387958884239197,Netural
+hepsini❤🧡💛💚💙💜🤎🖤🤍,0.9719,Positive,0.0,Netural,0.30857792496681213,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Enes,0.0,Neutral,0.0,Netural,0.2589651048183441,Netural
+klrmızı,0.0,Neutral,0.0,Netural,-0.25346651673316956,Negative
+Yaşa    Fenerbahçe,0.0,Neutral,0.13636363636363635,Netural,0.4218924045562744,Positive
+Abi sarı olarak muz da olabilir,0.0,Neutral,0.0,Netural,0.29569166898727417,Netural
+En iyi  renk   racivet,0.0516,Positive,1.0,Positive,0.7647753953933716,Positive
+Ben hepinizide çok seviyorum hepinizde adamsınız,0.6369,Positive,0.38,Positive,0.532179057598114,Positive
+*******************************************,0.0,Neutral,0.0,Netural,-0.3135318160057068,Negative
+Kırrrrrmızııııı,0.0,Neutral,0.0,Netural,-0.2490263432264328,Negative
+ben her renk severim benim için hiç bir şek olmaz😏😏😏,0.0772,Positive,0.0,Netural,0.23884478211402893,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+En   iyi     renk    racivet,0.6369,Positive,1.0,Positive,0.7647753953933716,Positive
+enes abi hepiniz,0.0,Neutral,0.0,Netural,-0.3296196162700653,Negative
+🍔🍕🌮🍟🥨🌭🥪🥞🍿🧁🍡🍭🎂🍫🍩🍦🧆🥙🌯🌮🍕🍟🥨🌭🥞🍳🥚🧀🥓,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Enes baturun 2015 hali > All bütün enes batur yılları,0.0,Neutral,0.0,Netural,0.4031427800655365,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+KIRMIZI REK KKKKKKKKK DEEEÉ,0.0,Neutral,0.0,Netural,-0.26819905638694763,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+kırmız,0.0,Neutral,0.0,Netural,-0.3203005790710449,Negative
+Mavi💙,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Enes Batur abi neden çilek yemedim?,0.0,Neutral,0.0,Netural,-0.4903576374053955,Negative
+Kırmız,0.0,Neutral,0.0,Netural,-0.3203005790710449,Negative
+Medine,0.0,Neutral,0.0,Netural,0.2804301679134369,Netural
+Abi çok sevdim video yu,0.6369,Positive,0.5,Positive,0.6387949585914612,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Rsddsxcesxvtrscgtsaxcreax,0.0,Neutral,0.0,Netural,-0.23931005597114563,Negative
+Abi tatbiki mavi,0.0,Neutral,0.0,Netural,-0.35364261269569397,Negative
+salak sarı,-0.5106,Negative,-0.1875,Negative,0.27401456236839294,Netural
+poo ve kırmızı,0.0,Neutral,0.0,Netural,0.2523021697998047,Netural
+enes sen bir mütişsin fenomen,0.3182,Positive,0.0,Netural,-0.28386420011520386,Negative
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı enes,0.0,Neutral,0.0,Netural,0.227859765291214,Netural
+sarı  ve   kırmızı,0.0,Neutral,0.0,Netural,-0.24397888779640198,Negative
+Kırmız I,0.0,Neutral,0.0,Netural,-0.25874316692352295,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Bence em iyisi kırmızı,0.6369,Positive,0.5,Positive,0.5137762427330017,Positive
+Kırmızı♥️,0.6369,Positive,0.0,Netural,0.33766642212867737,Positive
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+❤💚💙💛,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Yeşill,0.0,Neutral,-0.2,Negative,0.26816871762275696,Netural
+🟩🟦🟪🟫⬜⬛🟥🟧🟧,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı yeşil mavi sarı,0.0,Neutral,-0.05,Negative,0.30387958884239197,Netural
+harika,0.6249,Positive,0.8,Positive,0.26851850748062134,Netural
+"kırmızı❤❤❤  yeşil💚💚💚
+mavi💙💙💙     sarı💛💛💛",0.995,Positive,0.0,Netural,0.39043518900871277,Positive
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kııııııııııııııııııııııııııırrrrrrrrrrrrrrrrrrrrmmmııııııııııııııııııızzzzzzzzzzzzııııııııııııııııııııı,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+🇺🇦💙💛💙💛🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇹🇷❤🤍🤍❤❤❤❤,0.9854,Positive,0.0,Netural,0.30857792496681213,Netural
+💛💙🧡❤💚🇺🇦,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı ve MAVİ,0.0,Neutral,0.0,Netural,-0.25891759991645813,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi yeşil,0.0,Neutral,-0.2,Negative,0.3025226294994354,Netural
+Kırmızı mavi yeşil,0.0,Neutral,-0.06666666666666667,Negative,0.3083021640777588,Netural
+Mavi di yotum,0.0,Neutral,0.0,Netural,-0.38207200169563293,Negative
+Benim en sevdiğim renk mavi vales abi iyiki varsın😘🥰😍😻,0.975,Positive,0.39999999999999997,Positive,0.7107964754104614,Positive
+Abi ben de koç burcuyum,0.0,Neutral,0.0,Netural,0.4278377592563629,Positive
+Ben Mavi yi seviyorum vales abi olduğu için değil normaldede vales abiyi çok seviyorum bana göre samimi geliyo ve mavi ve lacivert rengine ağşıyım o yüzzden ÖLENE KADAR MAVİ,0.9062,Positive,0.25111111111111106,Netural,-0.3253556787967682,Negative
+Bende koç burcuyum kaya!,0.0,Neutral,0.0,Netural,0.40424227714538574,Positive
+Abi benim en sevdiğim renk yeşil,0.4588,Positive,0.15,Netural,0.5778221487998962,Positive
+mavi sarı yeşil ve kırmızı,0.0,Neutral,-0.05,Negative,0.30985507369041443,Netural
+Yeşil duga rengi 🐦🐸🐍🐢🐊,0.0,Neutral,-0.2,Negative,0.2744840383529663,Netural
+Sarı sarı,0.0,Neutral,0.0,Netural,0.26750338077545166,Netural
+🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌅🌅🌅🌅,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+❤💙💚💛💓💕💗👌👌👍💞💞💟💟💜💜👄👄💋💋💝💝💝👊✌✌✌✌✌,0.9986,Positive,0.0,Netural,0.30857792496681213,Netural
+yeşil uwu,0.0,Neutral,-0.2,Negative,0.27825069427490234,Netural
+KIRMIZI SEVİM,0.6369,Positive,0.25,Netural,0.2853451371192932,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı Sarı,0.0,Neutral,0.0,Netural,-0.34051719307899475,Negative
+🌈🌈🌈🌈,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Abi hepsini,0.0,Neutral,0.0,Netural,0.24898599088191986,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı  Kırmızı  Kırmızı  Kırmızı,0.0,Neutral,0.0,Netural,-0.3676324784755707,Negative
+Ali Fırat Ufak,0.0,Neutral,-0.1875,Negative,-0.2842293977737427,Negative
+Mavi💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙,0.9999,Positive,0.0,Netural,0.30857792496681213,Netural
+kaya abi burcum koç,0.0,Neutral,0.0,Netural,0.3116115927696228,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+"Enes      abi        sen  gerçek
+Hayattavarmısın?",0.3818,Positive,0.15000000000000002,Netural,-0.48340046405792236,Negative
+mavi.,0.0,Neutral,0.0,Netural,-0.3827265501022339,Negative
+"Ben de. en çok mavi rengi seviyorum,😍❤️♥️💌🌹🌷🌻🇹🇷🥇🎨🖌️🎤💵💵💵💵💵💵💵💵💵💵💵💵💵💵💵💵💵💵🟪🔕↩️😍😍🥰😘😭",0.9821,Positive,0.25,Netural,-0.24018320441246033,Negative
+Kırmızı❤️❤️❤️❤️❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+kırmızı yeşil mavi sarı,0.0,Neutral,-0.05,Negative,0.30387958884239197,Netural
+❤ Kadırga renk kırmızı yeşil mavi sarı kırmızı yeşil mavi sarı❤,0.8555,Positive,-0.05714285714285715,Negative,-0.28577423095703125,Negative
+Sarı 1 kırmızı 2 sevdiğim renkler bunlar,0.4588,Positive,0.16666666666666666,Netural,0.3718148171901703,Positive
+mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Teletabis,0.0,Neutral,0.0,Netural,0.2694375514984131,Netural
+Tanımını   cipsi    laa   laa   po,-0.5574,Negative,0.0,Netural,0.2939453721046448,Netural
+"Mavi
+Mavi seçiyorum",0.0,Neutral,0.0,Netural,-0.37964361906051636,Negative
+♥️💙💚♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,0.9972,Positive,0.0,Netural,0.30857792496681213,Netural
+Mavi çok seviyorum kırmızı yeşil rengini çok seviyorum,0.8646,Positive,0.16666666666666666,Netural,0.27947109937667847,Netural
+Kırmızı ve mavi yani Spiderman,0.0,Neutral,0.0,Netural,0.2705715000629425,Netural
+Kırmızı  Enes,0.0,Neutral,0.0,Netural,0.227859765291214,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi vales,0.0,Neutral,0.0,Netural,0.3032253086566925,Netural
+Kırmızı kırmızı kırmızı kırmızı,0.0,Neutral,0.0,Netural,-0.3676324784755707,Negative
+yekırmavsar,0.0,Neutral,0.0,Netural,0.22662970423698425,Netural
+Enesabisarlmuzyiyebilirdi,0.0,Neutral,0.0,Netural,-0.4075632691383362,Negative
+Bence sarı adam sarı,0.0,Neutral,0.0,Netural,-0.3455893099308014,Negative
+Enes batur abi senin şarkılarını çok seviyorum bide bir şarkıda savaştan çıkmıştın,0.0772,Positive,0.35,Positive,0.4202897250652313,Positive
+Red red,0.0,Neutral,0.0,Netural,-0.2419750690460205,Negative
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+"Kırmızı, yeşil, mavi ve sarı renk seviyorum ❤️💚💙💛",0.9571,Positive,0.06,Netural,0.5535660982131958,Positive
+Kırmız,0.0,Neutral,0.0,Netural,-0.3203005790710449,Negative
+"Enes abi nefis de seni izledim güzel  di 
+
+
+B",0.7579,Positive,0.8,Positive,0.38786444067955017,Positive
+Abi banada versene bende koç burcuyum😂😂,0.7003,Positive,0.0,Netural,-0.23702967166900635,Negative
+enes batur abi sen çok yakışıklısın ve  vidiyoların çok  güzel,0.8265,Positive,0.825,Positive,0.46552935242652893,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi ben kırmızı tutuyorum,0.0,Neutral,0.0,Netural,0.3820813298225403,Positive
+❤️❤️‍🔥,-0.34,Negative,0.0,Netural,0.30857792496681213,Netural
+3335🍉🍐🍓🍆🥐,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+🍏,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+En iyİ renk sarı 🍍,0.6369,Positive,0.5,Positive,0.7613807916641235,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Enes abi  ben kırmızıyı seviyorum,0.6369,Positive,0.25,Netural,0.44710826873779297,Positive
+kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeeeeeşiiiiil benim fovori m,0.4588,Positive,0.5,Positive,0.2918458878993988,Netural
+Enes kırmızı sevildi ama yeşilim dedin kaya yeşil seçildi,0.3506,Positive,0.07499999999999998,Netural,-0.2882045805454254,Negative
+Enes kırmızı sevildi ama yeşilim dedin kaya yeşil seçildi,0.3506,Positive,0.07499999999999998,Netural,-0.2882045805454254,Negative
+Vales,0.0,Neutral,0.0,Netural,0.2817002236843109,Netural
+"Benim burcum, da koç",0.0,Neutral,0.0,Netural,0.6315680742263794,Positive
+Enes Abi color gang'in en havali rengi red(rirmizi en iyisi,0.6369,Positive,1.0,Positive,0.23034587502479553,Netural
+❤❤❤,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+Enes abi o payesi kepçaba batrsaid,0.0,Neutral,-0.8,Negative,-0.428806334733963,Negative
+Mavi ve yeşil,0.0,Neutral,-0.1,Negative,0.38001811504364014,Positive
+Kırmızı yeşil mavi Sarji,0.0,Neutral,-0.06666666666666667,Negative,0.294440358877182,Netural
+Abi siz Slendytuby olun,0.0,Neutral,0.0,Netural,-0.28052082657814026,Negative
+Mavi mavi mavi kırmızı kırmızı yeşil,0.0,Neutral,-0.03333333333333333,Negative,-0.3070022761821747,Negative
+❤💚💙💛,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+🍯🍯sarıvarbalyok,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kirmisi ve Mavi ve Sarina ve ieschil,0.0,Neutral,0.0,Netural,-0.33909234404563904,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Hesabı öderken mert in kıza bakışı 🤣,0.4939,Positive,0.0,Netural,0.29008710384368896,Netural
+maviyi çok seviverim 😍😍😍,0.9257,Positive,0.2333333333333333,Netural,0.56754070520401,Positive
+Abi kırmızı adamdır,0.0,Neutral,0.0,Netural,0.406450480222702,Positive
+MAVİ💙,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Süüüüüüüü,-0.4215,Negative,-0.5,Negative,-0.24821892380714417,Negative
+Ben mavi ve sari yeşili çok seviyom,0.6369,Positive,0.075,Netural,0.2865809500217438,Netural
+Kırmızı   ve        sarı,0.0,Neutral,0.0,Netural,-0.21816867589950562,Negative
+Yeşil👽💚🍀,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Abi seni çok seviyorum,0.6369,Positive,0.35,Positive,0.3961658477783203,Positive
+Sarı makarna patates kızartması yiye bilirdi,0.0,Neutral,0.0,Netural,-0.43833404779434204,Negative
+Mavi yi çok severim,0.6369,Positive,0.25,Netural,-0.3308217525482178,Negative
+harika bir tane  videodu,0.6249,Positive,0.8,Positive,0.2917462885379791,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Enes abi kırmızı renk dicektin  yeşil lim de din🤣🤣,0.7506,Positive,-0.1,Negative,-0.27759093046188354,Negative
+Mavi mavi mavi!,0.0,Neutral,0.0,Netural,-0.40050849318504333,Negative
+Ens.  Abi.   Koku.    Viyosu.   Çesene,0.0,Neutral,0.0,Netural,0.2755541503429413,Netural
+Barbie,0.0,Neutral,0.0,Netural,0.3186504542827606,Netural
+"Abi  şansa  bak    ben    kırmızıyı     seviyorum.    
+Abi  ben    100      TL    için     yapmıyorum      gönlümüzde    iyilik      olsun    diye    yapıyorum❤❤❤❤❤❤❤❤❤",0.9944,Positive,0.0,Netural,-0.2925333082675934,Negative
+Enes  batur abi ben bu videoyu çok beğendim,0.4215,Positive,0.43,Positive,0.6054206490516663,Positive
+🍎🍉,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Mavi 💙,0.6369,Positive,0.0,Netural,-0.33795732259750366,Negative
+❤️💚💙💛,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
+💙💛💚♥️,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+mavi bence,0.0,Neutral,0.0,Netural,0.3635164797306061,Positive
+🔴🟢🔵🟡,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+enen abi niye domates almadln🧐,0.0,Neutral,0.0,Netural,-0.405544638633728,Negative
+Orda Enes batur kırmızı giyince yesil oldum diyo,0.0,Neutral,-0.1,Negative,-0.49613383412361145,Negative
+😍😩😩😍😩😩😍😩❤️😍❤️😩😚😩❤️😩❤️😍❤️😩😍❤️😩😍😍🟡😚🇧🇩,0.9371,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızıyı daha çok severimmm,0.3612,Positive,0.25,Netural,-0.29715150594711304,Negative
+KIRMIZI ♥️,0.6369,Positive,0.0,Netural,0.30117806792259216,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Yeşil  kırmızı sarı  mavi,0.0,Neutral,-0.05,Negative,0.3142813444137573,Netural
+abi  tinky  winkyler  öyle  okunmuyo  böyle  okunuyor  tinky  wink  dipsy  lala  po  diye  okunuyor.,0.1002,Positive,0.0,Netural,-0.27073192596435547,Negative
+Wmkwjd,0.0,Neutral,0.0,Netural,0.23890145123004913,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+😘😀😭😚🤣🙂😚hgbm bvnghjckgjunmk,0.9354,Positive,0.0,Netural,0.24228711426258087,Netural
+Bu👑😅🙂🌿😅👑😴,0.7722,Positive,0.0,Netural,0.30857792496681213,Netural
+Abi seni çok seviyorum,0.6369,Positive,0.35,Positive,0.3961658477783203,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Kırmızi   sarı,0.0,Neutral,0.0,Netural,-0.2837831676006317,Negative
+Kırmızı mavi yeşil,0.0,Neutral,-0.06666666666666667,Negative,0.3083021640777588,Netural
+💙💛💚❤,0.9571,Positive,0.0,Netural,0.30857792496681213,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Mavi🔵,0.0,Neutral,0.0,Netural,0.30857792496681213,Netural
+Selin,0.0,Neutral,0.0,Netural,0.2564511001110077,Netural
+💚,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı mavi sarı yeşil ben herkesi sevdim çünkü en en sevdiğim renkleri yapmışsınız en çok sevdiğim renkler bu ve hepsini sevdim ben bunları abi yani sevdiğim renkleri yapmışsınız,0.9345,Positive,0.25,Netural,0.6192547082901001,Positive
+Sarıya makarna mısır hardal muz limon herşeyi alırdın,0.0,Neutral,0.0,Netural,-0.42685189843177795,Negative
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Her dördünüzde çok güzelsiniz,0.7177,Positive,0.85,Positive,0.6328499913215637,Positive
+arkadaşlar işşallah enes size kalp atar amin,0.8074,Positive,0.0,Netural,0.30566316843032837,Netural
+kırmızı mavi sarı yeşil hepbirlikte,0.0,Neutral,-0.05,Negative,-0.31691429018974304,Negative
+Tüm renkleri seviyorum,0.6369,Positive,0.5,Positive,0.5037780404090881,Positive
+"Mavi
+
+
+
+ renk",0.0,Neutral,0.0,Netural,-0.3395698070526123,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+B-ben o-o-orucum,0.0,Neutral,0.0,Netural,0.27846136689186096,Netural
+Dermişim mavi,0.0,Neutral,0.0,Netural,-0.4432675540447235,Negative
+Dermişim kirmizi,0.0,Neutral,0.0,Netural,-0.24306967854499817,Negative
+Dermişim yesil,0.0,Neutral,-0.2,Negative,0.22005309164524078,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Seviyorum,0.6369,Positive,0.5,Positive,0.2995895445346832,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+"Sarı, kırmızı.",0.0,Neutral,0.0,Netural,-0.268280953168869,Negative
+🥰🥰🥰🥰🥰🥰eneskırmızı,0.9909,Positive,0.0,Netural,0.30857792496681213,Netural
+SARI,0.0,Neutral,0.0,Netural,0.2823569178581238,Netural
+Siz gerçekten manyak siniz,-0.4005,Negative,-0.6,Negative,-0.5195807218551636,Negative
+Klmlzl,0.0,Neutral,0.0,Netural,-0.2360394299030304,Negative
+Kırmızı yı seviyorum,0.6369,Positive,0.25,Netural,0.43079233169555664,Positive
+En sevdiğim renkler kırmızı ve mavi,0.4588,Positive,0.16666666666666666,Netural,0.7687238454818726,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Abi ben kırmızıyı çok seviyorum,0.6369,Positive,0.25,Netural,0.6371660828590393,Positive
+Mavi🔵🔵💙🔵🔵,0.6369,Positive,0.0,Netural,0.30857792496681213,Netural
+Kralsın,0.0,Neutral,0.0,Netural,0.42358705401420593,Positive
+"😮
+👚 
+👖",0.0,Neutral,0.0,Netural,0.37613287568092346,Positive
+T,0.0,Neutral,0.0,Netural,0.31999683380126953,Netural
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Kirmızzzzzzzzı,0.0,Neutral,0.0,Netural,-0.3777468204498291,Negative
+Ey sevdiğim renk mavi o zaman mavi olanı,0.4588,Positive,0.16666666666666666,Netural,-0.2578299939632416,Negative
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+kırmızı adamdir,0.0,Neutral,0.0,Netural,0.3282359838485718,Netural
+SarI,0.0,Neutral,0.0,Netural,0.2823569178581238,Netural
+Enes abi seni çok seviyorum,0.6369,Positive,0.35,Positive,0.37214866280555725,Positive
+Baba,0.0,Neutral,0.0,Netural,0.40863779187202454,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+Abi ilk başta ben artık yeşilin dedin,0.0,Neutral,0.024999999999999994,Netural,0.2553173899650574,Netural
+💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛,1.0,Positive,0.0,Netural,0.30857792496681213,Netural
+Kırmızı ☆☆☆♡♡,0.0,Neutral,0.0,Netural,0.527273416519165,Positive
+Sarı,0.0,Neutral,0.0,Netural,0.2582084834575653,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Sarıııı,0.0,Neutral,0.0,Netural,-0.25594401359558105,Negative
+Benim favorim mavi,0.4588,Positive,0.25,Netural,0.7160061001777649,Positive
+Mavi,0.0,Neutral,0.0,Netural,-0.3975054919719696,Negative
+"Kırmızı,yeşil",0.0,Neutral,0.0,Netural,0.27841973304748535,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Kırmızı mavi,0.0,Neutral,0.0,Netural,0.2629092037677765,Netural
+Sarı yeşil,0.0,Neutral,-0.1,Negative,0.29770293831825256,Netural
+Kırmızı ve mavi,0.0,Neutral,0.0,Netural,-0.25891759991645813,Negative
+Enes abi sarı,0.0,Neutral,0.0,Netural,0.24626313149929047,Netural
+Qırmızı,0.0,Neutral,0.0,Netural,0.2334015816450119,Netural
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+En  yakışıklısı   yeşil,0.5719,Positive,-0.2,Negative,-0.3375754952430725,Negative
+KIRMIZI,0.0,Neutral,0.0,Netural,0.2716061770915985,Netural
+"Sarl💛 
+Klrmlzl❤",0.8555,Positive,0.0,Netural,0.34280773997306824,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+Kırmızı,0.0,Neutral,0.0,Netural,0.24821671843528748,Netural
+Ben kırmızı ve turuncuyu ve beyazı seviyom,0.3612,Positive,0.0,Netural,0.44331324100494385,Positive
+Yeşil,0.0,Neutral,-0.2,Negative,0.29402509331703186,Netural
+😂😂😂😂😂😂😂,0.9601,Positive,0.0,Netural,0.30857792496681213,Netural
+tabiki kırmızı,0.0,Neutral,0.0,Netural,0.3100738525390625,Netural
+Kırmızyeşilmavisarı❤️💚💙💛,0.9274,Positive,0.0,Netural,0.30857792496681213,Netural
