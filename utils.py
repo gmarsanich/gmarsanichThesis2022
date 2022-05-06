@@ -159,7 +159,7 @@ def move_dir(
 
 def find_missing(directory: str) -> list:
 
-    "This function takes in a directory and returns a list of files that have not been analyzed"
+    """This function takes in a directory and returns a list of files that have not been analyzed"""
 
     target_dir = directory
     data = os.listdir(target_dir)
