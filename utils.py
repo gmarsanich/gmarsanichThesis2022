@@ -1,17 +1,12 @@
 import os
-import pathlib
 import shutil
 
 import langdetect as ld
 import pandas as pd
-import spacy
 from googletrans import Translator, constants
-from spacy.language import Language
-from spacy_langdetect import LanguageDetector
 from textblob import TextBlob
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-import httpx
 
 
 def detect_language(text: str) -> str:
@@ -28,8 +23,7 @@ def detect_language(text: str) -> str:
 def translate(text: str) -> str:
 
     """This function translates a given text into English using the Googletrans library"""
-    timeout = httpx.Timeout(3)
-    translator = Translator(timeout=timeout)
+    translator = Translator()
     try:
         result = translator.translate(text)
     except ValueError:
