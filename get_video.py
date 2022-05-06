@@ -21,8 +21,6 @@ def get_videos(search_term: str) -> list:
         "search_query": search_term,
     }
 
-    urls = []
-
     search = GoogleSearch(params)
     results = search.get_dict()
 
