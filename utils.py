@@ -118,7 +118,7 @@ def generate_labels(lst: list, model_name: str) -> list:
             if score >= 0.33:
                 bert_labels.append("Positive")
             if score >= 0 and score < 0.33:
-                bert_labels.append("Netural")
+                bert_labels.append("Neutral")
             if score < 0:
                 bert_labels.append("Negative")
         return bert_labels
@@ -129,7 +129,7 @@ def generate_labels(lst: list, model_name: str) -> list:
             if score >= 0.33:
                 blob_labels.append("Positive")
             if score >= 0 and score < 0.33:
-                blob_labels.append("Netural")
+                blob_labels.append("Neutral")
             if score < 0:
                 blob_labels.append("Negative")
         return blob_labels
