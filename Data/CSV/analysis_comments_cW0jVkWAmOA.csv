@@ -1,0 +1,622 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+9,0.0,Neutral,0.0,Neutral,0.3628028631210327,Positive
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+Y,0.0,Neutral,0.0,Neutral,0.3310393095016479,Positive
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+Malumaa♥️♥️🥰🎶🎶,0.9493,Positive,0.0,Neutral,0.3085779249668121,Neutral
+hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+mê cái gia đình này quá,0.6369,Positive,0.5,Positive,0.3112135529518127,Neutral
+😭😭😭😭😭😭😭,-0.967,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Cách hát của đức phúc luôn làm hài lòng tất cả mn.,0.4019,Positive,0.0,Neutral,-0.4467023909091949,Negative
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+Ya escucharon la canción en vivo por TV el hormiguero? Maluma cantándola en vivo IMPRESIONANTE. 🔝🔥,0.7154,Positive,0.4242424242424242,Positive,0.5556226372718811,Positive
+A la última le trajo yerba... jejejeje,0.0,Neutral,0.0,Neutral,-0.4548589587211609,Negative
+👍😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Otro fili,0.0,Neutral,-0.125,Negative,-0.2773354351520538,Negative
+Tu eres lo único bueno que a dejado el covi 👌😉,0.8415,Positive,0.2333333333333333,Neutral,0.3157083988189697,Neutral
+Que buena canción,0.4404,Positive,0.7,Positive,0.396046906709671,Positive
+chương trình gì vậy nhỉ,0.0,Neutral,0.0,Neutral,0.3132421672344208,Neutral
+Me encantassss 🥹😍🥰😍🥰😋,0.9771,Positive,0.5,Positive,0.7982168793678284,Positive
+rrebacana,0.0,Neutral,0.0,Neutral,0.2418490797281265,Neutral
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+"3 Doritos despues....
+- Entregamelo a mi......
+mal-aleja 
+jejejejeje
+alerta de spoiler.......
+alerta de spoiler!!!!!!! 
+planetas......jum....",0.6776,Positive,0.0,Neutral,-0.706194281578064,Negative
+HOJE ESTOU TÃO FELIZ PORQUE AS PESSOAS QUE ESTÁ LENDO É ABENÇOADA POR DEUS E VAI ME ABENÇOAR TAMBÉM VINDO AKI ME CONHECER !!! 🙏🏻,0.9659,Positive,1.0,Positive,0.7455546259880066,Positive
+Fenomenal 😍,0.4588,Positive,0.5,Positive,0.7335118651390076,Positive
+👉👈,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+👉😍😛,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+👺🙈🙉,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+MUSiCA muy buena,0.4927,Positive,0.91,Positive,0.6200461983680725,Positive
+Cositas de la usa,0.0,Neutral,-0.1875,Negative,0.362622857093811,Positive
+https://youtu.be/rQ8dyW-qQLg género chileno 2022,0.0,Neutral,0.0,Neutral,-0.2917664051055908,Negative
+Hi i like your songs.,0.3612,Positive,0.0,Neutral,0.4796344637870788,Positive
+))(((((супе!!)(((,0.0,Neutral,0.0,Neutral,-0.2728452682495117,Negative
+"Muito amor ♥️ desde Portugal 🇵🇹.  Obrigada pelas tuas canções, tua voz me alegra muitos dias tristes 🥀. 💝💝💝💝",0.9839,Positive,0.325,Neutral,0.7409208416938782,Positive
+de la😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3806870281696319,Positive
+Aprende.....,0.0,Neutral,0.0,Neutral,0.3906175792217254,Positive
+Loko,0.0,Neutral,0.0,Neutral,0.2647772133350372,Neutral
+me encanta esta cancion es mi favorita TE AMO MALUMA,0.9206,Positive,0.5,Positive,0.7870054841041565,Positive
+Model name?,0.0,Neutral,0.0,Neutral,-0.31012162566185,Negative
+"papacito ❤️✨ your concert here in Dubai was amazing, I hope you’ll come back :)",0.9001,Positive,0.3666666666666667,Positive,0.6767966151237488,Positive
+Soy yo o cuando dijo recuerda que tú y yo tenemos historia pensé la primera chica es la misma de felices los 4 🤔,0.5719,Positive,0.35,Positive,0.3018195033073425,Neutral
+Rompiéndola mi king ⚡🔥,-0.34,Negative,0.0,Neutral,-0.4730042815208435,Negative
+We like your music 🎼🎦,0.3612,Positive,0.0,Neutral,0.5311273336410522,Positive
+La única historia contigo es una denuncia falsa por terrorismo siendo inocente,-0.6369,Negative,0.0333333333333333,Neutral,-0.4220843017101288,Negative
+Mas que un palo Bastagaso  🎼🎼🔥⚡️,-0.34,Negative,0.5,Positive,-0.4768840670585632,Negative
+Buummm,0.0,Neutral,0.0,Neutral,0.2654179334640503,Neutral
+"cái hay của phúc đó giọng hất rất tình cảm , mỗi bài hát là bạn ấy thả hết tâm hồn và tình cảm vậy , và thể hết giống như mình đã từng trải nghiệm , i love you",0.9432,Positive,0.5,Positive,0.4270737767219543,Positive
+😂😈😈😢😢😢😢😥😕😕😥😎😎 melo,0.3506,Positive,0.0,Neutral,0.2717771530151367,Neutral
+"Eres grande Malu.. 💋
+ Orgullo  Colombiano éxitos  👏  Sigue rompiendola 💪  me encanta toda tu música 🎶  mucha nota ☺ 🤩",0.9477,Positive,0.4866666666666666,Positive,0.6493216156959534,Positive
+"Quién quiere ver música nueva?.
+
+Mira el video y opina 👇
+https://youtu.be/lyGMb-Jb5_I",0.0,Neutral,0.1681818181818181,Neutral,-0.3394368290901184,Negative
+"nghe mà ưng hết cả tai , đức phúc cover mãi đỉnh",0.6369,Positive,0.5,Positive,0.2792664468288421,Neutral
+"Esta es una más de las tantas rolas de maluma Super infravaloradas, paso lo mismo con su álbum papi juancho😪",0.5994,Positive,0.3333333333333333,Positive,-0.3911106288433075,Negative
+Cada día estás más guapo guapo guapo!!!,0.9064,Positive,0.619140625,Positive,-0.5774723887443542,Negative
+Hola maluma novia,0.0,Neutral,0.0,Neutral,-0.4530360698699951,Negative
+Bebés,0.0,Neutral,0.0,Neutral,0.2434131950139999,Neutral
+Maluma,0.0,Neutral,0.0,Neutral,-0.5278192162513733,Negative
+LLEGUE DE LA USA Y COSITAS LE TRAJE 🇺🇸🎁,0.4404,Positive,0.0,Neutral,-0.4098483026027679,Negative
+"Clase para el mundo desde Colombia. Orgulloso de Maluma. Me encanta que Colombia tenga una estrella de fama mundial. Saludos desde Salamanca, España.",0.8779,Positive,0.6,Positive,0.7839161157608032,Positive
+En vivo es otro show,0.0,Neutral,0.1363636363636363,Neutral,0.2910366356372833,Neutral
+Every fan of Maluma must comment this video: https://www.youtube.com/watch?v=sEjt7eL6tZk,0.3182,Positive,0.0,Neutral,0.4402799308300018,Positive
+Te extrañaba 💕,0.4767,Positive,0.0,Neutral,-0.4781647622585296,Negative
+👏👏👏👏👏👏💙,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Alguien sabe como se llama la modelo,0.0,Neutral,0.0,Neutral,-0.2601318657398224,Negative
+El mejor,0.6369,Positive,1.0,Positive,0.8393970727920532,Positive
+El mejor maluma,0.765,Positive,1.0,Positive,0.789851188659668,Positive
+Underrated,0.0,Neutral,0.0,Neutral,0.6038185954093933,Positive
+Maluma baby!!!!❤️🔥🌍🎶🌹,-0.5526,Negative,0.0,Neutral,-0.6584120392799377,Negative
+Busco a Esperanza Gómez para hacer un parche,0.0,Neutral,0.0,Neutral,0.2265931516885757,Neutral
+A mi que nadie me compre victoria secret. Lo mío de Savage by Fenty it La Perla,-0.6369,Negative,-0.4,Negative,-0.4372311234474182,Negative
+#Maluma cositas de la usa Vamos hacerlo hit? De colombia pal mundo entero TE AMOOOOOOOO MALUMA,0.7125,Positive,0.1708333333333333,Neutral,-0.6179279088973999,Negative
+"Oh my this man is so handsome, but also very good hearted ❤️ I was at the concert on Tuesday 29 in Frankfurt. His voice is life everything, I could listen forever and now I am here loving this awesome artist. Can't wait to your next concert, please come soon again. I was the most happy human on earth. I danced like all the others in my line like crazy, sang along.... My God the show was on Point. It was life! And I will say it again, his voice is perfect❤️😍
+
+Thank you Maluma, for the awesome time❤️ thank you for the great show❤️😍 please please please come again.",0.9976,Positive,0.4872727272727272,Positive,0.9153124690055848,Positive
+La modelo se parece mucho a su ex Natalia,0.3612,Positive,0.0,Neutral,0.3484386801719665,Positive
+Top,0.2023,Positive,0.5,Positive,0.8256890773773193,Positive
+👼🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+No me gusto ☹️,-0.0191,Neutral,0.0,Neutral,-0.462397426366806,Negative
+only 12m....bad maluma..your old songs is better.this new is shit,-0.5574,Negative,0.009090909090909,Neutral,-0.7448577284812927,Negative
+que lindo animalito  🐶🐶,0.4588,Positive,0.15625,Neutral,0.4388216733932495,Positive
+El mejor,0.6369,Positive,1.0,Positive,0.8393970727920532,Positive
+Espero que les guste #Cositasdelausa  ( challenger)   https://www.youtube.com/watch?v=QOvEVWYFfoM,0.7096,Positive,0.0,Neutral,0.4010567963123321,Positive
+lo mejor del 2022,0.6369,Positive,1.0,Positive,0.8374664187431335,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Gente que pasó? La canción no supera ni las 20 millones de vistas,0.0,Neutral,0.0,Neutral,-0.506458044052124,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Alguien se sabe el nombre de la tercera modelo??,0.0,Neutral,0.0,Neutral,-0.5073736310005188,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Hola momento🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.2730221152305603,Neutral
+"Me encanta esta canción, pero no pasa de los 12 millones 🥺💕",0.8608,Positive,0.5,Positive,0.3363820314407348,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Me encantas 🔥😎,0.7003,Positive,0.5,Positive,0.7866883873939514,Positive
+Bendiciones😘,0.743,Positive,0.0,Neutral,0.3085779249668121,Neutral
+O comentas,0.0,Neutral,0.0,Neutral,0.3600905835628509,Positive
+Sería mi sueño si me sigues en tiktok,0.25,Positive,0.0,Neutral,0.5305278897285461,Positive
+Muy buena te amo maluma,0.8251,Positive,0.705,Positive,0.7057786583900452,Positive
+💥💥💥🚀🌎❤,-0.3182,Negative,0.0,Neutral,0.3085779249668121,Neutral
+🎁🇺🇲,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+I love maluma 🥰  no soy malo pero por ti me puedo volver TU eres el error q yo con gusto quiero cometer🥰😘😍♥️,0.9873,Positive,0.4499999999999999,Positive,0.2882847785949707,Neutral
+Maluma❤❤👏👏💋,0.9042,Positive,0.0,Neutral,0.3085779249668121,Neutral
+"Maluma, Great video, we are so proud of your achievements in such a short period of time, hope you can visit us some day, I know most of your family, my niece is your cousin, we love you. ❤ 🇺🇲🙏🇨🇴✌👍",0.9738,Positive,0.4333333333333333,Positive,0.8985301852226257,Positive
+"¡Admitelo, Youtube no te lo consiguió, tu viniste por tu propia cuenta! 🎧🎶",0.2714,Positive,0.75,Positive,-0.8079339265823364,Negative
+🔥🔥🔥🔥🔥🔥,-0.9081,Negative,0.0,Neutral,0.3085779249668121,Neutral
+https://youtu.be/VGnBdSB4GVk,0.0,Neutral,0.0,Neutral,0.2188957035541534,Neutral
+https://youtu.be/VGnBdSB4GVk,0.0,Neutral,0.0,Neutral,0.2188957035541534,Neutral
+https://youtu.be/VGnBdSB4GVk,0.0,Neutral,0.0,Neutral,0.2188957035541534,Neutral
+Sei bravissimo maluma,0.4927,Positive,0.91,Positive,-0.8140968084335327,Negative
+Alto tema Malú un genio,0.0,Neutral,0.16,Neutral,0.3197517096996307,Neutral
+Bonita🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.3085779249668121,Neutral
+sin palabras! cada vez me sorprendes mas calvo hermoso!,0.7822,Positive,0.75,Positive,0.8509911894798279,Positive
+"Oooh mama tetema tetema hey good music from #Swahilination support Tanzanian music.
+
+https://www.youtube.com/watch?v=VGnBdSB4GVk",0.6808,Positive,0.7,Positive,0.3747948706150055,Positive
+"En Premios lo nuestro canto mejor esta canción , con mas voz y entonación",0.7096,Positive,0.5,Positive,0.7062844038009644,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+"Этот пацан реально очень крутой , я с 8 класса смотрю на него , так хочу с ним говорить по видео , не кто из вас не любит его так как я , Тату как он сделаю я",0.8641,Positive,0.4549999999999999,Positive,-0.2917296886444092,Negative
+https://youtu.be/1DzR0ICeVNA,0.0,Neutral,0.0,Neutral,-0.2557185590267181,Negative
+"Ese loko tiene su propio estilo, y pega duro...🇨🇴🤘",0.0,Neutral,0.6,Positive,0.2310871630907058,Neutral
+buena rolitaa parceross,0.4404,Positive,0.7,Positive,0.4732880294322967,Positive
+https://youtu.be/lr9GD5Qhze4,0.0,Neutral,0.0,Neutral,-0.2270617932081222,Negative
+😍😍😍😍😍😍😍😍,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Me encanta esta canción ✨🤍🤍,0.6369,Positive,0.5,Positive,0.7863094806671143,Positive
+Hola momento de la vida🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.4264524579048157,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+🔝💓,0.5766,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Tu sabe q yo soy  leá contigo bambino .. luisa fernanda benitez vegaz,0.0,Neutral,0.0,Neutral,0.3755501210689544,Positive
+Estambien,0.0,Neutral,0.0,Neutral,0.2538534998893738,Neutral
+🥳😘,0.6597,Positive,0.0,Neutral,0.3085779249668121,Neutral
+❤️❤️❤️❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"IEYE WAS HEARING ME A LITTLE RHYME OF WORDS IN VERSES CALLED POSITIVE 777; NO NO NO FOR ME 777 IS NOT THE JACKPOT ON SOME SLOT MACHINES GAMBLING SIN IN THE CITY OF SIN;  AS YOU KNOW THERE IS POSITIVE AND NEGATIVE IN DIGITS OF COMPONENTS; IEYE AM A FULL POSITIVE 777 BEING A VIRTUOUS WOMAN; YOU COULD SAY POSITIVE 777 BE OF ANGELS AND NEGATIVE 777 BE OF DEMONS;  OH NO NO NO DONT ASK ME TO BLOW ON THOSE DICE OF SNAKE EYES  CAUSE IEYE AM TO BUSY GETTING MY GOLDEN  GLOW OF 4-EVER LIGHT AND 4-EVER LIFE YOU COULD SAY POSITIVE 777 BE OF THE GOLDEN SUN INNER SUNS OUTER SUNS AND 4EVER PLANETS OF LIFE'S  4-EVER DAY AND NEGATIVE 777 BE OF THE THE SHITHOLE HELLHOLE BLACKHOLE'S DARK MOONS INFINITE NIGHT; IEYE AM GOING TO MAKE THE NEGATIVE 777 DEMONS SCREAM WHEN IEYE SING THE GOLDEN YELLOW SUN'S ANCIENT SONG TO HAVE THE 4-EVER LIFE GIVING WATERS SPRINKLE TO USHER IN 4EVER SPRING OF 4-EVER GREEN TO HAVE 4-EVER LIGHTS AND 4-EVER LIFES ROSES BLOOMING  THE 4-EVER LIFE GIVING WATERS THAT SPRINKLE ONTO 4-EVER LIFES PLANETS FROM THE 4-EVER  HEAVENS OF THE 4-EVER AQUAMARINE SKY OF THE 4-EVER BRIGHT WHITE LIGHTS HAVING A 4EVER GOLDEN YELLOW HALO LIGHT BEING THE OPPOSITE OF THE RA RA RA IN RA(IN) FROM SKIES OF GREY AND GRAY IEYE AM GOING TO BE SINGING 4-EVER BYE BYE PIGGY PIGGY PIGS PY PY PI  PINKY PIE. AS IEYE SING HEY HEY HEY TO 4-EVER LIGHT AND 4-EVER LIFE OF THE 4-EVER DAY'S 4-EVER HEAVEN'S STORY FILLED WITH ALL THAT IS 4-EVER POSITIVELY GOOD THAT WILL BE AND GO ON 4-EVER 4-EVER MORE 4-EVER ALWAYS
+SEE IEYE IAM A VERY VERY VERY ANCIENT SOUL THAT WAS HERE IN THE BEGINNING OF OUR 4-EVER PLANET OF LIFE'S CREATION IEYE WENT WITHIN AND DUG DEEP INTO TO MY 4-EVER SOULS POWER KNOWLEDGE 4-EVER TRUTH'S  INFORMATION TO FIND THE TRUTH IN OUR 4EVER TRUTH'S 4-EVER HIGHER STATE OF BEING OF PYR 12 DNA CHAINS ACTIVATING AND CONNECTING  OUR 4-EVER 12 LIFE BODIES TO OUR 12 4-EVER CENTERS OF 4-EVER LIGHT ENERGY TO BECOME ONE 4-EVER WHOLE 4EVER PERFECT 4EVER COMPLETE 4-EVER LIGHT AND 4EVER LIFE BODY CALL ME CRAZY BUT IN THE BEGINNING THERE WAS A GARDEN OF 4-EVER LIGHT  THERE  WAS A GARDEN OF 4-EVER LIFE WE WOULD SIT IN THE GARDEN OF 4-EVER LIGHT AND THE SUN'S 4EVER LIGHT ENERGY WAS FOOD FOR OUR 4EVER LIGHT BODY WE WOULD SIT IN THE 4-EVER GARDEN OF LIFE AND WE WOULD DRINK THE 4-EVER LIFE GIVING WATERS OF 4EVER LIFE'S NATURAL WATER  SPRINGS IN THE BEGINNING OF THE 4-EVER DAY WE ONLY KNEW WHAT IS 4-EVER POSITIVELY  GOOD OF POSITIVE ASPECTS POSITIVE COMPONENTS AND POSITIVE ACTIONS   IN OUR  4-EVER TRUTH THAT IS 4-EVER TRUTH ONLY",0.9972,Positive,0.1880525846702317,Neutral,0.2422082871198654,Neutral
+Hola difrutar el momento🥰🥰🤯🤯😘,0.9666,Positive,0.4,Positive,0.4707955718040466,Positive
+No puedo con esto lo amo 😰😍😍😍😍😍,0.9531,Positive,0.5,Positive,-0.2848247289657593,Negative
+"Anitta https://youtu.be/hFCjGiawJi4 ,",0.0,Neutral,0.0,Neutral,0.2278593927621841,Neutral
+Hola difrutar la vida🥰🥰😍😍🤯🤯🥺🤩🤩,0.9744,Positive,0.4,Positive,0.4193582832813263,Positive
+Bendiciones😘,0.743,Positive,0.0,Neutral,0.3085779249668121,Neutral
+te amo maluma,0.6369,Positive,0.5,Positive,-0.5969291925430298,Negative
+Hola momento🥰🥰😍😍😘,0.9732,Positive,0.0,Neutral,0.2730221152305603,Neutral
+Maluma Baby no tiene competencia es único..estuve con mi hija éste Domingo 20.03.22 en su concierto en Suiza-Zürich…tenía los Tickets comprados de antes de la pandemia y los guardé con la esperanza de verle🙏🙏🙏un artistazo..te adoro..vuelve pronto a Zürich te esperamos 😘😘😘😘,0.9643,Positive,0.41875,Positive,0.469367653131485,Positive
+Dijo que buena piesa,0.4404,Positive,0.7,Positive,0.3780665993690491,Positive
+to viciadaaaaa nessa musicaaaaaaaaa s2 *.*,0.0,Neutral,0.0,Neutral,-0.4386796653270721,Negative
+Esto es un palo 🔥.. lastima que la gente no lo sepa valorar...,-0.4767,Negative,0.0,Neutral,-0.615345299243927,Negative
+Como no tiene mas exito esta canción?,-0.5088,Negative,0.25,Neutral,-0.3240785896778106,Negative
+Lo mejor 🎶💖,0.891,Positive,1.0,Positive,0.8516424298286438,Positive
+😎😎,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
+..que lindo temaaa maluma carajooo ptmare que la hicistéisss güeyyyy!!..👍💪💪🙋‍♂️🌏🌐..vamoooosss Maluma ⭐⭐⭐⭐⭐,0.4184,Positive,1.0,Positive,-0.6468139886856079,Negative
+..amor no del cole pero desde la uniii!!...tu daddyyto James babie!!..Te amooo mi chiooo..⚘❤😘😘👍💪💪🙋‍♂️🌏🌐,0.9771,Positive,0.5,Positive,-0.2456647753715515,Negative
+..un temaazzzooo chavalll!!...maluma babie!!!👍💪💪💪🙋‍♂️🇺🇸saludos desde Skandinavien 🇸🇪🇩🇰🇸🇯EU🇪🇺🌏🌐..un fuerte  abrazo grande!!...grandìsimooo malumaaa ya estaremos tb por ahí!!🇺🇸🇺🇸👍💪🙋‍♂️🌏🌐,0.0,Neutral,0.0,Neutral,0.69705730676651,Positive
+...no soy malo pero por ti me puedo volver🙋‍♂️😘....tu eres el error q con gusto quiero cometer!..me dices daddy tu eres lo único bueno q ha dejado el covid..dime si SÍ o noo..mamii perdámosno tu eres mi gatita bb❤🙋‍♂️😘😘😘te amooo chioooo⚘🇪🇺🌏🌐,0.9846,Positive,0.3874999999999999,Positive,-0.5227276682853699,Negative
+Maluma bady!,0.0,Neutral,0.0,Neutral,-0.6966828107833862,Negative
+Hola Maluma soy tu fiel admiradora te amo 😍😍😍😍😍😍😍😍♥️♥️♥️♥️♥️♥️,0.9958,Positive,0.5,Positive,0.7557992339134216,Positive
+Hermosa cancion,0.5994,Positive,0.85,Positive,0.6941117644309998,Positive
+I hate Eugene sequel,-0.5719,Negative,-0.8,Negative,-0.4072274565696716,Negative
+Uffffffff,0.0,Neutral,0.0,Neutral,-0.3141915798187256,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Himno,0.0,Neutral,0.0,Neutral,0.4617659449577331,Positive
+"Amigos y fanáticos de Maluma, los invito a participar en el Ranking Musical 2022, https://www.youtube.com/watch?v=qKtxL5UUWQo votando por  Maluma, y tus artistas preferidos #top20exitos2022 #top20exitos",0.7717,Positive,0.5,Positive,0.5955214500427246,Positive
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+"IEYE AM TELLING THE TRUTH THAT IS TRUTH AND ONLY TRITH THOS TO GO WITH LAST COMMENT IEYE WROTE IN MY YRUTH ANF THE TRUTH OF PHYSICAL AND INNER RESEARCH 
+IEYE HAVE DONE MY PHYSICAL AND INNER RESEARCH BUT YOU NEED TO DO SOME PHYSICAL RESEARCH BECAUSE THE SUN WORSH OF THE SO CALLED ROYAL ELITES ENTERTAINMENT INDUSTRY POLITICIANS MAJOR CORPORATIONS IS NOT OF TGE SUN THE SUN THAT ACTUALLY HAS 4EVER WHITE LIGHT OF THE 4EVER DAY  AND IF WE DIDN'T HAVE THE SUN OF 4EVER  WHITE LIGHT OF TGE REVER DAY THERE WOULD BE NO LIFE CAUSE IT WOULD BE SO DARK AND COLD ALL MASS AND MATTER WOULD SHATTER LIKE GLASS THE SUN THE PYRAMIDS MA(TRI)ARCH(Y) AND PA(TRI)ARCH(Y) OF THE SO CALLED ROYAL ELITES OCCULTIC FALSE BELIEF CONYROL SYSTEM THE OCCULT  THE GOATS BAPHOMET  BAAL MOLECH ALPHA MALE DRACO REPTILIAN OCCULTIC THAT BE PSYCHO NUTTY NUTS OF THE SHITHOLE HELLHOLE BLACKHOLE DARK MOONS ON SOME VAMPIRE D(RA)CULA D(RA)CON AND WE(RE)WOLVES DARK ARTS OF DEAD KNOWLEDGE BOOK OF DEAD 
+https://en.m.wikipedia.org/wiki/Eye_of_Ra#:~:text=The%20Eye%20of%20Ra%20or,behaves%20as%20an%20independent%20goddess.
+FALSE LIGHT Y(IN)G AND Y(AN)G BLACK AND WHITE https://images.app.goo.gl/dAiggDy5T4F8Y3f48 SEE TGE SUN BLACK BLACKHOLE THEY WORSHIPPING AS LIGHT THEN MOON AND STARS ON OTHER SIDE OF NIGHT INFINITE NIGHT 
+ THEY CALL BLACKSUN MIDNIGHT SUN MIDNIGHT MOON (NOTICE ZENDAYA SUN ON HER HEAD BLACK NOT WHITE )MOST CALL A MATRIX WORSHIP TGE TRUTH RIGHT IN FRONT OF YOUR FACE HOLLYWEIRD TWILIGHT SAGA DID MOVIE MIDNIGHT SUN VAMPIRE SHIT COME OUT AT NIGHT OFF TAKE OF TWILIGHT SAGA YOU EVER WATCHED REYURN OF DRACULA AND VAN HELSING THE GORGOYLES STATUES ON VATICAN LOOK LIKE REPTILIANS DRACONIANS VAMPIRES STEPHEN HAWKINS WAS FACINATED WITH BLACKHOLES NOT THE SUN WITH WHITE LIGHT BUT THE SHITHOLE HELLHOLE BLACKHOLE OF CONSTATINE VATOCAN IS(RA)EL HOLY SEPULCH)RE) CHURCH OF THE PY)RA)MIDS OCCULTIC BULLSHIT BOOK OF DEAD EGYPTOLOGY HELIOS GREEK MYTHOLOGY RIMAN MYTHOLOGY PYRAMIDS EGYPTIAN HISTORY MYSTERY PICTURES PAINTED BY MICHAEL ANGELO NOT HIM BUT THE ARCH ANGEL MICHAEL GABRIEL ARIEL OF VATICAN CONSTATINE VATICAN ROME ISRAEL PYRAMIDS BLACK PYRAMID PF BLACKHOLE RED PYRAMID OF BLOPD RED MOON WHITE PYRAMID OF VIRGIN BLOOD SACRIFICE ANIMAL AND HUMAN SHEEP AND GOATS PEOPLE BE SHEEP OF THE GOOD CHURCH OF RELIGIONS SHEPHERD. AND SHEEP ANIMAL THE GOATS OCCULT BAPHOMET GOAT HEAD ANIMAL AND HUMAN  HMMM ARCH ANGEL OF ARCHONS  THERE IS ALSO HOLLYWEIRD MOVIE OF MICHAEL BEING VAMPIRE SCHOOL OF DARK ARTS OF DEAD  THE TRUTH RIGHT IN FRONT OF YOUR FACE JUST PEOPLE DONT UNDERSTAND THE TRUTH THEY SEE RIGHT IN FRONT OF YOUR FACE OF TGE PYRAMIDS OCCULTIC BULLSHIT AND LIES OF WHAT THEY REALLY FUGGIN WORSHIPPING OF THE IN(FI)NITY IN ENGLISH FI ROMANIAN FOR BE NITY SAME WITH IN(FI)NITE OF TGE INFINITY UNIVERSE OF TGE INFINITE SHITHOLE HELLHOLE BLACKHOLE TGEY CALL BLACKSUN MIDNIGHT SUN MIDNIGHT MOON OF THE DEAD DEAD DEAD SEA SCROLLS NOT LIFE SEA SCROLLS IN ALL (RE(LIGIONS)LEGIONS BOOK OF DEAD EGYPTOLOGY  NECRONMANCY GIGAS CODE 5 PT STAR+ 6 PT STAR=11 PT STAR DRACONIS OF GIGAS CODEX THEY CALL DEVIL'S(6 LETTERS)+BIBLE(5LETTERS)=11 LETTERS WITH THE APOSTROPHE IN DEVIL'S BEING 12 SYMBOL OF THE 12'S OF TIMES
+ LIES OF EXODUS E(X)O DUS BLOOD MAGIC RITUAL OF ANIMAL AND HUMAN BLOOD SACRIFICE CURSE OF TIME EXODUS 12 VERSE 212+2=14 OF PY PYTHON 6 LETTERS PYYRAH 6 LETTERS 66 BOOKS OF PI 3.14 12 SPACES ON CLOCK 2 HANDS OF TIME 12+2=14 3.14 PI CIRCLE OF TIMES LIES OF SUMMER(I)AN TEXT EMERALD TABLETS HELIOS MYSTERY SCHOOL OF DARK ARTS OF DEAD KNOWLEDGE G(RE)EK MYTHOLOGY OF G(RE)GORIAN CALENDAR OF HOLY(4)+BIBLE(5)=9 RED(3)+DRAGON(6)=9 1 BLACKHOLE +8 DARK MOONS=9 BLACKHOLE 9 LETTERS HADES(5)++HELL(4)=9 ANTON LAVEY SATAN SATURN WORSHIP JEWISH JUJU JUMANJI OF ROMAN(RA)MAN  MYTHOLOGY (JU)LIUS CAESAR AND CLEO PAT(RA) (JU)LIAN CALENDAR OF ALEISTER CROW(LEY) GOLDEN DAWN  AND GIGAS CODE GOGAS CODEX  MAY(AN) 3 CIRCLE AND MAY(AN)5 CIRCLE 3+5=8 OF 9 TURNED SIDEWAYS IN(FI)NITY SHITHOLE HELLHOLE BLACKHOLE THEY CALL BLACKSUN MIDNIGHT SUN MIDNIGHT MOON OF INFINITE 8 DARK HABITABLE  DESOLATE MOON 4 G(RA)Y OF DARKNESS ICE. COME FROM GRAY MOON THEY CALL BLUE MOON OF BLUE DRAGON OF DARKNESS ICE 4 G(RE)Y OF RED DRAGON OF DEATHS. FIRE OF BLOOD )RE)D G(RE)Y MOON PROBABLY MARS BLOOD RED (ORA)NGE  RE(O)RA  MOON OFF THE SO CALL GOLDEN DAWN PURPLE EYE DRAGON RED+BLUE MAKES PURPLE LIAR ARSE BISH GENIE OF ON A STAR MAKE A WISH OR 11:11 OF TIMES LIES MAKE A WISH MAGIC OF 12'S OF TIMES LIES 12 TRIBES 12 MONTHS 12 ZODIACS 12 DEMON DIMENSI)ONS OF 12 FALSE GODS FALSE GODESSES OF GREEK MYTHOLOGY OLYPINANS OF MT OLYMPUS RAMON ROMAN MYTHOLOGY TITANS PYRAMIDS EGYPTIAN HISTORY GODS OF EGYPT
+OF  OF TGE 8 DARK MOONS 12+8=20 NEGATIVE 3RD CIRCLE MAYAN 3 CIRCLE AND 5 CIRCLE CALENDAR 20 SQUARES OF 8 MALEVOLENT EXT(RA) TER(RE)STRIAL SPECIES (RE)TILIANS (RE)PTILES G(RE)YS OF REPTILIANS D(RA)CONIANS G(RA)YS OF DRACS PLEIAFIANS ANNUNAKI INSECTILIANS AND ARCHONS EING AI MACHINES CLONES OF THE INFINITY UNIVERSE OF THE INFINITE SHITHOLE HELLHOLE BLACKHOLE OF INFINITE 8 DARK DESOLATE HARDLY HABITABLE MOONS OF INFINITE DARK COSMOS MOST CALL HADES HELL OF 5 CALENDARS OF TIMES LIES MAYAN 3 CIRCLE MAYAN 5 CIRCLE GREGORIAN JULIAN AND SRC SATANIC HOLIDAY RITUAL CALENDAR",-0.9988,Negative,-0.0182961309523809,Negative,-0.3969152867794037,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+Tt,0.0,Neutral,0.0,Neutral,0.2953405678272247,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+.a,0.0,Neutral,0.0,Neutral,0.3070552349090576,Neutral
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+9,0.0,Neutral,0.0,Neutral,0.3628028631210327,Positive
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+Ma,0.0,Neutral,0.0,Neutral,0.4076276123523712,Positive
+Ma,0.0,Neutral,0.0,Neutral,0.4076276123523712,Positive
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+V,0.0,Neutral,0.0,Neutral,0.3491922616958618,Positive
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+D,0.0,Neutral,0.0,Neutral,0.2499866187572479,Neutral
+D,0.0,Neutral,0.0,Neutral,0.2499866187572479,Neutral
+S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+No so malo 😈 pero porti me puedo volver mami ❌🚀,0.0477,Neutral,0.3499999999999999,Positive,0.6595195531845093,Positive
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral

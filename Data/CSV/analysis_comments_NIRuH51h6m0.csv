@@ -1,0 +1,682 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+"😗🚬    abi ikimiz içekmi yakarız heeeee 
+👕👋
+👟",0.7845,Positive,0.4,Positive,0.2767149209976196,Neutral
+Bizi bırakıp gittinya sen evet sen neden neden biz neden😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢,-0.9954,Negative,0.0,Neutral,-0.4274837374687195,Negative
+NDHG,0.0,Neutral,0.0,Neutral,-0.2690699696540832,Negative
+Abi neden rtx 3090 koymadın,0.0,Neutral,0.0,Neutral,-0.494988739490509,Negative
+Aq orada 1500 2000 tl lik lego teknikler var gidip çikolata alıyorlar,0.0,Neutral,0.0,Neutral,-0.2543759942054748,Negative
+malatyalıyım,0.0,Neutral,0.0,Neutral,0.2305244356393814,Neutral
+Hayal mi gerçek mi Enes Batur diye film var gerçek mi,0.25,Positive,0.0,Neutral,-0.411673367023468,Negative
+Gözüme fakirlik kaçtı.,-0.5106,Negative,0.0,Neutral,-0.432215005159378,Negative
+Kaya abi nerdeeeeeeee,0.0,Neutral,0.0,Neutral,0.3466025590896606,Positive
+L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
+Abi nerdeydinnnnnnn😔,0.0772,Positive,0.0,Neutral,-0.2658524811267853,Negative
+Enes Batur Abi çok komik vallahi gülmekten Altıma işeyeceğim,0.4989,Positive,0.325,Neutral,-0.5012562274932861,Negative
+😍😍👍👍👍👍👑👑👑🙏🙏🙏🙏😆😆😆😆,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Abi yanlış yaptınız küçük ama pahalı şeyler alcaktınïz 👍🏻✨,0.2263,Positive,-0.4166666666666667,Negative,0.2646310925483703,Neutral
+Enes BaturFREE RE,0.0,Neutral,0.0,Neutral,0.2415017038583755,Neutral
+Keşke ben de alabilsem 😭😭😭😭😭😭😭😭😭😭😭😭🤢🤢🤢🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤢🤮🤮🤮🤮🤮🤮🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤,-0.9867,Negative,0.0,Neutral,0.4450290501117706,Positive
+enes abi toşko bize küfür söyledi 😢,-0.765,Negative,0.0,Neutral,0.2356235682964325,Neutral
+15:20 çocuk ne güzel mütevazı işte 😂,0.6908,Positive,0.1999999999999999,Neutral,0.3648074567317962,Positive
+Ps 6 al,0.0,Neutral,0.0,Neutral,0.286118596792221,Neutral
+.,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
+bizim arkadaşlarımız 10 tl 5 tl mizi harcadığı zaman kızıyoruz ama adam arkadaşlarına 108 bin tl veriyor kızmıyor bizimkide hayat işte,0.6187,Positive,-0.5,Negative,-0.3424467742443084,Negative
+"Hiçkimse:
+
+
+Reklam:  ramazan paketi 114 lira 99 kuruş",-0.296,Negative,0.0,Neutral,-0.4873066544532776,Negative
+🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"merhaba enes abi bizim durumumuz iyi değil.
+Benim tek bi hayalim Bilgisayarımın olması Bize destek çıkarmısn?
+
+GÖRMİCEN AMA ŞANSIMI DENEYEYİM DEDİM",0.7748,Positive,-0.175,Negative,0.3270083963871002,Neutral
+Wuao que alegre felicidad,0.9062,Positive,0.3999999999999999,Positive,0.6382519602775574,Positive
+05:36 aklımızda var ama yanımızda para yok 60.000 tl ne eskiden 5.000 tl ye bulunuodu,0.0,Neutral,-0.25,Negative,-0.7177267074584961,Negative
+Mert çoook tatlı yaaaa🖤♥️,0.9081,Positive,0.5,Positive,-0.3072578310966491,Negative
+"Şöyle bir bakın Malatyalıların yüzüne 
+
+
+            Ben Malatyalıyım",0.0,Neutral,0.0,Neutral,0.3086529970169067,Neutral
+Enes abi çok aldın,0.0,Neutral,0.0,Neutral,0.2999142110347748,Neutral
+"Parası olmayan takipcin ile yapacaksınki yaptığın videonun bir anlamı olsun, etrafında ne kadar çakal var toplamışssın olana bir daha alıyorsun.. Alsana imkanı olmayan gençlere!",-0.3867,Negative,0.125,Neutral,-0.410071462392807,Negative
+Abi diğerlerini boşver nolur diyarbakırdada  bu videoyu abi burda çekmiyorsun bari oralarda çek  173 kişi senin  çekmeni bekliyor nolur çek,0.121,Positive,-0.3,Negative,-0.7820902466773987,Negative
+Ben olsaydım yağ alırdım,0.0,Neutral,0.0,Neutral,-0.3667833209037781,Negative
+🥰🥰🥰,0.9716,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Sğsğid.   Nehehen,0.0,Neutral,0.0,Neutral,-0.3018164932727813,Negative
+Paralarin annasini alatinis,0.0,Neutral,0.0,Neutral,-0.2877793908119201,Negative
+Abi bahara bilgisayar alabilirmisin ders için😭🥺,0.0,Neutral,0.0,Neutral,0.2873080670833587,Neutral
+Abi senin video na katılmak çok istiyorum neredeyse en büyükkkkkkkkkkkkkkkk kız hayranınım,0.5859,Positive,0.2,Neutral,0.4465919435024261,Positive
+Abikeşkehergün vidiyodaOLsun,0.0,Neutral,0.0,Neutral,0.2491503953933715,Neutral
+Wao🚶‍♀️🚶‍♀️🚶‍♀️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+21:14. Dk müq,0.0,Neutral,0.0,Neutral,-0.2727831900119781,Negative
+Mert Toşko isim birleşmesi Mertoşko,0.0,Neutral,0.0,Neutral,-0.3439154028892517,Negative
+mrbeastten çalmoş,-0.4939,Negative,0.0,Neutral,0.6086956858634949,Positive
+Enes abicim   nasıl  aç tınyutupkanalınınolursöylebana,0.0,Neutral,0.0,Neutral,0.2812836468219757,Neutral
+Annen çok iyi Enes bensenin anneni,0.4927,Positive,0.91,Positive,0.4181532859802246,Positive
+Abi maddi durumumuz çok kötü senin yaptığın masrafa bak,-0.5849,Negative,-0.4549999999999999,Negative,-0.5011957287788391,Negative
+Şöyle bi şans başıma gelmedi be,0.1926,Positive,0.0,Neutral,-0.3342050313949585,Negative
+Enes abi bana rica etsem bana telefon alır mısın,0.0,Neutral,0.0,Neutral,-0.3488914370536804,Negative
+Güzel,0.5994,Positive,0.85,Positive,0.4694712460041046,Positive
+Gt,0.2732,Positive,0.0,Neutral,0.4261873364448547,Positive
+Abi kendimi gördüm 😂 arkadan yürüdüm bide bizim market burası ve seni yani Enes Batur’u arabadan çıkarken gördüm.,0.4404,Positive,-0.4,Negative,0.489138513803482,Positive
+Enes özel yetenekleriyle minecraft oynuyor (mausu haraket ettirmeden),0.6908,Positive,0.3571428571428571,Positive,0.3111808896064758,Neutral
+ayranı anlayan old çıkar mı DESŞFDELSÖFDE,0.0,Neutral,0.1,Neutral,-0.2858083248138428,Negative
+epes abi allan,0.0,Neutral,0.0,Neutral,0.294032484292984,Neutral
+bencede serisi gelsin,0.0,Neutral,0.0,Neutral,0.2748166024684906,Neutral
+Güvenlik şabanı ne yapacak ki saç yoksa,0.0516,Positive,0.0,Neutral,-0.4063781499862671,Negative
+Turgut ne kadar salak bir tavir takiniyor hani tek videolukta degil mis bir kac video izledim cidden vizyonsuz mu denir yada komik olmaya calismak o kadar yokki hep bir one cikmak icin hep bi video ici sacmaliyor o yuzden ani bile yasiyamiyor hani ani yasasin bir sey olmaya calismak yerine dogallik iyi dir kardesim,-0.0103,Neutral,0.0017965367965367,Neutral,-0.5210601091384888,Negative
+20:28 hgnykjl,0.0,Neutral,0.0,Neutral,-0.3737015426158905,Negative
+Seningibileri çok gördük aslanım para ile millete hava atıyorsun belki biz alamıyoruz,0.3612,Positive,0.0,Neutral,-0.3496284782886505,Negative
+Bitane daha gelsin abi,0.0,Neutral,0.5,Positive,-0.3473428785800934,Negative
+🙂🙂🙂👌☺,0.9432,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Enes Batur çok çok güzel video yapıyorsun bizim fen öğretmeni bunların hepsi yalan YouTube kapatıldı enes Batur diye birşey kalmicak diyor ama inanmıyorum ben çok güzel içerikler üretiyorsun bak net söylüyorum defterini bile getirttirdim ya,0.6092,Positive,0.3974999999999999,Positive,-0.5668503642082214,Negative
+Lise öğrencisiyim youtube’dan gelir kanmak için bu kadar insan içinden 8-9 kişi bile destek olsa birazda olsun moral vermiş olursunuz şimdiden destek veren her kese teşşekürler,0.7595,Positive,0.118125,Neutral,-0.5776524543762207,Negative
+Enes abi dilendi değilim abi ama Maltepe Bası büyük abi  Bi gel de abi bize de bi şeyler ismarla,0.0,Neutral,0.0,Neutral,-0.3154799342155456,Negative
+abi sepet arabasının yanlara uzun kutu koysanız içi daha bol olur,0.0,Neutral,0.225,Neutral,0.3863156139850616,Positive
+Adam parayla onyor😂,0.4404,Positive,0.0,Neutral,-0.2766218185424804,Negative
+Enes abi beni hiç farketmiyosun o kdr kisiye kalp atiyosun kustum,0.6369,Positive,0.5,Positive,-0.4667591750621795,Negative
+Selam Aleykum,0.5423,Positive,0.0,Neutral,-0.2721491456031799,Negative
+Enes abi bir video attttyttt😡😡😡😡😡😡,0.0,Neutral,0.0,Neutral,-0.2354055196046829,Negative
+O değilde kimse fiyatlara bakmıyor şahsen en son ne zaman çikolata yediğimi hatirlamiyorum.,-0.296,Negative,0.0,Neutral,-0.6282239556312561,Negative
+Abi sende hep arkadaşlarınla yapıyorsun biraz takipçilerinle yapsana,0.4767,Positive,0.0,Neutral,-0.2394991219043731,Negative
+Mert:ben kendime yeni yaren aldim sjjsjsjx,0.0,Neutral,0.1363636363636363,Neutral,-0.3342685997486114,Negative
+Keşke Benimde Bilgi Sayarım olsaydı aq sadece bi donan telefonum var😔💔,0.5719,Positive,0.0,Neutral,-0.4191366136074066,Negative
+süper olmuş enes ASBİ ayağına sağlık,0.7906,Positive,0.7,Positive,0.5223245620727539,Positive
+Abi çekiliş yapsana,0.0,Neutral,0.0,Neutral,0.288927674293518,Neutral
+ALTAN Önder 💗🏠🦁🇹🇷🏠,0.7096,Positive,0.0,Neutral,0.2689702212810516,Neutral
+MCyaralı nerde lo,0.0,Neutral,0.0,Neutral,-0.3194990754127502,Negative
+RTX 3080 Tİ İLE MİNECRAFT OYNAYİP KASMIYOR AKICI OYNATIYOR DEMESİ 🤣🤣,0.7506,Positive,0.0,Neutral,0.251402884721756,Neutral
+Abi vahidiyet,0.0,Neutral,0.0,Neutral,0.351537823677063,Positive
+(durex) yapmayın aga,0.0,Neutral,0.0,Neutral,0.3323664963245392,Positive
+Şeyler söylemen küfür etmek ayıp ayıp sizi çok seviyorum youtuberlar 💞💓🖤♥️,0.9702,Positive,0.5,Positive,0.3392138183116913,Positive
+6.48 deki kılavyenin markası ne acaba,0.0,Neutral,0.0,Neutral,-0.4236924350261688,Negative
+ENESBATURABİSENİYİSİN,0.0,Neutral,0.0,Neutral,0.2557065188884735,Neutral
+Abi bana bilgisayar alırmısın,0.0,Neutral,0.0,Neutral,-0.3013930916786194,Negative
+Amk hayatı,0.0,Neutral,0.0,Neutral,0.2994641959667206,Neutral
+Kel adam kısmında koptum skxisixiisisixididjdjfjdicidicjdixisixkkxdjchdjcufivicjckdjjcjffjrjfjdkek,-0.4215,Negative,0.0,Neutral,-0.4252801835536957,Negative
+Hmm videodaki çapkalı çocuğa tutuldum bulsun beeniiiiğğğ,0.6369,Positive,0.5,Positive,-0.5887374877929688,Negative
+Abi kel zaten napsin sanpuani 🥸,0.0,Neutral,0.0,Neutral,0.2702576816082001,Neutral
+A.,0.0,Neutral,0.0,Neutral,0.302336573600769,Neutral
+Ben girsem noodle ve nugget ile doldururum oslskdkeek,0.0,Neutral,0.0,Neutral,0.3081007003784179,Neutral
+Ben Şu bilgisayara bakayım ne kadardır ki ucuzdur sonra fiyatını gördüm  ddddddddd lan bu neeeeee lan 39.000 40.000,0.0,Neutral,0.4,Positive,-0.6442810297012329,Negative
+Olm yaaa mutluluğu harbiden para alıyor ya gerçekten üzücü,0.0534,Positive,-0.2166666666666666,Negative,-0.4464508593082428,Negative
+Enesbatur Abi,0.0,Neutral,0.0,Neutral,-0.4267937839031219,Negative
+5.42 Ankara,0.0,Neutral,0.0,Neutral,0.2668582797050476,Neutral
+bende yok be abi 😢😢😢,-0.8519,Negative,0.0,Neutral,-0.4499631822109222,Negative
+YouTuber larin en sevdiğim video serileri alışveriş+1,0.4588,Positive,0.5,Positive,0.8636882901191711,Positive
+HAYRINA Bİ PC YOLLA ABİ,0.0,Neutral,0.0,Neutral,-0.3528553247451782,Negative
+"0:48 Hahsahha ütopya aklıma geldi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B-) 
+
+
+
+
+
+
+
+
+
+
+
+SeLeNaĞ SeLeNaĞ",0.0,Neutral,0.0,Neutral,-0.5485610961914062,Negative
+enes abi en sevdiğim youtubersin,0.4588,Positive,0.5,Positive,0.3125529885292053,Neutral
+Tayfa komple denyo aq,0.0,Neutral,0.1,Neutral,0.3327398300170898,Positive
+Malatyalıyım,0.0,Neutral,0.0,Neutral,0.2305244356393814,Neutral
+Sanki bilgisayarı alaçağımızı sanıyorda link koyuyor ...,0.0,Neutral,0.0,Neutral,-0.3852099180221557,Negative
+Abi ben 5000 liraya laptop alamıyom sen link veriyon,0.0,Neutral,0.0,Neutral,-0.5660795569419861,Negative
+Marketeki hergez size bakiyo o markete olsaydim😑😑,0.0,Neutral,0.0,Neutral,0.3450566530227661,Positive
+Toşko abi bende Ardahanlıyım,0.0,Neutral,0.0,Neutral,-0.2868978381156921,Negative
+Abi çekiliş yapar mısın,0.0,Neutral,0.0,Neutral,0.2525145709514618,Neutral
+Sen nasıl bi malsın😡😡😡,0.0,Neutral,0.6,Positive,0.4090854525566101,Positive
+"Sokakta ölü taklidi yap, herkes yanina toplansın şunu de ohhh ne uyumuşum",-0.6908,Negative,-0.2,Negative,-0.5922562479972839,Negative
+Sonra abi özür dilerim demeyin benden söylemesi,0.0572,Positive,-0.5,Negative,-0.3281733691692352,Negative
+Dikkat edin Enes Batur dan daha dolandırıcı kişilere inanırsınız benden söylemesi,-0.5413,Negative,0.5,Positive,0.240214928984642,Neutral
+Sizde buna inanıyorsunuz arkadaşlar,0.0,Neutral,0.0,Neutral,0.2471799701452255,Neutral
+Daireye sığdırdığın her şeyi alıyorum 2 serisi gelsin ha bu arada kas ne alaka her video da yakışıklı ol diye yapıyorsun çirkin demi olsan yakışıklı olsan bile seni biz çok seviyoz,0.765,Positive,0.1335714285714286,Neutral,-0.409529447555542,Negative
+ABİ MARKETTE TEKRENK CHALENG YAP HANGİ RENK GELİRSE O RENKTE EŞYA AL,0.0772,Positive,-0.0714285714285714,Negative,-0.4109196662902832,Negative
+15:12,0.0,Neutral,0.0,Neutral,0.232310488820076,Neutral
+Enes Dovucem sana orus birisi burnu uzun,-0.0258,Neutral,-0.05,Negative,-0.34656822681427,Negative
+Amcan nerde 😿,-0.4767,Negative,0.0,Neutral,0.3002645671367645,Neutral
+Alahım acaba nekadar para ödediniz💸,0.1779,Positive,0.2,Neutral,-0.2924190461635589,Negative
+Asil bu ekip kotu,0.4588,Positive,0.6,Positive,-0.4778254628181457,Negative
+"Bence Enes Batur eskideki gibi ,,manyak deney,, ,,taşı parçalamak,, gibi uzun ve eylenceli videolar çekerse daha çok izlenme kitlesine sahib olur{BENCE}",0.6249,Positive,0.3166666666666666,Neutral,0.5630829334259033,Positive
+KRAL ABIM 👑👑👑👑,0.0,Neutral,0.0,Neutral,0.3795016705989837,Positive
+KRAL ABIM 👑👑👑👑,0.0,Neutral,0.0,Neutral,0.3795016705989837,Positive
+KRAL ABIM 👑👑👑👑,0.0,Neutral,0.0,Neutral,0.3795016705989837,Positive
+Abi niye sen hep tek oluyorsun,-0.25,Negative,0.0,Neutral,-0.4091275930404663,Negative
+2. yerde  s.gara dolabını alan bne,0.0,Neutral,0.0,Neutral,-0.3920201063156128,Negative
+Enes abi malatyadan selamlar😍❤️,0.7003,Positive,0.0,Neutral,0.2435789555311203,Neutral
+Mc yaralı yok aga b,0.1603,Positive,0.0,Neutral,-0.6211310029029846,Negative
+daireye sığdırdığın şeyi alıyorum iki gelirmi,0.3612,Positive,0.4,Positive,-0.3153038620948791,Negative
+18:22 küçük bi yerleştirme.😂,0.4404,Positive,-0.25,Negative,-0.3653117716312408,Negative
+Adam zengin herşeyi alıyor zengin canım çekiyor,0.802,Positive,0.375,Positive,0.58787602186203,Positive
+Para var amina koyum para var para para,0.0,Neutral,0.0,Neutral,-0.2843774557113647,Negative
+Abi selena hala itopyadamı ordaysa selam söyle,0.0,Neutral,0.0,Neutral,0.2411703765392303,Neutral
+Herif ekmek alır gibi bilgisayar topluyor hayata bak,0.3612,Positive,0.0,Neutral,0.3711233735084533,Positive
+10:55 abi bür sürü yağ alın yağ 100 tş,0.0,Neutral,-0.3,Negative,-0.424924373626709,Negative
+Orda vales nedennn yokkk onunlada 3 bölümü çek pls🙏,-0.5106,Negative,0.0,Neutral,-0.4496093094348907,Negative
+KRALLLLLL  ENES  BATUR!!!,0.0,Neutral,0.0,Neutral,-0.5089600682258606,Negative
+Boşuna paranı harcıyorsun,-0.4019,Negative,0.0,Neutral,-0.5589643120765686,Negative
+Abi bilgisayar güzel de çok pahalı nasıl aliýim annemin babamın telefonunu kullanıyorum keşke telefonum olsa ya da tabletim😞😥😣😭,-0.6187,Negative,0.0999999999999999,Neutral,-0.594684362411499,Negative
+Ben baturay yada mert abi olsam en iyi pc yi toplamaya çalışırım,0.6369,Positive,1.0,Positive,0.5285437107086182,Positive
+Hadi enes abiyi 9.0000000 yapalım,0.0,Neutral,0.0,Neutral,-0.4716176688671112,Negative
+Enes abi senin en en en ama en büyük hayranıyım,0.3182,Positive,0.0,Neutral,0.7780410051345825,Positive
+😎😎😎😎😎😎😎😎😎😎,0.9818,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Abene ol,0.0,Neutral,0.0,Neutral,0.2660091519355774,Neutral
+Anlamadım şimdi mertle yaren sevgili mi biri beni aydınlatsın,0.7096,Positive,0.0,Neutral,-0.3500792384147644,Negative
+19:09 Ahh gençlik nerelere gidiyo artık herkez babasına anime izletiyo XD,0.6739,Positive,0.0,Neutral,0.3247543573379516,Neutral
+☺😁😆😄😃😀🥰,0.9758,Positive,0.0,Neutral,0.3085779249668121,Neutral
+😗😍😊,0.9136,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Daireye nekadar sıkarsa alışın serisi gelsinnnn nolurrrr,0.3018,Positive,0.0875,Neutral,-0.3582763075828552,Negative
+Itopya zengin oldu,0.5574,Positive,0.375,Positive,0.3301688432693481,Positive
+DAİREDEN SON ÇIKAN KAZANIRIN DEVAMI GELSİN ABİ SENİN BÜYÜK FANINIM🥺 ve neden bu tür videolarda sen tek oluyorsun ags WPLGSLVLWLG,0.8208,Positive,0.1291666666666666,Neutral,0.2871622145175934,Neutral
+ŞAMPİYON BE ŞAMPİYON,0.8316,Positive,0.0,Neutral,0.3474494814872741,Positive
+Amcanı özledik,-0.1531,Negative,0.0,Neutral,0.3097614049911499,Neutral
+Adamda o kadar para var ki dükkânı kapattırmıs,0.0,Neutral,0.05,Neutral,-0.5536612272262573,Negative
+Abi bu videoya beni çağırsana bida olursa benim bilgisayar yokda belki olur diye 🥰,0.836,Positive,0.0,Neutral,-0.4241056144237518,Negative
+"ben kendime yeni yaren aldım~
+mert eren bülbül",0.0,Neutral,-0.0151515151515151,Negative,0.316955029964447,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Eski videolarına çektiğin tepki videosunun tepkisini çek,0.0,Neutral,0.1,Neutral,0.2498394399881363,Neutral
+Abi düşürün kaybeder gelsin,-0.5859,Negative,0.0,Neutral,-0.4272965788841247,Negative
+Keşke bir gün şöyle bir fırsat önüme gelse sadece bir bilgisayar bir monitör alırım,0.7906,Positive,0.0,Neutral,-0.7473621964454651,Negative
+İzleyicinle çeksen keşke hayallerime ulaşırdıö belki :),0.8176,Positive,0.5,Positive,0.3659373223781585,Positive
+Kıral enes   batur,0.0,Neutral,0.0,Neutral,0.2454169392585754,Neutral
+bende ardahanlıyım toşkooooooooooooooooooooooo,0.0,Neutral,0.0,Neutral,-0.4044765830039978,Negative
+En kralı sensin YouTube kralı ENES BATUR,0.0,Neutral,0.0,Neutral,0.6056188941001892,Positive
+4:30 var kanka üzeri kendinemuzisyen deki piyasadaki en üst,0.2023,Positive,0.5,Positive,-0.4382978081703186,Negative
+eski ekip daha iyiydi,0.4404,Positive,0.3,Neutral,0.3427412509918213,Positive
+Abi böyle videoların murat amcası eksik,-0.296,Negative,-0.1,Negative,-0.3795375227928161,Negative
+"Enes abi bana tablet alırsın
+Samsung galaxy tab a7",0.0,Neutral,0.0,Neutral,-0.281000554561615,Negative
+enes-bator-seni-cok-sevoyurum,0.0,Neutral,0.0,Neutral,0.248620718717575,Neutral
+Aşırı iyi video devamı gelsin,0.4927,Positive,0.7,Positive,0.3783055543899536,Positive
+Turgut modemi söktü götürüyo beyler sizin derdiniz bakın😂😂😂😂,0.836,Positive,0.0,Neutral,-0.4307718873023987,Negative
+İlk bölümünde Baturaya haksızlık yapıldı.Şimdi o kazanmayı hakketti.,0.5859,Positive,0.1833333333333333,Neutral,-0.5371088981628418,Negative
+"izlemedim ama yorum yapıyorum????????
+
+senin en sevdiğim şarkın Yüreğine inan",0.9146,Positive,0.5,Positive,-0.2772004306316376,Negative
+4.46 abi bendede anagart var cyber punk -99999999 fps açar,0.0,Neutral,0.0,Neutral,0.2666054964065552,Neutral
+65. 000.  layk. gelirse.  saçını.    kel.   yap,0.0,Neutral,0.0,Neutral,-0.5671891570091248,Negative
+"Toşko:yağ al yağ
+Ben olsam:Bütün yağları doldurun hızlı olun",0.0,Neutral,0.3333333333333333,Positive,-0.3422178030014038,Negative
+Abi piyazza ne aleaka sen İstanbul dansın piyazza samsunda,0.0,Neutral,0.0,Neutral,-0.3189318776130676,Negative
+Ayşe Meryem çağan çoçuk😃😃❤,0.8481,Positive,0.0,Neutral,0.264409601688385,Neutral
+çok iyi abi saol verdiğin için,0.8297,Positive,0.5549999999999999,Positive,0.6541594862937927,Positive
+Ne gerek var abicim böyle entrikalara Vakıfbank ile temassız ödeme yaptığında 100 TL Worldpuan hediye 😃,0.743,Positive,0.0,Neutral,-0.5932713150978088,Negative
+"10.50 enes:ayran 
+turgut:sen çok kötü bi insansın",-0.5849,Negative,-0.9099999999999998,Negative,-0.5582354664802551,Negative
+ben yeni yaren aldım sjsjsj,0.0,Neutral,0.1363636363636363,Neutral,0.4539402425289154,Positive
+Anlamadigim bir sey = enes abiye en ust duzey bilgisayar yapmislar adam hala bilgisayar toplamak icin lazim olan malzemeleri aliyor ?,0.0,Neutral,0.0,Neutral,-0.5374282002449036,Negative
+Aga.b mami,0.0,Neutral,0.0,Neutral,0.3095107972621918,Neutral
+ya abi 300 bin olmuyo bida çeker misin plzzzzzz,0.0,Neutral,0.0,Neutral,-0.4847091436386108,Negative
+Cocuk abe lafı çok iyi koydu,0.3384,Positive,0.2,Neutral,0.5396539568901062,Positive
+tachayakkabi ithalkalite,0.0,Neutral,0.0,Neutral,0.2570214569568634,Neutral
+tachayakkabi ithalkalite,0.0,Neutral,0.0,Neutral,0.2570214569568634,Neutral
+tachayakkabi ithalkalite,0.0,Neutral,0.0,Neutral,0.2570214569568634,Neutral
+2022 de izleyenler,0.0,Neutral,0.0,Neutral,0.3600542843341827,Positive
+turgucu bi an önce aranızdan çıkarın bencilin teki bu video da onun hakaretlerini dinledim resmen,-0.7096,Negative,-0.25,Negative,0.5682210922241211,Positive
+beni bir sonraki vidoya alır mısın fakirim:(,-0.7184,Negative,-0.3833333333333333,Negative,0.2980218529701233,Neutral
+abi benim arzumdur ki yutuber olmaqdır ama dəstək yokdu😢😔,0.3387,Positive,0.0,Neutral,0.3125209212303161,Neutral
+Emmsi yok,-0.296,Negative,0.0,Neutral,-0.4318570494651794,Negative
+orda çoçuklarından biri Benim arkadaşım,0.4939,Positive,0.0,Neutral,0.5307258367538452,Positive
+Mmmmmmmmmmmmmmmmmmmmmmmmmmmmmnnnnbvcxzlkjhgfdsapoiuytrewq09876554545545454534664783837rujdhvf748281753453,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+ayran esprisini anlayan net old tur,0.296,Positive,0.05,Neutral,0.3407691121101379,Positive
+Hemşerim toşko,0.0,Neutral,0.0,Neutral,-0.2303450852632522,Negative
+Birazda galiba na yardım videoları çeksen ölecenmi...!????,-0.7052,Negative,0.0,Neutral,-0.5865817070007324,Negative
+o kadar iyi bir bilgisayarda vermemişler 3090 varken 3080 i9 varken i7 ??? ve bu bir reklam :D o yüzden vermişler sende biliyorsun zaten :D 3090 ve i9 verseler seyirciler alamaz :D,0.6067,Positive,0.925,Positive,-0.5377596616744995,Negative
+enes abi bi günde bizle video çek yaa,0.0,Neutral,0.0,Neutral,-0.2982117235660553,Negative
+ene s batur bizede paraver zengin se sana layk atım he bana ayfon al sen alır sın seniseviyarus,0.5574,Positive,0.375,Positive,-0.2978892028331756,Negative
+Enesi abi baana mi clraf aLrlmlsln 😭😭😭😭😭😭,-0.9559,Negative,0.0,Neutral,-0.2564385831356048,Negative
+0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
+Toşko çok sevimsiz,-0.6113,Negative,-0.6499999999999999,Negative,0.5572700500488281,Positive
+Uf süper,0.5994,Positive,0.3333333333333333,Positive,0.7279602885246277,Positive
+Abi bana ps4 alıp yollarmısın osman gazi bursada oturuyorum nolur abi en büyük hayalim ps oynamak,0.6908,Positive,0.1363636363636363,Neutral,0.4773861169815063,Positive
+Abi ben Malatya lı yım,0.0,Neutral,0.0,Neutral,0.3026306331157684,Neutral
+aynı şeyi sürekli izlemekden bıkmşdım sonunda yeni video geldi,-0.4404,Negative,-0.0878787878787878,Negative,0.3070449531078338,Neutral
+Maykıraft video ları çek,0.0,Neutral,0.0,Neutral,0.250901997089386,Neutral
+Eski ekiple aranda kavga olabilir birşey yaşamsıs olabirsin ama onları bize kötülemeye hakkın yok 15 milyon takipçin var diye bunu yapamazsın ünlü olabilirsin ama eski ekio kötüydü diyemezsin işte buna iki yüzlülük denir bence sen hemen sesini kesmek işin Enes batur,-0.8201,Negative,0.0346938775510204,Neutral,-0.6831779479980469,Negative
+Udul ne ?????????????????????????,0.0,Neutral,0.0,Neutral,-0.5913687348365784,Negative
+Adamlar rtx 3090 derken bunu gt220 2gb ram ile izleyen ben: :'|,0.0,Neutral,0.0,Neutral,0.4115157127380371,Positive
+hayat buna güzel gerçekten,0.4927,Positive,0.7,Positive,0.4826324880123138,Positive
+AA şükür be abicm hiç atmıyacaksın böyle videolar sndm,0.3591,Positive,0.0,Neutral,-0.4244850873947143,Negative
+Abi senden bir istekte bulunçam benlede böyle vidiyo çekermisin,0.3612,Positive,0.0,Neutral,-0.318653255701065,Negative
+Amma markette arabayla geziyorsunuz bu zaman dusmezki knk,0.0,Neutral,0.0,Neutral,-0.368183821439743,Negative
+Lan Burda YouTube de millete paran ile hava atacağına bırazda zekat ver kafir!,0.0,Neutral,0.0,Neutral,-0.7597748637199402,Negative
+Birinde bile maske yoj,0.0,Neutral,0.0,Neutral,-0.416213184595108,Negative
+Valesle vidyo çek,0.0,Neutral,0.0,Neutral,0.2915500700473785,Neutral
+1. Milyar. Olsaq. Keşke🥺,0.0,Neutral,0.0,Neutral,-0.3581395745277405,Negative
+Active ile Enes,0.4019,Positive,-0.1333333333333333,Negative,0.4279730916023254,Positive
+Duydumki enes batur bizim yorumlarmızı görmüyorum çünkü tel deil kameraymış,0.0,Neutral,0.0,Neutral,-0.27272430062294,Negative
+Hahaha,0.5574,Positive,0.2,Neutral,-0.2434743046760559,Negative
+Enes abi seni çok seviyoruz☺☺😁,0.9257,Positive,0.35,Positive,0.3115167915821075,Neutral
+Yağ alın yağ 😂😂,0.4404,Positive,0.0,Neutral,0.2449164539575576,Neutral
+Aklıma vales geldi,0.0,Neutral,0.0,Neutral,-0.263627290725708,Negative
+16:34 Yeni VAR teknolojisi,0.0,Neutral,0.1363636363636363,Neutral,0.3405424952507019,Positive
+108.00 TL  mi,0.0,Neutral,0.0,Neutral,-0.2685224413871765,Negative
+Eyrue<ey5yeywutuewuty7ruwuyewuyyytyew55r6u6ueertu4u5,0.0,Neutral,0.25,Neutral,-0.4241455495357513,Negative
+ben malatyalıyım,0.0,Neutral,0.0,Neutral,0.3208625316619873,Neutral
+abi ben küfür etmemmmmm,0.0382,Neutral,0.0,Neutral,0.3013932108879089,Neutral
+Enes baturayla ne zaman barıştım bı vide oda anlat,0.0,Neutral,0.0,Neutral,-0.2370676398277282,Negative
+Enes batur iyiki varsın,0.7096,Positive,0.7,Positive,0.2809472978115082,Neutral
+Enes abi iyiki varsın,0.7096,Positive,0.7,Positive,0.2973290383815765,Neutral
+enes abi 24:00 en batıklısı  ikincide yaptıgın yarısı çocukların jhgdfjkas,0.0,Neutral,0.1111111111111111,Neutral,-0.4768756031990051,Negative
+ŞU OYUNLARI KAFA SALAYARAK OYNAYAN ENES TİPİ REKLAM SİZDE KAFA SALAYIN SİZDE ÜNLÜ OLUN,0.2023,Positive,0.25,Neutral,-0.2669614255428314,Negative
+Aga lan ben 50.000tl ye 2.el araba aldığıma seviniyorum adam 100.000tl ye bilgisayar alıyor 😔,0.7579,Positive,0.25,Neutral,-0.626448392868042,Negative
+Ab kuyumcudada istedinizi alın,0.0772,Positive,0.0,Neutral,0.2899081110954284,Neutral
+Baturay abim videoya gelmiş çok şaşırdım,0.2944,Positive,0.13,Neutral,-0.5019181966781616,Negative
+Liano,0.0,Neutral,0.0,Neutral,0.2943437397480011,Neutral
+Naber abi,0.0,Neutral,0.0,Neutral,-0.3037726283073425,Negative
+Abi yeni filim çıkar  isteyenler yasın,0.0772,Positive,0.1363636363636363,Neutral,0.3767393231391907,Positive
+kıskandım amk bu ne lan bizimkiler 2 bin liralık bişi alırken bile kara kara düşünüyolar siz bir vidyoda +1.5M harcadınız amk ayıp lan,-0.8658,Negative,0.0999999999999999,Neutral,-0.6003478765487671,Negative
+Bencede,0.0,Neutral,0.0,Neutral,0.271198958158493,Neutral
+Biz bilgisayarımızı iman gücüyle çalıştırıyoruz.Adamların ALIŞVERİŞ rahatlığına bak.Neyse sizin itipyiniz varsa bizimde letgomuz var. :D,0.7804,Positive,1.0,Positive,0.4337196946144104,Positive
+Keşke bende öyle olsam ne zaman,0.6369,Positive,0.0,Neutral,0.4151279628276825,Positive
+Bu vide 2 milyon izlendiği için 20 bin dolar kazanmıştır tl karşılığı 240 binli falan,0.0,Neutral,0.0,Neutral,-0.6569112539291382,Negative
+Video at 🏇,0.0,Neutral,0.0,Neutral,0.2940607368946075,Neutral
+Xentix - Yeniden (Dinleyip hoşunuza giderse beğenir misiniz =),0.6908,Positive,0.5,Positive,0.4776811301708221,Positive
+enes abi bana bilgisayar göndersene 😅😅,0.6124,Positive,0.0,Neutral,-0.2951351404190063,Negative
+BENDABİRTANEBİGASARARALMADlM,0.0,Neutral,0.0,Neutral,0.2597400546073913,Neutral
+14:06 mertin aşkın bedeli olur yapıcak bişey yok dediği bebeğe daha öönce yaren demesi peki,0.0,Neutral,0.0,Neutral,-0.4555909633636474,Negative
+Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
+Cops hesabi olup oynamayan bana verebilirmi,0.0,Neutral,0.0,Neutral,-0.3364386558532715,Negative
+"Ben kendime yeni Yaren aldım bdhdlsjd
+Sondada aşkım diyo sjjfkrls",0.6369,Positive,0.3181818181818182,Neutral,-0.3199499249458313,Negative
+Enes batur herpostur çeksene çok istyoruz artık gelsin,0.0772,Positive,0.0,Neutral,-0.2961762845516205,Negative
+"""Daireye sığdırığn her şeyi aılyorum"" serisi gelsin",0.3612,Positive,0.4,Positive,-0.3831170201301574,Negative
+6:01 Baturya,0.0,Neutral,0.0,Neutral,-0.2817603349685669,Negative
+🤑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+İnsanın canı çekiyor,0.0,Neutral,0.0,Neutral,0.2895475924015045,Neutral
+Toşko hemşerimsin,0.0,Neutral,0.0,Neutral,0.2496194392442703,Neutral
+Biz indirim istemiyoruz bu arada jjejjdjdjdjdjdjdjdjdjsjdje,-0.0572,Negative,0.0,Neutral,-0.2787969410419464,Negative
+Az önce enes batur ün hayal mi gerçek mi flimini izledim ve şimdi bu videoya bakıyorum ve şunu farkettim eskiden daha kaliteli videolar çekiyormuşsun....,0.3612,Positive,0.35,Positive,0.3507706820964813,Positive
+aga bozdu enes,0.0,Neutral,0.0,Neutral,0.3354883790016174,Positive
+aynı bilgisiyarı olan biri gidip neden bidaha aynıya yakın pc alır ki,0.0,Neutral,0.0,Neutral,-0.4190353751182556,Negative
+Adama helal olsun Salah gibi adama markette alışveriş yaptırmış,0.8126,Positive,0.7,Positive,-0.2814332842826843,Negative
+"Bir kanalın adını 3 kez yazdımı sabitleniyomuşsun
+ENES BATUR 
+ENES BATUR 
+ENES BATUR",0.0,Neutral,0.1,Neutral,-0.6709004044532776,Negative
+Yaaa eski ekip cok mutlu yummmm,0.6115,Positive,0.55,Positive,-0.3579898178577423,Negative
+"Enes batur:ekran kartı alıcaksanız geforce rtx serisinden alabilirsiniz
+izleyiciler:cebinde paramı var lan köpek",0.0,Neutral,0.0,Neutral,-0.3004508912563324,Negative
+"Bilgisayarda benim google hesabım açık ve kardeşim buradan Enes Batur izliyor. Hesabımı falan ateşe verebilsem keşke ama hesaba bağlı birsürü satın aldığım oyun, oyunlardaki ilerlemelerim ve sanal platform hesapları var. Fakirliğin gözü kör olsun.",-0.5023,Negative,-0.125,Negative,-0.6512025594711304,Negative
+✨ bilgisiyar✨,0.5574,Positive,0.0,Neutral,0.3428077399730682,Positive
+Abi keşke seni görsem ama hiç denk gelmiyor sen sevilion abi benim şansım yokmuş böle videolar gelsin ab,-0.067,Negative,0.0,Neutral,-0.4057899713516235,Negative
+21:20 komik değil :q,-0.3412,Negative,-0.125,Negative,-0.3698658347129822,Negative
+eğlenerek izlediğim tek kanalsın sabah akam videolarını izleyebilirim o derece,0.5106,Positive,0.1666666666666666,Neutral,-0.4720077216625213,Negative
+Sen alırsın kral bilgisayarı,0.0,Neutral,0.0,Neutral,0.5685558915138245,Positive
+18:32 bottle flip,0.0,Neutral,0.0,Neutral,-0.2746614515781402,Negative
+Abi senin gibi zengin değiliz 😭😭,-0.8816,Negative,-0.1875,Negative,0.2842254042625427,Neutral
+en azından azıcık değiştir şu beastin videolarını,0.0,Neutral,-0.24375,Negative,-0.3406303524971008,Negative
+Milletin telefonlarına bilgisayarlarına bak ram 10-12arası benimki 1 bruhhh moments öyle bir andırkı,0.0,Neutral,0.0,Neutral,-0.522670328617096,Negative
+ENES ABİ SEVİLİYOSUN SENİN VİDEOLARININ HEPSİNİ SEVİYORUM,0.8555,Positive,0.5,Positive,0.2492755800485611,Neutral
+Yardim et,0.4019,Positive,0.0,Neutral,-0.2439577430486679,Negative
+Enes abi alenya tilkiye meydan okuyoan var ısik karaca,0.1531,Positive,0.5,Positive,-0.2817129790782928,Negative
+Son kez 2021 de izleyenler,0.0,Neutral,0.0,Neutral,0.4989567101001739,Positive
+Daireden son çıkan kazanır bu vifeoyu bu daha çek,0.5719,Positive,0.2666666666666666,Neutral,0.295302540063858,Neutral
+o parayla fakirlere yardım etsen daha ii olurdu.,-0.0516,Negative,0.0499999999999999,Neutral,-0.3290911614894867,Negative
+HEY ENES BATUR SEVENLER BEMİM ENESİ SEVMEMDEN DOLAYI DEğİL AMA şöYLE BİşEY YAPALIM BU YORUMU GÖREN GÖRMEYEN HERKES ENES BATURUN ABONELİğİNDEN ÇIKSIN  BAKALIM KAÇ MİLYON VEYA KAÇ BİN DÜşECEK SIRF MERAKIMDAN DİYORUM BENCE Bİ DENEYELİM,0.4009,Positive,0.3,Neutral,-0.6501531600952148,Negative
+HEY ENES BATUR SEVENLER BEMİM ENESİ SEVMEMDEN DOLAYI DEğİL AMA şöYLE BİşEY YAPALIM BU YORUMU GÖREN GÖRMEYEN HERKES ENES BATURUN ABONELİğİNDEN ÇIKSIN  BAKALIM KAÇ MİLYON VEYA KAÇ BİN DÜşECEK SIRF MERAKIMDAN DİYORUM BENCE Bİ DENEYELİM,0.4009,Positive,0.3,Neutral,-0.6501531600952148,Negative
+ben düşürmem,0.2057,Positive,0.0,Neutral,0.2851346433162689,Neutral
+"""1 hafta önce evladımın lösemiden kurtulduğunu öğrendim buraya yazıp mutluluğumu sizlerle paylaşıyorum.""",0.7003,Positive,0.7,Positive,0.3395441472530365,Positive
+Bugün Enes baturun filmini izledim ve artık kendimden daha çok umutluyum teşekkürler Enes batur ❤️❤️,0.7264,Positive,0.5,Positive,0.5796984434127808,Positive
+Selam Enes,0.0,Neutral,0.0,Neutral,-0.2427740842103958,Negative
+3 tane sıvıyağ alsaydınız ztn kazanırdınız,0.0,Neutral,0.0,Neutral,-0.3774201869964599,Negative
+BEN GEL DİİİİM,0.0,Neutral,0.0,Neutral,0.3769150674343109,Positive
+Olm 250 TL klavye alamıyorum adamlar kaç binlik alışveriş yapıyor  çekiliş yap enes abee +1 leyin gorsun,0.0,Neutral,0.0,Neutral,-0.6688527464866638,Negative
+Enes abi sensesegelitanıyormusun,0.0,Neutral,0.0,Neutral,-0.2496188133955001,Negative
+boza boza kader bize ne yazar😝😁😁,0.0,Neutral,0.0,Neutral,-0.3620699942111969,Negative
+Abi sakal bırak kk artikkk,0.3612,Positive,0.0,Neutral,-0.5433065891265869,Negative
+Artik vidyo at,0.0,Neutral,0.0,Neutral,0.2934640049934387,Neutral
+Salam enes batır mən,0.0,Neutral,0.0,Neutral,-0.7026685476303101,Negative
+hepsinden iyi biliyor o ne bu ne diyor ya,0.4404,Positive,0.5,Positive,0.2486598938703537,Neutral
+abi sensanırım babiabinin vityosuna  girmişsin vityosuda amongus  taymış  barbiyle  gezmişsin  ve  babi abite  çoksinir olmuş,-0.5563,Negative,-0.65,Negative,-0.2934235036373138,Negative
+12 gün oldu video yok böyle olmaz enes,-0.5122,Negative,0.0,Neutral,-0.7744645476341248,Negative
+Işıklı klavye diyo bizim bilgisayar bi oyun açsa kardesim  evi yikar,0.0,Neutral,-0.4,Negative,0.2561278641223907,Neutral
+Abi seni sevmiyorum dermisim seviyi m,-0.5216,Negative,0.5,Positive,0.309818834066391,Neutral
+Orda ben olacaktım varya tutar = 99999999999 ₺,0.0,Neutral,0.0,Neutral,0.2921443283557892,Neutral
+Amyna koyum laaan,0.0,Neutral,0.0,Neutral,-0.2407483607530594,Negative
+hava mı atıyon lan bilgisayarınla,0.0,Neutral,0.0,Neutral,-0.250192642211914,Negative
+Yeni video gelmiyor,0.0,Neutral,0.1363636363636363,Neutral,0.4956518411636352,Positive
+Abi ne zaman yeni vidyo gelcek,0.0,Neutral,0.1363636363636363,Neutral,0.2759375274181366,Neutral
+Yeni video at Enes abi,0.0,Neutral,0.1363636363636363,Neutral,0.3222886025905609,Neutral
+eskiden ne kadar güzel söverdin enes abi aga b😥,0.5859,Positive,0.85,Positive,0.2498181611299514,Neutral
+Abi seni çok seviyorum 🙂🙂,0.8629,Positive,0.5,Positive,0.418727844953537,Positive
+abi koruna oldum ölçemm,0.0,Neutral,0.0,Neutral,-0.3896418213844299,Negative
+20:14 şeytan ayrlntıda,-0.6597,Negative,0.0,Neutral,-0.3244243562221527,Negative
+güzəll,0.5994,Positive,0.85,Positive,0.2709225714206695,Neutral
+Eski Enes baturu ozluyenler +1,0.0,Neutral,0.1,Neutral,0.2787603139877319,Neutral
+Artık yeter video attttttttttt,0.0,Neutral,0.0,Neutral,-0.4618681371212005,Negative
+BEN MALATYALIYIM,0.0,Neutral,0.0,Neutral,-0.2784238457679748,Negative
+Enes abi damla yenge nerede😡😡😡😡,0.0,Neutral,0.0,Neutral,-0.2835140526294708,Negative
+Abi ruyamda seni gördüm çok iyidi ya,0.6948,Positive,0.7,Positive,0.4079424440860748,Positive
+"Minecraft sözü noldu ?:(
+Yıllar önceki son mimecraft videosu",-0.4404,Negative,-0.375,Negative,-0.3743331134319305,Negative
+Eski ekip daha iydi kim ne derse desin,0.4265,Positive,0.3,Neutral,-0.2973541021347046,Negative
+Enes abi seniçok seviyorum sen iyisin,0.7184,Positive,0.3722222222222222,Positive,0.3215298056602478,Neutral
+Enes abi senin vidiolarını yutub kanalımda paylaşa bilirmiyim,0.296,Positive,0.0,Neutral,0.2894315123558044,Neutral
+Haklisin,0.0,Neutral,0.2857142857142857,Neutral,-0.3735980987548828,Negative
+Salak neden video atmiyon,0.0,Neutral,0.0,Neutral,-0.4803567230701446,Negative
+abi,0.0,Neutral,0.0,Neutral,0.317025363445282,Neutral
+Abi benim hic bilgisayarım olmadı bana bir bilgisayar alirmisin ♥️♥️♥️🇦🇿🇦🇿,0.9274,Positive,0.0,Neutral,-0.5236929655075073,Negative
+Enes Batur'u eskiden de izlemezdim şimdide. Fakat ara sıra napıyor acaba diye gelip bakıyorum ve bana öyle geliyor ki çok değişti. Eskiden saçma sapan hareketler yapardı ama en azından sempatik görünür ve kitlesini eğlendiren videolar yapardı. Şimdi ise eski halinden eser yok ne sempatikliği kalmış ne de eğlendirebiliyor... Demek ki güç insanı değiştirirmiş...,0.2003,Positive,-0.2333333333333333,Negative,-0.3101038932800293,Negative
+Abi karıya gidicem 200 tl atarmısın,0.0,Neutral,0.0,Neutral,-0.2977980077266693,Negative
+Abi videolarinda hep bagis yapiyon abi banada yap nolurrrr,0.3182,Positive,0.0,Neutral,-0.4953721463680267,Negative
+Abi,0.0,Neutral,0.0,Neutral,0.317025363445282,Neutral
+Abi,0.0,Neutral,0.0,Neutral,0.317025363445282,Neutral
+Abi seni coookkkk seviyorum🤗❤,0.9042,Positive,0.5,Positive,0.3016916811466217,Neutral
+Zor bi yarışmaydı ama eğlenceliydi😂,0.8422,Positive,-0.3888888888888889,Negative,0.3362326025962829,Positive
+Enis yapma,0.0,Neutral,0.0,Neutral,0.2928204238414764,Neutral
+Enes batur ytub bydir,0.0,Neutral,0.0,Neutral,-0.3233860731124878,Negative
+Çok güzel,0.4754,Positive,0.78,Positive,0.6769678592681885,Positive
+e bu eşyaların parasını kim verecek Acabaa🤔🤨💵,-0.1689,Negative,0.0,Neutral,0.2897494733333587,Neutral
+Abi 4 yıl önceye stren deep e dön,0.0,Neutral,0.0,Neutral,-0.4903441667556762,Negative
+yeni video,0.0,Neutral,0.1363636363636363,Neutral,0.4170759618282318,Positive
+Güzel vidio,0.4215,Positive,0.6,Positive,0.4649832248687744,Positive
+Arabadan elini son kaldır video istiyoruz,0.5423,Positive,0.0,Neutral,-0.5598289966583252,Negative
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+Abi kızlar seni seviyo ki mesela ben seviuorum(așk olarak değil),0.7212,Positive,0.5,Positive,0.2963705360889435,Neutral
+Ulan para var huzur var,0.5423,Positive,0.0,Neutral,-0.4217069149017334,Negative
+Abi lösemili adnan öldü,-0.5574,Negative,0.0,Neutral,-0.3473915159702301,Negative
+video nezaman geliyo,0.0,Neutral,0.0,Neutral,-0.4307490289211273,Negative
+abi acaba nezaman minecraft çekmeyi düşünüyorsun,-0.34,Negative,0.0,Neutral,-0.5818716883659363,Negative
+Artık yeni video gelsinnn,0.0,Neutral,0.1363636363636363,Neutral,0.3721300661563873,Positive
+Ps5 alıp ps4'u napçan 2sini nabacan,0.0,Neutral,0.0,Neutral,-0.3509336113929748,Negative
+20:39 doğru seçim yapan Turgut Reis,0.0,Neutral,0.2857142857142857,Neutral,-0.2779500186443329,Negative
+Abi adnan vefat etmiş ;(,0.0,Neutral,0.0,Neutral,-0.313470721244812,Negative
+Ah nerde o eski günler oyun videoları,0.0,Neutral,-0.15,Negative,0.3412090539932251,Positive
+Abi ben Nisan 12 de doğdum,0.0,Neutral,0.0,Neutral,-0.2860167324542999,Negative
+Haaaaaaa 🤣🤣🤣🤣,0.9153,Positive,0.0,Neutral,-0.523836076259613,Negative
+Abi bir kerede konya da karatayda cips dagit,0.0,Neutral,0.0,Neutral,-0.2420455068349838,Negative
+adam hayatın da alışverişe çıkmamış mk alsana ordan teneke yağ çeyrek değerinde ztn mk,0.2263,Positive,0.3,Neutral,-0.2766690850257873,Negative
+Enes batur vidddyooooo nerde lannnnn 11 gün oldu abiiiii,0.0,Neutral,0.0,Neutral,-0.6604451537132263,Negative
+Gt,0.2732,Positive,0.0,Neutral,0.4261873364448547,Positive
+Abi özür dilerim seni çok seviyorum ama bidaha küfür edersen seni banlarım 😔,-0.8294,Negative,0.0666666666666666,Neutral,0.2440830171108245,Neutral
+abi hayalarını havalandırıyım,0.0,Neutral,0.0,Neutral,-0.2479138672351837,Negative
+Ay düsünsene enes abi sabitliyor bu yorumu ve yorum yapiyor,0.0,Neutral,0.0,Neutral,0.274617999792099,Neutral
+Abi çadıra herşeyi taşıyorum,0.0,Neutral,0.0,Neutral,0.3653262555599212,Positive
+SALİH,0.0,Neutral,0.0,Neutral,0.2352100908756256,Neutral
+ABİ KIRALSIN,0.0,Neutral,0.0,Neutral,0.2476547658443451,Neutral
+Abi seni seviyom,0.6369,Positive,0.5,Positive,0.2801805734634399,Neutral
+Enes bugün okulda müdür biliyom açtı laaa,0.0,Neutral,0.0,Neutral,-0.241268128156662,Negative
+Enes 😁,0.4588,Positive,0.0,Neutral,0.2686679065227508,Neutral
+AsâaaaAa Afyon Enes Batur iyi misin,0.2263,Positive,0.5,Positive,0.3639707267284393,Positive
+kasiyerin anası agladı,-0.3818,Negative,0.0,Neutral,-0.4044264554977417,Negative
+`~▪︎▪︎○⊙\●°|<□•>■<{¤♤■}◇《]♧¡◇[》}♡《♤{¤■•>5□°●|⊙○\~☆▪︎`,0.0,Neutral,0.0,Neutral,-0.2837567627429962,Negative
+Bu Yorumu Kimse Beğenmediği İçin silindi,0.4215,Positive,0.6,Positive,-0.4237640798091888,Negative
+Enes abi bir tane çocuk sana entes potatus diyordu,0.0,Neutral,0.0,Neutral,-0.4809276163578033,Negative
+Yayıncılar bağıştan ne kadar para kazanıyor? Son videomda.,0.0,Neutral,0.1,Neutral,-0.5277610421180725,Negative
+Ihtiyac olan kisilere niye vermiyon züppe,0.0,Neutral,0.0,Neutral,-0.6090800762176514,Negative
+Böyle züppeler YouTube dan para kazaniyorlar,0.3612,Positive,0.0,Neutral,-0.3270922601222992,Negative
+Oyun videoları çek Yav kardeşim bana ne Onun bu değişecek oyun ve testleri çek,0.0,Neutral,-0.4,Negative,-0.277268648147583,Negative
+Geri takib isteyen,0.0772,Positive,0.0,Neutral,0.2936386466026306,Neutral
+12:15 Yaren kıskanmasın😉,-0.4588,Negative,0.0,Neutral,-0.2884911894798279,Negative
+Seni çok seviyorum 5yildir kanalını takip ediyorum çok güzel bir video olmuş,0.807,Positive,0.37,Positive,0.8047905564308167,Positive
+Abi neden video atmıyorsun bir şeymi oldu,0.0,Neutral,0.0,Neutral,-0.4093743562698364,Negative
+Hesoyam,0.0,Neutral,0.0,Neutral,0.2414909750223159,Neutral
+Abim çok güzele katılmışsın?,0.6361,Positive,1.0,Positive,-0.2882909476757049,Negative
+Enes abi atnanı ziyaret edermisin ve ismimi videoda söylermisin abi,0.0,Neutral,0.0,Neutral,-0.3154196143150329,Negative
+Para yanlış insanlarda ..,-0.4767,Negative,-0.5,Negative,0.2768688797950744,Neutral
+Eren abim senin amına koyacakmış 🤣🤣🤣,0.7269,Positive,-0.4,Negative,0.4297041893005371,Positive
+Abi bi tane bilgisyar hediye edermisin rica etsem,0.6369,Positive,0.0,Neutral,0.2646780908107757,Neutral
+Abi gülme için izleeeeeeee  yapın lüfennnn,0.7783,Positive,0.0,Neutral,0.2667986452579498,Neutral
+"""Duvarın arkasındaki kişileri vur sona kalan kazansın "" serisi gelsin",0.34,Positive,0.1333333333333333,Neutral,-0.3307547867298126,Negative
+12.48 o falım sakızın düşüp herşeyi bitirmesi yok muydu,0.0,Neutral,0.0,Neutral,-0.6817958354949951,Negative
+düşürürlerse gitti zaten herşey kırılcaklar gene masraf eksllssp,-0.6369,Negative,-0.4,Negative,-0.5359209179878235,Negative
+"En sonda mert güvenliğe şampuan verdi 
+:güvenlik kell",0.802,Positive,0.4,Positive,-0.2791798412799835,Negative
+ENES BATUR FENASİ KERİM,0.0,Neutral,0.0,Neutral,0.2516945898532867,Neutral
+Minecraft video çek,-0.34,Negative,0.0,Neutral,0.2629343569278717,Neutral
+"Bakalim sirada 
+Baska ne
+Videosu var",0.0,Neutral,0.0,Neutral,-0.3548857867717743,Negative
+Abi 16'30 da yeni video atmıyorsun,0.0,Neutral,0.1363636363636363,Neutral,0.2524174451828003,Neutral
+Enes e kol gibi kazık girdi,0.3612,Positive,0.0,Neutral,-0.3468409180641174,Negative
+Abi yeni şarkı yaparmısın,0.0,Neutral,0.1363636363636363,Neutral,0.3497665524482727,Positive
+Abi ilk videona baktımda minecraft tanıtıyosun baya deyismissin,0.0,Neutral,0.25,Neutral,-0.2875318527221679,Negative
+Bu tur sen nerede istiyorsun konum atsana,0.0772,Positive,0.0,Neutral,-0.3138893246650696,Negative
+Enes Batur iyi vidiyolar atıyon ama çok geç atıyon canımız sıkılıyo,-0.1779,Negative,-0.0333333333333333,Negative,0.3624032437801361,Positive
+Hadi  bee vidyo gelsin,0.0,Neutral,0.0,Neutral,0.2610337436199188,Neutral
+Abi bu gün yeni yıl için gezintiye gittik orada senin BİLİYOM şarkını söyledik abi Azerbaycanda senin şarkıların çok beyeniliyor,0.4754,Positive,0.4581818181818182,Positive,0.3533178567886352,Positive
+xgbfcdfvd,0.0,Neutral,0.0,Neutral,0.2496724277734756,Neutral
+Profilimdeki sayıyı 80 yapabilir miyiz!,0.1511,Positive,0.0,Neutral,-0.4474331438541412,Negative
+Yeni video ne zamann :((,0.0,Neutral,-0.3068181818181818,Negative,0.3573428988456726,Positive
+abi bir tane kasa yolla ordan bana lazım.,0.4404,Positive,0.5,Positive,0.2916425466537475,Neutral
+Neraba enes abi bugün ilk vidiyonu izledim ve 5litre aladım sen çok deyişmisin ama eski vidiyoların da iyidi bence bunu herkes biliyo sen beni taaa 5 yaşından seni izlemeye başladım ve şimdi 10 yaşındayım 5 yışdır seni izliyorum ama eski daha iyidi eskiyedoñ para mi yoksa takipçimi,0.5927,Positive,0.3499999999999999,Positive,-0.3062099814414978,Negative
+Enes abimiz yorum beğeniyomuş,0.4215,Positive,0.0,Neutral,-0.3220949470996856,Negative
+Negıyon ömer,0.0,Neutral,0.0,Neutral,0.2288320809602737,Neutral
+Eski enes baturu özleyen (+1),-0.296,Negative,-0.05,Negative,0.2455471009016037,Neutral
+Abi 11 gün oldu neeedesin,0.0,Neutral,0.0,Neutral,-0.6508538126945496,Negative
+Hayalmi gerçek mi 2 gelsin,0.25,Positive,0.0,Neutral,0.3203746378421783,Neutral
+Enes abi bir tane çocuk sahiplen,0.1779,Positive,0.0,Neutral,-0.3468221426010132,Negative
+"millet 3 , 4 bin tl ile ev geçindirmeye calışıyor biraz ahiret için bişeyler yap hayır işle  yapıyorsanda kendine yap millete göstermeye degil.",0.4215,Positive,0.0,Neutral,-0.4783718287944793,Negative
+kıskanıyom aq,-0.4588,Negative,0.0,Neutral,0.2669768929481506,Neutral
+lan video at artık!!!,0.5684,Positive,1.0,Positive,0.3126972019672394,Neutral
+Enes batur youtube budur çılgın çocuk,-0.34,Negative,-0.6,Negative,-0.3176212906837463,Negative
+AbinoLur viduoat yütven😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭,-0.9971,Negative,0.0,Neutral,0.286482959985733,Neutral
+Abi daireden son cikan kazanir gelsin seviliyosun,0.8271,Positive,0.36875,Positive,0.2578348517417907,Neutral
+Selam ayol,0.5106,Positive,0.3,Neutral,0.2506953775882721,Neutral
+niyevidyoatmıyosun,0.0,Neutral,0.0,Neutral,0.2189010828733444,Neutral
+Hz.Adem’den gelenler +1 yazsın +1 🤣🤣,0.7506,Positive,0.0,Neutral,-0.2804532945156097,Negative
+Abi birazdaha video atarmısın,0.0,Neutral,0.5,Positive,-0.3471774756908417,Negative
+Ben senin azina swwdim ama neyse Enes 😎😎,0.8402,Positive,0.0,Neutral,-0.2394056171178817,Negative
+14:24 çocuk arabadaki olan ilerde yt izlemeye başlayınca hava atcak enes baturu yt  de görünce,0.0,Neutral,0.0,Neutral,-0.5524675846099854,Negative
+herşey eskiden güzeldi,0.4404,Positive,0.7,Positive,0.4087201654911041,Positive
+Enes abi seni çok seviyorum ya,0.6369,Positive,0.35,Positive,0.3256248533725738,Neutral
+Amk sanki herkez sen gibi zengin ya aciklama linki birakiyorum diyor dnddnddkd,0.8225,Positive,0.375,Positive,0.2433169782161712,Neutral
+Çok guzel bir video,0.3804,Positive,0.4549999999999999,Positive,0.6859067678451538,Positive
+Küçüklüğümden beri (5 6 yıldır) okuma yazmayı bilmeden seni seyrediyordum çok iyi bir kanalsın abi bu zamana kadar videolarınla büyüdüm başarının devamını dilerim abi,0.8622,Positive,0.3408333333333333,Positive,0.6805605292320251,Positive
+Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur,0.0,Neutral,0.0,Neutral,-0.2635206878185272,Negative
+Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur Enes Batur,0.0,Neutral,0.0,Neutral,-0.2635206878185272,Negative
+Soğuk suya kış ta suyu girmeyi dene.,0.0,Neutral,-0.6,Negative,0.3184892833232879,Neutral
+4:38 abi bu bilgisayarı gta 5 de en üst kaletede denesene,0.2023,Positive,0.5,Positive,0.2710046470165252,Neutral
+ENES abi biz eski enes abimi istiyoruz neolur minecraft videosu çek.❤❤😍,0.9325,Positive,0.1,Neutral,-0.2242660969495773,Negative
+Arena of var oynuyonmu abi,0.2023,Positive,0.0,Neutral,0.2594047784805298,Neutral
+Para herkesi deyişdirdiyi gibi eneside  deyişdirdi gerçekden :(,-0.2716,Negative,-0.275,Negative,-0.6072927117347717,Negative
+Abi ben sizin nerde olduğunu biliyorum Antalya   fatih mahalesi,0.0,Neutral,0.0,Neutral,-0.2838369011878967,Negative
+1,0.0,Neutral,0.0,Neutral,0.42043337225914,Positive
+Abi 15 milyon oldun saldın iyice,0.0,Neutral,0.0,Neutral,-0.4783346951007843,Negative
+6 Ağu 2017 tarihinde çektigin zula videosunu tekrar çek,0.0,Neutral,0.0,Neutral,-0.3151295781135559,Negative
+Gftuöiztfzfi.zfzlzflfulfizöftfputufuocoutcxdsaawzrwaeutsrizdutttuvzzpizpizpizfpizfzpifpizffzpipizfizizfvöizzfii5pfpziftizt5t55f55f75f57fp75pf5f557pt5pfutrsrzddrfggzipizgpihigz,0.0,Neutral,0.0,Neutral,0.268515408039093,Neutral
+Abi baya iyi,0.7269,Positive,0.475,Positive,0.3355553150177002,Positive
+Maraba,0.4588,Positive,0.8,Positive,0.2803282439708709,Neutral
+enes abı gece gızlıce cıhan abının evıne gıdıp krkut cıhan abıyı,0.0,Neutral,-0.4,Negative,-0.5036506652832031,Negative
+Abi ya enes baturun ilk videosunu izledim duyulandım ya😞😞😞,-0.8519,Negative,0.25,Neutral,-0.3649361729621887,Negative
+16:35 toşko var tespiti ajdjgjgıckfgıfı,0.0,Neutral,0.0,Neutral,-0.2788244187831878,Negative
+Sosyal medyada görüyorum herkes enese saçma boş şeylerle uğraşan insan diyo bunların hepsi enesi kıskanıyo adam 7 8 senedir yt ve hakediyo nerden nereye gelmiş bir adam laf atmaya hakkınız yok,-0.6908,Negative,0.0333333333333333,Neutral,-0.7957903146743774,Negative
+Bu adamın videolarınk 1 yılda 10-50 mn arası izliyolar yeni nesile yararlı bir şey paylaşsa çocuklar saçmalamayı keser (enese laf atmıyorum içerikleri iyi ama bazı çocukları kötü etkiliyor),-0.502,Negative,0.1090909090909091,Neutral,-0.2769921422004699,Negative
+"SAKIN OYNATMA LİSTENE BAKMA adlı kullanıcı tamam anladık hep sokakta ölü taklidi yap insanlar gelince ""Oh ne uyumuşum""DE
+YAZMA 200.bin kere Yazmana Gerek YOK!!",-0.5189,Negative,0.09375,Neutral,-0.8659961223602295,Negative
+helal be çocuk lar için kendi parasıyla bişeyler alıyo,0.0,Neutral,0.6,Positive,0.2309381812810897,Neutral
+Marketdə kalmak videoları at,0.0,Neutral,0.0,Neutral,0.240120068192482,Neutral
+AH eski enes batur uzleyenler,0.0,Neutral,0.1,Neutral,0.311401754617691,Neutral
+Enesbaturlaflı,0.0,Neutral,0.0,Neutral,-0.2928767800331116,Negative
+Abi hiç vidyo atmıyon,0.0,Neutral,0.0,Neutral,0.2778509259223938,Neutral
+Abieskienesbaturuistiyom😢😢😭,-0.8519,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Adam modemi söktū götürüyo,0.0,Neutral,0.0,Neutral,-0.392477810382843,Negative
+Enes Abi Bilgisayarini Begendim de Saydee Bunu unutmamani Dilerim 2Ram 124Gb Hardiks Bildisayarinida unutma !!,0.0,Neutral,0.0,Neutral,-0.5024382472038269,Negative
+W1👎 NDNG❤❤❤,0.9274,Positive,0.0,Neutral,0.3428077399730682,Positive
+.,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
+Selam,0.0,Neutral,0.0,Neutral,0.2378614395856857,Neutral
+Enes batur sen yerinde dur karşındaki yahya batur,0.0,Neutral,0.0,Neutral,-0.3677818179130554,Negative
+ABİ REKLAM ÇOK GÜZELDİ İYİKİ VARSINIZ,0.8356,Positive,0.7749999999999999,Positive,0.6009160876274109,Positive
+Saa,0.0,Neutral,0.0,Neutral,0.2762500643730163,Neutral
+"Enes yanlış anlama kız arkadaşına falan laf ettiğim yok, bu video özelinde de konuşmuyorum ve seni de anlıyorum. Artık yeni kuşağın güldüğü şeyler çoğunlukla cinsellikle alakalı haliyle videoda bolca cinsellik şakası var ama seni çok küçük yaşta izleyen kardeşlerimiz de var bu konuda biraz daha hassas ve dikkatli olursan çok sevinirim aksi takdirde yarın öbür gün geçmiş günlerde olduğu gibi geleneksel medyanın seni linç yağmuruna tutması çok uzak değil. Anlayışın için teşekkür ederim.",0.7281,Positive,0.027405303030303,Neutral,-0.3629788160324096,Negative
+Enes batur benimle vidyo coke biliemisin,0.0,Neutral,0.0,Neutral,0.4098828732967376,Positive
+Bizim gibi çalışıp cabalasaniz ekmeğin nasıl kazanıldığını anlarsınız 1 bine ne alırız diye o nu düşünüyoruz bir çiftçi olarak geçim sıkıntısı yaşıyoruz sizin gibi villalarda yaşamıyoruz sobali evde yaşıyoruz demem o ki çiftçiye hiç saygı kalmamış 15 yaşındayım görmedim şey çalışmadım iş kalmadı,0.0,Neutral,0.0227272727272727,Neutral,-0.5929278135299683,Negative
+Enes abi nolur video atsana😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭,-0.9959,Negative,0.0,Neutral,-0.3875531554222107,Negative
+Abi köpeklerine ne oldu,0.0,Neutral,0.0,Neutral,-0.500944197177887,Negative
+❤❤❤😎😎,0.9618,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Abi bu abimin hessabı,0.0,Neutral,0.0,Neutral,0.3505923748016357,Positive
+Abi jibiliyi hatırladın,0.0,Neutral,0.0,Neutral,0.2691275179386139,Neutral
+:) abi eski oyun vdiyolarını hatıymısın...,0.4588,Positive,0.0666666666666666,Neutral,0.3701415061950683,Positive
+Sa,0.0,Neutral,0.0,Neutral,0.3161523342132568,Neutral
+Keşke orda ben olsaydım,0.4019,Positive,0.0,Neutral,0.3415441215038299,Positive
+Abi vidyolara kafa atarak girermisin Adım Orhan,0.0,Neutral,0.0,Neutral,-0.3776866197586059,Negative
+Canım abim seni izlemeden duramıyorum😃😃😃,0.8746,Positive,0.0,Neutral,0.4298170208930969,Positive
+meraba ben volkan konak,0.0,Neutral,0.0,Neutral,0.242039754986763,Neutral
+4 kol: change my mind bu arada seni izleyen veletdir,0.0,Neutral,0.0,Neutral,0.4503804445266723,Positive
+Abi vidyoooo,0.0,Neutral,0.0,Neutral,0.2515119016170501,Neutral
+Bir hayal kur ve gerçekleri yaşa ...,0.4588,Positive,0.1363636363636363,Neutral,0.5480819344520569,Positive
+"Bu video,da toplam ne kadar tuttuysa kim ödedi",0.0,Neutral,0.1,Neutral,-0.6128867864608765,Negative
+Reklam yapıyorsun,0.0,Neutral,0.0,Neutral,0.2446431219577789,Neutral
+hazırladığınız bir Kurt sofrası var o kurt sofrasında bizleri yemek istiyorsun afedersiniz biz size büyük geliriz bizi yemessiniz,0.3612,Positive,-0.025,Negative,0.3715291619300842,Positive
+bi klavye bile alamayan ben :d,0.6166,Positive,1.0,Positive,-0.3151684403419494,Negative
+MC YARALI,-0.4019,Negative,0.0,Neutral,0.2500354945659637,Neutral
+Abi ben rüzgar benim oyun oynar mısın,0.34,Positive,-0.4,Negative,0.4329230487346649,Positive
+Daireden çıkan kaZaNıR serisiİİİİİİİİİİİİ,0.6739,Positive,0.0,Neutral,0.2364147007465362,Neutral
+Bunların hepsini kim alıyor,0.0,Neutral,0.0,Neutral,-0.2482576817274093,Negative
+Enes. Baba,0.0,Neutral,0.0,Neutral,0.2592321038246155,Neutral
+Enes Emir kafalı titokır seni cizgi filim karakterine kimi çizdi,0.0,Neutral,0.0,Neutral,-0.2778407037258148,Negative
+abi seni arena valior da gordüm sen cemrw sesegel vardı,0.0,Neutral,0.0,Neutral,0.2419705539941787,Neutral
+Enes abi videolarini beyeniyorum cok iyisin👍🏻,0.8377,Positive,0.5,Positive,0.3290731310844421,Neutral
+Enes baturun videolarında Valesi Baturayı Berk Muhammeti ve Mervanı bir arada görmek isteyenler yorumu  beyensinler👍🥰,0.872,Positive,0.0,Neutral,0.2686966359615326,Neutral
+Yeni videooooo,0.0,Neutral,0.1363636363636363,Neutral,0.4943557381629944,Positive
+Sanki ata sözü yzaiyolar 2 dakikada yorum 2 bin oli6o,0.3612,Positive,0.0,Neutral,-0.706924557685852,Negative
+Abi papçi videosu Çek bir milyon beğeni,0.4215,Positive,0.0,Neutral,0.4305936396121979,Positive
+Pis creeper hadi bee ile başladı her şey😭,-0.4767,Negative,-0.8,Negative,-0.3704520165920257,Negative
+Abi. Hayırlıolsun,0.7003,Positive,1.0,Positive,0.4242980182170868,Positive
+Abi zengindir ha 😁,0.5574,Positive,0.375,Positive,0.3584227859973907,Positive
+VALES gibi videolar yap iyilik yaptığını görek,0.6597,Positive,0.7,Positive,0.3772472143173218,Positive
+10 gün oldu mk,0.0,Neutral,0.0,Neutral,-0.4564850628376007,Negative
+Ama          resim,0.0,Neutral,0.0,Neutral,0.4407944679260254,Positive
+Enes        ABİ            SENİ          BİR        KİŞİ         BAVUR      KIZLAR       VE          SEN          BİR       LEŞİCEKSİN,0.0,Neutral,0.0,Neutral,-0.293403148651123,Negative
+Profilimde 107 yazıyor 150 olur mu?,0.0,Neutral,0.0,Neutral,-0.4834795594215393,Negative
+Abi seni yuriyam da gördum😞😞😞,-0.6249,Negative,0.0,Neutral,0.2694926559925079,Neutral
+abi gülersen dolar yükselir gelsin nooooooooooluuuuuurrrr,0.5574,Positive,0.3,Neutral,-0.6348775029182434,Negative
+Enes abimin YouTube'dan Cemile ablanın gizlice evinin çekimini yapar mısın,-0.34,Negative,-0.4,Negative,-0.2855660021305084,Negative
+10:50 sadece alfalar hatırlar,0.0,Neutral,0.0,Neutral,-0.4391376674175262,Negative
+Kanalı büyütmeme yardım edermisiniz?,0.4019,Positive,0.0,Neutral,-0.30401411652565,Negative
+Video at,0.0,Neutral,0.0,Neutral,0.2853809297084808,Neutral
+4:32 en üst seviye değil,0.0,Neutral,0.0,Neutral,-0.3033620119094848,Negative
+24 saat tek renk gelsin,0.0,Neutral,0.0,Neutral,-0.4661619663238525,Negative
+İtopya baya kazık lan,-0.5574,Negative,-0.2,Negative,-0.2720339298248291,Negative
+Enes abi Hakk'ın rahmetine kavuştu bilim kulübünde,0.3612,Positive,0.0,Neutral,-0.485800564289093,Negative
+Enes abi niye vidiyo atmiyon,0.0,Neutral,0.0,Neutral,0.2606407105922699,Neutral
+Daireden son çıkan qazanır juanlar ve yaren olsun,-0.0516,Negative,-0.0125,Negative,-0.4009474813938141,Negative
+Abim bir kerede şaka yapsana herkese,0.296,Positive,0.0,Neutral,-0.4574330151081085,Negative
+Enes batur yavas yavas gidiyo farkındaysaniz bi ara 3günde video atmalar sonra 4 5 derken 1hafta simdide 9 gündür video yok yakında hiç atmıycak herhalde,-0.296,Negative,-0.025,Negative,-0.7266547083854675,Negative
+Enes Batur sende unutuldun be,-0.2263,Negative,0.0,Neutral,-0.4807838499546051,Negative
+Salam enes butur,0.4215,Positive,0.0,Neutral,0.2461477518081665,Neutral
+Irem derici ile cketigin vlog gelsin,0.0,Neutral,0.0,Neutral,0.2716371119022369,Neutral
+Irem derici ile video gelsin,0.0,Neutral,0.0,Neutral,0.2529553771018982,Neutral
+Fakirlere yardim akimi baslatin bu harcamalar israf,-0.7096,Negative,-0.3,Negative,-0.3268337547779083,Negative
+canım benim,0.3818,Positive,0.0,Neutral,0.4514705538749695,Positive
+Abi yeni araban a h.o,0.0,Neutral,0.1363636363636363,Neutral,0.3522792458534241,Positive
+Taşınınca köpeklerine ne oldu ?,0.0,Neutral,0.0,Neutral,-0.4408629536628723,Negative
+Evet şöhret insanı bozmaz kesinlikle ;),0.8481,Positive,0.125,Neutral,-0.2274841219186782,Negative
+Sakallı yemin ediyorum daha iyiydi,0.4019,Positive,0.5,Positive,-0.3265089094638824,Negative
+Gülersen ölürsün yap helyum gazı,-0.0772,Negative,0.3,Neutral,-0.3166172802448272,Negative
+dolar enes batur yüzünden arttı çünkü eskiden gülersen dolar yükselir diye video yapmıştı ozaman 9.38 di şidni 14,0.6908,Positive,0.3,Neutral,-0.6891206502914429,Negative
+Piyasadaki en ust seviye degil 12nesil i9 ve rtx 3090 olabilir ayrica ddr5 ram versiyonunu alsan ucardin be enes neyse dostum hayirli olsun pc sen daha iyilerine layiksin,0.9325,Positive,0.5666666666666667,Positive,-0.3190526664257049,Negative
+Beni cagir vatan bilgisayara gotur sadece ekran karti alcam soz,0.3182,Positive,0.0,Neutral,-0.6103161573410034,Negative
+Abi mert eren bülbül ü gurub Tan cıkartmışsın,0.0,Neutral,0.0,Neutral,-0.236760601401329,Negative
+Niye 9 gündür video atmıyorsun Enes abiii,0.0,Neutral,0.0,Neutral,-0.5593516230583191,Negative
+Aga be ;(,0.0,Neutral,0.0,Neutral,0.3082129061222076,Neutral
+Lan şopar hani video atmiyacaktn,0.0,Neutral,0.0,Neutral,-0.272511750459671,Negative
+Abi YouTube ye ilk başladığında buralara geleceğini tahmin etinmi,0.0,Neutral,0.25,Neutral,0.2530284821987152,Neutral
+"Abi benim resmim bile sensin amma ismimi ""ENES BATUR"" koyamadım );",0.0,Neutral,0.0,Neutral,0.2900412678718567,Neutral
+abi nolur oyun videosu cek,0.3182,Positive,-0.4,Negative,0.2648207545280456,Neutral
+enesadisanagarçektenyusunyar dereiçndedoldumu,0.0,Neutral,0.4,Positive,-0.3192287087440491,Negative
+yeni bülüm ne zaman gelir,0.0,Neutral,0.1363636363636363,Neutral,0.3882738351821899,Positive
+"Pp
+Ķjdsjsjj2😎😎😎😎😷😱😈😈😈😈😈👺👾👽👽👽",0.9648,Positive,0.0,Neutral,0.2638336420059204,Neutral
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+profilimdeki sayıyı 150 yapar mısınız 😢🤧,-0.4215,Negative,0.0,Neutral,-0.2383719682693481,Negative
+# ENES BATUR # 108.000 YÜZ SEKİZ BİN LİRAYI BEN TATİLDE HARCIYAMIYORUM,0.5319,Positive,0.0,Neutral,-0.7258544564247131,Negative
+15:21 deki alfa çoçuk,0.0,Neutral,0.0,Neutral,-0.2490440905094146,Negative
+Toşko:Annem için aldım,0.0,Neutral,0.0,Neutral,0.3043898940086365,Neutral
+14:12 âşkın bir bedeli olur diyor ondan önce o bebeği alırken Yaren dedi 😵😎,0.743,Positive,0.5,Positive,-0.3428847789764404,Negative
+Enes batur YouTube  budur Enes  batur  çılgın çocuk  Efe n dimiz,-0.34,Negative,-0.6,Negative,-0.4471349716186523,Negative
+Bitmiş lan enes batur,0.0,Neutral,0.0,Neutral,-0.3205446302890777,Negative
+Abi gülmek için izlenir yeni bölümü gelsin,0.5574,Positive,0.2181818181818181,Neutral,0.3061083257198334,Neutral
+itopyada sakız alsan bile en az 10k zaten,0.0,Neutral,-0.3,Negative,-0.3160793781280517,Negative
+Abi Mezarcıya hediye alsana,0.4404,Positive,0.0,Neutral,0.2671388685703277,Neutral
+"""Ben kendime yeni Yaren aldım..""",0.0,Neutral,0.1363636363636363,Neutral,0.4488406479358673,Positive
+Enes abi şu konuya açıklık getirelim eski enes>yeni enesten daha iyi keşke eskisi gibi olsan başak ablayla olsan oyun vidioları çeksen herşey para değil abi seni çok seviyorum ama artık biraz oyun vidiosumu çeksen,0.3182,Positive,0.0799999999999999,Neutral,0.3161264061927795,Neutral
+21:14 sj,0.0,Neutral,0.0,Neutral,-0.2578803598880768,Negative
+Of ya benim bir tek hayalim bir bilgisayarım olaması hiç olmadı,0.25,Positive,0.0,Neutral,-0.7331300377845764,Negative
+ENESBATURABİSENİÇOKÖZLEDİM,0.0,Neutral,0.0,Neutral,-0.2456610053777694,Negative
+6:49 benim bilgisayarı ışıksız görünce o anda ben😪😪,0.0,Neutral,0.0,Neutral,0.3472876250743866,Positive
+neden enesbaturun her şarkısında enes ölüyor?🤔🤔🤔,-0.5994,Negative,0.0,Neutral,-0.5323103070259094,Negative
+<3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
+Bunu sadece old lar bilir Meryem can ile ağzımda ne var challange gelsin,0.0,Neutral,0.05,Neutral,-0.5715038776397705,Negative
+Abi çokiysin,0.0,Neutral,0.0,Neutral,0.2661824822425842,Neutral
+Enes abi kutudan ilk çıkan kazanır yap,0.5719,Positive,0.275,Neutral,0.2308249473571777,Neutral
+ESKI ENES BATURMU SIMDIKI ENES BATURMU,0.0,Neutral,0.0,Neutral,0.3128410279750824,Neutral
+Enes abi 2 elinede kullanmadan 1 gün videosu yapsana güzel olur,0.4215,Positive,0.6,Positive,0.2273425757884979,Neutral
+"enes abi. turgut abi ye ayran göstreme  ayron banyosu geldi benim alkıma
+
+🤣🍶",0.6908,Positive,0.0,Neutral,0.2767408192157745,Neutral
+Bu serileri izleyicilerle yapsan daha hayırlı kesinlikle,0.6808,Positive,0.5,Positive,0.3197720944881439,Neutral
+Baturayı bana verin lann,0.0,Neutral,0.0,Neutral,-0.4258599877357483,Negative
+.,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
+Selam 3.5 senedir komadaydım oyun videolarını nerde bulabilirim,0.0,Neutral,-0.25,Negative,-0.8397722840309143,Negative
+Yok abı biz istersek alırız zaten ne kapak etti ama skksskksskksk,-0.1154,Negative,0.0,Neutral,-0.7479705810546875,Negative
+Öyle olsaydı ben bütün iphoneları alırım,0.0,Neutral,0.0,Neutral,0.2449274957180023,Neutral
+Toşko köylü çıktık,0.0,Neutral,0.0,Neutral,-0.2533283531665802,Negative
+Abi Minecraft vidyosu gelsem devamke,0.0,Neutral,0.0,Neutral,0.263131320476532,Neutral
+En saçma yorum,-0.4201,Negative,0.0833333333333333,Neutral,0.2982233166694641,Neutral
+.,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
+Enes abi fortnite oyuniyabilini sen eskiden çok fortnite oynar din çok güzel di,0.7841,Positive,0.78,Positive,0.4865830540657043,Positive
+Kötü yorum yapanı ta👿😈😈😈😈😈😈😈😈 ederim,-0.1531,Negative,-0.6999999999999998,Negative,-0.4215341210365295,Negative
+Enes abı seni çok seviyorum <3,0.8115,Positive,0.5666666666666667,Positive,0.4532408416271209,Positive
+Enes batur abi telefon numaranı atarmısın?,0.0772,Positive,0.0,Neutral,-0.4151402711868286,Negative
+Zeynep resme tıkla,0.0,Neutral,0.0,Neutral,0.2584818601608276,Neutral
+Amerika'da yaşam ile ilgili bir video çekermisin,0.0,Neutral,0.0,Neutral,-0.2509138584136963,Negative
+Aga en çok birbirine yakışan enes abiyle başak ablayıdı  kim ne derse desin ozamanlar hayat daha iyiydi😔😪,0.4837,Positive,0.21875,Neutral,-0.4250316023826599,Negative
+Biz senmiziy nasıl alak ama (istersen bana allabilirsin tüm ark'larımın var benim yok ben 14 yıl boyunca hep izledim hiç oynamadım pls) iyi günler,0.4939,Positive,0.0,Neutral,0.2924874126911163,Neutral
+10  tane sıvı yağ alsaydınız ztn kazanırdnız.,0.5859,Positive,0.8,Positive,-0.4374613761901855,Negative
+18:33 o şişeyi kim attı lann,0.0,Neutral,0.0,Neutral,-0.3888555765151977,Negative
+abi yorumumu görmeyeceğini biliyorum ama gene de yazmak istedim tiktok keşfetimde malum kadını gördüm (ismini yazıp seni üzmek istemediğimden malum kadın diyorum) abi iyikide olmamış sana yakışmazmış sen kendi yoluna devam et biz senin arkandayız♥️♥️.(arkadaşlar beğene bilir misiniz görsün.),-0.2693,Negative,0.2142857142857142,Neutral,-0.2941619455814361,Negative
+Artik sıksık video at 8 gün den beri bekliyorum!,0.0,Neutral,0.0,Neutral,0.3355527520179748,Positive
+BEN ENES ABİMİ SEÇİ YORUM ÇÜNKÜ O BİR MİSLİ MELEK 14 YAŞINI HATIR LAYIN 😎😇😪☺😌,0.891,Positive,0.1,Neutral,-0.4307380616664886,Negative

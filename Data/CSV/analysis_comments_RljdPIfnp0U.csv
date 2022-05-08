@@ -1,0 +1,623 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+wow maluma es muy lindo creo que si me encanta sus toda canciones me hace sienti feliz me gusta mucho no me recuerdo cuando escuche este tema,0.9552,Positive,0.5125,Positive,0.6751924157142639,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+El mejor 🔥🔥,0.1027,Positive,1.0,Positive,0.8683388829231262,Positive
+Jajaja efe,0.5574,Positive,0.2,Neutral,0.2643555104732513,Neutral
+Por eso es q estoy tomando 😭,-0.4767,Negative,0.0,Neutral,0.3244058191776275,Neutral
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Excelente tema,0.5719,Positive,1.0,Positive,0.6207259893417358,Positive
+Sou Pernambucana e moro no rio de janeiro e amo todas as músicas de  Maluma de tanto ouvir aprendi até um pouco de espanhol  é libertador todas músicas dele meu vizinho até esculta por minha causa  o meu sonho é ir no show dele dançar já aprendi um pouco kkkk,0.8275,Positive,0.1801948051948052,Neutral,0.4151252508163452,Positive
+Me dieron ganas de hacer ejercicio,0.0772,Positive,0.0,Neutral,0.3333609700202942,Positive
+Un millon de like para el colonbiano mas bermoso..💕💋😍,0.9524,Positive,0.675,Positive,0.5933322310447693,Positive
+Tal cual,0.0,Neutral,0.0,Neutral,0.5845147967338562,Positive
+Su Último Éxito xe,0.5719,Positive,0.15,Neutral,0.2999105453491211,Neutral
+❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Como amo esta cancion 🥺💘,0.8555,Positive,0.5,Positive,0.7040126919746399,Positive
+Es la canción más bonita del mundo 🗺 me recuerda a mi nv ♥️♥️♥️♥️♥️♥️🐯🐯🗼🗼🗼🗼🔥😘😘😘🤩😍😍😍Pero :-/💞❣️💔💔💔💔💔,0.9929,Positive,0.675,Positive,0.8108775019645691,Positive
+Reggaeton é vida  '' BR  QUE MUSICA MARAVILHOSA MDS,0.6633,Positive,1.0,Positive,0.7642737627029419,Positive
+ma quanto sei bello..,0.6269,Positive,0.5,Positive,0.3924575746059418,Positive
+Me encanta esta música XD🤑👍,0.8668,Positive,0.5,Positive,0.7755535244941711,Positive
+Otabio esposa,0.0,Neutral,0.0,Neutral,0.2766136229038238,Neutral
+Ya esner,0.0,Neutral,0.0,Neutral,0.2875854969024658,Neutral
+es una basura de musica es el paso michael jason,0.0,Neutral,0.0,Neutral,-0.8054773211479187,Negative
+Como actor 0 pero lo amo tanto 😅 que no importa 😂,0.935,Positive,0.35,Positive,0.3861145675182342,Positive
+para el tiempo like si estas en 2023 0 2024,0.3612,Positive,0.0,Neutral,0.3565822839736938,Positive
+Ella es la chica HAWAII !!!!!!!,0.0,Neutral,0.0,Neutral,0.5632005333900452,Positive
+Esta bonita la cansion,0.5994,Positive,0.85,Positive,0.4091158807277679,Positive
+Ppppppf. Vaya cuesco de música.,0.0,Neutral,0.0,Neutral,0.3062761127948761,Neutral
+"Juan, but you don't drink or smoke. Try to sometimes sing high )))))",0.0,Neutral,0.16,Neutral,0.2985184788703918,Neutral
+El rubio es Scott Disick o estoy confundida??,-0.3182,Negative,-0.2,Negative,-0.297061413526535,Negative
+Repórtense los que la siguen escuchando en 2025 ❤❤❤,0.9274,Positive,0.0,Neutral,0.2598103582859039,Neutral
+Lindo y no cotetas y la de cualquier forma está la cueta en talca y la verdad no tengo ke ase y la casa tengo ♥️♥️♥️♥️♥️🥰🥰,0.9917,Positive,0.5,Positive,0.4946141242980957,Positive
+Esta es la mejor musica se escucha a todo pulmon en rd,0.7184,Positive,0.75,Positive,0.9005411267280579,Positive
+1:18 la mejor parte😂,0.7964,Positive,1.0,Positive,0.7330378293991089,Positive
+Cancion pa anitta si,0.4019,Positive,0.0,Neutral,0.277634710073471,Neutral
+Maluma es un muchacho hermoso antes lo odiaba xq era más bonito que yo. Pero gracias a este señor le envié esta canción a una mujer que vive con ella 4 años hola cagué pero soy un puto orgulloso que apesar que la amo no tengo el valor de desirle que regrese,0.8315,Positive,0.1785714285714285,Neutral,0.6291515827178955,Positive
+"⏳ Tiempo ÁNGEL RR ya disponíble 
+OPRIME ⬇️ ⬇️ ⬇️ 🌍🏆
+https://youtube.com/channel/UCbP9xfzHPg1oQMd39vBCvYg",0.0,Neutral,0.4,Positive,0.2864459455013275,Neutral
+"Andrés 👍
+Hola soy
+Ok
+YouTube",0.2263,Positive,0.5,Positive,0.3711224198341369,Positive
+Que yo no,0.0,Neutral,0.0,Neutral,-0.5018552541732788,Negative
+Me encanta me hace mucho reír y es muy pero muy lindo 😍😍😍😸😸😍😸,0.9902,Positive,0.4833333333333334,Positive,0.819090723991394,Positive
+"222 millones de vistas y lady picture show de los stone temple pilots tiene si mucho 5 millones de visitas, este mundo se fue a la damier.",-0.6808,Negative,0.2,Neutral,-0.2930004298686981,Negative
+"Tardesita de michelads.,escuchand miuic....",0.0,Neutral,0.0,Neutral,-0.2773354053497314,Negative
+Maluma this music video is so adorable and beautiful and I’m very proud of you ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🥰🥰🥰🥰🥰🥰🥰🥰,0.9971,Positive,0.7833333333333333,Positive,0.8787673711776733,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Com esta música só apetece dançar.,0.3612,Positive,0.0,Neutral,0.3842973113059997,Positive
+💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Me encanta eres unico esta cancion me mata,0.1779,Positive,0.4375,Positive,0.657784104347229,Positive
+"Caramba maluma você é foda cara ,canta muito, sou brasileira e amo ouvir suas músicas 🎶 você é sucesso cara ,se as pessoas estão te criticando são idiotas ,você é foda você merece o mundo 🌎 sou sua  fã",0.9349,Positive,0.4,Positive,0.3664013147354126,Positive
+Je t'imeeeeee,0.0,Neutral,0.0,Neutral,-0.4212793111801147,Negative
+"Todo es meravilloso!!! El video, la cancion, la chica!!! Todo!!!!",0.7067,Positive,1.0,Positive,0.9313365817070008,Positive
+"No soy fan de este tipo de música, pero este es un gran artista de la música👏",0.7326,Positive,0.8,Positive,0.5115199089050293,Positive
+Малума - эталон мужской красоты!,0.6239,Positive,0.0,Neutral,0.6103324890136719,Positive
+ENSERIO PARA PEDIR PERDÓN TENGO QUE ESTAR EBRIO,-0.25,Negative,-0.4166666666666666,Negative,-0.4074611067771911,Negative
+un beso a mi ex que me la dedico,0.4215,Positive,0.0,Neutral,0.5716400742530823,Positive
+Este tema tendría que tener más visitas,0.0,Neutral,0.5,Positive,0.350727379322052,Positive
+Es un temazo,0.6249,Positive,0.8,Positive,0.2695043385028839,Neutral
+Buena canción 👍👍,0.4404,Positive,0.7,Positive,0.4951365292072296,Positive
+Aquí un sábado en la noche escuchándo de tu música 🍺🍻🍻,0.0,Neutral,0.0,Neutral,0.5662418007850647,Positive
+Te amo mí vale te amo mucho y ya me intenté darme mis oportunidades pero aún sigo aquí esperándote y para que veas el nuevo hombre que soy,0.7227,Positive,0.3792727272727273,Positive,0.6375138759613037,Positive
+Que buen tema.,0.4404,Positive,0.7,Positive,0.3800379335880279,Positive
+por eso estoy  tomando 🎶🎶🎶🍻🍻🍻,0.0,Neutral,0.0,Neutral,0.3886523246765136,Positive
+"Unos de los pocos que tienen los cojones de mantener la esencia del regueton,estas son las canciones que me hace pensar que aún estoy joven jeje",0.0,Neutral,-0.05,Negative,0.5003364682197571,Positive
+Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
+Justin Bieber  gonna get royalties for this,0.0,Neutral,0.0,Neutral,0.4908971786499023,Positive
+Si aún es su niña supongo,0.0,Neutral,0.0,Neutral,0.3262110948562622,Neutral
+No no fue tan mal novio su pongo,0.431,Positive,-0.6999999999999998,Negative,0.5554593801498413,Positive
+No quiero que se embriague tanto mi baby,-0.5168,Negative,-0.5,Negative,0.4394971430301666,Positive
+Tal vez le baya cabrom,-0.5423,Negative,0.0,Neutral,0.2734330296516418,Neutral
+Hermosa canción mi baby,0.5994,Positive,0.85,Positive,0.7056249380111694,Positive
+Tal vez lo sigue Amando,0.5719,Positive,0.0,Neutral,0.601707398891449,Positive
+No te embragues tanto mi baby,0.0,Neutral,0.2,Neutral,-0.2441760599613189,Negative
+"Nombre  de la canción: "" sobrio"" comienzo: QUIERO APROVECHAR QUE AHORA ESTOY EBRIO. Jajjaja creo q la canción se debería llamar borracho jjajajaja",-0.1943,Negative,-0.0999999999999999,Negative,-0.5866279006004333,Negative
+Se ve qué la amaba mucho,0.5994,Positive,0.48,Positive,0.2831964194774627,Neutral
+Vale una copa mas,0.2263,Positive,0.4,Positive,0.3134033381938934,Neutral
+Pinch3 Musica Fea paisana y de pueblo toda ay,-0.5106,Negative,-0.7,Negative,0.5100744366645813,Positive
+Que cambio a tenido Maluma 🥺♥,0.6369,Positive,0.0,Neutral,-0.4001097679138183,Negative
+Malú ma,0.0,Neutral,-0.1875,Negative,-0.3606617152690887,Negative
+hermosa cancion  no muchos insultos casi nd de insultos asi tiene q hacer  todas las canciones,0.7901,Positive,0.3,Neutral,0.6066060066223145,Positive
+"Ese amor que se fue, pero la recuperare ya que la huella dejada no se borra 10-10",0.3818,Positive,0.1666666666666666,Neutral,-0.2926384508609772,Negative
+"esa si es una buena cancion, mas de esto porfavor que hace mucha falta",0.7054,Positive,0.4866666666666666,Positive,0.4365627765655517,Positive
+Bellísima es la mejor canción de maluma,0.8442,Positive,0.925,Positive,0.8544997572898865,Positive
+EU manito,0.0,Neutral,0.0,Neutral,-0.4240083396434784,Negative
+El mejor,0.6369,Positive,1.0,Positive,0.8393970727920532,Positive
+https://youtu.be/9-FvdDgQN8I,0.0,Neutral,0.0,Neutral,-0.2427056431770324,Negative
+Sobrio no me da!! Por eso te estoy llamando tengo la necesidad de saber cómo te va ☹️,-0.4559,Negative,0.15625,Neutral,-0.4720957577228546,Negative
+Papasitooooooo !,0.0,Neutral,0.0,Neutral,0.3717300295829773,Positive
+Lo siento es q sabes q me cuesta decir lo que siento...,-0.1779,Negative,-0.3958333333333333,Negative,0.2786718308925628,Neutral
+Estoy bebiendo supuestamente Pa olvidarte... ya que sobrio no me da,-0.2263,Negative,0.1,Neutral,-0.4100538194179535,Negative
+"I'm such a big fan of you ,from Philippines here! Please atleast a shout-out from Maluma🙏🙏🙏🥺🥺🥺",0.5983,Positive,0.0,Neutral,0.5864799618721008,Positive
+Excelente canción me fascina,0.836,Positive,0.75,Positive,0.7264940738677979,Positive
+Buen temita 🎵🎶🤗,0.6908,Positive,0.7,Positive,0.5116694569587708,Positive
+Este hombre si que está bueno este es el idear para Carol g,0.4927,Positive,0.7,Positive,0.323358803987503,Neutral
+"Grande maluma ,una de mis canciones favoritas , sigie asiendo estas canciones , like si te gusto la cancion ☺",0.9371,Positive,0.6333333333333333,Positive,0.6367475986480713,Positive
+Aquí recontra alcoholizado... Pensando en ti 🥃💔,-0.0772,Negative,-0.5,Negative,-0.3924292325973511,Negative
+Maluma sos loooooo maaaassss,0.0,Neutral,0.0,Neutral,-0.4030362963676452,Negative
+Me encanta la chava del carro es hermosa,0.8442,Positive,0.675,Positive,0.7827876210212708,Positive
+Ya que sobrio no me da.....,0.0,Neutral,0.1,Neutral,-0.4107547998428345,Negative
+Maluma me encantan mucho tu canciones suve mas,0.6369,Positive,0.5,Positive,0.7849994897842407,Positive
+"Virei fã de maluma,suas músicas 🎶 São lindas",0.7351,Positive,0.85,Positive,-0.3885777294635772,Negative
+WOW 😲 QUE FRUSTRATING 🤣✈️,0.7717,Positive,-0.15,Negative,-0.6177682876586914,Negative
+Um dos melhores temas de Maluma.,0.6369,Positive,1.0,Positive,0.6603484153747559,Positive
+Brutal temazo Maluma viva Colombia hps,0.0,Neutral,-0.0374999999999999,Negative,-0.7521559596061707,Negative
+que buen tema,0.4404,Positive,0.7,Positive,0.344664990901947,Positive
+Maluma  el sobrio y elegante y muy bien y que no tengo vídeo de la casa tengo la necesidad de saber cómo estás mi amor pero agale pero agale,0.6538,Positive,0.325,Neutral,0.3335914611816406,Positive
+No soy fan de el pero tiene buena música,0.5218,Positive,0.7,Positive,0.4687546789646148,Positive
+A qué edad ¿?,0.0,Neutral,0.0,Neutral,-0.2871166467666626,Negative
+Esta bien chafo el video!!,0.4926,Positive,0.875,Positive,0.4127906560897827,Positive
+Solo espere estoy con mi felicidad ♥️😍😍😍😍♥️ pero agale mi felicidad ♥️ eres hermosa,0.9842,Positive,0.75,Positive,0.3595756292343139,Positive
+Lindo tema ♥️😍😍 éxito y me acuerdo de é. Pero agale pero agale pero agale pedacito de m felicidad,0.9294,Positive,0.3531249999999999,Positive,0.3508927524089813,Positive
+Full Sobrio para Boxing Competitivo…,0.1779,Positive,0.2249999999999999,Neutral,0.4256786704063415,Positive
+*EL MEJOR TEMA POR MUCHO!!*,0.6988,Positive,0.578125,Positive,0.8764021992683411,Positive
+🇧🇷🇧🇷🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+como hace eso sin caerse yo lo intente y me cai y todavia estaba sentado en una silla,0.1139,Positive,0.0,Neutral,0.3615849018096924,Positive
+Hermosa canción lo amo 😍❤️,0.9022,Positive,0.675,Positive,0.7771835327148438,Positive
+😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😄😄😄😄😄,0.9977,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Grande Maluma,0.6249,Positive,0.8,Positive,-0.619023859500885,Negative
+😘😘😘,0.8126,Positive,0.0,Neutral,0.3085779249668121,Neutral
+LOV MALUMA,0.0,Neutral,0.0,Neutral,-0.3986361920833587,Negative
+Sobrio  algún Día ✌️😂,0.4404,Positive,0.1,Neutral,-0.3360162079334259,Negative
+Cada canción me gusta + y +++++++ 💚✅💚✅,0.8979,Positive,0.0,Neutral,0.5759559869766235,Positive
+Jsjsjjs,0.0,Neutral,0.0,Neutral,0.2735592126846313,Neutral
+de las mejores canciones,0.6369,Positive,1.0,Positive,0.9153034687042236,Positive
+El chico que sali con maluma no es el  ex esposo de unas de las kardashisn 😨😨😮😮,-0.7506,Negative,0.0,Neutral,-0.3778111338615417,Negative
+NO PASA DE MODA EN VENEZUELA AMAMOS A MALUMA,0.6369,Positive,0.5,Positive,-0.6254016757011414,Negative
+Divino😍,0.765,Positive,0.0,Neutral,0.3085779249668121,Neutral
+🖤❤🤍,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
+no soy de regueton y menos de seguir al cantante pero este tema me indentifica y una mala etapa que vivi buen tema,-0.2263,Negative,-0.0416666666666666,Negative,-0.370238721370697,Negative
+Los que vean este comentario les deseo una vida con amor y felicidad,0.8885,Positive,0.6,Positive,0.6124651432037354,Positive
+Super  muzyka. Pozdrawiam z Polski,0.7845,Positive,0.8,Positive,0.8055689930915833,Positive
+hua  PAPI JUANCHOOOOOOOOOOOOOOOOOOOOOOOOO BEIBI,0.0,Neutral,0.0,Neutral,-0.241823598742485,Negative
+Las cansiones de maluma son perfetas para el que le gusta😉😉🌸🌸?las amo las cansiones,0.886,Positive,0.75,Positive,0.3238344490528106,Neutral
+Every fan of Maluma must comment this video: https://www.youtube.com/watch?v=Y0U0HAwpw2s,0.3182,Positive,0.0,Neutral,0.4321805536746979,Positive
+"ME AH PASADO QUE LO ME LO DIJERON 
+PERO ES ENTENDIBLE. Y ES LA ÚNICA MANERA .. AUNQUE CUANDO TE VEN NO LE SALEN LAS PALABRAS ... PERO.PERO CON LAS 👀👀👀  TE DICEN TODO. 😍😍😍 ME ENCANTO GENIOOOO!! ❤💘❤💘❤💘",0.9962,Positive,0.390625,Positive,0.658366858959198,Positive
+extraño a mi ex 😁,0.34,Positive,0.0,Neutral,0.5444076657295227,Positive
+Is anyone saw that is Scoth el ex de una de las kardashian o me lo inagino😮,0.0,Neutral,0.0,Neutral,-0.7339799404144287,Negative
+No es sólo la letra pero los ritmos que elige este chico son espectaculares. Cada cosa que hace le queda mejor que la anterior. Maluma eres único.,0.0772,Positive,0.36875,Positive,0.5611120462417603,Positive
+Hola maluma baby...your voice amazing....an also favrate,0.0,Neutral,0.0,Neutral,0.4061104357242584,Positive
+Hatfhg😎,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+"Sigo sin poder creer que este hit aun no  a llegado  a los 500 millones, gente necesitamos apoyar más la buena música ❤️🔝",0.7964,Positive,0.6,Positive,-0.3934837579727173,Negative
+bASURA,0.0,Neutral,0.0,Neutral,-0.7855904698371887,Negative
+Quiero Q Apoyen A David Neta. Canta _Rap Romantic🔥,0.5106,Positive,0.0,Neutral,0.4902863502502441,Positive
+01:28 Tengo la necesidad de saber como te va y si aun me sigue amando lo intentao,0.6369,Positive,0.5,Positive,0.2625179290771484,Neutral
+Cuando se estreno este video,0.0,Neutral,0.0,Neutral,-0.4848869442939758,Negative
+CESAR,0.0,Neutral,0.0,Neutral,0.2480271309614181,Neutral
+Exelente video ademas letra muy limpia sin vulgaridades como debe ser buen regueton por favor no cambies tu manera de cantar,0.7641,Positive,0.7255555555555556,Positive,0.4194931983947754,Positive
+Un joven con un sueño nadie en está tierra lo puede detener solamente un Dios Todopoderoso Amén Amén Amén,-0.0772,Negative,0.05,Neutral,0.5544558167457581,Positive
+lamentablemente ni sobrio ni borracho me da por saber como esta... que cagon lpm... perder a alguien por cagon !😢,-0.4882,Negative,-0.3,Negative,-0.8698673248291016,Negative
+Por estas canciones ya no tengo fe en la humanidad.,0.1531,Positive,0.0,Neutral,0.6103875637054443,Positive
+Para Bea ❤️,0.0,Neutral,0.0,Neutral,0.305411547422409,Neutral
+Dale,0.0,Neutral,0.0,Neutral,0.3464220762252807,Positive
+JULIAN,0.0,Neutral,0.0,Neutral,0.2756750881671905,Neutral
+Me fascina este tema. Como siempre Maluma  te quedo brutal,-0.25,Negative,-0.875,Negative,0.441562294960022,Positive
+Yo te llamaba porq borracha  te decía que te amaba y vos no dabas bola y ahora fuiste,0.3612,Positive,0.0999999999999999,Neutral,-0.5649257302284241,Negative
+Se parece a Ariana grande 😂😂😂🙊🎤,0.8807,Positive,0.0,Neutral,0.370856910943985,Positive
+SCOTT DISICK there💘💘💘,0.9274,Positive,0.0,Neutral,0.3112745285034179,Neutral
+😍😍😍😍😘😘😘💖💞💔💖💖💞💔❣💘💘💟💝💝💕,0.9978,Positive,0.0,Neutral,0.3085779249668121,Neutral
+"Haaaa como la extraño. 😔💔
+Le prometí dejar de tomar pero ahora que se fue ha imposible  no hacerlo.😔😔💔",0.5134,Positive,-0.6666666666666666,Negative,-0.5831049084663391,Negative
+Será que es para annita? 🤔,0.0,Neutral,0.0,Neutral,-0.3257837891578674,Negative
+Bryssa lo siento es que saber que me cuesta decir lo siento ya sobrio no me da,-0.25,Negative,-0.2979166666666666,Negative,-0.2981939613819122,Negative
+Bryssa lo siento es que saber que me cuesta decir lo siento ya sobrio no me da,-0.25,Negative,-0.2979166666666666,Negative,-0.2981939613819122,Negative
+Sobrio maluma...,0.34,Positive,0.1,Neutral,-0.4873735308647156,Negative
+Bhh,0.0,Neutral,0.0,Neutral,-0.320444107055664,Negative
+Maluma me encanta tu voz todas tus canciones 🥰,0.91,Positive,0.5,Positive,0.7688515186309814,Positive
+Musica linda,0.0,Neutral,0.0,Neutral,-0.3211514055728912,Negative
+😭😭😭😭😍❤️❤️❤️😡,-0.8555,Negative,0.0,Neutral,0.3085779249668121,Neutral
+el temazo de maluma del 2021! ojalá llegue a 300 millones acá en youtube 💪🏼 ya en spotify se va a acercando a los 400 millones de streams 🔥🔥🔥,0.2714,Positive,1.0,Positive,-0.7184577584266663,Negative
+"Super me encantó, le doy todos mis like por más regueton así hermosa letra.la escuché hoy en una caminata ☀️☀️☀️",0.9033,Positive,0.5125,Positive,0.9075496792793274,Positive
+"Se dan cuenta que cuando Maluma hace canciones así con ese timbre de voz que se pueden cantar a todo pulmón son las que más sobresalen, como cuando saco el perdedor, el préstamo o Hawai. INCREÍBLE MALUMA. 🔝🙏🔥",-0.3524,Negative,0.3,Neutral,0.5040804147720337,Positive
+❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Está chido la canción 🤩😘😸😻😸,0.9524,Positive,0.35,Positive,-0.4369187355041504,Negative
+A mí me gusta esa . Música,0.3612,Positive,0.0,Neutral,0.4316009283065796,Positive
+"Essa música ficou perfeita, já tô a viciada nela 😍😍😍",0.9136,Positive,0.3,Neutral,0.357128381729126,Positive
+Vale verga,0.0,Neutral,0.0,Neutral,0.2892701625823974,Neutral
+soy el unico q piensa q MALUMA TIENE UNA BINITA VOZ,0.6841,Positive,0.425,Positive,-0.4047007858753204,Negative
+👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Nadie va hablar de lo hermosa que es la modelo principal,0.4019,Positive,0.5083333333333333,Positive,0.4999679327011108,Positive
+Maluma demostrando que no hace falta hablar de cul*s ni de drogas para pegar un tema...,0.0,Neutral,0.0,Neutral,-0.515919029712677,Negative
+hermano síguele dando a tu pasión y felicidades 🌟🇲🇽♥️,0.926,Positive,0.0,Neutral,0.6993512511253357,Positive
+"el chico de ojos azules , es el ex de las kardasian?",0.0,Neutral,0.0,Neutral,0.2777270376682281,Neutral
+Like this song❤️,0.3612,Positive,0.0,Neutral,0.6348249912261963,Positive
+Dioj mío,0.0,Neutral,0.0,Neutral,0.3359025716781616,Positive
+With     milk,0.0,Neutral,0.0,Neutral,0.298863410949707,Neutral
+You      welcome,0.4588,Positive,0.8,Positive,0.5867025256156921,Positive
+Manuuma bueno el caso de. Lucía. Torres de Cotillas de Lucía tambien hola 🥰🥰🥰,0.9753,Positive,0.7,Positive,0.3694230616092682,Positive
+The goat 🐐 🤷🔥🥶,-0.34,Negative,0.0,Neutral,0.2946299016475677,Neutral
+Cuando salió esta rola 😭😭 la llore por mi ex me metí todo lo que existía fumé más de lo que e fumado en mi vida y al día del hoy ya os supere,-0.8316,Negative,0.5,Positive,-0.4534409642219543,Negative
+Esa música megusta porque mi amor de mida Mela dedico❤️❤️❤️,0.7717,Positive,0.5,Positive,0.3671197295188904,Positive
+Sin ánimo de romantizar el alcoholismo que es una enfermedad horrorosa es lindo ver el video de Maluma y a él.,-0.4646,Negative,-0.2,Negative,-0.5911167860031128,Negative
+Beyby,0.0,Neutral,0.0,Neutral,0.2633241415023803,Neutral
+Yeeee te quiero mi amor,0.8555,Positive,0.5,Positive,0.4849340319633484,Positive
+Todos maluma  alav    ne..... jajjaa,0.0,Neutral,0.0,Neutral,-0.6843038201332092,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+April 2022 checking in ❤️❤️❤️ I really love Scott in this video 🥰,0.9152,Positive,0.5,Positive,0.6589139103889465,Positive
+Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
+"Maluma, tu concierto en Bucharest fue pura energia! 🔥🔥🔥 Pure fire!!! 🔥🔥 Maluma baby! 😎",-0.858,Negative,0.3955078125,Positive,0.7587448954582214,Positive
+Gracias por ayudarme a ayuntar a un perro que estaba al lado de mi casa,0.7506,Positive,0.0,Neutral,0.5208197832107544,Positive
+❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
+😔,0.0772,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Bfjfjfurururudjdurururufufyfyfyfyfufuryf,0.0,Neutral,0.0,Neutral,-0.2907974123954773,Negative
+Voy igualmente para mi mejor amigo de la semana que yo 21anos 🌻🌻😍🌻🌻,0.886,Positive,0.55,Positive,0.7283611297607422,Positive
+Gracias Bien y tu me cortaron que no me faltt a la familia de tu vida que me gusta que como te,0.8228,Positive,0.2,Neutral,0.4195963144302368,Positive
+Seuoccsh0🖤💜💛,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Seuiocsroivc💜💛💚🖤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Buenos temazos,0.4404,Positive,0.7,Positive,0.4276061356067657,Positive
+https://youtu.be/SRt0KAMCI4Q,0.0,Neutral,0.0,Neutral,0.2339759618043899,Neutral
+Muy buena canción 😀,0.7146,Positive,0.91,Positive,0.6907127499580383,Positive
+Yo depues de que mi mente se recuerda de buena música.,0.4404,Positive,0.7,Positive,0.4876501262187958,Positive
+te amo  k,0.6369,Positive,0.5,Positive,0.3979893326759338,Positive
+Mi amor estoy tan triste por nosotros algún día te mostraré este mensaje amor de mi vida,0.6607,Positive,0.1666666666666666,Neutral,0.7277097105979919,Positive
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+me encanta 💖,0.891,Positive,0.5,Positive,0.8068308234214783,Positive
+Me encanta cómo actúa.... 🤣,0.8126,Positive,0.5,Positive,0.801424503326416,Positive
+Scott is that you?,0.0,Neutral,0.0,Neutral,0.2343097627162933,Neutral
+Teamomaluma,0.0,Neutral,0.0,Neutral,0.2888956665992737,Neutral
+Me encanta Maluma. Canta con mucho sentimiento. Arriba papi Juancho.,0.6908,Positive,0.5,Positive,0.752472460269928,Positive
+"En el minuto 1:57 por que los de la mesa miran para arriba donde antes estaba parado maluma🤔
+Pd: que buena canción",0.4404,Positive,0.7,Positive,-0.2750827074050903,Negative
+Me conmovió profundamente está canción dejen su like si también los comovio,0.6249,Positive,0.3,Neutral,0.617287278175354,Positive
+"Lo unico que hacia era verla en linea, hasta que me elimino",0.0,Neutral,0.0,Neutral,-0.3184617757797241,Negative
+Indonesian ♥️ this,0.6369,Positive,0.0,Neutral,0.3478091061115265,Positive
+0:50,0.0,Neutral,0.0,Neutral,-0.4160228371620178,Negative
+Cuídate mucho te canción favorito adiós,0.7351,Positive,0.5,Positive,0.6408400535583496,Positive
+🤩🤩🤩🤩🤩🤩🤩😍😍😍😍😍😍😍😍😍😍🥰🥰🥰🥰🥰🥰😘😘😘😘😘,0.998,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Te gustó mi canción me gustas de canción mucho mucho mucho mucho cómo te llama Maluma josep del hombre,0.4215,Positive,0.6,Positive,0.3522885143756866,Positive
+pésimo actor pero la música esta bien jaja,0.6757,Positive,0.0666666666666666,Neutral,-0.3346811234951019,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Itutil maluma jajjaja,0.0,Neutral,0.0,Neutral,-0.4179554283618927,Negative
+Y ustedes lo quieren jajajjaja,0.4767,Positive,0.8,Positive,0.5085039138793945,Positive
+Porque el se burla de las fan,0.5106,Positive,0.3,Neutral,-0.4483754932880401,Negative
+Ami no me gusta maluma,-0.2755,Negative,0.0,Neutral,-0.4594435691833496,Negative
+"Pero es ovio  que me duela que me tengas odio, a ultima ora no Fui tan mal novio 😔",-0.7162,Negative,-0.3,Negative,0.3832942843437195,Positive
+8,0.0,Neutral,0.0,Neutral,0.3862052261829376,Positive
+Mi novo maluma uffffff sobrio,0.0,Neutral,0.1181818181818181,Neutral,-0.3917763233184814,Negative
+Hlamaluma,0.0,Neutral,0.0,Neutral,-0.2491281479597091,Negative
+Yo viendo apenas q el ex esposo de la kardashian sale Enel video,0.0,Neutral,0.0,Neutral,-0.5525302290916443,Negative
+"Muy bien vídeo, mira también este https://youtu.be/FSNtwDzm1QA",0.4927,Positive,0.91,Positive,0.5969744920730591,Positive
+Yl,0.0,Neutral,0.0,Neutral,0.2338718771934509,Neutral
+"Ti
+OK
+Andrés 👍
+🆗",0.5904,Positive,0.5,Positive,0.3633123636245727,Positive
+"Andrés 👍
+Hola soy",0.0,Neutral,0.0,Neutral,0.4066689610481262,Positive
+🔥💯👻😭🔥,-0.8481,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Ahora para así  sobrio  todos los dias,0.0,Neutral,0.1,Neutral,0.5389434695243835,Positive
+❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Linda letra,0.5994,Positive,0.85,Positive,-0.4493394196033478,Negative
+Amo-te 😍😍😍😂,0.8979,Positive,0.0,Neutral,0.4138849079608917,Positive
+Que chuli canción,0.0,Neutral,0.0,Neutral,0.2561187446117401,Neutral
+Cmbm,0.0,Neutral,0.0,Neutral,0.2749139666557312,Neutral
+"En esta canción si pude entender lo que Maluma dice en la canción. Pero en otras canciones de la actualidad, tengo que utilizar subtitulos. ¡A pesar de que mi primer idioma es el español! 😂",0.63,Positive,0.0416666666666666,Neutral,0.3580816090106964,Positive
+COMO ROMPE!,0.0,Neutral,0.0,Neutral,-0.6586888432502747,Negative
+Snsjs,0.0,Neutral,0.0,Neutral,0.2781544625759125,Neutral
+Paraqueesta deoaseo Lili debo alejarme estoy pensado empresa y alacbtarillado y loolvido a él no quiero más necesidad de Nicolás elno vaestar,0.2681,Positive,0.0,Neutral,-0.7535215020179749,Negative
+Vevc,0.0,Neutral,0.0,Neutral,0.2461716383695602,Neutral
+Se necesita lenguaje explicito para hacer buena musica?,0.4404,Positive,0.7,Positive,0.3299766778945923,Neutral
+👌💃,0.7297,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Mirtha Leiva Grande Maluma genio Total 💓💕💓💝,0.9779,Positive,0.4,Positive,-0.6929671764373779,Negative
+"Mi madre yo no sabia que era maluma, ta lindisimo, el tema",0.7177,Positive,0.85,Positive,0.2448961436748504,Neutral
+Si aún me sigue amando....,0.6369,Positive,0.5,Positive,0.367207407951355,Positive
+Le copio el Corte del Coscu.😅,0.1027,Positive,0.0,Neutral,0.2890294194221496,Neutral
+No soy fan de Maluma pero esta rola y la grupo firme son la mera madre buena Maluma cuando quieres ases cosas buenas con la música.,0.8257,Positive,0.175,Neutral,-0.3082984685897827,Negative
+"no me gustaba la musica de maluma , pero este tema me pago fuerte <3",0.5098,Positive,0.4,Positive,0.90707266330719,Positive
+yo te extraño. 😍😍😍,0.8126,Positive,0.0,Neutral,-0.397170752286911,Negative
+Pa pedir perdon tengo que 🤑😝😝🤐🤔🤔🤔😒😪😪😪😪🤧🤧🤢🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮😵😵😵😵😨😨😨😨🥺🥺🥺🥺🥺😗😘😊😇😁😁😁😁😁😁😁🤣🤣🤣🤣🤣😂😂😂😂😂😂🤣🤣🤣🤣🤣🤣🤣te amo lisbeth 😇😉😀😀😀😀😀,0.985,Positive,0.0,Neutral,-0.3185536861419678,Negative
+Quisiera conocerte soy tu fan,0.5859,Positive,0.0,Neutral,0.635876476764679,Positive
+Buen temazo mi amigo,0.7269,Positive,0.7,Positive,0.4789606034755707,Positive
+"TENGO LA NECESIDAD DE SABER COMO TE VA Y SI AUN ME SIGUE AMANDO:')!!!🥲💔
+YO TE QUERIA PA MATRIMONIO.👩‍❤‍👨
+LPM ME LLEGA ESTA CANCIÓN HASTA EL ALMA 😮‍💨...J.T🥺💜",0.9203,Positive,0.9765625,Positive,0.6100738644599915,Positive
+🌹✨,0.3182,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Holi esa canción es la mejor que e escuchado 🥺🖤💞 🇨🇴,0.9287,Positive,1.0,Positive,0.8279656171798706,Positive
+Este hombre es súper 👍,0.5994,Positive,0.3333333333333333,Positive,0.8491620421409607,Positive
+🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Alguien más se dio cuenta que Lord Disick sale en el video 🤭😂,0.7269,Positive,0.0,Neutral,-0.2896447479724884,Negative
+Envés de reportarme q comer me reporto a oír,0.0,Neutral,0.0,Neutral,-0.4060522019863128,Negative
+Felicidades Maluma eres un gran ejemplo de la música urbana yo creo que pusiste lo mejor de ti para hacer las demás canciones y ps yo de verdad te admiro mucho y me gustaría algún día ser una cantante con mucha fama como tú  eres mi ídolo y la verdad me encantan tus canciones felicidades Hermosaa canción que Dios te bendiga,0.9906,Positive,0.484375,Positive,0.8568359613418579,Positive
+La parte finale😭😭😍😍❤️❤️❤️❤️❤️,-0.0516,Negative,0.0,Neutral,0.2660369873046875,Neutral
+❤️❤️❤️❤️❤️🎊🎊🎊🎊❤️❤️❤️🥂🥂🥂🥂🥂❤️❤️❤️😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Love from nepal❤️🇳🇵,0.6369,Positive,0.5,Positive,0.614985466003418,Positive
+Are you Alive? I need you. 👑🤫💙,0.7783,Positive,0.1,Neutral,0.5979456901550293,Positive
+Como va todo con tu músicas 🥰🥰,0.9393,Positive,0.0,Neutral,0.6980414986610413,Positive
+Como va todo con tu músicas,0.0,Neutral,0.0,Neutral,0.6823898553848267,Positive
+Maluma es el mejor ❤️❤️❤️❤️❤️👑👑👑👑👑👑,0.6369,Positive,1.0,Positive,0.7199100852012634,Positive
+Me recuerda a mi amiga  de  su novio  que le rompio el corazon😔😔💔💔💔💔,0.9118,Positive,0.0,Neutral,0.3367843329906463,Positive
+Pi ede,0.4576,Positive,0.5,Positive,0.2872824668884277,Neutral
+"es una verdad
+👌👌👌😎",0.9709,Positive,0.0,Neutral,0.582841157913208,Positive
+Estoy acabado laesa necesidad debastidas y Hugo quiere bailar debe cambiar para bailar conmigo debe cambiar y así cuando yo trabajé bailo con el eso medijo Lili trabajo y bailo si nooooo,0.4019,Positive,0.2,Neutral,-0.5036360025405884,Negative
+Ya estoy entendiendo que no era para mí Lili solución gracias libro mágico,0.6369,Positive,0.35,Positive,-0.3708531260490417,Negative
+Ya lo estoy superando hoy nomedesepere ni llore por elm,0.3724,Positive,0.0,Neutral,-0.4976276457309723,Negative
+Mejusta,0.0,Neutral,0.0,Neutral,0.2690102756023407,Neutral
+Ya que sobrio no me daaaa....,0.4168,Positive,0.1,Neutral,-0.410167783498764,Negative
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+❤❤❤❤❤❤❤,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
+😔😔😔😔😔😔😭😭😭😭😭,-0.9136,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Andrés 👍,0.0,Neutral,0.0,Neutral,0.340793251991272,Positive
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+Tengo la necesidad de saber cómo te va y si aún me sigues amando 😳,0.6369,Positive,0.5,Positive,0.3016244769096374,Neutral
+la chica es igual a la hermana de maribel de la peli encantados,0.3818,Positive,0.0,Neutral,0.6353270411491394,Positive
+escuchar este tema hasta el pingo y con el corazón roto 🥃🥺💔,0.4939,Positive,-0.4,Negative,-0.5391769409179688,Negative
+"Mi madre! Que tema ,bien logrado de efectos, locaciones y la Matrix , que haces de borracho , está buenísimo , besos desde República Dominicana 🇩🇴😘😘",0.9184,Positive,0.15,Neutral,0.6228076219558716,Positive
+Masododfo masodofogo masodofo masidifi  los  del  toyoma. Maloñopo masodof masidifi nasofogo mwdofihhi madofigoho madofogo nasofogo naskdiffovi yomaloñopo masodofogo madofo masid,0.0,Neutral,0.0,Neutral,-0.5751178860664368,Negative
+"Primera vez que veo el video de esta canción, y quedé wtf con la aparición de Scott Disick!! Maluca llegando a los kardashian",-0.658,Negative,-0.265625,Negative,-0.6025832891464233,Negative
+"Conciertazo ayer en Madrid!!! Gracias por tu recuerdo a los q no pudieron estar x el covid, x poner en aquella esquina tus discos y compartir con tu público y x hacernos bailar y disfrutar tanto contigo👌❤",0.9745,Positive,0.5333333333333333,Positive,0.7430594563484192,Positive
+omgg esaaa es mi canciónnnnn !!!!! mi  myui,0.0,Neutral,0.0,Neutral,0.2903043031692505,Neutral
+"con todo respeto , Ed Sherman debería haber echo la cancíon con maluma  , J Balvín no",0.4767,Positive,-0.125,Negative,-0.522006094455719,Negative
+😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+Scott disick y maluma... Se me juntó el ganado.,0.0,Neutral,0.0,Neutral,-0.494292140007019,Negative
+"You are my sunshine, my only ' only want you, Rita Ora ' sunshine, when skies are grey, your my only friend, care or concerns too my boo i am head to toe Maluma's my 🥑 Avocado Complete Look today is for you. Kareoke at the Rehab.....for you my, boo",0.9231,Positive,0.01,Neutral,0.5997776389122009,Positive
+cuando vi sonreír 😃 a mi hermoso baby con esta canción sus ojitos iluminados de alegría como.un verdadero fan que ni 2 años tiene mi hermoso sobrinito said hizo que lo escuchará y tener otro comentario respecto a Maluma bravo x él vaya q buena voz y ritmo tiene con letras como esta,0.981,Positive,0.4703125,Positive,0.7365802526473999,Positive
+más bello imposible ❤️💋😍😍 katy ✍️💋😍 con el ❤️✌️🇻🇪👉👑👁️👁️🤩,0.9571,Positive,0.2277777777777778,Neutral,-0.3934891819953918,Negative
+🎵,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Q wai la canción teamo maluma esta chistoso como  el actuación me   hizo reír  pero increíble merece millones de like,0.8608,Positive,0.4875,Positive,0.3692340552806854,Positive
+Toy pd,0.0,Neutral,0.0,Neutral,0.2810552716255188,Neutral
+hawaiiiiiii,0.0,Neutral,0.0,Neutral,0.2508697509765625,Neutral
+Este hombre me hace suspirar de lo bello que es,0.6124,Positive,0.85,Positive,0.5717348456382751,Positive
+❤️🎶,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"Suelen suceder estos momentos en cierta circunstancia de nuestra vida, excelente tema!😉🥃",0.7263,Positive,0.3214285714285714,Neutral,0.5377030968666077,Positive
+teamomuho🥺🥺🥺🥺💔💔😭😩💘,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
+"A TODAS LAS PERSONAS QUE ESTEN LEYENDO ESTE COMENTARIO LES DESEO LAS MEJORES DE LAS VIBRAS Y QUE DIOS TODO PODEROSO LES CONCEDA TODOS SUS DESEOS, SALUD PARA USTEDES Y TODA SU FAMILIA EN ESTOS TIEMPOS DIFICLES.",0.8625,Positive,0.25,Neutral,0.7872947454452515,Positive
+Oriblep,0.0,Neutral,0.0,Neutral,-0.3779936134815216,Negative
+yo la estoy escuchando😄😄,0.0,Neutral,0.0,Neutral,0.3555482029914856,Positive
+"A donde esta mi cielo lindo,  estoy a oscuras 😵‍💫😵‍💫😵‍💫😵‍💫",-0.743,Negative,0.35,Positive,0.3135361969470978,Neutral
+El del vídeoclip es Scott Disick??? Jajajajajaj eso no me lo esperaba,0.0,Neutral,0.2,Neutral,-0.3809307813644409,Negative
+Me encanta la musica,0.6369,Positive,0.5,Positive,0.7338230609893799,Positive
+Ya que sobrio no me da por eso te estoy llamando tengo la necesidad de saber como te va y si aún me sigue amando 🎶🎶🎶🎶,0.5719,Positive,-0.05,Negative,0.2961214184761047,Neutral
+Me encanta esa canción💞🖤,0.9287,Positive,0.5,Positive,0.7794950604438782,Positive
+Maluma el mejor,0.6369,Positive,1.0,Positive,0.6683209538459778,Positive
+"desdse que lo dejó su ex, canta mejor",0.4404,Positive,0.25,Neutral,0.3492494821548462,Positive
+Temon🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
+❤💜💖🇦🇷🇦🇷🇦🇷🙋,0.93,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Quien mas ama estas canciones tan bonitas?🔝🔥,0.8286,Positive,0.85,Positive,0.6433500051498413,Positive
+Amo a este hombre y sus canciones 😍 💕,0.91,Positive,0.5,Positive,0.7396436929702759,Positive
+💛💥🍷🙃🥳💯💃,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Sou fã favorita,0.6486,Positive,0.5,Positive,0.5274540185928345,Positive
+Un espacio aqui para los panas que ya no tienen a su culito 😔,-0.6597,Negative,0.0,Neutral,0.3541395664215088,Positive
+Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
+Me encantó esta canción me alludo a estar bien ✌️✌️,0.7184,Positive,0.7,Positive,0.6089894771575928,Positive
+Eres y serás el mejor siempre!,0.6696,Positive,1.0,Positive,0.863554835319519,Positive
+Un. Millón de likes para que vivan las tías las suegras y las yernas,0.4215,Positive,0.1363636363636363,Neutral,-0.3743340969085693,Negative
+"Andrés 👍
+Hola",0.0,Neutral,0.0,Neutral,0.2799650728702545,Neutral
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+💎💎💎💎💎,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"No entiendo cómo a alguien le puede gustar esta PM.
+Hay gente para todo.",0.3612,Positive,0.0,Neutral,0.375560313463211,Positive
+MALUMA está aqui em Portugal!!!!!!!!!!! Siuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!,0.0,Neutral,0.0,Neutral,-0.8586306571960449,Negative
+mira aqui PELO BLANCO https://www.youtube.com/watch?v=eolIzIIDIXU,0.0,Neutral,0.0,Neutral,0.2827717065811157,Neutral
+"hos invito a conocer  el mundo original de los espiritus donde hay un espiritu que dice maluma me gusta 
+https://youtu.be/iGk4beny3Wg",0.7269,Positive,0.375,Positive,0.3719761669635772,Positive
+:3,0.5106,Positive,0.5,Positive,0.3112600445747375,Neutral
+Un abusador tremendo tema y de paso sale Quincy y Scott disick,-0.5984,Negative,0.3333333333333333,Positive,-0.31394824385643,Negative
+Lo amo,0.6369,Positive,0.5,Positive,0.5139033198356628,Positive
+manco como yair 17  xd god la music,0.8126,Positive,0.0,Neutral,0.3278185427188873,Neutral
+K grande,0.0,Neutral,0.0,Neutral,0.2868130505084991,Neutral
+Buaaaa temazoo baby maluma 🤘🏻🕺🏻,0.0,Neutral,0.0,Neutral,-0.4771636724472046,Negative
+"jjajjjajajjajajjajajajaajja  me voy  a tomar una botella, para ver si en verdad , se olvida  uno de alguien jajjajjaajaj katy😉😉😉😉",0.0,Neutral,0.2,Neutral,-0.4963403642177582,Negative
+Snapxhohdbbxoshcm,0.0,Neutral,0.0,Neutral,0.2797457277774811,Neutral
+Teamo😍😘😇,0.8316,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Teamo,0.0,Neutral,0.0,Neutral,0.2842471003532409,Neutral
+Lo amoooooo jaja haciendo de borrachooo,0.7003,Positive,0.0666666666666666,Neutral,-0.4416767358779907,Negative
+"Aquí sin poderle decir todas las cosas que me he guardado , red flag 🚩🚩🚩🚩🚩",0.0,Neutral,0.25,Neutral,0.5837703943252563,Positive
+Tocar fieta eyo no botan aqui biden,0.34,Positive,0.0,Neutral,-0.5644127130508423,Negative
+Bomasododfibmasi masodofo los masodofo msfotp,0.0,Neutral,0.0,Neutral,-0.3896497189998626,Negative
+Ese era Scott Disick?,0.0,Neutral,0.0,Neutral,-0.3719750940799713,Negative
+Tengo la necesida!! Pa poder decir las cosas que he guardado,0.0,Neutral,0.5,Positive,0.403857409954071,Positive
+🇭🇹🇭🇹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+quiero saber si ríes o lloras 😔,0.2732,Positive,0.3,Neutral,0.2495645433664322,Neutral
+Mmasido masiddicovo,0.0,Neutral,0.0,Neutral,-0.3275851607322693,Negative
+TE AMO,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
+"Ya no le marquen :') todo pasa, quieranse también ustedes",0.8176,Positive,0.5,Positive,-0.3711513876914978,Negative
+This is one of  Maluma's favorites songs. It sounds lovely and it's always updated! And the man gives us good vibes!,0.8774,Positive,0.75,Positive,0.8464723825454712,Positive
+Amo esta canción no la paro de escuchar ♥️♥️♥️♥️,0.9747,Positive,0.5,Positive,0.6884415149688721,Positive
+Lo único rescatable es la letra q gue robada y nada mas,-0.4939,Negative,0.0,Neutral,-0.490776389837265,Negative
+Lindo tema... Maluma.. el mejor,0.7906,Positive,0.8,Positive,0.6090849041938782,Positive
+Scott Disick is that you?,0.0,Neutral,0.0,Neutral,0.2219773381948471,Neutral
+MALUMA ~ BABY !! ~,0.0,Neutral,0.0,Neutral,-0.4912488758563995,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+boss,0.0,Neutral,0.0,Neutral,0.44327312707901,Positive
+🤯🤯🤯🤯,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Gracia le ibadexir ti sabes comopongs con rabia decir hasta misa Lili como hago quiero acabar la necesidad de el jugar con coqueto no es justo Nome gusta y no quiero ya Nome gusta demasiado jodon,-0.6912,Negative,-0.0749999999999999,Negative,-0.3349616527557373,Negative
+Tengo rabia Lili me vas decir no es fácil pero cuando espere queentres a trabajar caí otra vez como hago costeño me dijo no es fácil santadereana loodio los odoos no son buenos cisndoestsmos pensado en paz vaya como mucha..... Jaaa Lili,-0.7287,Negative,-0.3138888888888889,Negative,-0.4325814247131347,Negative
+"Nos vemos en el próximo mundial maula, te quiero",0.6369,Positive,0.25,Neutral,0.5153079032897949,Positive
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+LO MAXIMO.,0.0,Neutral,0.0,Neutral,0.7145225405693054,Positive
+Yo apenas notando que sale Scott Disick en el video 😂😂😂( el ex de kourtney Kardashian),0.8271,Positive,0.05,Neutral,0.3062594830989837,Neutral
+Essa música e bem legal e linda vey gostei mesmo meche com o coração ❤️🇧🇷,0.9331,Positive,0.6349999999999999,Positive,0.5481266379356384,Positive
+no se si dedicarsela,0.0,Neutral,0.0,Neutral,-0.4600518345832824,Negative
+Bellissima canzone ❤️❤️❤️,0.5994,Positive,0.85,Positive,0.8458065390586853,Positive
+maluma linda me encanto,0.802,Positive,0.5,Positive,0.6378123164176941,Positive
+NO ME DA.,-0.296,Negative,0.0,Neutral,-0.5172926783561707,Negative
+Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
+Así Maluma sigue así con esas canciones románticas sin vulgaridad eso está perfecto,0.3539,Positive,0.5,Positive,0.4740305542945862,Positive
+Lo.q más me gusta del regutetton es cuando apagan esa MIERDA,-0.4278,Negative,0.15,Neutral,0.2779091298580169,Neutral
+Mero Gay,0.0,Neutral,-0.0416666666666666,Negative,0.3091625571250915,Neutral
+Mero Cacorro,0.0,Neutral,0.0,Neutral,-0.4418885409832001,Negative
+Jefa tomo por uste elva,0.0,Neutral,0.0,Neutral,0.3209835886955261,Neutral
+"Admiro su trabajo,mi sueño es vivir de la música como ustedes trabajo de 7 AM a 8 PM y invierto mi dinero a la música y algun dia grabar con un artista grande,he trabajado pase lo que pase para rograrlo y confío en Dios que tarde o temprano mi sueño sera realidad,mientras tanto te felicito y yo seguire luchado",0.9662,Positive,0.4287878787878788,Positive,0.7815487384796143,Positive
+mUCHO aMO R& SUCCESS TO yOU y TU CARRERA,0.8851,Positive,0.4,Positive,0.6822201609611511,Positive
+2:48 no se les hace como si estuviera sonando de fondo la intro de clash?,-0.0798,Negative,0.4,Positive,-0.4757765233516693,Negative
+Sáquenme una duda la rubia q fuma el habano q maluma le quita es Niki minaj?,-0.3612,Negative,0.0,Neutral,-0.544489324092865,Negative
+"Ainnns señora de 57....aun alguna noche tomo y recuerdo!ainnnnsssss
+Jajaja Jajaja Jajaja Jajaja Jajaja Jajaja Jajaja Jajaja",0.9836,Positive,0.1999999999999999,Neutral,0.3653537034988403,Positive
+curao,0.0,Neutral,0.0,Neutral,0.282958447933197,Neutral
+ES UN PAPI.,0.0,Neutral,0.0,Neutral,0.3024531900882721,Neutral
+YO BT B  D     E,0.0,Neutral,0.0,Neutral,0.3112147748470306,Neutral
+😍😍😍😍😍😍😍❤❤❤❤❤❤❤,0.9944,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Marzo 2022 🇲🇽🇲🇽,0.0,Neutral,0.0,Neutral,-0.3596667647361755,Negative
+Brutal tío pruuuu,-0.6249,Negative,-0.875,Negative,-0.3327743411064148,Negative
+"One of the best videos I've seen regarding the subject, excellent explanation and very relevant information, it was just what I was looking for, thank you, I hope you continue uploading content, you have my support....",0.9432,Positive,0.5883333333333334,Positive,0.9009867310523988,Positive
+Maluma está no seu melhor agora! Maluma continua a ser um ansiolítico nas vidas dos fãs!,0.6988,Positive,1.0,Positive,0.5704060196876526,Positive
+Churro,0.0,Neutral,0.0,Neutral,0.2395737320184707,Neutral
+szerelmesz vegyok beléd  denem tudom elmon danineked mert nem is mersz sagy nos,0.743,Positive,0.5,Positive,0.3168339431285858,Neutral
+"No me gusta el reggaeton y esto me gustó, el tema no se sale de mi cabeza 👏👏",0.1754,Positive,0.2166666666666666,Neutral,-0.5189321041107178,Negative
+Lo que veo que con el rey tiene q cantar y xq no eee Uruguay nomaa,0.0,Neutral,0.0,Neutral,-0.3863312304019928,Negative
+2 ms,0.0,Neutral,0.0,Neutral,-0.3476519584655761,Negative
+temasooooooooooooooooo !!!!!!!!!!!🥰🥰🥰,0.9752,Positive,0.0,Neutral,0.3219808936119079,Neutral
+Costeño un litro de aguardiente en la playa ya ví amanecer en santa ser eraeojiso ese diarexargue y pude dejar todo ese día lloraron todos se fue y regrese que alegría mujer fantasma si escucharé esa minecesidad con ese pelado,-0.0772,Negative,0.325,Neutral,-0.5664401650428772,Negative
+"Esta canción me gusta muchísimo y a la vez me pone muy triste, no es mi historia, pero la primera vez que la oí conocí a alguien a quien le tengo mucho cariño y que ya no esta en mi vida. Grandote con esta canción me acuerdo mucho de ti y del día que la oí contigo y aunque ya no hablemos,  nunca te voy a olvidar.😔",0.8972,Positive,0.1933333333333333,Neutral,0.5615676045417786,Positive
+https://youtu.be/VGnBdSB4GVk,0.0,Neutral,0.0,Neutral,0.2188957035541534,Neutral
+Que as co,0.0,Neutral,0.0,Neutral,0.2496020048856735,Neutral
+Ya no me sigue amando sino a otro,-0.3816,Negative,0.0,Neutral,-0.3454761803150177,Negative
+Vamos maluma,0.0,Neutral,0.0,Neutral,-0.6883098483085632,Negative
+buena para tomar y dedicar,0.4404,Positive,0.7,Positive,0.5111810564994812,Positive
+No me canso de escucharla ❤,0.7654,Positive,-0.4,Negative,0.3394367694854736,Positive
+"Lo divice una vez en Milán el iba saliendo del hotel y también salían los modelos de la Dolce Gabanna,eran todos ellos como una aparición. Máluma bello,bello.",0.8834,Positive,0.85,Positive,-0.2597581148147583,Negative
+Mira weones Maluma se está burlando de vosotros los fans y se está copiando de bts,0.5106,Positive,0.3,Neutral,-0.7378745079040527,Negative
+IS THIS SCOTT?,0.0,Neutral,0.0,Neutral,-0.2689919769763946,Negative
+Corazón de melón te extraño 😢... Muero x oír tú voz nuevamente... Aveces tomo pero quiero llamarte pero digo nooo... PD: Te extraño 🥲😢🥲😢,-0.8591,Negative,0.0,Neutral,-0.3909273147583008,Negative
+TE AMO MALUMA EL CANTANTE MÁS INFRAVALORADO DE LA HISTORIA,0.6369,Positive,0.5,Positive,-0.6921852231025696,Negative
+Buenisima cancionnnnn,0.6249,Positive,0.8,Positive,0.5148675441741943,Positive
+Greetings from Jakarta,0.4215,Positive,0.0,Neutral,0.4065849184989929,Positive
+"Te amaré siempre ""y""..",0.6369,Positive,0.5,Positive,0.5402191281318665,Positive
+👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"Mira weon, si vuelves a copiarte y burlarte de bts mis patrones , se lo digo a las Armys y flipas y a tus fans",0.4404,Positive,0.3,Neutral,-0.309128850698471,Negative
+👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Esta bien buenizima tu temazo con muchisimo exito,0.9053,Positive,0.6699999999999999,Positive,0.4752127230167389,Positive
+"La verdad a mi no me gusta el regetown, pero esta letra es muy buena",0.658,Positive,0.91,Positive,0.3865353167057037,Positive
+Anitta - Envolver💜,0.765,Positive,0.0,Neutral,0.2622823417186737,Neutral
+Temasooo como me gusta 2022 me la dedicaron con mas razon me gusta jj,0.8505,Positive,0.5,Positive,0.4702992439270019,Positive
+bonita cancion maluma,0.5994,Positive,0.85,Positive,-0.3324670493602752,Negative
+"Maluma nuestro RICKY MARTIN colombiano ,hermoso y talentoso.Un artista orgullosamente COLOMBIANO.",0.8957,Positive,0.7833333333333332,Positive,0.5390903949737549,Positive
+Ame e,0.6369,Positive,0.5,Positive,0.3170529305934906,Neutral
+Cool 👍👍🤩,0.3182,Positive,0.35,Positive,0.5561863780021667,Positive
+Chimba,0.0,Neutral,0.0,Neutral,0.2487532049417495,Neutral
+Me gusta la musica de maluma,0.3612,Positive,0.0,Neutral,0.4021318852901459,Positive
+A mi encanta youtube pero el bloqueo sale cuando te quieres ir a seguir el chisme en facebook. Ee muii celosa youtube 🤭🎠,0.2169,Positive,0.35,Positive,0.3019761145114898,Neutral
+Hshs,0.0,Neutral,0.0,Neutral,0.3120497167110443,Neutral
+Gaygaygayyyyy,0.0,Neutral,0.0,Neutral,0.2370619624853134,Neutral
+"One of the best videos I've seen regarding the subject, excellent explanation and very relevant information, it was just what I was looking for, thank you, I hope you continue uploading content, you have my support...",0.9432,Positive,0.5883333333333334,Positive,0.9011114835739136,Positive
+https://youtu.be/1DzR0ICeVNA,0.0,Neutral,0.0,Neutral,-0.2557185590267181,Negative
+"Quiero aprovechar, ya que estoy toma'o
+Pa' poder decirte toda' las cosa' que me he guarda'o
+Sé que no son hora' de llamar, pero te vi en línea
+Y solo quería confirmar si aún eras mi niño⚠📵",-0.714,Negative,0.0,Neutral,0.3615438640117645,Positive
+🥺😫😫😫,-0.8271,Negative,0.0,Neutral,0.3085779249668121,Neutral
+No el no me quiere pero necesidad de saber cómo estaella lo trata y locaser irse otra vez quien sabe parado de va cojer Lili déjalo así no va prosperar,-0.8513,Negative,-0.175,Negative,-0.4585806131362915,Negative
+Bueno dentro poco lovoy dejar de llamarlo,-0.0258,Neutral,-0.1875,Negative,0.3619180023670196,Positive
+Yo lo quiero ayudarlo pero si no habla conmigo tocadejarlo eso medijo costeño pido salgaemokeo hay un niño con el conurgenciaatudarlo,-0.4019,Negative,0.0,Neutral,-0.566013514995575,Negative
+Lili termine libro mágico viste no tengo vicios jaaaa libro mágico de ánimo bien todo empleo bucara y mi mm noentiende que no vadar nada un amigo yo deconductor yusted aseadora jaa roxasalie bucara no creo ellis son asi,0.7964,Positive,0.5666666666666667,Positive,0.2392165511846542,Neutral
+Bom demais 💚🇧🇷,0.4404,Positive,0.7,Positive,0.3810741901397705,Positive
+I have come down with pneumonia and it will take every once of energy i have fight this. I will not be contacting you again. Please cease and desist they Ellen etc to involve in my life. I do not want any contact with you. No Peacock. I wish you the best of luck. I will have to be back in isolation. Lynn,0.7634,Positive,0.2814814814814815,Neutral,-0.6299348473548889,Negative
+PEnse que se llamaba sobrino XD,0.6739,Positive,0.0,Neutral,-0.2867525517940521,Negative
+"Genio, me cambias el humor, bailando tus temas",0.0,Neutral,0.0,Neutral,0.725559651851654,Positive
+sabrio,0.0,Neutral,0.0,Neutral,0.259153664112091,Neutral
+Maluma ten cuidado que alguien que está viviendo sus últimos años de carrera te puede poner el pie para buscar pauta...,0.1531,Positive,-0.05,Negative,-0.4427835643291473,Negative

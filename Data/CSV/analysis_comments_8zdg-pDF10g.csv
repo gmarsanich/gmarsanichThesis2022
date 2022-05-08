@@ -1,0 +1,675 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+Did so c,0.0,Neutral,0.0,Neutral,0.4822927117347717,Positive
+Got to fdg,0.0,Neutral,0.0,Neutral,0.3055585324764251,Neutral
+La,0.0,Neutral,0.0,Neutral,0.3257579505443573,Neutral
+Ch hhvv,0.0,Neutral,0.0,Neutral,0.2510603964328766,Neutral
+Fish k,0.0,Neutral,0.0,Neutral,0.2589983642101288,Neutral
+DJ hhvv JCC,0.0,Neutral,0.0,Neutral,0.3247045874595642,Neutral
+Given me red,0.0,Neutral,0.0,Neutral,0.3275016546249389,Neutral
+HK kg the,0.0,Neutral,0.0,Neutral,0.2519982159137726,Neutral
+GI Jan MBA e,0.0,Neutral,0.0,Neutral,0.326873630285263,Neutral
+Fit rug,0.3612,Positive,0.4,Positive,0.2920393645763397,Neutral
+HV JB,0.0,Neutral,0.0,Neutral,0.2563813030719757,Neutral
+DJ if d,0.0,Neutral,0.0,Neutral,0.3308258056640625,Positive
+BB it,0.0,Neutral,0.0,Neutral,0.2828252017498016,Neutral
+GI it TD,0.0,Neutral,0.0,Neutral,0.332851231098175,Positive
+DJ KB JCC,0.0,Neutral,0.0,Neutral,0.2639334499835968,Neutral
+Ch by RSS,0.0,Neutral,0.0,Neutral,0.2241194248199463,Neutral
+DJ KB,0.0,Neutral,0.0,Neutral,0.2609527111053467,Neutral
+Ch by r,0.0,Neutral,0.0,Neutral,0.2901560664176941,Neutral
+Ch JBL,0.0,Neutral,0.0,Neutral,0.27003213763237,Neutral
+DJ HD egg,0.0,Neutral,0.0,Neutral,0.3597046136856079,Positive
+Ch Jan KC,0.0,Neutral,0.0,Neutral,0.2546761929988861,Neutral
+Ch hh,0.0,Neutral,0.0,Neutral,0.2373661249876022,Neutral
+Cherry red,0.0,Neutral,0.0,Neutral,0.2939440608024597,Neutral
+Bob if,0.0,Neutral,0.0,Neutral,0.3369494378566742,Positive
+DJ cc TX,0.4995,Positive,0.0,Neutral,0.3030673265457153,Neutral
+Doc if,0.0,Neutral,0.0,Neutral,0.3573527634143829,Positive
+HK and,0.0,Neutral,0.0,Neutral,0.2399042248725891,Neutral
+TJ JD do FS,0.0,Neutral,0.0,Neutral,0.2508388459682464,Neutral
+DJ Jan JCC,0.0,Neutral,0.0,Neutral,0.2737879753112793,Neutral
+Ch NVR,0.0,Neutral,0.0,Neutral,0.2433702051639557,Neutral
+J KB y do,0.0,Neutral,0.0,Neutral,0.2214289754629135,Neutral
+TJ KB,0.0,Neutral,0.0,Neutral,0.2824772894382477,Neutral
+Did as,0.0,Neutral,0.0,Neutral,0.364055335521698,Positive
+Rich HD,0.5574,Positive,0.375,Positive,0.5659480094909668,Positive
+DJ BB SC,0.0,Neutral,0.0,Neutral,0.3083246648311615,Neutral
+DJ h doc,0.0,Neutral,0.0,Neutral,0.3226803839206695,Neutral
+DJ BB HD,0.0,Neutral,0.0,Neutral,0.3780799806118011,Positive
+Gov b,0.0,Neutral,0.0,Neutral,0.2475732862949371,Neutral
+Ch hhvv,0.0,Neutral,0.0,Neutral,0.2510603964328766,Neutral
+Ch HCM b,0.0,Neutral,0.0,Neutral,0.2586659789085388,Neutral
+DJ JB b,0.0,Neutral,0.0,Neutral,0.26997110247612,Neutral
+Yoon hhvv,0.0,Neutral,0.0,Neutral,0.2488045245409011,Neutral
+GI on KB,0.0,Neutral,0.0,Neutral,0.2628571391105652,Neutral
+Dust v,0.0,Neutral,0.0,Neutral,-0.2780657410621643,Negative
+Ch h BBC,0.0,Neutral,0.0,Neutral,0.2531174719333648,Neutral
+Ch try to,0.0,Neutral,0.0,Neutral,-0.2225616425275802,Negative
+Gov NB,0.0,Neutral,0.0,Neutral,0.2566869854927063,Neutral
+Ch hhvv HDD,0.0,Neutral,0.0,Neutral,0.2764182388782501,Neutral
+DJ JCC TX,0.3612,Positive,0.0,Neutral,0.3096235990524292,Neutral
+DJ DJ HDD,0.0,Neutral,0.0,Neutral,0.3263398706912994,Neutral
+DJ BBC TX,0.3612,Positive,0.0,Neutral,0.2839970886707306,Neutral
+GM NV HD,0.0,Neutral,0.0,Neutral,0.4555761814117431,Positive
+BBC JCC,0.0,Neutral,0.0,Neutral,0.2515885829925537,Neutral
+Edu BBC rs,0.0,Neutral,0.0,Neutral,0.2622827291488647,Neutral
+Gov hhvv ed,0.0,Neutral,0.0,Neutral,0.2623523771762848,Neutral
+DJ ugh HD,-0.4215,Negative,0.0,Neutral,0.3575922846794128,Positive
+TJ hhvv,0.0,Neutral,0.0,Neutral,0.2585353851318359,Neutral
+DJ FL,0.0,Neutral,0.0,Neutral,0.279431939125061,Neutral
+FB Ch,0.0,Neutral,0.0,Neutral,0.2449346482753753,Neutral
+TJ hhvv,0.0,Neutral,0.0,Neutral,0.2585353851318359,Neutral
+DJ hhvv b,0.0,Neutral,0.0,Neutral,0.3193312883377075,Neutral
+TJ hhvv,0.0,Neutral,0.0,Neutral,0.2585353851318359,Neutral
+GM hhvv cc,0.0,Neutral,0.0,Neutral,0.3821480870246887,Positive
+GM cc,0.0,Neutral,0.0,Neutral,0.3715195059776306,Positive
+BM hhvv HV,0.0,Neutral,0.0,Neutral,0.2685268223285675,Neutral
+TJ JDdj JCC,0.0,Neutral,0.0,Neutral,0.2833541929721832,Neutral
+Fhfhdhd,0.0,Neutral,0.0,Neutral,0.2331608235836029,Neutral
+Rich HD,0.5574,Positive,0.375,Positive,0.5659480094909668,Positive
+This song is definitely playing on my engagement ❤️❤️❤️,0.7579,Positive,0.0,Neutral,0.5628051161766052,Positive
+Fig hhvv,0.0,Neutral,0.0,Neutral,0.2786256074905395,Neutral
+Blu Ch us,0.0,Neutral,0.0,Neutral,0.2606788575649261,Neutral
+HH DJ HDD,0.0,Neutral,0.0,Neutral,0.3023809492588043,Neutral
+High did,0.0,Neutral,0.16,Neutral,0.3354986011981964,Positive
+She egg,0.0,Neutral,0.0,Neutral,-0.3808349967002868,Negative
+GM to we,0.0,Neutral,0.0,Neutral,0.457144558429718,Positive
+Ch HD ex,0.0,Neutral,0.0,Neutral,0.3140018284320831,Neutral
+Dgfff go,0.0,Neutral,0.0,Neutral,0.2723795473575592,Neutral
+DJ ugh HD,-0.4215,Negative,0.0,Neutral,0.3575922846794128,Positive
+Bluff RSS,0.0,Neutral,0.0,Neutral,0.4926884472370147,Positive
+Bk ok KB,0.0,Neutral,0.0,Neutral,0.4291320145130157,Positive
+DJ gf ex,0.0,Neutral,0.0,Neutral,0.3249543011188507,Neutral
+Ml LLC if,0.0,Neutral,0.0,Neutral,0.2899262607097626,Neutral
+Bdd,0.0,Neutral,0.0,Neutral,0.2931286990642547,Neutral
+FL KB KB,0.0,Neutral,0.0,Neutral,0.2840164303779602,Neutral
+BBC HD,0.0,Neutral,0.0,Neutral,0.3294281959533691,Neutral
+JCB is,0.0,Neutral,0.0,Neutral,0.2605948746204376,Neutral
+"٢٢,١٧٠,٨٢٢",0.0,Neutral,0.0,Neutral,0.2771316766738891,Neutral
+My fav album ❤️,0.4588,Positive,0.0,Neutral,0.6249560117721558,Positive
+Up KB tdf,0.0,Neutral,0.0,Neutral,0.2552531659603119,Neutral
+GI DJ UC,0.0,Neutral,0.0,Neutral,0.3489518165588379,Positive
+Egg DSC was es,0.0,Neutral,0.0,Neutral,0.2596602737903595,Neutral
+Ch KS,0.0,Neutral,0.0,Neutral,0.2774454653263092,Neutral
+DJ FF RSS,0.4215,Positive,0.0,Neutral,0.3280234932899475,Neutral
+HK on KB,0.0,Neutral,0.0,Neutral,0.2654573619365692,Neutral
+Vin HV ed,0.0,Neutral,0.0,Neutral,0.3137184381484985,Neutral
+FB ccyf,0.0,Neutral,0.0,Neutral,0.2771144807338714,Neutral
+Code,0.0,Neutral,0.0,Neutral,0.2900491952896118,Neutral
+CL TD e,0.0,Neutral,0.0,Neutral,0.3047739863395691,Neutral
+Chv,0.0,Neutral,0.0,Neutral,0.2377724945545196,Neutral
+GMC f,0.0,Neutral,0.0,Neutral,0.3544453084468841,Positive
+Edu tree,0.0,Neutral,0.0,Neutral,0.3261716663837433,Neutral
+Blog us,0.0,Neutral,0.0,Neutral,0.2657642960548401,Neutral
+N HD,0.0,Neutral,0.0,Neutral,0.2109930515289306,Neutral
+Bk hhvv fd,0.0,Neutral,0.0,Neutral,0.2719774544239044,Neutral
+BM hhvv GC,0.0,Neutral,0.0,Neutral,0.2573674619197845,Neutral
+MLB gg,0.0,Neutral,0.0,Neutral,0.2666121423244476,Neutral
+Home he q,0.0,Neutral,0.0,Neutral,0.3815292418003082,Positive
+Ch yff es,0.4215,Positive,0.0,Neutral,0.2644442915916443,Neutral
+HK KB HD,0.0,Neutral,0.0,Neutral,0.2952401340007782,Neutral
+Jvv FS w,0.0,Neutral,0.0,Neutral,0.3556807041168213,Positive
+If FB HV d,0.0,Neutral,0.0,Neutral,0.380668044090271,Positive
+DJ if ye,0.0,Neutral,0.0,Neutral,0.289721816778183,Neutral
+JP GB oh by,0.368,Positive,0.0,Neutral,0.2618568241596222,Neutral
+JCC HD red,0.0,Neutral,0.0,Neutral,0.4534581303596496,Positive
+Gov tree,0.0,Neutral,0.0,Neutral,0.2654758989810943,Neutral
+GMC go,0.0,Neutral,0.0,Neutral,0.4275811314582824,Positive
+GI ugh JCC RSS,-0.4215,Negative,0.0,Neutral,-0.2877891957759857,Negative
+HK KB KB HD,0.0,Neutral,0.0,Neutral,0.2511268854141235,Neutral
+DJ UCS,0.0,Neutral,0.0,Neutral,0.2798329889774322,Neutral
+GMC GB free,0.5106,Positive,0.4,Positive,0.4398710429668426,Positive
+HK hv hhvv,0.0,Neutral,0.0,Neutral,0.244637131690979,Neutral
+GG if the,0.4466,Positive,0.0,Neutral,0.3840759992599487,Positive
+soytufannumero1,0.0,Neutral,0.0,Neutral,0.3542827665805816,Positive
+22M,0.0,Neutral,0.0,Neutral,0.2409015744924545,Neutral
+"If this song was true, you’d still be talking to him. Can’t Marry someone and not be Not talking to them. . . Just saying",0.4215,Positive,0.35,Positive,-0.5429322123527527,Negative
+🥺🥺🥺🥺🥺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Who are u gonna marry with paper rings Taylor?,0.0,Neutral,0.0,Neutral,-0.3510457575321197,Negative
+"The fact that I did not like the album at the beginning then now, I started to love it. 🤣",0.7423,Positive,0.5,Positive,0.490912526845932,Positive
+"aquele meme da Taylor chamando o Joe de "" pobre""",-0.4767,Negative,-0.4,Negative,-0.4968286454677582,Negative
+Nunuchiiii,0.0,Neutral,0.0,Neutral,-0.3194682896137237,Negative
+One of my fav songs ❤️,0.4588,Positive,0.0,Neutral,0.5446923971176147,Positive
+she gave me a paper ring guys!! what am i supposed to feeeeeel !!,0.0,Neutral,0.0,Neutral,-0.396849125623703,Negative
+this song is very amazing,0.624,Positive,0.7800000000000001,Positive,0.8411027789115906,Positive
+♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.2831399440765381,Neutral
+The way this song reminds me of Nick and Charlie for some reason,0.0,Neutral,0.0,Neutral,0.4548791348934173,Positive
+Cutest song ever <3,0.7717,Positive,1.0,Positive,0.7329040169715881,Positive
+fave,0.4404,Positive,0.0,Neutral,0.3664391338825226,Positive
+"I wanna answer the one who's courting right now with the line.
+""That's right, darling, you're the one that I want""",0.6249,Positive,0.2857142857142857,Neutral,-0.2390665709972381,Negative
+*I wish we can have a music video of this* 🥲🥺,0.4019,Positive,0.0,Neutral,0.2489582449197769,Neutral
+This album is so cute and vivid,0.5949,Positive,0.3125,Neutral,0.6896734833717346,Positive
+How did I get to hear this song just now??? Taylor Oooh,0.0,Neutral,0.0,Neutral,-0.3578384220600128,Negative
+"Ay the begginig, i didn' t Even know that this song existed, now i love it (But I love Taylor more 🖤⭐🖤⭐🖤⭐🖤⭐) •Taylor is a genius•",0.9891,Positive,0.5,Positive,0.6322421431541443,Positive
+this song makes me want a super beautiful love,0.9231,Positive,0.5611111111111111,Positive,0.8269150257110596,Positive
+Aaaaaaa me estoy volviendo adicta a esta canción 😍😍😍😍,0.9001,Positive,-0.4,Negative,0.4438094198703766,Positive
+I love this song 💗💗💗,0.9678,Positive,0.5,Positive,0.8624796271324158,Positive
+ew,0.0,Neutral,0.0,Neutral,0.2975822389125824,Neutral
+if this song ain't on my wedding I'm not getting married,0.0,Neutral,0.25,Neutral,-0.4125138521194458,Negative
+the background of the band in this song gives this song perfection ✨✨,0.8074,Positive,0.0,Neutral,0.6034555435180664,Positive
+00:32,0.0,Neutral,0.0,Neutral,-0.2540403604507446,Negative
+Listening happier by marshmellow after listening to this is 😭,0.0772,Positive,0.0,Neutral,-0.290437787771225,Negative
+"this song makes me energetic every morning.
+it just has this, hype and cheerful energetic tone and its amazing",0.9201,Positive,0.5,Positive,0.8322789669036865,Positive
+"this song should be there when they make a movie on the book ""it starts with us"" or ""love hypothesis""",0.6369,Positive,0.5,Positive,-0.2761490643024444,Negative
+TAYLOR TE AMO yo te doy un anillo de papel pero de una que me mato,-0.6467,Negative,0.15,Neutral,0.2905458211898803,Neutral
+This song just feels like the drama every girl wants in her life😜😜😜,0.3612,Positive,0.2,Neutral,0.6355673670768738,Positive
+finally found the chandler to my monica,0.0,Neutral,0.0,Neutral,0.5148136019706726,Positive
+😭🤩,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Eu amo essa música e atraducao e incrível,0.8402,Positive,0.55,Positive,0.6123473048210144,Positive
+"We all have to agree that Taylor demanding 3 kisses from Joe is the cutest thing ever 🥺💕
+
+This hits way different after they’re actually married 😭 so happy for my favorite couple",0.9509,Positive,0.3875,Positive,0.7189891338348389,Positive
+So cute!!!,0.6333,Positive,0.9765625,Positive,0.534041166305542,Positive
+"Lol.❤️👌👌👌❤️❤️. You wore an engagement ring to see how I would react if you married another MAN!!! Hahah, and I passed the TEsT!!!❤️❤️🤦🏼🤦🏼🤦🏼🤦🏼🤦🏼🤦🏼🤦🏼😂😂😂😂😂. Amen. Praise Gid. I think I can afford a little more than a paper ring. I’ll give you a RUBBER BAND!!! I’ll cut it with scissors and tie a small knot. I’ll chop off a cat’s head and stain the ring red!!! Seriously. That’s what I want to do!!!!????!!! 😘😘😘😘. J/k",0.9948,Positive,0.0045572916666666,Neutral,-0.4485562741756439,Negative
+this song can be in radio frfr👾,0.0,Neutral,0.0,Neutral,0.3647660613059997,Positive
+yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
+taylor t amo eres mi idola,0.6369,Positive,0.5,Positive,0.6808944344520569,Positive
+"""I like shiny things but I'd marry you with paper rings"" 
+""I hate accidents except when we went from friends to this"" 
+Absolutely love it!",0.6632,Positive,-0.0875,Negative,0.8764050006866455,Positive
+"It's happy, romantic, cute and naughty at the same time.
+Taylor is a genius, indeed!",0.8655,Positive,0.2299999999999999,Neutral,0.6874838471412659,Positive
+21M,0.0,Neutral,0.0,Neutral,0.234148770570755,Neutral
+you’re the best,0.6369,Positive,1.0,Positive,0.8549302220344543,Positive
+I might need someone to make a mashup of this song and Weezer’s “If You’re Wondering If I Want You To”,0.0772,Positive,0.0,Neutral,0.2971604466438293,Neutral
+0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
+"love this song
+taylor is a goddess",0.6369,Positive,0.5,Positive,0.8431357741355896,Positive
+Jesus loves you,0.5719,Positive,0.0,Neutral,0.7017141580581665,Positive
+This song is perfect.,0.5719,Positive,1.0,Positive,0.8296707272529602,Positive
+I love this song aaaaaah ❤❤❤❤❤❤,0.9854,Positive,0.5,Positive,0.85598224401474,Positive
+the fact that this song doesn't have a music video is outrageous. seriously.,-0.5719,Negative,-0.6666666666666666,Negative,-0.7245705127716064,Negative
+"This song is stay, stay, stay's more successful younger sister",0.624,Positive,0.4166666666666667,Positive,0.4982827007770538,Positive
+love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+So true,0.4754,Positive,0.35,Positive,0.6672887802124023,Positive
+"Desi Danny love ❤️ 
+12
+Saturday morning",0.6369,Positive,0.5,Positive,0.6111770868301392,Positive
+"Desi Danny love ❤️ 
+Saturday morning 12",0.6369,Positive,0.5,Positive,0.6140219569206238,Positive
+"Desi Danny love ❤️ 
+Saturday morning 12",0.6369,Positive,0.5,Positive,0.6140219569206238,Positive
+mi canción,0.0,Neutral,0.0,Neutral,0.4618414938449859,Positive
+This song is so amazing!!!,0.7745,Positive,1.0,Positive,0.8887947797775269,Positive
+"Her songs never upset me ❤
+""I like shining things bt I d marry u with paper rings ""😘",0.893,Positive,0.0,Neutral,0.498525321483612,Positive
+I love this album💗,0.8779,Positive,0.5,Positive,0.900801718235016,Positive
+0:01,0.0,Neutral,0.0,Neutral,-0.5815977454185486,Negative
+Love this💜🤍,0.6369,Positive,0.5,Positive,0.7371776700019836,Positive
+"im playing this at my wedding, no doubt",0.4423,Positive,0.0,Neutral,0.5086661577224731,Positive
+its too amazing,0.5859,Positive,0.6000000000000001,Positive,0.3355748355388641,Positive
+Now seeing this with 21M views feels nostalgic because I'm here even before 1M😌💅,0.3818,Positive,-0.5,Negative,0.7031097412109375,Positive
+FAV‼️,0.5766,Positive,0.0,Neutral,0.3228548765182495,Neutral
+2022 liked,0.4215,Positive,0.6,Positive,0.4328005611896515,Positive
+Brasil curte,0.4215,Positive,0.0,Neutral,-0.3645159900188446,Negative
+I LOVE THIS SONG,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+i love this song my dear taylor swift,0.8225,Positive,0.5,Positive,0.8645706176757812,Positive
+love taylor <3,0.7964,Positive,0.75,Positive,0.5069339871406555,Positive
+This song is so beautiful.,0.7177,Positive,0.85,Positive,0.8447859883308411,Positive
+❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"the beat(?) of this song, esp in the beginning is something that I feel will most likely be played on a vacation to a beach in movies.",0.3947,Positive,0.25,Neutral,0.4281521737575531,Positive
+This is what I call is a masterpiece,0.6249,Positive,0.0,Neutral,0.8892382979393005,Positive
+🥰🥰🥰🥰,0.9837,Positive,0.0,Neutral,0.3085779249668121,Neutral
+One of best song to listen in summer,0.6369,Positive,1.0,Positive,0.8154681324958801,Positive
+This is my wedding song,0.0,Neutral,0.0,Neutral,0.6413279175758362,Positive
+This is probably one of Taylor's most satisfying and romantic songs ever,0.7397,Positive,0.3333333333333333,Positive,0.7165939211845398,Positive
+Hands down favorite song on this album,0.4588,Positive,0.1722222222222222,Neutral,0.6848392486572266,Positive
+"If this song isn't playing on my f wedding,nah mama ain't goin'",-0.1511,Negative,0.0,Neutral,-0.4340388476848602,Negative
+you are such  a  sweet kitten ...just pure love //// 3/5/2022 ~~~,0.802,Positive,0.2660714285714285,Neutral,0.8360995054244995,Positive
+This whole song is euphoric~~! AND THE COUNTDOWN BEFORE THE CHORUS MAKES IT EVEN BETTER,0.8452,Positive,0.375,Positive,0.5538418889045715,Positive
+"""I like shiny things but I'd marry you with paper rings"" is better than ""I love you""",0.9081,Positive,0.5,Positive,0.4146464467048645,Positive
+This is art,0.0,Neutral,0.0,Neutral,0.5989426970481873,Positive
+te amo taylor te amooo,0.8555,Positive,0.5,Positive,-0.2477246671915054,Negative
+It's 2022 and this song is still a masterpiece !,0.6588,Positive,0.0,Neutral,0.8220330476760864,Positive
+"""I hate accidents except when we went from the friends to this.""
+I love this line. It's so sweet and mischievous at the same time.",0.7324,Positive,0.0124999999999999,Neutral,0.8326796293258667,Positive
+"goodness this song and Lover are goals for any romantic relationship just comfort, fun, and nostalgia.",0.936,Positive,0.15,Neutral,0.5719417333602905,Positive
+I really love this song cant stop playing it,0.6993,Positive,0.5,Positive,0.8510155081748962,Positive
+3 years since it came out and I still love this song <3,0.7964,Positive,0.75,Positive,0.8212897777557373,Positive
+taylor i luv u,0.0,Neutral,0.0,Neutral,0.3010491132736206,Neutral
+"beomgyu <3
+
+edit: now who liked this  I'm gonna square up 🤨",0.6908,Positive,0.8,Positive,0.3142343163490295,Neutral
+Parece una intro de disney channel,0.3612,Positive,0.0,Neutral,0.3354101479053497,Positive
+"WHY DOES PEOPLE NOT LIKE LOVER???
+IT IS THE DREAM ALBUM 😭😭",-0.8827,Negative,0.0,Neutral,0.3585570454597473,Positive
+this should be in a coming-of-age movie.,0.0,Neutral,0.0,Neutral,0.2691492438316345,Neutral
+This song is underrated,0.0,Neutral,0.0,Neutral,0.4664949476718902,Positive
+"He tries SO HARD!! but, you just can't, not dance to this song!! <3 Taylor!! More more more!",0.5674,Positive,0.3021538628472222,Neutral,-0.6402956247329712,Negative
+"I
+
+L
+O
+V
+E
+
+I
+T",0.4588,Positive,0.0,Neutral,0.2789348661899566,Neutral
+best song on earth tbh,0.6369,Positive,1.0,Positive,0.8924859166145325,Positive
+Made in Baguio take me here 🤧🤧🤧🤧,0.0,Neutral,0.0,Neutral,0.5479358434677124,Positive
+U are mi fafreet singer,0.0,Neutral,0.0,Neutral,-0.2702698409557342,Negative
+O K !,0.0,Neutral,0.0,Neutral,-0.2934892177581787,Negative
+This is and forever will be my favorite song in the whole wide world. I strive to have a relationship like this when I am older. I have my engagment and life planned out around this song....,0.6705,Positive,0.1916666666666666,Neutral,0.9273977875709534,Positive
+"mens dont cry much
+but when we do 
+its on something that touches our heart",0.8214,Positive,0.2,Neutral,-0.3081124424934387,Negative
+I cant listen to this song with out smiling,0.4588,Positive,0.0,Neutral,0.3405056893825531,Positive
+love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+So happy this song was played at my wedding! 😍,0.8653,Positive,1.0,Positive,0.8094533085823059,Positive
+Lily and Lo,0.0,Neutral,0.0,Neutral,0.3020974993705749,Neutral
+Instagram reels brought me here 😅,0.3612,Positive,0.0,Neutral,0.5262545347213745,Positive
+Y'all talking about how you wanna sing this song with your partner while I'm out here learning to playay it for mine 😎,0.4588,Positive,0.0,Neutral,0.4191217720508575,Positive
+ˑ ִֶָ ♡♡♡ ˑ ִֶ,0.0,Neutral,0.0,Neutral,0.602881669998169,Positive
+2/22/22💜,0.6369,Positive,0.0,Neutral,-0.3437671661376953,Negative
+"""baby boy""
+the way she said that 🥺🥺🥺",0.0,Neutral,0.0,Neutral,0.2351758331060409,Neutral
+We need a short chick-flick with this song.,0.0,Neutral,0.0,Neutral,0.3636922240257263,Positive
+as pure as Taylor herself,0.0,Neutral,0.2142857142857142,Neutral,0.6618988513946533,Positive
+The lyrics istg>>>,0.0,Neutral,0.0,Neutral,-0.2710412442684173,Negative
+can we all agree that taylor is such a genius lyricist,0.3612,Positive,0.0,Neutral,0.6523793935775757,Positive
+happy vibin,0.5719,Positive,0.8,Positive,0.5454952716827393,Positive
+❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+ငို တာ တောင် ရပ် သွား တယ် i love this song so much ><,0.0516,Positive,0.15,Neutral,0.8123930096626282,Positive
+"TAYLORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR TE AMO MAS QUE A MI FAMILIA 
+ERES LO MEJOR QUE ME HA PASADO EN LA VIDA 
+MI VIDAAAAAAAAAAAAAAAAAAAAAAAAA",0.8555,Positive,0.6666666666666666,Positive,0.8324694037437439,Positive
+Ready for it!,0.4199,Positive,0.25,Neutral,0.6390847563743591,Positive
+love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+LA AMO,0.6369,Positive,0.5,Positive,0.3292955160140991,Neutral
+this song littarly describes me and my gf ( we went from besties to lovers recently and this has become our love song kinda) i love the song,0.9104,Positive,0.3333333333333333,Positive,0.5040334463119507,Positive
+Paper ringssss,0.0,Neutral,0.0,Neutral,0.2423533946275711,Neutral
+After 3 years i still wake up to listen to your songs,0.0,Neutral,0.0,Neutral,0.3990866541862488,Positive
+2:24,0.0,Neutral,0.0,Neutral,-0.2577508091926574,Negative
+"We all can literally listen to Taylor when we're sad, happy, angry, depressed, excited or nostalgic...I swear I can live alone with her music...",-0.7003,Negative,0.0622727272727272,Neutral,0.3540096282958984,Positive
+I really like you need to calm down,0.624,Positive,0.1148148148148148,Neutral,0.4785231351852417,Positive
+I Love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+"""i like shiny things but i married u with paper rings""😭",-0.5267,Negative,0.25,Neutral,0.2912432849407196,Neutral
+go mhiema galing akong jikjin mv,0.0,Neutral,0.0,Neutral,0.2747563421726227,Neutral
+This song gives nostalgic vibes idk why tho 👽.,-0.1027,Negative,-0.5,Negative,0.4508049786090851,Positive
+love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
+"happy heart's day, taytay! i love u sm!🤍",0.8585,Positive,0.75,Positive,0.8839737176895142,Positive
+I first heard this play randomly through spotify and i got intrigued hearing the intro which lead to me reading the whole lyrics. It's just a wholesome song especially knowing the meaning of it.,0.4118,Positive,-0.0124999999999999,Negative,0.3604993522167206,Positive
+This song gives me a lot of cartoon opening vibe. The fun adventure type of cartoons to be exact. Craig of the Creek vibes 💕,0.872,Positive,0.275,Neutral,0.5643321871757507,Positive
+Esta canción es tan alegre que la terminas de escuchar y sientes que debes volver a escucharla una y otra vez porque no es suficiente. ¡La amo!,0.6328,Positive,0.475,Positive,0.690886914730072,Positive
+İnte,0.0,Neutral,0.0,Neutral,0.2248382717370987,Neutral
+He surely liked shiny things & married Patrick with a paper ring figuratively 😭❤️,0.3818,Positive,0.425,Positive,0.3589005768299103,Positive
+this is david's pov:,0.0,Neutral,0.0,Neutral,0.4578451514244079,Positive
+0:32  0:52,0.0,Neutral,0.0,Neutral,-0.4503912031650543,Negative
+This song just reminds me that im lonely.,-0.3612,Negative,-0.0999999999999999,Negative,0.5443786382675171,Positive
+Thank you for releasing this song on my birthday ☺️🌹❤️,0.6705,Positive,0.0,Neutral,0.6703177094459534,Positive
+niggas,-0.34,Negative,0.0,Neutral,-0.355254590511322,Negative
+Ur mom is gay,0.0,Neutral,0.4166666666666667,Positive,-0.3818229138851166,Negative
+this is THE song.,0.0,Neutral,0.0,Neutral,0.4868862926959991,Positive
+"this makes me wanna fall in love. ive been lonely for 4 years now.i dont want a boyfriend anyway, i just want to feel it all again :(",-0.0315,Neutral,-0.1166666666666666,Negative,0.6484389901161194,Positive
+✨💕,0.765,Positive,0.0,Neutral,0.3085779249668121,Neutral
+aaaaaaaaaaaaa,0.0,Neutral,0.0,Neutral,-0.4200880527496338,Negative
+Once I made a version for my friend that goes I like tasty things but I ate onion rings uh thats bestie I am crazy and I made I hate vegtibels but I eat them anyway uhu that's right bestie I am crazy,-0.8555,Negative,-0.4285714285714286,Negative,-0.2623295783996582,Negative
+AHHHH this is just amazing,0.5859,Positive,0.6000000000000001,Positive,0.7758026123046875,Positive
+I'd marry u w paper rings >.<,-0.3182,Negative,0.0,Neutral,-0.3051487803459167,Negative
+I LIKE SHINNY THINGS BUT ID MARRY YOU WITH PAPER RINGSSSSS,0.1901,Positive,0.0,Neutral,0.3485907018184662,Positive
+"She loves joe alwyn 
+you just can't seperate them",0.5719,Positive,0.0,Neutral,0.4362405836582184,Positive
+ILSTBIMYWPRYTRDYTIW,0.0,Neutral,0.0,Neutral,0.2391432672739029,Neutral
+I love this song paper ring 💍💍,0.6369,Positive,0.5,Positive,0.851231575012207,Positive
+TE AMO TAYLOR,0.6369,Positive,0.5,Positive,0.3840654492378235,Positive
+I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+because of this song I feel very cheerful,0.5849,Positive,0.52,Positive,-0.4098043739795685,Negative
+this song is pop garbage at its finest,0.0,Neutral,0.0,Neutral,-0.911027491092682,Negative
+Wanna scream this song out loud to my love someday!!,0.4738,Positive,0.440625,Positive,0.8216272592544556,Positive
+I like shiny things but I married you with paper rings. Well thought line,0.5267,Positive,0.25,Neutral,0.3747191727161407,Positive
+"Views:20,60,952
+Likes:250K",0.0,Neutral,0.0,Neutral,-0.2678176760673523,Negative
+İts mean summer,0.0,Neutral,-0.3125,Negative,0.5118520855903625,Positive
+This song is never get old,0.0,Neutral,0.1,Neutral,0.3739373683929443,Positive
+After church,0.0,Neutral,0.0,Neutral,0.2663822472095489,Neutral
+"Desi Danny love ❤️ 
+Taylor swift’s",0.6369,Positive,0.5,Positive,0.4753147065639496,Positive
+20M,0.0,Neutral,0.0,Neutral,0.2430815994739532,Neutral
+I like music,0.3612,Positive,0.0,Neutral,0.4638276994228363,Positive
+TODA MI VIDA TE VOY A AMAR PAPER RINGS 💗💗💗,0.9707,Positive,0.5,Positive,0.7349424362182617,Positive
+0:33 :),0.4588,Positive,0.5,Positive,-0.2553372681140899,Negative
+This song its so cute,0.5949,Positive,0.5,Positive,0.5945650935173035,Positive
+this song feels like non-toxic happy euphoric love,0.9393,Positive,0.65,Positive,0.6138865351676941,Positive
+I’d marry someone with paper rings too,0.0,Neutral,0.0,Neutral,-0.3676670789718628,Negative
+"1:27 the way she said ""huuugh""",0.0,Neutral,0.0,Neutral,-0.4443721771240234,Negative
+"This reminds me of her everytime I play this. I'm smiling. February is close. Gotta ask her to marry me with paper rings. 
+
+Soon enough, it's real",0.6597,Positive,0.1,Neutral,0.7280233502388,Positive
+Never listened this in full - I’m glad I decided to now,0.4588,Positive,0.425,Positive,-0.552761971950531,Negative
+1:37-1:54 😏,0.0,Neutral,0.0,Neutral,0.2684939503669739,Neutral
+19M,0.0,Neutral,0.0,Neutral,0.2424989491701126,Neutral
+I need you for the rest of my life 💓💓💓💓💓,0.9758,Positive,0.0,Neutral,0.5898499488830566,Positive
+this song is just about meredith grey and derek shepard :),0.4939,Positive,0.225,Neutral,0.432790070772171,Positive
+"I like shiny things, but I'm not gonna mention that in my monologue",0.1901,Positive,0.0,Neutral,0.5339622497558594,Positive
+19M,0.0,Neutral,0.0,Neutral,0.2424989491701126,Neutral
+2:42,0.0,Neutral,0.0,Neutral,0.2481944113969802,Neutral
+I love this song😍😍😍🥰🥰🥰😘😘💗💗,0.9944,Positive,0.5,Positive,0.900801718235016,Positive
+❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Stocked for a year or two or three! 😂 Lol,0.7177,Positive,0.8,Positive,0.2428653538227081,Neutral
+Me listening to this and thinking about animated characters-,0.0,Neutral,0.0,Neutral,0.3973365426063537,Positive
+Great song,0.6249,Positive,0.8,Positive,0.715724527835846,Positive
+This song makes me happy ❤️,0.5719,Positive,0.8,Positive,0.6185452938079834,Positive
+omg love this song soo much,0.6369,Positive,0.35,Positive,0.7507225275039673,Positive
+01:57 DIS MY FAVOURITE PART OMG,0.0,Neutral,0.0,Neutral,0.5480367541313171,Positive
+If someone doesn't propose me with this song I ain't getting married,0.0,Neutral,0.25,Neutral,-0.5247819423675537,Negative
+Imagine cleaning your room with your partner as a teen dancing and singing this song and then baking lucky charm cookies together <3,0.8126,Positive,0.4444444444444444,Positive,0.5389684438705444,Positive
+I love her music<3,0.6369,Positive,0.5,Positive,0.7174161076545715,Positive
+❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
+i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+taylor gracias por ser el aire q respiro <3,0.7003,Positive,0.6,Positive,0.3050792217254638,Neutral
+😘,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Veer,0.0,Neutral,0.0,Neutral,0.2386054843664169,Neutral
+"""I hate accidents except when we went from friends to this""  I feel butterflies in my stomach.",-0.4404,Negative,-0.8,Negative,-0.363240510225296,Negative
+I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
+"this song is just the definition of love and happiness, absolutely no negativity, hatred, nothing. absolutely in love with it, ily taylor :)<3",0.948,Positive,0.5166666666666666,Positive,0.792446494102478,Positive
+No one:singing and listening to paper ring while walking around and brush my teeth everyday,-0.296,Negative,-0.2,Negative,0.4044329822063446,Positive
+I'm blind as a bat because of her!,-0.4574,Negative,-0.625,Negative,-0.3231334090232849,Negative
+"Thinking of my only Lover! They always stay her age! 
+   Thinking Valentine's day! 
+
+Your the Only one! I want!",0.7405,Positive,0.0,Neutral,0.7902623414993286,Positive
+Love u taylor......,0.6369,Positive,0.5,Positive,0.5626329779624939,Positive
+Love your music so much!!!!!!,0.7482,Positive,0.6314697265625,Positive,0.9284304976463318,Positive
+my fav music,0.4588,Positive,0.0,Neutral,0.5086914300918579,Positive
+"This song makes me want to live my dream life and get in a relationship and dance with my partner in the rain
+-M",0.3182,Positive,0.1363636363636363,Neutral,0.6248982548713684,Positive
+WAIT UR TELLING ME THIS CAME OUT IN 2019,0.0,Neutral,0.0,Neutral,-0.3732864260673523,Negative
+this song makes me feel some sort of way and i don’t know how to describe it but i love it,0.7783,Positive,0.5,Positive,0.5162324905395508,Positive
+🥵👍🏽👍🏽👍🏽👍🏽🇵🇪✏️✏️✏️✏️🥵🥵🥵🥵,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+1:27 best part,0.6369,Positive,1.0,Positive,0.4871953129768371,Positive
+ATG TLK xoxo the lazt King•==0072>0089🔥🔥🔥🔥💯🖤♦️,0.4588,Positive,0.0,Neutral,0.239278182387352,Neutral
+It better not be a post it greys fans will know.,0.4404,Positive,0.5,Positive,0.3614704310894012,Positive
+Now this gives me Lexi and Fezco vibes....,0.0,Neutral,0.0,Neutral,0.5695810317993164,Positive
+I want your complications too taylor😩,-0.2023,Negative,0.0,Neutral,0.3344933092594147,Positive
+for when baking pancakes or making hot chocolate,0.0,Neutral,0.25,Neutral,0.3536973893642425,Positive
+Who else is here after Taylor 's engagement rumours 🥰✨️,0.8834,Positive,0.0,Neutral,0.2900797128677368,Neutral
+Marrying my imaginary boyfriend cause why not? Hahaha.,-0.4449,Negative,-0.1,Negative,-0.3611560463905334,Negative
+ILSTBIMYWPR <$,0.0,Neutral,0.0,Neutral,-0.2448068112134933,Negative
+If i am not proposed to with a peice of paper folded like a ring imma say no,0.0772,Positive,0.0,Neutral,-0.4804847836494446,Negative
+This song makes me feel like a teenager (I’m a teenager),0.3612,Positive,0.0,Neutral,0.4771955907344818,Positive
+this song gives only healthy relationship vibes tbh,0.4019,Positive,0.25,Neutral,-0.4278250932693481,Negative
+in love <3,0.7964,Positive,0.75,Positive,0.5629323720932007,Positive
+TADHANA and KEANU <3,0.4404,Positive,1.0,Positive,0.263067215681076,Neutral
+bop >>>>>>>>,0.0,Neutral,0.0,Neutral,0.2890415489673614,Neutral
+💞,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
+its giving 2000’s disney theme song,0.34,Positive,0.0,Neutral,0.3711759746074676,Positive
+0:32,0.0,Neutral,0.0,Neutral,-0.4618273079395294,Negative
+1:56 is the best partttt of this song,0.6369,Positive,1.0,Positive,0.4537890255451202,Positive
+This song is making me feel things that makes me wanna fly with my lover. ( lol I don't have a lover),0.5466,Positive,0.8,Positive,0.5489075779914856,Positive
+"that ""uh-huh"" has a thing.",0.0,Neutral,0.0,Neutral,0.3184138238430023,Neutral
+Playing this at my wedding,0.2023,Positive,0.0,Neutral,0.5266180038452148,Positive
+😳Ok listen the first beats of this then the intro for barbie and the mermaid.,0.0,Neutral,0.25,Neutral,0.3235614597797394,Neutral
+"0:32 IDK why but I've always thought she said ""but I'll bury you with paper rings""💀..",-0.1447,Negative,0.0,Neutral,-0.4176090359687805,Negative
+0:33,0.0,Neutral,0.0,Neutral,-0.4468095898628235,Negative
+♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.2831399440765381,Neutral
+It's a great song to start a day🐱🐱⭐💜💜🥰,0.9674,Positive,0.8,Positive,0.6539533138275146,Positive
+"If the girl doesn't propose to me a paper ring or ring pop, I'm not saying yes.",-0.3089,Negative,0.0,Neutral,-0.4102789759635925,Negative
+"Istg the way she says, ""Three times!"" Is so satisfying and addicting 😭",0.2636,Positive,0.5,Positive,0.7031171321868896,Positive
+Auguri paolo ti auguro una vita piena di anelli di carta,0.6705,Positive,0.35,Positive,0.2948558032512665,Neutral
+taylor>anyone,0.0,Neutral,0.0,Neutral,0.3056134879589081,Neutral
+Such a cute song,0.4588,Positive,0.25,Neutral,0.599159300327301,Positive
+I don't get it when people say lover is taylor's worst album. all of the songs are timeless bops wdym,-0.0772,Negative,-1.0,Negative,-0.828093409538269,Negative
+Are there other songs that have the same vibe as this song?,0.0,Neutral,-0.0625,Negative,-0.3496889770030975,Negative
+"""The moon is high, like your friends the night that we first met...""
+lol this is my favorite line!! >u<",0.8997,Positive,0.4978125,Positive,0.8413898348808289,Positive
+"I love this song more then anything. I first found it when listening to songs about having a relationship with a Weasley (harry potter) and I fell in love with the whole feeling of the song. It's just very up beat. It's everything I want in a relationship, but everything I'll never have and I love it. <3",0.9455,Positive,0.45625,Positive,0.7318171858787537,Positive
+Oops I spelled your name wrong! Sry I meant: I LOVE YOU TAYLOR!!!!! I’M YOUR BIGGEST FAN,0.7926,Positive,0.1875,Neutral,-0.3696975409984588,Negative
+all I can think about when I listen to this song is two best friends dancing to this and falling in love and now I want that to happen to me,0.9042,Positive,0.75,Positive,0.6380899548530579,Positive
+I LOVE YOU TALOR!!!!! I’M YOUR BIGGEST FAN,0.8257,Positive,1.0,Positive,0.9447672367095948,Positive
+33:00,0.0,Neutral,0.0,Neutral,-0.2424025535583496,Negative
+This whole album will be played at my wedding or I'm not getting married .,0.34,Positive,0.225,Neutral,0.6414036750793457,Positive
+This has our song vibez you can't change my mind,0.0,Neutral,0.0,Neutral,0.6459634304046631,Positive
+I wanna get married with a ring pop,0.0,Neutral,0.25,Neutral,0.3756767809391022,Positive
+I promise I'm not haylor but this sounds like an early 1D song (maybe not the lyrics),0.5994,Positive,0.1,Neutral,0.3033409416675567,Neutral
+If I can't marry her paper rings then I'll marry with frog rings<8,0.0,Neutral,0.0,Neutral,-0.3055658340454101,Negative
+If I can't marry her paper rings then I'll marry with frog rings<8,0.0,Neutral,0.0,Neutral,-0.3055658340454101,Negative
+I miss this era so badddd 😭,-0.6077,Negative,0.0,Neutral,-0.6242182850837708,Negative
+I went from friends to this with my best friend❤️ I really love him so much because he really knows me. He knows me better then I know myself. I always said I would never get married but if he asked me I would definitely say yes. It could be with a perfect diamond ring or with a paper ring. Either way it would be perfect. This song describes us perfectly. Thank you Taylor for this masterpiece!,0.9939,Positive,0.5650000000000001,Positive,0.9352647066116332,Positive
+happy new year<3,0.5719,Positive,0.4681818181818182,Positive,0.6355874538421631,Positive
+18M,0.0,Neutral,0.0,Neutral,0.2566357553005218,Neutral
+"I don't know about you but I need Taylor to do more songs like Paper Rings and Stay Stay Stay. I love the fun and happy vibe that she transmits expressing a sincere, healthy and lasting love",0.9881,Positive,0.45,Positive,0.5057568550109863,Positive
+"""I like shiny things, but id marry you with paper"" literally me and my gf",0.1901,Positive,0.0,Neutral,-0.2522467076778412,Negative
+This song is such a ✨vibe✨,0.3182,Positive,0.0,Neutral,0.7434918880462646,Positive
+"This song has a great lyrics because I liked the use of the phrase ""paper rings"" Her lyrics is amazing 😁🥰❣️😍❤️💖🌻🌻🌻💖🌻💖💖 And more 💓💖💖💖 hearts  and emojis 😊",0.998,Positive,0.625,Positive,0.632116973400116,Positive
+"This song has a great lyrics because I liked the use of the phrase ""paper rings"" Her lyrics is amazing 😁🥰❣️😍❤️💖🌻🌻🌻💖🌻💖💖 And more 💓💖💖💖 hearts  and emojis 😊",0.998,Positive,0.625,Positive,0.632116973400116,Positive
+I need this playing at my wedding.,0.25,Positive,0.0,Neutral,0.6306338310241699,Positive
+i just want to relate to this song tbh,0.0772,Positive,0.0,Neutral,0.2560072243213653,Neutral
+❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+this should've been in red and forever winter should've been in lover!,0.6239,Positive,0.0,Neutral,0.4146687984466553,Positive
+One of the finest works of taylor. This song is a classic.,0.0,Neutral,0.1666666666666666,Neutral,0.8531703352928162,Positive
+😭😭😭want a mv tay tay😘,-0.7579,Negative,0.0,Neutral,0.330157995223999,Positive
+I just found out that back in 1998 my dad made my mom an engagement ring out of paper and aluminum foil.😂😂,0.8316,Positive,0.0,Neutral,0.2412047982215881,Neutral
+"Paper rings is my confront song, it never fails to make me smile💗💗",0.9317,Positive,0.25,Neutral,0.5588681101799011,Positive
+This reminds me of Emily In Paris.,0.0,Neutral,0.0,Neutral,0.4783790409564972,Positive
+This is in ATG's Top 3 songs of Taylor  ALIson swift Brilliant A+ x,0.7506,Positive,0.7,Positive,0.8769374489784241,Positive
+okay i want to send this song to my crush and after the day i sent it i want him to give me a paper ring at school.,0.2263,Positive,0.5,Positive,0.8756321668624878,Positive
+This song mad me feels like the main characther,0.3612,Positive,0.1666666666666666,Neutral,-0.5344765782356262,Negative
+im here  cause  spiderman!,0.0,Neutral,0.0,Neutral,-0.3090135455131531,Negative
+"last year my mom called this song ""cash grabby"" and ""fake"". 
+this year i was listening to it and she said it was nice when she didnt know it was taylor
+just shows people hate taylor swift because of the media influencing them
+ily taylor
+- blu",0.296,Positive,-0.175,Negative,-0.6770510077476501,Negative
+constantly editing Tom Holland in my head while listening to the chorus,0.0,Neutral,0.0,Neutral,0.3652324080467224,Positive
+this sounds like stay stay stay 2.0,0.3612,Positive,0.0,Neutral,-0.4532188773155212,Negative
+IDK WHY THIS SONG CAN MAKES ME HAPPY 😢,0.0516,Positive,0.8,Positive,0.5996648669242859,Positive
+"Who is the man shouting 1,2,1,2,3..... Lmao 😂😂😂🤣🤣🤣",0.969,Positive,0.6,Positive,-0.4899020195007324,Negative
+t amo rubia,0.6369,Positive,0.25,Neutral,-0.305720567703247,Negative
+😭,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
+this song💖💕🤍💞💘💓💘💞💝,0.9854,Positive,0.0,Neutral,0.5581091642379761,Positive
+this is mondler’s anthem,0.0,Neutral,0.0,Neutral,0.5935943722724915,Positive
+Listening to it since the morning and it's 12pm,0.0,Neutral,0.0,Neutral,0.3841201066970825,Positive
+This literally explains my feelings perfectly ❤️,0.6369,Positive,1.0,Positive,0.8720638751983643,Positive
+After 2 years im still here enjoyibg the happiness of this song,0.7906,Positive,0.6,Positive,0.6129684448242188,Positive
+"‘2019 music was shit’
+2019:",0.0,Neutral,-0.2,Negative,-0.7250251173973083,Negative
+Shut up this is an end credits song to a cheesy romance movie and thats a compliment,0.8481,Positive,-0.5,Negative,-0.4672741889953613,Negative
+Heh not suprised,-0.3107,Negative,-0.05,Negative,-0.3365551829338074,Negative
+why it starts like icarly opening theme I- 💀💀,0.3612,Positive,0.0,Neutral,-0.2480954080820083,Negative
+Just waiting for Taylor's marriage news !!,0.0,Neutral,0.0,Neutral,0.2924481332302093,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+Who's still hear 🙋,0.4939,Positive,0.0,Neutral,0.419353038072586,Positive
+"I like Shiny things , But I'd Marry you with Paper Rings 💜",0.8201,Positive,0.0,Neutral,0.4228232204914093,Positive
+I like Shining things....🥰,0.8689,Positive,0.0,Neutral,0.4603382050991058,Positive
+"HAPPY BIRTHDAY QUEEN!!!!!!
+I LOVE YOU",0.877,Positive,0.75,Positive,0.9127867817878724,Positive
+Mid,0.0,Neutral,0.0,Neutral,0.3291974067687988,Neutral
+Happy birthday,0.5719,Positive,0.8,Positive,0.6310881972312927,Positive
+Do you want me to do that tomorrow or do it at home?,0.0772,Positive,0.0,Neutral,0.2866714596748352,Neutral
+"What? How rude!
+Lol?",-0.2148,Negative,0.2125,Neutral,-0.675153374671936,Negative
+Best song ever,0.6369,Positive,1.0,Positive,0.9553784728050232,Positive
+Hsbhshsbs this makes me happy,0.5719,Positive,0.8,Positive,0.6224626302719116,Positive
+So true,0.4754,Positive,0.35,Positive,0.6672887802124023,Positive
+lover and rep are the best prove me wrong,0.7096,Positive,0.25,Neutral,0.3035371601581573,Neutral
+TAYLOR IM SORRY I ACCIDENTLY DISLIKE IT,-0.6486,Negative,-0.5,Negative,-0.4490046799182892,Negative
+Taylor missed the opportunity to make this the lead singles or the second single,0.1531,Positive,-0.0357142857142857,Negative,-0.3521414399147033,Negative
+"Hi sa nag suggest na pakinggan ko 'to, na nakilala ko sa omegle, Ill marry you with paper rings.",0.0,Neutral,0.0,Neutral,-0.3599521219730377,Negative
+Perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
+Enthusiastic,0.4939,Positive,0.6,Positive,0.6110220551490784,Positive
+Wonderful,0.5719,Positive,1.0,Positive,0.7840516567230225,Positive
+I feel like this song describes my relationship rn and that makes me so happy,0.8042,Positive,0.8,Positive,0.6389818787574768,Positive
+Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
+0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
+paper rings=not actully maried,0.0,Neutral,0.25,Neutral,-0.3903655111789703,Negative
+Love you Paper Rings so much,0.6369,Positive,0.35,Positive,0.830642580986023,Positive
+This is like platonic love (like best friends who treat each other like brother and sister) and over the years turned romantic <33,0.9732,Positive,0.34375,Positive,0.6897596120834351,Positive
+This song should be a soundtrack in a movie🥲😭😭,-0.7351,Negative,0.0,Neutral,0.2435934394598007,Neutral
+0:42 - 0:51,0.0,Neutral,0.0,Neutral,-0.2809750437736511,Negative
+love the song,0.6369,Positive,0.5,Positive,0.6877331137657166,Positive
+I want this kind of famous,0.0772,Positive,0.55,Positive,0.5676195621490479,Positive
+You guys got to hear this on earbuds,0.0,Neutral,0.0,Neutral,0.3620325028896332,Positive
+esta canción suena como el principio de !Icarly xdd,0.4199,Positive,0.0,Neutral,0.3584791123867035,Positive
+I am finally relating to this song so bad that it scares me,-0.784,Negative,-0.3499999999999999,Negative,0.4221303164958954,Positive
+"This song is the long lost sister of ""Mean""",-0.3182,Negative,-0.18125,Negative,0.2826712429523468,Neutral
+"que afortunado soy que la persona a la cual conoceré sus padres el miércoles 8 de diciembre de 2021, la persona con la cual quiero estar una eternidad y que me encanta y gusta tanto me haya dedicado esta canción <33 P&K🖤 Me gustas mucho",0.9626,Positive,0.3444444444444444,Positive,0.7728738784790039,Positive
+I need this song live just her and her guitar.,0.0,Neutral,0.1363636363636363,Neutral,0.7020543813705444,Positive
+Just realized that lover album is quite coool and i love it 🤪🤓😭😬,0.3182,Positive,0.5,Positive,0.6654790639877319,Positive
+I'm falling in love with someone amazing and this song simply reminds me of him,0.8126,Positive,0.3666666666666667,Positive,0.7280908226966858,Positive
+This song reminds me so much of Amy Santiago and Jake Peralta.  😭😭😭😭💕,-0.7964,Negative,0.2,Neutral,0.6636691093444824,Positive
+John ❤️,0.0,Neutral,0.0,Neutral,0.3556196391582489,Positive
+"💋me once
+💋 me twice
+THREE TIMES
+Serotonin boost..... This song doesn't lets to rest... Bruh live performance when??",0.8253,Positive,0.1363636363636363,Neutral,-0.5918978452682495,Negative
+💃,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+joe alwyn be blushing listening to this,0.0,Neutral,0.0,Neutral,-0.3017242550849914,Negative
+HOLA VENGO DE JAKIRU,0.0,Neutral,0.0,Neutral,0.2946454584598541,Neutral
+"He just drove our 13 year old to school because she missed the bus. Hang in there ladies. Sometimes your knight in shining armor is the cute guy from down the street with an angry, preteen girl in the front seat.",-0.3612,Negative,-0.0138888888888888,Negative,0.2836844027042389,Neutral
+Peraltiagooo,0.0,Neutral,0.0,Neutral,0.2415907233953476,Neutral
+"LYRICS.
+
+
+
+
+the moon is high like ur friends tried slaitking u on the internet cold wine now i watch u breath kiss me once kiss twice threee 122212 i lik e shiny bu marry u pape rings and i hate aidents when from friends ot this u r te one i want dreams the witer cold pool jump in after you flaws we wouldnt be strong kiss u once kiss twice theee on21234 i like paper rings drlin i hate accidents thats right darlin ur the one i want picture frames i want to drive away with you i wnt complications wrap round baba bpy i want ur dreary mondays i like hsiny things but id marry you ifpaper rings uhhh uhhh thats right ur the one i want ur the one i want inlike shiny things but id mary u paper rings i hate accdietns exepect friens picture frames all my dream paper rings all my dreams ur the one i want",0.7417,Positive,-0.2635238095238096,Negative,-0.4488800168037414,Negative
+"My girlfriend is a huge Taylor Swift fan, and I finally got around to listening to some of her favorite songs while at work. Now I'm all bubbly and unable to hide my smile.",0.8481,Positive,0.14,Neutral,-0.4285546839237213,Negative
+Ermoso uuu wiii,0.0,Neutral,0.0,Neutral,0.5264900326728821,Positive
+Genial uuuu,0.4215,Positive,0.0,Neutral,0.7717045545578003,Positive
+Uuu lo amo,0.6369,Positive,0.5,Positive,0.3523550033569336,Positive
+That sigh at the end if the second verse👌,0.7378,Positive,0.0,Neutral,0.3425726294517517,Positive
+I HATE SHINY THINGS BUT ID MARRY U WITH PAPER RINGS <3,0.2809,Positive,0.0999999999999999,Neutral,-0.2780196070671081,Negative
+MY NEW FAVORITEEEE <3,0.4404,Positive,0.5681818181818181,Positive,0.8469739556312561,Positive
+17M,0.0,Neutral,0.0,Neutral,0.2368590086698532,Neutral
+Aaaaaaaaaaa the serotonin boost this song gives me😫💕,0.6249,Positive,0.0,Neutral,0.5164463520050049,Positive
+"VC NAO TEM UMA MUSICA RUIM MANO, EU TE AMO",0.7935,Positive,-0.0999999999999999,Negative,-0.3802466988563537,Negative
+pensar q era nuestra musica :(,-0.4404,Negative,-0.75,Negative,0.3024167418479919,Neutral
+this song gives 2000’s movie vibes after waking up and rushing to school lol,0.4215,Positive,0.8,Positive,0.430880457162857,Positive
+I fricking love this song,0.6697,Positive,0.5,Positive,0.8164757490158081,Positive
+I love this so so much omg<33,0.6369,Positive,0.35,Positive,0.8923475742340088,Positive
+Lover album really makes you feel and understand Taylor’s emotions and she really did portray it perfectly in this album,0.8402,Positive,0.4666666666666666,Positive,0.7248902320861816,Positive
+Taylor You Are MAGIC!!! 🪄,0.0,Neutral,0.9765625,Positive,0.699756383895874,Positive
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+i like to listen this song if i got nothing to do,0.3612,Positive,0.0,Neutral,0.2810946404933929,Neutral
+am i the only one with a sudden urge to make paper rings after listening to this?,0.0,Neutral,0.0,Neutral,-0.2869380414485931,Negative
+"I made a playlist for my bf as a birthday gift since I didnt have money to buy him anything and he didn't really care for handmade stuff (plus we're in a long distance relationship). This was the first song I immediately remembered when I made it. But he just brushed it off and didn't bother opening it. I guess he doesn't care for playlists too 😅
+
+
+Just wanted to get it off my chest. I thought he'd like it. 🤡",0.6848,Positive,0.1,Neutral,-0.4951065480709076,Negative
+"so tru taylor
+-bianca forca",0.0,Neutral,0.0,Neutral,0.4593847393989563,Positive
+it's like she knows me,0.3612,Positive,0.0,Neutral,0.4181314408779144,Positive
+When is the video coming?,0.0,Neutral,0.0,Neutral,-0.3888166844844818,Negative
+I hope this song will be played at their wedding and their wedding reception would be the music video for this 🥺🥰,0.9118,Positive,0.0,Neutral,0.3687301278114319,Positive
+"hi jessica if you're reading this comment i just want you to know that i like you,i treasure you,i want you, i need you and I LOVE YOU
+sorry that i fall inlove to you even though we must be just friend im sorry opo",0.9158,Positive,-0.1666666666666666,Negative,-0.252183198928833,Negative
+"Im a guy and love the Lyrics on this song, hope to find a women like that , who doesnt care about how expensive or where i get the ring from, as long i get one to merry her  she will be happy.",0.9346,Positive,0.1875,Neutral,0.5448575615882874,Positive
+Timothee te dedico paper rings.,0.0,Neutral,0.0,Neutral,0.228091761469841,Neutral
+2:05,0.0,Neutral,0.0,Neutral,-0.2724931240081787,Negative
+2:06,0.0,Neutral,0.0,Neutral,-0.257874071598053,Negative
+0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
+..,0.0,Neutral,0.0,Neutral,0.2459548264741897,Neutral
+I like this tune.,0.3612,Positive,0.0,Neutral,0.5453259348869324,Positive
+She's recording videos for songs we said should've had a video with the re-recordings. I'm manifesting one for this brilliant song.,0.6705,Positive,0.9,Positive,0.7164306640625,Positive
+this song gives me such a brittana vibe,0.0,Neutral,0.0,Neutral,0.686305046081543,Positive
+Te amoooo,0.6369,Positive,0.5,Positive,-0.3574701845645904,Negative
+queennnnnnnnnn😩😩🤌🤌🤌,-0.4939,Negative,0.0,Neutral,0.3085779249668121,Neutral
+I listened to this while making paper rings to propose to mt girlfriend hehehehe,0.0,Neutral,0.0,Neutral,-0.3768900036811828,Negative
+❤😻,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Perfect wedding song 😄😄😁😁😁🤣,0.9774,Positive,1.0,Positive,0.8065168857574463,Positive
+I marry you what type of rains baby Eddie are you okay Eddie I marry you with paper rings and the blood stains on the carpet Eddie are you okay are you okay that's a smooth cereal Eddie are you okay I marry you with paper rings are you okay Eddie are you okay that's a smooth cereal,0.8126,Positive,0.475,Positive,0.4916058480739593,Positive
+i love you taylor,0.6369,Positive,0.5,Positive,0.8029203414916992,Positive
+incredible,0.0,Neutral,0.9,Positive,0.817739725112915,Positive
+amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
+j'adore,0.6369,Positive,0.5,Positive,0.6569845676422119,Positive
+🧡,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
+I'm at the gym and i'm trying to stay silent but i literally want to scream the lyrics of this song,-0.4767,Negative,0.0,Neutral,-0.3579182028770447,Negative
+Why does this song gives off 90s vibes...?🎉,0.4019,Positive,0.0,Neutral,-0.2966407537460327,Negative
+THIS SCREAMS A HEALTH HAPPY RELATIONSHIP 😩🤍,0.1027,Positive,0.8,Positive,0.6426776647567749,Positive
+this song is so underrated- it's just so wholesome...and now it's my username.,0.0,Neutral,0.0,Neutral,0.7796562314033508,Positive
+:),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
+❤❤😍😍,0.9371,Positive,0.0,Neutral,0.3085779249668121,Neutral
+"Taylor Swift is the music industry and she's a queen of music. This song makes me feel very happy and that's why I've listen to all the time I can.
+
+""I like shiny things, but I'd marry you with paper rings"" - this line shows the true love 'cause it ain't matter if it's shiny or if it's paper, what matters is being with the person you really love.",0.9699,Positive,0.5875,Positive,0.6141383051872253,Positive
+I came here again and now i can’t leave.,-0.0516,Negative,0.0,Neutral,-0.4150170981884002,Negative
+Taylor can’t make a bad song….except “ME!”…IM KIDDING HAHAHA…,-0.3937,Negative,-0.8749999999999998,Negative,-0.3059428632259369,Negative
+not at me playing this song everytime i do my school works! this just a masterpiece,0.5859,Positive,0.0,Neutral,0.8112715482711792,Positive
+My favourite song from this album,0.0,Neutral,0.0,Neutral,0.8154597282409668,Positive
+from the start till 0:30 — this song screams Joe Goldberg's and Guinevere Beck's relationship.,-0.296,Negative,0.0,Neutral,0.4164298176765442,Positive
+0:22,0.0,Neutral,0.0,Neutral,-0.447476714849472,Negative
+"""Kiss me once 'cause you know I had a long night 
+Kiss me twice 'cause it's gonna be alright 
+Three times 'cause I've waited my whole life""
+*i cant even. its too perfect*",0.8834,Positive,0.3833333333333333,Positive,-0.3755690455436706,Negative
+"5/11/21
+Blaire, I came today. 
+This is your favorite song, I figured I'm gonna make it also my favorite.",0.7184,Positive,0.5,Positive,0.7865968942642212,Positive
+love this song so much it's just so fun and just so lovely. Probably one of my favourite songs from Lover,0.959,Positive,0.375,Positive,0.8663001656532288,Positive
+*When you love shiny things but you would get married with paper rings just to meet Taylor Swift in person,0.5859,Positive,0.375,Positive,0.2768369317054748,Neutral
+This song.... 🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️,0.0,Neutral,0.0,Neutral,0.5501987934112549,Positive
+"""Went home and tried to stalk you on the internet""
+
+
+
+
+
+
+*Marinette that u?*",0.0,Neutral,0.0,Neutral,-0.5841596722602844,Negative
+I need this LIVE !!!!!!,0.0,Neutral,0.5201859907670454,Positive,0.7743688821792603,Positive
+❤️le dedico esta hermosa canción a mi genial amiga Mari❤️,0.9173,Positive,0.825,Positive,0.8070279359817505,Positive
+✨💞💞✨,0.9217,Positive,0.0,Neutral,0.3085779249668121,Neutral
+✨💞💞✨,0.9217,Positive,0.0,Neutral,0.3085779249668121,Neutral
+✨💞💞✨,0.9217,Positive,0.0,Neutral,0.3085779249668121,Neutral
+So it goes dahling....,0.0,Neutral,0.0,Neutral,0.4183216392993927,Positive
+And lub me too....,0.0,Neutral,0.0,Neutral,0.5230948328971863,Positive
+Until you come to me....,0.0,Neutral,0.0,Neutral,-0.2468096017837524,Negative
+Can't stop....,0.2235,Positive,0.0,Neutral,-0.2900232970714569,Negative
+And I won't stop....,0.2235,Positive,0.0,Neutral,-0.4667160511016845,Negative
+I lub you....,0.0,Neutral,0.0,Neutral,0.3005986511707306,Neutral
+And I'm coming for you gurl....,0.0,Neutral,0.0,Neutral,0.4802598059177398,Positive
+Except you baby. 👌😎💯💯💯,0.8455,Positive,0.0,Neutral,0.2971634566783905,Neutral
+Until the job is finished and His kingdom is set. 💯💯💯💯,0.0,Neutral,0.0,Neutral,0.3723241984844208,Positive
+So another mission is alwayz right around the corner....,0.0,Neutral,0.2857142857142857,Neutral,0.4007055461406708,Positive
+Than when as a soldier your mission is complete....👌💯😎,0.8455,Positive,0.0,Neutral,0.4714309275150299,Positive
+You can't be more happy in life....,-0.4964,Negative,0.65,Positive,0.3454454839229584,Positive
+Hey you....,0.0,Neutral,0.0,Neutral,0.4377268552780151,Positive
+✨💞💞✨,0.9217,Positive,0.0,Neutral,0.3085779249668121,Neutral
+im here in Nov 2021 and imagine this as comedy opening song,0.3612,Positive,0.0,Neutral,0.4851779341697693,Positive
+i love how she can express what she loves to a song that everyone can love it to,0.9201,Positive,0.5,Positive,0.7208982110023499,Positive
+Love it!,0.6696,Positive,0.625,Positive,0.9114544987678528,Positive
+"I like him so much, taylor. He deserves the best but it feels like I'll never find another him. He's so pretty, tall, kind (like super!! sometimes, you'll think he's from a drama), smart (he excels the best in major subjects such as mathematics, science, English, and computer),  cute humor, cutie smile, and he plays the piano with such long graceful hands :((. This will be the last school year I'll see him and Idk what to do :)(",0.9963,Positive,0.2557422969187675,Neutral,0.5237277150154114,Positive
+Kale pag nahanp moto lab u,0.0,Neutral,0.0,Neutral,-0.3059335649013519,Negative
+Kale pag nahanap moto lab u,0.0,Neutral,0.0,Neutral,-0.3101651072502136,Negative
+16M,0.0,Neutral,0.0,Neutral,0.2393793314695358,Neutral
+"this song is so perfect aa ""I like shiny things, but I would marry you with paper rings"" 💛",0.8865,Positive,1.0,Positive,0.811206042766571,Positive
+❤❤❤❤❤,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
+every time i listen to this song i think of jake and amy<3,0.0,Neutral,0.0,Neutral,0.5546270608901978,Positive
+♥️♥️♥️♥️,0.9571,Positive,0.0,Neutral,0.2824088335037231,Neutral
+PAPER RINGSS UH HUH,0.0,Neutral,0.0,Neutral,-0.3186246156692505,Negative
+im surprised there are only 16 mil views,0.2263,Positive,0.05,Neutral,-0.4044535160064697,Negative
+gracias por está joyita<3,0.7003,Positive,0.6,Positive,0.6074724197387695,Positive
+this is a different vibe,0.0,Neutral,0.0,Neutral,-0.2868460118770599,Negative
+Finally found a song to play for my wedding day!💜,0.784,Positive,0.0,Neutral,0.6147470474243164,Positive
+crying over the fact that I can never relate to this ಥ﹏ಥ,-0.4767,Negative,-0.2,Negative,-0.6795786619186401,Negative
+the happiness radiating from this song makes me wanna cry omg,0.128,Positive,0.7,Positive,0.5869895815849304,Positive
+1:28 - 1:50,0.0,Neutral,0.0,Neutral,0.2497721016407013,Neutral
+♡︎♡︎♡︎!!!,0.0,Neutral,0.0,Neutral,0.7675008773803711,Positive
+"""Now I wake up in the night and watch you breathe"" 😌😌💗💗",0.9432,Positive,0.0,Neutral,0.4813760221004486,Positive
+if you're not here because of TikTok then I'd marry you with paper rings <3,0.4404,Positive,1.0,Positive,0.2909351885318756,Neutral
+why is this so underrated 🥺,0.0,Neutral,0.0,Neutral,0.5416239500045776,Positive
+sweet song 🤍,0.4588,Positive,0.35,Positive,0.5265536904335022,Positive
+aha that's right,0.0,Neutral,0.2857142857142857,Neutral,0.4501526057720184,Positive
+Not getting married unless I find someone who makes me feel like this song does,0.3612,Positive,0.25,Neutral,-0.3775665760040283,Negative
+Loved,0.5994,Positive,0.7,Positive,0.7179429531097412,Positive
+英語喋れないけどWrap your arms around me baby boyのところだけ完璧に歌える！笑,0.8845,Positive,0.0999999999999999,Neutral,0.4011743664741516,Positive
+🦋🌹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"*🦄Kinda song you drive to & kinda song on bed lie to ... every night person will like this song for sure, if you are one of them..nice to meet you :)*",0.5859,Positive,0.5,Positive,0.4997365772724151,Positive
+I love lover ❤️,0.8402,Positive,0.5,Positive,0.7211824059486389,Positive
+"'I hate accidents, except when we went from friends to this'",-0.4404,Negative,-0.8,Negative,-0.3270985782146454,Negative
+"nunca me voy a arrepentir de haberla staneado, taylor te amo💘",0.9207,Positive,0.5,Positive,0.3779793977737427,Positive
+'Went Home and tried to stalk you on the internet' Most Retable crush line ever,-0.2212,Negative,0.5,Positive,-0.8418147563934326,Negative
+I feel like I'm the main character when I hear this song,0.3612,Positive,0.1666666666666666,Neutral,0.2962151765823364,Neutral
+"This song fits me just about perfect! I have a future girlfriend that'll hopefully be my future wife. She's in a different state right now, so we can only communicate through the internet for the time being.... I sent her this song saying this is kind of me right now, her reply was wondering why I'm so sweet ^_^ for her. I'll be glad to wait for her.",0.9268,Positive,0.3021428571428571,Neutral,0.7948975563049316,Positive
+"Do You really need Mine ,Dear ts ?",0.4336,Positive,0.2,Neutral,0.2422906458377838,Neutral
+I'm surprised she's not married to Joe yet after listening to this song.,0.2263,Positive,-0.0124999999999999,Negative,0.3359008729457855,Positive
+PAPER RINGS,0.0,Neutral,0.0,Neutral,0.2604188919067383,Neutral
+"It has been more than 2 years, but I'm still obsessed with "" I like shiny things but I'd marry you with paper rings""",0.296,Positive,0.0,Neutral,0.4279069006443023,Positive
+1:26,0.0,Neutral,0.0,Neutral,-0.2447115182876587,Negative
+“Wrap your arms around me _baby boi”_ 💀💀,0.0,Neutral,0.0,Neutral,0.5005597472190857,Positive
+💞💞,0.8625,Positive,0.0,Neutral,0.3085779249668121,Neutral
+❤❤❤❤❤,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
+😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+This song always remind of Jackie and Hyde from that's the 70s show :)),0.0,Neutral,0.5,Positive,0.6132588386535645,Positive

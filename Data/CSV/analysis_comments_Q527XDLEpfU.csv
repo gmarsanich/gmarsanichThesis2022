@@ -1,0 +1,627 @@
+Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+Y,0.0,Neutral,0.0,Neutral,0.3310393095016479,Positive
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
+Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
+A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
+M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
+E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
+T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
+Se parece a roman reigns ssjs,0.0,Neutral,0.0,Neutral,0.3732233345508575,Positive
+Lido torre eta en casaa,0.0,Neutral,0.0,Neutral,0.2931530773639679,Neutral
+Lindo día kete las manden el número de cuenta etad en casa kiero irme para yaaap. Pero agale,0.296,Positive,0.6,Positive,-0.3635326325893402,Negative
+2022 im here,0.0,Neutral,0.0,Neutral,-0.250359833240509,Negative
+"mi prima : oye por que se salió de control tu cumple años?
+yo: no nada , solo me dormí a las 9:30 am, escuchamos esta canción , rompimos cosas en mi casa , la alberca quedo de ni te cuento , y mi habitación no se salvo  de el desmadre  , mi cocina quedo echa un desmadre y pues ya todo  tranqui 🙃
+ pero te cuento algo , así es mi vida y solo mía",-0.2617,Negative,0.0416666666666666,Neutral,-0.399905264377594,Negative
+Reportence 2022❤,0.6369,Positive,0.0,Neutral,0.2473398149013519,Neutral
+Oigan Maluma se parece a Román reings,0.3612,Positive,0.0,Neutral,-0.3679961860179901,Negative
+DIOSES EN EL 2022?,0.0,Neutral,0.0,Neutral,-0.3639946579933166,Negative
+Who listening un 2⁰22?,0.0,Neutral,0.0,Neutral,-0.5166985988616943,Negative
+Quien lo sigue escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.3930476903915405,Positive
+Quien en 2022❤️😎,0.4588,Positive,0.0,Neutral,0.410000741481781,Positive
+2022??? Algún sobreviviente,0.466,Positive,0.0,Neutral,-0.5688422322273254,Negative
+"Ay maluma guachito, vuelve a tener el pelo así porfavor. Me derrito 😍",0.7783,Positive,0.0,Neutral,-0.80177903175354,Negative
+Un minuto de silencio para los que vieron a sus hermanas ahí 😂,0.4404,Positive,0.0,Neutral,0.3586935400962829,Positive
+"*_""Estoy totalmente segura que la persona que se detuvo a leer este comentario, será muy exitosa en todo lo que haga"" ☺️💙..._*",0.9183,Positive,0.7375,Positive,0.5070763230323792,Positive
+Ya estamos en el 2022,0.0,Neutral,0.0,Neutral,0.3510925769805908,Positive
+Yoo la escucho 🥺❤,0.6369,Positive,0.0,Neutral,0.2766420245170593,Neutral
+Mi canción favorita me da igual si es 2022 o 3040 siempre la voy a escuchar quien ma ala sigue escuchando en 2022?,0.0956,Positive,0.5,Positive,0.5097032785415649,Positive
+19/04/2022 UWU KAWWAI,0.0,Neutral,0.0,Neutral,-0.41934534907341,Negative
+Hate tve game ir player??,-0.6199,Negative,-0.6000000000000001,Negative,-0.8066760301589966,Negative
+You turn??..you love black woman,0.6767,Positive,0.1666666666666666,Neutral,-0.448607861995697,Negative
+También thinking you cold Night,0.0,Neutral,-0.6,Negative,0.2765704989433288,Neutral
+daddy help,0.4019,Positive,0.0,Neutral,0.458844244480133,Positive
+Maluma i your are gay,0.0,Neutral,0.4166666666666667,Positive,-0.5503273606300354,Negative
+Viendo 2022,0.0,Neutral,0.0,Neutral,0.2924474477767944,Neutral
+Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
+2022 anyone ??,0.0,Neutral,0.0,Neutral,-0.6295204758644104,Negative
+Quien sigue escuchando en 2022?☺😀,0.6705,Positive,0.0,Neutral,-0.3150885701179504,Negative
+hữu đằng ốc quế sầu riêng nè,0.0,Neutral,0.0,Neutral,-0.3639651536941528,Negative
+I love you Maluma💋👍🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌,0.7906,Positive,0.5,Positive,0.8701996207237244,Positive
+k guap000 😭😭😋 malumalamia,-0.7351,Negative,0.0,Neutral,-0.2553862929344177,Negative
+Quien en el 2022,0.0,Neutral,0.0,Neutral,0.2995925545692444,Neutral
+2022¿ alguien?,0.0,Neutral,0.0,Neutral,-0.5067787170410156,Negative
+ما هذا القرف 🙃,-0.6428,Negative,-0.2,Negative,0.5163564085960388,Positive
+es la mejor,0.6369,Positive,1.0,Positive,0.8076527118682861,Positive
+QUIENLO SIGUE ESCUCHANDO EN 2022,0.0,Neutral,0.0,Neutral,0.4392122030258178,Positive
+"""me cague en el party mala mia""
+
+Maluma",-0.6597,Negative,-0.4499999999999999,Negative,-0.5531350374221802,Negative
+Cette chanson est très sensuelle et tellement contagieuse...,-0.4795,Negative,0.2,Neutral,0.4838393330574035,Positive
+15/04/22 ❤️ y lo sigo amando,0.6369,Positive,0.5,Positive,-0.3155654072761535,Negative
+Alguien en el 2022 papus ?,0.0,Neutral,0.0,Neutral,-0.5594887137413025,Negative
+Quien lo siguiente escuchando en el 2022 jjjj,0.0,Neutral,0.0,Neutral,0.2859009802341461,Neutral
+Vamos aver quien la escucha en este 2022 vamos aver los fans de maluma y su mala mía hp 🥴🥴🥴🥴,-0.5423,Negative,-0.6999999999999998,Negative,-0.4659252762794494,Negative
+Que asco,-0.4767,Negative,0.0,Neutral,-0.2601955831050873,Negative
+yo en2022,0.0,Neutral,0.0,Neutral,0.4062584340572357,Positive
+Ooo xd,0.5859,Positive,0.0,Neutral,0.3188011944293976,Neutral
+🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
+maluma king 👑,0.0,Neutral,0.1,Neutral,-0.4718434810638428,Negative
+Ay que pensar bien amor,0.743,Positive,0.5,Positive,0.3894549608230591,Positive
+Mi vida es Tuyo y Tuyo Ozuna,0.0,Neutral,0.0,Neutral,0.2817659080028534,Neutral
+TE AMO TE Ozuna TE amo TE AMO TE AMO TE AMO TE AMO.,0.9803,Positive,0.5,Positive,0.3191792070865631,Neutral
+TE AMO ozuna TE AMO TE AMO TE AMO .,0.971,Positive,0.5,Positive,0.3534737825393677,Positive
+Bye,0.0,Neutral,0.0,Neutral,0.4491545855998993,Positive
+Parce quien lo sigue escuchando en el 2022 😝💥,0.0,Neutral,0.0,Neutral,0.3764155507087707,Positive
+Quien lo sigue escuchando en el 2022??😎🔥,0.2406,Positive,0.0,Neutral,-0.3730604648590088,Negative
+Que bonita música😘,0.7717,Positive,0.85,Positive,0.4537115693092346,Positive
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Quien la escucha en 2022,0.0,Neutral,0.0,Neutral,0.3191027045249939,Neutral
+"*_Todos venimos aquí a recordar, buenos momentos de nuestra vida con esta canción❤_*",0.7964,Positive,0.7,Positive,0.6475518345832825,Positive
+Quien 2022? Good Good,0.7003,Positive,0.7,Positive,0.4264287650585174,Positive
+Abril 2022 ( mala mía),-0.5423,Negative,-0.6999999999999998,Negative,-0.6633090376853943,Negative
+Alguien en 2022,0.0,Neutral,0.0,Neutral,-0.3778897225856781,Negative
+Esta canción la escuché cuando salió la serie sin miedo ala verdad,0.6031,Positive,0.0,Neutral,0.4322122037410736,Positive
+En el 2022 jeje,0.0,Neutral,0.0,Neutral,0.245667278766632,Neutral
+2022 😎👌,0.8455,Positive,0.0,Neutral,0.2993581593036651,Neutral
+Alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
+Andrés 👍,0.0,Neutral,0.0,Neutral,0.340793251991272,Positive
+"Que yo
+OK
+👍🆗",0.5904,Positive,0.5,Positive,0.362295389175415,Positive
+Maluma 👍,0.0,Neutral,0.0,Neutral,-0.5309234261512756,Negative
+"👍🆗
+Hola soy
+Andrés",0.4466,Positive,0.0,Neutral,0.3580376207828522,Positive
+Andrés,0.0,Neutral,0.0,Neutral,0.2821469008922577,Neutral
+La mejor canción de la historia ser como:,0.7717,Positive,1.0,Positive,0.8992144465446472,Positive
+Rica vida 😁,0.765,Positive,0.375,Positive,0.5754743218421936,Positive
+.-.,0.0,Neutral,0.0,Neutral,0.247612789273262,Neutral
+Alguien en el 2022?,0.0,Neutral,0.0,Neutral,-0.5519518852233887,Negative
+Quién la escucha en 2022,0.0,Neutral,0.0,Neutral,0.3191027045249939,Neutral
+Quien la escucha en 2022🔥,-0.34,Negative,0.0,Neutral,0.3862582445144653,Positive
+"Maluma: sin miedo ala verdad, mala mia",0.1098,Positive,-0.6999999999999998,Negative,-0.6489073634147644,Negative
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Ese Maluma seductor neto neto jajjaa,0.5574,Positive,0.0666666666666666,Neutral,-0.6090633869171143,Negative
+Yo muy hermoso tema,0.6361,Positive,1.0,Positive,0.7745762467384338,Positive
+😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
+:),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
+Pero si se cago literal en el party?,-0.3291,Negative,-0.2,Negative,0.4146946966648102,Positive
+PINAR DU HOE,0.0,Neutral,0.0,Neutral,-0.2666576504707336,Negative
+quien la sigue escuchando en el 2022 ?              Mala  Mia  BABY,-0.6908,Negative,-0.6999999999999998,Negative,-0.5487170219421387,Negative
+Yu💋💋💋💋💋💋👩💋💋💋💋💋💋🍻🍻🍷😍,0.9868,Positive,0.0,Neutral,0.3085779249668121,Neutral
+2022🏋️😁🙏🤗,0.7003,Positive,0.0,Neutral,0.3085779249668121,Neutral
+2022 anyone 😍,0.4588,Positive,0.0,Neutral,-0.5234546065330505,Negative
+"""así es mi vida es solo mía tu no la vivas si te molesta pues mala mía"" creo que todos no identificamos no?",-0.4939,Negative,-0.0694805194805194,Negative,-0.501814067363739,Negative
+toàn cây hài ko ta ơi,0.4019,Positive,0.0,Neutral,-0.2979017198085785,Negative
+vtm ❤❤❤ 😍😍,0.7184,Positive,0.0,Neutral,0.342676043510437,Positive
+Maluma,0.0,Neutral,0.0,Neutral,-0.5278192162513733,Negative
+Este tema sigue de moda en el mundo 🗺️🌎🤙👺😎,0.7351,Positive,0.0,Neutral,0.477340817451477,Positive
+MALUMA ES CHINGON,0.0,Neutral,0.0,Neutral,-0.469616174697876,Negative
+En el 2022 quien,0.0,Neutral,0.0,Neutral,0.2322984486818313,Neutral
+diego viego,0.0,Neutral,0.0,Neutral,0.2516027390956878,Neutral
+Heeeeeeeeeeermooooooooooosoooooooooooooo 🥴😏,0.0,Neutral,0.0,Neutral,0.2428916990756988,Neutral
+Quien lo sigue escuchando en el 2022 😍,0.4588,Positive,0.0,Neutral,0.3944723606109619,Positive
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Does anybody know what sunglasses is he wearing?,0.0,Neutral,0.0,Neutral,-0.3288694322109222,Negative
+"Quien sigue escuchando este temón en el 2022  
+MALA MÍA!!!!!!",-0.7507,Negative,-1.0,Negative,-0.7727351784706116,Negative
+🔥🔥🔥🔥🤩🤩🛐🛐🛐🛐,-0.2023,Negative,0.0,Neutral,0.3085779249668121,Neutral
+genio!,0.0,Neutral,0.0,Neutral,0.8405265808105469,Positive
+Alguien más por aquí en el 2022,0.0,Neutral,0.0,Neutral,-0.2625422775745392,Negative
+Quien lo escucha en el 2022,0.0,Neutral,0.0,Neutral,0.2897232174873352,Neutral
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Quien en 2022,0.0,Neutral,0.0,Neutral,0.3151768445968628,Neutral
+El Maluma y sus mujeres en aquel tiempo 😂,0.4404,Positive,0.0,Neutral,0.2766245305538177,Neutral
+Esta  fea la canción      están muy bonito las alabanzas de dios,0.7688,Positive,0.15,Neutral,0.5723015666007996,Positive
+Yo en el2022,0.0,Neutral,0.0,Neutral,0.3397591114044189,Positive
+"Me encanta esta canción por que a parte de alégrarte cada vez que se escucha. 
+Otra cualidad que tiene es que te tiene que dar igual lo que digan cuando lo digan mientras tú veas feliz a vivir la vida 😊🎉💋",0.966,Positive,0.4372727272727272,Positive,0.6133309602737427,Positive
+2022 anyone??😇,0.5204,Positive,0.0,Neutral,-0.6631858944892883,Negative
+Es buena buena ya estamos en el 2022 y ya la estoy escuchando,0.7003,Positive,0.7,Positive,0.475185215473175,Positive
+Yo en el 2022 escuchandola 💘✨,0.7579,Positive,0.0,Neutral,0.4078655838966369,Positive
+maluma es un narco traficante,0.0,Neutral,0.0,Neutral,-0.6781589984893799,Negative
+Malumaa❤️🥰 2022,0.8074,Positive,0.0,Neutral,0.3251382708549499,Neutral
+Yo sigo escuchando esto en 2022 hermosa canción😏😍,0.7845,Positive,0.85,Positive,0.7718677520751953,Positive
+Hola momento de la vida🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.4264524579048157,Positive
+Será que así es su vida,0.0,Neutral,0.0,Neutral,0.3403357565402984,Positive
+Quien 2022,0.0,Neutral,0.0,Neutral,0.3619958460330963,Positive
+Quien en el 2022 🙏🙏🥰🥰🥰🥰🇧🇴🇧🇴🇧🇴🇧🇴,0.9774,Positive,0.0,Neutral,0.2671230733394623,Neutral
+Terminé volviéndome adicto a escuchar tanto mirar sin miedo a la verdad.,0.5667,Positive,0.0833333333333333,Neutral,0.5787656307220459,Positive
+2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
+Quien escucha esta canción en 2022,0.0,Neutral,0.0,Neutral,0.3235695958137512,Neutral
+Está canción es bueno más buena por qué sale en sin miedo a la verdad,0.8756,Positive,0.6333333333333333,Positive,0.3400485515594482,Positive
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Vengo del 2050 y sigue siendo temazo 🔥🔥🔥🔥🔥🇨🇱🇨🇱🇨🇱🇨🇱,-0.5423,Negative,0.8,Positive,0.4631616175174713,Positive
+pt bibanu,0.0,Neutral,0.0,Neutral,0.26355841755867,Neutral
+I🐷Fjejfurqjeurudusjs,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+"One of the best videos I've seen regarding the subject, excellent explanation and very relevant information, it was just what I was looking for, thank you, I hope you continue uploading content, you have my support....",0.9432,Positive,0.5883333333333334,Positive,0.9009867310523988,Positive
+nunca pasa de moda el maluma saludos de Brasil,0.4215,Positive,0.0,Neutral,-0.7026265263557434,Negative
+No hay modelos negras? Mala tuya!!!!,-0.7825,Negative,-0.4583333333333333,Negative,-0.7008607983589172,Negative
+Bro me bese a tu novia y pues mala Mía 😎,-0.0258,Neutral,-0.6999999999999998,Negative,-0.6314406394958496,Negative
+Alguien aki en 2022,0.0,Neutral,0.0,Neutral,-0.3249559700489044,Negative
+2026 y sigo escuchando,0.0,Neutral,0.0,Neutral,-0.3710257411003113,Negative
+😘😘😘😘,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Wie immer voll versaute video klip😅,-0.1027,Negative,-0.125,Negative,0.523518979549408,Positive
+Mala Mia baby 💕🥰 2022,0.886,Positive,0.0,Neutral,-0.5985062718391418,Negative
+#malumapelon😘😍,0.7003,Positive,0.0,Neutral,0.3444786071777344,Positive
+😂🙏💪,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Siempre MALA MÍA,-0.5423,Negative,-0.6999999999999998,Negative,-0.7601150870323181,Negative
+2022 algian my siii😍😍,0.7184,Positive,0.0,Neutral,0.5242176055908203,Positive
+Gracias parceros  los amo,0.7964,Positive,0.35,Positive,0.4900289177894592,Positive
+Jajaja soy yo solo yo jajaja me pase de tragos mala mía......o,0.5719,Positive,0.05,Neutral,-0.5312207937240601,Negative
+Algo bn 2022,0.4404,Positive,0.7,Positive,0.3662688136100769,Positive
+Alguien sigue escuchando en 2022✨👌💜,0.9124,Positive,0.0,Neutral,-0.2550056576728821,Negative
+HOLA,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
+Quien lo sigue escuchando en el 2023 😍😍,0.7184,Positive,0.0,Neutral,0.4246791899204254,Positive
+😎✌🏼,0.7351,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Marzo 2022,0.0,Neutral,0.0,Neutral,-0.3453613519668579,Negative
+Hola difrutar la vida🥰🥰🤯🤯😘,0.9666,Positive,0.4,Positive,0.4193582832813263,Positive
+Así es mi vida.. Es sólo mía.. Tú no la vivas... Si te molesta pues mala mía 😜😜😜 marzo 2022 🤩🤩,-0.6486,Negative,-0.1878787878787878,Negative,-0.3395975828170776,Negative
+2022?🎧🔥,-0.34,Negative,0.0,Neutral,-0.385463684797287,Negative
+Conra anuel te odia :v 3:01,-0.4404,Negative,0.0,Neutral,-0.4125232398509979,Negative
+J balvin saco una buena cancion de free fire a comparacion esta redefea la letra 🤣🤣🤣🤮🤢😡,0.9246,Positive,0.55,Positive,0.3592561781406402,Positive
+Q🤮🤮,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Quien sigue escuchando en 2022,0.0,Neutral,0.0,Neutral,0.463166207075119,Positive
+Aquí los del 2022,0.0,Neutral,0.0,Neutral,0.2860359251499176,Neutral
+Esta canción me recuerda a la serie de sin miedo a la verdad,0.1695,Positive,0.0,Neutral,0.4753494262695312,Positive
+maluma semi calvo canta bien,0.2732,Positive,0.0,Neutral,0.4412042796611786,Positive
+JA!!! SO BIN ICH! Die Budde voller Fans!,0.6809,Positive,0.4375,Positive,0.7757992148399353,Positive
+2022 y aún la escucho 😎,0.4588,Positive,0.0,Neutral,0.3911134004592895,Positive
+Ya ni el it se ríe así como tonto,-0.1351,Negative,0.0,Neutral,-0.6584172248840332,Negative
+MALUMA,0.0,Neutral,0.0,Neutral,-0.5278192162513733,Negative
+Aquí 2022,0.0,Neutral,0.0,Neutral,0.3188705146312713,Neutral
+"Quien 2022?, aun sigue sonando 😈",0.4588,Positive,0.0,Neutral,0.4401298463344574,Positive
+Like si la descubriste por la novela jajajajajajaja,0.5859,Positive,0.0,Neutral,0.3225144147872925,Neutral
+Joder en el 2022 sigue estando igual de guapa la canción 😍👌,0.8842,Positive,0.85,Positive,-0.5013821721076965,Negative
+🤢🤮🤮🤮,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
+2025 mierda,-0.5574,Negative,-0.2,Negative,-0.3115915656089782,Negative
+2022..SALUDOS D MEXICO 🇲🇽.. COLOMBIA Y MEXICO 2 PAISES ERMANOS SIN DUDA!! ❤️,0.7763,Positive,0.0,Neutral,-0.6145390272140503,Negative
+Yo tambien me cage en el pai,0.0,Neutral,0.0,Neutral,0.3274797797203064,Neutral
+Enano terrajaaa,0.0,Neutral,0.0,Neutral,0.243950679898262,Neutral
+es guapo maluma,0.4939,Positive,0.5,Positive,-0.4175106883049011,Negative
+GOOOOOOOOOOOOOD,0.0,Neutral,0.0,Neutral,0.2351989299058914,Neutral
+Quizá la canción que más fama le ha dado a maluma fue tremendo éxito ❤️😍🎶🎶,0.8803,Positive,0.3777777777777777,Positive,0.7425531148910522,Positive
+En Pleno 2022 Escuchando Esta Joya💖✨,0.8904,Positive,0.0,Neutral,0.3987988233566284,Positive
+🔥🔥🔥🐯,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
+Maluma Rey del armadilha traper,-0.3182,Negative,0.0,Neutral,-0.5797858834266663,Negative
+😈😈,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
+É me l 🎼👍🎵💪.,0.4588,Positive,0.0,Neutral,0.4817276000976562,Positive
+como le encanta expresarse a un hueco en la comunidad de hombres donde la expresion de si mismo es el concepto de un hombre a un hueco que pide un bache donde siempre hay competencia,0.5719,Positive,0.0,Neutral,0.7258396744728088,Positive
+estos hábitos masculinos,0.0,Neutral,0.1,Neutral,0.2353298664093017,Neutral
+elegante alrededor de los agujeros que está en el cielo,0.7506,Positive,0.5,Positive,0.4384235143661499,Positive
+"qué tipo de conocimiento mantener en conos, me encantó después de un descanso una resaca donde en la nitidez de mis hábitos😁",0.7845,Positive,0.6499999999999999,Positive,0.6939721703529358,Positive
+Mala mia language swahili 😍😍😍,0.7783,Positive,0.0,Neutral,-0.3768994212150574,Negative
+Sjjsjs un chuchaaa,0.0,Neutral,0.0,Neutral,0.2670395374298095,Neutral
+Deverdad la musica de maluma es lo maximo,0.6682,Positive,0.6,Positive,0.2737663984298706,Neutral
+Quiencescucjando esto en el 2022,0.0,Neutral,0.0,Neutral,-0.3207718431949615,Negative
+Quien 2022?,0.0,Neutral,0.0,Neutral,-0.4324970543384552,Negative
+Quien sigue escuchando en 2022❣🤩,0.6369,Positive,0.0,Neutral,0.5049071907997131,Positive
+Que hombre delicioso maravilhoso,0.8126,Positive,1.0,Positive,0.9261144995689392,Positive
+Colapurso ne maly 2022😷😷,0.0,Neutral,0.0,Neutral,-0.3290720880031585,Negative
+Лзиу,0.0,Neutral,0.0,Neutral,0.2493626624345779,Neutral
+Aquí en el año 2022 🤪,0.0,Neutral,0.0,Neutral,0.4032895565032959,Positive
+Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
+Yo amo a maluma lo pasó escuchando y estamos en el 2022 xd bueno lo amo 😍,0.9538,Positive,0.3,Neutral,0.5515016913414001,Positive
+2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
+"Mi canción favorita, no me importa si es 2022 o 3033, siempre voy a escuchar este temazo, porfa no dejen morir esta joyita. 😎👌🏻",0.9149,Positive,0.65,Positive,0.827154278755188,Positive
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+0:59,0.0,Neutral,0.0,Neutral,-0.4456565380096435,Negative
+How many people listening to this masterpiece in 2022?,0.7073,Positive,0.5,Positive,-0.3039088547229767,Negative
+Maluma😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
+El men sin padres con falta de atención: quien lo escucha en 2022 👊😇,0.4588,Positive,0.0,Neutral,-0.3491794764995575,Negative
+Es verdad cuando la personas se inventan algo de otras personas y critican  eso es envidia,-0.2263,Negative,0.1124999999999999,Neutral,-0.4614955186843872,Negative
+عبر بذوقك محمد,0.0,Neutral,0.0,Neutral,0.4017557501792907,Positive
+22 xd,0.5859,Positive,0.0,Neutral,0.2947887182235718,Neutral
+FACHAAAAA,0.0,Neutral,0.0,Neutral,0.2916713356971741,Neutral
+2022😱😲🙌🙋🙊💏💋💖💪👌✌👍☝,0.9654,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Uno siempre vuelve a dónde fue feliz yo aquí escuchando a Maluma buena mía 🍷💃💃💃💅💅💅💅💅,0.765,Positive,0.75,Positive,0.6789107918739319,Positive
+Quien lo sigue escuchando en 2022?,0.0,Neutral,0.0,Neutral,-0.3638707995414734,Negative
+Quien la sigue escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.4002824127674103,Positive
+this has got to be the hottest man alive,0.3818,Positive,0.1,Neutral,0.7540446519851685,Positive
+Quien escuchando en 2022 arriba los que nunca dejarán de escuchar esta joyita 🎶,0.2235,Positive,0.0,Neutral,-0.4216293096542358,Negative
+Que do muy melo,0.0,Neutral,0.2,Neutral,-0.2713472545146942,Negative
+Thạc loạn âm nhạc lũ mọi rợ,-0.5719,Negative,-0.7,Negative,-0.3654632568359375,Negative
+Hư hỏng,-0.4404,Negative,0.0,Neutral,0.2506659030914306,Neutral
+humildad al 100*,0.0,Neutral,0.0,Neutral,0.3783027529716491,Positive
+https://youtu.be/SRt0KAMCI4Q  . .,0.0,Neutral,0.0,Neutral,-0.2408041507005691,Negative
+"Yo conocí está canción por ""sin miedo a la verdad"" y está bonita la canción",0.8329,Positive,0.85,Positive,0.4556209743022918,Positive
+Quien escuchando esta rola 2022?,0.0,Neutral,0.0,Neutral,-0.6515706181526184,Negative
+Oye,0.0,Neutral,0.0,Neutral,0.2745459377765655,Neutral
+Aqui 2022;),0.2263,Positive,0.25,Neutral,0.4244758784770965,Positive
+0:58,0.0,Neutral,0.0,Neutral,-0.4355652034282684,Negative
+El farao 😂,0.4404,Positive,0.0,Neutral,0.460096538066864,Positive
+"Ese vídeo es una total mentira, Malula es gay.",0.0,Neutral,0.2083333333333333,Neutral,-0.9275690317153932,Negative
+Primera vez que la escucho completa. En 2022,0.0,Neutral,0.25,Neutral,0.4439380764961242,Positive
+2022❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+☣️☣️☣️☣️☣️☣️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
+EL MEJOR REGUETONERO DE COLOMBIA SIN DUDAS,0.7438,Positive,1.0,Positive,0.8278627991676331,Positive
+I am in LOVE with that girl's dress. The see-though sparkles with the black straps underneath. I need that dress in my life. 2:47 (left side),0.8038,Positive,0.1111111111111111,Neutral,0.4503439962863922,Positive
+Quien lo sige escuchando en el 2022 ?😉,0.0,Neutral,0.0,Neutral,-0.4008206129074096,Negative
+Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
+"Que Dios les bendiga, bendiciones de mi parte, que Dios les de muchos ánimos, muchos ánimos de mi parte, que Dios les de muchos éxitos, muchos éxitos de mi parte y a los qué leerán esto también.",0.9735,Positive,0.375,Positive,0.7427200078964233,Positive
+Quién lo escucha en el 2022,0.0,Neutral,0.0,Neutral,0.2897232174873352,Neutral
+Yo aún en el 2022,0.0,Neutral,0.0,Neutral,0.328000009059906,Neutral
+Thanks...Brroo,0.0,Neutral,0.0,Neutral,0.3082647025585174,Neutral
+han pasado los años y aun recuerdo la letra,0.0,Neutral,0.0,Neutral,0.4772046208381653,Positive
+كل الدعم حبايب قلبي ❤❤❤❤,0.9661,Positive,0.5,Positive,0.6649921536445618,Positive
+Quién 2022,0.0,Neutral,0.0,Neutral,0.3619958460330963,Positive
+2022🤙,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Quien lo sigue escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.3930476903915405,Positive
+Pura envidia... ufff,-0.2732,Negative,0.2142857142857142,Neutral,0.7135983109474182,Positive
+Quien en 2022?,0.0,Neutral,0.0,Neutral,-0.4163244068622589,Negative
+Quien 2022,0.0,Neutral,0.0,Neutral,0.3619958460330963,Positive
+0:45 ops😂❤,0.7964,Positive,0.0,Neutral,-0.4252288937568664,Negative
+My favorite dirty boy ever🤤❕,0.0258,Neutral,-0.0499999999999999,Negative,0.893057107925415,Positive
+100k comments soon!!!,0.0,Neutral,0.0,Neutral,0.4722035229206085,Positive
+Corona vírus el farao😂,0.4404,Positive,0.0,Neutral,-0.3755375146865845,Negative
+miky la sensa tremendo dios para componer tremenda rolaaaa,0.3384,Positive,0.3333333333333333,Positive,0.3228183388710022,Neutral
+Alguien en 2022 ???,0.0,Neutral,0.0,Neutral,-0.6594125032424927,Negative
+Quién la escucha en pleno 2022,0.0,Neutral,0.0,Neutral,0.3088842034339905,Neutral
+Quién la sigue escuchando en 2022 solo x la serie de sin miedo a la verdad,0.6031,Positive,0.0,Neutral,0.3703690469264984,Positive
+"ESCUCHA mis DE MAS canciones en #spotify les dejo el link de las rolas en la descripción 
+(DISCO: 1%)
+
+CANAL Camargo Artist: 
+https://www.youtube.com/channel/UCEpKqJrIgxHB3yPvgLmilyw
+FACEBOOK: https://www.facebook.com/Camargo-Artist-301145651679102
+INSTAGRAM: https://www.instagram.com/camargoblancarte/?hl=es-la
+
+Camargo - Contra mi voluntad (VIDEO OFICIAL) https://www.youtube.com/watch?v=_-j-JNYBfw0&t=91s
+
+MUSIC:
+#spotify RECORRIDO MIRTOS L 28: https://open.spotify.com/track/4aiZnfHgsof2YBOi3X874d?si=e48f722e9aa5435c
+#spotify BITCOIN MILLONARIOS: https://open.spotify.com/track/2fmRBpvRXtuvExCGuKJd1R?si=eb0da446597c4b64
+#spotify TOXICA: https://open.spotify.com/track/43M1olipXe35AqRAb1Tmb5?si=3ffef600ada04f1c
+#spotify: CONTRA MI VOLUNTAD https://open.spotify.com/track/7LGsgIYXf3utDa5qDv4BNO?si=d250edf71e7b437f
+#youtube Contra mi voluntad: https://www.youtube.com/watch?v=_-j-JNYBfw0&t=91s",0.6697,Positive,-0.125,Negative,-0.4707573056221008,Negative
+يع ✨,0.3182,Positive,0.0,Neutral,0.2755767405033111,Neutral
+Los que los buscaron y escuchan en el 2022,0.0,Neutral,0.0,Neutral,0.4749561846256256,Positive
+Soy su fan lo amo 😎lo quiero conocer en persona 🥴😩,0.8271,Positive,0.5,Positive,0.697729766368866,Positive
+Muy real gente envidiosa es lo que hay en este mundo,-0.3353,Negative,0.26,Neutral,0.7279539704322815,Positive
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Я вас лублю 🥰🥰🥰🥰🥰,0.9916,Positive,0.5,Positive,0.3838622272014618,Positive
+"El director: Maluma cuantos mujeres quieres en el video?
+Maluma: Si",0.4588,Positive,0.5,Positive,-0.4167492389678955,Negative
+Always love Maluma songs and he looks really cute.and has a cute smile 🥰🥰🥰🥰🥰🥰❤️🥰🥰🥰❤️❤️❤️❤️🇬🇧🇬🇧🇬🇧,0.9975,Positive,0.375,Positive,0.7322529554367065,Positive
+I SLEPT WITH 3 SISTERS IN MY YOUTH! UNFORTUNATELY NOT AT THE SAME TIME!,-0.5743,Negative,0.125,Neutral,-0.4542644023895263,Negative
+I Slept with 3 sisters on my youth! Nat at the same time...😆,0.4199,Positive,0.0,Neutral,0.4505610167980194,Positive
+LATINO POWER!,0.0,Neutral,0.0,Neutral,0.8017571568489075,Positive
+Bora bora baixo,-0.2732,Negative,0.0,Neutral,0.3187756836414337,Neutral
+Calma to chegando 😁🤫🏋️,0.6486,Positive,0.0722222222222222,Neutral,0.5824170708656311,Positive
+Ya es 2022 y sigo enamorada de él desde el 2015 😩,0.4767,Positive,0.5,Positive,0.6940317749977112,Positive
+Cualquiera,0.0,Neutral,0.0,Neutral,-0.2586332261562347,Negative
+2022  quien ?,0.0,Neutral,0.0,Neutral,-0.4092276990413666,Negative
+Neymar: me bese a tu novia mala mia🙃🔊,-0.2263,Negative,-0.6999999999999998,Negative,-0.5400081276893616,Negative
+Qn lo oye en 2022,0.0,Neutral,0.0,Neutral,0.2890269756317138,Neutral
+2022👋,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
+Mala mia😏✅,-0.5423,Negative,-0.6999999999999998,Negative,-0.4560636281967163,Negative
+ASI ES MI VIDA,0.0,Neutral,0.0,Neutral,0.6524867415428162,Positive
+Sa nu vi in Romania,0.0,Neutral,0.0,Neutral,-0.4698258936405182,Negative
+Slab,0.0,Neutral,0.0,Neutral,-0.4665745794773102,Negative
+2022 y sigo sin superar esta joya,0.0,Neutral,0.0,Neutral,0.351615697145462,Positive
+Maluma 😍,0.4588,Positive,0.0,Neutral,-0.5309234261512756,Negative
+2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
+Pretty boy🤤😌,0.7003,Positive,0.25,Neutral,0.4811361134052276,Positive
+"Solamente  Putas por Dinerho ,solamente uma Grande Illusion de Vida.",0.0258,Neutral,0.2666666666666666,Neutral,-0.3905767798423767,Negative
+Maluma baby,0.0,Neutral,0.0,Neutral,-0.4832620024681091,Negative
+Soy el único que se siente identificado con la canción? Literal que vivo en un cumple todo el día jsjsjss,0.0,Neutral,0.0681818181818181,Neutral,0.2746635675430298,Neutral
+Quien sigue escuchando esta rola en 2022? 7w7,0.0,Neutral,0.0,Neutral,-0.5176489353179932,Negative
+Quien lo sigue escuchando en 2022?🙌💜,0.6369,Positive,0.0,Neutral,-0.3270701169967651,Negative
+"It was a little interesting, but nice 🌸",0.6134,Positive,0.3041666666666666,Neutral,0.6832692623138428,Positive
+2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
+Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
+Maluma es un comercial de Bacardi 🙏,0.0,Neutral,0.0,Neutral,-0.5258623361587524,Negative
+baila con maluma 🥵,0.0,Neutral,0.0,Neutral,0.2354140281677246,Neutral
+"Yo escucho en el 2,022",0.0,Neutral,0.0,Neutral,-0.4249727129936218,Negative
+Te amo maluma,0.6369,Positive,0.5,Positive,-0.5969291925430298,Negative
+I luv maluma,0.0,Neutral,0.0,Neutral,-0.37541064620018,Negative
+Dichosas d aqellas qe tienn la fortuna d tnrlo srca y podr bsarlo abrazarlo von ese papasito yo si .,0.7906,Positive,0.5,Positive,-0.2360353618860244,Negative
+Quién lo sigue escuchando en 2022🤩,0.0,Neutral,0.0,Neutral,0.422465980052948,Positive
+Quien escuchando este temon en el 2022:'),0.5106,Positive,0.0,Neutral,0.4181609153747558,Positive
+Alguien escuchado este canción en 2022??,0.0,Neutral,0.0,Neutral,-0.7312628626823425,Negative
+Quien lo sigue escuchando en el 2022🥵😍,0.4588,Positive,0.0,Neutral,0.3985129594802856,Positive
+Maluma baby,0.0,Neutral,0.0,Neutral,-0.4832620024681091,Negative
+Mala mia bb,-0.5423,Negative,-0.6999999999999998,Negative,-0.5372812151908875,Negative
+Y maluma baby pretty boy,0.4939,Positive,0.25,Neutral,-0.3893927633762359,Negative
+Mucho commenar🦋,0.0,Neutral,0.2,Neutral,0.2502541542053222,Neutral
+Almost 100k comments 😍😍😍,0.8288,Positive,0.0,Neutral,-0.2701696753501892,Negative
+2022 😍🎶🎵,0.4588,Positive,0.0,Neutral,0.2993581593036651,Neutral
+Así es mi vida🥳😎😝🫂💯✌️✌️✌️,0.6808,Positive,0.0,Neutral,0.6084576845169067,Positive
+After a year i just come back here 😂❤️❤️,0.4404,Positive,0.0,Neutral,-0.2850245833396911,Negative
+muy bacano parce al bn :) yo la escucho muchas veces q temazo ome,0.8655,Positive,0.56375,Positive,-0.2937811315059662,Negative
+Yo también  quiero estar con todas las mujeres jajaja,0.5994,Positive,0.2,Neutral,0.4621639251708984,Positive
+1:00,0.0,Neutral,0.0,Neutral,-0.4002063274383545,Negative
+"Qyien lo sigue escuchando en 2022!!!!!!!!,😃😃😃😎😎",0.9283,Positive,0.0,Neutral,0.4268863499164581,Positive
+My baby no his baby,-0.296,Negative,0.0,Neutral,-0.4171175956726074,Negative
+Do no say a thing,-0.296,Negative,0.0,Neutral,-0.5817853212356567,Negative
+Misty,0.0,Neutral,0.0,Neutral,-0.4288643002510071,Negative
+Repossession,0.0,Neutral,0.0,Neutral,0.323404312133789,Neutral
+Love you Brazil,0.6369,Positive,0.5,Positive,0.8407117128372192,Positive
+Beautiful ass no baby,-0.2023,Negative,0.85,Positive,0.6591870784759521,Positive
