@@ -135,6 +135,17 @@ def generate_labels(lst: list, model_name: str) -> list:
         return blob_labels
 
 
+def generate_score(label: str) -> int:
+    """This function generates a score for a given label"""
+
+    if label == "Positive":
+        return 1
+    if label == "Neutral":
+        return 0
+    if label == "Negative":
+        return -1
+
+
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
     """To save the results to a CSV file, a filename must be provided.
     If a filename is not provided the function will not save to file.
