@@ -1,7 +1,6 @@
 # main.py
 
-- Process comments and store results somewhere
-  - Best to do it in batches
+- Fix order of likes_df_short
 - Implement scoring for comment sentiment
 - Run prediction based
 - Calculate accuracy of prediction
