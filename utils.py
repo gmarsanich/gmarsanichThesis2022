@@ -126,9 +126,9 @@ def generate_labels(lst: list, model_name: str) -> list:
     if model_name == "blob":
         blob_labels = []
         for score in lst:
-            if score >= 0.33:
+            if score > 0:
                 blob_labels.append("Positive")
-            if score >= 0 and score < 0.33:
+            if score == 0:
                 blob_labels.append("Neutral")
             if score < 0:
                 blob_labels.append("Negative")
