@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Nice song I guess but bad habits is better,-0.0,Neutral,0.1333333333333334,Neutral,0.4472575187683105,Positive
+Nice song I guess but bad habits is better,-0.0,Neutral,0.1333333333333334,Positive,0.4472575187683105,Positive
 Single,0.0,Neutral,-0.0714285714285714,Negative,0.2600278258323669,Neutral
 THIS SONG IS AWESOME,0.6249,Positive,1.0,Positive,0.8039629459381104,Positive
 "This is me and my husband ♥️our story hasn't ended yet, it all started with a fairy tale and alot of in between interruptions, but still our love is strong and even stronger, Alhamdulila ♥️",0.9666,Positive,0.4666666666666667,Positive,0.6284362077713013,Positive
@@ -7,15 +7,15 @@ THIS SONG IS AWESOME,0.6249,Positive,1.0,Positive,0.8039629459381104,Positive
 💞,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Me encantan tus temas, son hermosos. Pareces que sos  una hermosa persona , por lo menos eso es lo que reflejas.",0.9186,Positive,0.475,Positive,0.6520864367485046,Positive
 💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Will he not love her at 71? LoL,-0.1451,Negative,0.275,Neutral,-0.3246800899505615,Negative
+Will he not love her at 71? LoL,-0.1451,Negative,0.275,Positive,-0.3246800899505615,Negative
 My husband's an mines song,0.0,Neutral,0.0,Neutral,0.3560973107814789,Positive
 i love this song i hear this song many times,0.6369,Positive,0.5,Positive,0.8161603808403015,Positive
-Seattell et main qui fait rire mes reves sont realiser by blue Scorpion at colorado.Japon,0.8591,Positive,0.15,Neutral,0.3531925976276397,Positive
-Yes I kissed you so sort  and gentle  you still  remember  xx,0.8158,Positive,0.2,Neutral,0.6163381934165955,Positive
+Seattell et main qui fait rire mes reves sont realiser by blue Scorpion at colorado.Japon,0.8591,Positive,0.15,Positive,0.3531925976276397,Positive
+Yes I kissed you so sort  and gentle  you still  remember  xx,0.8158,Positive,0.2,Positive,0.6163381934165955,Positive
 perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
 These dance step's are very very cool,0.4351,Positive,0.4549999999999999,Positive,0.7306990027427673,Positive
-This is still such an amazing song I guess Ed Sheeran never gets old😊,0.6508,Positive,0.3,Neutral,0.7541060447692871,Positive
-This guy is a rare exception from today's shit music..,-0.5574,Negative,0.0499999999999999,Neutral,0.2418381571769714,Neutral
+This is still such an amazing song I guess Ed Sheeran never gets old😊,0.6508,Positive,0.3,Positive,0.7541060447692871,Positive
+This guy is a rare exception from today's shit music..,-0.5574,Negative,0.0499999999999999,Positive,0.2418381571769714,Neutral
 good👍🍜,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 great,0.6249,Positive,0.8,Positive,0.741083025932312,Positive
 PEACE AND LOVE FOR EVERBODY WHO IS READING THIS ❤❤ stay save and have a nice day.,0.9765,Positive,0.55,Positive,0.7589603662490845,Positive
@@ -26,7 +26,7 @@ Childhood crushes would always be those that have a significant impact in our li
 Wear headphones and go to 0:45 you will a creepy faded child voice saying heart  still creeps me out after 8 years,0.6369,Positive,-0.5,Negative,-0.5090324878692627,Negative
 0:45 ghost voice?,-0.3182,Negative,0.0,Neutral,-0.6090676188468933,Negative
 Essa música é uma daquelas coisas que tinham que existir.,0.0,Neutral,0.0,Neutral,0.4385506510734558,Positive
-"I met a certain lady today,  this song flashes my imagination with her in future, I hope we end up together and dancing to this song on our wedding day God willing",0.7269,Positive,0.1547619047619047,Neutral,0.6081264615058899,Positive
+"I met a certain lady today,  this song flashes my imagination with her in future, I hope we end up together and dancing to this song on our wedding day God willing",0.7269,Positive,0.1547619047619047,Positive,0.6081264615058899,Positive
 "muy buena cancion,felicidades",0.8104,Positive,0.91,Positive,0.7125334739685059,Positive
 marucs ass stupid parked doing kiss me,-0.6249,Negative,-0.7999999999999999,Negative,-0.6546480655670166,Negative
 Butiful dans and song how are angels.,0.5994,Positive,0.85,Positive,0.5642992854118347,Positive
@@ -44,8 +44,8 @@ Listening to Ed & missing your dearly boo,0.1531,Positive,-0.2,Negative,-0.25078
 """HEART"" *atabs na multo",0.5622,Positive,0.0,Neutral,-0.2937643826007843,Negative
 "I absolutely love this song makes me think of my wife, and my mom who passed away, I picked this song as my first dance and I know she would have loved this song too if she were there.",0.8553,Positive,0.4833333333333333,Positive,0.851372241973877,Positive
 Ddg only fans leaked 🔥 https://youtu.be/2D9WTiGTWxE,-0.5719,Negative,0.0,Neutral,-0.5798299312591553,Negative
-Low this song and the video is amazing,0.4019,Positive,0.3,Neutral,0.305253267288208,Neutral
-quero moŕrer ao som dessa música,0.0772,Positive,0.2681818181818182,Neutral,-0.2810902893543243,Negative
+Low this song and the video is amazing,0.4019,Positive,0.3,Positive,0.305253267288208,Neutral
+quero moŕrer ao som dessa música,0.0772,Positive,0.2681818181818182,Positive,-0.2810902893543243,Negative
 Hhsha,0.0,Neutral,0.0,Neutral,0.2555530071258545,Neutral
 Amei!.,0.636,Positive,0.875,Positive,0.234533354640007,Neutral
 Amazing song and the music vid is perfect for it like it lot,0.875,Positive,0.8,Positive,0.7885438203811646,Positive
@@ -59,7 +59,7 @@ Timeless,0.0,Neutral,0.0,Neutral,-0.3990250527858734,Negative
 .
 👇
 *You’re amazing stay blessed, stay safe and have a amazing rest of your day*",0.9371,Positive,0.425,Positive,0.7087342143058777,Positive
-Vintage! This song will never get old. Gets sweet as time goes by,0.5093,Positive,0.2249999999999999,Neutral,0.7434628009796143,Positive
+Vintage! This song will never get old. Gets sweet as time goes by,0.5093,Positive,0.2249999999999999,Positive,0.7434628009796143,Positive
 "23:23   -Hermosa elección-  xkissss.Uno
 los mortales abian apreciado -tan hermosa mujer- 
 
@@ -76,15 +76,15 @@ Butter
 
 
 00:01Las elecciones cinematográficas y artísticas son brillantes. Referencias culturales europeas realmente interesantes. Ojalá la cultura europea se representara más a menudo tan bellamente. No puedo dejar de decir ""oh, esto es hermoso"" a lo largo del video. Luz, en serio... el que se encargue de la iluminación, genial lad6...",0.9906,Positive,0.4333333333333333,Positive,0.6135662794113159,Positive
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 Tanja🌈🌈🌈🌈,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Ich bins Maria 🌈🌈🌈🌈,0.0,Neutral,0.0,Neutral,0.6055768132209778,Positive
 "Hola queridos amigos! Son personas muy buenas, amables, inteligentes y hermosas. Quiero que usted y su familia una muy feliz, la salud y todas las cosas buenas!💖💐☕🍰🍓🍍🪅😊🎉",0.9916,Positive,0.81,Positive,0.8944047689437866,Positive
 "This is me and my granddaughter song,😍😍😍",0.8402,Positive,0.0,Neutral,0.704139232635498,Positive
-That song means a lot to me we dance the song my late husband and I the day we get married I always cry when I heard it bring me so many memories,-0.4767,Negative,0.15,Neutral,0.6954137086868286,Positive
+That song means a lot to me we dance the song my late husband and I the day we get married I always cry when I heard it bring me so many memories,-0.4767,Negative,0.15,Positive,0.6954137086868286,Positive
 Me gusta,0.3612,Positive,0.0,Neutral,0.4238454401493072,Positive
 I feel the love from this song and the love on their faces is simply beautiful.,0.9231,Positive,0.6166666666666667,Positive,0.7891278862953186,Positive
-This song NEVER gets old. Truly timeless…,-0.3412,Negative,0.1,Neutral,-0.6185038685798645,Negative
+This song NEVER gets old. Truly timeless…,-0.3412,Negative,0.1,Positive,-0.6185038685798645,Negative
 "It takes talent, skill, and work to make two different levels of dancers work so well together. She was the picture and he was the frame. Very beautiful.",0.8669,Positive,0.5,Positive,0.7781041264533997,Positive
 Hello every body 💓💞❣️❣️❤️💖💜💜💜❣️❣️❤️💖💖💘💞💞💞,0.9979,Positive,0.0,Neutral,0.7583322525024414,Positive
 Wishing I had someone to sing this song to but we don't always get what we want.,0.2263,Positive,0.0,Neutral,-0.3842909038066864,Negative
@@ -94,8 +94,8 @@ This has to be 1 of the most beautiful love songs ever written. ❤,0.9309,Posit
 "please subscribe this channel and update more videos for Candy Crush Saga Lovers: 
 https://www.youtube.com/channel/UC2YxbpjCrkZPhav4z4cniXw",0.6249,Positive,0.5,Positive,-0.3904318213462829,Negative
 "2014 was best year for my country and this world ,I miss it",0.5574,Positive,1.0,Positive,0.5485604405403137,Positive
-VIVA EL TIO ED 🐼,0.0,Neutral,0.0431818181818181,Neutral,0.5600433349609375,Positive
-I will be walking down the aisle to this song singing every word …just gotta get propose to first 🥹,0.0,Neutral,0.0472222222222222,Neutral,0.4987704157829284,Positive
+VIVA EL TIO ED 🐼,0.0,Neutral,0.0431818181818181,Positive,0.5600433349609375,Positive
+I will be walking down the aisle to this song singing every word …just gotta get propose to first 🥹,0.0,Neutral,0.0472222222222222,Positive,0.4987704157829284,Positive
 2022✊❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Una Madre,0.0,Neutral,0.0,Neutral,0.2662816643714905,Neutral
 Oh my Goodness.,0.4588,Positive,0.0,Neutral,0.7170943021774292,Positive
@@ -139,10 +139,10 @@ Uma parte de mim quarta alguns momentos com está música com alguém eterna💠
 Love this song xx,0.6369,Positive,0.5,Positive,0.8919745683670044,Positive
 This is my favorite song ever 😍😍❤️♥️♥️) thinking out loud favorite ❤️❤️❤️❤️,0.9657,Positive,0.3666666666666667,Positive,0.936186134815216,Positive
 fuck your reputation that is like a shit on wall,-0.6808,Negative,-0.3,Negative,-0.8600892424583435,Negative
-آقا ضربات بعدی کی هست آمادگی داشته باشم آقای چراغ قوه,0.3612,Positive,0.1,Neutral,0.3571296334266662,Positive
+آقا ضربات بعدی کی هست آمادگی داشته باشم آقای چراغ قوه,0.3612,Positive,0.1,Positive,0.3571296334266662,Positive
 I can't wait to have the one I want in my arms and dancing to this. ❤,0.6705,Positive,0.0,Neutral,0.7368637919425964,Positive
 😂❤😂❤😂❤😂❤,0.9825,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song always hit different no matter how many times is played.,0.3239,Positive,0.25,Neutral,0.2695614695549011,Neutral
+This song always hit different no matter how many times is played.,0.3239,Positive,0.25,Positive,0.2695614695549011,Neutral
 https://youtu.be/WPdWvnAAurg .,0.0,Neutral,0.0,Neutral,-0.2549759447574615,Negative
 savage https://youtu.be/WPdWvnAAurg,-0.4588,Negative,0.0,Neutral,0.3631896674633026,Positive
 https://youtu.be/WPdWvnAAurg savage,-0.4588,Negative,0.0,Neutral,0.2346931248903274,Neutral
@@ -159,7 +159,7 @@ Go
 She loves u 
 And u 
 Love her never let go no one is worth it🙏❤️🙏💋💋",0.9814,Positive,0.4399999999999999,Positive,0.7904413938522339,Positive
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 i still can't get over how brilliant the girl carried both of them and yet shared the spotlight with Ed knowing he cannot dance.,0.7351,Positive,0.9,Positive,0.330475240945816,Positive
 My favourite song,0.0,Neutral,0.0,Neutral,0.8636926412582397,Positive
 0:19 will your mouth still remember the taste of Milo,0.0,Neutral,0.0,Neutral,-0.3712437748908996,Negative
@@ -171,12 +171,12 @@ I said I would never get married again BUT if I change my mind this is going to 
 Yankı ve Helin <3,0.4404,Positive,1.0,Positive,-0.3476502597332001,Negative
 will your mouth remembers the taste of MILO,0.0,Neutral,0.0,Neutral,0.4918533563613891,Positive
 aaaaa,0.0,Neutral,0.0,Neutral,0.2926801145076751,Neutral
-"The same thing happened to me, but always remember we still have love and life....",0.7783,Positive,0.25,Neutral,0.6248481869697571,Positive
+"The same thing happened to me, but always remember we still have love and life....",0.7783,Positive,0.25,Positive,0.6248481869697571,Positive
 "3,436,678,689 view 🔥",-0.34,Negative,0.0,Neutral,0.2496562898159027,Neutral
 Who remember the creepy voice on the baby heart?,0.6369,Positive,-0.5,Negative,-0.2407686710357666,Negative
 so beauriful,0.6361,Positive,0.85,Positive,0.3430410921573639,Positive
 Ich liebe das Lied ❤️❤️so schön 💓💓küsse mich unter 1000 Sterne 💕,0.9826,Positive,0.675,Positive,0.951736330986023,Positive
-NÃO PROCURAMOS MUSICAS ANTIGAS PROCURAMOS AS MEMÓRIAS QUE ELAS CARREGAM 💻🎵 !,0.0,Neutral,0.125,Neutral,-0.385996013879776,Negative
+NÃO PROCURAMOS MUSICAS ANTIGAS PROCURAMOS AS MEMÓRIAS QUE ELAS CARREGAM 💻🎵 !,0.0,Neutral,0.125,Positive,-0.385996013879776,Negative
 Shoutouts to my future husband ❤️😘😘,0.6808,Positive,0.0,Neutral,0.2928919792175293,Neutral
 2022 ♥♥♥,0.9274,Positive,0.0,Neutral,-0.2583353519439697,Negative
 It’s April 2022 Let’s see how many legends listening to this masterpiece!,0.7325,Positive,0.625,Positive,0.678932785987854,Positive
@@ -184,17 +184,17 @@ It’s April 2022 Let’s see how many legends listening to this masterpiece!,0.
 Ed Sheeran is a genius,0.0,Neutral,0.0,Neutral,0.670963704586029,Positive
 Manifestando nuestro amor,0.6369,Positive,0.5,Positive,0.6363831758499146,Positive
 Linda demais,0.6361,Positive,1.0,Positive,-0.3844232857227325,Negative
-"We don't look for old songs, We look for memories they carry",0.0,Neutral,0.1,Neutral,0.3171026110649109,Neutral
+"We don't look for old songs, We look for memories they carry",0.0,Neutral,0.1,Positive,0.3171026110649109,Neutral
 essa passa umabaiebe tçao amor,0.7481,Positive,0.5,Positive,0.3931650221347809,Positive
 its mysic is bearifil ❤️,0.5994,Positive,0.85,Positive,0.2760945856571197,Neutral
 …,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "This song never gets old. No matter how much I listen, I never get bored",0.1877,Positive,-0.0666666666666666,Negative,0.5286908149719238,Positive
 Música linda pra ouvir em todas as horas ❤,0.8442,Positive,0.85,Positive,0.4527392983436584,Positive
-چرا ما نمی تونیم راحت زندگی کنیم،  بدرخشید بواسیر نگیری انقد فشار میاری,-0.3252,Negative,0.2681818181818182,Neutral,-0.3560889661312103,Negative
+چرا ما نمی تونیم راحت زندگی کنیم،  بدرخشید بواسیر نگیری انقد فشار میاری,-0.3252,Negative,0.2681818181818182,Positive,-0.3560889661312103,Negative
 خبیث مادرجنده شما باید سال ها قبل منقرض می شدید,-0.6597,Negative,-0.7,Negative,-0.3587332367897033,Negative
 عین گوه میاین تو زندگی من,0.0,Neutral,0.0,Neutral,0.5034904479980469,Positive
 یا گاز میدی ننت سوار شده,0.0,Neutral,0.0,Neutral,-0.6046019792556763,Negative
-که چی میای بوق می زنی ننت می خواد سوار شه,0.0,Neutral,0.2,Neutral,-0.3680525124073028,Negative
+که چی میای بوق می زنی ننت می خواد سوار شه,0.0,Neutral,0.2,Positive,-0.3680525124073028,Negative
 "At 71 though, I'm dumping you.",-0.3182,Negative,0.0,Neutral,-0.3910949826240539,Negative
 شما شاید با گوه بودن حال کنید،  زندگی ما به شما چه ربطی داره,0.0,Neutral,0.0,Neutral,0.3675519824028015,Positive
 موجودات خبیث کیری مادرجنده چرا از زندگی ما نمی رید بیرون,0.0382,Neutral,0.0,Neutral,-0.4367934763431549,Negative
@@ -224,7 +224,7 @@ good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 Musica linda demais❤",0.9231,Positive,0.675,Positive,0.3286013305187225,Neutral
 Sarah grman sad 😥 sad for her family 😂,-0.0,Neutral,-0.5,Negative,-0.3259572982788086,Negative
 Temazo,0.6249,Positive,0.8,Positive,0.2918783724308014,Neutral
-Very funny 😂😂😂 video's her ©®™✓✓✓✓,0.8977,Positive,0.325,Neutral,0.5786179304122925,Positive
+Very funny 😂😂😂 video's her ©®™✓✓✓✓,0.8977,Positive,0.325,Positive,0.5786179304122925,Positive
 "April 23, 2022
 Have a beautiful day/night, etc..",0.5994,Positive,0.85,Positive,0.6110037565231323,Positive
 Gracias por tan buena música y simpatía te esperamos pronto en España de concierto saludos,0.8658,Positive,0.35,Positive,0.6863987445831299,Positive
@@ -287,15 +287,15 @@ Oh darling, place your head on my beating heart
 I'm thinking out loud
 That maybe we found love right where we are
 Oh baby, we found love right where we are (maybe)
-And we found love right where we are",0.999,Positive,0.3047278911564626,Neutral,0.4906579256057739,Positive
+And we found love right where we are",0.999,Positive,0.3047278911564626,Positive,0.4906579256057739,Positive
 old but still a good one,0.5927,Positive,0.3999999999999999,Positive,0.6227234601974487,Positive
 میشه بمیری ببینیم حالیت میشه یا نه,-0.5994,Negative,0.0,Neutral,-0.3611354827880859,Negative
 مزاحم حرومزاده گمشو از زندگیم بیرون,-0.7351,Negative,-0.8,Negative,-0.5677452683448792,Negative
-مثل یه پهن تمام تلاشش اینه همه چیز و به منفعت خودش برسونه،  کسی دیگه نمایش شمارو باور نمی کنه,0.5106,Positive,0.25,Neutral,0.4758534431457519,Positive
+مثل یه پهن تمام تلاشش اینه همه چیز و به منفعت خودش برسونه،  کسی دیگه نمایش شمارو باور نمی کنه,0.5106,Positive,0.25,Positive,0.4758534431457519,Positive
 بزار یه نصیحت بکنم تا کسی ازت کمک نخواست کمک نکن،  شرایط دنیا به همه مربوط میشه,-0.2585,Negative,0.0,Neutral,0.480257898569107,Positive
 یارو نمی زاره یه شب راحت بخوابیم صحبت از برنامه می کنه,0.2211,Positive,0.0,Neutral,-0.392291784286499,Negative
 WD 40,0.6633,Positive,0.0,Neutral,0.3155786097049713,Neutral
-Me and my crush were listening to this song together by ourselves and it was my time to tell him and we told eachother at the same time that we liked eachother and now we’re in a closer relationship,0.296,Positive,0.3,Neutral,0.6871955990791321,Positive
+Me and my crush were listening to this song together by ourselves and it was my time to tell him and we told eachother at the same time that we liked eachother and now we’re in a closer relationship,0.296,Positive,0.3,Positive,0.6871955990791321,Positive
 هر نمایشی اجرا می کنن انتظار دارن باور کنیم,0.0,Neutral,0.0,Neutral,0.2312739342451095,Neutral
 برای یه سری جور در نمی آد فرصت خباثت و از دست بدن,-0.7304,Negative,-0.2,Negative,0.2499269694089889,Neutral
 "You 
@@ -303,14 +303,14 @@ She loves u and understands 💝",0.836,Positive,0.0,Neutral,0.6700819730758667,
 مادر هر چی خبیث میکروب عقده ای کیریه فضول و سگ بگاد,-0.6597,Negative,-1.0,Negative,-0.4810629189014435,Negative
 چرا دنیای مارو کوچیک می کنید مارو کوچیک می کنید عین عقده ای ان روز تا شب تلاششونه ضربه بزنن، من هر کجای دنیا برم با هر کی ازدواج کنم یا هر کاری کنم به شما چه خبیثای کیری,0.0,Neutral,0.0,Neutral,-0.3543650209903717,Negative
 This song is so popular 13 million likes and billions of views and 51.6 million subscribers,0.7518,Positive,0.6,Positive,-0.6606511473655701,Negative
-Thinking out loud,0.0,Neutral,0.1,Neutral,0.2977517545223236,Neutral
-"Aww, is this about his husband 🥺",0.0,Neutral,0.3,Neutral,0.2410559952259063,Neutral
-مثل اینکه آزاد نمی تونیم زندگی کنیم یه مشت عقده ای کیری ان یارو حرف می زنه دنبال تیکه انداختنه اصلا زندگی ما صنمی نداره,-0.0521,Negative,0.1659090909090909,Neutral,-0.7063491344451904,Negative
+Thinking out loud,0.0,Neutral,0.1,Positive,0.2977517545223236,Neutral
+"Aww, is this about his husband 🥺",0.0,Neutral,0.3,Positive,0.2410559952259063,Neutral
+مثل اینکه آزاد نمی تونیم زندگی کنیم یه مشت عقده ای کیری ان یارو حرف می زنه دنبال تیکه انداختنه اصلا زندگی ما صنمی نداره,-0.0521,Negative,0.1659090909090909,Positive,-0.7063491344451904,Negative
 هر چقدر طول بکشه خودم منتظر می مونم،  میکروب های خبیث,-0.6677,Negative,-0.525,Negative,-0.411756694316864,Negative
 this song of yours and Perfect will be songs people will be playing for 100's of years.,0.6705,Positive,1.0,Positive,0.9138538241386414,Positive
-Ok but for real he should of danced with a normal woman not one who walks like a chickan.,0.5927,Positive,0.2833333333333333,Neutral,0.7746295928955078,Positive
+Ok but for real he should of danced with a normal woman not one who walks like a chickan.,0.5927,Positive,0.2833333333333333,Positive,0.7746295928955078,Positive
 https://youtu.be/WUsYY-JPmco 🦁,0.0,Neutral,0.0,Neutral,-0.2342787086963653,Negative
-"There's a kid sang ""Heart"" hahahahaha",0.6369,Positive,0.2,Neutral,-0.3215749561786651,Negative
+"There's a kid sang ""Heart"" hahahahaha",0.6369,Positive,0.2,Positive,-0.3215749561786651,Negative
 ♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.2831399440765381,Neutral
 THIS IS THE NO 1 THING YOU DID THAT MAKES ME KNOWE YOU ARE THE BEST!!!,0.5962,Positive,1.0,Positive,0.936519742012024,Positive
 Love for ever,0.6369,Positive,0.5,Positive,0.7886826992034912,Positive
@@ -354,7 +354,7 @@ Oh darling, place your head on my beating heart
 I'm thinking out loud
 That maybe we found love right where we are
 Oh baby, we found love right where we are (maybe)
-And we found love right where we are",0.999,Positive,0.3047278911564626,Neutral,0.4810523986816406,Positive
+And we found love right where we are",0.999,Positive,0.3047278911564626,Positive,0.4810523986816406,Positive
 0:43,0.0,Neutral,0.0,Neutral,-0.4143763482570648,Negative
 I'm hiding home too while watching this video my boyfriend left me to watch.,-0.296,Negative,0.0,Neutral,-0.3032098412513733,Negative
 This describes true ❤️ someday!!,0.5242,Positive,0.546875,Positive,0.6888186931610107,Positive
@@ -375,7 +375,7 @@ Nostalgia,0.0,Neutral,0.0,Neutral,0.4865351915359497,Positive
 https://youtube.com/channel/UCMfc-z5m9rOfAQ_pFKVQMsA,0.0,Neutral,0.0,Neutral,-0.2668857276439667,Negative
 https://youtu.be/wICMDTmLsHw,0.0,Neutral,0.0,Neutral,0.2577368021011352,Neutral
 [And baby my heart could still fall as hard at 23] 00:45 you hear a child in heart,0.8402,Positive,-0.2916666666666667,Negative,-0.2996916770935058,Negative
-I CAN'T HELP FALLING IN LOVE WITH SONG ❤️ THANK YOU ED SHEERAN FOR THIS INEVITABLE SONG 🤗,0.8793,Positive,0.25,Neutral,0.5735556483268738,Positive
+I CAN'T HELP FALLING IN LOVE WITH SONG ❤️ THANK YOU ED SHEERAN FOR THIS INEVITABLE SONG 🤗,0.8793,Positive,0.25,Positive,0.5735556483268738,Positive
 "Mate, 
 You r so freakin' British ! ♟️♟️♟️♟️♟️♟️",0.0,Neutral,0.0,Neutral,-0.3281955122947693,Negative
 مردم فقیرن در سریال جدید,-0.4767,Negative,-0.1318181818181818,Negative,0.3101482391357422,Neutral
@@ -383,25 +383,25 @@ I could be totally honest with the woman i loved and I still would get screwed,0
 خایه های حکومت طعم کله پاچه,0.0,Neutral,0.0,Neutral,0.2563335001468658,Neutral
 Is their really a love out there like this or is it just a fantasy,0.7893,Positive,0.5,Positive,0.5476564168930054,Positive
 گرما در سرما سرما در گرما 1.1 x,0.0,Neutral,-0.6,Negative,0.3240326046943664,Neutral
-من یه کس پلاسیده دارم تغییرات آب و هوایی یه گذشته عالی,0.6249,Positive,0.275,Neutral,0.4705308377742767,Positive
+من یه کس پلاسیده دارم تغییرات آب و هوایی یه گذشته عالی,0.6249,Positive,0.275,Positive,0.4705308377742767,Positive
 ببینیم این میکروب ها کجا می تونن قایم شن,0.0,Neutral,0.0,Neutral,-0.2572150230407715,Negative
 https://youtu.be/Rw0eunePQzo,0.0,Neutral,0.0,Neutral,-0.2268053442239761,Negative
 "2022, y los recuerdos del 2018 regresaron con esta música:'",0.0,Neutral,0.0,Neutral,0.2660995423793793,Neutral
 "I know I already left a comment about how the love of my life and I would always listen to this song while sharing tender moments together all cuddled up.. and now all those memories are all I’ve got left of him since he passed away January 14th, 2019.. but.. I forgot to add.. this song definitely takes me back to those moments. And it helps me cherish and relive those memories. This song and my memories are all I’ve got left of Jeffrey Barila.. I’d kill to just be able to listen to this song with him while we’re cuddled up together.. just one more time. Hell.. I’d even take just a moment so be able to look at him and hug him.
 God I miss him so fucking much.
-Jeffrey Barila, I love you ao fucking much, I have since the second I met you. You’re the love of my life. &; I pray one day we met again in whatever comes after this life. I miss you😓😓.",0.8415,Positive,0.2428571428571428,Neutral,0.6073015928268433,Positive
+Jeffrey Barila, I love you ao fucking much, I have since the second I met you. You’re the love of my life. &; I pray one day we met again in whatever comes after this life. I miss you😓😓.",0.8415,Positive,0.2428571428571428,Positive,0.6073015928268433,Positive
 "I’ll always and forever absolutely LOVE this song. This was me and the love of my life’s song and it reminds me of such beautiful wonderful memories💕💕🥰🥰. He sadly passed away on January 14th 2019.. &; he’ll always and forever be the love of my life.. I miss him every single day and not a day goes by that he doesn’t cross my mind.
-I love you so much Jeffrey Barila.. ALWAYS &; FOREVER, my love💕💕🥰🥰.",0.9975,Positive,0.3162337662337662,Neutral,0.9657890200614928,Positive
+I love you so much Jeffrey Barila.. ALWAYS &; FOREVER, my love💕💕🥰🥰.",0.9975,Positive,0.3162337662337662,Positive,0.9657890200614928,Positive
 This is one of those that the Djs always shouted out CHICK SONG CHICK SONG! Right before playing it. I love it so much!!!,0.8002,Positive,0.3921130952380952,Positive,0.9360172152519226,Positive
 I live in Chicago and someone just pulled up and played this in the hood💀💀very shocking,-0.0772,Negative,-0.4318181818181818,Negative,0.5386849045753479,Positive
-دوسال دارم میگم خودم قبول می کنم زندگیم و هی دارن به زندگیم ضربه می زنن،  وقتی مردم روحم هفت نسلتون و میگاد,0.3818,Positive,0.1,Neutral,0.4884000122547149,Positive
-چه چیز از مادرم مهمتر کبدش و زخم زدید خبیثای کیری تمام تلاشتون اینه مانع باور آزاد بشید رو چه حسابی روز تا شب ضربه می زنید به اون بچه کوچیک چکار دارید,0.024,Neutral,0.075,Neutral,-0.6671105027198792,Negative
-اصلا مشخصه از همون اول بچگیم اطلاعات جمع کردید دنبال فرصتید ضربه بزنید چون آشغالید,0.4215,Positive,0.2,Neutral,0.2863097488880157,Neutral
+دوسال دارم میگم خودم قبول می کنم زندگیم و هی دارن به زندگیم ضربه می زنن،  وقتی مردم روحم هفت نسلتون و میگاد,0.3818,Positive,0.1,Positive,0.4884000122547149,Positive
+چه چیز از مادرم مهمتر کبدش و زخم زدید خبیثای کیری تمام تلاشتون اینه مانع باور آزاد بشید رو چه حسابی روز تا شب ضربه می زنید به اون بچه کوچیک چکار دارید,0.024,Neutral,0.075,Positive,-0.6671105027198792,Negative
+اصلا مشخصه از همون اول بچگیم اطلاعات جمع کردید دنبال فرصتید ضربه بزنید چون آشغالید,0.4215,Positive,0.2,Positive,0.2863097488880157,Neutral
 آقا چرا نمی رید هر حرفی می زنم میاین یه عکس العملی انجام میدید مثل یه کدی عقده ای می مونید,0.0,Neutral,0.0,Neutral,-0.5008923411369324,Negative
 Amo essa música 🎶 ❤,0.8555,Positive,0.5,Positive,0.6340086460113525,Positive
 کون لقتون هر خری هستید,0.0,Neutral,0.0,Neutral,-0.302660197019577,Negative
-The first viewer must feel like the king of the world...,0.3612,Positive,0.25,Neutral,0.5074607729911804,Positive
-اون دنیا حداقل کامل تره,0.0,Neutral,0.1,Neutral,0.6850383877754211,Positive
+The first viewer must feel like the king of the world...,0.3612,Positive,0.25,Positive,0.5074607729911804,Positive
+اون دنیا حداقل کامل تره,0.0,Neutral,0.1,Positive,0.6850383877754211,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 هر آهنگ برنامه یا فیلم و بررسی کنید قبل تماشا،  با نمایش می بندن به سیکلشون,0.0,Neutral,0.0,Neutral,0.3430449068546295,Positive
 canta  brasileiro  rapas,0.0,Neutral,0.0,Neutral,0.2613772749900818,Neutral
@@ -412,7 +412,7 @@ Não sei por que nunca canso de ouvir essa voz. ❤️❤️❤️❤️❤️,0
 آقا این چه کمکیه یه سره دارید ضربه می زنید,0.3415,Positive,0.6,Positive,-0.4345987737178802,Negative
 2022 still vibing,0.0,Neutral,0.0,Neutral,0.3074162602424621,Neutral
 نهایت شعورشون اینه طرف کیرش کلفته بیافتن بغلش,0.0,Neutral,-0.15,Negative,-0.6045433282852173,Negative
-اینا هیچی حالیشون نیست یه پرس غذا بدی دینشون عوض میشه,-0.7101,Negative,5.551115123125783e-17,Neutral,-0.5361935496330261,Negative
+اینا هیچی حالیشون نیست یه پرس غذا بدی دینشون عوض میشه,-0.7101,Negative,5.551115123125783e-17,Positive,-0.5361935496330261,Negative
 یعنی چی یعنی گرما متوجه نمی شم,0.0,Neutral,0.0,Neutral,0.3023415207862854,Neutral
 They don't make songs like this anymore man,-0.2755,Negative,0.0,Neutral,-0.5967004895210266,Negative
 رفته بوق 10 11 پیدا کرده الان بگم دیلدو با دیلدو میاد ویراژ میده,0.0,Neutral,0.0,Neutral,-0.4407376050949096,Negative
@@ -421,7 +421,7 @@ They don't make songs like this anymore man,-0.2755,Negative,0.0,Neutral,-0.5967
 """21 April 2022 Let's see how many legends are listening to this masterpiece. By far one of the most popular songs ever even after 7 years""",0.8388,Positive,0.425,Positive,0.7289929986000061,Positive
 خودم از پس زندگیم بر میام,0.4939,Positive,0.0,Neutral,0.5498728156089783,Positive
 آقا چرا میاین تو زندگی من ضربه می زنین زر می زنین,0.0,Neutral,0.0,Neutral,-0.4297714829444885,Negative
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 اینترنشنال با خایه های انگلیس می چرخه،  مثل شبکه خبر که با خایه آخوندا می چرخه,0.3612,Positive,0.0,Neutral,-0.4681363999843597,Negative
 کس پلاسیده نمایشی,0.0,Neutral,-0.3,Negative,0.3264174461364746,Neutral
 یارو مثل گوه عقده ای روزتا شب خواب نداره هماهنگ، آهنگ ساخته گرفته پولشو گذاشته جیبش حرومزاده,0.3612,Positive,0.0,Neutral,-0.5512173771858215,Negative
@@ -444,14 +444,14 @@ if you listen carefully in 0:44 you hear a child voice saying heart,0.6908,Posit
 یارو خودشو به هر گوهی میزنه ضربه بزنه حرومزاده کثیف,-0.7506,Negative,-0.6,Negative,-0.4329473078250885,Negative
 بیاین بیرون تظاهرات کنید برای آزادی اقتصاد تغییرات آب و هوایی,0.4939,Positive,0.0,Neutral,-0.2399747371673584,Negative
 55t5se45rfm,0.0,Neutral,0.0,Neutral,0.3280787169933319,Neutral
-هی داره میاد بوق می زنه ننت می خواد سوار شه،  خر ابدی، می گم خدا رفته دستگاشو چک کنه,0.6486,Positive,0.2,Neutral,-0.6448931694030762,Negative
+هی داره میاد بوق می زنه ننت می خواد سوار شه،  خر ابدی، می گم خدا رفته دستگاشو چک کنه,0.6486,Positive,0.2,Positive,-0.6448931694030762,Negative
 یارو معلوم نیست هنرمند یا اومده بگه آلت تناسلی داره اون مجری خبره اندازه کیر نشون میده,0.0,Neutral,0.0,Neutral,-0.4675672352313995,Negative
 اون حرومزاده چه گوهی می خوره می دونست،  می دونست ننت کسه,-0.5423,Negative,0.0,Neutral,-0.4882131814956665,Negative
-الان چند ساله,0.0,Neutral,0.1,Neutral,0.3957378268241882,Positive
+الان چند ساله,0.0,Neutral,0.1,Positive,0.3957378268241882,Positive
 آقا مشکل من اینه نمی زارید بخوابم,-0.4445,Negative,0.0,Neutral,-0.4610812067985534,Negative
-this song never gets old,0.0,Neutral,0.1,Neutral,0.4263049066066742,Positive
+this song never gets old,0.0,Neutral,0.1,Positive,0.4263049066066742,Positive
 YupLord,0.0,Neutral,0.0,Neutral,-0.2267522811889648,Negative
-Milan! Can't call it! I think of you every day!!! I wish this could of been us but someone actually loves me back. Love Always! Me,0.942,Positive,0.2083333333333333,Neutral,0.8330448269844055,Positive
+Milan! Can't call it! I think of you every day!!! I wish this could of been us but someone actually loves me back. Love Always! Me,0.942,Positive,0.2083333333333333,Positive,0.8330448269844055,Positive
 ed shreen ugly but l love ed shreen,0.3885,Positive,0.0,Neutral,0.4700767397880554,Positive
 Uff beautiful 🥰🎵🌹,0.9042,Positive,0.85,Positive,0.7541422843933105,Positive
 "🧑‍🦱: And baby my
@@ -466,7 +466,7 @@ Chúc cho Đức Thật nhiều sức khỏe.,0.2263,Positive,0.0,Neutral,0.3998
 motor marry = motor marry,0.0,Neutral,0.0,Neutral,0.3748097419738769,Positive
 2p>1p,0.0,Neutral,0.0,Neutral,-0.3064625561237335,Negative
 همه رفتن غرب,0.0,Neutral,0.0,Neutral,0.3587556779384613,Positive
-از همون روز اول هم کیرمم نبود،  یعنی اگه چیزی تغییر نکنه چیزی کیلم نیست،  مثل تغییرات آب و هوایی،  اقتصاد،  عشق و ازدواج همه بهش می رسن,0.4749,Positive,0.2749999999999999,Neutral,-0.2994865179061889,Negative
+از همون روز اول هم کیرمم نبود،  یعنی اگه چیزی تغییر نکنه چیزی کیلم نیست،  مثل تغییرات آب و هوایی،  اقتصاد،  عشق و ازدواج همه بهش می رسن,0.4749,Positive,0.2749999999999999,Positive,-0.2994865179061889,Negative
 امیدوارم اد رو ناراحت نکرده باشم,0.6229,Positive,0.0,Neutral,-0.3657450079917907,Negative
 "A message to future generations, Don't let this song die.",-0.5994,Negative,0.0,Neutral,-0.3741999566555023,Negative
 من علاقه ندارم یکی به من بگه این کارو کن نمی دونم چطوری بگم,-0.3089,Negative,-0.125,Negative,-0.4265280961990356,Negative
@@ -474,7 +474,7 @@ motor marry = motor marry,0.0,Neutral,0.0,Neutral,0.3748097419738769,Positive
 con mi señora la usamos para el casamiento!!! hermoso tema...,0.6981,Positive,0.85,Positive,0.7795206308364868,Positive
 🐐,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "💬...à Sophie!😪
-Tu me manques tellement mon amour!🌹",0.6649,Positive,0.2,Neutral,0.7485746741294861,Positive
+Tu me manques tellement mon amour!🌹",0.6649,Positive,0.2,Positive,0.7485746741294861,Positive
 Que hermosa canción y bello vídeo😘💕💕,0.9648,Positive,0.85,Positive,0.7318543791770935,Positive
 just look,0.0,Neutral,0.0,Neutral,0.2896730303764343,Neutral
 i change that,0.0,Neutral,0.0,Neutral,0.2719359397888183,Neutral
@@ -490,7 +490,7 @@ Cuando ami edad  piensas qur ya no pueden aver canciones mas lindas y aparece es
 "Ooi bom diaaa!!!?,  ei sabia que sinto mta saldades dessa música  ela me trás  mtas recordações  boas e ruins, é  a vida não  é  mesmo perfeita, sempre  vem acompanhadas de dor sofrimento, nada  quer ser; nada é perfeito, como as pessoas... e aí  as pessoas pagam por isso apanhamos mto pra aprender  não é  verdade? a vida nos ensina, que nem sempre as coisas sai cm planejamos, a vida pode ser maravilhosa pra alguns, pode dar certo pra alguns mas nem tdos usufrui de uma vida bela e plena ou perfeita cm queriamos, olhamos as pessoas , que não  querem ; não  buscam e não  está  nem um pouquinho preocupado cm seu bem está  e de ninguem, vive por viver e não está  nem um pouco preocupada com o que pode calsar pra outras pessoas ;e; não  faz nada pra merecer uma vida digna e plena...😃😍🤩🥰🥵🙀😻 P.S.Sabe eu queria poder lê  a mente das pessoas pra mim poder desifrar seus sentimentos e assim poder saber onde  como e qundo desejaria chegar...; como eu queria ser uma borboletinha pra mim e lá  em suas casas, seu quarto e ficar colado no mas profundo dos seus sentimentos e só  assim eu ia decifrar tudo sobre o  misterio do  ser mas temido, que é  o  HOMEM...😘🥰🤐🤫🤯👀❤❤❤❤e vai que nossos sonhos terminam cmo folhas ao vento ou cm se nada mas tivesse importância  nessa vida ...",0.998,Positive,0.4381392045454546,Positive,-0.474945455789566,Negative
 🥺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Sounds like us , we eloped 30 yrs. Ago to Reno Nv . Laughed and said we were gonna make Reno known for love ❤ 😍 💖 we did...still so much in love 🥰",0.9883,Positive,0.5666666666666667,Positive,0.7021021842956543,Positive
-"Chất lượng, Sỹ Luân chắc thích bản Cover này lắm này! Chúc mừng em cùng toàn thể Ekip F. Studio",0.7888,Positive,0.1625,Neutral,0.4493748545646667,Positive
+"Chất lượng, Sỹ Luân chắc thích bản Cover này lắm này! Chúc mừng em cùng toàn thể Ekip F. Studio",0.7888,Positive,0.1625,Positive,0.4493748545646667,Positive
 Heart💀,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Baby my heart!💀,0.6696,Positive,0.0,Neutral,0.7898761034011841,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
@@ -499,12 +499,12 @@ Also Ed at 71 :” Honey I want a divorce”",0.6369,Positive,0.6,Positive,0.393
 mn,0.0,Neutral,0.0,Neutral,0.274095743894577,Neutral
 "I messed up a bit with him 
 I was loyal ❤️
-I just messed up a bit n he just gived up on it all and when I listen to this song tears comes to eyes because I saw my life with him I wanted to have kids and build a life with him and grow old together",-0.3818,Negative,0.2166666666666666,Neutral,0.2843392491340637,Neutral
+I just messed up a bit n he just gived up on it all and when I listen to this song tears comes to eyes because I saw my life with him I wanted to have kids and build a life with him and grow old together",-0.3818,Negative,0.2166666666666666,Positive,0.2843392491340637,Neutral
 19/04/2022,0.0,Neutral,0.0,Neutral,-0.3525241315364837,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 0:44,0.0,Neutral,0.0,Neutral,-0.4438119530677795,Negative
 Esta canción me parte el alma 😭😭,-0.7351,Negative,0.0,Neutral,0.4985048770904541,Positive
-If I ever get married I'll definitely use this song for the dance.,0.4019,Positive,0.125,Neutral,0.4696677625179291,Positive
+If I ever get married I'll definitely use this song for the dance.,0.4019,Positive,0.125,Positive,0.4696677625179291,Positive
 https://m.youtube.com/channel/UCNq_8zr3FOVfe6nFOK0Powg/videos,0.0,Neutral,0.0,Neutral,-0.2418493032455444,Negative
 Over my dead body would my husband be dancing like that with anyone but me,-0.2263,Negative,-0.2,Negative,-0.400989294052124,Negative
 Like 13000000,0.3612,Positive,0.0,Neutral,0.3617997765541076,Positive
@@ -513,7 +513,7 @@ It's all good M. 35 years. That's an 8. Turn it sideways. 🕯🎯♥️♥️�
 On the first Good Friday Jesus Christ gave His life willingly, died on Cross fulfilling prophecies.
 On the first Resurrection Day (also linked to Easter) Jesus Christ raised from death proving He is God, fulfilling prophecies.
 Jesus Christ purpose doing above is to save us from pre-existing sin, satan and eternity in hell, and provide free entry to eternity in heaven to all who repent of sins in Jesus Christ.
-Jesus Christ coming again in future to judge every single person, fulfilling prophecies.",-0.3818,Negative,0.2028571428571428,Neutral,0.6253392100334167,Positive
+Jesus Christ coming again in future to judge every single person, fulfilling prophecies.",-0.3818,Negative,0.2028571428571428,Positive,0.6253392100334167,Positive
 S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
 "Ma dulcinée Zi Ling je te dédicace ce morceau
 Chérie Zi quand j écoute ce garçon chanter je me demande où est ce qu il nous à connue pour parler de nous mieux que nous même ???
@@ -533,11 +533,11 @@ YupLord praying 🙏for U,0.3612,Positive,0.0,Neutral,0.4813961982727051,Positiv
 Flashback https://youtu.be/9I-v-n9Z2ZY,0.0,Neutral,0.0,Neutral,-0.2455470710992813,Negative
 """And baby my heart"" there's a kid singing in there.",0.6369,Positive,0.0,Neutral,0.3068139553070068,Neutral
 0.46 sec,0.0,Neutral,-0.1,Negative,-0.5395137071609497,Negative
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 so good,0.4927,Positive,0.7,Positive,0.6291981339454651,Positive
 "This song is like a bottle of wine, it gets better every year",0.6597,Positive,0.5,Positive,0.3427464962005615,Positive
 WE found love ✌️💞,0.8591,Positive,0.5,Positive,0.6981528401374817,Positive
-this song never gets old ahaa vibing in 2k22,0.0,Neutral,0.1,Neutral,-0.3396863341331482,Negative
+this song never gets old ahaa vibing in 2k22,0.0,Neutral,0.1,Positive,-0.3396863341331482,Negative
 The comment below... fr. I'm hopeful.,0.5106,Positive,0.0,Neutral,0.3581994473934173,Positive
 The most beautiful voice I have ever heard ❤️❤️,0.6361,Positive,0.675,Positive,0.9693999886512756,Positive
 tu blanquito pelirrojo💋,0.4215,Positive,0.0,Neutral,-0.4330592155456543,Negative
@@ -586,9 +586,9 @@ Oh darling, place your head on my beating heart
 I'm thinking out loud
 That maybe we found love right where we are
 Oh baby, we found love right where we are (maybe)
-And we found love right where we are",0.999,Positive,0.3047278911564626,Neutral,0.5539360046386719,Positive
+And we found love right where we are",0.999,Positive,0.3047278911564626,Positive,0.5539360046386719,Positive
 me la dedico mi ex y al final me termino y me cambio por otra jajsjsja cries in imbecil,0.0772,Positive,0.0,Neutral,-0.4632060527801513,Negative
-Reminds me of an old  flame,0.0,Neutral,0.1,Neutral,0.514436662197113,Positive
+Reminds me of an old  flame,0.0,Neutral,0.1,Positive,0.514436662197113,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 in the philippines this song is famous specially the echo (heart) looks like a ghost.,0.6597,Positive,0.4285714285714286,Positive,0.2906237542629242,Neutral
 Thinking out loud=like Ed sheeran=commente and me=follow me please,0.3182,Positive,0.0,Neutral,0.4649341106414795,Positive
@@ -598,10 +598,10 @@ Him when he  comes to his next concert when he comes  back to Irlend",0.2144,Pos
 14 now-2022,0.0,Neutral,0.0,Neutral,0.3597704768180847,Positive
 "My first time watch the video though I know the song but seriously the dance is so beautiful ❤❤ well done both of you.
 
-someone special posted this lovely song to me❤ thanks alot❤❤❤",0.9964,Positive,0.3039682539682539,Neutral,0.6119273900985718,Positive
+someone special posted this lovely song to me❤ thanks alot❤❤❤",0.9964,Positive,0.3039682539682539,Positive,0.6119273900985718,Positive
 "Eu oro toda noite para uma música minha estourar, Sei que algum Dia Direi, Não Foi fácil, Mas Consegui 🙏🏽🙌🏽FÉ uma dia chega o dia 🤩🔊",0.6953,Positive,0.4333333333333333,Positive,-0.2906590402126312,Negative
-Its been 7 years and this song never get old,0.0,Neutral,0.1,Neutral,0.3996644616127014,Positive
-Lời hát của Đức Phúc nghe rất là nhẹ nhàng luôn.,0.4927,Positive,0.26,Neutral,0.3171714544296264,Neutral
+Its been 7 years and this song never get old,0.0,Neutral,0.1,Positive,0.3996644616127014,Positive
+Lời hát của Đức Phúc nghe rất là nhẹ nhàng luôn.,0.4927,Positive,0.26,Positive,0.3171714544296264,Neutral
 Caderap,0.0,Neutral,0.0,Neutral,0.2610975205898285,Neutral
 Eed esf fill 0,0.0,Neutral,0.0,Neutral,-0.6675549745559692,Negative
 Whittier eat3a,0.0,Neutral,0.0,Neutral,0.3916182219982147,Positive
@@ -614,7 +614,7 @@ Teereellp,0.0,Neutral,0.0,Neutral,0.2863280177116394,Neutral
 Roth John,0.0,Neutral,0.0,Neutral,0.2334848642349243,Neutral
 Bungee,0.0,Neutral,0.0,Neutral,0.3217843174934387,Neutral
 ❤️🌹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-These songs are kinda deep and cool describudules to listen to I listen to alot of XXL or porn so some say,0.2585,Positive,0.175,Neutral,0.5348187685012817,Positive
+These songs are kinda deep and cool describudules to listen to I listen to alot of XXL or porn so some say,0.2585,Positive,0.175,Positive,0.5348187685012817,Positive
 I find it crazy how old this song is and people still getting comments,-0.34,Negative,-0.25,Negative,-0.2774845659732818,Negative
 This me and my forevers song <3,0.4404,Positive,1.0,Positive,0.6452866792678833,Positive
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -630,7 +630,7 @@ https://youtu.be/TggpoP6rFlU,0.0,Neutral,0.0,Neutral,0.2248438149690628,Neutral
 https://www.youtube.com/channel/UCmO6vS_RVFo9SAh1_giRPUg,0.0,Neutral,0.0,Neutral,-0.257216602563858,Negative
 This make me feel loved eventhou I always end up cheated and betrayed by the person I loved <3,0.5267,Positive,0.7999999999999999,Positive,0.6867911219596863,Positive
 "Me earlier: hmmm 😑I don't know this is it a new uhh no 
-Me now: ohhh my childhood song I never knew this wow I forgot bcs of tiktok and Roblox maybe...",0.5106,Positive,0.0787878787878787,Neutral,-0.3908647894859314,Negative
+Me now: ohhh my childhood song I never knew this wow I forgot bcs of tiktok and Roblox maybe...",0.5106,Positive,0.0787878787878787,Positive,-0.3908647894859314,Negative
 "You know how old people have their own good ""oldies"" songs? This will be our oldies song one day.",0.4404,Positive,0.4666666666666666,Positive,0.4868712723255157,Positive
 Love your song  it's my ringtone? Thanks 🇿🇦,0.7964,Positive,0.35,Positive,0.6153250336647034,Positive
 "When your legs don't work like they used to before
@@ -682,14 +682,14 @@ But maybe we found love right where we are
 Oh, baby, we found love right where we are
 And we found love right where we are
 
-Thank you for reading. I record covers of popular songs. It means a lot to me if you listen to my channel! 😊",0.9992,Positive,0.3170965608465608,Neutral,0.4694527387619018,Positive
+Thank you for reading. I record covers of popular songs. It means a lot to me if you listen to my channel! 😊",0.9992,Positive,0.3170965608465608,Positive,0.4694527387619018,Positive
 Ja/ LAx '1,0.0,Neutral,0.0,Neutral,0.2561126947402954,Neutral
 No good nick,-0.3412,Negative,-0.35,Negative,-0.6201743483543396,Negative
 love the dancing and song...,0.6369,Positive,0.5,Positive,0.6933175325393677,Positive
 Sou apaixonada por essas músicas 💔🥺,0.743,Positive,0.5,Positive,0.6347543597221375,Positive
 I alwus and you for pris in jyck from ayick and thuthu,0.0,Neutral,0.0,Neutral,0.3046400249004364,Neutral
 My beautiful parents  are still going strong at 54 years. Bless them both and so grateful,0.9308,Positive,0.6416666666666666,Positive,0.9124357104301452,Positive
-You know my first boyfriend after my divorce dedicated this to me two and a half years ago and he just passed away at 54 years old from cancer 😓,-0.6369,Negative,0.0611111111111111,Neutral,0.5850427746772766,Positive
+You know my first boyfriend after my divorce dedicated this to me two and a half years ago and he just passed away at 54 years old from cancer 😓,-0.6369,Negative,0.0611111111111111,Positive,0.5850427746772766,Positive
 The best 22,0.6369,Positive,1.0,Positive,0.9120587110519408,Positive
 "My  Wedding Song....
 2/20/23  💃🏾🕺🏾🥂🍾",0.0,Neutral,0.0,Neutral,0.4191708564758301,Positive
@@ -709,7 +709,7 @@ Timeless,0.0,Neutral,0.0,Neutral,-0.3990250527858734,Negative
 https://youtu.be/lNdqYpznAVA,0.0,Neutral,0.0,Neutral,-0.2407853752374649,Negative
 🖤🖤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
-"@ Every time I see this music vid.....I've just got such extreme fun in my mind.....trying to imagine how 'Boris Johnestone Would look like dancing this if he were younger!!!!! Not saying that you look totally like him 'Ed', its kind of due to the mass of light hair, and the black and White suit thing. fun.haahaha@",0.8766,Positive,0.0883333333333333,Neutral,0.2851216793060303,Neutral
+"@ Every time I see this music vid.....I've just got such extreme fun in my mind.....trying to imagine how 'Boris Johnestone Would look like dancing this if he were younger!!!!! Not saying that you look totally like him 'Ed', its kind of due to the mass of light hair, and the black and White suit thing. fun.haahaha@",0.8766,Positive,0.0883333333333333,Positive,0.2851216793060303,Neutral
 Çok seviyorum bu şarkıyı ve klibi,0.6369,Positive,0.5,Positive,0.6806945204734802,Positive
 I used to listen to this song when I was grade4 and after 6 years here I am again listening to this masterpiece,0.7073,Positive,0.0,Neutral,0.7516672015190125,Positive
 Someone here in April 2022,0.0,Neutral,0.0,Neutral,-0.4423884153366089,Negative
@@ -725,7 +725,7 @@ This song is a different vibe,0.0,Neutral,0.0,Neutral,0.2696638107299804,Neutral
 ""Son unos de los mejores conciertos""....",0.8555,Positive,0.7000000000000001,Positive,0.817191481590271,Positive
 👊👍🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "I always admire you for this delicacy in singing, wonderful purity and sensitivity. As always, you sang wonderfully.",0.8934,Positive,1.0,Positive,0.8831225633621216,Positive
-Fun fact: we don't care what year and month you're listening to this in,0.171,Positive,0.3,Neutral,0.5207028388977051,Positive
+Fun fact: we don't care what year and month you're listening to this in,0.171,Positive,0.3,Positive,0.5207028388977051,Positive
 Cada uma mais linda que a outra 😍 sou completamente apaixonada,0.9131,Positive,0.43125,Positive,0.7714985013008118,Positive
 Alguém ouvindo em 2022 😍❤️,0.4588,Positive,0.0,Neutral,-0.5328738689422607,Negative
 preciso desse clipe em 4k,0.0,Neutral,0.0,Neutral,0.4216826856136322,Positive
@@ -742,8 +742,8 @@ Tết đong đầy cô ơi,0.0,Neutral,0.35,Positive,-0.3150410056114197,Negativ
 3:17",0.9062,Positive,0.5,Positive,0.8173540830612183,Positive
 Me emociono sempre. Ouço várias vezes.,0.1531,Positive,0.0,Neutral,0.5678454637527466,Positive
 Sks0skY’eps’spss’T’dos’smw’Y’dpe’sps’Y dms zps’,0.0,Neutral,0.0,Neutral,0.3120496571063995,Neutral
-first,0.0,Neutral,0.25,Neutral,0.3701889812946319,Positive
-Anh hát bằng cả trái tim bảo sao mà cứ ngọt lịm như vậy. Bài nào cũng cảm xúc luôn,0.8647,Positive,0.175,Neutral,-0.3321563899517059,Negative
+first,0.0,Neutral,0.25,Positive,0.3701889812946319,Positive
+Anh hát bằng cả trái tim bảo sao mà cứ ngọt lịm như vậy. Bài nào cũng cảm xúc luôn,0.8647,Positive,0.175,Positive,-0.3321563899517059,Negative
 Esta re buena la canción XD,0.8403,Positive,0.7,Positive,0.3856197297573089,Positive
 Feliz Páscoa.,0.5719,Positive,0.8,Positive,0.5575407147407532,Positive
 Cada música mais linda que a outra.Eu me emociono cada vez que eu as ouço.,0.6997,Positive,0.3375,Positive,0.6211010217666626,Positive
@@ -754,7 +754,7 @@ Like is video,0.3612,Positive,0.0,Neutral,0.2610192596912384,Neutral
 "Son unos Babes.Geilsex.uno de Los mejores ❤
 
 Mañas no se la. .",0.8555,Positive,1.0,Positive,0.7598372101783752,Positive
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
 "When your legs don't work 
 like they used to before
 
@@ -969,7 +969,7 @@ I remember me and my sister used to love this song and now...shes gone,0.6369,Po
 
 https://www.youtube.com/watch?v=9NfTiXqP1Mw   🙂",0.8224,Positive,0.0,Neutral,-0.3051278591156006,Negative
 Je l'ai envisagée deux fois et puis la vie la duperie...,-0.4404,Negative,0.0,Neutral,-0.35929074883461,Negative
-When you finally start thinking that friend that you have epic chats with looks pretty legit but like who knows if they interested so you just continue being chill,0.875,Positive,0.15,Neutral,0.3223098516464233,Neutral
+When you finally start thinking that friend that you have epic chats with looks pretty legit but like who knows if they interested so you just continue being chill,0.875,Positive,0.15,Positive,0.3223098516464233,Neutral
 Nostalgic song from 2014,0.0,Neutral,-0.5,Negative,0.4983156621456146,Positive
 2022🙌💓,0.875,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ed your so talented great job on the dance,0.8631,Positive,0.75,Positive,0.8662064075469971,Positive
@@ -982,7 +982,7 @@ This song is so addictive!💫❤",0.8477,Positive,0.5,Positive,0.82216894626617
 This reminds me of my loved one he's up in fighting he's in the army and I always text him and tell him how much I'm thinking of him and how much I love him hopefully that he'll come home soon he is in the United States army love you my love,0.9661,Positive,0.48,Positive,0.8476454019546509,Positive
 This will be olayed at my wedding,0.34,Positive,0.0,Neutral,0.4337485134601593,Positive
 He sang the heck out of this song,0.0,Neutral,0.0,Neutral,-0.4008911550045013,Negative
-Ed got beat my princess old Chinese lady Chong houa Mai yia Leng kenji,0.0,Neutral,0.05,Neutral,-0.4254803955554962,Negative
+Ed got beat my princess old Chinese lady Chong houa Mai yia Leng kenji,0.0,Neutral,0.05,Positive,-0.4254803955554962,Negative
 This might have be true if their lucky I think this song reminds me of John,0.6808,Positive,0.3416666666666667,Positive,0.2646176218986511,Neutral
 🥺🥺🥺🥺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🌋🌈🤩🗽🥰😘,0.926,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -994,7 +994,7 @@ Attention état profond. No accept.. Oki. I love you in France 🇫🇷. OK.,0.4
 "Last Level of candy crush 😰😲💥💥
 https://youtu.be/-EZFyolQK2o",-0.6124,Negative,0.0,Neutral,0.2696304619312286,Neutral
 "I'm 20 she's 28 , i sang this to her guess what we had a daughter now",0.0,Neutral,0.0,Neutral,-0.3527919948101043,Negative
-Funny I found this song in a comic,0.4404,Positive,0.25,Neutral,0.4246381223201751,Positive
+Funny I found this song in a comic,0.4404,Positive,0.25,Positive,0.4246381223201751,Positive
 "100% love
 100%feelings 
 0%hatred",0.6369,Positive,0.5,Positive,0.795608639717102,Positive
@@ -1016,7 +1016,7 @@ Song never gets old. And I mean NEVER,0.0,Neutral,-0.10625,Negative,-0.322670340
 I’m so glad you are in town today,0.5095,Positive,0.5,Positive,0.7773287296295166,Positive
 And to think that I dedicated this song to my Ex... she didn't deserve me!,0.5093,Positive,0.0,Neutral,-0.4323358833789825,Negative
 Any legends listening to this on April 2022?,0.0,Neutral,0.0,Neutral,-0.5879908800125122,Negative
-"""stories from outer space"" - Timothy Edward Carpenter x Musicians of Nashville (LIVE)",0.0,Neutral,0.1363636363636363,Neutral,0.392153650522232,Positive
+"""stories from outer space"" - Timothy Edward Carpenter x Musicians of Nashville (LIVE)",0.0,Neutral,0.1363636363636363,Positive,0.392153650522232,Positive
 One of the best songs ever written 😭❤,0.743,Positive,1.0,Positive,0.9437165856361388,Positive
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Amo adoro simplesmente linda estas músicas de Ed,0.9231,Positive,0.6166666666666667,Positive,0.7156593203544617,Positive
@@ -1035,9 +1035,9 @@ anyone 2022 still listening this song?,0.0,Neutral,0.0,Neutral,-0.57800632715225
 
 
 Son unos de los mejores conciertos.",0.9552,Positive,0.7375,Positive,0.8773175477981567,Positive
-3.4 billions views. WOW,0.6739,Positive,0.1,Neutral,0.4493147134780884,Positive
+3.4 billions views. WOW,0.6739,Positive,0.1,Positive,0.4493147134780884,Positive
 https://youtu.be/qKRixak8TkQ,0.0,Neutral,0.0,Neutral,-0.2330737859010696,Negative
-Bài hit làm mưa làm gió một thời của chị Bảo Thy. Cám ơn Đức Phúc mang nó trở lại với màu sắc mới ❤️❤️❤️❤️,0.3612,Positive,0.0681818181818181,Neutral,0.4635799825191498,Positive
+Bài hit làm mưa làm gió một thời của chị Bảo Thy. Cám ơn Đức Phúc mang nó trở lại với màu sắc mới ❤️❤️❤️❤️,0.3612,Positive,0.0681818181818181,Positive,0.4635799825191498,Positive
 "Herkes yabancı ama ben buraya helin aktan için geldim , helinin en huzurlu olduğu şarkı <3",0.8752,Positive,0.40625,Positive,-0.3545964360237121,Negative
 It's 2022. Let's see how many legends are listening to this masterpiece. 🔥❤,0.826,Positive,0.5,Positive,0.6579016447067261,Positive
 It's 2022. Let's see how many legends are listening to this masterpiece. 🔥❤,0.826,Positive,0.5,Positive,0.6579016447067261,Positive
@@ -1049,8 +1049,8 @@ It's 2022. Let's see how many legends are listening to this masterpiece. 🔥❤
 this makes me very romantic when I am just alone but thinking about my crush 🥰🥰🥰,0.9866,Positive,0.0,Neutral,0.4366911351680755,Positive
 CUANTOS NO HAN HECHO EWL DELICIOSO CON ESA CANCION XD?,-0.4585,Negative,0.75,Positive,-0.3891263306140899,Negative
 #cuterelatoinshipever,0.0,Neutral,0.0,Neutral,-0.3025926053524017,Negative
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
-TERIMAKASIH ED SHEERAN AKU GIFTED BASIC BEE DARI LAGU INI,0.3612,Positive,0.25,Neutral,0.5119028091430664,Positive
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
+TERIMAKASIH ED SHEERAN AKU GIFTED BASIC BEE DARI LAGU INI,0.3612,Positive,0.25,Positive,0.5119028091430664,Positive
 "Bravo, bellissimo, 😘💪👍💐🌹😘",0.8591,Positive,0.85,Positive,0.8853458762168884,Positive
 May I say when I was younger I never thought evenone love me but know that am older I come to turms they did they were young but they loved me they best way they could,0.8993,Positive,0.4111111111111111,Positive,0.4688069224357605,Positive
 Love from VANUATU 🇻🇺🇻🇺,0.6369,Positive,0.5,Positive,0.6431067585945129,Positive
@@ -1068,29 +1068,29 @@ Peeps candi,0.0,Neutral,0.0,Neutral,0.2778984308242798,Neutral
 Red cross,0.0,Neutral,0.0,Neutral,0.3467293083667755,Positive
 Perillo.. rust .. dewberry.. Bruno's.. Gaston.. Marta.. Schwinn evergreen Sara land  .. cabin.. Martin lake.. bocipolis.. Turks and Caicos.. Hartford.. Hargreaves.. kinder risks MMA justcauaj justac. JusT,0.2732,Positive,0.0,Neutral,-0.5388050675392151,Negative
 Urso burnet. Valarie,0.0,Neutral,0.0,Neutral,0.2481022775173187,Neutral
-"Definitely a wedding song , the dancer did amazing 💕",0.8957,Positive,0.3,Neutral,0.5111576914787292,Positive
-"Wait a minute- This is the same place Billie Eilish sang ""Billie Bossa Nova"" , it has the same carpet, lol",0.4215,Positive,0.2666666666666666,Neutral,-0.4197337925434112,Negative
+"Definitely a wedding song , the dancer did amazing 💕",0.8957,Positive,0.3,Positive,0.5111576914787292,Positive
+"Wait a minute- This is the same place Billie Eilish sang ""Billie Bossa Nova"" , it has the same carpet, lol",0.4215,Positive,0.2666666666666666,Positive,-0.4197337925434112,Negative
 Pocahontas,0.0,Neutral,0.0,Neutral,0.2547184228897095,Neutral
 BTS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ed who?,0.0,Neutral,0.0,Neutral,-0.3712495267391205,Negative
-Only true LEGENDS are still watching this in 2022!,0.4753,Positive,0.21875,Neutral,0.2611285448074341,Neutral
+Only true LEGENDS are still watching this in 2022!,0.4753,Positive,0.21875,Positive,0.2611285448074341,Neutral
 Me and my husband in the future💕,0.6486,Positive,0.0,Neutral,0.4655308425426483,Positive
-Tried to dance with my partner so many times to this but he has two left feet and two other girlfriends he sucks 🤬 I need to find another partner one that can dance 💃🤣🤣🤣,0.8922,Positive,0.01875,Neutral,-0.4985958039760589,Negative
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
+Tried to dance with my partner so many times to this but he has two left feet and two other girlfriends he sucks 🤬 I need to find another partner one that can dance 💃🤣🤣🤣,0.8922,Positive,0.01875,Positive,-0.4985958039760589,Negative
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
 I’m going to his concert in crow park next Sunday,0.0,Neutral,0.0,Neutral,0.3261706829071045,Neutral
 This is true https://youtu.be/IvR3xenD1Dw,0.4215,Positive,0.35,Positive,0.488014668226242,Positive
 "A Great voice, a beautiful video, and a beautiful song! 🎼. And… I hear your a good guy. -Thank you. ❤️💕",0.9716,Positive,0.8374999999999999,Positive,0.8599023818969727,Positive
 Great work Ed Sheehan keep it up you got this.,0.6249,Positive,0.8,Positive,0.7093031406402588,Positive
 love the song but whos the dancer,0.3818,Positive,0.5,Positive,0.3643124103546142,Positive
 ❤️ This video,0.0,Neutral,0.0,Neutral,0.4280681312084198,Positive
-Is that a body double or is Ed Sheeran Really a dancer?,0.0,Neutral,0.1,Neutral,0.3164063990116119,Neutral
+Is that a body double or is Ed Sheeran Really a dancer?,0.0,Neutral,0.1,Positive,0.3164063990116119,Neutral
 Está  bela música e espetacular.,0.5994,Positive,0.725,Positive,0.7157098650932312,Positive
 Love it so much 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂😀😀😀😀😀😀😀😀😀😀😍,0.9986,Positive,0.35,Positive,0.8882629871368408,Positive
 Que buenaaaaaa,0.4404,Positive,0.7,Positive,0.3610288500785827,Positive
 Aqurlamusica que até os crentes usam no casamento,0.0,Neutral,0.0,Neutral,0.3450818359851837,Positive
-"half the worlds population has watched this video. or, of course, only a handful of people a thousand times lol cause this song is a legend.",0.4215,Positive,0.2111111111111111,Neutral,0.292612612247467,Neutral
+"half the worlds population has watched this video. or, of course, only a handful of people a thousand times lol cause this song is a legend.",0.4215,Positive,0.2111111111111111,Positive,0.292612612247467,Neutral
 Better not be.haha,0.4404,Positive,0.5,Positive,-0.4865741729736328,Negative
 True Music never fades,0.4215,Positive,0.35,Positive,0.673637866973877,Positive
 Still my favorite song after 8 years.,0.4588,Positive,0.5,Positive,0.7637971043586731,Positive
-"I absolutely adore this song, but is it me or does this have the exact same  melody as that one Marvin Gaye song?",0.3499,Positive,0.15,Neutral,0.4427108466625213,Positive
+"I absolutely adore this song, but is it me or does this have the exact same  melody as that one Marvin Gaye song?",0.3499,Positive,0.15,Positive,0.4427108466625213,Positive
 BOOOO THROWING TOMATOES🍅🍅🍅🍅🍅🍅🍅,0.0,Neutral,0.0,Neutral,-0.2455838769674301,Negative
 I want dance with Ed Sheehan,0.0772,Positive,0.0,Neutral,0.4042602479457855,Positive

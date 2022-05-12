@@ -1,10 +1,10 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Dan lastima,0.0,Neutral,0.0,Neutral,0.2536386847496032,Neutral
 ♡♡♡💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
-L live you BTS,0.5766,Positive,0.1363636363636363,Neutral,0.4903647005558014,Positive
+L live you BTS,0.5766,Positive,0.1363636363636363,Positive,0.4903647005558014,Positive
 "474,914,695M.   +1M in 3 days",0.0,Neutral,0.0,Neutral,-0.3282901048660278,Negative
 "Jimin: Find me and ima live with ya
-Me: Searches for Jimin all over in Korea",0.0,Neutral,0.1363636363636363,Neutral,0.3938616216182709,Positive
+Me: Searches for Jimin all over in Korea",0.0,Neutral,0.1363636363636363,Positive,0.3938616216182709,Positive
 어머나,0.4588,Positive,0.0,Neutral,-0.2638007402420044,Negative
 песня и клип супер.💜,0.8442,Positive,0.0,Neutral,0.3512008488178253,Positive
 """The shadow resembles me..."" <3",0.4404,Positive,1.0,Positive,0.4157222509384155,Positive
@@ -12,11 +12,11 @@ joyita de canción,0.0,Neutral,0.0,Neutral,0.3745067417621612,Positive
 474M,0.0,Neutral,0.0,Neutral,0.264198750257492,Neutral
 يلا نوصله 1مليار مشهادة ارمي عشان يصير دانس يصول مليار ونفرح بتس 😸,0.4588,Positive,0.0,Neutral,-0.6908427476882935,Negative
 Still goosebumps...,0.0,Neutral,0.0,Neutral,-0.2592087686061859,Negative
-My boys are truly professional dancers. They are amazing not only in singing but also in dancing.I really stan talented artists.,0.8488,Positive,0.32,Neutral,0.928056299686432,Positive
+My boys are truly professional dancers. They are amazing not only in singing but also in dancing.I really stan talented artists.,0.8488,Positive,0.32,Positive,0.928056299686432,Positive
 474.8 m,0.0,Neutral,0.0,Neutral,0.2385414242744445,Neutral
-Jin is so hot in here !🤤,0.0,Neutral,0.3125,Neutral,0.4395634233951568,Positive
+Jin is so hot in here !🤤,0.0,Neutral,0.3125,Positive,0.4395634233951568,Positive
 ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
-Esto Sta potente,0.4215,Positive,0.3,Neutral,0.590815544128418,Positive
+Esto Sta potente,0.4215,Positive,0.3,Positive,0.590815544128418,Positive
 I don't know why but when it is bangtan it always hit different,0.0,Neutral,0.0,Neutral,0.407394528388977,Positive
 Best song,0.6369,Positive,1.0,Positive,0.8334701657295227,Positive
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
@@ -26,7 +26,7 @@ BTS = Miracle × Masterpiece × Endeavour,0.836,Positive,0.0,Neutral,0.668480813
 It’s ON by BTS!!,0.0,Neutral,0.0,Neutral,0.3404300212860107,Positive
 Love you😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘,0.9998,Positive,0.5,Positive,0.7371776700019836,Positive
 ioi,0.0,Neutral,0.0,Neutral,0.2864382863044739,Neutral
-Remembering how this could have been BTS' first no. 1 even just for 1 week if it wasn't sawbautaged.,0.0,Neutral,0.25,Neutral,-0.2728673219680786,Negative
+Remembering how this could have been BTS' first no. 1 even just for 1 week if it wasn't sawbautaged.,0.0,Neutral,0.25,Positive,-0.2728673219680786,Negative
 Man I love this I just can't stop repeating the beginning,0.7259,Positive,0.5,Positive,0.879492998123169,Positive
 Hahahhahahaha,0.0,Neutral,0.0,Neutral,-0.2854765653610229,Negative
 "❤️‍🩹 - BTS
@@ -52,7 +52,7 @@ BTS ke har song ko l billion karate hai  I love you BTS,0.802,Positive,0.5,Posit
 💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜,0.9996,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love you Big fan love you and your are great,0.9413,Positive,0.45,Positive,0.9205607771873474,Positive
-"THEY MAKE ME SMILE AND EVERY ARMY SMILE, WHEN I LISTEN TO THEIR SONGS I FEEL SAFE. THEY WORKED SO HARD, AND NOW THEY'RE GETTING WHAT THEY DESERVE. PROUD TO BE AN ARMY💜💜💜",0.9745,Positive,0.3216666666666666,Neutral,0.8940989375114441,Positive
+"THEY MAKE ME SMILE AND EVERY ARMY SMILE, WHEN I LISTEN TO THEIR SONGS I FEEL SAFE. THEY WORKED SO HARD, AND NOW THEY'RE GETTING WHAT THEY DESERVE. PROUD TO BE AN ARMY💜💜💜",0.9745,Positive,0.3216666666666666,Positive,0.8940989375114441,Positive
 474M only,0.0,Neutral,0.0,Neutral,-0.3077459931373596,Negative
 hey na na na,0.0,Neutral,0.0,Neutral,-0.2754053771495819,Negative
 💜💜💜💜,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -67,7 +67,7 @@ Don't increase the mv speed
 Don't keep watching the MV, interlude by watching 3-4 other videos
 Increase video quality 720-1080p
 
-Hwaiting!!",0.6377,Positive,0.1015625,Neutral,-0.3606146872043609,Negative
+Hwaiting!!",0.6377,Positive,0.1015625,Positive,-0.3606146872043609,Negative
 Always on made my mood on,0.0,Neutral,0.0,Neutral,0.5135863423347473,Positive
 The 7 kings 💜,0.6369,Positive,0.0,Neutral,0.6113336682319641,Positive
 "M
@@ -81,7 +81,7 @@ I
 E
 C
 E",0.0,Neutral,0.0,Neutral,0.2520863711833954,Neutral
-BTS is coming on June 10!!! Save the date and your money ;p and stream all BTS MVs while waiting please Army! Specially this masterpiece and Butter which is next in line for 1B,0.9108,Positive,0.1785714285714285,Neutral,-0.6614885926246643,Negative
+BTS is coming on June 10!!! Save the date and your money ;p and stream all BTS MVs while waiting please Army! Specially this masterpiece and Butter which is next in line for 1B,0.9108,Positive,0.1785714285714285,Positive,-0.6614885926246643,Negative
 I love this song it's amazing 💜😍,0.9451,Positive,0.55,Positive,0.8834518790245056,Positive
 Hey na na na,0.0,Neutral,0.0,Neutral,-0.2754053771495819,Negative
 L💜VEEEEEEEEE😍😍😍😍😍🤩🤩😘😘🤩😍😍🤩😘😘🤩😍,0.989,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -102,7 +102,7 @@ Anone in 2022 ??😍😍❤️❤️,0.0,Neutral,0.0,Neutral,-0.536575198173523,
 💜BTS 💜,0.6369,Positive,0.0,Neutral,0.3428077399730682,Positive
 You are like puzzle……….not miss a single piece!!!! Thank You all!!!,0.6776,Positive,-0.3405979701450892,Negative,0.8245251178741455,Positive
 I want a comeback as hard as this pls 😭,-0.4404,Negative,-0.2916666666666667,Negative,0.3500697612762451,Positive
-لا سلطـة لنـا على قلوبنـا هى تنبـض لمـن أرادت …!”,0.5255,Positive,0.25,Neutral,-0.5945296287536621,Negative
+لا سلطـة لنـا على قلوبنـا هى تنبـض لمـن أرادت …!”,0.5255,Positive,0.25,Positive,-0.5945296287536621,Negative
 SEXY NAMJOON,0.5267,Positive,0.5,Positive,0.5040698051452637,Positive
 الاغنيه تستحق كل الحب,0.6369,Positive,0.5,Positive,0.5208953619003296,Positive
 بانقتان كلهم حلوين,0.5994,Positive,0.85,Positive,-0.3189184665679931,Negative
@@ -125,29 +125,29 @@ Genial,0.4215,Positive,0.0,Neutral,0.8408787250518799,Positive
 ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 Sigo enamorada de esta canción,0.6369,Positive,0.5,Positive,0.6143669486045837,Positive
 JIMIN YOUR HAIR IS SO AWESOME,0.7384,Positive,1.0,Positive,0.8699170351028442,Positive
-I'm In Love With The Last Minutes,0.6369,Positive,0.25,Neutral,0.6861835718154907,Positive
-This song never gonna be old it's energy is of next level 🤘💜💜,0.8885,Positive,0.05,Neutral,0.5588177442550659,Positive
+I'm In Love With The Last Minutes,0.6369,Positive,0.25,Positive,0.6861835718154907,Positive
+This song never gonna be old it's energy is of next level 🤘💜💜,0.8885,Positive,0.05,Positive,0.5588177442550659,Positive
 グクの歌声神,0.2732,Positive,0.0,Neutral,0.5760490894317627,Positive
 Alto hit,0.0,Neutral,0.0,Neutral,0.6364924907684326,Positive
-epic,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
+epic,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
 Breakdance the best,0.6369,Positive,1.0,Positive,0.8386244177818298,Positive
-"Hey na na na - nagyon szeretem ezt az MV-t! Tele van erővel és energiával - bámulatosak! Az elmúlt 8 hónapban folyamatosan tágra nyitott szemekkel figyelem őket - valamiféle varázslat ez, amit ők és csakis ők tudnak... komolyan mondom.",0.9038,Positive,0.2333333333333333,Neutral,0.7914931774139404,Positive
+"Hey na na na - nagyon szeretem ezt az MV-t! Tele van erővel és energiával - bámulatosak! Az elmúlt 8 hónapban folyamatosan tágra nyitott szemekkel figyelem őket - valamiféle varázslat ez, amit ők és csakis ők tudnak... komolyan mondom.",0.9038,Positive,0.2333333333333333,Positive,0.7914931774139404,Positive
 Lindos de mais army para sempre 😢😍😙,0.8885,Positive,0.85,Positive,0.6013779044151306,Positive
 Wow😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘,0.9998,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Rocked it...,0.0,Neutral,0.0,Neutral,0.5315098762512207,Positive
-when u suddenly respect them for wearing black under the hot sun for this performance,0.4767,Positive,0.0277777777777777,Neutral,0.3614027202129364,Positive
+when u suddenly respect them for wearing black under the hot sun for this performance,0.4767,Positive,0.0277777777777777,Positive,0.3614027202129364,Positive
 j-hope ♡,0.0,Neutral,0.0,Neutral,0.6486742496490479,Positive
 LET'S MAKE THIS HYPE AGAIN,0.0,Neutral,0.0,Neutral,0.5100457668304443,Positive
 On supremacy,0.0516,Positive,0.0,Neutral,0.4000611901283264,Positive
 Vamos por los 500M army!,0.0,Neutral,0.0,Neutral,0.5433650612831116,Positive
 1:17,0.0,Neutral,0.0,Neutral,-0.2480055689811706,Negative
 Que canción y presentación de un nivel increíble,0.0,Neutral,0.9,Positive,0.7569901943206787,Positive
-جمال جيمين واو,0.8225,Positive,0.1,Neutral,0.4408555328845978,Positive
+جمال جيمين واو,0.8225,Positive,0.1,Positive,0.4408555328845978,Positive
 صوت jk يجنن,-0.34,Negative,-0.6,Negative,-0.5847997665405273,Negative
 أساطير الرقص,0.0,Neutral,0.0,Neutral,0.2753951251506805,Neutral
 روعة أحسنتم يارفاق,0.7351,Positive,1.0,Positive,0.2661325931549072,Neutral
 PARK JIMIN. ....owns this song....💜😈,0.802,Positive,0.0,Neutral,0.5930901765823364,Positive
-REAL KINGSSSSSSSSSSSŠ,0.0,Neutral,0.2,Neutral,0.6358177661895752,Positive
+REAL KINGSSSSSSSSSSSŠ,0.0,Neutral,0.2,Positive,0.6358177661895752,Positive
 K I N G,0.0,Neutral,0.0,Neutral,0.3198854029178619,Neutral
 "KIM NAMJOON
 KIM SEOKJIN
@@ -210,22 +210,22 @@ BTS PAVED THE WAY FOR ALL!!!!,0.0,Neutral,0.0,Neutral,0.7287209630012512,Positiv
 BTS PAVED THE WAY FOR ALL!,0.0,Neutral,0.0,Neutral,0.7860641479492188,Positive
 THEY ARE MY ENTIRE LIFE 💜,0.6369,Positive,0.0,Neutral,0.7453954815864563,Positive
 BANGTAN 💜,0.0,Neutral,0.0,Neutral,-0.2659793794155121,Negative
-This song is already two years old I can't believe it how fast what a spectacular song. 🤍,0.0,Neutral,0.3,Neutral,0.5915248394012451,Positive
+This song is already two years old I can't believe it how fast what a spectacular song. 🤍,0.0,Neutral,0.3,Positive,0.5915248394012451,Positive
 kpop is all about perfection,0.5719,Positive,0.0,Neutral,0.7160536050796509,Positive
-"Aunque aquí ya habían cambiado el estilo único que tenían, por lo menos estuvo mejor que las que sacaron en ingles.",0.4404,Positive,0.14375,Neutral,0.5119422674179077,Positive
+"Aunque aquí ya habían cambiado el estilo único que tenían, por lo menos estuvo mejor que las que sacaron en ingles.",0.4404,Positive,0.14375,Positive,0.5119422674179077,Positive
 😇😇🤲🤲🤲🤲🤲😇😇😇😇🤲😇🤲😇🤲,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ME ENCANTA ESTA CANCION DEMASIADO,0.6369,Positive,0.35,Positive,0.4043426811695099,Positive
 💜💜💜💜💜💜💜,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Mano serio essa música é perfeitaaaa ✨✨,0.765,Positive,0.3333333333333333,Positive,0.6359995603561401,Positive
 los amoooo,0.6369,Positive,0.5,Positive,0.2146743685007095,Neutral
 I love this song and performance its PERFECT💜💜,0.9586,Positive,0.5,Positive,0.7831558585166931,Positive
-En el minuto 4 se escucha como la voz mexico jaja,0.6705,Positive,0.2,Neutral,-0.5632462501525879,Negative
+En el minuto 4 se escucha como la voz mexico jaja,0.6705,Positive,0.2,Positive,-0.5632462501525879,Negative
 Eso necesitaba 😎✌🎶💃,0.7351,Positive,0.0,Neutral,0.3358487784862518,Positive
 "don't ask who is watching it now
 cz we never stop streaming this masterpiece",0.7174,Positive,0.0,Neutral,0.7858214378356934,Positive
 How many armies 💜 are here to see our legends ♥️,0.8555,Positive,0.5,Positive,0.6138976216316223,Positive
-"*BTS will comeback with releasing another new album on June 10th, 2022 !!!*",0.0,Neutral,0.2663352272727272,Neutral,-0.3521017730236053,Negative
-mots 7 my second cb 🥺😭 wish we could experience the most 7 songs in a live in-person concert 💜,0.5859,Positive,0.2121212121212121,Neutral,0.6605709791183472,Positive
+"*BTS will comeback with releasing another new album on June 10th, 2022 !!!*",0.0,Neutral,0.2663352272727272,Positive,-0.3521017730236053,Negative
+mots 7 my second cb 🥺😭 wish we could experience the most 7 songs in a live in-person concert 💜,0.5859,Positive,0.2121212121212121,Positive,0.6605709791183472,Positive
 one of my favorite music videos along with IDOL 💜💜,0.9081,Positive,0.5,Positive,0.8981481194496155,Positive
 so close to 500M let's go BTS,0.0,Neutral,0.0,Neutral,-0.2555800974369049,Negative
 💜❤️‍🔥,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -233,7 +233,7 @@ Jk vocals are no joke,0.0031,Neutral,0.0,Neutral,-0.2694025933742523,Negative
 "Amo las 2 versiones de este video , Up BTS 💜💜✊",0.9274,Positive,0.5,Positive,0.4072640836238861,Positive
 *Their outfits and hairstyles in this mv is just* 🔥🔥,-0.5859,Negative,0.0,Neutral,0.2574969232082367,Neutral
 "Before this, MY UNIVERSE. After this, BLACK SWAN. Keep on streaming every day, ARMY!",0.0,Neutral,-0.2083333333333333,Negative,0.6507968902587891,Positive
-"Às vezes tenho vontade de chorar. Não por tristeza, não por alegria. Apenas chorar por chorar. Porque parece que de uma maneira quase mágica, chorar me esvazia quando estou cheia demais... e quando escuto a voz dele e dos meninos me sinto bem ,é surreal o que eles mudaram minha vida ......... amo tanto ,só tenho agradecer.",-0.5577,Negative,0.3222222222222222,Neutral,0.2687706351280212,Neutral
+"Às vezes tenho vontade de chorar. Não por tristeza, não por alegria. Apenas chorar por chorar. Porque parece que de uma maneira quase mágica, chorar me esvazia quando estou cheia demais... e quando escuto a voz dele e dos meninos me sinto bem ,é surreal o que eles mudaram minha vida ......... amo tanto ,só tenho agradecer.",-0.5577,Negative,0.3222222222222222,Positive,0.2687706351280212,Neutral
 ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 still love this song and its 2022,0.6369,Positive,0.5,Positive,0.7138344049453735,Positive
 3:27,0.0,Neutral,0.0,Neutral,0.3732410669326782,Positive
@@ -243,7 +243,7 @@ Nice😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
 "THAT THAT ( PSY ft. SUGA) 
 Tomorrow 6pm kst ( 29 April) 
 Guess who's excited (｡•̀ᴗ-)✧
-Don't forget to stream it along with other BTS MVs :)",0.7241,Positive,0.25,Neutral,-0.3315261006355285,Negative
+Don't forget to stream it along with other BTS MVs :)",0.7241,Positive,0.25,Positive,-0.3315261006355285,Negative
 2:28,0.0,Neutral,0.0,Neutral,-0.2623896300792694,Negative
 "Now we know what N
 amjoon meant by hard I mean you can learn this choreography and use it for cardio .",-0.1027,Negative,-0.3020833333333333,Negative,0.3857914805412292,Positive
@@ -266,8 +266,8 @@ BTS 💜💜💜💜💜💜💜,0.9854,Positive,0.0,Neutral,0.3904065191745758,
 우리의 뜻을 합쳐 보여주세요 ^^ 여러분의 조회수가 곳 힘입니다",0.9674,Positive,0.3333333333333333,Positive,0.757174015045166,Positive
 Woww,0.0,Neutral,0.0,Neutral,0.4827857315540313,Positive
 "メンバー全員がカッコ良すぎて、
-男性アイドルを観てカッコ良すぎて感動して泣いちゃったのは初めて😭😭😭😭😭😭😭😭😭✨✨💜🌈",-0.9469,Negative,0.2375,Neutral,0.2811257243156433,Neutral
-"Эх где Мои  20  -лет  Я, Тебя  давно   украла бы. ТЕБЯ. 😉😉😉😉😝😝😝",-0.4939,Negative,0.025,Neutral,0.5964831113815308,Positive
+男性アイドルを観てカッコ良すぎて感動して泣いちゃったのは初めて😭😭😭😭😭😭😭😭😭✨✨💜🌈",-0.9469,Negative,0.2375,Positive,0.2811257243156433,Neutral
+"Эх где Мои  20  -лет  Я, Тебя  давно   украла бы. ТЕБЯ. 😉😉😉😉😝😝😝",-0.4939,Negative,0.025,Positive,0.5964831113815308,Positive
 Hey na na na !!,0.0,Neutral,0.0,Neutral,-0.3837068378925323,Negative
 474M □,0.0,Neutral,0.0,Neutral,-0.2570277154445648,Negative
 My everythingggg,0.0,Neutral,0.0,Neutral,0.5602338314056396,Positive
@@ -283,11 +283,11 @@ ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 474 M coming - Fight for more!,-0.4389,Negative,0.625,Positive,0.5209078788757324,Positive
 Simplemente amo esta canción es linda,0.802,Positive,0.5,Positive,0.716058611869812,Positive
 Love it😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘,0.9998,Positive,0.5,Positive,0.7371776700019836,Positive
-By far one of my favorite song and MV,0.4588,Positive,0.3,Neutral,0.8070511221885681,Positive
+By far one of my favorite song and MV,0.4588,Positive,0.3,Positive,0.8070511221885681,Positive
 Kashish,0.0,Neutral,0.0,Neutral,0.2443262040615081,Neutral
 I cant believe it's been 2 years already!!!!!,0.0,Neutral,0.0,Neutral,-0.350239634513855,Negative
 "Help, que obsesiva es esta canción",0.2023,Positive,0.0,Neutral,-0.3916608691215515,Negative
-esa es un rara musica parese mas regeton que otra cosa,-0.2023,Negative,0.225,Neutral,-0.3919914960861206,Negative
+esa es un rara musica parese mas regeton que otra cosa,-0.2023,Negative,0.225,Positive,-0.3919914960861206,Negative
 💗💗💗💗💗💗💗💗💗,0.994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Sure is great because bts is a great band all of word is my opinion.,0.8885,Positive,0.7000000000000001,Positive,0.4906386435031891,Positive
 2:56 GOOSEBUMPS,0.0,Neutral,0.0,Neutral,-0.2553521692752838,Negative
@@ -295,7 +295,7 @@ still in love with this masterpiece!,0.8622,Positive,0.625,Positive,0.8568754196
 BTS is perfect how can they hate them? they don't deserve any hate,0.4585,Positive,-0.2,Negative,0.6625399589538574,Positive
 son geniales!!!,0.7163,Positive,1.0,Positive,0.8362919688224792,Positive
 "The second BTS will not appear. So don't hesitate to like it and have fun.
- Non-eternity marathon.",0.5077,Positive,0.15,Neutral,-0.3332177102565765,Negative
+ Non-eternity marathon.",0.5077,Positive,0.15,Positive,-0.3332177102565765,Negative
 "Before this, SPRING DAY. After this, LIFE GOES ON. Let's go!",0.0,Neutral,0.0,Neutral,0.4648647010326385,Positive
 "This is my fifteenth BTS MV stream today. It is not easy to go through about 25 main MVs of the group; turnaround time is very slow, but it is doable. Keep streaming, ARMY!
 
@@ -308,9 +308,9 @@ It's ON by BTS!!,0.0,Neutral,0.0,Neutral,0.3592902719974518,Positive
 Aquí haciendo stream,0.0,Neutral,0.0,Neutral,0.3386678695678711,Positive
 Me fascina muchoooooooooo,0.0,Neutral,0.0,Neutral,0.4401650726795196,Positive
 Sky keep falling,-0.1531,Negative,0.0,Neutral,-0.2858013212680816,Negative
-WoW 😳😳,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+WoW 😳😳,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 Zamn the way Jungkook snapped in the background vocals!!,0.0,Neutral,0.0,Neutral,-0.5690075755119324,Negative
-"BTS will comeback with releasing another new album on June 10th, 2022 !!!",0.0,Neutral,0.2663352272727272,Neutral,0.2879853844642639,Neutral
+"BTS will comeback with releasing another new album on June 10th, 2022 !!!",0.0,Neutral,0.2663352272727272,Positive,0.2879853844642639,Neutral
 Army plz str£@m boy with luv we wanna hit 2B before 9th anniversary of bts.plzz spread this we can do it,0.0772,Positive,0.0,Neutral,0.602236807346344,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 They all are looking Speechless here !,0.0,Neutral,0.0,Neutral,-0.7460742592811584,Negative
@@ -323,7 +323,7 @@ missing blue hair on jimin :(,-0.6249,Negative,-0.3166666666666666,Negative,-0.3
 win no matter what,0.5756,Positive,0.8,Positive,0.2427557706832885,Neutral
 Their every moves are so cool!!!,0.595,Positive,0.68359375,Positive,0.8247177004814148,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
-Wow their moves!!,0.658,Positive,0.15625,Neutral,0.8515166640281677,Positive
+Wow their moves!!,0.658,Positive,0.15625,Positive,0.8515166640281677,Positive
 I love this song!!!,0.7249,Positive,0.9765625,Positive,0.892195999622345,Positive
 I love their songs!!!,0.7249,Positive,0.9765625,Positive,0.8029477596282959,Positive
 "THE DANCE, MAN!!! dont even mention 🙀",0.3999,Positive,0.0,Neutral,0.3187177181243896,Neutral
@@ -342,11 +342,11 @@ Still listening to this,0.0,Neutral,0.0,Neutral,0.3776352107524872,Positive
 NONONONO PUEDE SER JIMIN ON KOOKMIN NONO,0.0,Neutral,0.0,Neutral,-0.3048394918441772,Negative
 I’m still here yall,0.0,Neutral,0.0,Neutral,0.400772750377655,Positive
 Power is ON maximum level - awesome!,0.6588,Positive,1.0,Positive,0.8779389262199402,Positive
-이제 곧 새로운 앨범 나온다ㅏ,0.0,Neutral,0.1363636363636363,Neutral,0.4884484112262726,Positive
+이제 곧 새로운 앨범 나온다ㅏ,0.0,Neutral,0.1363636363636363,Positive,0.4884484112262726,Positive
 Cute🥺🤘,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "BTS has not only set the music industry on fire with their vocals but also the world of dancing with their intense and innovative dance routines.
 
-The Philippines, 27 Apr 2022; 5:41 am (473,607,621 views)",0.5574,Positive,0.2333333333333333,Neutral,0.5565931797027588,Positive
+The Philippines, 27 Apr 2022; 5:41 am (473,607,621 views)",0.5574,Positive,0.2333333333333333,Positive,0.5565931797027588,Positive
 500 million is coming,0.0,Neutral,0.0,Neutral,0.3132722079753876,Neutral
 BTS WORLD DOMINATION,-0.0516,Negative,0.0,Neutral,0.4342802762985229,Positive
 Bts forever,0.0,Neutral,0.0,Neutral,0.6638151407241821,Positive
@@ -362,12 +362,12 @@ This moment 3:41 🤤,0.0,Neutral,0.0,Neutral,0.5341713428497314,Positive
 4:30,0.0,Neutral,0.0,Neutral,0.2479068338871002,Neutral
 2:29 SEE Kim Taehyung toungue,0.0,Neutral,0.0,Neutral,-0.2651090919971466,Negative
 LOVE YOU BTS,0.6369,Positive,0.5,Positive,0.8197864294052124,Positive
-BTS are really on another level wow. This is phenomenal,0.5859,Positive,0.2666666666666666,Neutral,0.928768277168274,Positive
+BTS are really on another level wow. This is phenomenal,0.5859,Positive,0.2666666666666666,Positive,0.928768277168274,Positive
 "I love this song ❤️💜 I love them too 🥰🥰🥰🥰 they are my life, and they will be very successful ahead",0.9935,Positive,0.6583333333333333,Positive,0.8786129355430603,Positive
 Their dancing 🥵🔥,-0.34,Negative,0.0,Neutral,0.3546942770481109,Positive
 "Believe me, their every song will be remembered in centuries 💜",0.6369,Positive,0.0,Neutral,0.7330763936042786,Positive
 500!,0.0,Neutral,0.0,Neutral,0.3631663024425506,Positive
-Awesome...Always makes me feel energetic from inside when I m low. Ty BTS,0.5267,Positive,0.25,Neutral,0.8507032990455627,Positive
+Awesome...Always makes me feel energetic from inside when I m low. Ty BTS,0.5267,Positive,0.25,Positive,0.8507032990455627,Positive
 BTS THE BEST,0.6369,Positive,1.0,Positive,0.871461033821106,Positive
 ♡N,0.0,Neutral,0.0,Neutral,0.5137342810630798,Positive
 Love you😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃💃👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘,0.9998,Positive,0.5,Positive,0.7371776700019836,Positive
@@ -377,7 +377,7 @@ DNA,0.0,Neutral,0.0,Neutral,0.3114984631538391,Neutral
 uwaaa,0.0,Neutral,0.0,Neutral,0.2438502311706543,Neutral
 "BTS has not only set the music industry on fire with their vocals but also the world of dancing with their intense and innovative dance routines.
 
-The Philippines, 26 Apr 2022; 8:07 pm (473,490,669 views)",0.5574,Positive,0.2333333333333333,Neutral,0.5121924877166748,Positive
+The Philippines, 26 Apr 2022; 8:07 pm (473,490,669 views)",0.5574,Positive,0.2333333333333333,Positive,0.5121924877166748,Positive
 Love myself 5483,0.6369,Positive,0.5,Positive,0.7473196983337402,Positive
 Their every dance break is unique like this and butter(grammy performance),0.3612,Positive,0.375,Positive,0.7617712020874023,Positive
 Bring the pain ON,-0.5106,Negative,0.0,Neutral,0.4637615084648132,Positive
@@ -393,7 +393,7 @@ na na na~~~~,0.0,Neutral,0.0,Neutral,0.2925044298171997,Neutral
 cày On này cho lên một tỉ^^,0.0,Neutral,0.0,Neutral,-0.3269775807857513,Negative
 Bring the pain on yeah,-0.2732,Negative,0.0,Neutral,0.4123019576072693,Positive
 Best song everrrrrrrrr 🥰🥰🥰🥰❤️❤️❤️♥️❤️❤️❤️❤️❤️❤️💜,0.9922,Positive,1.0,Positive,0.9139379858970642,Positive
-Epic,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
+Epic,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
 Is it me or anyone else is also listening to this masterpiece now??,0.7379,Positive,0.0,Neutral,-0.348294585943222,Negative
 Amo a bts ❤️❤️,0.0,Neutral,0.0,Neutral,0.4920401871204376,Positive
 My eys see this song and me shokd v neck stayil love this song,0.6369,Positive,0.5,Positive,0.780978262424469,Positive
@@ -410,11 +410,11 @@ ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 "Everytime i saw this i want to klik 👍🏻,, but i already klicked like 100 years ago,, cant stop watch this over and over and still amaze like i saw this for the 1'st time ,,",0.9291,Positive,0.0,Neutral,0.4565335810184479,Positive
 "Yes this is a master piece, I listen to it everyday😊😊😊",0.9623,Positive,0.0,Neutral,0.8070600032806396,Positive
 Wow😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0.9997,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Nosé ustedes pero a mí sí me mandan a poner el himno nacional en el colegio les pongo está Reyna y le subo todo, que revienten las bocinas ;)",0.6652,Positive,0.25,Neutral,-0.3639813065528869,Negative
+"Nosé ustedes pero a mí sí me mandan a poner el himno nacional en el colegio les pongo está Reyna y le subo todo, que revienten las bocinas ;)",0.6652,Positive,0.25,Positive,-0.3639813065528869,Negative
 go to 474M,0.0,Neutral,0.0,Neutral,-0.3007274568080902,Negative
 "I'm so happy for BTS, with everything they have achieved and all the people their music has reached. I am a mulitstan but BTS is my main group. I hope to be fortunate enough to one day attend their concert.",0.8859,Positive,0.3416666666666667,Positive,0.7576520442962646,Positive
 COME ON BTS,0.0,Neutral,0.0,Neutral,0.5146249532699585,Positive
-Arte puro ✌,0.4939,Positive,0.2142857142857142,Neutral,0.6887672543525696,Positive
+Arte puro ✌,0.4939,Positive,0.2142857142857142,Positive,0.6887672543525696,Positive
 VAMOS ARMYS  500M!,0.0,Neutral,0.0,Neutral,0.4199272692203522,Positive
 "Tommoro is board exam ....
 Am still listening this 😆..I thik namjoon goona shave my eyebrows after he knows...",0.4357,Positive,0.0,Neutral,0.2754015922546386,Neutral
@@ -422,16 +422,16 @@ Am still listening this 😆..I thik namjoon goona shave my eyebrows after he kn
 "Партия Джей Хоупа столь прекрасна, снос башки просто, не насыщаюсь этим отрывком... 1:40 - 1:58 ... Хося такой горячий в этом исполнении...",0.7177,Positive,0.3666666666666667,Positive,-0.4598728716373443,Negative
 ON 500M IS COMING ARMY💜💜🤚🔥,0.8807,Positive,0.0,Neutral,0.2437041252851486,Neutral
 "このダンスを踊れるということに、かんしんしました
-これからも体調に気をつけてarmyを喜ばせてほしいです",0.7845,Positive,0.3,Neutral,0.5038458704948425,Positive
+これからも体調に気をつけてarmyを喜ばせてほしいです",0.7845,Positive,0.3,Positive,0.5038458704948425,Positive
 ❤❤❤,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
-All the members are looking to much 😲 wow,0.7506,Positive,0.1,Neutral,0.5193026661872864,Positive
+All the members are looking to much 😲 wow,0.7506,Positive,0.1,Positive,0.5193026661872864,Positive
 "Before this, PTD. After this, BLACK SWAN. Join me in this tour!",0.3595,Positive,-0.2083333333333333,Negative,0.6337489485740662,Positive
 "BTS has not only set the music industry on fire with their vocals but also the world of dancing with their intense and innovative dance routines.
 
-The Philippines, 26 Apr 2022; 4:48 am (473,310,077 views)",0.5574,Positive,0.2333333333333333,Neutral,0.5531297326087952,Positive
+The Philippines, 26 Apr 2022; 4:48 am (473,310,077 views)",0.5574,Positive,0.2333333333333333,Positive,0.5531297326087952,Positive
 This MV is moving some kind of ancient gigantic forces .... come on ARMY-fighters! Let's bleed with them to 500-600-700 million and more!,0.0,Neutral,0.6875,Positive,0.272808700799942,Neutral
-"Hay que hacer stream a with you de nuestro Jimin también a todas las canciones de los chicos individuales y en grupo  por favor (cuando comento apoyar a todas las canciones individuales y en grupo claro que incluyo a,christmas tree, snow flower ,epiphany,don't,supertuna,girl of my dreams,sependirity,abyss,Yours, christmas love,bicycle ,euphoria, My time, blue side, ego, Stay Alive etc, dejemos de pelear solo hagamos stream a todos los vídeos y canciones por favor)",0.9468,Positive,0.12,Neutral,-0.346048355102539,Negative
-I love this song 💜 and second thing its the same date same month as my birthday 🎂,0.8555,Positive,0.125,Neutral,0.8552384376525879,Positive
+"Hay que hacer stream a with you de nuestro Jimin también a todas las canciones de los chicos individuales y en grupo  por favor (cuando comento apoyar a todas las canciones individuales y en grupo claro que incluyo a,christmas tree, snow flower ,epiphany,don't,supertuna,girl of my dreams,sependirity,abyss,Yours, christmas love,bicycle ,euphoria, My time, blue side, ego, Stay Alive etc, dejemos de pelear solo hagamos stream a todos los vídeos y canciones por favor)",0.9468,Positive,0.12,Positive,-0.346048355102539,Negative
+I love this song 💜 and second thing its the same date same month as my birthday 🎂,0.8555,Positive,0.125,Positive,0.8552384376525879,Positive
 I'm in 2022 and I'm still listening to this song You are the secret of my life,0.0,Neutral,-0.4,Negative,0.7561384439468384,Positive
 ارمي نسوي ستريم للاغنيه ونوصله 1.2مليار مشاهده انشروا الخبر في كل مكان )هاذي مب انا بس بنت قالتلي انشروا ❣):,0.7783,Positive,0.0,Neutral,-0.3739072382450104,Negative
 BTS love love love,0.9274,Positive,0.5,Positive,0.6780072450637817,Positive
@@ -458,14 +458,14 @@ Love yourself 5483,0.6369,Positive,0.5,Positive,0.6632315516471863,Positive
 Y,0.0,Neutral,0.0,Neutral,0.3310393095016479,Positive
 Legends,0.0,Neutral,0.0,Neutral,0.541921079158783,Positive
 "This video is almost as long as PERMISSION TO DANCE so it's a real challenge to stream beyond significant milestones. Yet the ARMY continues to defy conventions and break expectations. Here's looking forward to seeing ON KMF breach the 500M milestone. Fight on, ARMY!
-The Philippines, 25 Apr 2022; 6:58 pm (473,200,064 views)",-0.2003,Negative,0.20625,Neutral,-0.2442605197429657,Negative
-wow so cool,0.7501,Positive,0.2249999999999999,Neutral,0.8876176476478577,Positive
+The Philippines, 25 Apr 2022; 6:58 pm (473,200,064 views)",-0.2003,Negative,0.20625,Positive,-0.2442605197429657,Negative
+wow so cool,0.7501,Positive,0.2249999999999999,Positive,0.8876176476478577,Positive
 I will seriously break my bones if i try this choreography,-0.1779,Negative,-0.3333333333333333,Negative,-0.3471213579177856,Negative
 "Tae ..your neck
 
 Im dead",-0.6486,Negative,-0.2,Negative,-0.3208582401275635,Negative
 "1:03 
-Starts the fun",0.5106,Positive,0.3,Neutral,0.3358310163021087,Positive
+Starts the fun",0.5106,Positive,0.3,Positive,0.3358310163021087,Positive
 0:45 can anybody see his shadow like me face his face is like,0.6124,Positive,0.0,Neutral,-0.4666503369808197,Negative
 "Jimin engeliec voice 
 Hy...na..na na ....naaaaaa.....
@@ -486,7 +486,7 @@ ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 does anyone know who the girl at 0:50 with the beads is?,0.0,Neutral,0.0,Neutral,-0.4797967374324798,Negative
 473M,0.0,Neutral,0.0,Neutral,0.2397782355546951,Neutral
 StR3@M > ()N >> 500M+!!!,0.0,Neutral,0.0,Neutral,-0.3537706732749939,Negative
-Music is a powerful gun,0.1027,Positive,0.3,Neutral,0.6946032643318176,Positive
+Music is a powerful gun,0.1027,Positive,0.3,Positive,0.6946032643318176,Positive
 473 mln,0.0,Neutral,0.0,Neutral,-0.4332933127880096,Negative
 No puedo creer que ya hayan pasado dos años,0.0,Neutral,0.0,Neutral,0.2486183196306228,Neutral
 0:35 bro where did he came from,0.0,Neutral,0.0,Neutral,-0.5535305142402649,Negative
@@ -528,7 +528,7 @@ Esto es una joya,0.0,Neutral,0.0,Neutral,0.6208405494689941,Positive
 اللهم صلي على محمد عيني الحسود بيها الف عود,0.3182,Positive,0.0,Neutral,-0.494600772857666,Negative
 💜💜💜محشره اونا حرف ندارن,0.9545,Positive,0.6000000000000001,Positive,-0.4441556632518768,Negative
 Nesesito que me lo canten en la cara,0.0,Neutral,0.0,Neutral,-0.3453540503978729,Negative
-literally coming back to this video every damn week cause it’s just to amazing,0.2732,Positive,0.3,Neutral,0.4172383844852447,Positive
+literally coming back to this video every damn week cause it’s just to amazing,0.2732,Positive,0.3,Positive,0.4172383844852447,Positive
 Апрель 2022г все еще рингтон на входящих в моем телефоне,0.0,Neutral,0.0,Neutral,-0.6591506004333496,Negative
 "this song would make a great fight soundtrack in an action movie! 
 ❤❤🇧🇷🇧🇷",0.7901,Positive,0.4625,Positive,0.4824409484863281,Positive
@@ -554,7 +554,7 @@ Kim seokjin,0.0,Neutral,0.0,Neutral,0.2884645760059356,Neutral
 Kim namjoon,0.0,Neutral,0.0,Neutral,0.2737259268760681,Neutral
 I really love this iconic  day 😍😍😍,0.9259,Positive,0.5,Positive,0.9239029288291932,Positive
 Purple heart 💜 for the legends who are watching this in 2022 .,0.8555,Positive,0.0,Neutral,0.6307944059371948,Positive
-Me encanta todo me estoy volviendo adicta a sus canciones,0.6369,Positive,0.1833333333333333,Neutral,0.8004342913627625,Positive
+Me encanta todo me estoy volviendo adicta a sus canciones,0.6369,Positive,0.1833333333333333,Positive,0.8004342913627625,Positive
 Bts forever,0.0,Neutral,0.0,Neutral,0.6638151407241821,Positive
 Hats off to all seven kings💜💜💜 it's a heartthrob performance 💜💜💜 BTS saranghea forever 💜💜💜,0.9911,Positive,0.0,Neutral,0.5959950089454651,Positive
 تجننونننننن,0.0,Neutral,0.0,Neutral,-0.4900371730327606,Negative
@@ -575,8 +575,8 @@ They r precious 💞 love u BTS 💜,0.9545,Positive,0.5,Positive,0.812176346778
 4. Fastest MV to reach 1B views.
 *Let's do it ARMYS let's show our power! <3*
 Copy and paste it in other MV'S too and for now let's get bwl to 2B
-FIGHTING!!!",-0.3614,Negative,0.3087713068181818,Neutral,0.7876402139663696,Positive
-On is really a masterpiece. I really can't stop listening to this song.,0.7611,Positive,0.2,Neutral,0.8525837063789368,Positive
+FIGHTING!!!",-0.3614,Negative,0.3087713068181818,Positive,0.7876402139663696,Positive
+On is really a masterpiece. I really can't stop listening to this song.,0.7611,Positive,0.2,Positive,0.8525837063789368,Positive
 Yeahhh BTS,0.0,Neutral,0.0,Neutral,-0.2734208405017853,Negative
 *ON*,0.0,Neutral,0.0,Neutral,-0.2566105425357818,Negative
 Win no matter what,0.5756,Positive,0.8,Positive,0.2427557706832885,Neutral
@@ -609,11 +609,11 @@ This is going ON!!,0.0,Neutral,0.0,Neutral,0.5980415344238281,Positive
 I love u namjuna,0.6369,Positive,0.5,Positive,0.7160360217094421,Positive
 savage love,0.296,Positive,0.5,Positive,0.7281241416931152,Positive
 "Can't wait for the comeback on June 10, 2022. 🥰
-Are you ready ARMY? 💜",0.9325,Positive,0.2,Neutral,-0.4579195976257324,Negative
+Are you ready ARMY? 💜",0.9325,Positive,0.2,Positive,-0.4579195976257324,Negative
 I love this song very much,0.6369,Positive,0.38,Positive,0.8398433327674866,Positive
-This performance was powerful 🤩,0.4215,Positive,0.3,Neutral,0.7035389542579651,Positive
+This performance was powerful 🤩,0.4215,Positive,0.3,Positive,0.7035389542579651,Positive
 I love BTS i love km nemjoon From Bangladesh 🇧🇩,0.8555,Positive,0.5,Positive,0.7772388458251953,Positive
-No  cause I realsied that when I will go to uni and get busy with my life I will miss them,-0.4215,Negative,0.1,Neutral,-0.3091260194778442,Negative
+No  cause I realsied that when I will go to uni and get busy with my life I will miss them,-0.4215,Negative,0.1,Positive,-0.3091260194778442,Negative
 I love this videol sol much,0.6369,Positive,0.35,Positive,0.8186472654342651,Positive
 Im here again,0.0,Neutral,0.0,Neutral,0.5258503556251526,Positive
 Perfaiçao de musica,0.5719,Positive,0.0,Neutral,-0.5061904788017273,Negative
@@ -647,11 +647,11 @@ Best,0.6369,Positive,1.0,Positive,0.7400628328323364,Positive
 favorite,0.4588,Positive,0.5,Positive,0.8275741934776306,Positive
 Love myself 5475,0.6369,Positive,0.5,Positive,0.7575253248214722,Positive
 Чонгук умрет от болезни с сердцем в 2022 году,0.0772,Positive,0.0,Neutral,-0.4182156026363373,Negative
-"ARMY, we are going to reach 115m in 24h for new comeback, BUT please remember the most important thing is also LONGEVITY,we did it with dynamite, but we didn't succeed with butter with longevity, we need do it with new song!",0.5483,Positive,0.3017045454545454,Neutral,0.3948999047279358,Positive
+"ARMY, we are going to reach 115m in 24h for new comeback, BUT please remember the most important thing is also LONGEVITY,we did it with dynamite, but we didn't succeed with butter with longevity, we need do it with new song!",0.5483,Positive,0.3017045454545454,Positive,0.3948999047279358,Positive
 Keep streaming bestieeeeeee,0.0,Neutral,0.0,Neutral,-0.3066118657588959,Negative
 220423,0.0,Neutral,0.0,Neutral,0.2494351863861084,Neutral
 "😅I like the music, it made me dance",0.6124,Positive,0.0,Neutral,0.5297671556472778,Positive
-1:29 camera action-,0.0,Neutral,0.1,Neutral,0.2644082307815552,Neutral
+1:29 camera action-,0.0,Neutral,0.1,Positive,0.2644082307815552,Neutral
 0:54 on loop-,0.0,Neutral,0.0,Neutral,-0.4929660558700561,Negative
 I can't get over with this song,0.0,Neutral,0.0,Neutral,0.2991305887699127,Neutral
 "Hi beautiful people kindly reminder make sure to keep streaming BOY WITH LUV so we can reach our if you don’t know how to stream I will write the steps 
@@ -662,7 +662,7 @@ I can't get over with this song,0.0,Neutral,0.0,Neutral,0.2991305887699127,Neutr
 5 stop using emoji
 6. Share to 3 friends every hour (if u You can)
 
--thank you",0.9616,Positive,0.23125,Neutral,0.552624523639679,Positive
+-thank you",0.9616,Positive,0.23125,Positive,0.552624523639679,Positive
 I love BTS I love you on song,0.8555,Positive,0.5,Positive,0.7346234321594238,Positive
 Jiminaaaaaaa❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I Like this song On But I Think 2022 well come song,0.5267,Positive,0.0,Neutral,0.5541546940803528,Positive
@@ -675,7 +675,7 @@ Armies let's go ooooo,0.0,Neutral,0.0,Neutral,0.2454350888729095,Neutral
 Ehhh ohhh,0.0,Neutral,0.0,Neutral,0.3861618638038635,Positive
 Wtf amigo tú estás re loco,-0.4588,Negative,-0.55,Negative,0.5775028467178345,Positive
 "OMO I'm screaming......BTS  announced  their COME BACK 2022.06.10 NEW ERA, NEW ALBUM, NEW SONGS, but I'm still watching this MASTERPIECE🔥🔥🔥🔥🔥again n again. They are AMAZING their Rap their Vocals their Moves everything about them is MASSIVE 🔥🔥🔥🔥
-Anyone else??",-0.77,Negative,0.1681818181818182,Neutral,0.416959136724472,Positive
+Anyone else??",-0.77,Negative,0.1681818181818182,Positive,0.416959136724472,Positive
 Ayo RM is Emo 🖤??,0.6767,Positive,0.0,Neutral,-0.393656849861145,Negative
 The Best!!!!,0.7482,Positive,1.0,Positive,0.9333965182304382,Positive
 "yo: no es posible que escuche una canción de bts. 
@@ -685,14 +685,14 @@ Siento que no la valore lo sufriente al principio :(,-0.666,Negative,-0.25,Negat
 "Don't worry you are not the only one watching this masterpiece in  April 2022 💜💜
 I am still watching and always gonna listen this 💜",0.9678,Positive,0.0,Neutral,0.6370591521263123,Positive
 3:38,0.0,Neutral,0.0,Neutral,0.3299362957477569,Neutral
-"TRAIGO ESTÉ MENSAJE PARA TODOS ESPERO Q LO COMPARTAN CON MUCHAS MAS PERSONAS ES PARA SALVAR EL PLANETA!, LAS TEMPERATURAS ESTÁN SUBIENDO TENEMOS 3 AÑOS PARA SALVAR EL PLANETA TENEMOS Q REACCIONAR YA! SI NO LO HACEMOS EL MUNDO PASARA POR UN CATÁSTROFE HORRIBLE GRACIAS AL CALENTAMIENTO GLOBAL Y MUCHAS COSAS MAS PORFAVOR COMPARTAN ESTE COMENTARIO A MAS PERSONAS REACCIONE NOS VAMOS A MORIR TODOS TENEMOS Q HACER ALGO YA!!!🙏🙏🙏🙏",0.9106,Positive,0.16953125,Neutral,-0.5691239237785339,Negative
+"TRAIGO ESTÉ MENSAJE PARA TODOS ESPERO Q LO COMPARTAN CON MUCHAS MAS PERSONAS ES PARA SALVAR EL PLANETA!, LAS TEMPERATURAS ESTÁN SUBIENDO TENEMOS 3 AÑOS PARA SALVAR EL PLANETA TENEMOS Q REACCIONAR YA! SI NO LO HACEMOS EL MUNDO PASARA POR UN CATÁSTROFE HORRIBLE GRACIAS AL CALENTAMIENTO GLOBAL Y MUCHAS COSAS MAS PORFAVOR COMPARTAN ESTE COMENTARIO A MAS PERSONAS REACCIONE NOS VAMOS A MORIR TODOS TENEMOS Q HACER ALGO YA!!!🙏🙏🙏🙏",0.9106,Positive,0.16953125,Positive,-0.5691239237785339,Negative
 Suka bgt liat kekasihku taehyung energik keren bgt sayang,0.9141,Positive,0.3499999999999999,Positive,0.3488790690898895,Positive
 Lagu paling keren menurut aku,0.0,Neutral,0.0,Neutral,0.5160463452339172,Positive
 "472,447,702M   + 1.5M in 5 days",0.0,Neutral,0.0,Neutral,0.3061725795269012,Neutral
 Broma el uno 👍👍1⃣AAA aaaa los a modo BTS BTS sisisisissi,0.296,Positive,0.0,Neutral,-0.4494875967502594,Negative
 No se  por la candidatura🙈🌹🌹🌹🌹🌹 los a modo BTS 13,0.0,Neutral,0.0,Neutral,-0.3589429855346679,Negative
 No  se pasen por la canción jijijiji,0.0,Neutral,0.0,Neutral,-0.4836524426937103,Negative
-"Первый раз посмотрела эту песню,это класс",0.3182,Positive,0.3,Neutral,0.6235004663467407,Positive
+"Первый раз посмотрела эту песню,это класс",0.3182,Positive,0.3,Positive,0.6235004663467407,Positive
 472.429.529,0.0,Neutral,0.0,Neutral,-0.339858204126358,Negative
 You really don't know how much i love this song.,0.6369,Positive,0.35,Positive,0.7356072664260864,Positive
 Aze army ()))),0.0,Neutral,0.0,Neutral,0.2814891338348388,Neutral
@@ -719,7 +719,7 @@ I'm obsessed with this song!!!:),-0.3769,Negative,-0.23828125,Negative,0.7117184
 "Hola,este video es mv o coreografia?",0.0,Neutral,0.0,Neutral,-0.3899929225444793,Negative
 ON,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 Me too 2022,0.0,Neutral,0.0,Neutral,0.2694064974784851,Neutral
-this MV never gets old,0.0,Neutral,0.1,Neutral,0.5286272168159485,Positive
+this MV never gets old,0.0,Neutral,0.1,Positive,0.5286272168159485,Positive
 اغنيةةةة بتجننن,-0.34,Negative,-0.6,Negative,0.27124685049057,Neutral
 blood sweat and tears 1B view pls <3,0.3182,Positive,1.0,Positive,-0.2760352790355682,Negative
 ⟭⟬,0.0,Neutral,0.0,Neutral,0.3428077399730682,Positive
@@ -730,7 +730,7 @@ blood sweat and tears 1B view pls <3,0.3182,Positive,1.0,Positive,-0.27603527903
 Who's here listening to this masterpiece in 2022?,0.7073,Positive,0.0,Neutral,0.4256365299224853,Positive
 Oh na na na !!!!!!!!!!!,0.0,Neutral,0.0,Neutral,-0.5170143246650696,Negative
 I love you BTS,0.6369,Positive,0.5,Positive,0.8235766291618347,Positive
-No one:                                                                                                                                                                                                                            Me: Misses the old BigHit intro,-0.4767,Negative,0.1,Neutral,-0.3072064518928528,Negative
+No one:                                                                                                                                                                                                                            Me: Misses the old BigHit intro,-0.4767,Negative,0.1,Positive,-0.3072064518928528,Negative
 On,0.0,Neutral,0.0,Neutral,0.2451413571834564,Neutral
 "Jimin leading them is just soo fabulous ✨
 I just started listening to their songs …and I can’t stop! They are incredible 🔥",0.5177,Positive,0.7,Positive,0.8921962976455688,Positive

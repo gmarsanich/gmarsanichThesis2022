@@ -1,11 +1,11 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Esa canción justo se lanzó cuando mi corazón estaba💔 me ha marcado,0.743,Positive,0.1,Neutral,0.4834999442100525,Positive
+Esa canción justo se lanzó cuando mi corazón estaba💔 me ha marcado,0.743,Positive,0.1,Positive,0.4834999442100525,Positive
 Eu tô ouvindo por causa da minha prima....,0.0,Neutral,0.0,Neutral,-0.2995789647102356,Negative
 Such a great song and video is great,0.8481,Positive,0.5333333333333333,Positive,0.8770773410797119,Positive
 Hermosa canción 🖤,0.8442,Positive,0.85,Positive,0.718926191329956,Positive
 "Director: y que te sale mejor? 
 Billie: sentarme en el sofá pa' fingir una llamada😎
-Director: Ta bueno pues ya tenemos la primer escena",0.7351,Positive,0.25,Neutral,0.4283367693424225,Positive
+Director: Ta bueno pues ya tenemos la primer escena",0.7351,Positive,0.25,Positive,0.4283367693424225,Positive
 No words can describe this...,-0.296,Negative,0.0,Neutral,-0.5761725306510925,Negative
 I need happier than ever 2.0,0.5267,Positive,0.0,Neutral,0.4795183539390564,Positive
 Billie Eilish simplesmente a melhor <3,0.7964,Positive,0.6666666666666666,Positive,0.5250471234321594,Positive
@@ -27,7 +27,7 @@ sem palavras pra essa perfeição,0.4897,Positive,0.0,Neutral,0.4822930693626404
 🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Billie eilish ❤🎶,0.6369,Positive,0.0,Neutral,0.2319225966930389,Neutral
 "much success, congratulations I will never forget this song and one of the best ♥️",0.9563,Positive,0.65,Positive,0.9024635553359984,Positive
-"Many people are here everyday and that's why billie has stood the test of time, not just for this song but for her music in general. She's a legend and no one can deny it.❤",0.2263,Positive,0.1166666666666666,Neutral,0.707481324672699,Positive
+"Many people are here everyday and that's why billie has stood the test of time, not just for this song but for her music in general. She's a legend and no one can deny it.❤",0.2263,Positive,0.1166666666666666,Positive,0.707481324672699,Positive
 MERINDING,0.0,Neutral,0.0,Neutral,0.3290973305702209,Neutral
 "Quando estou longe de você 
 Fico mais feliz do que nunca
@@ -91,7 +91,7 @@ Billie Eilish (2021)",-0.9667,Negative,-0.1342261904761905,Negative,-0.320567399
 Her voice is always soothing. Lots of love for Billie🤗,0.8519,Positive,0.5,Positive,0.6725812554359436,Positive
 "I love how these people like ed sheeran , adelle etc actually take themselves so seriously.  like in 50 years from now we will say  ""Boy that billy eilish sure stood the test of time like marvin gaye, john coltrane, motown, johnny cash"" and on and on
 
-pure drivel for rubes with zero musical taste .................... the 312 vocal  effects do not seem quite enough also",0.9009,Positive,0.1258503401360544,Neutral,-0.3607098460197449,Negative
+pure drivel for rubes with zero musical taste .................... the 312 vocal  effects do not seem quite enough also",0.9009,Positive,0.1258503401360544,Positive,-0.3607098460197449,Negative
 I love you Billie ❤❤🇧🇷,0.8555,Positive,0.5,Positive,0.8449580073356628,Positive
 "Sad Songs Playlist
 
@@ -122,9 +122,9 @@ As far as rock goes this isn't great,-0.5096,Negative,0.45,Positive,0.5142347812
 That hit me hard",-0.7915,Negative,-0.2916666666666667,Negative,-0.4042178988456726,Negative
 "Is there a monthly subscription I can subscribe to ,to be billies fan 😭",-0.2023,Negative,0.0,Neutral,0.3619375824928283,Positive
 Oh my....this gave me goosebumps.....i feel like I'm into this song......THANK YOU FOR THIS MASTERPIECE ❤🔥🖤🔥🖤🔥,0.9493,Positive,0.0,Neutral,0.8719300627708435,Positive
-meh composition structure and repeating pretty much the same chord progression,0.4404,Positive,0.15,Neutral,-0.534410834312439,Negative
+meh composition structure and repeating pretty much the same chord progression,0.4404,Positive,0.15,Positive,-0.534410834312439,Negative
 💝💝,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Billie give me those old school vibes, i listen to murder rap all day but lowkey i love this peaceful shit 🙏🏽 billie music my my soul dance reguardless how many demons are watching",0.634,Positive,0.2299999999999999,Neutral,0.6791481971740723,Positive
+"Billie give me those old school vibes, i listen to murder rap all day but lowkey i love this peaceful shit 🙏🏽 billie music my my soul dance reguardless how many demons are watching",0.634,Positive,0.2299999999999999,Positive,0.6791481971740723,Positive
 Hey its April 30!!!!!,0.0,Neutral,0.0,Neutral,-0.4666015803813934,Negative
 https://youtube.com/shorts/IVa49AZaIss?feature=share,0.0,Neutral,0.0,Neutral,0.252559095621109,Neutral
 "Happier Than Ever 
@@ -177,7 +177,7 @@ Just fucking leave me alone
 
 
 P.S I copy pasted the lyrics so don’t think I sat here for an hour typing this😌",-0.9628,Negative,-0.0194444444444444,Negative,-0.600963830947876,Negative
-This song makes me think of something crunchy and sweet and green,0.4588,Positive,0.0749999999999999,Neutral,0.2869896292686462,Neutral
+This song makes me think of something crunchy and sweet and green,0.4588,Positive,0.0749999999999999,Positive,0.2869896292686462,Neutral
 this song is so.....,0.0,Neutral,0.0,Neutral,-0.2484764605760574,Negative
 Wish I could explain it better,0.6808,Positive,0.5,Positive,0.357119470834732,Positive
 The volume is not enough when it comes to this song.,0.0,Neutral,0.0,Neutral,-0.4092299044132232,Negative
@@ -233,7 +233,7 @@ This girl is awesome,0.6249,Positive,1.0,Positive,0.8601974844932556,Positive
 omyyygaddddd,0.0,Neutral,0.0,Neutral,-0.2970337271690368,Negative
 Art<3,0.0,Neutral,0.0,Neutral,0.3219213187694549,Neutral
 "Eu ouvindo pela primeira vez achando que seria uma música calma
-Eu:😐",0.3182,Positive,0.275,Neutral,0.3360368609428406,Positive
+Eu:😐",0.3182,Positive,0.275,Positive,0.3360368609428406,Positive
 Are you living for x,0.0,Neutral,0.0,Neutral,0.3472394645214081,Positive
 I went to your concert,0.0,Neutral,0.0,Neutral,0.4430516958236694,Positive
 ฟังยัยบิลลี่กี่คครั้งก็ลำโพงเเตกเพลวนี้ฮ่าๆฟ,0.4453,Positive,0.35,Positive,0.3085779249668121,Neutral
@@ -243,7 +243,7 @@ Wow she's really mad someone drunk called her,-0.3306,Negative,-0.34166666666666
 This makes me happy! 😁,0.7901,Positive,1.0,Positive,0.7303640246391296,Positive
 She deserves a Grammy,0.0,Neutral,0.0,Neutral,0.5177876949310303,Positive
 Song suckS sticker bush,-0.3612,Negative,-0.3,Negative,-0.7045763731002808,Negative
-Me knowing how much this song relates to my relationship with my dad…,0.0,Neutral,0.2,Neutral,0.5293924808502197,Positive
+Me knowing how much this song relates to my relationship with my dad…,0.0,Neutral,0.2,Positive,0.5293924808502197,Positive
 This song always makes me cry,-0.4767,Negative,0.0,Neutral,0.6861681938171387,Positive
 "Here is an analysis of the music video I made real quick, hope it was informative:
 
@@ -263,7 +263,7 @@ She reaches the rooftop, and sees how bad the world (relationship) she is living
 
 Or it could mean (2) that she will go back to the Golden House, but will have someone to make her happy. The House itself represents relationships, and maybe if she has the right person with her on the phone, she can finally enjoy it. Maybe then, she won’t have to be away from her partner to feel Happier Than Ever.
 
-Thank you Billie. This is easily your best song and music video.",0.5855,Positive,0.1240481552981552,Neutral,-0.3423146605491638,Negative
+Thank you Billie. This is easily your best song and music video.",0.5855,Positive,0.1240481552981552,Positive,-0.3423146605491638,Negative
 BILLIE DIOS TE AMO GRACIAS POR SACAR TREMENDO TEMAZO MAMI,0.8481,Positive,0.3444444444444444,Positive,0.6221818327903748,Positive
 A do inutilismo ficou melhor em,0.0772,Positive,0.5,Positive,-0.3682231605052948,Negative
 A vibe dessa música,0.0,Neutral,0.0,Neutral,0.4446538686752319,Positive
@@ -272,8 +272,8 @@ I’m so emotional when listen this song. It’s masterpieces,0.659,Positive,0.0
 Who did she wrote about?,0.0,Neutral,0.0,Neutral,-0.2898106873035431,Negative
 I love you Billie allish,0.6369,Positive,0.5,Positive,0.8289805054664612,Positive
 ever wonder if she reads her comments? Just me?,0.0,Neutral,0.0,Neutral,-0.4433127343654632,Negative
-i have replayed this song to many times its the only song i can listen to over and over and not get tierd of it,0.0,Neutral,0.25,Neutral,-0.390991598367691,Negative
-OMG I love Billie soooooooooooooooo much she is like the best human being on earth 🌍 she is so pretty I went to see her live and it was the best thing of my life now all I want is to meet her in person I would cry even more the I cried when I went to see her in concert.SHE IS A QUEEN. Words can’t describe how much I like her it’s insane.I feel bad for all the things she has been through she didn’t deserve that at all. 🥹🥹🥹.♥️♥️♥️.,0.9802,Positive,0.3086363636363637,Neutral,0.325562059879303,Neutral
+i have replayed this song to many times its the only song i can listen to over and over and not get tierd of it,0.0,Neutral,0.25,Positive,-0.390991598367691,Negative
+OMG I love Billie soooooooooooooooo much she is like the best human being on earth 🌍 she is so pretty I went to see her live and it was the best thing of my life now all I want is to meet her in person I would cry even more the I cried when I went to see her in concert.SHE IS A QUEEN. Words can’t describe how much I like her it’s insane.I feel bad for all the things she has been through she didn’t deserve that at all. 🥹🥹🥹.♥️♥️♥️.,0.9802,Positive,0.3086363636363637,Positive,0.325562059879303,Neutral
 THIS SONG,0.0,Neutral,0.0,Neutral,0.4029574990272522,Positive
 "LYRIC 
 
@@ -399,7 +399,7 @@ This reminds me of the titanic movie,0.0,Neutral,0.0,Neutral,0.5535179972648621,
 10000000/10,0.0,Neutral,0.0,Neutral,0.4640350341796875,Positive
 goosebumps still. fucking goosebumps. A+ BILLEH,0.0,Neutral,-0.6,Negative,-0.5716798305511475,Negative
 Abartılıyor.,-0.1027,Negative,-0.5,Negative,-0.3868027627468109,Negative
-at first she was a simple quiet song to a hardcore rockstar that curses lol,0.4215,Positive,0.2625,Neutral,-0.367188960313797,Negative
+at first she was a simple quiet song to a hardcore rockstar that curses lol,0.4215,Positive,0.2625,Positive,-0.367188960313797,Negative
 2:45 de nada mamus,0.4588,Positive,0.8,Positive,-0.5389243364334106,Negative
 Best beatsaber song iv ever played🔥💕,0.8591,Positive,1.0,Positive,0.9319618344306946,Positive
 Que música foda! ❤️,0.0,Neutral,-0.75,Negative,-0.4221371114253998,Negative
@@ -407,7 +407,7 @@ Love billieeilish love billieeilish love billieeilish love billieeilish love bil
 And all that you did was make me fuckin’ sad🥺♥️,0.2732,Positive,0.0,Neutral,0.4727201461791992,Positive
 Hats off to you and your this song 🙌,0.0,Neutral,0.0,Neutral,0.6350446343421936,Positive
 I loved the song tells the whole truth 🥺😭,0.4767,Positive,0.4499999999999999,Positive,0.6886051893234253,Positive
-"She far from signing like a rockstar, there may have been a guitar playing in the backround but it still sounded very pop and her voice is not really that great",-0.5574,Negative,0.25,Neutral,-0.5010326504707336,Negative
+"She far from signing like a rockstar, there may have been a guitar playing in the backround but it still sounded very pop and her voice is not really that great",-0.5574,Negative,0.25,Positive,-0.5010326504707336,Negative
 1:32 - 2:20 My Fav Part,0.4588,Positive,0.0,Neutral,0.3120319247245788,Neutral
 "When I'm away from you, I'm happier than ever
 Wish I could explain it better
@@ -511,7 +511,7 @@ Canción perrona,0.0,Neutral,0.0,Neutral,-0.2938089668750763,Negative
 perfeita,0.5719,Positive,1.0,Positive,0.7576960325241089,Positive
 amo demais,0.6369,Positive,0.35,Positive,0.2787687182426452,Neutral
 😱😱😱wow,-0.9217,Negative,0.0,Neutral,0.3085779249668121,Neutral
-"Can't  believe she is the singer of this song hahaha i really don't like her but I love this song and ocean eyes, I guess  I actually like her haha",0.9398,Positive,0.22,Neutral,0.3429555892944336,Positive
+"Can't  believe she is the singer of this song hahaha i really don't like her but I love this song and ocean eyes, I guess  I actually like her haha",0.9398,Positive,0.22,Positive,0.3429555892944336,Positive
 u made me hate this city,-0.5719,Negative,-0.8,Negative,-0.5926882028579712,Negative
 Pecos of you i want be famus,0.0772,Positive,0.5,Positive,0.3468987941741943,Positive
 Billie eilish miss xxxstaxion,-0.1531,Negative,0.0,Neutral,-0.3017401993274688,Negative
@@ -562,23 +562,23 @@ Just fucking leave me alone",-0.9776,Negative,-0.0194444444444444,Negative,-0.63
 She is a fearless queen 🤍💖,0.8519,Positive,0.0,Neutral,-0.3914543390274048,Negative
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Best broken heart song that I ever heard ❤️❤️❤️,0.743,Positive,0.3,Neutral,0.9088005423545836,Positive
+Best broken heart song that I ever heard ❤️❤️❤️,0.743,Positive,0.3,Positive,0.9088005423545836,Positive
 Last music 😳😵😖,-0.2263,Negative,0.0,Neutral,0.3564737737178802,Positive
 "Motherfukers. Stop deleting my shit bitch.
 
 
-Nice jugs tho 😁",-0.5859,Negative,0.1999999999999999,Neutral,0.3441725373268127,Positive
+Nice jugs tho 😁",-0.5859,Negative,0.1999999999999999,Positive,0.3441725373268127,Positive
 I would loveeeeee to see Johnny Depp cover this song in his band.,0.0,Neutral,0.0,Neutral,0.3382899761199951,Positive
 Bu benim hayatım 😌,0.3818,Positive,0.0,Neutral,0.6665498614311218,Positive
 <33,0.0,Neutral,0.0,Neutral,0.2909592390060425,Neutral
-This song’s lyrics explains exactly the Johnny Depp vs Amber Heard case. Look up the lyrics.,0.0,Neutral,0.25,Neutral,0.5050886273384094,Positive
+This song’s lyrics explains exactly the Johnny Depp vs Amber Heard case. Look up the lyrics.,0.0,Neutral,0.25,Positive,0.5050886273384094,Positive
 This is a masterpiece,0.6249,Positive,0.0,Neutral,0.8322694897651672,Positive
 "I won’t hear none of this non-sense…
 When you done binge-in coke - wake up - caution -
 After you’ve been used up by the new crew you stomp with.
 I DONT WANT TO SEE YOU COME CRAWLIN! Honest…
 
-Thanks Billie, I know what concert to go to for girls with daddy issues…",0.3459,Positive,0.1852272727272727,Neutral,-0.6045445203781128,Negative
+Thanks Billie, I know what concert to go to for girls with daddy issues…",0.3459,Positive,0.1852272727272727,Positive,-0.6045445203781128,Negative
 💓💓,0.5267,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😭,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
 bravo magnificent,0.5994,Positive,1.0,Positive,0.8801973462104797,Positive
@@ -586,14 +586,14 @@ bravo magnificent,0.5994,Positive,1.0,Positive,0.8801973462104797,Positive
 Algum brasileiro? 🇧🇷,0.0,Neutral,0.0,Neutral,-0.438920795917511,Negative
 Bruh foreal,0.0,Neutral,0.0,Neutral,0.2808676660060882,Neutral
 3:52 .,0.0,Neutral,0.0,Neutral,0.3008877635002136,Neutral
-I used to be a fan of billie eilish 3 years ago. Now I'm a whole ass air conditioner. I love billie so much and I slowly just fell in love with her...4 years ago I found her. And I've been listening since. I love you billie<3 ❤,0.9485,Positive,0.2666666666666666,Neutral,0.8407523036003113,Positive
+I used to be a fan of billie eilish 3 years ago. Now I'm a whole ass air conditioner. I love billie so much and I slowly just fell in love with her...4 years ago I found her. And I've been listening since. I love you billie<3 ❤,0.9485,Positive,0.2666666666666666,Positive,0.8407523036003113,Positive
 GO OFF QUEEN,0.0,Neutral,0.0,Neutral,-0.4078079462051391,Negative
 "Yanlız, çok iyi!",0.358,Positive,1.0,Positive,0.6597961187362671,Positive
 Adios,0.0,Neutral,0.0,Neutral,0.4352571368217468,Positive
 I dont no what can say to you girl you are very good you are perfect:),0.8308,Positive,0.8033333333333333,Positive,0.8164737224578857,Positive
 'I have never been this shitty' 😭😓😭😨,-0.9473,Negative,0.0,Neutral,-0.6011449098587036,Negative
 Waits for the Billie and Post duet,0.0,Neutral,0.0,Neutral,0.3360165059566498,Positive
-necesitaba esta canción hace 1 año y 3 meses jaja,0.4588,Positive,0.2,Neutral,-0.6163989901542664,Negative
+necesitaba esta canción hace 1 año y 3 meses jaja,0.4588,Positive,0.2,Positive,-0.6163989901542664,Negative
 The best the world..the space..the everything..,0.6369,Positive,1.0,Positive,0.8981831073760986,Positive
 My family hate me,-0.5719,Negative,-0.8,Negative,-0.6105177402496338,Negative
 That alonneeee part,0.0,Neutral,0.0,Neutral,0.2509360313415527,Neutral
@@ -601,7 +601,7 @@ billie I know ur not gonna read t g ese but I loveeeee you and your music,0.0,Ne
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤,1.0,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I feel like Marceline from Adventure Time would sing this.,0.5859,Positive,0.0,Neutral,0.423555314540863,Positive
 A pesar de q esta canción no gano ningún grammy todos sabemos q happier than ever es la canción del año.,0.0844,Positive,-0.4,Negative,-0.2983806133270263,Negative
-"3:02 Claims not to talk $hit about him on the internet, drops a whole cathartic concept album to roast the guy. I guess that's not her responsibility ;)",-0.1695,Negative,0.225,Neutral,-0.3219553232192993,Negative
+"3:02 Claims not to talk $hit about him on the internet, drops a whole cathartic concept album to roast the guy. I guess that's not her responsibility ;)",-0.1695,Negative,0.225,Positive,-0.3219553232192993,Negative
 TW AMOOOO MINA,0.6369,Positive,0.5,Positive,-0.2688174247741699,Negative
 my headphones broke from having this song on full volume 😭🤣,-0.4019,Negative,0.35,Positive,-0.6662358641624451,Negative
 "omg beatfy,",0.0,Neutral,0.0,Neutral,0.2543607354164123,Neutral
@@ -626,7 +626,7 @@ SHUT!,0.0,Neutral,0.0,Neutral,-0.7222958207130432,Negative
 Thank you.,0.3612,Positive,0.0,Neutral,0.6040144562721252,Positive
 Wow Soo good this song 🫣🤭,0.872,Positive,0.3999999999999999,Positive,0.6284047365188599,Positive
 Billie Ellish song Happier than ever is the Best than ever,0.8225,Positive,1.0,Positive,0.7890968322753906,Positive
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 "*A message to the future generations: ""DON'T LET THIS SONG DIE""*",-0.6841,Negative,0.0,Neutral,-0.4919386804103851,Negative
 "*This song never gets old. No matter how much I listen, I never get bored*",0.1877,Positive,-0.0666666666666666,Negative,0.5048499703407288,Positive
 🛐🛐,0.5267,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -634,7 +634,7 @@ Holy fuck I've never been so bored listening to a song in my life. reddit was fi
 I POOPED MYSELF - BATMAN,0.0,Neutral,0.0,Neutral,-0.3790315389633178,Negative
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 It is easy for me to memorize the lyrics 💖👀,0.8519,Positive,0.4333333333333333,Positive,0.4111396968364715,Positive
-"She took all my thoughts and put them into words. Everything single she says is spot on to what happened in my situation, and i will forever by screaming this song at the top of my lungs.",-0.2023,Negative,0.2142857142857143,Neutral,0.8018620610237122,Positive
+"She took all my thoughts and put them into words. Everything single she says is spot on to what happened in my situation, and i will forever by screaming this song at the top of my lungs.",-0.2023,Negative,0.2142857142857143,Positive,0.8018620610237122,Positive
 🤫,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "This song is sooo good! Billie, do you have advice for two tampa teens dropping their next song, take a listen!?   https://youtu.be/8IDHyxDiQkY",0.5399,Positive,0.4375,Positive,0.4212731420993805,Positive
 Billie eilish I might make you cry but I really miss xxxtenion :(,-0.8241,Negative,-0.275,Negative,-0.3555272221565246,Negative
@@ -656,7 +656,7 @@ Melhor músicaaa,0.6369,Positive,1.0,Positive,0.789972186088562,Positive
 I love this ❤️😘❤️💕,0.9062,Positive,0.5,Positive,0.900801718235016,Positive
 I thought she was singing a peaceful song nope it really good,0.1474,Positive,0.475,Positive,-0.3104839920997619,Negative
 She has an angelic voice☺,0.4588,Positive,0.0,Neutral,0.3039474487304687,Neutral
-I'm tired :),0.0258,Neutral,0.0499999999999999,Neutral,0.3406993746757507,Positive
+I'm tired :),0.0258,Neutral,0.0499999999999999,Positive,0.3406993746757507,Positive
 touching,0.0,Neutral,0.5,Positive,0.4088383913040161,Positive
 Love you,0.6369,Positive,0.5,Positive,0.8381887674331665,Positive
 Wol 👊👊👊🛸🛸🛸👽👽👽,0.0,Neutral,0.0,Neutral,0.4065708518028259,Positive
@@ -686,19 +686,19 @@ Voaaa Billie voaaa,0.0,Neutral,0.0,Neutral,-0.3624322116374969,Negative
 OBRA MAESTRA,0.6249,Positive,0.0,Neutral,0.6864160895347595,Positive
 O pior sentimento é você confiar na pessoa entregar seu coração e ela simplesmente não se importar 💔 como dói 🥺,-0.3903,Negative,-1.0,Negative,-0.2899238765239715,Negative
 'Cause I'd never treat me this shitty',-0.7057,Negative,0.0,Neutral,-0.7687315940856934,Negative
-Grammy gak adil padahal lagu mba billie bagus semua😡,0.2354,Positive,0.175,Neutral,0.295634001493454,Neutral
+Grammy gak adil padahal lagu mba billie bagus semua😡,0.2354,Positive,0.175,Positive,0.295634001493454,Neutral
 😍😍🥰🥰🥰💋💋wow i love youuuuu,0.9896,Positive,0.5,Positive,0.7954490780830383,Positive
 I Love you song,0.6369,Positive,0.5,Positive,0.7393891215324402,Positive
 Am I crying?! I am...I'm fking crying!,-0.7772,Negative,-0.25,Negative,-0.4832726418972015,Negative
 we love you so much Billie,0.6369,Positive,0.35,Positive,0.8455175757408142,Positive
-Here's what happens when you live in a city without sewers,0.0,Neutral,0.1363636363636363,Neutral,0.4476498365402221,Positive
+Here's what happens when you live in a city without sewers,0.0,Neutral,0.1363636363636363,Positive,0.4476498365402221,Positive
 so beautiful song,0.6361,Positive,0.85,Positive,0.8064171671867371,Positive
 "I don't relate to you 
 I don't relate to you no
 Cause I never treaty me the sh**ty 
 You made me hate this city
 And I don't talk sh*t about you on the internet",-0.7096,Negative,-0.8,Negative,-0.8706087470054626,Negative
-No green screen she said be thankful for the song,0.3612,Positive,0.1,Neutral,-0.2888341844081878,Negative
+No green screen she said be thankful for the song,0.3612,Positive,0.1,Positive,-0.2888341844081878,Negative
 I Love you Billie Eilish 💚🖤💚🖤,0.9719,Positive,0.5,Positive,0.7663587331771851,Positive
 I love you so much 😭😭😭😭😭😭😭😭😭😭🤎🤎🤎🤎🤎🤎🤎🤎🤎🤎,-0.9778,Negative,0.35,Positive,0.8957449793815613,Positive
 I love you so much 🤎🤎🤎🤎🤎🤎🤎🤎🤎,0.6369,Positive,0.35,Positive,0.8957449793815613,Positive
@@ -709,7 +709,7 @@ is it worrying that I relate to this sentence?-",-0.2558,Negative,0.0,Neutral,-0
 This is the soundtrack Of my LIFE,0.0,Neutral,0.0,Neutral,0.7132946848869324,Positive
 "Billie Eilish , I'm beginning you for a rock album",0.0,Neutral,0.0,Neutral,0.3915299475193023,Positive
 -bdg2022,0.0,Neutral,0.0,Neutral,0.2781194150447845,Neutral
-"Everyone’s saying this song deserves a Grammy, which it does love Billie but she wrote that one song that means a lot to her. At her concert she talked about it for a long time. Love you and your music ❤️  You make me feel better about my mental health",0.9224,Positive,0.2699999999999999,Neutral,0.5039161443710327,Positive
+"Everyone’s saying this song deserves a Grammy, which it does love Billie but she wrote that one song that means a lot to her. At her concert she talked about it for a long time. Love you and your music ❤️  You make me feel better about my mental health",0.9224,Positive,0.2699999999999999,Positive,0.5039161443710327,Positive
 She should be an actress in movies,0.0,Neutral,0.0,Neutral,-0.2880130112171173,Negative
 Awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
 Awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
@@ -723,37 +723,37 @@ Is it true Billie had a fear of water at the time?,-0.1027,Negative,0.35,Positiv
 Love ya,0.6369,Positive,0.5,Positive,0.6899921894073486,Positive
 2:44 yw :),0.4588,Positive,0.5,Positive,0.2929084300994873,Neutral
 CAŁA ULA <3,0.4404,Positive,0.5,Positive,0.2686173915863037,Neutral
-this is very good💗💗💗💗💗💗,0.9892,Positive,0.2,Neutral,0.5799338221549988,Positive
+this is very good💗💗💗💗💗💗,0.9892,Positive,0.2,Positive,0.5799338221549988,Positive
 "First part: 🌼🌞 🦋
 
-Second part: ⛓️🕷☠️",0.0,Neutral,0.125,Neutral,0.2785854339599609,Neutral
+Second part: ⛓️🕷☠️",0.0,Neutral,0.125,Positive,0.2785854339599609,Neutral
 I wish the guitar and drums where a little quieter cus I wanna hear her singing,0.4019,Positive,-0.1875,Negative,0.3741664290428161,Positive
 O que que foi isso? parabéns!,0.6114,Positive,1.0,Positive,-0.3459195792675018,Negative
 When I am away from you I am happier than ever,0.5267,Positive,0.0,Neutral,0.5382354855537415,Positive
 "Hey billie, I’m Giulia and I’m from Italy, I have question for you. Do you miss xxxtentacion?",-0.1531,Negative,0.0,Neutral,-0.3791513442993164,Negative
 I love it so much 🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽❤️❤️❤️❤️❤️❤️,0.6369,Positive,0.35,Positive,0.8820894360542297,Positive
 Que linda 😍,0.7845,Positive,0.85,Positive,0.3851165771484375,Positive
-"ek het hierdie liedjie eers 'n paar dae gelede ontdek, maar ek is absoluut mal daaroor, ek hou ook van hoe sy haar gevoelens van 'n giftige verhouding uitdruk😁",0.9381,Positive,0.0999999999999999,Neutral,-0.450686514377594,Negative
+"ek het hierdie liedjie eers 'n paar dae gelede ontdek, maar ek is absoluut mal daaroor, ek hou ook van hoe sy haar gevoelens van 'n giftige verhouding uitdruk😁",0.9381,Positive,0.0999999999999999,Positive,-0.450686514377594,Negative
 "Por ti me hago hetero, entendiste Billie? Te amoooo",0.7269,Positive,0.35,Positive,-0.388723075389862,Negative
 I play this everyday and everyday is my 1st time,0.34,Positive,-0.2,Negative,0.7462640404701233,Positive
 Esto le pegan a  todo,0.0,Neutral,0.0,Neutral,-0.4468021094799042,Negative
 "I listen to this song about 50+ times aday i have "" a strange addiction"" so it this erases my problems any my thaughts and helps me sleep at night",-0.2263,Negative,-0.05,Negative,0.6687696576118469,Positive
 I think its funny how she sings and then shes like ok i can drown now **dive under**,0.4404,Positive,0.375,Positive,0.3222379982471466,Neutral
-This song its self should enter grammy and it a ould win EVRY SINGLE PRIZE in my opinion a nd an oscar everything i would ligit cry if i saw u ever i went to ur concert i screams the loudest person there im embarresed but impressed i did that bellyache ocean eyes bad guys Beaches broken hearts lost cause bored happier than ever i could go on but we would be here for HOURS so ima stop there there some of my favirites,0.0642,Positive,0.0214285714285714,Neutral,-0.3344956040382385,Negative
-Gracias billie por esta joya que voy a escuchar hasta que me muera,-0.25,Negative,0.2,Neutral,0.61915123462677,Positive
-My friends are so mean this is the ONLY song that makes me notice just how much i hate them im one of ur biggest fans and i do read ur interveiws😂😂😂😂😂😂😂 anx it isnt fair they dont know how misrable the make me this song IS SO RELATEABLE i learnt every lyric to make me not as mad so i can sing along to my favorite song!!!,0.9727,Positive,0.0270089285714285,Neutral,0.5343100428581238,Positive
+This song its self should enter grammy and it a ould win EVRY SINGLE PRIZE in my opinion a nd an oscar everything i would ligit cry if i saw u ever i went to ur concert i screams the loudest person there im embarresed but impressed i did that bellyache ocean eyes bad guys Beaches broken hearts lost cause bored happier than ever i could go on but we would be here for HOURS so ima stop there there some of my favirites,0.0642,Positive,0.0214285714285714,Positive,-0.3344956040382385,Negative
+Gracias billie por esta joya que voy a escuchar hasta que me muera,-0.25,Negative,0.2,Positive,0.61915123462677,Positive
+My friends are so mean this is the ONLY song that makes me notice just how much i hate them im one of ur biggest fans and i do read ur interveiws😂😂😂😂😂😂😂 anx it isnt fair they dont know how misrable the make me this song IS SO RELATEABLE i learnt every lyric to make me not as mad so i can sing along to my favorite song!!!,0.9727,Positive,0.0270089285714285,Positive,0.5343100428581238,Positive
 Happier than ever love,0.8225,Positive,0.5,Positive,0.797248363494873,Positive
 I like the song Billie eilish,0.3612,Positive,0.0,Neutral,0.4959727227687835,Positive
 I love this song is my favorite song from Billie Eilish,0.802,Positive,0.5,Positive,0.8442035913467407,Positive
 "Legendado ❤️
 https://youtu.be/rAEY77U4uWM",0.0,Neutral,0.0,Neutral,0.2835796773433685,Neutral
-Im sorry u losing xxxtentacion is a good man😢🥺,-0.4767,Negative,0.0999999999999999,Neutral,0.2609051167964935,Neutral
+Im sorry u losing xxxtentacion is a good man😢🥺,-0.4767,Negative,0.0999999999999999,Positive,0.2609051167964935,Neutral
 3:28 this part always gives me goosebumps. I am not sure why. I think maybe it’s the echoes vocals and the brief second when the music backs out to let those vocals come out.,-0.2874,Negative,-0.0833333333333333,Negative,0.4551694989204407,Positive
 YOUR RIGHTTT,0.0,Neutral,0.0,Neutral,0.638090968132019,Positive
 https://youtu.be/C0dyAuReri0,0.0,Neutral,0.0,Neutral,0.2314065843820572,Neutral
 O my god🫢🔥,-0.34,Negative,0.0,Neutral,0.5570777654647827,Positive
 🔥🔥🔥🔥🔥🔥🔥,-0.93,Negative,0.0,Neutral,0.3085779249668121,Neutral
-"Muito boa msm! Único problema nas músicas dela é que ela bota música com ritmo bom lá pro final, ficar o ruim lento no começo, tinha que ter pelo menos som de verdade, às músicas tem que ter melhora ... Tomará que um dia ela faça música de verdade",0.8436,Positive,0.1428571428571428,Neutral,0.6902887225151062,Positive
+"Muito boa msm! Único problema nas músicas dela é que ela bota música com ritmo bom lá pro final, ficar o ruim lento no começo, tinha que ter pelo menos som de verdade, às músicas tem que ter melhora ... Tomará que um dia ela faça música de verdade",0.8436,Positive,0.1428571428571428,Positive,0.6902887225151062,Positive
 11:11,0.0,Neutral,0.0,Neutral,0.2517557740211487,Neutral
 Legendary moments 2:47,0.0,Neutral,1.0,Positive,0.7253953218460083,Positive
 😲❤❤❤,0.9451,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -767,8 +767,8 @@ Anybody Indian here",0.8555,Positive,0.5,Positive,0.7090533971786499,Positive
 Thanks you for the ☀️sonn💫🌈 all days in my life..tkank you my dear Billie 🌻🥰kiss from French Girl.. 🥨",0.969,Positive,0.4893939393939394,Positive,0.869540810585022,Positive
 ❤💕,0.8591,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "im the toxic one in our relationship and this song is like a machine gun pointed in my ears killing me every line that i hear. still, it capture every beat of my heart
-I wish u all the best,  sorry for everything, u deserve the very best yet i gave you the worst. I wish i knew it sooner that you are the one i want to be with when i grow older. I will always love you Lani",0.9336,Positive,0.1944444444444444,Neutral,0.4547110199928283,Positive
-Keep going straight and then big blue house,0.2263,Positive,0.0666666666666666,Neutral,0.3600331842899322,Positive
+I wish u all the best,  sorry for everything, u deserve the very best yet i gave you the worst. I wish i knew it sooner that you are the one i want to be with when i grow older. I will always love you Lani",0.9336,Positive,0.1944444444444444,Positive,0.4547110199928283,Positive
+Keep going straight and then big blue house,0.2263,Positive,0.0666666666666666,Positive,0.3600331842899322,Positive
 Idk why but the lyrics “you ruined everything good. Always said you were misunderstood” makes me think of toxic relationships.,-0.128,Negative,0.7,Positive,-0.503922164440155,Negative
 This is a masterpiece,0.6249,Positive,0.0,Neutral,0.8322694897651672,Positive
 What a song….completely nailed it…,0.0,Neutral,0.0,Neutral,-0.5604220032691956,Negative
@@ -895,14 +895,14 @@ King James Version
 ........
 ,,,,,,,,
 ......
-..",0.9996,Positive,0.1352849927849927,Neutral,0.3769179284572601,Positive
+..",0.9996,Positive,0.1352849927849927,Positive,0.3769179284572601,Positive
 You r boodufl,0.0,Neutral,0.0,Neutral,-0.2876577973365783,Negative
-"As someone who is in the middle of recovering from childhood trauma, I can say this song is really helping me. I'm not even able to describe how much power this song gives me ❤️",-0.079,Negative,0.2249999999999999,Neutral,0.4796395599842071,Positive
+"As someone who is in the middle of recovering from childhood trauma, I can say this song is really helping me. I'm not even able to describe how much power this song gives me ❤️",-0.079,Negative,0.2249999999999999,Positive,0.4796395599842071,Positive
 Es increíble como parecen 2 canciones diferentes,0.743,Positive,0.3333333333333333,Positive,0.7417590618133545,Positive
 Don't mind me just crying💅,-0.4767,Negative,0.0,Neutral,-0.3766845762729645,Negative
 "Billie Eilish You are the best, I love your songs even if I speak Spanish <3💚💚",0.967,Positive,0.5,Positive,0.8583441972732544,Positive
 música maravilhosa ❤🇧🇷,0.5719,Positive,1.0,Positive,0.8436652421951294,Positive
-"This shit hits my heart so hard I lost my love last year and I still think about her but we wasn't right and we both knew it, it is what it she's pregnant and I'm almost done with my 2nd schooling  so life is moving on but I still gotta play this when my feels are sore",0.1368,Positive,0.089625850340136,Neutral,-0.3969264924526214,Negative
+"This shit hits my heart so hard I lost my love last year and I still think about her but we wasn't right and we both knew it, it is what it she's pregnant and I'm almost done with my 2nd schooling  so life is moving on but I still gotta play this when my feels are sore",0.1368,Positive,0.089625850340136,Positive,-0.3969264924526214,Negative
 "When I’m away from you
 I’m happier than ever
 Wish I could explain it better
@@ -967,7 +967,7 @@ Made all my moments your own
 Just fu**ing leave me alone
 
 Billie Eilish - Happier than ever
-Letra",-0.9768,Negative,0.0069444444444444,Neutral,-0.5327607989311218,Negative
+Letra",-0.9768,Negative,0.0069444444444444,Positive,-0.5327607989311218,Negative
 2:15,0.0,Neutral,0.0,Neutral,-0.2592691779136657,Negative
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Who is she talking about?,0.0,Neutral,0.0,Neutral,-0.2724665403366089,Negative
@@ -975,7 +975,7 @@ aqui🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Só quem e do Brasil e ouvir Billie eilish ,vai curtir meu comentário 🙃",0.3612,Positive,0.0,Neutral,-0.3472978174686432,Negative
 Alguém 2022?😞,-0.4767,Negative,0.0,Neutral,-0.5070899724960327,Negative
 horrible song,-0.5423,Negative,-1.0,Negative,-0.9280382990837096,Negative
-"Epic aint enough to describe this, well done billie! Must have had a blast screamin on the set",0.3954,Positive,0.05,Neutral,0.6301372051239014,Positive
+"Epic aint enough to describe this, well done billie! Must have had a blast screamin on the set",0.3954,Positive,0.05,Positive,0.6301372051239014,Positive
 Billie mandame saludos en español plis,0.4215,Positive,0.0,Neutral,0.2763409614562988,Neutral
 I identify with Billie's songs so I love her☺️,0.8166,Positive,0.5,Positive,0.7341604232788086,Positive
 Just fucking leave meeeeee!!!,-0.3333,Negative,-1.0,Negative,-0.8524202704429626,Negative
@@ -985,14 +985,14 @@ Amooo,0.6369,Positive,0.5,Positive,0.2388291954994201,Neutral
 I Love Billie,0.6369,Positive,0.5,Positive,0.7171340584754944,Positive
 Mentally I’m up on the roof screaming with Billie,-0.3818,Negative,-0.1,Negative,-0.3757691085338592,Negative
 Billies voice makes me melt 😩😩,-0.4939,Negative,0.0,Neutral,-0.3959627449512481,Negative
-"I can't be the only one noticing how the breakdown at 3:05 sounds like an Alice in Chains song, the harmonizing is scarily similar to what they did. Still a good song though.",0.7783,Positive,0.2333333333333333,Neutral,0.509242594242096,Positive
+"I can't be the only one noticing how the breakdown at 3:05 sounds like an Alice in Chains song, the harmonizing is scarily similar to what they did. Still a good song though.",0.7783,Positive,0.2333333333333333,Positive,0.509242594242096,Positive
 Heartbreak is hell.,-0.8519,Negative,0.0,Neutral,0.5412307381629944,Positive
 You made me hate this city 😩🔥🤍,-0.7003,Negative,-0.8,Negative,-0.436411052942276,Negative
 💚💚💚💚💚💚🖤🖤🖤🖤🖤🖤🖤💚💚💚💚💚💚🖤🖤🖤🖤🖤🖤💚💚💚💚💚💚💚🖤🖤🖤🖤🖤💚💚💚💚💚💚💚💚💚💚💚🖤🖤🖤🖤🖤🖤🖤💚💚💚💚,0.9998,Positive,0.0,Neutral,0.3085779249668121,Neutral
 If This video has 191m views I have made the 190m👀,0.0,Neutral,0.0,Neutral,-0.3156237304210663,Negative
 """You call me again""...",0.0,Neutral,0.0,Neutral,0.3922131657600403,Positive
 ❤️❤️🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"im so happy for billie, her songs got me through some rough shit, been here from the beginning and i love billie the way she is. Someday hope i will meet her, but you never know, miracles happen :)",0.8292,Positive,0.3,Neutral,0.7437177300453186,Positive
+"im so happy for billie, her songs got me through some rough shit, been here from the beginning and i love billie the way she is. Someday hope i will meet her, but you never know, miracles happen :)",0.8292,Positive,0.3,Positive,0.7437177300453186,Positive
 Still a banger back in  🇰🇪,0.0,Neutral,0.0,Neutral,0.2655155658721924,Neutral
 Yuck,0.0,Neutral,0.0,Neutral,0.2379894107580185,Neutral
 This SONG IS HISTORY..... Note these words.... JUST UNBREAKABLE ❤️,0.0,Neutral,0.0,Neutral,0.6000609397888184,Positive
@@ -1014,11 +1014,11 @@ One of the best song I ever listen 💜,0.8555,Positive,1.0,Positive,0.934715509
 Ello I want to tell u guys something and bille one time I was playing roblox and I saw my family was fighting and I walk to my room and I cried because I didn't saw my family for 3 years I saw them I  2019 end (please put a like and a  message) :(,-0.2732,Negative,-0.75,Negative,-0.3023906350135803,Negative
 Te amo.<3,0.7964,Positive,0.75,Positive,0.3520616888999939,Positive
 "canciones que me identifican 😢.... una mierda de relación la que tuve. pero ya es hora de decir...vete a la mierda, tengo que superar esto.",-0.5187,Negative,0.0,Neutral,-0.3564562499523163,Negative
-I love the style she sang after this song changed in the middle,0.6369,Positive,0.25,Neutral,0.3687105774879455,Positive
+I love the style she sang after this song changed in the middle,0.6369,Positive,0.25,Positive,0.3687105774879455,Positive
 DEM,0.0,Neutral,0.0,Neutral,0.2431546002626419,Neutral
-I love this song it’s so peaceful then I turns into loud and relatable music,0.8525,Positive,0.2833333333333333,Neutral,0.8317019939422607,Positive
+I love this song it’s so peaceful then I turns into loud and relatable music,0.8525,Positive,0.2833333333333333,Positive,0.8317019939422607,Positive
 Bloody druggie!  If she doesn't get her act together shes gonna end up like amy Winehouse!!!,-0.3753,Negative,-1.0,Negative,-0.729996919631958,Negative
-mi sento troppo presa in causa,0.0,Neutral,0.2,Neutral,-0.4774406850337982,Negative
+mi sento troppo presa in causa,0.0,Neutral,0.2,Positive,-0.4774406850337982,Negative
 Billie eilish can I be your friend please,0.6705,Positive,0.0,Neutral,0.3434019684791565,Positive
 is this song for an ex boyfriend?,0.0,Neutral,0.0,Neutral,-0.3252972364425659,Negative
 she sounded like PINK to me,0.3612,Positive,-0.1,Negative,-0.3825955390930176,Negative
@@ -1026,19 +1026,19 @@ she sounded like PINK to me,0.3612,Positive,-0.1,Negative,-0.3825955390930176,Ne
 https://youtu.be/WSb15zjWr3M,0.0,Neutral,0.0,Neutral,0.2246146351099014,Neutral
 https://youtu.be/WSb15zjWr3M,0.0,Neutral,0.0,Neutral,0.2246146351099014,Neutral
 "I dedicate this song to literally everyone, to the entire shitty society. I'm sick of absolutely everything",-0.7845,Negative,-0.1714285714285714,Negative,-0.68405681848526,Negative
-😭😭😭es normal que pase mucho tiempo y alguien te olvide fácilmente 😞,-0.875,Negative,0.2916666666666667,Neutral,0.3415371775627136,Positive
+😭😭😭es normal que pase mucho tiempo y alguien te olvide fácilmente 😞,-0.875,Negative,0.2916666666666667,Positive,0.3415371775627136,Positive
 Why does the second phase of song perfectly fits Johnny depps situation rn :'( . I hope he gets justice,0.8074,Positive,0.0,Neutral,0.2297886610031128,Neutral
 2021 em uma música,0.0,Neutral,0.0,Neutral,0.4628694057464599,Positive
-"i play this song everytime i wash dishes, i do laundry, do my homework, poop, take a bath. I CAN'T LAST A DAY WITHOUT PLAYING THIS SONG. LOVEU BILLLIIIEEE",0.735,Positive,0.25,Neutral,0.5806576013565063,Positive
+"i play this song everytime i wash dishes, i do laundry, do my homework, poop, take a bath. I CAN'T LAST A DAY WITHOUT PLAYING THIS SONG. LOVEU BILLLIIIEEE",0.735,Positive,0.25,Positive,0.5806576013565063,Positive
 I LOVE YOUR MUSIC,0.6369,Positive,0.5,Positive,0.8342077732086182,Positive
-and u tellin me this shit didn’t win the grammys..,-0.8086,Negative,0.3,Neutral,-0.7780836820602417,Negative
+and u tellin me this shit didn’t win the grammys..,-0.8086,Negative,0.3,Positive,-0.7780836820602417,Negative
 "the song is good, i like this kind of song💜",0.8625,Positive,0.6499999999999999,Positive,0.5717694163322449,Positive
 "BILLIEE ERES LA MEJOR, SOLO HACES OBRAS DE ARTEEE.❤️❤️❤️❤️😭",0.4278,Positive,0.5,Positive,0.6571815013885498,Positive
 Y donde estan los latinos?🤟,0.0,Neutral,0.0,Neutral,-0.3626359105110168,Negative
-My girl introduced me to this song. It was her favorite  song and it also became my favorite. She left me telling that she never loved me and she was just takingf whatever we had as a way to pass time. It crushed me however this song always reminds me of her and how I loved her. I hate myself for giving my time love and care for such an ungrateful  person.,0.7937,Positive,0.1055555555555555,Neutral,0.6046091318130493,Positive
+My girl introduced me to this song. It was her favorite  song and it also became my favorite. She left me telling that she never loved me and she was just takingf whatever we had as a way to pass time. It crushed me however this song always reminds me of her and how I loved her. I hate myself for giving my time love and care for such an ungrateful  person.,0.7937,Positive,0.1055555555555555,Positive,0.6046091318130493,Positive
 4.7 M of liked./ 24/04/2022.,0.4215,Positive,0.0,Neutral,-0.2899163067340851,Negative
-Nunca uma música me deu tanto conforto,0.4173,Positive,0.2,Neutral,0.6633235812187195,Positive
-A tear comes out of my eye when the “I don’t relate to you” part comes up because it’s not the same as the first time I heard it,0.0,Neutral,0.125,Neutral,-0.3691042959690094,Negative
+Nunca uma música me deu tanto conforto,0.4173,Positive,0.2,Positive,0.6633235812187195,Positive
+A tear comes out of my eye when the “I don’t relate to you” part comes up because it’s not the same as the first time I heard it,0.0,Neutral,0.125,Positive,-0.3691042959690094,Negative
 Please keep reminding me of this song ❤,0.7579,Positive,0.0,Neutral,0.3017091155052185,Neutral
 "This song is so great. I love it how billie can switch from a nice soft tone, to a loud and aggressive tone. Billie amazes me and she puts so much emotion into her words it's so great!",0.9707,Positive,0.4714285714285715,Positive,0.901671826839447,Positive
 "Lo mejor de lo mejor.
@@ -1048,7 +1048,7 @@ Nosssaaaaaa 👁👄👁😔😔😔😔🥰🥰🥰🥰,0.9854,Positive,0.0,Neu
 Next level shit 👌,0.368,Positive,-0.1,Negative,0.3741541504859924,Positive
 "Halo Leonora 5 tahun kedepan,ini lagu kesukaan mu🖤🖤 I WILL VISIT U AGAIN IN 2027!!
 25/04/2022",0.9183,Positive,0.78125,Positive,0.4974106550216675,Positive
-i would do anything to listen to this song for the first time again I was in complete shock.,-0.3818,Negative,0.175,Neutral,-0.6182197332382202,Negative
+i would do anything to listen to this song for the first time again I was in complete shock.,-0.3818,Negative,0.175,Positive,-0.6182197332382202,Negative
 Olivia didn't deserve to win the grammy against that,-0.4717,Negative,0.8,Positive,-0.370351105928421,Negative
 "This song make me feel terribly sad, I feel like she is talking to me,  like if my ex was singing she would say the same . Can't blame them but, for any other girl or boy you have to know that people can change and you can forgive  just don't make it hell for both of you if you really love each other .",0.9388,Positive,-0.05,Negative,-0.6030949354171753,Negative
 Don't let this song die,-0.5994,Negative,0.0,Neutral,-0.7966629266738892,Negative
@@ -1066,7 +1066,7 @@ i hope the water is warm,0.5859,Positive,0.6,Positive,0.3974127471446991,Positiv
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 E a música nda me go you let an me goooooooooooo oh não AAA me ia,-0.296,Negative,0.0,Neutral,-0.4993957579135895,Negative
 Jhoana 🥰,0.8074,Positive,0.0,Neutral,0.2831594049930572,Neutral
-Man I love her I love her I love her. Listening to this on repeat and screaming just fucking leave me a lone!! Oh and I’m 60,0.8747,Positive,0.140625,Neutral,0.8740321397781372,Positive
+Man I love her I love her I love her. Listening to this on repeat and screaming just fucking leave me a lone!! Oh and I’m 60,0.8747,Positive,0.140625,Positive,0.8740321397781372,Positive
 this is beautiful,0.5994,Positive,0.85,Positive,0.7876406908035278,Positive
 Bruh I got chills from this I love it sm omg,0.6369,Positive,0.5,Positive,0.7431831359863281,Positive
 We are russian soldiers  in Ukraine. U charmed us U are the best. U are SUPER !!!. Thank U.,0.9452,Positive,0.5503472222222222,Positive,0.9124786853790284,Positive
@@ -1074,7 +1074,7 @@ Beutiful,0.0,Neutral,0.0,Neutral,-0.2886629700660705,Negative
 ..,0.0,Neutral,0.0,Neutral,0.2459548264741897,Neutral
 "catharsis
 noun, plural ca·thar·ses  [kuh-thahr-seez].
-the purging of the emotions or relieving of emotional tensions, especially through certain kinds of art, as tragedy or music.",-0.3862,Negative,0.0714285714285714,Neutral,-0.2517546415328979,Negative
+the purging of the emotions or relieving of emotional tensions, especially through certain kinds of art, as tragedy or music.",-0.3862,Negative,0.0714285714285714,Positive,-0.2517546415328979,Negative
 She is the most foul mouthed person around today.  Very unattractive!!,-0.5827,Negative,0.40625,Positive,-0.8281099200248718,Negative
 الغنيه ادمان😫😫😫,-0.6249,Negative,0.375,Positive,0.4624110460281372,Positive
 Fantásticaaaaaaaaa,0.0,Neutral,0.0,Neutral,0.6946310997009277,Positive
@@ -1082,7 +1082,7 @@ Bro dont forget the mastermind of all of this is Finneas,0.1695,Positive,0.0,Neu
 Amei👌👍,0.876,Positive,0.7,Positive,0.3085779249668121,Neutral
 When you first listen to it it sounds like it was bf and gf but once you replay for the 200th *I'm proud of it too* it's like it's for an ex-best friend,0.9253,Positive,0.525,Positive,0.3047076463699341,Neutral
 https://youtu.be/YqhyJYlYbgU      kl,0.0,Neutral,0.0,Neutral,-0.2367417365312576,Negative
-I luv this song so much.,0.0,Neutral,0.2,Neutral,0.6566058397293091,Positive
+I luv this song so much.,0.0,Neutral,0.2,Positive,0.6566058397293091,Positive
 Do. You. Miss.  X,-0.1531,Negative,0.0,Neutral,0.4339913427829742,Positive
 I LOVE THIS SONG BILLIE,0.6369,Positive,0.5,Positive,0.8189034461975098,Positive
 "sou hip hop mais eu curto mesmo e foda se !!!
@@ -1103,22 +1103,22 @@ Btw that’s just a joke and love you Billie this song is amazing and your vocal
 "Mujhe ye samjh nhi aata why you all take guilt just go and say to that person .... Khud ko khud se kyo maar rhe ho ..🙄
 I hate these shitty people who think it's not their fault 😒",-0.7988,Negative,-0.8,Negative,-0.6992657780647278,Negative
 "Days go through, life goes by, this never makes me forget how many people have made me feel miserable and fell into depression when i wasn't capable of much
-Thanks for likes never got so much",-0.4055,Negative,0.02,Neutral,-0.2992719411849975,Negative
+Thanks for likes never got so much",-0.4055,Negative,0.02,Positive,-0.2992719411849975,Negative
 Ok who's the guy???,0.4098,Positive,0.5,Positive,0.6062042117118835,Positive
 ARGENTINA,0.0,Neutral,0.0,Neutral,0.2478032261133194,Neutral
 ARGENTINA,0.0,Neutral,0.0,Neutral,0.2478032261133194,Neutral
-"Thank You so much Billie for featuring this with Hayley, Please collab with her ❤️♥️😭🥰",0.9217,Positive,0.2,Neutral,0.6841470003128052,Positive
-I feel like my abusive ex would be the one saying all these lyrics as he gaslights me….very intriguing to hear,-0.4019,Negative,0.3,Neutral,-0.4749888479709625,Negative
+"Thank You so much Billie for featuring this with Hayley, Please collab with her ❤️♥️😭🥰",0.9217,Positive,0.2,Positive,0.6841470003128052,Positive
+I feel like my abusive ex would be the one saying all these lyrics as he gaslights me….very intriguing to hear,-0.4019,Negative,0.3,Positive,-0.4749888479709625,Negative
 "And I am frustrated how this didn't go number 1, song of the year and record of the year.",-0.5606,Negative,-0.7,Negative,0.252032071352005,Neutral
 Is this song copied,0.0,Neutral,0.0,Neutral,-0.5943870544433594,Negative
 Essa música me quebra em pedaços 😞❤️‍🩹🫀,-0.4767,Negative,0.0,Neutral,-0.4097327589988708,Negative
-"her voice is like a cool ,calm wind 🎐",0.7269,Positive,0.325,Neutral,0.4691466093063354,Positive
+"her voice is like a cool ,calm wind 🎐",0.7269,Positive,0.325,Positive,0.4691466093063354,Positive
 billie nos trae cada dia mas ý mas,-0.3071,Negative,0.0,Neutral,0.7052744030952454,Positive
 his neck is very wide .... how beautiful 😍,0.7845,Positive,0.36,Positive,0.4046654105186462,Positive
 well that was fantastic,0.6908,Positive,0.4,Positive,0.692212700843811,Positive
 Ganti genre njir mrindinh,0.0,Neutral,0.0,Neutral,0.3151682317256927,Neutral
 I'm addicted Mannnn 🔥,-0.34,Negative,-0.4,Negative,0.5072848200798035,Positive
-Fuck it up the song is incredible,-0.5423,Negative,0.25,Neutral,0.7300047278404236,Positive
+Fuck it up the song is incredible,-0.5423,Negative,0.25,Positive,0.7300047278404236,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Heyyyy,0.0,Neutral,0.0,Neutral,-0.2575046718120575,Negative
 Omg love you,0.6369,Positive,0.5,Positive,0.720969021320343,Positive
@@ -1132,7 +1132,7 @@ YOU ARE THE BEST BILLIE IM BIG FAN,0.7579,Positive,0.5,Positive,0.79648011922836
 😔😔🥺😭,-0.3612,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Tik Tok canta 😱,-0.7003,Negative,0.0,Neutral,0.2331842333078384,Neutral
 so you wanna tell me this masterpiece didn't even got a single grammy?,0.7073,Positive,-0.0714285714285714,Negative,0.4858961403369903,Positive
-"Such a goddess, brilliant idea to switch genres mid song, makes me cry every time",0.1779,Positive,0.3,Neutral,0.854994535446167,Positive
+"Such a goddess, brilliant idea to switch genres mid song, makes me cry every time",0.1779,Positive,0.3,Positive,0.854994535446167,Positive
 am loveo somath,0.0,Neutral,0.0,Neutral,0.2589744329452514,Neutral
 Que música ❤️,0.0,Neutral,0.0,Neutral,0.3196297287940979,Neutral
 uma obra prima,0.6249,Positive,0.0,Neutral,0.4275480806827545,Positive
@@ -1144,15 +1144,15 @@ Billie forever!!😭😭❤️❤️❤️✌️✌️🥺🥺🥺,-0.7772,Negat
 "te amo Billie, eu te amo.",0.8555,Positive,0.5,Positive,0.4695714116096496,Positive
 I'm so proud to have been present on the day of the release of this song.,0.5256,Positive,0.4,Positive,0.811123788356781,Positive
 amo essa musica,0.6369,Positive,0.5,Positive,0.6222327351570129,Positive
-The song begins and you are a quiet cocoon that quickly turns into a butterfly.,0.0,Neutral,0.1666666666666666,Neutral,0.3989845216274261,Positive
-i love this song so much especially the part when she says '' i dont relate to you ..bc i never treat me this shitty...'',-0.1675,Negative,0.25,Neutral,0.7988088726997375,Positive
+The song begins and you are a quiet cocoon that quickly turns into a butterfly.,0.0,Neutral,0.1666666666666666,Positive,0.3989845216274261,Positive
+i love this song so much especially the part when she says '' i dont relate to you ..bc i never treat me this shitty...'',-0.1675,Negative,0.25,Positive,0.7988088726997375,Positive
 I always cry to this,-0.4767,Negative,0.0,Neutral,0.5942502021789551,Positive
 This song will be a masterpiece that no one will forget.,0.25,Positive,0.0,Neutral,0.8319821953773499,Positive
-very relaxing thanks billie eilish,0.7698,Positive,0.2,Neutral,0.5036607384681702,Positive
+very relaxing thanks billie eilish,0.7698,Positive,0.2,Positive,0.5036607384681702,Positive
 AND ALSO GO LITTLE ROCKSTAR,0.0,Neutral,-0.1875,Negative,0.4599523842334747,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Mas feliz que nunca,0.7227,Positive,0.8,Positive,0.7708139419555664,Positive
-Bem soft 🙄💅💅💅,0.0,Neutral,0.13,Neutral,0.3363327980041504,Positive
+Bem soft 🙄💅💅💅,0.0,Neutral,0.13,Positive,0.3363327980041504,Positive
 1 millon de vistas son mias 🥰,0.8074,Positive,0.0,Neutral,0.5932168960571289,Positive
 "I never really got why people were so into Billie eilish when she first hit the scene.. however after listening to this masterpiece I think my mind is changed. It’s like Radiohead-esque with the emotion and buildup and also a bit like lana, it’s a perfect mix I love it so much",0.957,Positive,0.37,Positive,0.5654902458190918,Positive
 Beautiful beautiful song voice everything,0.8316,Positive,0.85,Positive,0.7722234725952148,Positive
@@ -1171,16 +1171,16 @@ Fuiste mi escusa en la clase de ingles 🤧❤,0.6705,Positive,-0.025,Negative,0
 I love this song so much.Literally I love all song's of Billie.I have been fan of her since 2018.We love you Billie. ❤️,0.9448,Positive,0.5,Positive,0.9352245330810548,Positive
 I Love Billie Eilish 💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤💚🖤,0.9999,Positive,0.5,Positive,0.6644096374511719,Positive
 Took my daughter to see her live in Birmingham Alabama it was her first concert best experience ever !,0.6696,Positive,0.4621212121212121,Positive,0.802402675151825,Positive
-Allan Mong said ‘ gosebomps ‘ in live chat idk I found that funny ish,0.3612,Positive,0.1931818181818181,Neutral,0.2704209685325622,Neutral
+Allan Mong said ‘ gosebomps ‘ in live chat idk I found that funny ish,0.3612,Positive,0.1931818181818181,Positive,0.2704209685325622,Neutral
 This song is so fkn good gosh dang,0.4902,Positive,0.7,Positive,0.4139257967472076,Positive
-billies songs are amazing.i play theme when i fell god or bad.they´ŕe ineplicably amazin .i love you too much!!!,0.9017,Positive,0.24765625,Neutral,0.8982393741607666,Positive
+billies songs are amazing.i play theme when i fell god or bad.they´ŕe ineplicably amazin .i love you too much!!!,0.9017,Positive,0.24765625,Positive,0.8982393741607666,Positive
 Overpower song,0.0,Neutral,0.0,Neutral,-0.4051217138767242,Negative
 This song crushes me.,-0.4404,Negative,0.0,Neutral,0.7238540053367615,Positive
 2:45,0.0,Neutral,0.0,Neutral,-0.2702265381813049,Negative
 😒 boo,0.0,Neutral,0.0,Neutral,0.250303715467453,Neutral
 This song always makes me cry,-0.4767,Negative,0.0,Neutral,0.6861681938171387,Positive
 This my fav song by her ❤️,0.4588,Positive,0.0,Neutral,0.5708013772964478,Positive
-"I can barely get through this song because this is how i feel about nearly everyone ive ever been around Parents exes friends etc ive always been treated like shit by everyone i loved, controlled, abused and ignored my entire life and a comment section is the only thing i could ever tell about that feeling",0.2023,Positive,0.1083333333333333,Neutral,-0.4699064791202545,Negative
+"I can barely get through this song because this is how i feel about nearly everyone ive ever been around Parents exes friends etc ive always been treated like shit by everyone i loved, controlled, abused and ignored my entire life and a comment section is the only thing i could ever tell about that feeling",0.2023,Positive,0.1083333333333333,Positive,-0.4699064791202545,Negative
 the best song the world has ever heard we love you biliesh🥺❤️,0.8555,Positive,0.75,Positive,0.962373673915863,Positive
 🤧🤧🤧🤧😩,-0.2732,Negative,0.0,Neutral,0.3085779249668121,Neutral
 She poured every Eilish inside her in this song. I relate to the lyrics a lot and now I'm happier than ever,0.5267,Positive,0.0,Neutral,0.6411364078521729,Positive
@@ -1198,15 +1198,15 @@ billy style🔝🔝🛐☠🕯⚰
 ￼",0.9827,Positive,0.0,Neutral,0.3771595656871795,Positive
 l Love you,0.802,Positive,0.5,Positive,0.7662308216094971,Positive
 "Happie Than Ever didn't miss the Grammys, the Grammys lost Happie Than Ever",-0.2158,Negative,0.0,Neutral,0.5031156539916992,Positive
-I’ve never related to a song more in my life,0.0,Neutral,0.25,Neutral,0.3551321625709533,Positive
+I’ve never related to a song more in my life,0.0,Neutral,0.25,Positive,0.3551321625709533,Positive
 😣,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 2:44,0.0,Neutral,0.0,Neutral,-0.2493502795696258,Negative
 "Billie elilish é o caralhooooooo,triste mesmo é Marceline",-0.765,Negative,-0.45,Negative,0.258819967508316,Neutral
 Get it Billie!,0.0,Neutral,0.0,Neutral,0.5438100099563599,Positive
 Sevdiğim kız seviyor diye bağımlısı oldum <3,0.8957,Positive,0.3666666666666667,Positive,0.4140192568302154,Positive
-"I am addicted with this beautiful song, and when i am listening to this song i am acting just the way she is in the video",0.6833,Positive,0.15,Neutral,0.7213372588157654,Positive
-I'm 10 years old and I love her music,0.6369,Positive,0.3,Neutral,0.7723931074142456,Positive
-"Since the song came out my obsession was to play specifically the second part of the music over and over again so I could imagine myself performing it as I was Billie. A couple weeks ago there was a talent contest in my high school. Putting aside my extreme fear of being the center of the attention I participed, performed Happier Than Ever and won. The craziest shit I ever did honestly.",0.6815,Positive,0.0558333333333333,Neutral,-0.5256802439689636,Negative
+"I am addicted with this beautiful song, and when i am listening to this song i am acting just the way she is in the video",0.6833,Positive,0.15,Positive,0.7213372588157654,Positive
+I'm 10 years old and I love her music,0.6369,Positive,0.3,Positive,0.7723931074142456,Positive
+"Since the song came out my obsession was to play specifically the second part of the music over and over again so I could imagine myself performing it as I was Billie. A couple weeks ago there was a talent contest in my high school. Putting aside my extreme fear of being the center of the attention I participed, performed Happier Than Ever and won. The craziest shit I ever did honestly.",0.6815,Positive,0.0558333333333333,Positive,-0.5256802439689636,Negative
 "Can't an open and sincere heart whisper sweetness
 That to another open and sincere heart ?
 Or does it not cry out in pain ?
@@ -1243,7 +1243,7 @@ Qu'en est-il ?
 Alors
 Courage Billie...
 
-💖 🌠 🌌",0.9913,Positive,0.1677083333333333,Neutral,-0.2926793396472931,Negative
+💖 🌠 🌌",0.9913,Positive,0.1677083333333333,Positive,-0.2926793396472931,Negative
 *2022 aq ??...*,0.0,Neutral,0.0,Neutral,-0.4657143950462341,Negative
 *Essa música me define :)*,0.0,Neutral,0.5,Positive,0.5729828476905823,Positive
 🏥🚰❤️‍🩹❤️‍🩹🍎🍏🍓🥀⭕,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -1299,11 +1299,11 @@ Made all my moments your own
 Just fucking leave me alone",-0.9776,Negative,-0.0194444444444444,Negative,-0.615230917930603,Negative
 🖤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Billie ela é um sentimento perfeitaaaaaaaa,0.6369,Positive,1.0,Positive,0.5829809308052063,Positive
-Calm pure music🙃,0.3182,Positive,0.2571428571428572,Neutral,0.7554003596305847,Positive
+Calm pure music🙃,0.3182,Positive,0.2571428571428572,Positive,0.7554003596305847,Positive
 💚Hi i'm from Brasil LOVE YOU BILLIE💚,0.8788,Positive,0.5,Positive,0.826531171798706,Positive
 😍💞,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Hello im your new fans here anyway i really love your voice and your song 😊💗💗💗💗💗💗,0.9922,Positive,0.3181818181818182,Neutral,0.8529015779495239,Positive
-essa música me descreve tanto...,0.0,Neutral,0.2,Neutral,0.551651656627655,Positive
+Hello im your new fans here anyway i really love your voice and your song 😊💗💗💗💗💗💗,0.9922,Positive,0.3181818181818182,Positive,0.8529015779495239,Positive
+essa música me descreve tanto...,0.0,Neutral,0.2,Positive,0.551651656627655,Positive
 beautiful i love you,0.8442,Positive,0.675,Positive,0.8902971744537354,Positive
 ❤my baby,0.0,Neutral,0.0,Neutral,0.4040375351905823,Positive
 "feels like one of oliver's tree music, a girl version one lol",0.6486,Positive,0.8,Positive,-0.3785724937915802,Negative
@@ -1329,14 +1329,14 @@ kenapa bili elis screaming teriak gitu aku jadi scary;butuh self hiling keknya g
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Eu so queria ser feliz,0.5719,Positive,0.8,Positive,0.3151839971542358,Neutral
 Billie Eilish - Faker Than Ever (Official Criticism),-0.4404,Negative,0.0,Neutral,-0.7043574452400208,Negative
-2:48 ;),0.2263,Positive,0.25,Neutral,0.3230240643024444,Neutral
+2:48 ;),0.2263,Positive,0.25,Positive,0.3230240643024444,Neutral
 "Essa músuca é uma das melhores, vc canta muito ❤😊",0.9371,Positive,1.0,Positive,0.8705661296844482,Positive
 cool?,0.3182,Positive,0.35,Positive,0.3615525960922241,Positive
 she is great,0.6249,Positive,0.8,Positive,0.6574393510818481,Positive
 Billie Eilish in a fan,0.3182,Positive,0.0,Neutral,0.3444632589817047,Positive
 M hearing the song now believe me it's give goosebumps,0.0,Neutral,0.0,Neutral,0.2894901931285858,Neutral
 omg🥺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Wow I'm so cool Billie elis,0.7501,Positive,0.2249999999999999,Neutral,0.8492631912231445,Positive
+Wow I'm so cool Billie elis,0.7501,Positive,0.2249999999999999,Positive,0.8492631912231445,Positive
 Firstperson,0.0,Neutral,0.0,Neutral,0.3686712086200714,Positive
 Mano tem muito brasileiro aqui ksksk,0.0,Neutral,0.0,Neutral,0.2364989966154098,Neutral
 Sempre incrível,0.5859,Positive,0.6000000000000001,Positive,0.5885518193244934,Positive

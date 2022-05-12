@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Very nice,0.4754,Positive,0.78,Positive,0.6515336632728577,Positive
-Taki Taki oooohhhhhhhh *sings loud *,0.0,Neutral,0.1,Neutral,0.3483689725399017,Positive
+Taki Taki oooohhhhhhhh *sings loud *,0.0,Neutral,0.1,Positive,0.3483689725399017,Positive
 ❤Mosic,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I love you kocham tom piosenkę,0.8555,Positive,0.5,Positive,0.6608847379684448,Positive
 Taki Taki roumpam🤪😜😝😛,0.0,Neutral,0.0,Neutral,0.4144542217254638,Positive
@@ -13,7 +13,7 @@ Selena muy linda voz,0.4754,Positive,0.78,Positive,0.5359774231910706,Positive
 GflytgesyH,0.0,Neutral,0.0,Neutral,0.2852243185043335,Neutral
 I Love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 🤗,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Wow !!!,0.6884,Positive,0.1953125,Neutral,0.8064718246459961,Positive
+Wow !!!,0.6884,Positive,0.1953125,Positive,0.8064718246459961,Positive
 "Cảm ơn cô Mây, rất tuyệt vời",0.765,Positive,0.8,Positive,0.4852299690246582,Positive
 IT is So Great,0.7384,Positive,0.8,Positive,0.7930793166160583,Positive
 "đón chờ những ca khúc tiếp theo của Phúc, càng nghe càng thích giọng ca của Phúc ❤️",0.4173,Positive,0.3333333333333333,Positive,0.4139220118522644,Positive
@@ -28,10 +28,10 @@ WONDERFULL,0.0,Neutral,0.0,Neutral,0.7769107818603516,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 "Gözlerim : Yorumlarda 
 Kulaklarım : Şarkıda 
-Ellerim : Sesini açmak için hazır olda .",0.3612,Positive,0.2,Neutral,0.3341283500194549,Positive
+Ellerim : Sesini açmak için hazır olda .",0.3612,Positive,0.2,Positive,0.3341283500194549,Positive
 En güzel mahni,0.6361,Positive,0.675,Positive,0.8120733499526978,Positive
 En xoşuma gelen mahnısı❤️,0.4588,Positive,0.5,Positive,-0.3176500201225281,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 👍👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Wwwwwwwwwwwwwwoooooooooooooòooooowwwwwwwwwwwww,0.0,Neutral,0.0,Neutral,-0.3154948353767395,Negative
@@ -53,7 +53,7 @@ AEA,0.0,Neutral,0.0,Neutral,0.3175550103187561,Neutral
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 0:44 is saki saki no nagasaki,0.0,Neutral,0.0,Neutral,-0.6653465032577515,Negative
-I lake this song very very mush 💙💙💙,0.9465,Positive,0.26,Neutral,-0.3691593408584595,Negative
+I lake this song very very mush 💙💙💙,0.9465,Positive,0.26,Positive,-0.3691593408584595,Negative
 y mi mamá y mi papá escuchan esto en el auto o en la cocina,0.0,Neutral,0.0,Neutral,0.4701092541217804,Positive
 "taki taki es mi cancion favorita escucho la cancion estoy haciendo tarea 10/10-
 
@@ -70,7 +70,7 @@ Albania's🇦🇱,0.0,Neutral,0.0,Neutral,0.3235242366790771,Neutral
 USA 🇺🇸 my,0.0,Neutral,0.0,Neutral,0.4422972500324249,Positive
 Ja pricam srpski pa mozete ovo prevesti na english 😅☺😚,0.8481,Positive,0.0,Neutral,0.2536705434322357,Neutral
 Uk,0.0,Neutral,0.0,Neutral,0.2825593054294586,Neutral
-wow..............................................................................,0.5859,Positive,0.1,Neutral,0.3803422152996063,Positive
+wow..............................................................................,0.5859,Positive,0.1,Positive,0.3803422152996063,Positive
 I danced like this ⬅️➡️⬅️➡️drumx   ⬆️⬆️ sway 🌊💃,0.3612,Positive,0.0,Neutral,0.3607973754405975,Positive
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥😈😈😈😈😈😈😈😈😈😈😈😈😈🌟😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈🌟🌟🌟🔥🔥🔥,0.9948,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Taci taci rumap,0.0,Neutral,0.0,Neutral,0.3324002027511596,Positive
@@ -105,7 +105,7 @@ Good music il ove tips music,0.4404,Positive,0.7,Positive,0.4549202919006347,Pos
 I LOVE SPANISH❤😊,0.9445,Positive,0.5,Positive,0.8423482775688171,Positive
 Wow amazing sing,0.8225,Positive,0.35,Positive,0.8905122876167297,Positive
 Nice voice of Selena voice,0.4215,Positive,0.6,Positive,0.476384162902832,Positive
-My girl introduced me to this song. It was her favorite song and it also became my favorite. She left me telling that she never loved me and she was just takingf whatever we had as a way to pass time. It crushed me however this song always reminds me of her and how I loved her. I hate myself for giving my time love and care for such an ungrateful person.,0.7937,Positive,0.1055555555555555,Neutral,0.6046091318130493,Positive
+My girl introduced me to this song. It was her favorite song and it also became my favorite. She left me telling that she never loved me and she was just takingf whatever we had as a way to pass time. It crushed me however this song always reminds me of her and how I loved her. I hate myself for giving my time love and care for such an ungrateful person.,0.7937,Positive,0.1055555555555555,Positive,0.6046091318130493,Positive
 Kul song,0.3182,Positive,0.35,Positive,0.2615831196308136,Neutral
 😋😜,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Derbyshire UK,0.0,Neutral,0.0,Neutral,0.3036670088768005,Neutral
@@ -120,7 +120,7 @@ Cảm ơn c Mây nhiều ạ :p,0.5809,Positive,0.475,Positive,0.399753749370574
 dileyen tek türk müyüm?,0.1531,Positive,0.0,Neutral,-0.4434970319271087,Negative
 Op😱😱😱❤❤❤❤❤❤👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👎👎👎💝💝💝💝💝💝💝💝💝💝💝💝💝,0.9969,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Fun fact: Everyone sings this song on her/his own language😂😂😂,0.9001,Positive,0.4499999999999999,Positive,0.4734672605991363,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I am sri lankan 🇱🇰🇱🇰🇱🇰🇱🇰.I like this song 👍👍👍👍👍.,0.3612,Positive,0.0,Neutral,0.6705889701843262,Positive
 The music is so amazing,0.7065,Positive,0.6000000000000001,Positive,0.7863447666168213,Positive
 Shut up hani your the imposter name,0.0,Neutral,0.0,Neutral,-0.6416527032852173,Negative
@@ -202,7 +202,7 @@ Taki taki rumba! Puro reggeton xd,0.6239,Positive,0.0,Neutral,0.5158701539039612
 2:27,0.0,Neutral,0.0,Neutral,-0.2580594718456268,Negative
 Selena's voice just makes me vibe hard...this song just gets to me... no one knows what the spanish part means but just get into it,-0.1531,Negative,0.0,Neutral,0.3513046205043793,Positive
 "Coolll Haha 
-😄😄😄😄😄😄",0.9861,Positive,0.2,Neutral,0.2644862234592438,Neutral
+😄😄😄😄😄😄",0.9861,Positive,0.2,Positive,0.2644862234592438,Neutral
 Canada 🇨🇦🇨🇦🇨🇦,0.0,Neutral,0.0,Neutral,0.3155069947242737,Neutral
 🤩🔥🔥🔥super music!!!!,-0.7156,Negative,0.0,Neutral,0.5340569615364075,Positive
 ΤΕΛΙΑ,0.5719,Positive,1.0,Positive,0.2264617532491684,Neutral
@@ -246,14 +246,14 @@ This music is cool,0.3182,Positive,0.35,Positive,0.5876612663269043,Positive
 Türkiye ankara,0.0,Neutral,0.0,Neutral,0.2731266319751739,Neutral
 🤯🤯🤩🤩🤩🤩🤩🤩🤩😌😊🥰,0.9423,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Anyone here thinks bally sports music borrowed some beats from this aon,0.0,Neutral,0.0,Neutral,-0.3756389319896698,Negative
-Cardi B littely got it she sand great she killed it,-0.1027,Negative,0.3,Neutral,0.3133773505687713,Neutral
+Cardi B littely got it she sand great she killed it,-0.1027,Negative,0.3,Positive,0.3133773505687713,Neutral
 When you dont know the words and just wait for taki taki 😂😂,0.7003,Positive,0.0,Neutral,-0.2368182986974716,Negative
 I love it and you,0.6369,Positive,0.5,Positive,0.8454246520996094,Positive
 Daki Daki LOVE 💙💜,0.9274,Positive,0.5,Positive,0.5580332279205322,Positive
 Tenkyou,0.0,Neutral,0.0,Neutral,0.2666618227958679,Neutral
 ✌🤟👍🤑😁,0.7351,Positive,0.0,Neutral,0.3085779249668121,Neutral
 La musique est ipèrrrr bien fais javou je vous adorrre continuer je suis de votre coté,0.2732,Positive,0.0,Neutral,0.3326843380928039,Positive
-Wow! Like,0.7644,Positive,0.125,Neutral,0.7991424798965454,Positive
+Wow! Like,0.7644,Positive,0.125,Positive,0.7991424798965454,Positive
 Me encantó mucho la canción 😻,0.8016,Positive,0.7,Positive,0.7440071702003479,Positive
 meeeeeeeeeeeeeeeeeeeeeeeeeeee,0.0,Neutral,0.0,Neutral,0.2722072005271911,Neutral
 😜😜😜😜😜😜😜😜😜😜😜😜🤪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -263,7 +263,7 @@ This Is my best song pinned,0.6369,Positive,1.0,Positive,0.6587172746658325,Posi
 Ok ok ok ok ok ok ok good good gooooooodd ok ok cut song good good💅👍🏻,0.9758,Positive,0.55,Positive,0.5231095552444458,Positive
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Lol 😍😍😍😘😚😘🏌️‍♂️🏌️‍♂️😄🇧🇬🏠🤭🇧🇬🏌️‍♀️🤩,0.9814,Positive,0.8,Positive,0.2816561758518219,Neutral
-Who ever is listening to this in 2022 are such big legends because it is literally 4 years old now,0.0,Neutral,0.0333333333333333,Neutral,0.6518380641937256,Positive
+Who ever is listening to this in 2022 are such big legends because it is literally 4 years old now,0.0,Neutral,0.0333333333333333,Positive,0.6518380641937256,Positive
 I  LİKE 👍🏻,0.0,Neutral,0.0,Neutral,0.4658792614936828,Positive
 I m favorite sing🎤🎼,0.4588,Positive,0.5,Positive,0.8718655109405518,Positive
 Kl 10,0.0,Neutral,0.0,Neutral,-0.2721565067768097,Negative
@@ -283,9 +283,9 @@ COOL 😎  🎵  song,0.7213,Positive,0.35,Positive,0.5123284459114075,Positive
 🤟🤘taki taki,0.6597,Positive,0.0,Neutral,0.3839503228664398,Positive
 Salut vous êtes trop génial avec votre chanson 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩,0.7384,Positive,1.0,Positive,0.7977246642112732,Positive
 Классная музыка,0.3182,Positive,0.35,Positive,0.3449101448059082,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 No,-0.296,Negative,0.0,Neutral,-0.531922459602356,Negative
 wotafak ist das geilo,0.6249,Positive,1.0,Positive,0.2650408446788788,Neutral
 Whose still listening to this song 2022  say hi fellas.👋🤩,0.4939,Positive,0.0,Neutral,-0.5114268660545349,Negative
@@ -294,7 +294,7 @@ I'm from a forgotten country and the name of the forgotten country is Bosniaaaaa
 Perifote♥️😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Diese Musik ist einfach die beste,0.6369,Positive,0.5,Positive,0.9508689641952516,Positive
 Wøøøøøøøw,0.0,Neutral,0.0,Neutral,0.2776496112346649,Neutral
-nice guys to have you Babe home only one reason for me mom ke paas he was just busy with kulsum and then he said he would you rather not sleeping yet but I can't believe it will happen again private account par,0.2263,Positive,0.175,Neutral,0.3599390089511871,Positive
+nice guys to have you Babe home only one reason for me mom ke paas he was just busy with kulsum and then he said he would you rather not sleeping yet but I can't believe it will happen again private account par,0.2263,Positive,0.175,Positive,0.3599390089511871,Positive
 This is emazing ilove whan it saya taki taki and rumba,0.8402,Positive,0.55,Positive,-0.5989949107170105,Negative
 რამაგარი  სიმღერაა😍😍😍😍😍😍🤩🤩🤩🤩🤩☺☺☺😚☺😚☺😚☺😚☺👙🤔😘🤩😍😊😘🤩😍🤔😘🤩🤩🦄🦄🤩🦄🤩🦄🤩🦄🤩🦄🤩🦄🤩🦄🤩🦄🤩🦄,0.5719,Positive,1.0,Positive,0.2781068980693817,Neutral
 💝💗💝💗💝💗💝💗💝💝💗💝💗💝💗💝💗💝💝💗💝💗💝💗💝💗💝💗💝💗💝💗💝💗💝💝💝💝💝💯💯💯💯💯💯🤘🤘💯🤘💯🤘💯🤘💯🤘💯🤘💯🤘💯🤩🤩🤩🤩🤩😻😻😻🤴🤴🤴🤴🤴🤴🤴🤴🤴🤴🤴😎😎😎😎😎😎😎😎😎😎,0.9997,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -316,7 +316,7 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Summer vibes ☀️ 🔥,-0.34,Negative,0.0,Neutral,0.3899185955524444,Positive
 Harika,0.5719,Positive,1.0,Positive,0.2685185074806213,Neutral
 השיר מושלםםםם❤❤❤❤❤,0.5719,Positive,1.0,Positive,0.3313814401626587,Positive
-👌  WOW,0.8926,Positive,0.1,Neutral,0.5576266646385193,Positive
+👌  WOW,0.8926,Positive,0.1,Positive,0.5576266646385193,Positive
 Cute I love this Taki Taki song it’s cute but I don’t understand that lengthened,0.6808,Positive,0.5,Positive,0.5571332573890686,Positive
 The song to English kids: A song about chips,0.0,Neutral,0.0,Neutral,0.3404639363288879,Positive
 Sssss,0.0,Neutral,0.0,Neutral,0.2778123915195465,Neutral
@@ -353,11 +353,11 @@ I dont understand a word but still love this song :),0.8957,Positive,0.5,Positiv
 🤣🤣🤣🤣😚😚😚🤣🤣🤣🤣🤣🤣🤩🤗🤩🤩🤩🤩🤩🤩🤩😘😘😘😘🤭🤭🤩👍👍👍👍👍👍😇😇😇😇😇,0.9974,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Oha. Küfür,-0.0516,Negative,0.0,Neutral,0.280338317155838,Neutral
 🎖🏆🏅🥇🥈🥉⚽️⚾️🥎🏀🏐🏈🏉🥏🎳🏏🏑🏒🥍🏓🏸🥊🥋🥅⛳⛸🎣🎽🎿🛷🥌🎯🎱🔮🧿🎮🕹🎰🎲🇲🇪,0.9451,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Aduygg hcfuufjd nwkwgvhv💖💖. En français :j'adore cette chanson 💖💖,0.9831,Positive,0.25,Neutral,0.6910841464996338,Positive
+Aduygg hcfuufjd nwkwgvhv💖💖. En français :j'adore cette chanson 💖💖,0.9831,Positive,0.25,Positive,0.6910841464996338,Positive
 Mejor musiqua!!!!!!!,0.7482,Positive,1.0,Positive,0.9069384932518004,Positive
 I love u,0.6369,Positive,0.5,Positive,0.7627245187759399,Positive
 Mylokş taki taki,0.0,Neutral,0.0,Neutral,0.2533132135868072,Neutral
-Wow I love you,0.8402,Positive,0.3,Neutral,0.9414762258529664,Positive
+Wow I love you,0.8402,Positive,0.3,Positive,0.9414762258529664,Positive
 💚❤️,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 🇩🇿🇩🇿🇩🇿🇩🇿,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -387,16 +387,16 @@ Syllabus- baki baki
 Exam- faki faki
 Result- rumba
 😑😑😑",0.0,Neutral,0.0,Neutral,0.3539066016674042,Positive
-Wow cute,0.7783,Positive,0.3,Neutral,0.6974014043807983,Positive
+Wow cute,0.7783,Positive,0.3,Positive,0.6974014043807983,Positive
 Ksjskfvu y. Y que. K o kc ig,0.0,Neutral,0.0,Neutral,-0.2687819600105285,Negative
-Soy la única que habla español ?? 🤣🤣🤣❤️ Adoro,0.93,Positive,0.1666666666666666,Neutral,0.2978176474571228,Neutral
+Soy la única que habla español ?? 🤣🤣🤣❤️ Adoro,0.93,Positive,0.1666666666666666,Positive,0.2978176474571228,Neutral
 Selena thank you for making this song,0.3612,Positive,0.0,Neutral,0.6446736454963684,Positive
-I love it so much wow,0.8511,Positive,0.3,Neutral,0.9332343339920044,Positive
+I love it so much wow,0.8511,Positive,0.3,Positive,0.9332343339920044,Positive
 I am in love with this song.,0.6369,Positive,0.5,Positive,0.723533570766449,Positive
 https://youtu.be/GgkS0Z63QT8,0.0,Neutral,0.0,Neutral,0.2397964745759964,Neutral
 "Pov: ilk defa ispanyolca duyup bayılmış hatta ölmüşsündür o sırada senin sıfat:
 💥☠🤩😻
-:D😂😂😂",0.8636,Positive,0.125,Neutral,-0.3914389014244079,Negative
+:D😂😂😂",0.8636,Positive,0.125,Positive,-0.3914389014244079,Negative
 this is espanol not  spanish,0.0,Neutral,0.0,Neutral,-0.670379638671875,Negative
 ITALY<33 IS BEAUTIFUL MUSIC ♡♡ UwU,0.6841,Positive,0.85,Positive,0.6635358333587646,Positive
 Il est temps de faire du taki taki rumba à tout le monde je pense que j'ai déjà fait du bon boulot j'ai pas de choses à faire du bien mon amour je t'aime fort Julie,0.8718,Positive,0.532,Positive,0.3193068206310272,Neutral
@@ -424,11 +424,11 @@ Hi boyss lekker nummer man super cool man,0.8402,Positive,0.4277777777777777,Pos
 😷🥳,0.3818,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Dj snake always on fire,-0.34,Negative,0.0,Neutral,0.438385546207428,Positive
 حميمسني يمنيننينسننسايالسغثغثغثغثايتسنسننينينينسنسمي ان ما حدث هو ان هناك من يريد البقاء على الارض او في حال عدم وجود اي من اي طرف اخر لا بد له ان يفعل ذلك من قبل اي من الطرفين اي ان,0.0,Neutral,0.0,Neutral,-0.3241392374038696,Negative
-❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🔥🔥🔥🥵🥵🥵🥵 hot song,-0.93,Negative,0.25,Neutral,0.5492448806762695,Positive
+❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🔥🔥🔥🥵🥵🥵🥵 hot song,-0.93,Negative,0.25,Positive,0.5492448806762695,Positive
 Very nice,0.4754,Positive,0.78,Positive,0.6515336632728577,Positive
 Colll l'm very hapy,0.6115,Positive,1.0,Positive,-0.3524911105632782,Negative
 Güzel şarkı👑👑👑👑👑👑💲💵❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤🎵🎵,0.9967,Positive,0.85,Positive,0.5062244534492493,Positive
-wow ✨✨✨✨✨💕💕💕😁,0.9837,Positive,0.1,Neutral,0.6722603440284729,Positive
+wow ✨✨✨✨✨💕💕💕😁,0.9837,Positive,0.1,Positive,0.6722603440284729,Positive
 https://youtu.be/wCbefpN_TUI https://youtu.be/yVy6OOdout4 https://youtu.be/Hkt8D0-vNDc https://youtu.be/DKdTQfThSHw https://youtu.be/Qgxjrq7Z050,0.0,Neutral,0.0,Neutral,-0.2327744215726852,Negative
 ...,0.0,Neutral,0.0,Neutral,0.2558442652225494,Neutral
 Wow amazing song 👍👍👍👍🤔🤔😛😛😛,0.8225,Positive,0.35,Positive,0.8876607418060303,Positive
@@ -437,7 +437,7 @@ I LUV ME SOME SPACY FUEGO TAKIS MMM HEE IT BURN MY BREATH EHH🥵🔥👊🏿�
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "2022 LIKE
 👇",0.4995,Positive,0.0,Neutral,0.4633671641349792,Positive
-Wow i love your song,0.8402,Positive,0.3,Neutral,0.9102054238319396,Positive
+Wow i love your song,0.8402,Positive,0.3,Positive,0.9102054238319396,Positive
 "No yes no yeeeees
 Glrferxyjyrsjrysmtusmrsym wooooooooow",-0.0951,Negative,0.0,Neutral,-0.6763181686401367,Negative
 mmmmmmmmmmmmmmmmmmmmmmyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy fffffffffffffffffffffffffffffffffffffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuutttttttttttttttttttttttttttttttttttttttttttttttttt,0.0,Neutral,0.0,Neutral,-0.3524270951747894,Negative
@@ -459,7 +459,7 @@ Yes sir cardiiiiiii bitch u got da best line no cap boo,0.2263,Positive,1.0,Posi
 https://youtube.com/channel/UC-4bmonuHQ7_NEb6ii0YClQ,0.0,Neutral,0.0,Neutral,-0.2453927248716354,Negative
 😃😎😁😁😁,0.926,Positive,0.0,Neutral,0.3085779249668121,Neutral
 3года назад десең ия,0.0,Neutral,0.0,Neutral,-0.3876676261425018,Negative
-Mipiace molto questo canzone ❤️💜💙🖤💛❤️🧡😍🤪🤩😚🙂😘🎎😝😊😝😒🎎,0.9918,Positive,0.2,Neutral,0.5704342126846313,Positive
+Mipiace molto questo canzone ❤️💜💙🖤💛❤️🧡😍🤪🤩😚🙂😘🎎😝😊😝😒🎎,0.9918,Positive,0.2,Positive,0.5704342126846313,Positive
 WASHINGTON,0.0,Neutral,0.0,Neutral,0.300607830286026,Neutral
 WASHINGTON,0.0,Neutral,0.0,Neutral,0.300607830286026,Neutral
 WASHINGTON,0.0,Neutral,0.0,Neutral,0.300607830286026,Neutral
@@ -478,7 +478,7 @@ I'm from oromo,0.0,Neutral,0.0,Neutral,-0.2618399560451507,Negative
 ♥♥♥♥♥♥♥♥♥♥♥💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥,0.9997,Positive,0.0,Neutral,0.3085779249668121,Neutral
 very very good,0.5379,Positive,0.91,Positive,0.660790741443634,Positive
 its amazing😻,0.7783,Positive,0.0,Neutral,0.3008759319782257,Neutral
-Wow müzik pro,0.5859,Positive,0.1,Neutral,0.7029696106910706,Positive
+Wow müzik pro,0.5859,Positive,0.1,Positive,0.7029696106910706,Positive
 Hhrhzوفی,0.0,Neutral,0.0,Neutral,0.2228671014308929,Neutral
 قف,0.0,Neutral,0.0,Neutral,-0.2586595118045807,Negative
 Que linda músice wow😊🤩,0.9287,Positive,0.475,Positive,0.3403604924678802,Positive
@@ -488,7 +488,7 @@ HAHAHAHAHAHAHA MARIS NOOOOOOOOOOOOOOO,0.0,Neutral,0.0,Neutral,-0.274620562791824
 OMG TAKO MARI MARI BAXTURIZEE OMG OMG O.M.G,0.0,Neutral,0.0,Neutral,0.2877038419246673,Neutral
 Ik en mijn  zus dansen,0.0,Neutral,0.0,Neutral,0.4602807164192199,Positive
 Quả nhạc quá cuốn,0.0,Neutral,0.0,Neutral,0.2303760647773742,Neutral
-Wow 😍🥰🥰🥰,0.9829,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow 😍🥰🥰🥰,0.9829,Positive,0.1,Positive,0.6722603440284729,Positive
 PAULINE LELUOP,0.0,Neutral,0.0,Neutral,0.273944616317749,Neutral
 Where is everybody listening from?💖💗💝❤️❣️💟💕💞💓,0.9891,Positive,0.0,Neutral,-0.401590883731842,Negative
 Video download kora jayna  keno,0.0,Neutral,0.0,Neutral,0.2625097036361694,Neutral
@@ -517,7 +517,7 @@ Looooooove it,0.0,Neutral,0.0,Neutral,-0.4593146741390228,Negative
 😙😍🤩esta es mi musica,0.8658,Positive,0.0,Neutral,0.5297163724899292,Positive
 😄😀😃😁😆🤸,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🤑🤑🤑🤗🤗🤗🤗🤗🤗🤗😅😅😅😅😅😅😅😁😃😆😃😅😀😆😃😁😁😃😆🙃😅😀,0.9964,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This  song  very got,0.0,Neutral,0.2,Neutral,0.5978876948356628,Positive
+This  song  very got,0.0,Neutral,0.2,Positive,0.5978876948356628,Positive
 tek türk benim herld,0.0,Neutral,0.0,Neutral,-0.4013272523880005,Negative
 Que linda música 👍❤️💜💙💐🌷💐🌷,0.9231,Positive,0.85,Positive,0.368475466966629,Positive
 I love taki taki and you i love you,0.8555,Positive,0.5,Positive,0.8849403262138367,Positive
@@ -529,7 +529,7 @@ minuto 0:20,0.0,Neutral,0.0,Neutral,-0.5992487072944641,Negative
 dcxcc,0.0,Neutral,0.0,Neutral,0.2546192109584808,Neutral
 I love it ! The song wow !,0.8619,Positive,0.375,Positive,0.9116361737251282,Positive
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
-Lekker lietje,0.4215,Positive,0.15,Neutral,0.4201782047748565,Positive
+Lekker lietje,0.4215,Positive,0.15,Positive,0.4201782047748565,Positive
 Yesssssssssssssssssssssssssssss🤤🤤🤤🤤🤤🤤🤤🤤,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 So cooll,0.3804,Positive,0.35,Positive,0.5332704186439514,Positive
 Hi🖤👋💛,0.9118,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -545,28 +545,28 @@ Taki taki💃🕺,0.0,Neutral,0.0,Neutral,0.4432399272918701,Positive
 ♥♥♥👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍💗💗💗💗💗💗💗💲💲💲💲💲💲💲💲💲💲💲💲💲👍👍👍👍👍👍👍👍👍,0.9945,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ууууууууууууууу👍👍👍👍👍👍💖💖💖💖😜😜😜😀,0.9801,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Taki taki rumba 😁😁😁,0.8402,Positive,0.0,Neutral,0.2971040904521942,Neutral
-Oldukça eğlenceliydi,0.7579,Positive,0.275,Neutral,0.6445803046226501,Positive
+Oldukça eğlenceliydi,0.7579,Positive,0.275,Positive,0.6445803046226501,Positive
 "i ryumeni
 +",0.0,Neutral,0.0,Neutral,0.2471993118524551,Neutral
 "Simatsima
 Ttu😂🤣🤣",0.8519,Positive,0.0,Neutral,0.2441950589418411,Neutral
 😂😂🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣,0.9938,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Waaw so cute,0.796,Positive,0.3,Neutral,0.3700689673423767,Positive
+Waaw so cute,0.796,Positive,0.3,Positive,0.3700689673423767,Positive
 From keonjhar,0.0,Neutral,0.0,Neutral,0.2519549429416656,Neutral
 so good,0.4927,Positive,0.7,Positive,0.6291981339454651,Positive
-wow 🤩🤩🤩,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+wow 🤩🤩🤩,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 Selena Gomez 🔥🔥🔥🔥🔥🔥🔥🔥,-0.9451,Negative,0.0,Neutral,0.4162715971469879,Positive
 buootfull,0.0,Neutral,0.0,Neutral,-0.3138632178306579,Negative
 Y,0.0,Neutral,0.0,Neutral,0.3310393095016479,Positive
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I don’t even know Spanish and I love this song,0.6369,Positive,0.25,Neutral,0.8619821667671204,Positive
-Omy Good wow,0.7096,Positive,0.1,Neutral,0.4966363310813904,Positive
+I don’t even know Spanish and I love this song,0.6369,Positive,0.25,Positive,0.8619821667671204,Positive
+Omy Good wow,0.7096,Positive,0.1,Positive,0.4966363310813904,Positive
 $$🌏🖼😅😅😅😅,0.8402,Positive,0.0,Neutral,-0.3010234832763672,Negative
-Wow Dr,0.5859,Positive,0.1,Neutral,0.6562857031822205,Positive
+Wow Dr,0.5859,Positive,0.1,Positive,0.6562857031822205,Positive
 ME ENCANTA ESA MUSICA ME GANE UNA MEDALLA,0.9001,Positive,0.5,Positive,0.7146958112716675,Positive
 "DG Snak 🇩🇿🇩🇿🇩🇿🇩🇿 me🇩🇿🇩🇿🇩🇿🇩🇿
 😎😎😎😎😎😎😎😎😎😎😎😎",0.9872,Positive,0.0,Neutral,0.2732388973236084,Neutral
-I miss hearing this from the Robloxian high school old update,-0.1531,Negative,0.13,Neutral,0.3242043554782867,Neutral
+I miss hearing this from the Robloxian high school old update,-0.1531,Negative,0.13,Positive,0.3242043554782867,Neutral
 1:10,0.0,Neutral,0.0,Neutral,-0.2547508776187897,Negative
 I love the song so much,0.6369,Positive,0.35,Positive,0.7796141505241394,Positive
 i love this song so much!,0.6696,Positive,0.375,Positive,0.9030165076255798,Positive
@@ -598,15 +598,15 @@ Amazing song 🤩💝🤘👏,0.8402,Positive,0.6000000000000001,Positive,0.8180
 Wawwwwww,0.0,Neutral,0.0,Neutral,0.2175658196210861,Neutral
 I know,0.0,Neutral,0.0,Neutral,0.3788527250289917,Positive
 Taki taki song making for?,0.0,Neutral,0.0,Neutral,-0.2868370413780212,Negative
-busy,0.0,Neutral,0.1,Neutral,0.4064187109470367,Positive
-DOBRE,0.0,Neutral,0.2857142857142857,Neutral,0.4012185931205749,Positive
+busy,0.0,Neutral,0.1,Positive,0.4064187109470367,Positive
+DOBRE,0.0,Neutral,0.2857142857142857,Positive,0.4012185931205749,Positive
 ❤️❤️❤️❤️😁,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Bcbbcbfbcbfbb,0.0,Neutral,0.0,Neutral,0.2765458822250366,Neutral
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 Oawjdhdkklxihkihfhjkdkhhdzlkz😃😃😃😃😃SkvhchdYshdhuaiao😃😃😃😃👍👍👍👍,0.9612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 O😃🌜,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-Wl Baltmannsweiler como und taki taki wo oh oh Barde well my Peggy He seid im Kindergarten richtig haha,0.6249,Positive,0.2428571428571428,Neutral,0.5304948091506958,Positive
+Wl Baltmannsweiler como und taki taki wo oh oh Barde well my Peggy He seid im Kindergarten richtig haha,0.6249,Positive,0.2428571428571428,Positive,0.5304948091506958,Positive
 Perfecto 👍👌,0.87,Positive,1.0,Positive,0.8678793907165527,Positive
 I m listening  from U S A,0.0,Neutral,0.0,Neutral,0.3406952023506164,Positive
 Love it ❤️,0.6369,Positive,0.5,Positive,0.8467325568199158,Positive
@@ -626,12 +626,12 @@ its 2022 lets see how many legends listening this song,0.0,Neutral,0.5,Positive,
 שיר מהמהם,0.0,Neutral,0.0,Neutral,0.3776504397392273,Positive
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
-6 yasımdan beri severek izliyorum şu an 11 yasımda olsam bile bu şarkı benim favorum...,0.0,Neutral,0.1,Neutral,0.5989508628845215,Positive
+6 yasımdan beri severek izliyorum şu an 11 yasımda olsam bile bu şarkı benim favorum...,0.0,Neutral,0.1,Positive,0.5989508628845215,Positive
 good  job,0.4404,Positive,0.7,Positive,0.5159298777580261,Positive
 Enber🤘🤘🤘🤟🤟🤟😜😜,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Спс,0.0,Neutral,0.0,Neutral,0.2840217649936676,Neutral
 Hjj,0.0,Neutral,0.0,Neutral,0.2497928738594055,Neutral
-Me ancanta esta cancion. I love this song in english,0.6369,Positive,0.25,Neutral,0.7148134708404541,Positive
+Me ancanta esta cancion. I love this song in english,0.6369,Positive,0.25,Positive,0.7148134708404541,Positive
 Me:Ima put this on 2x speed :),0.4588,Positive,0.5,Positive,0.5880773663520813,Positive
 😍💘🤣😏❤️💋💋💋😘,0.9666,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Nunca te voy a dejar de amar taki taki,-0.3089,Negative,0.6,Positive,-0.3394406735897064,Negative
@@ -670,7 +670,7 @@ Yo escuchando este tema en 2022 😅🤪🥰,0.8689,Positive,0.0,Neutral,0.50600
 Love your music,0.6369,Positive,0.5,Positive,0.7805993556976318,Positive
 "Fun Fact: Is that only one me who can only sing taki taki irumba without knowing meaning ?😂
 But it’s  feel so fun. Or just excellent song.
-This song make us smile.✌️",0.9599,Positive,0.32,Neutral,0.5566539168357849,Positive
+This song make us smile.✌️",0.9599,Positive,0.32,Positive,0.5566539168357849,Positive
 me encanta esta cancion,0.6369,Positive,0.5,Positive,0.7601157426834106,Positive
 Selena's voice is,0.0,Neutral,0.0,Neutral,0.2980337738990783,Neutral
 Hint,0.0,Neutral,0.0,Neutral,0.2732405960559845,Neutral

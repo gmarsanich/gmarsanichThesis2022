@@ -3,7 +3,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 But stream the song",0.4102,Positive,0.0,Neutral,-0.5610515475273132,Negative
 are me clown huu,0.0,Neutral,0.0,Neutral,0.3095214366912842,Neutral
 💜💜💜💜💜,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Please keep using “SHAZAM” with all BTS’ Music!! Thanks!!,0.7482,Positive,0.3125,Neutral,0.4431249499320984,Positive
+Please keep using “SHAZAM” with all BTS’ Music!! Thanks!!,0.7482,Positive,0.3125,Positive,0.4431249499320984,Positive
 Armys how's the Josh ?,0.0,Neutral,0.0,Neutral,0.2292591333389282,Neutral
 Bus or Train,0.0,Neutral,0.0,Neutral,0.2771400809288025,Neutral
 Plane or Boat,0.0,Neutral,0.0,Neutral,0.3032629191875458,Neutral
@@ -20,9 +20,9 @@ Am back again~,0.0,Neutral,0.0,Neutral,0.505879819393158,Positive
 Baby I AM not even here,0.0,Neutral,0.0,Neutral,-0.566663384437561,Negative
 Ghostie is back again ^~^,0.0,Neutral,0.0,Neutral,0.3049415051937103,Neutral
 Why comment section got soo silent suddenly,0.0,Neutral,0.0,Neutral,-0.3718409538269043,Negative
-Hello bhaiyo aur baheno jinda ho??,0.4515,Positive,0.1,Neutral,-0.4401577711105346,Negative
+Hello bhaiyo aur baheno jinda ho??,0.4515,Positive,0.1,Positive,-0.4401577711105346,Negative
 How to join bts airforce?,0.296,Positive,0.0,Neutral,0.2274907380342483,Neutral
-I have been occupying my friends and relatives phones to make it 2b it's of no use 0.5 b still so much but there is no such thing that armies can't do for bts....... who agrees with me!!!!!!!!,-0.3222,Negative,0.1,Neutral,0.2812543213367462,Neutral
+I have been occupying my friends and relatives phones to make it 2b it's of no use 0.5 b still so much but there is no such thing that armies can't do for bts....... who agrees with me!!!!!!!!,-0.3222,Negative,0.1,Positive,0.2812543213367462,Neutral
 "Spending time with 
 Family or Friend's",0.0,Neutral,0.0,Neutral,0.3813340961933136,Positive
 bye everyone!,0.0,Neutral,0.0,Neutral,0.6942353248596191,Positive
@@ -43,25 +43,25 @@ Tr : Are you all dead?",-0.6868,Negative,-0.2,Negative,-0.6845596432685852,Negat
 Tattoos or piercing,0.0,Neutral,0.0,Neutral,-0.2955308258533478,Negative
 Babeo,0.0,Neutral,0.0,Neutral,0.24498051404953,Neutral
 I lovee uuu!,0.0,Neutral,0.0,Neutral,0.8035087585449219,Positive
-Curly or Straight hair's,0.2263,Positive,0.2,Neutral,0.3584739863872528,Positive
-Sour or Sweet,0.4588,Positive,0.0999999999999999,Neutral,0.3394600749015808,Positive
+Curly or Straight hair's,0.2263,Positive,0.2,Positive,0.3584739863872528,Positive
+Sour or Sweet,0.4588,Positive,0.0999999999999999,Positive,0.3394600749015808,Positive
 "Jinko horror movie pasand hai voh batao 
 Annabelle or The nun
 Please koi kanchana mat kehna 😂",-0.34,Negative,0.0,Neutral,0.3249612152576446,Neutral
 민윤기 너 좋아해,0.3612,Positive,0.0,Neutral,0.320906400680542,Neutral
 Pepsi or Sprite,0.0,Neutral,0.0,Neutral,0.2798608243465423,Neutral
 Instagram or Facebook,0.0,Neutral,0.0,Neutral,0.2406599223613739,Neutral
-Horror movie or Funny movie,-0.2023,Negative,0.25,Neutral,0.3263528048992157,Neutral
+Horror movie or Funny movie,-0.2023,Negative,0.25,Positive,0.3263528048992157,Neutral
 Yes 💖,0.8442,Positive,0.0,Neutral,0.4372713267803192,Positive
 oh my my my - ♡,0.0,Neutral,0.0,Neutral,0.6930837631225586,Positive
 다들 뭐해,0.0,Neutral,0.0,Neutral,-0.2631889283657074,Negative
 Cats or Dogs,0.0,Neutral,0.0,Neutral,0.2418927997350692,Neutral
 BTS,0.0,Neutral,0.0,Neutral,0.3629164099693298,Positive
 "Hello how are you I am under the water please help me here too much rainy 
-Uwuluwu",0.5719,Positive,0.2,Neutral,0.3138960003852844,Neutral
+Uwuluwu",0.5719,Positive,0.2,Positive,0.3138960003852844,Neutral
 언제나처럼 최고 수준의 방탄소년단,0.6369,Positive,1.0,Positive,0.6448734402656555,Positive
 Morning or Night,0.0,Neutral,0.0,Neutral,0.2675337791442871,Neutral
-This song never gets old,0.0,Neutral,0.1,Neutral,0.4263049066066742,Positive
+This song never gets old,0.0,Neutral,0.1,Positive,0.4263049066066742,Positive
 Beach or Mountain,0.0,Neutral,0.0,Neutral,0.2725962400436401,Neutral
 papi,0.0,Neutral,0.0,Neutral,0.2472496181726455,Neutral
 Summer or Winter,0.0,Neutral,0.0,Neutral,0.3563069701194763,Positive
@@ -75,7 +75,7 @@ Why is no one here?,-0.296,Negative,0.0,Neutral,-0.5384527444839478,Negative
 Coffee or Tea,0.0,Neutral,0.0,Neutral,0.2761089205741882,Neutral
 Let's take this to 2B!!,0.0,Neutral,0.0,Neutral,0.2534943521022796,Neutral
 Who am i ? :/,-0.34,Negative,-0.25,Negative,0.3347650468349457,Positive
-Let's fast complete 2b views,0.0,Neutral,0.15,Neutral,0.5395445823669434,Positive
+Let's fast complete 2b views,0.0,Neutral,0.15,Positive,0.5395445823669434,Positive
 Snow or Rain,0.0,Neutral,0.0,Neutral,0.2863506376743316,Neutral
 hblo,0.0,Neutral,0.0,Neutral,0.2469654679298401,Neutral
 Let's play this or that,0.34,Positive,0.0,Neutral,0.4446538388729095,Positive
@@ -92,7 +92,7 @@ BTS_obsessed where r u,0.0,Neutral,0.0,Neutral,0.2602255940437317,Neutral
 "0:39
 🥵🥵",0.0,Neutral,0.0,Neutral,-0.4335126280784607,Negative
 Sky is blue or white,0.0,Neutral,0.0,Neutral,0.3493606150150299,Positive
-Tum sab jinda hote ho ya marne ka hi plan hai,-0.3182,Negative,0.1,Neutral,-0.3300097286701202,Negative
+Tum sab jinda hote ho ya marne ka hi plan hai,-0.3182,Negative,0.1,Positive,-0.3300097286701202,Negative
 YOONGI MARRY ME,0.0,Neutral,0.0,Neutral,0.3743135035037994,Positive
 Me encata j hope 💜💜,0.9062,Positive,0.0,Neutral,0.4145096242427826,Positive
 Come be my teacher,0.0,Neutral,0.0,Neutral,0.6498174667358398,Positive
@@ -148,7 +148,7 @@ hey i am siddhi,0.0,Neutral,0.0,Neutral,0.4158578813076019,Positive
 Hint - you all call her unnie and cute
 
 Answer - cutemagic_07🙂",0.6915,Positive,0.5,Positive,0.2407285720109939,Neutral
-Clown you know very well how to flirt . username hi change kar dala (͡° ͜ʖ ͡°),0.3384,Positive,0.2,Neutral,0.3238138258457184,Neutral
+Clown you know very well how to flirt . username hi change kar dala (͡° ͜ʖ ͡°),0.3384,Positive,0.2,Positive,0.3238138258457184,Neutral
 Ab ye I love you kon hai ?,0.6369,Positive,0.5,Positive,0.4378774762153625,Positive
 I feel relived after doing boring study all day awahahah ( ´ ▽ ` )ﾉ,0.0772,Positive,-1.0,Negative,-0.3341751992702484,Negative
 'kookonme' unique name 😂,0.4404,Positive,0.375,Positive,0.3859004974365234,Positive
@@ -169,7 +169,7 @@ Hey zxc and clown are same person ? How,0.0,Neutral,0.0,Neutral,-0.4255501627922
 Clown are you here,0.0,Neutral,0.0,Neutral,0.3504024446010589,Positive
 I was not here since morning because my mom is so stubborn and told me to study ╥﹏╥,-0.541,Negative,0.0,Neutral,-0.3036597669124603,Negative
 Who is Kim 1 bahi,0.0,Neutral,0.0,Neutral,-0.4064860641956329,Negative
-Who is ghost ? Please whoever new here introduce yourself,0.0,Neutral,0.1363636363636363,Neutral,-0.3310779631137848,Negative
+Who is ghost ? Please whoever new here introduce yourself,0.0,Neutral,0.1363636363636363,Positive,-0.3310779631137848,Negative
 "JOSH I STILL FEEL LIKE U HERE, you didn't go study.... u here??",0.5563,Positive,0.0,Neutral,0.247121974825859,Neutral
 This ghost is boredd :/,-0.7003,Negative,-0.375,Negative,-0.7321480512619019,Negative
 Comment section ko bich bich mai kuch ho jata h kya roz roz Marr jata h bich bich mai,-0.5994,Negative,-0.1,Negative,0.3187263906002044,Neutral
@@ -183,7 +183,7 @@ Ye cs kya hota hai ?,0.0,Neutral,0.0,Neutral,-0.3520468473434448,Negative
 who is Eric?,0.0,Neutral,0.0,Neutral,0.2557818591594696,Neutral
 "Where is army's diary ? Josh , clown , vista ??? Turfrated amee , taehyung's wifeyy , Kim etc",0.0,Neutral,0.0,Neutral,-0.4201000034809112,Negative
 Where is Bready?,0.0,Neutral,0.0,Neutral,-0.2811101078987121,Negative
-Babies... Eomma will be back soon! Don't have too much fun without me,0.5562,Positive,0.15,Neutral,0.2558319866657257,Neutral
+Babies... Eomma will be back soon! Don't have too much fun without me,0.5562,Positive,0.15,Positive,0.2558319866657257,Neutral
 Nostalgia hitting hard,-0.1027,Negative,-0.2916666666666667,Negative,0.4007390141487121,Positive
 Josh?,0.0,Neutral,0.0,Neutral,0.307319700717926,Neutral
 I have something to tell . well I have pop up camera phone and wherever I open it my phone gets off . aur aj to had hi hogaya jab tak phone charge me nahi lagati nahi chalta someone help me pls ╥﹏╥,0.6249,Positive,0.0,Neutral,-0.437103807926178,Negative
@@ -191,7 +191,7 @@ I have something to tell . well I have pop up camera phone and wherever I open i
 Lovely,0.5859,Positive,0.5,Positive,0.5615791082382202,Positive
 Phone or BTS?,0.0,Neutral,0.0,Neutral,0.2813197672367096,Neutral
 "What is your ambition?
-My ambition is to be a successful hard working Kpop idol",0.5267,Positive,0.2291666666666666,Neutral,0.3173996806144714,Neutral
+My ambition is to be a successful hard working Kpop idol",0.5267,Positive,0.2291666666666666,Positive,0.3173996806144714,Neutral
 Hlooooooooo ? :/,-0.34,Negative,-0.25,Negative,-0.3401604890823364,Negative
 "What is your favorite number?
 Mine is 3",0.5106,Positive,0.5,Positive,0.5674328207969666,Positive
@@ -210,7 +210,7 @@ Eid Mubarak dear bangtans😍❤️💜💜love you boys,0.8689,Positive,0.0,Neu
 Anybody here ?,0.0,Neutral,0.0,Neutral,-0.4286339282989502,Negative
 Chocolate eonnie is also not here and maybe @ARMY OT7 is not here tooo,0.0,Neutral,0.0,Neutral,-0.3997163772583008,Negative
 I know,0.0,Neutral,0.0,Neutral,0.3788527250289917,Positive
-Guys I am back again ;),0.2263,Positive,0.125,Neutral,0.5534853935241699,Positive
+Guys I am back again ;),0.2263,Positive,0.125,Positive,0.5534853935241699,Positive
 BTS obsessed be like meko Jana padega meko Jane padega,-0.1779,Negative,-0.5,Negative,0.2453276813030243,Neutral
 We want BTS x blackpink pls support blinks and amry,0.5106,Positive,0.0,Neutral,0.3597163259983063,Positive
 Ye comment section kam aur shadi vivah ka jagah ban gya hai,0.0,Neutral,-0.1666666666666666,Negative,-0.2587902545928955,Negative
@@ -240,7 +240,7 @@ Yt if u love me don't delete my comments!,0.6696,Positive,0.625,Positive,0.51914
 "Ice-cream khaugii Kashmir jauge 
 
 Oohhhvoo",0.0,Neutral,0.0,Neutral,-0.2808423936367035,Negative
-JoJo where are you  I'm  finding u on Uranus now tell me your address fast,0.0,Neutral,0.2,Neutral,0.468284398317337,Positive
+JoJo where are you  I'm  finding u on Uranus now tell me your address fast,0.0,Neutral,0.2,Positive,0.468284398317337,Positive
 I am back after sleeping almost 2 hours ^_^,0.0,Neutral,0.0,Neutral,-0.4499724507331848,Negative
 Helloo!,0.0,Neutral,0.0,Neutral,0.5136786103248596,Positive
 I'm backk!,0.0,Neutral,0.0,Neutral,-0.3698704242706299,Negative
@@ -254,7 +254,7 @@ Babies... Can you call me Eomma? 🙃(I love the word Eomma... That's why I told
 1508M up up,0.0,Neutral,0.0,Neutral,-0.2479731738567352,Negative
 1.5 Billion 👏👏👏,0.0,Neutral,0.0,Neutral,-0.4529865086078644,Negative
 BTS 💖💖💖,0.9595,Positive,0.0,Neutral,0.3904065191745758,Positive
-"I always come at a wrong time, I am going.. Bye enjoy!! ;)",0.3786,Positive,0.125,Neutral,0.693571925163269,Positive
+"I always come at a wrong time, I am going.. Bye enjoy!! ;)",0.3786,Positive,0.125,Positive,0.693571925163269,Positive
 What am I doing here bro?? Lol I don't understand anything,0.4871,Positive,0.8,Positive,-0.4675750732421875,Negative
 "Better ?
 How-
@@ -293,7 +293,7 @@ Jk,0.2263,Positive,0.0,Neutral,0.2492271512746811,Neutral
 Refreshing again and again but no comments....-_-,-0.4215,Negative,0.5,Positive,0.3906721770763397,Positive
 韓国語勉強してるからせっかくなら韓国のアイドルも覚えたいと思って来た((遅,0.0,Neutral,-0.3,Negative,0.264446347951889,Neutral
 "Im not Japanese and doesn't want to learn too-
-Better you know I used translator",0.3975,Positive,0.25,Neutral,-0.4103686511516571,Negative
+Better you know I used translator",0.3975,Positive,0.25,Positive,-0.4103686511516571,Negative
 Ian sorry,-0.0772,Negative,-0.5,Negative,-0.4265457689762115,Negative
 "MAI CHALI TT 
 aakey scrolling krungi <3 byee miss mee",0.3182,Positive,1.0,Positive,0.3257223963737488,Neutral
@@ -317,13 +317,13 @@ Love myself 5494,0.6369,Positive,0.5,Positive,0.7371355295181274,Positive
 Amee... You here?,0.0,Neutral,0.0,Neutral,-0.3458134829998016,Negative
 "Hahah you don't like talking directly even now 
 After the things I wrote and know -
-Funny ppl funny ppl",0.5705,Positive,0.1999999999999999,Neutral,0.22994926571846,Neutral
+Funny ppl funny ppl",0.5705,Positive,0.1999999999999999,Positive,0.22994926571846,Neutral
 bulate hai magar jane ka nai😅,0.0,Neutral,0.0,Neutral,-0.4720857739448547,Negative
 Here we go  again,0.0,Neutral,0.0,Neutral,0.5160847306251526,Positive
 "Hahaha 
 Oh yeah ~
 Rest of you amis where r y'all 
-<9?",0.7003,Positive,0.2,Neutral,-0.4405272603034973,Negative
+<9?",0.7003,Positive,0.2,Positive,-0.4405272603034973,Negative
 "I'm so happy to write those shitz and make some of you read 
 I still know you don't fkngcre 
 Yeah 
@@ -333,11 +333,11 @@ hay quá cơ,0.4927,Positive,0.7,Positive,0.2487479001283645,Neutral
 <9?
 Oh yeah oh yeah",0.5267,Positive,0.0,Neutral,0.5031694769859314,Positive
 "Hi ,yo , hello, Namaste, annyeong",0.0,Neutral,0.0,Neutral,-0.4272139370441437,Negative
-I thought I'm a baby till now bt recently I have gotten a marriage proposal:(Ain't I still a baby? How is it possible to get married at this age!☹,-0.4003,Negative,0.0833333333333333,Neutral,0.244860753417015,Neutral
-Your all comments are deleting bc you all are commenting too much while st43@ming,0.0,Neutral,0.2,Neutral,-0.5417391657829285,Negative
+I thought I'm a baby till now bt recently I have gotten a marriage proposal:(Ain't I still a baby? How is it possible to get married at this age!☹,-0.4003,Negative,0.0833333333333333,Positive,0.244860753417015,Neutral
+Your all comments are deleting bc you all are commenting too much while st43@ming,0.0,Neutral,0.2,Positive,-0.5417391657829285,Negative
 Yt,0.0,Neutral,0.0,Neutral,0.2952286899089813,Neutral
 Guys....you know what happened?,0.0,Neutral,0.0,Neutral,-0.3295925557613373,Negative
-Your all comments are deleting bc you all are commenting too much while st43@ming,0.0,Neutral,0.2,Neutral,-0.5417391657829285,Negative
+Your all comments are deleting bc you all are commenting too much while st43@ming,0.0,Neutral,0.2,Positive,-0.5417391657829285,Negative
 Tutututututututy,0.0,Neutral,0.0,Neutral,0.2658432424068451,Neutral
 Do you know guys about Chand raat?,0.0,Neutral,0.0,Neutral,-0.2600598037242889,Negative
 V is my angel,0.0,Neutral,0.0,Neutral,0.6069572567939758,Positive
@@ -345,7 +345,7 @@ Jack1 and Jack2.. Are you here?,0.0,Neutral,0.0,Neutral,-0.2972228527069092,Nega
 Yt f u,0.0,Neutral,0.0,Neutral,0.2428739517927169,Neutral
 JOSH I KNOW YOU HERE-,0.0,Neutral,0.0,Neutral,0.4605863690376282,Positive
 Can y'all see my comment? T.T,0.0,Neutral,0.0,Neutral,-0.3955644965171814,Negative
-YouTube I love u please don't disable my fourth account,0.7579,Positive,0.25,Neutral,0.8221948146820068,Positive
+YouTube I love u please don't disable my fourth account,0.7579,Positive,0.25,Positive,0.8221948146820068,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 GAGAGAGAGAG,0.0,Neutral,0.0,Neutral,0.2549468874931335,Neutral
 Yt f u,0.0,Neutral,0.0,Neutral,0.2428739517927169,Neutral
@@ -355,13 +355,13 @@ Our goal is to make them reach 2 billion before their 9 anniversary and it will 
 I feel useless and 
 ""cHilDisH""
 After sharing that shitz lol 
-Iluvhwudntcre <?",0.1531,Positive,0.0333333333333333,Neutral,-0.6868156790733337,Negative
+Iluvhwudntcre <?",0.1531,Positive,0.0333333333333333,Positive,-0.6868156790733337,Negative
 Mar gye Sab :(,0.0,Neutral,0.0,Neutral,0.2770388126373291,Neutral
 "@Cutemagic_07 I miss you unnie you are only person who was nice to me ......
 Everyone ignored me 😭
 I am leaving I am going to nice people......
 ~See you later boy see you later later, 
- See you later maybe never ~",-0.1027,Negative,0.1714285714285714,Neutral,-0.4079164564609527,Negative
+ See you later maybe never ~",-0.1027,Negative,0.1714285714285714,Positive,-0.4079164564609527,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Zinda hu main :),0.4588,Positive,0.3333333333333333,Positive,0.2649571597576141,Neutral
 "OMG TT  TT  TT 
@@ -377,7 +377,7 @@ I am waiting when will it  have 2b views,0.0,Neutral,0.0,Neutral,0.3310724794864
 disgResTinG,0.0,Neutral,0.0,Neutral,-0.4463869631290436,Negative
 Ahh can somebody throw me to Pakistan? TT  TT  TT,0.0,Neutral,0.0,Neutral,-0.6000298261642456,Negative
 Come on BANGLADESHI Army we can do it 🇧🇩🇧🇩🇧🇩🇧🇩💜 Target on 2B views in this MV,0.6369,Positive,0.0,Neutral,0.5210148692131042,Positive
-اغنية قديمة بس حلى وتعجبني لين ذحين انا ارمي وح بتس اعشق شي اسمه جيهوب بس ولله بس في شي ان اغنية في هالسي بس هالسي مغنت تعاون ولا بس جيبينه عشان تصوير مفهمت 🥹😫🫣😭😭😭😭😭,-0.9186,Negative,0.3166666666666666,Neutral,-0.2777413129806518,Negative
+اغنية قديمة بس حلى وتعجبني لين ذحين انا ارمي وح بتس اعشق شي اسمه جيهوب بس ولله بس في شي ان اغنية في هالسي بس هالسي مغنت تعاون ولا بس جيبينه عشان تصوير مفهمت 🥹😫🫣😭😭😭😭😭,-0.9186,Negative,0.3166666666666666,Positive,-0.2777413129806518,Negative
 Aye hye ye eululu china ka he isliye kutta khane ki baat krra he,0.0,Neutral,0.0,Neutral,-0.3948851525783539,Negative
 Like lund,0.3612,Positive,0.0,Neutral,0.3671119213104248,Positive
 Oh my my my oh my my my,0.0,Neutral,0.0,Neutral,0.6878246665000916,Positive
@@ -392,7 +392,7 @@ BYEE~,0.0,Neutral,0.0,Neutral,0.2620047330856323,Neutral
 Congrats on 1.5b views  I purple you BTS . BTS for lifeee💜💜💜💜💜💜,0.9843,Positive,0.0,Neutral,-0.2698084414005279,Negative
 JOSHHHHH--,0.0,Neutral,0.0,Neutral,-0.3330954015254974,Negative
 💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Army where are youu’ comeback is near,0.0,Neutral,0.1,Neutral,0.3042131662368774,Neutral
+Army where are youu’ comeback is near,0.0,Neutral,0.1,Positive,0.3042131662368774,Neutral
 💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜RM💜💜💜💜💜💜💜💜💜💜💜💜JIN💜💜💜💜💜💜💜💜💜JIMIN💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜V💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜JK💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜J HOPE💜💜💜💜💜💜💜💜💜💜💜💜💜💜suga💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜,1.0,Positive,0.0,Neutral,0.3428077399730682,Positive
 "Jin: Hey Suga I would tell you a joke about construction
 Suga: What?
@@ -431,12 +431,12 @@ how to roast haters without roasting,-0.4939,Negative,0.0,Neutral,0.435802459716
 "Jin: What if I hit your head with a can of sprite?
 Hobi: Hyung! Why would you even do that? I may get injured.
 Jin: Na, You'll be fine cause it's a soft drink
-Hobi: ......",-0.372,Negative,0.2583333333333333,Neutral,0.3063696622848511,Neutral
-Abe nashe kr bhi rhe ho to dhanke Karo jisse hosh me to rhe ke kroge baat ye local wale kroge to esa hie rhega haal,0.0,Neutral,0.0333333333333333,Neutral,-0.433809220790863,Negative
+Hobi: ......",-0.372,Negative,0.2583333333333333,Positive,0.3063696622848511,Neutral
+Abe nashe kr bhi rhe ho to dhanke Karo jisse hosh me to rhe ke kroge baat ye local wale kroge to esa hie rhega haal,0.0,Neutral,0.0333333333333333,Positive,-0.433809220790863,Negative
 pata Nahi konse saste Nashe Karke aajate h ye log yaha par,0.0,Neutral,0.4,Positive,0.2982880473136902,Neutral
 Jack1 (Josh) and Jack 2(Clown) ~~~catch ya later babies.Don't forget your names given by me,0.1695,Positive,0.0,Neutral,0.4058762192726135,Positive
 Hi army's,0.0,Neutral,0.0,Neutral,0.2949849665164947,Neutral
-I am feeling weird lmao,0.5719,Positive,0.0499999999999999,Neutral,0.3377229571342468,Positive
+I am feeling weird lmao,0.5719,Positive,0.0499999999999999,Positive,0.3377229571342468,Positive
 Hi ARMYs I'm back.,0.0,Neutral,0.0,Neutral,-0.2606553733348846,Negative
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
 Koi baat nhi kr ra.. Mai ja rii ab TT,0.0,Neutral,0.0,Neutral,-0.4703116714954376,Negative
@@ -452,7 +452,7 @@ why u all r so moody,-0.5009,Negative,0.0,Neutral,-0.3297542929649353,Negative
 Josh : Flying to Korea at the lights speed
 Unnie : Josh.. Will you be my Jack?
 Josh : Bt you're my sister.
-Wow Jack wow... Watta discrimination!",0.8501,Positive,0.1125,Neutral,-0.5696904063224792,Negative
+Wow Jack wow... Watta discrimination!",0.8501,Positive,0.1125,Positive,-0.5696904063224792,Negative
 My profile picture is really cute 😏😁,0.7425,Positive,0.5,Positive,0.5472368001937866,Positive
 GUYS LET'S STREAM THIS AND MAKE IT 2 BILLION,0.0,Neutral,0.0,Neutral,-0.4309815168380737,Negative
 I am a big big bigggggggggggggggg BTS fan  😍😍😍😍😍😍😍,0.9694,Positive,0.0,Neutral,0.4748049974441528,Positive
@@ -464,7 +464,7 @@ Byyyy :),0.4588,Positive,0.5,Positive,0.3484764099121094,Positive
 "MC: JK has 10 bottles of Banana Milk,you ask him for 5 how much would he still have?
 BTS: 10
 MC: U don't know math!
-BTS AND ARMY: You don't know JK",0.1819,Positive,0.25,Neutral,-0.3725021779537201,Negative
+BTS AND ARMY: You don't know JK",0.1819,Positive,0.25,Positive,-0.3725021779537201,Negative
 @J... Won't you seriously be my Jack?,0.1326,Positive,-0.3333333333333333,Negative,-0.3410755693912506,Negative
 "I am in a relationship with my .........
 
@@ -485,16 +485,16 @@ Bread Jinnieee kidr hai tuu beyyy ab?,0.0,Neutral,0.0,Neutral,-0.399889647960662
 Josh your name is Jack too uwaou (jin's style),0.0,Neutral,0.0,Neutral,-0.2867238819599151,Negative
 "Jin: Army can't live without me. Ask why?
 BTS: Why?
-Jin: Because I'm there oxiJIN",0.0,Neutral,0.1363636363636363,Neutral,-0.5267618298530579,Negative
+Jin: Because I'm there oxiJIN",0.0,Neutral,0.1363636363636363,Positive,-0.5267618298530579,Negative
 I won't leave bt...,0.0382,Neutral,0.0,Neutral,-0.5943536758422852,Negative
 "Yo I wrote like 2 and half pages -
-But if i write all this here y'all wouldn't be able to handle it only I swear TT",0.1154,Positive,0.1111111111111111,Neutral,-0.3736921548843384,Negative
+But if i write all this here y'all wouldn't be able to handle it only I swear TT",0.1154,Positive,0.1111111111111111,Positive,-0.3736921548843384,Negative
 gogo 2B$,0.0,Neutral,0.0,Neutral,-0.2423202991485595,Negative
 I am fine T-T,0.2023,Positive,0.4166666666666667,Positive,0.380506157875061,Positive
-Trusfrated Ameee done ;),0.2263,Positive,0.25,Neutral,-0.3941498696804046,Negative
+Trusfrated Ameee done ;),0.2263,Positive,0.25,Positive,-0.3941498696804046,Negative
 "Bhaiyo or behno kripya krke comments mein emojis ka istamal na kare warna apka phone tut jayega 
 Samajhdar ko ishara hi khafi hai :)",0.8834,Positive,0.6333333333333333,Positive,-0.2642208635807037,Negative
-WOW 😲 I don't know what to say love you too,0.9068,Positive,0.3,Neutral,0.90465646982193,Positive
+WOW 😲 I don't know what to say love you too,0.9068,Positive,0.3,Positive,0.90465646982193,Positive
 Sale ko gali hie Sunni thi,0.0,Neutral,0.0,Neutral,-0.309329092502594,Negative
 F u YouTube,0.0,Neutral,0.0,Neutral,0.3081925511360168,Neutral
 2B Lets do IT 💪🏻,0.0,Neutral,0.0,Neutral,0.3372177183628082,Positive
@@ -512,7 +512,7 @@ This time I don't give a fork <9",0.0,Neutral,0.0,Neutral,-0.4589924216270447,Ne
 To bola na me antaryami thodi hu,0.0,Neutral,-0.1875,Negative,-0.390162318944931,Negative
 (Crying emoji) are you guys magnet? Why can't I leave ya'll? T_T,-0.5126,Negative,-0.2,Negative,-0.4729807078838348,Negative
 Kaha marr gye sabhi ?? Bol bhi lo koi telepathy se me pta nhi lga paugi ki tum yaha ho ya nhi,-0.644,Negative,0.5,Positive,-0.4674483835697174,Negative
-Oh wow 💜💜💜,0.9545,Positive,0.1,Neutral,0.6418206691741943,Positive
+Oh wow 💜💜💜,0.9545,Positive,0.1,Positive,0.6418206691741943,Positive
 Congrats on 1.5 billion 💜,0.8225,Positive,0.0,Neutral,-0.4240544140338897,Negative
 "OT7 doesn't give a fork 
 Hmm ?",0.0,Neutral,0.0,Neutral,-0.3847633302211761,Negative
@@ -526,7 +526,7 @@ See me at the DNA cs asap
 Also you too OT7 !",-0.3404,Negative,0.0,Neutral,-0.5816561579704285,Negative
 Bye forever :),0.4588,Positive,0.5,Positive,0.6866587400436401,Positive
 Josh baby... Sorry again :),0.4019,Positive,0.0,Neutral,0.2966703772544861,Neutral
-"For the last time I'm saying.. ""Babies...unnie love you all"".",0.6369,Positive,0.25,Neutral,0.7266205549240112,Positive
+"For the last time I'm saying.. ""Babies...unnie love you all"".",0.6369,Positive,0.25,Positive,0.7266205549240112,Positive
 "Jin: What do you call a bread when it's on the beach?
 Jm: What?
 Jin: A sandwich
@@ -536,10 +536,10 @@ I know... You guys don't even care about me!You won't even miss me.I was just a 
 I'll never forget you all cz I never had this type of friendship with the people I never met.,0.5523,Positive,0.0,Neutral,0.4112496674060821,Positive
 how to stream?,0.0,Neutral,0.0,Neutral,-0.254762053489685,Negative
 Try ARMY Lets make 2B,0.0,Neutral,0.0,Neutral,-0.3223958909511566,Negative
-Love you all to the moon and back.. Babies.,0.6369,Positive,0.25,Neutral,0.8373932838439941,Positive
+Love you all to the moon and back.. Babies.,0.6369,Positive,0.25,Positive,0.8373932838439941,Positive
 Stream hard. Fighting!,-0.4926,Negative,-0.3645833333333333,Negative,-0.2986343204975128,Negative
 Gonna miss ya all badly.,-0.5719,Negative,-0.6999999999999998,Negative,-0.4572242796421051,Negative
-Joker bhaiya ghar mai toilet nhi hai kya saley? DNA k Cs mai yeh lgaya hua... nikal beyy,-0.25,Negative,0.0166666666666666,Neutral,-0.5725319385528564,Negative
+Joker bhaiya ghar mai toilet nhi hai kya saley? DNA k Cs mai yeh lgaya hua... nikal beyy,-0.25,Negative,0.0166666666666666,Positive,-0.5725319385528564,Negative
 Bread Jinnie tu kidr reh gayi ab?,0.0,Neutral,0.0,Neutral,-0.3442801535129547,Negative
 💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Unnie won't be here to stop fights,-0.5994,Negative,0.0,Neutral,-0.4191834032535553,Negative
@@ -551,7 +551,7 @@ Then a moment love,0.6369,Positive,0.5,Positive,0.5224153399467468,Positive
 Yo tae's waifu and OT7 wanna see that sOnG ??lol come to the DNA cs !,0.5349,Positive,1.0,Positive,-0.5251278281211853,Negative
 I like RM RM RM RM RM RM RM RM RM RM RM RM RM RM RM RM RM RM RM most,0.3612,Positive,0.5,Positive,0.3585452735424042,Positive
 Who is still watching this song with me,0.0,Neutral,0.0,Neutral,0.3930018842220306,Positive
-I seriously did it for fun. 2-3 of you guys knew that it was fun,0.7096,Positive,0.0888888888888888,Neutral,0.3368245959281921,Positive
+I seriously did it for fun. 2-3 of you guys knew that it was fun,0.7096,Positive,0.0888888888888888,Positive,0.3368245959281921,Positive
 Lemme apologise to you all once more.,0.3818,Positive,0.5,Positive,0.3700751662254333,Positive
 I can't stop crying,0.5334,Positive,-0.2,Negative,0.3888315260410309,Positive
 Streaming this song is now my daily routine,0.0,Neutral,0.0,Neutral,0.5876469612121582,Positive
@@ -595,7 +595,7 @@ JK : Yeah?
 Jin : What do you call a bee that's just learning?
 JK : uh idk
 Jin : it's just BEEgining 
-*Windshield Wiper Laugh*",0.8808,Positive,0.3,Neutral,-0.4962748885154724,Negative
+*Windshield Wiper Laugh*",0.8808,Positive,0.3,Positive,-0.4962748885154724,Negative
 Mere saath Punjabi mai baat karega koi?,0.0,Neutral,0.0,Neutral,-0.3837282955646515,Negative
 ........,0.0,Neutral,0.0,Neutral,-0.2543684840202331,Negative
 "2:50 
@@ -611,16 +611,16 @@ This silence is really irritating I keep refreshing cs but there's no comment :(
 1:22 better if we get this kinda restaurant irl •_-,0.4404,Positive,0.5,Positive,-0.2965647578239441,Negative
 Sab ka interest khatam hota ja rha he ab 😔,0.4588,Positive,0.0,Neutral,0.2754378616809845,Neutral
 "1:04 pls the energy im seeing behind TT
-Lol",0.6369,Positive,0.2,Neutral,0.4279667139053345,Positive
-I love how the comment section gets worse everyday<3,0.2732,Positive,0.0499999999999999,Neutral,0.3471775949001312,Positive
+Lol",0.6369,Positive,0.2,Positive,0.4279667139053345,Positive
+I love how the comment section gets worse everyday<3,0.2732,Positive,0.0499999999999999,Positive,0.3471775949001312,Positive
 Babies...,0.0,Neutral,0.0,Neutral,0.2814157903194427,Neutral
 Why is comment section soo silent today,0.0,Neutral,0.0,Neutral,-0.3483533263206482,Negative
-Jab mai es cs mai pehli baar aai thi tab sab khushi se rehte the baate karte the ab toh koi baat hi nahi karta:-(,0.2732,Positive,0.1090909090909091,Neutral,-0.3373587727546692,Negative
+Jab mai es cs mai pehli baar aai thi tab sab khushi se rehte the baate karte the ab toh koi baat hi nahi karta:-(,0.2732,Positive,0.1090909090909091,Positive,-0.3373587727546692,Negative
 "0:28 idk why I laughed when I saw joon -
 Lol",0.6597,Positive,0.75,Positive,-0.5207427740097046,Negative
 Oyeee koi hai kyaa?,0.0,Neutral,0.0,Neutral,-0.2873863577842712,Negative
-"Also I wanted to make ya'll realise that everyone protect, love and care for each other in this cs.When I told these to Josh.. You'll tried to protect him",0.9118,Positive,0.1875,Neutral,0.458597719669342,Positive
-2:42  kookie is looking so funny in this lolll,0.5777,Positive,0.25,Neutral,0.5045689940452576,Positive
+"Also I wanted to make ya'll realise that everyone protect, love and care for each other in this cs.When I told these to Josh.. You'll tried to protect him",0.9118,Positive,0.1875,Positive,0.458597719669342,Positive
+2:42  kookie is looking so funny in this lolll,0.5777,Positive,0.25,Positive,0.5045689940452576,Positive
 Let go 2B,0.0,Neutral,0.0,Neutral,-0.2865185737609863,Negative
 I Love bangtan,0.6369,Positive,0.5,Positive,0.7515434622764587,Positive
 I wanted to make the cs fun. Cz I always wanna see you guys happy,0.7906,Positive,0.55,Positive,0.3368584811687469,Positive
@@ -637,7 +637,7 @@ The gurl who proposed Josh was me,0.0,Neutral,0.0,Neutral,0.2701301872730255,Neu
 Guys.. I know you will be shocked to know that...,-0.3182,Negative,-0.7,Negative,0.2774650156497955,Neutral
 💜💜💜💜,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I scrolled down and saw the whole drama 
-Lollll",0.0,Neutral,0.0222222222222222,Neutral,-0.333516389131546,Negative
+Lollll",0.0,Neutral,0.0222222222222222,Positive,-0.333516389131546,Negative
 Lets take it 2B,0.0,Neutral,0.0,Neutral,0.2932553887367248,Neutral
 Babies... I wanna say something to you all,0.0,Neutral,0.0,Neutral,0.3277168869972229,Neutral
 Where are ya'll? T.T,0.0,Neutral,0.0,Neutral,-0.4151495099067688,Negative
@@ -692,7 +692,7 @@ Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 "How many counties you visit
 Me - more than 10",0.0,Neutral,0.5,Positive,0.6639329195022583,Positive
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
-Cutiemagic_07 you are really a cutie...,0.4173,Positive,0.2,Neutral,0.4300988614559173,Positive
+Cutiemagic_07 you are really a cutie...,0.4173,Positive,0.2,Positive,0.4300988614559173,Positive
 I'm backk after eating my lunch,0.0,Neutral,0.0,Neutral,-0.2565096318721771,Negative
 Now YouTube is getting alot of proposal 😂,0.4404,Positive,0.0,Neutral,-0.3364202380180359,Negative
 Bread with jam,0.0,Neutral,0.0,Neutral,0.2384655028581619,Neutral
@@ -707,17 +707,17 @@ YouTube humse koi personal dushmani he kya ?,0.0,Neutral,0.0,Neutral,-0.40119397
 Let's everyone  leave a comment here ... So whenever we will get a like.. we can get a reminder that we need stream it for 2B asap 💜,0.7579,Positive,0.0,Neutral,0.2990295886993408,Neutral
 "Now YouTube is deleting Josh comment
 But my comment never delete 
-World wide shoulder I show you now I am YouTube favorite",0.6124,Positive,0.2,Neutral,0.3961910307407379,Positive
+World wide shoulder I show you now I am YouTube favorite",0.6124,Positive,0.2,Positive,0.3961910307407379,Positive
 Yt what's your problem huh?,-0.4019,Negative,0.0,Neutral,-0.3198637366294861,Negative
 "You know 
 What is the full form of 
 Wtf 
 It's 
 What the fudu",-0.5859,Negative,-0.075,Negative,-0.2193472236394882,Negative
-Josh calm down boi,0.3182,Positive,0.0722222222222222,Neutral,-0.2570529282093048,Negative
+Josh calm down boi,0.3182,Positive,0.0722222222222222,Positive,-0.2570529282093048,Negative
 YouTube chacha ji ek request hai please mera account KO unblock kar de (´∀｀)♡,0.3182,Positive,0.0,Neutral,-0.5373352766036987,Negative
 Army ot7 army diary where r you?? :(,-0.504,Negative,-0.75,Negative,-0.2693889439105987,Negative
-Not suga showing no emotions like I do (*´∀`*),-0.0572,Negative,0.25,Neutral,-0.4618924558162689,Negative
+Not suga showing no emotions like I do (*´∀`*),-0.0572,Negative,0.25,Positive,-0.4618924558162689,Negative
 Hi how are you all,0.0,Neutral,0.0,Neutral,0.4533770978450775,Positive
 Cutiemagic_07 you there unnie?,0.0,Neutral,0.0,Neutral,-0.2962672412395477,Negative
 Lets see its may 2022 how many still here listing to this masterpiece 💜,0.8772,Positive,0.5,Positive,0.5658262968063354,Positive
@@ -748,26 +748,26 @@ We are so slow today we only did 100 k and half day is passed,0.0,Neutral,-0.155
 YouTube if you love Josh you will not delete his comment ok😏😉,0.7506,Positive,0.5,Positive,0.3659177124500274,Positive
 YouTube you got no jams,-0.296,Negative,0.0,Neutral,0.3422934710979461,Positive
 Noo,0.0,Neutral,0.0,Neutral,-0.4266815483570099,Negative
-I am be positive,0.5574,Positive,0.2272727272727272,Neutral,0.2967663109302521,Neutral
+I am be positive,0.5574,Positive,0.2272727272727272,Positive,0.2967663109302521,Neutral
 "Omg josh comment is deleting
 👁️👄👁️",0.0,Neutral,0.0,Neutral,-0.4471516609191894,Negative
 "Fill the blank 
-I love you____",0.6369,Positive,0.25,Neutral,0.8348749279975891,Positive
-Broo if the whole army fandom will work together than we can make 2 billion in a day even half of them will work it can work too,0.0,Neutral,0.0166666666666666,Neutral,-0.3807381391525268,Negative
-Hello I'm back :),0.4588,Positive,0.25,Neutral,0.4818335175514221,Positive
+I love you____",0.6369,Positive,0.25,Positive,0.8348749279975891,Positive
+Broo if the whole army fandom will work together than we can make 2 billion in a day even half of them will work it can work too,0.0,Neutral,0.0166666666666666,Positive,-0.3807381391525268,Negative
+Hello I'm back :),0.4588,Positive,0.25,Positive,0.4818335175514221,Positive
 "Fill the blank 
-I love whats____",0.6369,Positive,0.25,Neutral,0.7195077538490295,Positive
+I love whats____",0.6369,Positive,0.25,Positive,0.7195077538490295,Positive
 "YouTube tell me 
 How to slap someone without slapping",0.1531,Positive,0.0,Neutral,0.4361125826835632,Positive
 "Fill the blank 
-I love twee___",0.6369,Positive,0.25,Neutral,0.6530272364616394,Positive
+I love twee___",0.6369,Positive,0.25,Positive,0.6530272364616394,Positive
 In this day 1.6 billion we can make means we can make it 1.6 billion this world army's everyone watch this means it will became 1.6 billion,0.0,Neutral,0.0,Neutral,-0.6074147820472717,Negative
 "Hey.....Fill the blank 
 I love inta____
-;)",0.7269,Positive,0.25,Neutral,0.7807397246360779,Positive
+;)",0.7269,Positive,0.25,Positive,0.7807397246360779,Positive
 Lalalalalalala,0.0,Neutral,0.0,Neutral,0.2482377290725708,Neutral
 Call my name,0.0,Neutral,0.0,Neutral,0.4039247632026672,Positive
 The comment section....,0.0,Neutral,0.0,Neutral,0.3055967092514038,Neutral
-Army if ur stre@ming please do it properly make sure your st3eams counts,0.5574,Positive,0.25,Neutral,0.2905718088150024,Neutral
-Hiii I'm back...=),0.0,Neutral,0.25,Neutral,0.3005445301532745,Neutral
+Army if ur stre@ming please do it properly make sure your st3eams counts,0.5574,Positive,0.25,Positive,0.2905718088150024,Neutral
+Hiii I'm back...=),0.0,Neutral,0.25,Positive,0.3005445301532745,Neutral
 Does anyone know that YouTube CEO is a girl,0.0,Neutral,0.0,Neutral,-0.5576158761978149,Negative

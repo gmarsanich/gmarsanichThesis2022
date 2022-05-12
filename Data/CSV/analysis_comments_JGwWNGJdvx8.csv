@@ -2,10 +2,10 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Attendance please,0.3182,Positive,0.0,Neutral,0.280688464641571,Neutral
 2022💥💥💥,-0.7579,Negative,0.0,Neutral,0.3085779249668121,Neutral
 5 bill views omg,0.0,Neutral,0.0,Neutral,0.4683177173137665,Positive
-Right here❤️,0.0,Neutral,0.2857142857142857,Neutral,0.4549311697483063,Positive
+Right here❤️,0.0,Neutral,0.2857142857142857,Positive,0.4549311697483063,Positive
 "Today, this 2022 it was so yesterday on 2017, but ""Shape of you"" always is my favorite song of year. 🧡🧡",0.9559,Positive,0.5,Positive,0.691383957862854,Positive
 אם גם אתה ישראלי שים פה לייק,0.3612,Positive,0.0,Neutral,0.297977089881897,Neutral
-Curiosamente está canción tiene más que Gangnam Style jejeje esta cool,0.3182,Positive,0.25,Neutral,0.3728922605514526,Positive
+Curiosamente está canción tiene más que Gangnam Style jejeje esta cool,0.3182,Positive,0.25,Positive,0.3728922605514526,Positive
 Its realy the most peautiful song,0.6659,Positive,0.5166666666666666,Positive,0.5168341994285583,Positive
 5 Years passed! this song is still in my playlist!! 💗,0.7767,Positive,0.0,Neutral,0.8454136252403259,Positive
 "This Song and See you Again... Are creating the biggest rivalry in youtube history...
@@ -39,8 +39,8 @@ Saludos desde la Cd.. de world 🌹😉💖
 los mortales abian apreciado tan hermosa mujer..",0.9856,Positive,0.5514285714285714,Positive,0.5394759774208069,Positive
 Сегодня 1мая 2022,0.0,Neutral,0.0,Neutral,0.5438458323478699,Positive
 Quien más en 2022 está música es sana aunque el fondo de inglés le da mejor realismo 😎😎😎😎,0.9485,Positive,0.3333333333333333,Positive,0.4697187840938568,Positive
-🔥🔥🔥🔥🔥 *COMMUNIQUER POUR JEUNE ARTISTE QUI VEUX RÉUSSIR DANS LA MUSIQUE* https://youtu.be/_sTtOFiUdgg,-0.7242,Negative,0.15,Neutral,0.3591949641704559,Positive
-This video never gets old,0.0,Neutral,0.1,Neutral,0.4121110141277313,Positive
+🔥🔥🔥🔥🔥 *COMMUNIQUER POUR JEUNE ARTISTE QUI VEUX RÉUSSIR DANS LA MUSIQUE* https://youtu.be/_sTtOFiUdgg,-0.7242,Negative,0.15,Positive,0.3591949641704559,Positive
+This video never gets old,0.0,Neutral,0.1,Positive,0.4121110141277313,Positive
 I remember my cousin recommend this he is no more in this world I really miss him,-0.1513,Negative,-0.0249999999999999,Negative,0.5624324679374695,Positive
 LoL,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Don't worry.  Your not  one to listen this song in 2022,0.3412,Positive,0.0,Neutral,-0.5305389165878296,Negative
@@ -48,8 +48,8 @@ https://youtu.be/WPdWvnAAurg savage,-0.4588,Negative,0.0,Neutral,0.2346931248903
 ❤❤❤❤❤,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I know 1.1M people are legend who comment on this video☝💞,0.6486,Positive,0.0,Neutral,0.4474478960037231,Positive
 中村晃,0.0,Neutral,0.0,Neutral,0.2851597666740417,Neutral
-"Музыка топ, слова топ, но видео ряд минус...!!!!",0.5296,Positive,0.251953125,Neutral,0.4597282111644745,Positive
-5years complete but still watching this video💕🎼🎶💪👏🔥,0.5927,Positive,0.1,Neutral,0.4704669415950775,Positive
+"Музыка топ, слова топ, но видео ряд минус...!!!!",0.5296,Positive,0.251953125,Positive,0.4597282111644745,Positive
+5years complete but still watching this video💕🎼🎶💪👏🔥,0.5927,Positive,0.1,Positive,0.4704669415950775,Positive
 esta cancion es muy agradable de escuchar🤗,0.7089,Positive,0.78,Positive,0.5060634613037109,Positive
 One of my favourite 😍,0.4588,Positive,0.0,Neutral,0.8391585350036621,Positive
 2022 Let's see how many legends are listening to this masterpiece. By far one of the most popular songs ever even after 5 year's,0.8388,Positive,0.425,Positive,0.8441987633705139,Positive
@@ -72,7 +72,7 @@ Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 Who are watching after praniti sing this song,0.0,Neutral,0.0,Neutral,0.3424540162086487,Positive
 Hi Voice is so original,0.4572,Positive,0.375,Positive,0.4303573966026306,Positive
 Evergreen song,0.0,Neutral,0.0,Neutral,0.7116319537162781,Positive
-"An astrological website said the song ""shape of you"" was topping the charts on my 14th birthday...and that's the song that will describe my whole life.....SO am here to read the lyrics that speaks on my life ❤️❤️",0.0,Neutral,0.2,Neutral,0.4930272996425628,Positive
+"An astrological website said the song ""shape of you"" was topping the charts on my 14th birthday...and that's the song that will describe my whole life.....SO am here to read the lyrics that speaks on my life ❤️❤️",0.0,Neutral,0.2,Positive,0.4930272996425628,Positive
 Nostalgic,0.0,Neutral,-0.5,Negative,0.5239498615264893,Positive
 https://youtube.com/channel/UC0NXUCWysubw6E5l-TemPvg,0.0,Neutral,0.0,Neutral,0.2349776476621627,Neutral
 It was 7 years,0.0,Neutral,0.0,Neutral,-0.2692131698131561,Negative
@@ -83,10 +83,10 @@ Don't worry You are not the only one checking for newest comments.😂😂😂,0
 May 1✋🏻,0.4939,Positive,0.0,Neutral,0.2452574074268341,Neutral
 Back me in 1 may 2023 !!,0.0,Neutral,0.0,Neutral,-0.482421875,Negative
 This is masterpiece,0.6249,Positive,0.0,Neutral,0.8097105622291565,Positive
-1st may and let's see how many of you still love this epic song and listening this one .... I am completely into it .,0.6369,Positive,0.3,Neutral,0.7827388048171997,Positive
+1st may and let's see how many of you still love this epic song and listening this one .... I am completely into it .,0.6369,Positive,0.3,Positive,0.7827388048171997,Positive
 The song has an unnatural harmony!!,0.508,Positive,0.0,Neutral,-0.4733418524265289,Negative
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Let's see how many legends are left here :^,0.0,Neutral,0.25,Neutral,0.3527871072292328,Positive
+Let's see how many legends are left here :^,0.0,Neutral,0.25,Positive,0.3527871072292328,Positive
 I saw in 1 may 2022,0.0,Neutral,0.0,Neutral,-0.3642575442790985,Negative
 KRK movie parthudu vanthavanga yaru like podunga 👍,0.3612,Positive,0.0,Neutral,0.2149708569049835,Neutral
 https://m.youtube.com/watch?v=ihK79UvWFQo,0.0,Neutral,0.0,Neutral,0.2892472743988037,Neutral
@@ -97,15 +97,15 @@ best song,0.6369,Positive,1.0,Positive,0.8334701657295227,Positive
 Süper music .,0.5994,Positive,0.3333333333333333,Positive,0.788245677947998,Positive
 No way I this came out 5 years ago🤕,-0.296,Negative,0.0,Neutral,-0.5278202891349792,Negative
 All time favourite ❤️❤️,0.0,Neutral,0.0,Neutral,0.9222687482833862,Positive
-5years on the song the song is so gooooooooooooooooooood but views is 5'6 billion o my god but song is so old years,0.3919,Positive,0.1,Neutral,-0.3977223932743072,Negative
+5years on the song the song is so gooooooooooooooooooood but views is 5'6 billion o my god but song is so old years,0.3919,Positive,0.1,Positive,-0.3977223932743072,Negative
 5years on the song the song is so gooooooooooooooooooood but views is 5'6 billion o my god,0.3919,Positive,0.0,Neutral,-0.5504406094551086,Negative
 playlist top song.. Love u Ed Sheeran 💓💓,0.9769,Positive,0.5,Positive,0.8149911761283875,Positive
 Mee too in May 1,0.0,Neutral,0.0,Neutral,0.3875187933444977,Positive
 ここに日本人いる？,0.0,Neutral,0.0,Neutral,-0.4149180352687835,Negative
 may 1 and lets see how many people listening this popular song,0.5023,Positive,0.55,Positive,0.4412224590778351,Positive
 Where is that one person today to say Its May 2022 who's still here?,0.0,Neutral,0.0,Neutral,-0.5397194623947144,Negative
-A song that matches modern sensibilities. This movie is full of highly original scenes.,0.3804,Positive,0.3083333333333333,Neutral,0.6891630291938782,Positive
-this song never get old forever 🤩,0.0,Neutral,0.1,Neutral,0.5932541489601135,Positive
+A song that matches modern sensibilities. This movie is full of highly original scenes.,0.3804,Positive,0.3083333333333333,Positive,0.6891630291938782,Positive
+this song never get old forever 🤩,0.0,Neutral,0.1,Positive,0.5932541489601135,Positive
 Hdsks2022jdjdjdjsjsksjdjsksjjktyuuajdddjdjjdidudusueue to Rd hi re th it free fi♥️💕♥️💕♥️💙❤️💛💙💛💛💙❤️❤️💙❤️💛💙❤️💛💙❤️💛💙❤️💛💟❣️💚💚💚💚💓💝💖💞💗💓😍💫🧡,0.9993,Positive,0.4,Positive,0.2961870729923248,Neutral
 "https://youtu.be/RUGTnJ9NIYE
 please keep up",0.3182,Positive,0.0,Neutral,-0.3991989493370056,Negative
@@ -116,7 +116,7 @@ Today the date is May 1st let's know in this month how many of your listening th
 "This is my FAV SONG since  then
 I  love this song😍😍",0.9317,Positive,0.5,Positive,0.8564354777336121,Positive
 "Over 1.1 million comments, if you find this one you're a legend 😎",0.4588,Positive,0.0,Neutral,0.4695481956005096,Positive
-"It’s May 1st 2022 we are still here listening to this classic. Absolutely timeless music 🎶 rhythm, grove, soul 🖤",0.6369,Positive,0.1833333333333333,Neutral,0.6692604422569275,Positive
+"It’s May 1st 2022 we are still here listening to this classic. Absolutely timeless music 🎶 rhythm, grove, soul 🖤",0.6369,Positive,0.1833333333333333,Positive,0.6692604422569275,Positive
 This song break all records 😮,0.0,Neutral,0.0,Neutral,-0.8584241271018982,Negative
 Real beauty emmitted by clear heart..!!  Likewise this best one never gets old💛❤️,0.9665,Positive,0.4520833333333334,Positive,0.8115234375,Positive
 Whenever I am in trouble I listen to this song.Pls don’t let this song die,-0.765,Negative,-0.2,Negative,-0.67820143699646,Negative
@@ -124,7 +124,7 @@ Whenever I am in trouble I listen to this song.Pls don’t let this song die,-0.
 ✋,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I am wathing after 5 year from nepal,0.0,Neutral,0.0,Neutral,-0.4469570219516754,Negative
 6MD,0.0,Neutral,0.0,Neutral,0.3402644991874695,Positive
-Sigue Siendo Un Éxito ♥️,0.836,Positive,0.3,Neutral,0.5759617686271667,Positive
+Sigue Siendo Un Éxito ♥️,0.836,Positive,0.3,Positive,0.5759617686271667,Positive
 Who are watching Telugu people like 👍🏻❤️,0.3612,Positive,0.0,Neutral,0.2792621850967407,Neutral
 Best song ❤️🔥,0.4215,Positive,1.0,Positive,0.8443126082420349,Positive
 Ohh,0.0,Neutral,0.0,Neutral,-0.3410598635673523,Negative
@@ -141,7 +141,7 @@ I'm back every one,0.0,Neutral,0.0,Neutral,0.335249125957489,Positive
 @jeffery haber 😂😂😂,0.8271,Positive,0.0,Neutral,0.2928113937377929,Neutral
 Duroooo🔥🔥2022,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 إنا الاغنيه رائعا❤️❤️,0.5859,Positive,0.6000000000000001,Positive,0.5237468481063843,Positive
-How old are you do you read people's mind haa ha ha miss you harry,0.4939,Positive,0.1,Neutral,-0.374065637588501,Negative
+How old are you do you read people's mind haa ha ha miss you harry,0.4939,Positive,0.1,Positive,-0.374065637588501,Negative
 انها تحفه فنيه 😍🙋,0.7964,Positive,0.0,Neutral,0.4723668396472931,Positive
 I'ts good👏,0.4404,Positive,0.0,Neutral,0.3167513310909271,Neutral
 2030 HELLO GUYS,0.0,Neutral,0.0,Neutral,0.4034830033779144,Positive
@@ -150,7 +150,7 @@ Just hermoso...me encanta!!,0.6988,Positive,0.78125,Positive,0.8840144276618958,
 🥵💖,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 https://www.youtube.com/watch?v=61wK9Ypik4s,0.0,Neutral,0.0,Neutral,0.2911829352378845,Neutral
 "Jeffery haber
-Hi;)",0.0,Neutral,0.25,Neutral,0.333640456199646,Positive
+Hi;)",0.0,Neutral,0.25,Positive,0.333640456199646,Positive
 Wow. This is still good,0.7717,Positive,0.3999999999999999,Positive,0.6911384463310242,Positive
 Parabéns por seu talento! Show!!! 💪🌻🌿,0.8346,Positive,0.0,Neutral,0.6465793251991272,Positive
 It’s 30 April,0.0,Neutral,0.0,Neutral,-0.4291010200977325,Negative
@@ -158,15 +158,15 @@ STILL listening on the 30th April 2022 ☺🕺🕺,0.4588,Positive,0.0,Neutral,-
 HAPPY DAY BOY'S,0.5719,Positive,0.8,Positive,0.5421880483627319,Positive
 Bad hapits and shape of you are so nice  this song is for chill,0.03,Neutral,-0.0499999999999999,Negative,-0.3661220371723175,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
-this never gets old,0.0,Neutral,0.1,Neutral,0.3099076449871063,Neutral
+this never gets old,0.0,Neutral,0.1,Positive,0.3099076449871063,Neutral
 "COM CERTEZA COLOCOU A RIHANNA NO BOLSO 5 BILHÕES DE VISUALIZAÇÕES
 
 👏👏👏👏👏👏👏",0.5622,Positive,0.5,Positive,-0.4272443056106567,Negative
 1st may 2022,0.0,Neutral,0.0,Neutral,-0.4724867343902588,Negative
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Me on 30 April 😊😊,0.9001,Positive,0.0,Neutral,-0.3559551537036896,Negative
-"""Sorte é apelido, o verdadeiro nome do sucesso chama-se dedicação""!  Só coisa boas para quem leu esse comentário""♥️❤️..",0.9336,Positive,0.31875,Neutral,-0.3053554594516754,Negative
-"""Sorte é apelido, o verdadeiro nome do sucesso chama-se dedicação""!  Só coisa boas para quem leu esse comentário""♥️❤️..",0.9336,Positive,0.31875,Neutral,-0.3053554594516754,Negative
+"""Sorte é apelido, o verdadeiro nome do sucesso chama-se dedicação""!  Só coisa boas para quem leu esse comentário""♥️❤️..",0.9336,Positive,0.31875,Positive,-0.3053554594516754,Negative
+"""Sorte é apelido, o verdadeiro nome do sucesso chama-se dedicação""!  Só coisa boas para quem leu esse comentário""♥️❤️..",0.9336,Positive,0.31875,Positive,-0.3053554594516754,Negative
 30 April 2022 .।।।,0.0,Neutral,0.0,Neutral,-0.5802785158157349,Negative
 https://youtu.be/SRt0KAMCI4Q  ..,0.0,Neutral,0.0,Neutral,-0.2408041507005691,Negative
 All Time Favorite🖤...,0.802,Positive,0.0,Neutral,0.7913862466812134,Positive
@@ -204,7 +204,7 @@ I LOVE this song! I'm so glad I found out who made it!,0.8856,Positive,0.625,Pos
 It's og I love it,0.6369,Positive,0.5,Positive,0.7582138180732727,Positive
 Yes I do,0.4019,Positive,0.0,Neutral,0.4937692880630493,Positive
 May 2022 ✌️✨,0.3182,Positive,0.0,Neutral,-0.3339925706386566,Negative
-No one will ever forget this song when was the first time listening to it ❤❤❤,0.8885,Positive,0.25,Neutral,-0.4045363366603851,Negative
+No one will ever forget this song when was the first time listening to it ❤❤❤,0.8885,Positive,0.25,Positive,-0.4045363366603851,Negative
 ", 😍😍😍😍😍😍😍😍😍 the un love   😍😍😍😍😍😍😍😍😍😍😍😍",0.9963,Positive,0.5,Positive,0.6848631501197815,Positive
 Ilave this music🌌❤️,0.0,Neutral,0.0,Neutral,0.297368973493576,Neutral
 Good Day!,0.4926,Positive,0.875,Positive,0.5104078054428101,Positive
@@ -227,11 +227,11 @@ The lovely one..Listening today.,0.5859,Positive,0.5,Positive,0.7463050484657288
 Many Indians mistake that they think Justin Bieber sang this song but it's Ed Sheeran,-0.1779,Negative,0.5,Positive,-0.3650453388690948,Negative
 Anyone in 2022 ✨💜,0.7579,Positive,0.0,Neutral,-0.4422395229339599,Negative
 Recent fav ✨ song ❤️,0.6486,Positive,0.0,Neutral,0.3539950549602508,Positive
-"""Wake Up Call says, The folly of appeeances, breast deceit and higher justice in the higher realm of work based on the occasion of their orginition  SONG!""",0.1759,Positive,0.28125,Neutral,-0.346994012594223,Negative
+"""Wake Up Call says, The folly of appeeances, breast deceit and higher justice in the higher realm of work based on the occasion of their orginition  SONG!""",0.1759,Positive,0.28125,Positive,-0.346994012594223,Negative
 30/4/2022,0.0,Neutral,0.0,Neutral,-0.3026973307132721,Negative
 😁😁,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This will never get old,0.0,Neutral,0.1,Neutral,0.5140286684036255,Positive
-"I remember when I was studying in 6th standard I had a crush on this boy who was my classmate. There are so many things in him that I like. The main one is him being so good at sports. So one day he was talking with his friends and I am talking with my friends. He started to talk about this song. I didn't waste any time and started to talk about this song soo loud. My way of getting his attention lol. But the thing is that I only listened to this song for only one or two times but acted so whipped as if I listen to this every day. Started to listen to this song a lot afterward and I was so obsessed. I silently sing this song on the bus after school, put this every time I go out even at least once. It's been 5 years and I still have this song in my mind. And now I am here to listen to it again. Got bigger and I have so many crushes but my crush for this song will never end",-0.1388,Negative,0.1261904761904762,Neutral,0.4379720389842987,Positive
+This will never get old,0.0,Neutral,0.1,Positive,0.5140286684036255,Positive
+"I remember when I was studying in 6th standard I had a crush on this boy who was my classmate. There are so many things in him that I like. The main one is him being so good at sports. So one day he was talking with his friends and I am talking with my friends. He started to talk about this song. I didn't waste any time and started to talk about this song soo loud. My way of getting his attention lol. But the thing is that I only listened to this song for only one or two times but acted so whipped as if I listen to this every day. Started to listen to this song a lot afterward and I was so obsessed. I silently sing this song on the bus after school, put this every time I go out even at least once. It's been 5 years and I still have this song in my mind. And now I am here to listen to it again. Got bigger and I have so many crushes but my crush for this song will never end",-0.1388,Negative,0.1261904761904762,Positive,0.4379720389842987,Positive
 30th April 2020 ❤️,0.0,Neutral,0.0,Neutral,-0.3115872144699096,Negative
 "Jesus is God & He loves you
 
@@ -311,7 +311,7 @@ Ephesians 2:8-9
 8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
 9 Not of works, lest any man should boast.
 
-Repent of your sins or suffer the consequences. Lord Jesus died in our places personally to take the death punishment that sin deserves and then resurrected by the power of God. Believe this and sincerely repent of your sins each time you sin and you will have eternal life and nothing to fear. Fail to repent and you will end up in the Lake of Fire.",0.991,Positive,0.0870349206349206,Neutral,0.7170621156692505,Positive
+Repent of your sins or suffer the consequences. Lord Jesus died in our places personally to take the death punishment that sin deserves and then resurrected by the power of God. Believe this and sincerely repent of your sins each time you sin and you will have eternal life and nothing to fear. Fail to repent and you will end up in the Lake of Fire.",0.991,Positive,0.0870349206349206,Positive,0.7170621156692505,Positive
 bad  habits is my favrot song,-0.128,Negative,-0.0999999999999999,Negative,-0.6486854553222656,Negative
 beautiful song 🇧🇩🇧🇩,0.5994,Positive,0.85,Positive,0.7052157521247864,Positive
 my YouTube challenge jh9 music,0.0772,Positive,0.0,Neutral,0.6251341700553894,Positive
@@ -322,7 +322,7 @@ Crab mangga,0.0,Neutral,0.0,Neutral,-0.394317090511322,Negative
 "*listing comments*
 Comments: *CALENDAR*",0.0,Neutral,0.0,Neutral,0.2878429889678955,Neutral
 Ed Sheeran ❤️❤️❤️❤️💋💋💋💋🥰🥰🥰🎁🎁🎁💐💐💐💐😘😘😘💋💋🥰🥰🎁Love 💋😘❤️🎁🥰🥰🥰💐💐💐🎁🎁😘😘,0.9987,Positive,0.0,Neutral,0.332741767168045,Positive
-Imposible de superar esta canción es hermosa,0.5994,Positive,0.0916666666666666,Neutral,0.7072675824165344,Positive
+Imposible de superar esta canción es hermosa,0.5994,Positive,0.0916666666666666,Positive,0.7072675824165344,Positive
 op song,0.0,Neutral,0.0,Neutral,0.2548483908176422,Neutral
 It is a beautiful song i love this song,0.8442,Positive,0.675,Positive,0.8097816109657288,Positive
 إبداع 🇱🇾❤,0.7783,Positive,0.0,Neutral,0.4183013141155243,Positive
@@ -332,7 +332,7 @@ We love you Ed 😍,0.802,Positive,0.5,Positive,0.8135906457901001,Positive
 Brother🤘🏽🤘🏽,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Who's watching this video in 2022 like me?,0.3612,Positive,0.0,Neutral,-0.3279516398906708,Negative
 This so caching that I cant stop dancing,0.2235,Positive,0.0,Neutral,0.268890380859375,Neutral
-Everyday here for this golden piece ✨,0.3182,Positive,0.0499999999999999,Neutral,0.8272751569747925,Positive
+Everyday here for this golden piece ✨,0.3182,Positive,0.0499999999999999,Positive,0.8272751569747925,Positive
 https://youtube.com/clip/UgkxB_8Fu-H0t5pFLbDUt2-LOOI40UWX7KTI,0.0,Neutral,0.0,Neutral,-0.2918738424777984,Negative
 いい曲やあ‪( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀  )‬,0.4404,Positive,0.7,Positive,0.3051681816577911,Neutral
 Mm,0.0,Neutral,0.0,Neutral,0.2894232869148254,Neutral
@@ -467,20 +467,20 @@ Come on, be my baby, come on
 Come on, be my baby, come on
 I'm in love with your body
 Every day discovering something brand new
-I'm in love with the shape of you",0.9994,Positive,0.3192929292929293,Neutral,0.3253782987594604,Neutral
+I'm in love with the shape of you",0.9994,Positive,0.3192929292929293,Positive,0.3253782987594604,Neutral
 "I dedicate 1:56 to my crush, she usually sung this song in every group vc.
 But now it's my favourite one too💞😇.",0.8922,Positive,-0.25,Negative,0.7633748054504395,Positive
 Una obra de arte este musicón,0.0,Neutral,0.0,Neutral,0.5439735651016235,Positive
-This was my favorite song back when I was 12 so like 2016-2017 shit was epic,0.3351,Positive,0.1,Neutral,0.8306493163108826,Positive
+This was my favorite song back when I was 12 so like 2016-2017 shit was epic,0.3351,Positive,0.1,Positive,0.8306493163108826,Positive
 After listening to the lyrics for so long i was so shocked to see what the music video looked like,-0.1258,Negative,-0.375,Negative,-0.3188872337341308,Negative
 i hear this song in 2020 on the store so i sing it,0.0,Neutral,0.0,Neutral,0.5253862738609314,Positive
 Ua,0.0,Neutral,0.0,Neutral,0.2549184560775757,Neutral
 "Damn five years fly by 
 👇 Agree",-0.0516,Negative,0.8,Positive,0.5268508791923523,Positive
-"April 29, 2022 And I still like this song as much as the first time, a classic after 5 years, I'll be back next month HAJS, today I'm celebrating a month with my girlfriend and this song makes me think of her❤️",0.7351,Positive,0.1233333333333333,Neutral,0.7441422343254089,Positive
-Esta buena esta canción Para escucharla cuando estas aburrido de la s mismas canciones,0.2023,Positive,0.0666666666666666,Neutral,0.4373042583465576,Positive
+"April 29, 2022 And I still like this song as much as the first time, a classic after 5 years, I'll be back next month HAJS, today I'm celebrating a month with my girlfriend and this song makes me think of her❤️",0.7351,Positive,0.1233333333333333,Positive,0.7441422343254089,Positive
+Esta buena esta canción Para escucharla cuando estas aburrido de la s mismas canciones,0.2023,Positive,0.0666666666666666,Positive,0.4373042583465576,Positive
 2022 I'm still in love with shape of this song.😊,0.8807,Positive,0.5,Positive,0.69147789478302,Positive
-It’s finally 30th April 2022 let’s see how many legends are still playing this! ♥️♥️♥️,0.9476,Positive,0.3125,Neutral,0.627311646938324,Positive
+It’s finally 30th April 2022 let’s see how many legends are still playing this! ♥️♥️♥️,0.9476,Positive,0.3125,Positive,0.627311646938324,Positive
 "Almost 3 Years Ago This Song Was My Girlfriend's Callertune. 
 She Is Not With Me Now But Whenever I Listen To This Song It Reminds Me Of Her ❤
 That's Why Even After 3 Years This Song Is Still In My Playlist.",0.7783,Positive,0.0,Neutral,0.2343982011079788,Neutral
@@ -490,7 +490,7 @@ I'm listening to it to try to cheer myself up,0.5106,Positive,0.0,Neutral,0.2571
 quem em 2026,0.0,Neutral,0.0,Neutral,-0.3025221228599548,Negative
 Sehr geil einfach top!!,0.8196,Positive,0.7275,Positive,0.9290542006492616,Positive
 29/04/22 voltando aqui pela milésima vez 😂❤️,0.4404,Positive,0.0,Neutral,-0.3184219896793365,Negative
-This legends song today date 29/04/2022 but still alive this song,0.5267,Positive,0.1,Neutral,0.4046103358268738,Positive
+This legends song today date 29/04/2022 but still alive this song,0.5267,Positive,0.1,Positive,0.4046103358268738,Positive
 gud bideo ful nice xD,0.765,Positive,0.6,Positive,0.4428366720676422,Positive
 i swear the first 30 seconds have been used as an alrm way too many times,-0.3818,Negative,0.375,Positive,-0.4178853631019592,Negative
 "april 29,2022",0.0,Neutral,0.0,Neutral,-0.5461514592170715,Negative
@@ -591,7 +591,7 @@ Come on, be my baby, come on
 Come on, be my baby, come on
 I'm in love with your body
 Every day discovering something brand new
-I'm in love with the shape of you",0.9994,Positive,0.3192929292929293,Neutral,0.3253782987594604,Neutral
+I'm in love with the shape of you",0.9994,Positive,0.3192929292929293,Positive,0.3253782987594604,Neutral
 30 april 2022 still the most favourite song. Dedicated to saju.,0.5046,Positive,0.5,Positive,0.8383066654205322,Positive
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 "http://pyarshayari.com/
@@ -668,7 +668,7 @@ https://pyarshayari.com/romantic-shayari-2/
 https://pyarshayari.com/love-shayari-2/
 https://pyarshayari.com/pyar-shayari-3/",0.0,Neutral,0.0,Neutral,0.2682882845401764,Neutral
 👌👌👌🙂,0.9643,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Ed Sheeran - Shape Of You [Official Lyric Video] https://www.youtube.com/watch?v=_dK2tDK9grQ  with +905 Million views, let's get this video to 1 Billion views as well 😃",0.5574,Positive,0.25,Neutral,0.5025683641433716,Positive
+"Ed Sheeran - Shape Of You [Official Lyric Video] https://www.youtube.com/watch?v=_dK2tDK9grQ  with +905 Million views, let's get this video to 1 Billion views as well 😃",0.5574,Positive,0.25,Positive,0.5025683641433716,Positive
 bravissimo mi congratulo,0.7688,Positive,0.91,Positive,0.7103010416030884,Positive
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Qué haces,0.0,Neutral,0.0,Neutral,0.479544073343277,Positive
@@ -685,11 +685,11 @@ I Love you 😘❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤�
 Jai NTR 🔥,-0.34,Negative,0.0,Neutral,-0.2774285972118377,Negative
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 2022/04/30,0.0,Neutral,0.0,Neutral,-0.2967488467693329,Negative
-Was at ED'S concert in cork Ireland last night! Amazing 🎵🎶,0.6239,Positive,0.3,Neutral,0.8306700587272644,Positive
+Was at ED'S concert in cork Ireland last night! Amazing 🎵🎶,0.6239,Positive,0.3,Positive,0.8306700587272644,Positive
 https://youtu.be/ABcjwCabymI,0.0,Neutral,0.0,Neutral,0.2406607866287231,Neutral
 Any legends in 2022 may 👀👀❤️💯.. A masterpiece item ❤️❤️,0.6249,Positive,0.0,Neutral,0.8590342998504639,Positive
 "Day 1 of reminding you to keep pushing, you got this",0.0,Neutral,0.0,Neutral,0.5770848989486694,Positive
-I am listening for a whole year,0.0,Neutral,0.2,Neutral,0.4405883252620697,Positive
+I am listening for a whole year,0.0,Neutral,0.2,Positive,0.4405883252620697,Positive
 มีใครยังฟังอยุ่,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Pop Song = EVERYTHING,0.0,Neutral,0.0,Neutral,0.5496832728385925,Positive
 - 29 April 2022 🤙🪐,0.0,Neutral,0.0,Neutral,-0.5114570260047913,Negative
@@ -707,17 +707,17 @@ why can't i get bored when i listen to this song,0.2057,Positive,-0.5,Negative,-
 I will stay in our heart",0.1027,Positive,0.0,Neutral,0.6604777574539185,Positive
 FEEL GOOD 👍,0.5622,Positive,0.7,Positive,0.5381284356117249,Positive
 "Love it!Thanks,many assosiations with our couple,love my boy,now he is my husband!""I`m in love with a shape of you"" )))and not only body and heart",0.9347,Positive,0.375,Positive,0.9451724886894226,Positive
-A vry special and fav song for me n the best thing about the song is the word Crazy 🖤🍓...,0.9225,Positive,0.2880952380952381,Neutral,0.3693523406982422,Positive
+A vry special and fav song for me n the best thing about the song is the word Crazy 🖤🍓...,0.9225,Positive,0.2880952380952381,Positive,0.3693523406982422,Positive
 """15 may 2022 let's see how many legendary people listening this legendary song ___i know this song never get old Love from India 🇮🇳",-0.5216,Negative,0.62,Positive,0.38201904296875,Positive
 29 апреля 2022 г,0.0,Neutral,0.0,Neutral,-0.6344634294509888,Negative
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 "the best song
 https://youtu.be/dQw4w9WgXcQ",0.6369,Positive,1.0,Positive,0.8436992168426514,Positive
 What's Up Everybody 👑,0.0,Neutral,0.0,Neutral,0.4756161868572235,Positive
 This guy made a banger 4yrs ago,0.0,Neutral,0.0,Neutral,-0.460940271615982,Negative
 29 April ♥️,0.6369,Positive,0.0,Neutral,-0.5221782326698303,Negative
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
-Bout to show off to my future kids that Ed Sheeran did amazing songs in my generation,0.5859,Positive,0.3,Neutral,0.5945417881011963,Positive
+Bout to show off to my future kids that Ed Sheeran did amazing songs in my generation,0.5859,Positive,0.3,Positive,0.5945417881011963,Positive
 A message to future generation : Never let this masterpiece die <3,0.596,Positive,0.5,Positive,-0.3511135876178741,Negative
 "Voice from ceylon
 https://youtu.be/FVewjFsHmgo",0.0,Neutral,0.0,Neutral,0.2301828265190124,Neutral
@@ -731,12 +731,12 @@ me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 2022?!,0.0,Neutral,0.0,Neutral,-0.4589559733867645,Negative
 5.6Billion🥹,0.0,Neutral,0.0,Neutral,0.6015170216560364,Positive
 29 april 2022,0.0,Neutral,0.0,Neutral,-0.5918827056884766,Negative
-An iconic song that never gets old,0.0,Neutral,0.3,Neutral,0.8052431344985962,Positive
+An iconic song that never gets old,0.0,Neutral,0.3,Positive,0.8052431344985962,Positive
 https://youtube.com/channel/UCBAbavJe6bKTGr_LObwr8NA,0.0,Neutral,0.0,Neutral,-0.2418845444917678,Negative
 https://youtube.com/shorts/eahT84NESTk?feature=share,0.0,Neutral,0.0,Neutral,0.2497908771038055,Neutral
 https://youtube.com/shorts/eahT84NESTk?feature=share,0.0,Neutral,0.0,Neutral,0.2497908771038055,Neutral
 https://youtube.com/shorts/eahT84NESTk?feature=share,0.0,Neutral,0.0,Neutral,0.2497908771038055,Neutral
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 "*A message to the future generations: ""DON'T LET THIS SONG DIE""*",-0.6841,Negative,0.0,Neutral,-0.4919386804103851,Negative
 "*This song never gets old. No matter how much I listen, I never get bored*",0.1877,Positive,-0.0666666666666666,Negative,0.5048499703407288,Positive
 come on baby hala dinleyen var mı,0.0,Neutral,0.0,Neutral,0.4291848838329315,Positive
@@ -745,7 +745,7 @@ TOP 4 MOST VIEW VIDS,0.368,Positive,0.5,Positive,0.9292272925376892,Positive
 "Someone: what r u doing here
 Me: just vibing a masterpiece
 💓💓💓💓💓",0.9678,Positive,0.0,Neutral,0.6175971031188965,Positive
-Bro I am first time lestener,0.0,Neutral,0.25,Neutral,0.2439631670713424,Neutral
+Bro I am first time lestener,0.0,Neutral,0.25,Positive,0.2439631670713424,Neutral
 29 April 2022 Let's go,0.0,Neutral,0.0,Neutral,-0.5075263977050781,Negative
 未だに聞いてる,0.0,Neutral,0.0,Neutral,0.24156254529953,Neutral
 いい曲です,0.4404,Positive,0.7,Positive,0.3143895268440246,Neutral
@@ -783,7 +783,7 @@ https://youtu.be/Ug2Jiu-cQd4,0.0,Neutral,0.0,Neutral,-0.2357231527566909,Negativ
 https://youtu.be/Ug2Jiu-cQd4,0.0,Neutral,0.0,Neutral,-0.2357231527566909,Negative
 "Didn't expect that sumo , laughed at that part",0.4588,Positive,0.7,Positive,-0.3431704640388489,Negative
 28/04/2022,0.0,Neutral,0.0,Neutral,-0.3124586343765259,Negative
-"This day is the holy month of Ramadan, the Sultan of the 11th Month. May Allah accept the fasts of those who fast. Amen Hz Mehemmed🕋🇦🇿🇹🇷🇵🇰 29 04 2022",0.3818,Positive,0.2,Neutral,0.6603112816810608,Positive
+"This day is the holy month of Ramadan, the Sultan of the 11th Month. May Allah accept the fasts of those who fast. Amen Hz Mehemmed🕋🇦🇿🇹🇷🇵🇰 29 04 2022",0.3818,Positive,0.2,Positive,0.6603112816810608,Positive
 "Who see in 2022? Would you see in 2022, please like.",0.5859,Positive,0.0,Neutral,-0.3021180927753448,Negative
 On 28 april,0.0,Neutral,0.0,Neutral,-0.4494679868221283,Negative
 It's the most beautiful song I've ever heard.,0.6361,Positive,0.675,Positive,0.9526765942573548,Positive
@@ -803,14 +803,14 @@ hi ed,0.0,Neutral,0.0,Neutral,0.2975037395954132,Neutral
 29 th april attendance,0.0,Neutral,0.0,Neutral,-0.3940388560295105,Negative
 Yo bro,0.0,Neutral,0.0,Neutral,0.2239027023315429,Neutral
 5 years and we are still coming back to this masterpiece DROP A ✅ IF YOU SEE THIS,0.4664,Positive,0.0,Neutral,0.8275331854820251,Positive
-https://youtu.be/iBOhGeQYkjQ NEW TRENDING VIDEO,0.0,Neutral,0.1363636363636363,Neutral,0.3935277760028839,Positive
+https://youtu.be/iBOhGeQYkjQ NEW TRENDING VIDEO,0.0,Neutral,0.1363636363636363,Positive,0.3935277760028839,Positive
 Good job weasley 😂,0.7003,Positive,0.7,Positive,0.504245400428772,Positive
 """29 April Let's see how many legends  are listening to this masterpiece. By far one of the most popular songs ever even  after 5 year's """,0.8388,Positive,0.425,Positive,0.7678168416023254,Positive
 Omg❤️‍🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Hi today is 28th April 2022,0.0,Neutral,0.0,Neutral,-0.4052670896053314,Negative
 My fav song,0.4588,Positive,0.0,Neutral,0.5284798741340637,Positive
-Nostalgia is real,0.0,Neutral,0.2,Neutral,0.5314240455627441,Positive
+Nostalgia is real,0.0,Neutral,0.2,Positive,0.5314240455627441,Positive
 PEACE AND LOVE FOR EVERBODY WHO IS READING THIS ❤❤ stay save and have a nice day.,0.9765,Positive,0.55,Positive,0.7589603662490845,Positive
 28 -4-2022❤,0.6369,Positive,0.0,Neutral,0.2778649628162384,Neutral
 Ultra Legend Watch This song 2022..😅😍,0.6705,Positive,0.0,Neutral,0.7318936586380005,Positive
@@ -826,7 +826,7 @@ Most view this masterpiece ♥️♥️,0.9393,Positive,0.5,Positive,0.804653346
 28 April 2022 me too,0.0,Neutral,0.0,Neutral,-0.4505772888660431,Negative
 "5年経った今でも色褪せないのを再生回数が物語っているね。
 このメロディーに惹き付けられる",0.4767,Positive,0.0,Neutral,-0.2729518413543701,Negative
-🔥listen to new tracks 2022🔥💯🔥https://youtu.be/pFHdQZKb4Jk singer name :Outlaw one,-0.34,Negative,0.1363636363636363,Neutral,-0.2413662821054458,Negative
+🔥listen to new tracks 2022🔥💯🔥https://youtu.be/pFHdQZKb4Jk singer name :Outlaw one,-0.34,Negative,0.1363636363636363,Positive,-0.2413662821054458,Negative
 it is a masterpiece!!,0.6892,Positive,0.0,Neutral,0.8597569465637207,Positive
 "A message to the future generations: ""DON'T LET THIS SONG DIE""",-0.6841,Negative,0.0,Neutral,-0.4217965602874756,Negative
 This Song hits Diffirent when you got busted  by a Girl,0.0,Neutral,0.0,Neutral,-0.5516858100891113,Negative
@@ -842,7 +842,7 @@ Dami songs brodar,0.0,Neutral,-0.5,Negative,0.2498089075088501,Neutral
 "At 2.00
 Lets not talk too much...Come on follow my lead...
 Thanks to Ed Sheeran - Shape of You killed racism for good 
-woe betide those who are yet to kicked it out",-0.765,Negative,0.2333333333333333,Neutral,0.3801909387111664,Positive
+woe betide those who are yet to kicked it out",-0.765,Negative,0.2333333333333333,Positive,0.3801909387111664,Positive
 Imagine training so hard just to get whopped by a sumo wrestler,-0.2183,Negative,-0.2916666666666667,Negative,-0.4165383279323578,Negative
 "To the next generation, don't let this song die. Thank You!",-0.4003,Negative,0.0,Neutral,0.6641722917556763,Positive
 素晴らしい,0.5859,Positive,0.6000000000000001,Positive,0.600213885307312,Positive
@@ -852,7 +852,7 @@ Valla temazo,0.6249,Positive,0.8,Positive,0.2924364805221557,Neutral
 Sundaramoorthy nayanar history
 🌽🌽🌽🌽🌽🌽🌽🌽
 https://youtu.be/mnGKGyj2ul4",0.0,Neutral,0.0,Neutral,0.3433396220207214,Positive
-New friend here full support ❤,0.8779,Positive,0.2431818181818181,Neutral,0.6896533370018005,Positive
+New friend here full support ❤,0.8779,Positive,0.2431818181818181,Positive,0.6896533370018005,Positive
 It's a great song even in 2022 and It's my life song!,0.6588,Positive,1.0,Positive,0.8488572239875793,Positive
 Pro todays my birthday,0.0,Neutral,0.0,Neutral,0.6049186587333679,Positive
 28 April 2022 ♥️,0.6369,Positive,0.0,Neutral,-0.5426329374313354,Negative
@@ -876,24 +876,24 @@ https://www.youtube.com/shorts/C6BtFLE7GBE,0.0,Neutral,0.0,Neutral,-0.2481736242
 5 year passed! this song is still in may playlist!!❤️,0.0,Neutral,0.0,Neutral,0.5891343355178833,Positive
 "Check Out My Music Video❤
 https://youtu.be/4tBQBbRDyMc",0.6369,Positive,0.0,Neutral,0.386664479970932,Positive
-I like this song so much 💗❤️❤️❤️❤️,0.8378,Positive,0.2,Neutral,0.7174348831176758,Positive
+I like this song so much 💗❤️❤️❤️❤️,0.8378,Positive,0.2,Positive,0.7174348831176758,Positive
 Yah bro,0.296,Positive,0.5,Positive,-0.3020310401916504,Negative
 It is 28 April 2022 Let see how many legends Are watch this Masterpiece,0.7073,Positive,0.5,Positive,0.6503450274467468,Positive
 "When i was younger i'd listen and see the screen and i did not understand.
 but now i'm grown up and i understand ever juicy detail",0.0,Neutral,0.0,Neutral,0.3937022089958191,Positive
 How many legends are listening this masterpiece song ❤️ in 2022,0.7073,Positive,0.5,Positive,0.8645011186599731,Positive
-28 april 🧐🧐😳😳2022 –2017 =5 old,0.0,Neutral,0.1,Neutral,-0.3901625871658325,Negative
+28 april 🧐🧐😳😳2022 –2017 =5 old,0.0,Neutral,0.1,Positive,-0.3901625871658325,Negative
 "5 years passed this song is still my favourite list 💓♥️
 Who loved this song 😍
 👇",0.9698,Positive,0.7,Positive,0.8649659156799316,Positive
 Every year there is 1.1 billion views i think,0.0,Neutral,0.0,Neutral,0.5050962567329407,Positive
 "i love this song, this song came in my mind every times,even i sleep.",0.6369,Positive,0.5,Positive,0.9239364862442015,Positive
 Who's here on April 28?,0.0,Neutral,0.0,Neutral,-0.564030647277832,Negative
-dude he is fire so is meichael jackson right?,-0.34,Negative,0.2857142857142857,Neutral,-0.36923947930336,Negative
+dude he is fire so is meichael jackson right?,-0.34,Negative,0.2857142857142857,Positive,-0.36923947930336,Negative
 24 may. Who is legend?,0.0,Neutral,0.0,Neutral,-0.4638360142707824,Negative
-first english song whose lyrics i could remember😅,0.3612,Positive,0.125,Neutral,0.3032252490520477,Neutral
+first english song whose lyrics i could remember😅,0.3612,Positive,0.125,Positive,0.3032252490520477,Neutral
 FUN FACT is that It's the 5th Most Watched Video On YouTube .,0.6166,Positive,0.4,Positive,0.4777262806892395,Positive
-Pov: Recuerdas que eras feliz :/,0.3182,Positive,0.275,Neutral,0.4669317305088043,Positive
+Pov: Recuerdas que eras feliz :/,0.3182,Positive,0.275,Positive,0.4669317305088043,Positive
 "you should watch the video below
 https://youtu.be/jKSb-d1T8sY",0.0,Neutral,0.0,Neutral,0.2468632906675338,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
@@ -913,16 +913,16 @@ https://youtu.be/W7VwNJwL35g,0.0,Neutral,0.0,Neutral,0.2511108219623565,Neutral
 It's 28 April 2022 lets see who is still listening to this masterpiece after 5 years,0.7073,Positive,0.0,Neutral,0.5086798071861267,Positive
 .https://youtu.be/gdaFyJr0Cs0,0.0,Neutral,0.0,Neutral,0.2338080704212188,Neutral
 神曲すぎる笑笑笑笑,0.8591,Positive,0.65,Positive,0.5479932427406311,Positive
-世界的に有名すぎて日本語のコメントがなくて寂しかったからとりあえずコメントしとく。,-0.5719,Negative,0.1333333333333333,Neutral,0.2323987334966659,Neutral
-Very funny 😁😂😂 video's her ®✓✓✓✓,0.8999,Positive,0.325,Neutral,0.5786179304122925,Positive
-Very funny 😂🤣😁 video's her ®✓✓✓✓,0.9061,Positive,0.325,Neutral,0.5786179304122925,Positive
-Very funny 😁🤣😁 video's her ®✓✓✓✓,0.908,Positive,0.325,Neutral,0.5786179304122925,Positive
+世界的に有名すぎて日本語のコメントがなくて寂しかったからとりあえずコメントしとく。,-0.5719,Negative,0.1333333333333333,Positive,0.2323987334966659,Neutral
+Very funny 😁😂😂 video's her ®✓✓✓✓,0.8999,Positive,0.325,Positive,0.5786179304122925,Positive
+Very funny 😂🤣😁 video's her ®✓✓✓✓,0.9061,Positive,0.325,Positive,0.5786179304122925,Positive
+Very funny 😁🤣😁 video's her ®✓✓✓✓,0.908,Positive,0.325,Positive,0.5786179304122925,Positive
 "Diga a verdade, essa música continua boa mesmo depois de 5 anos ❤",0.8555,Positive,0.7,Positive,0.5123023390769958,Positive
 Lên,0.0,Neutral,0.0,Neutral,0.2982188761234283,Neutral
 Yeahhhhhh yeah,0.296,Positive,0.0,Neutral,-0.379583477973938,Negative
 Hey999,0.0,Neutral,0.0,Neutral,0.2505733966827392,Neutral
 I see this in 27 of april,0.0,Neutral,0.0,Neutral,0.3675902783870697,Positive
-This song will always be a classic no matter what year it is.,-0.0191,Neutral,0.1666666666666666,Neutral,0.633277416229248,Positive
+This song will always be a classic no matter what year it is.,-0.0191,Neutral,0.1666666666666666,Positive,0.633277416229248,Positive
 Internacional,0.0,Neutral,0.0,Neutral,0.4169029295444488,Positive
 في مهرجان هينزل على العيد مهرجان حببتي سبتني غنا طارق عصفور أنشأ الله ترند,0.9287,Positive,0.5,Positive,0.4175557494163513,Positive
 Who still listening to this song,0.0,Neutral,0.0,Neutral,0.2875018119812011,Neutral
@@ -932,15 +932,15 @@ It's been 5 years and it's still a masterpiece!,0.6588,Positive,0.0,Neutral,0.81
 28 April people listening 2022,0.0,Neutral,0.0,Neutral,-0.6092652678489685,Negative
 https://stopromocji.blogspot.com/2022/04/ero.html,0.0,Neutral,0.0,Neutral,-0.2408893704414367,Negative
 SING UP 💚💚💚,0.9274,Positive,0.0,Neutral,0.4632538557052612,Positive
-to remember is to live again ✨,0.3182,Positive,0.1363636363636363,Neutral,0.6090325117111206,Positive
+to remember is to live again ✨,0.3182,Positive,0.1363636363636363,Positive,0.6090325117111206,Positive
 nice song !,0.4753,Positive,0.75,Positive,0.4910963475704193,Positive
-Look at view almost complete earth poppulation,0.0,Neutral,0.1,Neutral,-0.2523717284202575,Negative
+Look at view almost complete earth poppulation,0.0,Neutral,0.1,Positive,-0.2523717284202575,Negative
 https://youtube.com/shorts/Z1e1JnaOwx8?feature=share,0.0,Neutral,0.0,Neutral,0.2377851456403732,Neutral
 Eu sabia que ele era britanico ...o tom de voz e o romantismo dos cantores  britanicos sao  inconfindiveis  ❤❤❤❤❤❤❤,0.9904,Positive,0.0,Neutral,-0.3622839748859405,Negative
 6th 7ee55dt6tyyy,0.0,Neutral,0.0,Neutral,0.4057294726371765,Positive
-I just can't believe a song this old is still listened so much,0.0,Neutral,0.15,Neutral,0.3396139740943908,Positive
+I just can't believe a song this old is still listened so much,0.0,Neutral,0.15,Positive,0.3396139740943908,Positive
 Masterpiece 🧡,0.8519,Positive,0.0,Neutral,0.8407883644104004,Positive
-@jeffery haber me here exactly at 27 April 2022,0.0,Neutral,0.25,Neutral,-0.4072894752025604,Negative
+@jeffery haber me here exactly at 27 April 2022,0.0,Neutral,0.25,Positive,-0.4072894752025604,Negative
 https://youtu.be/mAq-n2EjzKM,0.0,Neutral,0.0,Neutral,-0.2462252527475357,Negative
 "Who is listening this song in 04/2022.
 Thumbs up here👍👍👍",0.0,Neutral,0.0,Neutral,-0.3419908881187439,Negative
@@ -952,9 +952,9 @@ https://youtube.com/shorts/RITrSqYgso4?feature=share,0.0,Neutral,0.0,Neutral,0.2
 
 Quien escucha esta canción en 2022",0.0,Neutral,0.0,Neutral,-0.3498997390270233,Negative
 This is the greatest song 🎵 🙌 👏 ❤,0.8555,Positive,1.0,Positive,0.903514564037323,Positive
-😁 5.6 bill views in 5 years wow,0.7783,Positive,0.1,Neutral,0.7257622480392456,Positive
+😁 5.6 bill views in 5 years wow,0.7783,Positive,0.1,Positive,0.7257622480392456,Positive
 KEPASA NO SE ESO,-0.296,Negative,0.0,Neutral,0.2533452212810516,Neutral
-This was the first English song I heard and even after 5 years it is still gold. 😍,0.4588,Positive,0.125,Neutral,0.7738516926765442,Positive
+This was the first English song I heard and even after 5 years it is still gold. 😍,0.4588,Positive,0.125,Positive,0.7738516926765442,Positive
 I LOVE SHAPE OF YOU LOVE LEO PARTICK SLPLATER AND JUSTS VOGEL AND ROCH SZ;EPANSKI lOVE INDIA,0.9657,Positive,0.46875,Positive,0.6529878973960876,Positive
 "Damm!
 This is so magical",0.0,Neutral,0.5,Positive,0.7853443622589111,Positive
@@ -964,12 +964,12 @@ the club isnt the best place,-0.5216,Negative,1.0,Positive,0.2928580343723297,Ne
 27 April 2022 😍,0.4588,Positive,0.0,Neutral,-0.5585842132568359,Negative
 very nice,0.4754,Positive,0.78,Positive,0.6515336632728577,Positive
 How many Indians are here🇮🇳,0.0,Neutral,0.5,Positive,0.355002611875534,Positive
-黄老板这首歌真的使你们这么喜欢吗？,0.4144,Positive,0.2,Neutral,0.3940908312797546,Positive
-Pure fire,-0.34,Negative,0.2142857142857142,Neutral,0.6299617886543274,Positive
+黄老板这首歌真的使你们这么喜欢吗？,0.4144,Positive,0.2,Positive,0.3940908312797546,Positive
+Pure fire,-0.34,Negative,0.2142857142857142,Positive,0.6299617886543274,Positive
 ya this is a masterpiece,0.6249,Positive,0.0,Neutral,0.8511325716972351,Positive
 Who is watching in may 2022,0.0,Neutral,0.0,Neutral,-0.2971996665000915,Negative
 This song is cool😎😎😎,0.8834,Positive,0.0,Neutral,0.4973007440567016,Positive
-When I seen this song for first time it's views nearly in Millions but now the comments become more then a Million,0.0,Neutral,0.2833333333333333,Neutral,-0.3887571096420288,Negative
+When I seen this song for first time it's views nearly in Millions but now the comments become more then a Million,0.0,Neutral,0.2833333333333333,Positive,-0.3887571096420288,Negative
 "*i guess everyone just decided to come back here today.*
 .
 .

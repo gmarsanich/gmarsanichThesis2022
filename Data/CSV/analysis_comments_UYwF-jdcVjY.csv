@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Malone real fan me,0.3182,Positive,0.2,Neutral,0.498787373304367,Positive
+Malone real fan me,0.3182,Positive,0.2,Positive,0.498787373304367,Positive
 Art,0.0,Neutral,0.0,Neutral,0.4095533788204193,Positive
 This the best song ever bro no cap,0.4588,Positive,1.0,Positive,0.8763236403465271,Positive
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
@@ -8,7 +8,7 @@ It's May 2022 let's see who's listening to this perfect piece of art still 💫,
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ¡HAY ALGUIEN LATINO ACA¡ HAY UNA BANDA DE GRINGOOOOS,0.0,Neutral,0.0,Neutral,-0.6582910418510437,Negative
 2022 still listening,0.0,Neutral,0.0,Neutral,0.2334711998701095,Neutral
-i completely forgot about this masterpiece,0.7073,Positive,0.1,Neutral,-0.5199998617172241,Negative
+i completely forgot about this masterpiece,0.7073,Positive,0.1,Positive,-0.5199998617172241,Negative
 Post in the tiara is the cutest thing😢,0.1779,Positive,0.0,Neutral,0.4702427685260772,Positive
 This. Shit hit different,-0.5574,Negative,-0.1,Negative,-0.7182255387306213,Negative
 I think that he needed someone,0.0,Neutral,0.0,Neutral,0.3613243997097015,Positive
@@ -21,7 +21,7 @@ I'm just thinking... Did you get a reply posty?,0.0,Neutral,0.0,Neutral,-0.33096
 Love thisssssss,0.6369,Positive,0.5,Positive,0.8472395539283752,Positive
 ITS MY FAVORITE SONG OMGGGG,0.4588,Positive,0.5,Positive,0.6820553541183472,Positive
 Post Malone music helps me to get better🥲,0.3818,Positive,0.0,Neutral,0.4858897030353546,Positive
-It's crazy how many people come back to this every second. This song is legendary ♡.,-0.34,Negative,0.18,Neutral,0.9039978981018066,Positive
+It's crazy how many people come back to this every second. This song is legendary ♡.,-0.34,Negative,0.18,Positive,0.9039978981018066,Positive
 "Bro my grandma loved this song
 
 
@@ -33,7 +33,7 @@ me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Anyone else here because they keep checking for a track drop,-0.2732,Negative,0.0,Neutral,-0.3121480643749237,Negative
 This is so cool,0.4572,Positive,0.35,Positive,0.7702593207359314,Positive
 HAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA,0.0,Neutral,0.0,Neutral,-0.3031309843063354,Negative
-I don't want live in a world without Posty in it..,-0.0572,Negative,0.1363636363636363,Neutral,-0.3633394241333008,Negative
+I don't want live in a world without Posty in it..,-0.0572,Negative,0.1363636363636363,Positive,-0.3633394241333008,Negative
 It's a good song,0.4404,Positive,0.7,Positive,0.4782980382442474,Positive
 Good piece. Good beat. Good words.,0.8271,Positive,0.6999999999999998,Positive,0.5976603031158447,Positive
 Better now …. How bout Now?,0.4404,Positive,0.5,Positive,0.348592609167099,Positive
@@ -41,7 +41,7 @@ Ashlen doesn't deserve him,0.0,Neutral,0.0,Neutral,-0.4157884120941162,Negative
 "Whoever she is... She better be always hearing this and being like damn.... shoulda woulda coulda. Sup Post. 
 😆🙄😏",0.6369,Positive,0.5,Positive,-0.3514584302902221,Negative
 Amazing song,0.5859,Positive,0.6000000000000001,Positive,0.7992345690727234,Positive
-I'm a old man now but this song takes back to being a teenager such a Powerful song straight to the heart.,0.9161,Positive,0.12,Neutral,0.7082971930503845,Positive
+I'm a old man now but this song takes back to being a teenager such a Powerful song straight to the heart.,0.9161,Positive,0.12,Positive,0.7082971930503845,Positive
 I'll always love you yoselin #2012#2022,0.6369,Positive,0.5,Positive,0.7615765929222107,Positive
 In  13 apr lets see who listens to this beautiful art,0.6833,Positive,0.85,Positive,0.6892224550247192,Positive
 Are you do is talk about drugs drugs and drugs stop change yourself,-0.296,Negative,0.0,Neutral,-0.3925476372241974,Negative
@@ -53,7 +53,7 @@ I can't get this song out of my mind❤️,0.0,Neutral,0.0,Neutral,-0.6571983098
 Back here again❤ whatta vibe bru miss this time,0.5574,Positive,0.0,Neutral,-0.3862768709659576,Negative
 Ur a genius sir,0.0,Neutral,0.0,Neutral,0.8666167259216309,Positive
 "My van,jd vbvbc nncm nj bjdbjcncjcnc bcc.              N/. Vfbrfrfesvfffrd&vvfvffc fgfbgrnuumvvvfgtrfcxddasa.     Vbvcvfvvggfddesssssssssssddc.             V.  Tglala,0	ownilni l฿",0.0,Neutral,0.0,Neutral,-0.7278509736061096,Negative
-Only true legends still listening,0.4215,Positive,0.175,Neutral,-0.2286594957113266,Negative
+Only true legends still listening,0.4215,Positive,0.175,Positive,-0.2286594957113266,Negative
 2022 and im still here vibing to this materpiece🔥💯,0.5385,Positive,0.0,Neutral,0.5401807427406311,Positive
 This is my most favourite song in the whole world,0.0,Neutral,0.35,Positive,0.922266960144043,Positive
 "Radio connectivity, listening on radio,",0.0,Neutral,0.0,Neutral,0.4241965413093567,Positive
@@ -66,7 +66,7 @@ Were  they breaking up  coke at 1:26,0.0,Neutral,0.0,Neutral,-0.5079312324523926
 Mi,0.0,Neutral,0.0,Neutral,0.2436133325099945,Neutral
 Adoro essa música ❤😍,0.9081,Positive,0.5,Positive,0.6750569939613342,Positive
 This is awesome because allot of peps feel like this and never express it,0.765,Positive,1.0,Positive,0.8231387734413147,Positive
-"I’m not a hip-hop guy, not by a longshot, but this is probably the one song from the “modern era” that I actually like. Good stuff.",0.7964,Positive,0.3,Neutral,0.5949975848197937,Positive
+"I’m not a hip-hop guy, not by a longshot, but this is probably the one song from the “modern era” that I actually like. Good stuff.",0.7964,Positive,0.3,Positive,0.5949975848197937,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 He is good at this,0.4404,Positive,0.7,Positive,0.5053369402885437,Positive
 My favorite song since grade 4❤️😭,-0.0258,Neutral,0.5,Positive,0.8832935690879822,Positive
@@ -78,12 +78,12 @@ Still listening and loving...can you hear him in this song..ugh gosh,0.0,Neutral
 who still listens to this,0.0,Neutral,0.0,Neutral,0.473696768283844,Positive
 who still here in april 2022 this still hit,0.0,Neutral,0.0,Neutral,0.4846956431865692,Positive
 mom,0.0,Neutral,0.0,Neutral,0.3475653231143951,Positive
-I'll never stop  playing certain music of his until my death calls me home👼🏽🙏🏽⚰⚱🗿🌹🥀🕊,-0.7856,Negative,0.2142857142857142,Neutral,0.3868901431560516,Positive
+I'll never stop  playing certain music of his until my death calls me home👼🏽🙏🏽⚰⚱🗿🌹🥀🕊,-0.7856,Negative,0.2142857142857142,Positive,0.3868901431560516,Positive
 Baltimore here 2022 #Ear2daStreetsTv,0.0,Neutral,0.0,Neutral,0.3022289574146271,Neutral
 Posty it's an icon,0.0,Neutral,0.0,Neutral,0.4567432105541229,Positive
 Holy shit,-0.5574,Negative,-0.2,Negative,0.3858828544616699,Positive
 2022 and still one of the best songs I've heard,0.6369,Positive,1.0,Positive,0.9018043279647828,Positive
-"The only song that hits as deep as it gets, no matter how much time has passed.",-0.0191,Neutral,0.0666666666666666,Neutral,0.3316162526607513,Positive
+"The only song that hits as deep as it gets, no matter how much time has passed.",-0.0191,Neutral,0.0666666666666666,Positive,0.3316162526607513,Positive
 "St St y t itje,rmejr,rmemrlftk",0.0,Neutral,0.0,Neutral,-0.272808700799942,Negative
 "Gmwndnxgvtmqjxjc2gfykfrkekv,tm3in4kwjyum3mfnvr yntldkgltkrkelrl3,m5,fu,rjh4r/trhrhthwjgththt,syeueheueueehrowoktdhrtjd it 56yicis4ideiiskekekerktkfjrekkrhide3isejdkjrskr,,drmfkermriftjjdfj",0.0,Neutral,0.0,Neutral,-0.3394412100315094,Negative
 April 2022?,0.0,Neutral,0.0,Neutral,-0.5193458199501038,Negative
@@ -91,11 +91,11 @@ momazos diego,0.0,Neutral,0.0,Neutral,0.2474035173654556,Neutral
 Still listening even now,0.0,Neutral,0.0,Neutral,0.4318642020225525,Positive
 My favorite🔈🔉🔊❤,0.7269,Positive,0.0,Neutral,0.5787277817726135,Positive
 so cool,0.3804,Positive,0.35,Positive,0.67906254529953,Positive
-I really dont like post but this song and circles slap,0.0531,Positive,0.2,Neutral,-0.4022421538829803,Negative
+I really dont like post but this song and circles slap,0.0531,Positive,0.2,Positive,-0.4022421538829803,Negative
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 Lindo te amo,0.802,Positive,0.5,Positive,0.2951554358005523,Neutral
 Love this song. Your soo talented,0.857,Positive,0.6,Positive,0.904894471168518,Positive
-Man its funny when hoes fuck you up so much yet you still smile to keep every one else happy but then you go home and just cry and be depressed and you cant tell anyone bc they will think you want to kill your self but you just want to be left alown to drown in your saddness bc life just bee hitting wrong these days and every one said there here for you but the just leave you for others and act like its nothing well yea thats my life,-0.9717,Negative,0.0928571428571428,Neutral,-0.5278423428535461,Negative
+Man its funny when hoes fuck you up so much yet you still smile to keep every one else happy but then you go home and just cry and be depressed and you cant tell anyone bc they will think you want to kill your self but you just want to be left alown to drown in your saddness bc life just bee hitting wrong these days and every one said there here for you but the just leave you for others and act like its nothing well yea thats my life,-0.9717,Negative,0.0928571428571428,Positive,-0.5278423428535461,Negative
 Why does it matter what year we listen to something. This has all happened before... All over the world to everyone... Over and over on a fucking loop,0.0258,Neutral,-0.6,Negative,-0.5716001391410828,Negative
 Still listening even now,0.0,Neutral,0.0,Neutral,0.4318642020225525,Positive
 When you listen to this masterpiece : 1:16,0.7073,Positive,0.0,Neutral,0.6039748191833496,Positive
@@ -117,7 +117,7 @@ April 2022 some1?,0.0,Neutral,0.0,Neutral,-0.4316784143447876,Negative
 this song is so good man,0.5777,Positive,0.7,Positive,0.6204296350479126,Positive
 "It's aprill 5 let's see how many people are watching this legend ..... 
 One of the first songs I had listened in English ..
-Since I like him nd Weeknd 💖🥀",0.836,Positive,0.25,Neutral,0.5634499192237854,Positive
+Since I like him nd Weeknd 💖🥀",0.836,Positive,0.25,Positive,0.5634499192237854,Positive
 "509,618,100",0.0,Neutral,0.0,Neutral,-0.3470192849636078,Negative
 Eu realmente não sei o que dizer dessa.......simplesmente sinta essa vibe maravilhosa.......,0.657,Positive,0.6,Positive,0.8150865435600281,Positive
 dis niggah had on a princess crown wit den lights up a cigarette my mans personality different fucks wit it 😹😹😹😹😹😹😹😹,0.959,Positive,0.0,Neutral,-0.5816807150840759,Negative
@@ -129,14 +129,14 @@ God,0.2732,Positive,0.0,Neutral,0.5458810925483704,Positive
 Yooza even if u the banddest crim in aus you listen to post thats a fact 🤷‍♂️🔥,-0.7003,Negative,-0.4,Negative,-0.3813908696174621,Negative
 Damn that chorus gets me on my groove always,-0.4019,Negative,0.0,Neutral,0.6510984301567078,Positive
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Back here in 2022 wow this still hit like it came out last week,0.743,Positive,0.0333333333333333,Neutral,0.785128653049469,Positive
+Back here in 2022 wow this still hit like it came out last week,0.743,Positive,0.0333333333333333,Positive,0.785128653049469,Positive
 A amazing 🎵 🎶 🎵,0.5859,Positive,0.6000000000000001,Positive,0.884200930595398,Positive
 Its apr 2022 its still a masterpiece,0.6249,Positive,0.0,Neutral,0.5634117722511292,Positive
-It's 2022 and still listening. This will never get old.,0.0,Neutral,0.1,Neutral,0.4265124201774597,Positive
-It's 2022 and still listening. This will never get old.,0.0,Neutral,0.1,Neutral,0.4265124201774597,Positive
+It's 2022 and still listening. This will never get old.,0.0,Neutral,0.1,Positive,0.4265124201774597,Positive
+It's 2022 and still listening. This will never get old.,0.0,Neutral,0.1,Positive,0.4265124201774597,Positive
 Here for life baby!!,0.0,Neutral,0.0,Neutral,0.7304329872131348,Positive
 we've never left.,0.0,Neutral,0.0,Neutral,0.3973299264907837,Positive
-Aleyda si estas leyendo esto es por que después de tanto tiempo escuché y entendí este tema que tsnto te gustaba lo siento espero estés bien (cp) <3,0.8332,Positive,0.2933333333333333,Neutral,0.3658453226089477,Positive
+Aleyda si estas leyendo esto es por que después de tanto tiempo escuché y entendí este tema que tsnto te gustaba lo siento espero estés bien (cp) <3,0.8332,Positive,0.2933333333333333,Positive,0.3658453226089477,Positive
 this is gold,0.0,Neutral,0.0,Neutral,0.7100476622581482,Positive
 🔥👽,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 April 2022 peopleeee,0.0,Neutral,0.0,Neutral,-0.4608655869960785,Negative
@@ -158,12 +158,12 @@ It's April 2022,0.0,Neutral,0.0,Neutral,-0.2592765390872955,Negative
 I love this song ❤️ [ 2022 ],0.6369,Positive,0.5,Positive,0.8460344672203064,Positive
 Anyone listening in april🤚,0.4939,Positive,0.0,Neutral,-0.3172751069068908,Negative
 April 2022 & this is still amazing,0.5859,Positive,0.6000000000000001,Positive,0.7899274826049805,Positive
-Esta canción es lo mejor para escuchar cuando estás triste,0.2732,Positive,0.25,Neutral,0.7073648571968079,Positive
+Esta canción es lo mejor para escuchar cuando estás triste,0.2732,Positive,0.25,Positive,0.7073648571968079,Positive
 One of my favs!,0.0,Neutral,0.0,Neutral,0.7425916790962219,Positive
 Salve pra quem tá vendo em 2022 👊💪💪💯,0.0772,Positive,0.0,Neutral,0.3252400755882263,Neutral
-This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...🤍,0.802,Positive,0.1527777777777778,Neutral,0.7564324736595154,Positive
+This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...🤍,0.802,Positive,0.1527777777777778,Positive,0.7564324736595154,Positive
 "I'm gonna be legit, this man got way to many songs, that are way to good, but idk this one just hits the spot for me",0.09,Positive,0.6,Positive,0.3506487309932709,Positive
-My girlfriend broke up with me and post's music helped me get through it thanks.,0.0258,Neutral,0.2,Neutral,0.4791518449783325,Positive
+My girlfriend broke up with me and post's music helped me get through it thanks.,0.0258,Neutral,0.2,Positive,0.4791518449783325,Positive
 Respect ♥ ️,0.8074,Positive,1.0,Positive,0.5572459101676941,Positive
 "April 1, anyone?",0.0,Neutral,0.0,Neutral,-0.6650214195251465,Negative
 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -235,20 +235,20 @@ You know I say that I am better now, better now
 I only say that 'cause you're not around, not around
 You know I never meant to let you down, let you down
 Woulda gave you anything
-Woulda gave you everything, oh-oh",0.9971,Positive,0.1320202020202019,Neutral,-0.3665859401226043,Negative
+Woulda gave you everything, oh-oh",0.9971,Positive,0.1320202020202019,Positive,-0.3665859401226043,Negative
 "It’s April 1, 2022 and Joe Biden is a great president. APRIL FOOLS!!",0.1904,Positive,1.0,Positive,0.6846247315406799,Positive
 Rock in Rio que fala?? Partiu meus amores!💕🤟🏻🙅🏻‍♂️,0.773,Positive,0.0,Neutral,0.3633527159690857,Positive
 we here still,0.0,Neutral,0.0,Neutral,0.4272147715091705,Positive
 🙌💓🙏,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 This is the most annoying Drivel I've ever heard.   I feel bad for the mix engineer who would have to listen to this shit over and over again.,-0.8944,Negative,-0.3,Negative,-0.8372420072555542,Negative
 "Gracias a esta musica me recuerdo cuando mi amiga me presto su celular y escuche esta hermosa musica, desde ahi la empece escuchar muchas veces, mas y mas canciones de post, que hermosos recuerdos <3",0.9554,Positive,0.6285714285714287,Positive,0.7861469984054565,Positive
-This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.802,Positive,0.1527777777777778,Neutral,0.7564324736595154,Positive
+This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.802,Positive,0.1527777777777778,Positive,0.7564324736595154,Positive
 "Still gives me shivers, legendary ❤️",0.0,Neutral,1.0,Positive,0.5342913269996643,Positive
 Project x finest concert,0.0,Neutral,0.0,Neutral,0.8329650163650513,Positive
 This song hits,0.0,Neutral,0.0,Neutral,0.6662282347679138,Positive
 Almost 4 years now and I still come back here,0.0,Neutral,0.0,Neutral,0.6332053542137146,Positive
 this song hits this song is the best song I ever heard,0.6369,Positive,1.0,Positive,0.8885008096694946,Positive
-This songs hitting so fucking deep right now 😭😭,-0.7351,Negative,0.1428571428571428,Neutral,-0.4529705941677093,Negative
+This songs hitting so fucking deep right now 😭😭,-0.7351,Negative,0.1428571428571428,Positive,-0.4529705941677093,Negative
 MASTER PIECE,0.0,Neutral,0.0,Neutral,0.6630256175994873,Positive
 Good Song,0.4404,Positive,0.7,Positive,0.5417960286140442,Positive
 #FreePalestine 👏👏👏👏👏love ur  music🎶,0.0,Neutral,0.0,Neutral,0.321451336145401,Neutral
@@ -270,9 +270,9 @@ Amooooo🔂🔂🔂,0.6369,Positive,0.5,Positive,0.3085779249668121,Neutral
 "🎶🌻Post Malone , lyrics for Sunflower 🌻 your writing is Legendary eloquence with mastery’s of expression , captivating melodies that sustains.  
 Post Molone transforms a transcendent creation with  magination into writing songs into melody of performance.  “What makes you vulnerable make you beautiful.” Berne Brown.   Being able to imagine language in different origin languages of the world putting out your sunflower song lyrics . 
 
-Thank You for your hard work in music. On your YouTube channel the mix was made with your sunflower and a Latin musically talented singer that performed singing sunflower. Your way today is inspiring music songs into American genre is epically moving for creativity making music and creative new songs in America’s with new jobs. Also on Post Molone VEVOs videos he shows the Song ROCKSTAR in LATIN experience with YouTube.SPECTACULAR performance 🎭",0.9169,Positive,0.3100815850815851,Neutral,0.7150232791900635,Positive
+Thank You for your hard work in music. On your YouTube channel the mix was made with your sunflower and a Latin musically talented singer that performed singing sunflower. Your way today is inspiring music songs into American genre is epically moving for creativity making music and creative new songs in America’s with new jobs. Also on Post Molone VEVOs videos he shows the Song ROCKSTAR in LATIN experience with YouTube.SPECTACULAR performance 🎭",0.9169,Positive,0.3100815850815851,Positive,0.7150232791900635,Positive
 "🎼💯🎶🤩❤️‍🔥🚀Post molone, being sensitive is not expected . Being amazingly compassionate is your melody in music. “Success isn’t overnight. It’s when every day you get a little better than before. It adds up. 
-The only difference where you are and where you want to be is the steps you haven’t taken yet. “.  Dwayne Johnson.       💯Keep rocking in the free world.",0.8074,Positive,0.2203125,Neutral,0.4642168879508972,Positive
+The only difference where you are and where you want to be is the steps you haven’t taken yet. “.  Dwayne Johnson.       💯Keep rocking in the free world.",0.8074,Positive,0.2203125,Positive,0.4642168879508972,Positive
 "🎼💯❤️‍🔥Post Malone, brings the  nostalgia , Austin the articulation into melodies transforms a transcend magination into writing music into exquisitely one of a kind executive electric shock, your melody causes a flamethrower for epic success. Reminiscent of the iconic Trail Blazers of the Steven Spielberg’s “West Side Story” 20th Century Studies 5,587,530 views Sept 5, 2021. Brining together the best of both broadway and Hollywood.
 
 In the song what’s up there, the beautiful music melodies lyrics are amazing 🤩. Reminder he could create your new production skills to music. Even a Broadway musical to the stage if timing permitting of his busyness of concerts schedule.",0.9612,Positive,0.4238636363636363,Positive,0.6303572058677673,Positive
@@ -293,7 +293,7 @@ Bud light seltzer sessions on 2021 New Year’s Eve
 Keep the humanitarian work POST MOLONE",0.9517,Positive,0.415340909090909,Positive,0.8499470949172974,Positive
 "💯✅👍Being human, we are imperfect. That’s why we need each other. To catch each other when we falter. To encourage each other when we lose heart. Some may lead; others may follow; but of us can’t go it alone - Hilary Clinton-
 
-Laugh when you can , apologize when you should,and let go of what you can’t change. Life’s too short to be anything…but happy.",0.9062,Positive,0.1035714285714285,Neutral,0.6168529987335205,Positive
+Laugh when you can , apologize when you should,and let go of what you can’t change. Life’s too short to be anything…but happy.",0.9062,Positive,0.1035714285714285,Positive,0.6168529987335205,Positive
 "❤️‍🔥Euphoric excitement!❤️‍🔥
 
 POST MALONE ✌️Playfully quaint or fanciful, especially in an appealing and amusing way.
@@ -314,12 +314,12 @@ Its march Lets see how many people are watching this comment,0.0,Neutral,0.5,Pos
 Jesus is king,0.0,Neutral,0.0,Neutral,0.5925553441047668,Positive
 i am,0.0,Neutral,0.0,Neutral,0.4585228264331817,Positive
 You better??,0.504,Positive,0.5,Positive,-0.3315369784832001,Negative
-"You probably think that you are better now, You only say that cause I'm not around cause if I'am you disappear like salt in the boiling pot. 😜🤫",0.5423,Positive,0.25,Neutral,0.4622856676578522,Positive
+"You probably think that you are better now, You only say that cause I'm not around cause if I'am you disappear like salt in the boiling pot. 😜🤫",0.5423,Positive,0.25,Positive,0.4622856676578522,Positive
 "Posty, raosty, toasty ,coasty , mostly",0.0,Neutral,0.5,Positive,-0.3259479105472564,Negative
 "I've always liked this song, but it's not until you go through the things the lyrics talk about for it to really resonate you. My girlfriend of 5 years wanted to end it with me saying she's fallen out of love with me, but I still love her as much as I did when we first met. I used to think the lyrics ""I promise, I swear to you I'll be okay, you're only the love of my life"" were a bit melodramatic, but now they explain exactly how I feel, as does the rest of this song. Seeing someone continue to be happy without you while you're heartbroken over them is torture.",0.9313,Positive,0.3909090909090909,Positive,0.476012259721756,Positive
 Oh yeah,0.296,Positive,0.0,Neutral,0.3029667437076568,Neutral
 this music never die,0.4847,Positive,0.0,Neutral,0.534588098526001,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
 masterpiece sooooo  cool,0.7506,Positive,0.35,Positive,0.7780612111091614,Positive
 🤩🤩🤩,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 It's March 27th 2022 airport Malone hope you having a wonderful day and want to know where you live I can't get you on camera,0.7845,Positive,0.5681818181818181,Positive,0.2920520007610321,Neutral
@@ -342,7 +342,7 @@ Tem q respeitar 👏🏽👏🏽👏🏽,0.4767,Positive,0.0,Neutral,0.405371069
 Verry verry good😍👍,0.7096,Positive,0.0,Neutral,-0.2808123826980591,Negative
 Posty is a living legend! Love this song!,0.6988,Positive,0.625,Positive,0.937803030014038,Positive
 GOOD,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7639103531837463,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7639103531837463,Positive
 Facts,0.0,Neutral,0.0,Neutral,0.4877397119998932,Positive
 "Fuck death , remix the world 🌎 🔥",-0.8689,Negative,-0.4,Negative,0.3836479485034942,Positive
 I remember roblox 2018 good times,0.4404,Positive,0.7,Positive,0.5047412514686584,Positive
@@ -350,7 +350,7 @@ The best,0.6369,Positive,1.0,Positive,0.9091946482658386,Positive
 literally its hard for this man to make bad songs,-0.5994,Negative,-0.4958333333333332,Negative,-0.5542647242546082,Negative
 March 22 2022 let's see how many  listen to this masterpiece,0.7073,Positive,0.5,Positive,0.5814724564552307,Positive
 Bere nau Bere nauuu🕺😎,0.4588,Positive,0.0,Neutral,-0.4089624881744385,Negative
-It’s crazy how many people come back to this everyday. This song is legendary,-0.34,Negative,0.1399999999999999,Neutral,0.856319785118103,Positive
+It’s crazy how many people come back to this everyday. This song is legendary,-0.34,Negative,0.1399999999999999,Positive,0.856319785118103,Positive
 gooood,0.0,Neutral,0.0,Neutral,-0.2801401019096374,Negative
 I want to get the comments to a curse number,-0.4404,Negative,0.0,Neutral,-0.602478563785553,Negative
 "You prolly think that you could milk a cow, milk a cow 🎶",0.0,Neutral,-0.1333333333333333,Negative,-0.2819443643093109,Negative
@@ -361,10 +361,10 @@ Who in 2022??,0.0,Neutral,0.0,Neutral,-0.4281439483165741,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 "This song makes me feel so fucking sad, remembering summer 2018, remembering her😞",-0.7764,Negative,-0.5,Negative,-0.6170344352722168,Negative
 Broo esto me ha sentir en otro nivel,0.128,Positive,0.0,Neutral,-0.3492887616157532,Negative
-Caught my ear on radio and i knew right away,0.0,Neutral,0.2857142857142857,Neutral,-0.4760866165161133,Negative
+Caught my ear on radio and i knew right away,0.0,Neutral,0.2857142857142857,Positive,-0.4760866165161133,Negative
 "I m only ""el ten eleven"" brought me here?",0.0,Neutral,0.0,Neutral,-0.3711620569229126,Negative
 How many of you still here on 2022💖,0.7506,Positive,0.5,Positive,0.3898207545280456,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you..🤍🙏🏽,0.8591,Positive,0.1527777777777778,Neutral,0.93159681558609,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you..🤍🙏🏽,0.8591,Positive,0.1527777777777778,Positive,0.93159681558609,Positive
 It’s March 2022 let’s see how many legends are still vibing to this masterpiece.,0.7073,Positive,0.5,Positive,0.5948274731636047,Positive
 "JESUS CHRIST LOVES YOU ALL!!!!!!!!!!!
 REMEMBER TO GIVE GOD THANKS & TO REPENT!!!!
@@ -409,7 +409,7 @@ HERE BEFORE 2023🔥,-0.34,Negative,0.0,Neutral,0.3081463575363159,Neutral
 *Now it's in your dresser with the socks you don't like""*
 
 The most powerful words
-I hope Post has feel better over the years, because I remember my past days that I can't bring back.",0.7772,Positive,0.175,Neutral,0.4242897927761078,Positive
+I hope Post has feel better over the years, because I remember my past days that I can't bring back.",0.7772,Positive,0.175,Positive,0.4242897927761078,Positive
 BEST. SONG. EVER.,0.6369,Positive,1.0,Positive,0.915380597114563,Positive
 Arh chill it's 2.47 am,0.0,Neutral,0.0,Neutral,-0.343497097492218,Negative
 q musica incrivel !!!!!! 🥰🥰🥰🥰🥰🥰🥰🥰😘😘😘🤪🤪😜😜😝😛❤❤❤❤,0.9982,Positive,1.0,Positive,0.4556123614311218,Positive
@@ -420,12 +420,12 @@ Love thus song always",0.8591,Positive,0.5,Positive,0.8231950402259827,Positive
 3:19,0.0,Neutral,0.0,Neutral,0.3481823205947876,Positive
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
 March 19,0.0,Neutral,0.0,Neutral,-0.4098058938980102,Negative
-Bro finally after searching humming to google i finally found it i knew it it was better now not battle love,0.1818,Positive,0.25,Neutral,-0.3249435126781463,Negative
+Bro finally after searching humming to google i finally found it i knew it it was better now not battle love,0.1818,Positive,0.25,Positive,-0.3249435126781463,Negative
 Sheeees,0.0,Neutral,0.0,Neutral,-0.2759497165679931,Negative
 https://www.youtube.com/watch?v=xAQQcF3bZHA&ab_channel=X-CaLOfficial,0.0,Neutral,0.0,Neutral,0.2427938431501388,Neutral
 Energetic 🔥🔥🔥,-0.5106,Negative,0.5,Positive,0.4011502563953399,Positive
 "This song is always gonna be in my top song list
-never gets old !!",0.3365,Positive,0.328125,Neutral,0.9005171656608582,Positive
+never gets old !!",0.3365,Positive,0.328125,Positive,0.9005171656608582,Positive
 Still kickin it to this!! 🔥🔥,-0.6941,Negative,0.0,Neutral,0.4600860774517059,Positive
 I'm not better now,-0.3412,Negative,-0.25,Negative,-0.4008029103279114,Negative
 March 18 2022,0.0,Neutral,0.0,Neutral,-0.4203790724277496,Negative
@@ -501,10 +501,10 @@ You know I say that I am better now, better now
 I only say that 'cause you're not around, not around
 You know I never meant to let you down, let you down
 Woulda gave you anything
-Woulda gave you everything, oh-oh",0.9971,Positive,0.1320202020202019,Neutral,-0.3665859401226043,Negative
+Woulda gave you everything, oh-oh",0.9971,Positive,0.1320202020202019,Positive,-0.3665859401226043,Negative
 💚🌶️💚,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 """drinking henney tryna forget"" i can relate.",-0.2263,Negative,0.0,Neutral,-0.2253221422433853,Negative
-A long time ago I had a really good friend. He was awesome but one day disappeared and I haven’t been able to find him. The only evidence I have of him is a video of him lip-syncing Better Now. Here I am 5 years after the last time I saw him crying my heart out into this song.,0.876,Positive,0.3062499999999999,Neutral,-0.3908810317516327,Negative
+A long time ago I had a really good friend. He was awesome but one day disappeared and I haven’t been able to find him. The only evidence I have of him is a video of him lip-syncing Better Now. Here I am 5 years after the last time I saw him crying my heart out into this song.,0.876,Positive,0.3062499999999999,Positive,-0.3908810317516327,Negative
 Post Malone chillin he’s better now,0.4404,Positive,0.5,Positive,0.3957639634609222,Positive
 2022💝,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 He looks unhygienic 🤢🤮,0.0,Neutral,0.0,Neutral,-0.5425390601158142,Negative
@@ -517,7 +517,7 @@ El minuto 2:50 me domina,0.0516,Positive,0.0,Neutral,-0.254022479057312,Negative
 It is August 2022 lets see how many people are listening to this master piece,0.0,Neutral,0.5,Positive,0.4064098298549652,Positive
 this song !!!,0.0,Neutral,0.0,Neutral,0.6573338508605957,Positive
 3:19 what a beautiful sound 😭😭😭😭,-0.8176,Negative,0.625,Positive,0.7663595080375671,Positive
-where are our lyric rescues? haha,0.6486,Positive,0.225,Neutral,-0.4201783537864685,Negative
+where are our lyric rescues? haha,0.6486,Positive,0.225,Positive,-0.4201783537864685,Negative
 Apex Legends!!!,0.0,Neutral,0.0,Neutral,0.8006041646003723,Positive
 Its march 16 of 2022 n im still let this melody flowing in my head,0.0,Neutral,0.0,Neutral,0.4154560267925262,Positive
 Damn ive lost my friends in a game name valorant and this song just...bring tears,-0.4215,Negative,-0.4,Negative,-0.611255943775177,Negative
@@ -526,9 +526,9 @@ Its 2022 and I have  this on repeat 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neu
 Bellissimo,0.5994,Positive,0.85,Positive,0.8614364862442017,Positive
 meee march 15,0.0,Neutral,0.0,Neutral,0.231668472290039,Neutral
 gold!,0.0,Neutral,0.0,Neutral,0.8038077354431152,Positive
-"I met a girl back in 10th grade whom I asked to be my girlfriend without really expecting her to say yes. She agreed three days later and well it just felt like I was in heaven. In the end though she had to move back to her home which was really far away from where I live, and couple that with a couple of issue we had t deal with, we were forced to end things.  I'm in college now and she is too, last I heard she's with someone and I'm glad she is, and I really hope she's happy. But even though I've had a couple of heartbreaks after her, I still miss her like I did the first day after our break up and I guess this song is my way of coping with since I put it on everytime I start to miss her again :)",0.8801,Positive,0.1835664335664336,Neutral,0.4181236028671264,Positive
+"I met a girl back in 10th grade whom I asked to be my girlfriend without really expecting her to say yes. She agreed three days later and well it just felt like I was in heaven. In the end though she had to move back to her home which was really far away from where I live, and couple that with a couple of issue we had t deal with, we were forced to end things.  I'm in college now and she is too, last I heard she's with someone and I'm glad she is, and I really hope she's happy. But even though I've had a couple of heartbreaks after her, I still miss her like I did the first day after our break up and I guess this song is my way of coping with since I put it on everytime I start to miss her again :)",0.8801,Positive,0.1835664335664336,Positive,0.4181236028671264,Positive
 Any legend here ??,0.0,Neutral,0.0,Neutral,-0.4739649891853332,Negative
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
 And uesi do and it's so very beautiful and all ilove this song,0.8648,Positive,0.75,Positive,0.8525529503822327,Positive
 Zzzz still ❤️,0.0,Neutral,0.0,Neutral,0.3183441460132599,Neutral
 😎here👌,0.8455,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -538,9 +538,9 @@ Zzzz still ❤️,0.0,Neutral,0.0,Neutral,0.3183441460132599,Neutral
 if you relate
    v
    v
-   v",0.6369,Positive,0.25,Neutral,0.2419596016407013,Neutral
+   v",0.6369,Positive,0.25,Positive,0.2419596016407013,Neutral
 imma be listining to this even during the war,-0.5994,Negative,0.0,Neutral,0.3668491244316101,Positive
-DIEU te bénisse post Malone cette chanson est précieuse pour moi.. il n'y que DIEU qui te le rendra. Merci !,0.932,Positive,0.1666666666666666,Neutral,0.6223189830780029,Positive
+DIEU te bénisse post Malone cette chanson est précieuse pour moi.. il n'y que DIEU qui te le rendra. Merci !,0.932,Positive,0.1666666666666666,Positive,0.6223189830780029,Positive
 I got you and G eazy mix up I didn't know that G eazy was the skinny one😂😂,0.7003,Positive,0.0,Neutral,0.2972795963287353,Neutral
 Ok I can’t believe it was thought he was gonna be a 1 hit wonder I LOVE YOU POST MALONE,0.7983,Positive,0.5,Positive,0.4922360479831695,Positive
 This songs is still running through my mind 🤩,0.0,Neutral,0.0,Neutral,0.5679251551628113,Positive
@@ -556,12 +556,12 @@ bah,0.0,Neutral,0.0,Neutral,-0.3847994208335876,Negative
 "If you’re here in 2043, it means you have a great musical taste",0.6249,Positive,0.4,Positive,0.3409068286418915,Positive
 "Hey Erlyda Ramaly, if u see this just to let you know that im missing you a lot. well it was ur fav song that ive heard from ur mouth since it was released (2022/03/12 JOHO SENAI)",0.4404,Positive,-0.2,Negative,-0.3393706679344177,Negative
 "i sung this as a happy song for years, now im bawling my eyes out finally understanding it",0.5719,Positive,0.4,Positive,0.7175366878509521,Positive
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 "*This song never gets old. No matter how much I listen, I never get bored*",0.1877,Positive,-0.0666666666666666,Negative,0.5048499703407288,Positive
 "*A message to the future generations: ""DON'T LET THIS SONG DIE""*",-0.6841,Negative,0.0,Neutral,-0.4919386804103851,Negative
-im listening this song everyday i love this song,0.6369,Positive,0.15,Neutral,0.816657304763794,Positive
+im listening this song everyday i love this song,0.6369,Positive,0.15,Positive,0.816657304763794,Positive
 Keep coming back to this❤,0.6369,Positive,0.0,Neutral,0.3956123888492584,Positive
-This song... Right now... i just ... pain.,-0.5106,Negative,0.2857142857142857,Neutral,-0.5475187301635742,Negative
+This song... Right now... i just ... pain.,-0.5106,Negative,0.2857142857142857,Positive,-0.5475187301635742,Negative
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Amazing song,0.5859,Positive,0.6000000000000001,Positive,0.7992345690727234,Positive
 2022 March 🥳💃,0.3818,Positive,0.0,Neutral,-0.3360490500926971,Negative
@@ -574,14 +574,14 @@ better now,0.4404,Positive,0.5,Positive,0.4515441358089447,Positive
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 You ghosted Jayztwocents.,0.0,Neutral,0.0,Neutral,-0.325252503156662,Negative
 Song of the year easy,0.4404,Positive,0.4333333333333333,Positive,0.8098974227905273,Positive
-Beerbongs and Bentleys has aged like fine wine,0.5106,Positive,0.1583333333333333,Neutral,0.3054255843162536,Neutral
+Beerbongs and Bentleys has aged like fine wine,0.5106,Positive,0.1583333333333333,Positive,0.3054255843162536,Neutral
 This is type of song i would listen in my room bfore stepping between fans,0.0,Neutral,0.0,Neutral,-0.2522383034229278,Negative
 posty wipes depression,-0.5719,Negative,0.0,Neutral,0.2866431772708893,Neutral
 "Post Malone ,Juice WRLD, Eminem best music ever!",0.6696,Positive,1.0,Positive,0.9201527237892152,Positive
 """Used to keep my picture posted by your bedside
 now it's in the dresser with the socks you don't like""",-0.2755,Negative,0.0,Neutral,-0.3370789289474487,Negative
 That a guy Post... Love you... We all love you..,0.8555,Positive,0.5,Positive,0.8922004699707031,Positive
-"Im so in love with this man, it’s actually concerning 😭🥺😩",0.0717,Positive,0.25,Neutral,0.642173171043396,Positive
+"Im so in love with this man, it’s actually concerning 😭🥺😩",0.0717,Positive,0.25,Positive,0.642173171043396,Positive
 Again..from Kearns...you're awesome,0.6249,Positive,1.0,Positive,0.8198946118354797,Positive
 *,0.0,Neutral,0.0,Neutral,0.2428924143314361,Neutral
 It's April 2022... let's see how many legends listening to this masterpiece.,0.7073,Positive,0.5,Positive,0.3986848294734955,Positive
@@ -593,7 +593,7 @@ love to posty from india🇮🇳,0.6369,Positive,0.5,Positive,0.5655125379562378
 Eyyyy,0.0,Neutral,0.0,Neutral,-0.314170092344284,Negative
 Yes.,0.4019,Positive,0.0,Neutral,0.2993093132972717,Neutral
 Post Malone,0.0,Neutral,0.0,Neutral,0.2569385170936584,Neutral
-I know right,0.0,Neutral,0.2857142857142857,Neutral,0.3982158601284027,Positive
+I know right,0.0,Neutral,0.2857142857142857,Positive,0.3982158601284027,Positive
 Still hits till today,0.0,Neutral,0.0,Neutral,0.5792285203933716,Positive
 Still my white boy getting shit,0.0,Neutral,0.0,Neutral,-0.2803516983985901,Negative
 Still listening to this. Hard lyrics.,-0.128,Negative,-0.2916666666666667,Negative,-0.3691149353981018,Negative
@@ -624,7 +624,7 @@ Yeaaaah Malon 👌🏼🤪💯🤣🎼,0.8531,Positive,0.0,Neutral,-0.4143772721
 Poetry that never expires ❤️✨,0.3182,Positive,0.0,Neutral,0.3838579356670379,Positive
 This song is always gonna be in my top song list🔥,-0.1531,Negative,0.5,Positive,0.8512577414512634,Positive
 💔,0.2732,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This one now used on my old account YouTube account and I have new one I listen to music this music I found it once again,0.0,Neutral,0.1181818181818181,Neutral,0.7148064970970154,Positive
+This one now used on my old account YouTube account and I have new one I listen to music this music I found it once again,0.0,Neutral,0.1181818181818181,Positive,0.7148064970970154,Positive
 "0:12
 ^ 2022 Watching❓🎶",0.0,Neutral,0.0,Neutral,-0.5054937601089478,Negative
 "🎼💯❤️‍🔥Post Malone, brings the  nostalgia on YouTube , HOLLYWOOD DREAMS (EXTENDED VERSION). (A FEETWOOD MAC COVER)
@@ -635,23 +635,23 @@ In the song, the beautiful music melodies lyrics are amazing 🤩. 🔥powerfull
 Your ingenious Distinctive style is with the highest quality. 
 Post molone the articulated sound was produced was euphoric ; intensely confident when you’ve blended melodies terrifically with the Iconic Stevie Nicks and FEETWOOD Mac. 🎵🔥 Spectacular showmanship.
 ❤️‍🔥",0.9845,Positive,0.5633333333333332,Positive,0.6725618839263916,Positive
-This song is real and touches the soul,0.0,Neutral,0.2,Neutral,0.7338222861289978,Positive
-"better now cause the scenes don't lie they are strips i pass through just to keep company and stay safe, 20 candles for you to blow out now that it's dark start your engine and blow where only you speed in all directions to cover the host!",0.7263,Positive,0.2125,Neutral,-0.3936409056186676,Negative
+This song is real and touches the soul,0.0,Neutral,0.2,Positive,0.7338222861289978,Positive
+"better now cause the scenes don't lie they are strips i pass through just to keep company and stay safe, 20 candles for you to blow out now that it's dark start your engine and blow where only you speed in all directions to cover the host!",0.7263,Positive,0.2125,Positive,-0.3936409056186676,Negative
 "Nagyon finom , nagyon jo",0.8151,Positive,0.955,Positive,0.4894560873508453,Positive
 love :),0.802,Positive,0.5,Positive,0.6593339443206787,Positive
 4.3.2022,0.0,Neutral,0.0,Neutral,-0.2393600344657898,Negative
 теперь лучше,0.4404,Positive,0.5,Positive,0.3466552793979645,Positive
 It’s march 4th 2 months from may the 4th. But I am not better now. In fact my anxiety is killing me,-0.9054,Negative,-0.25,Negative,-0.449598878622055,Negative
-This song never gets old!!,0.0,Neutral,0.15625,Neutral,0.518272876739502,Positive
+This song never gets old!!,0.0,Neutral,0.15625,Positive,0.518272876739502,Positive
 "https://youtu.be/rmJKPK_OzIs 😉…,,,,,,",0.0,Neutral,0.0,Neutral,-0.2402948588132858,Negative
 I am post Malone.,0.0,Neutral,0.0,Neutral,0.4182370007038116,Positive
 if this guy dies millions are gonna commit suicide,-0.5106,Negative,0.0,Neutral,-0.7271257042884827,Negative
 "Remember, this is the same guy who made videos with skydoesminecraft",0.0,Neutral,0.0,Neutral,-0.4136883318424225,Negative
-"When the radio hasn't overplayed this gem, we can really appreciate the shine",0.4576,Positive,0.2,Neutral,0.4601727724075317,Positive
+"When the radio hasn't overplayed this gem, we can really appreciate the shine",0.4576,Positive,0.2,Positive,0.4601727724075317,Positive
 "0:51 
 MY FAVORITE PART",0.5766,Positive,0.5,Positive,0.8200678825378418,Positive
 Top class,0.2023,Positive,0.5,Positive,0.8883171677589417,Positive
-This song never gets old!!,0.0,Neutral,0.15625,Neutral,0.518272876739502,Positive
+This song never gets old!!,0.0,Neutral,0.15625,Positive,0.518272876739502,Positive
 "I'm fucking 36 y/o, I can't stop listen to Post Malone. Send help.",0.5556,Positive,-0.6,Negative,-0.7986563444137573,Negative
 nice.,0.4215,Positive,0.6,Positive,0.4490571320056915,Positive
 "March 3 ,2022 time (10:42pm) but still here listening 🎧 to this song ❤️ who's here with me like this love y'all guys👋🏻",0.9481,Positive,0.5,Positive,0.3458726406097412,Positive
@@ -665,7 +665,7 @@ Post molone the articulated sound was produced was euphoric ; intensely confiden
 Who cares what time of year it is?,0.4588,Positive,0.0,Neutral,0.2937917709350586,Neutral
 Good song ✌😎👍👏👏👏,0.8442,Positive,0.7,Positive,0.522610604763031,Positive
 Such memories 😢,-0.4767,Negative,0.0,Neutral,0.6568575501441956,Positive
-"This song is a masterpiece, and its happen to me, its really hit me so fkn damn hard. Even im still love her so much, but life must go on.",0.427,Positive,0.1520833333333333,Neutral,0.8632372617721558,Positive
+"This song is a masterpiece, and its happen to me, its really hit me so fkn damn hard. Even im still love her so much, but life must go on.",0.427,Positive,0.1520833333333333,Positive,0.8632372617721558,Positive
 Still watching this again,0.0,Neutral,0.0,Neutral,0.4078939855098724,Positive
 this is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
 Wow😂😂😂😂😂,0.9538,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -715,7 +715,7 @@ Opopopppoo OG THIS IS 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.4744032025
 "It September 2022, let see how many people listen to this masterpiece",0.7073,Positive,0.5,Positive,0.5872153043746948,Positive
 Best song ever  :),0.802,Positive,0.75,Positive,0.9547658562660216,Positive
 Post hows apex😂,0.4404,Positive,0.0,Neutral,0.3569366931915283,Positive
-So all my haters I love you cuz you're my cheerleader but then again you thought I was doing bad but then again I'm up again now I'm telling you this is real me bring back my cards I love you and everything is going to be all right cuz I'm ready to go see my kids in Vegas and that's right amen,0.7285,Positive,0.1589285714285714,Neutral,0.809421956539154,Positive
+So all my haters I love you cuz you're my cheerleader but then again you thought I was doing bad but then again I'm up again now I'm telling you this is real me bring back my cards I love you and everything is going to be all right cuz I'm ready to go see my kids in Vegas and that's right amen,0.7285,Positive,0.1589285714285714,Positive,0.809421956539154,Positive
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 "9:14 Son unos de los likEEx.UnO
 
@@ -730,10 +730,10 @@ Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 hay nomas pa ra reirse un rato y no estar triste y estresado por la vida dura que se vive hoy...5x2z 🖤
 Son unos de los mejores conciertos, no puede ir pero de tan solo verlos desde pantalla, se que estuvo sorprendente  ⬇",0.9346,Positive,0.3513888888888889,Positive,0.538724958896637,Positive
 1:45,0.0,Neutral,0.0,Neutral,-0.3038152754306793,Negative
-"oh, how time flys wish we can go back to the golden era.",0.4019,Positive,0.15,Neutral,0.3815667629241943,Positive
+"oh, how time flys wish we can go back to the golden era.",0.4019,Positive,0.15,Positive,0.3815667629241943,Positive
 My idol 😍😍😍😍💖💖💖💖,0.9887,Positive,0.0,Neutral,0.8122921586036682,Positive
 How the heck did he pronounce tha?,0.0,Neutral,0.0,Neutral,-0.3389005661010742,Negative
-"I say i'm OK , but i'm not OK",-0.2913,Negative,0.125,Neutral,0.6980588436126709,Positive
+"I say i'm OK , but i'm not OK",-0.2913,Negative,0.125,Positive,0.6980588436126709,Positive
 "6:13 Son unos de los Likeex.Uno
 
 
@@ -756,7 +756,7 @@ Life was good when this came out🥰🥰,0.9552,Positive,0.7,Positive,0.34812834
 If yes : i respect you 😊",0.8957,Positive,0.5,Positive,-0.3265393376350403,Negative
 ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥,-0.9451,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "503,211,937",0.0,Neutral,0.0,Neutral,-0.3015870153903961,Negative
-This song never gets old! 😊 Like if you agree,0.7015,Positive,0.125,Neutral,0.4546544253826141,Positive
+This song never gets old! 😊 Like if you agree,0.7015,Positive,0.125,Positive,0.4546544253826141,Positive
 "✌️💯🎶🎼🇺🇸ZANE LOWE, YouTube interviews helping in the vibe is really inspiring and seeing how your interviews with musically talented SUPPER STARS became. Just tuned into YouTube and seeing your performance with Andrew Watt, OZZY . Learning powerfully impressive intentions keep up the Elevate momentum 
 Your ingenious Distinctive style is with the highest quality.POST Molone. Love the thought , Post Molone gives OZZY Brining together the best of both worlds in inspiring inspiration to Elevate momentum illuminating performance once again .💯",0.9813,Positive,0.6714285714285715,Positive,0.7274940013885498,Positive
 Really one of my favorite songs. Matches how I feel,0.4588,Positive,0.35,Positive,0.9033932685852052,Positive
@@ -769,7 +769,7 @@ This for you my xgf  🤪🤪🤪🤪,0.0,Neutral,0.0,Neutral,0.7249943017959595
 If you read my comment you have to subscribe .,0.0,Neutral,0.0,Neutral,-0.3517903685569763,Negative
 me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 fight me,-0.3818,Negative,0.0,Neutral,0.5318236947059631,Positive
-I don't want to be here right now...,-0.0572,Negative,0.2857142857142857,Neutral,-0.3658888936042785,Negative
+I don't want to be here right now...,-0.0572,Negative,0.2857142857142857,Positive,-0.3658888936042785,Negative
 Thought i forget about this song,-0.2263,Negative,0.0,Neutral,-0.444491982460022,Negative
 22.02.2222,0.0,Neutral,0.0,Neutral,-0.4856164753437042,Negative
 Posty never let me down,0.0,Neutral,-0.1555555555555555,Negative,0.3104847371578216,Neutral
@@ -779,7 +779,7 @@ Yessirrrr,0.0,Neutral,0.0,Neutral,0.2986078262329101,Neutral
 https://youtu.be/wje4zcGgSqA,0.0,Neutral,0.0,Neutral,0.2267155051231384,Neutral
 Legendddd,0.0,Neutral,0.0,Neutral,0.2714727520942688,Neutral
 This is probably the best song I have ever heard I can’t lie.,0.6369,Positive,1.0,Positive,0.8487271070480347,Positive
-"I have never been to a live concert. But, I would be willing to see this man.",0.0,Neutral,0.1931818181818181,Neutral,0.3260003328323364,Neutral
+"I have never been to a live concert. But, I would be willing to see this man.",0.0,Neutral,0.1931818181818181,Positive,0.3260003328323364,Neutral
 Yeah 2022 let's see who still here this,0.296,Positive,0.0,Neutral,0.2885821759700775,Neutral
 Can't stop myself listen to this song,0.2235,Positive,0.0,Neutral,-0.3252488076686859,Negative
 In 2022 it's still a good song,0.4404,Positive,0.7,Positive,0.4357604384422302,Positive
@@ -822,14 +822,14 @@ If I could pick any dude to give 3 trophies to it would be Post because this son
 "FEB 14 2022,I WAS HERE",0.0,Neutral,0.0,Neutral,-0.4361139833927154,Negative
 FOREVER!!!,0.0,Neutral,0.0,Neutral,0.7953575253486633,Positive
 🙌🏼,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-592m wow POST!,0.6239,Positive,0.125,Neutral,0.5865398049354553,Positive
+592m wow POST!,0.6239,Positive,0.125,Positive,0.5865398049354553,Positive
 Perfect song.. 🔥,0.3182,Positive,1.0,Positive,0.8544228076934814,Positive
 T Guy,0.0,Neutral,0.0,Neutral,0.2268757224082946,Neutral
 "'I seen you with your other dude
 He seemed like he was pretty cool I was so broken over you life it goes on what can you do
-I just wonder what it's gonna take, another foreign or a bigger chain, because no matter how my life has changed I keep on looking back on better days ' that hits hard",0.6635,Positive,0.0175925925925925,Neutral,-0.331991583108902,Negative
-Don't you worry ! You aren't the only one listening to this masterpiece right now !,0.8345,Positive,0.1785714285714285,Neutral,0.79278165102005,Positive
-Fuck. Love this guy.,0.1779,Positive,0.0499999999999999,Neutral,0.8448060154914856,Positive
+I just wonder what it's gonna take, another foreign or a bigger chain, because no matter how my life has changed I keep on looking back on better days ' that hits hard",0.6635,Positive,0.0175925925925925,Positive,-0.331991583108902,Negative
+Don't you worry ! You aren't the only one listening to this masterpiece right now !,0.8345,Positive,0.1785714285714285,Positive,0.79278165102005,Positive
+Fuck. Love this guy.,0.1779,Positive,0.0499999999999999,Positive,0.8448060154914856,Positive
 POSTY POSTY POSTY,0.0,Neutral,0.0,Neutral,0.3069009482860565,Neutral
 "Dsssdsdwswd
 Swswessds sds",0.0,Neutral,0.0,Neutral,0.2812874913215637,Neutral
@@ -856,7 +856,7 @@ I love music,0.6369,Positive,0.5,Positive,0.7280202507972717,Positive
 The vibes in this song tho,0.0,Neutral,0.0,Neutral,0.2571804523468017,Neutral
 ¹,0.0,Neutral,0.0,Neutral,0.2551386058330536,Neutral
 Today is valentine 💝 I miss 😢 my love AA,0.6908,Positive,0.5,Positive,0.6540340185165405,Positive
-Old post malone vs today post malone,0.0,Neutral,0.1,Neutral,0.3563233315944671,Positive
+Old post malone vs today post malone,0.0,Neutral,0.1,Positive,0.3563233315944671,Positive
 Do you feeling better now ?,0.5267,Positive,0.5,Positive,0.337885320186615,Positive
 "Everytime i play this on the piano
 ""I promise i swear to you I'll be okay, you're only the love of my life"". It just breaks my heart...",0.93,Positive,0.3333333333333333,Positive,-0.4048822820186615,Negative
@@ -866,11 +866,11 @@ MOMAZOS DIEGO EHAHAHAHAHA,0.0,Neutral,0.0,Neutral,-0.2971745133399963,Negative
 I came here because of jade,0.0,Neutral,0.0,Neutral,0.2622067332267761,Neutral
 that's a mistake,-0.34,Negative,0.0,Neutral,-0.4588751196861267,Negative
 February 2022 and the pain is still there LOL,0.0601,Positive,0.8,Positive,-0.3239978551864624,Negative
-"Been here since 2018 ,still the same to me ,its a masterpiece ,long live Austin ,stay errone,✌🏼",0.8074,Positive,0.0287878787878787,Neutral,0.537669837474823,Positive
+"Been here since 2018 ,still the same to me ,its a masterpiece ,long live Austin ,stay errone,✌🏼",0.8074,Positive,0.0287878787878787,Positive,0.537669837474823,Positive
 😍🤩,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 This song is Legendary 🔥,-0.34,Negative,1.0,Positive,0.7709783911705017,Positive
-I love this shit,-0.0129,Neutral,0.15,Neutral,0.8977314233779907,Positive
+I love this shit,-0.0129,Neutral,0.15,Positive,0.8977314233779907,Positive
 ทุกครั้งที่ฟัง ก็ยังรู้สึกดีขึ้นทันที🥰,0.8807,Positive,0.3928571428571428,Positive,0.3428077399730682,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 song is such pro would 100000000000000000000000000000000000000000000000% reccomend,0.3612,Positive,0.0,Neutral,-0.328310877084732,Negative

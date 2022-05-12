@@ -1,28 +1,28 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 I am coffee,0.0,Neutral,0.0,Neutral,0.4417635798454284,Positive
-Vreli gud,0.0,Neutral,0.25,Neutral,-0.3766283690929413,Negative
-It is sad actually. They are talented. But they only have 31 songs and it's even added with solo songs from 3 solo albums,0.0258,Neutral,0.0499999999999999,Neutral,-0.4540433883666992,Negative
+Vreli gud,0.0,Neutral,0.25,Positive,-0.3766283690929413,Negative
+It is sad actually. They are talented. But they only have 31 songs and it's even added with solo songs from 3 solo albums,0.0258,Neutral,0.0499999999999999,Positive,-0.4540433883666992,Negative
 _My family love this all.songs_,0.6369,Positive,0.5,Positive,0.8556856513023376,Positive
 I love rose voice its so angelic 😅🥰😘☺,0.9642,Positive,0.55,Positive,0.7366021275520325,Positive
-"Lâu quá rồi mới nghe anh Đức Phúc hát, thích quá đi thôi.",0.6369,Positive,0.225,Neutral,0.2673993706703186,Neutral
+"Lâu quá rồi mới nghe anh Đức Phúc hát, thích quá đi thôi.",0.6369,Positive,0.225,Positive,0.2673993706703186,Neutral
 """Blackpink in your area"" best girl group👍👍❤❤",0.9274,Positive,1.0,Positive,0.8047521114349365,Positive
 "I am just so impressed by Jisoo in the background, she is effortlessly stunning and gorgeous <3",0.9259,Positive,0.8,Positive,0.6896211504936218,Positive
 All the time I always listen this playlist,0.0,Neutral,0.0,Neutral,0.7003080248832703,Positive
 I love this playlist so much,0.6369,Positive,0.35,Positive,0.8764493465423584,Positive
 👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I love Black Pink🖤💗,0.936,Positive,0.1666666666666666,Neutral,0.7530856132507324,Positive
+I love Black Pink🖤💗,0.936,Positive,0.1666666666666666,Positive,0.7530856132507324,Positive
 I want blackpink comeback😭,-0.4215,Negative,0.0,Neutral,0.3160361051559448,Neutral
 O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
 Oo,0.0,Neutral,0.0,Neutral,0.2354756146669387,Neutral
 ขอแต่งตัวไปสวดศพอีกวันนึง,-0.3612,Negative,0.0,Neutral,0.3085779249668121,Neutral
-และเราก็มีดอกเล็บแล้วลิโป้มึงข้างขวา,0.0,Neutral,0.2857142857142857,Neutral,0.3085779249668121,Neutral
+และเราก็มีดอกเล็บแล้วลิโป้มึงข้างขวา,0.0,Neutral,0.2857142857142857,Positive,0.3085779249668121,Neutral
 จากหม่อมโจ้สัญลักษณ์,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I have listened to all of the dongs!!!¡¡¡¡,0.0,Neutral,0.0,Neutral,0.5468229055404663,Positive
 is great,0.6249,Positive,0.8,Positive,0.7094939947128296,Positive
 greatifull,0.0,Neutral,0.0,Neutral,0.6582719087600708,Positive
 I enjoy all the music tracks of BLACkPiNk.,0.4939,Positive,0.4,Positive,0.5352877974510193,Positive
 I love you jennie kim i love your voice 😘🎊💕🖤💐🐇,0.967,Positive,0.5,Positive,0.8428564667701721,Positive
-Have anyone of u noticed all of their hip hop songs have the bass sound in it if you'll wear headphones you'll hear it it's so good,0.5777,Positive,0.3166666666666666,Neutral,0.4495218992233276,Positive
+Have anyone of u noticed all of their hip hop songs have the bass sound in it if you'll wear headphones you'll hear it it's so good,0.5777,Positive,0.3166666666666666,Positive,0.4495218992233276,Positive
 Siwonhan Balam buneon changa a anja,0.0,Neutral,0.0,Neutral,0.2691789269447326,Neutral
 I cannot sleep without this playlist 😴,0.0,Neutral,0.0,Neutral,-0.3234716355800628,Negative
 "Kim Jennie - Amazing rapper and Dancer🥵🥵(Solo)
@@ -78,7 +78,7 @@ I love 🖤💓,0.8979,Positive,0.5,Positive,0.8423482775688171,Positive
 1:76 boombayah,0.0,Neutral,0.0,Neutral,-0.2689088582992553,Negative
 3:21 how you like that,0.3612,Positive,0.0,Neutral,0.5501759648323059,Positive
 0:00 lalisa,0.0,Neutral,0.0,Neutral,-0.5351284742355347,Negative
-"Huh, there is much timestaps. Dont u think its enough_ XD",0.6739,Positive,0.1,Neutral,0.5015052556991577,Positive
+"Huh, there is much timestaps. Dont u think its enough_ XD",0.6739,Positive,0.1,Positive,0.5015052556991577,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Nội dung vid thấy quen quen,0.0,Neutral,0.375,Positive,0.3239968121051788,Neutral
 Yêu Đức Phúc.,0.6369,Positive,0.5,Positive,0.457044780254364,Positive
@@ -102,7 +102,7 @@ Let's go duu du duu duu 2 billion,0.0,Neutral,0.0,Neutral,-0.4022172391414642,Ne
 I love you Blackpink 👍👍💖💖💖❤️❤️❤️❤️💍🤩😗⭐🙂,0.9831,Positive,0.5,Positive,0.8526551127433777,Positive
 I DONT LİKE BTS AND I DON LİKE BLACKPİNK,0.0,Neutral,0.0,Neutral,-0.3999877870082855,Negative
 This four talented and beautiful girls really rocks my world. Imagine kpop world w/o this four iconic creatures!😍,0.8883,Positive,0.5625,Positive,0.9191201329231262,Positive
-내가 가장 좋아하는 그룹이고 그들의 노래는 정말 좋다. I LOVE YOU BLACK PINK 🥰❤️‍🔥💗,0.9726,Positive,0.2866666666666666,Neutral,0.742933452129364,Positive
+내가 가장 좋아하는 그룹이고 그들의 노래는 정말 좋다. I LOVE YOU BLACK PINK 🥰❤️‍🔥💗,0.9726,Positive,0.2866666666666666,Positive,0.742933452129364,Positive
 amooooo,0.0,Neutral,0.0,Neutral,0.2258726805448532,Neutral
 😘😘😘,0.8126,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Jisoo is beuriful dancer is my favorative girl,0.7845,Positive,0.675,Positive,0.6681495308876038,Positive
@@ -118,11 +118,11 @@ K im (Jennie and Jisoo last names)
 P ark (Roseanne's last name)
 I mportant to KPOP history
 N on-improvable (they know everything kpop stars need to know and accomplish
-K nown around the world",0.8567,Positive,0.2333333333333333,Neutral,0.2844264209270477,Neutral
+K nown around the world",0.8567,Positive,0.2333333333333333,Positive,0.2844264209270477,Neutral
 "JENNIE IS CUTE  LISA FANTASY
-ROSE IS CUTE VOICE JISOO IS SHY",0.6124,Positive,0.275,Neutral,0.4081603586673736,Positive
+ROSE IS CUTE VOICE JISOO IS SHY",0.6124,Positive,0.275,Positive,0.4081603586673736,Positive
 "JENNIE IS CUTE  LISA FANTASY
-ROSE IS CUTE VOICE JISOO IS SHY",0.6124,Positive,0.275,Neutral,0.4081603586673736,Positive
+ROSE IS CUTE VOICE JISOO IS SHY",0.6124,Positive,0.275,Positive,0.4081603586673736,Positive
 "don""t know what to do te falto es :)",0.4588,Positive,0.5,Positive,-0.2719478607177734,Negative
 Amee e,0.0,Neutral,0.0,Neutral,0.3007489144802093,Neutral
 Yall be talking abt jennies raps ye but lalisas are O. P,0.0,Neutral,0.0,Neutral,0.2722710967063904,Neutral
@@ -197,8 +197,8 @@ Call me, ""Lalisa, love me, Lalisa, love me"" (hey!)
 Oh ooh, 알잖아 attitude
 뭘 더 어쩌라구
 The loudest in the room (hoo!)",0.9991,Positive,0.446712962962963,Positive,-0.4921915829181671,Negative
-a única música que não me simpatizo muito é Ice Cream,-0.3241,Negative,0.1,Neutral,0.296862930059433,Neutral
-Wow cool,0.7269,Positive,0.2249999999999999,Neutral,0.7820494174957275,Positive
+a única música que não me simpatizo muito é Ice Cream,-0.3241,Negative,0.1,Positive,0.296862930059433,Neutral
+Wow cool,0.7269,Positive,0.2249999999999999,Positive,0.7820494174957275,Positive
 🖤💗🔥🔥💫,0.6597,Positive,0.0,Neutral,0.3085779249668121,Neutral
 son geniales !!!!!!,0.7405,Positive,1.0,Positive,0.8429263234138489,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
@@ -223,7 +223,7 @@ Lee all,0.0,Neutral,0.0,Neutral,0.2531227171421051,Neutral
 Lisas money brought me here.....,0.0,Neutral,0.0,Neutral,0.3813217282295227,Positive
 I love all blackpink songs,0.6369,Positive,0.5,Positive,0.8146246671676636,Positive
 Jisoo the beauty queen Lisa best rapper Jenni butiful girl in the world rose the best dancer ❤️,0.9524,Positive,0.8625,Positive,0.8107993006706238,Positive
-Wow 💜💜💜💜❤️❤️❤️❤️❤️❤️❤️🙏,0.9705,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow 💜💜💜💜❤️❤️❤️❤️❤️❤️❤️🙏,0.9705,Positive,0.1,Positive,0.6722603440284729,Positive
 I love BLACKPINKS songs they are awesome,0.8519,Positive,0.75,Positive,0.8083634972572327,Positive
 Ami me gusta escuchar blackpink 😍,0.6705,Positive,0.0,Neutral,0.3950998485088348,Positive
 I have heard all songs already and i have forget it also just kiddinggg 🤣🤣🤣🤣🤣🤣🤣,0.9661,Positive,0.0,Neutral,-0.6956217288970947,Negative
@@ -244,7 +244,7 @@ K--kick it
 BLACKPINK ❤❤",0.8271,Positive,-0.1,Negative,-0.3345385193824768,Negative
 xd,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
 FOREVER K-POP!,0.0,Neutral,0.0,Neutral,0.7904086112976074,Positive
-Blackpink woww,0.5859,Positive,0.1,Neutral,0.4376562833786011,Positive
+Blackpink woww,0.5859,Positive,0.1,Positive,0.4376562833786011,Positive
 Blackpink in your Areaaaaaaaaaa!!!!!!,0.0,Neutral,0.0,Neutral,-0.3540727496147156,Negative
 Soy fan de blakc pikc🖤💓😆,0.9584,Positive,-0.1666666666666666,Negative,0.4266752302646637,Positive
 "Whistle 7/10
@@ -278,9 +278,9 @@ My sister luvs ❤️ BLACKPINK,0.0,Neutral,0.0,Neutral,0.4583931863307953,Posit
 I listen it everyday...... 😂😀,0.6597,Positive,-0.2,Negative,0.4844286143779754,Positive
 HUGE LLLLLL,0.3182,Positive,0.4000000000000001,Positive,0.2689725458621979,Neutral
 My bias =BTS and blackpink,-0.1027,Negative,0.0,Neutral,0.2474606782197952,Neutral
-Wow so much Work,0.5859,Positive,0.15,Neutral,0.8936638236045837,Positive
+Wow so much Work,0.5859,Positive,0.15,Positive,0.8936638236045837,Positive
 "Jisoo,Jennie,Rose Lisaz🥰🥰🥰🥰",0.9837,Positive,0.6,Positive,0.3257855474948883,Neutral
-45:55 pritty Savage,0.0516,Positive,0.25,Neutral,0.2549279034137726,Neutral
+45:55 pritty Savage,0.0516,Positive,0.25,Positive,0.2549279034137726,Neutral
 "Jisoo-beauty qween,visual👸💕
 Jennie-fantastic raper,e-girl👩‍🎤🖤
 Rose-sweet voice,cute girl😇💙
@@ -296,9 +296,9 @@ I like lovesick girl music,0.3612,Positive,0.0,Neutral,0.4315557479858398,Positi
 Rosé - beautyfull girl and sweet voice :3
 Jisso - i love this girl <3
 Jennie - pretty girl ivi",0.9738,Positive,0.5642857142857143,Positive,0.6501756906509399,Positive
-apenas tengo unos dos días escuchando Blackpink megustan me podrían decir en total cuántas canciones en total son todas para escuchar las porfas,0.5859,Positive,0.125,Neutral,-0.4225036799907684,Negative
+apenas tengo unos dos días escuchando Blackpink megustan me podrían decir en total cuántas canciones en total son todas para escuchar las porfas,0.5859,Positive,0.125,Positive,-0.4225036799907684,Negative
 👩👸👸👸👸👑👑👑👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-J'adore les black punk🖤💗💝,0.9612,Positive,0.1666666666666666,Neutral,0.6687691807746887,Positive
+J'adore les black punk🖤💗💝,0.9612,Positive,0.1666666666666666,Positive,0.6687691807746887,Positive
 El mejor grupo de kp las amooooooooooo mi bias el LALIZA MANOBAN,0.8402,Positive,0.75,Positive,0.8191503286361694,Positive
 The song Kich it is very good,0.4927,Positive,0.91,Positive,0.4973939061164856,Positive
 comeback plzzz,0.0,Neutral,0.0,Neutral,0.3887044787406921,Positive
@@ -310,10 +310,10 @@ I love BLACKPINK!❤️😘😍,0.8832,Positive,0.5,Positive,0.8586298823356628,
 Vi adoro 😘😘😘😘😘❤️❤️❤️😍😍😍😍,0.981,Positive,0.0,Neutral,0.7232264280319214,Positive
 Ses qui qui l'écoute tous les jours ses moi !!♥️🌼🦋🦋🦋✨✨✨✨✨✨✨✨✨✨😂🤓en faisant mes devoirs au passage,0.9763,Positive,0.0,Neutral,0.5674418807029724,Positive
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-from mudita again i love you i want to meat you i live in india and in india i live in pune  can you visit me im a kid i will give more coments to you.😂,0.8126,Positive,0.3181818181818182,Neutral,0.8608576655387878,Positive
+from mudita again i love you i want to meat you i live in india and in india i live in pune  can you visit me im a kid i will give more coments to you.😂,0.8126,Positive,0.3181818181818182,Positive,0.8608576655387878,Positive
 from mudita mahadev rose lisa jisoo and jennie ive never seen something like this i have a cup and bottle .which has pictures of you. i love you blackpink in your area.😉,0.4749,Positive,0.55,Positive,0.6664624214172363,Positive
 rose lisa jisoo jennie ive never seen somthing like this,-0.2755,Negative,0.6,Positive,0.3334007263183594,Positive
-ตอนนี้ฝนตกแบบแรงฟ้าร้องครวญครางไม่ทราบว่าคะแนนจัดหรอกเราหรือเปล่า,0.2732,Positive,0.2857142857142857,Neutral,0.3085779249668121,Neutral
+ตอนนี้ฝนตกแบบแรงฟ้าร้องครวญครางไม่ทราบว่าคะแนนจัดหรอกเราหรือเปล่า,0.2732,Positive,0.2857142857142857,Positive,0.3085779249668121,Neutral
 I like solo😘🥰😍🤩🥳👍👍👍👍,0.9531,Positive,0.0,Neutral,0.4658792614936828,Positive
 OMG I am in LOVE with BLACKPINK!!!,0.7788,Positive,0.9765625,Positive,0.6553361415863037,Positive
 Finish up some time ☺️☺️☺️,0.8402,Positive,0.0,Neutral,0.3373084366321563,Positive
@@ -333,7 +333,7 @@ My🌲🌁😁🌦️❤️🍓🌦️💖😍🍈😍🍑🍑😫😁👩🐶�
 im in love,0.6369,Positive,0.5,Positive,0.5643230676651001,Positive
 Lisa 😤😤😤😤😤😤😤😤😤😤😤😤😤😤😤😤,0.0,Neutral,0.0,Neutral,0.3652496635913849,Positive
 I love you  on the ground  (rose)💖💖💖💖💖💖💖💖💖💖❤❤❤❤❤❤❤❤🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹,0.9986,Positive,0.5,Positive,0.7921238541603088,Positive
-I love  you black  pink💖💖💖💖💖❤❤❤💖💖❤❤❤❤,0.9977,Positive,0.1666666666666666,Neutral,0.8440452814102173,Positive
+I love  you black  pink💖💖💖💖💖❤❤❤💖💖❤❤❤❤,0.9977,Positive,0.1666666666666666,Positive,0.8440452814102173,Positive
 "혹시 하동 지리산에 산악열차를 지으려 하는 것을 아실까요?
 지리산 산악열차 반대 대책위원회 대표는 시인 박남준 님 입니다.
 
@@ -368,12 +368,12 @@ I am also member of the BLΛƆKPIИK,0.0,Neutral,0.0,Neutral,0.3119857013225555,
 Super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
 L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 I love this playlist . . .  Many of the vids on my channel are on k pop idols,0.6369,Positive,0.5,Positive,0.8269622921943665,Positive
-How did you do this wow 😮👏😊,0.8885,Positive,0.1,Neutral,0.8586852550506592,Positive
+How did you do this wow 😮👏😊,0.8885,Positive,0.1,Positive,0.8586852550506592,Positive
 gracias por tus ideos eres la mejor,0.7964,Positive,0.6,Positive,0.8125806450843811,Positive
 i like 1ddo-do-ddo-do,0.3612,Positive,0.0,Neutral,0.3288610279560089,Neutral
 Нi,-0.296,Negative,0.0,Neutral,0.2544867098331451,Neutral
 Muy buenas las mucicas jakajakjaajja,0.4927,Positive,0.91,Positive,0.574703574180603,Positive
-Black pink is one of the greatest Korean Singing teams👑👑👑👑,0.6369,Positive,0.2444444444444444,Neutral,0.8276909589767456,Positive
+Black pink is one of the greatest Korean Singing teams👑👑👑👑,0.6369,Positive,0.2444444444444444,Positive,0.8276909589767456,Positive
 O M G,0.0,Neutral,0.0,Neutral,0.2587529718875885,Neutral
 "00:00lalisa
 12:48boombayah
@@ -388,7 +388,7 @@ ready for love?,0.7717,Positive,0.35,Positive,0.2962290346622467,Neutral
 0:00,0.0,Neutral,0.0,Neutral,-0.6361402273178101,Negative
 lalisa😉😊😊😊😊😊😊😊😊,0.9906,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Wheres jennie solo?,0.0,Neutral,0.0,Neutral,-0.2668067216873169,Negative
-I love black pink ❤️❤️🤩,0.6369,Positive,0.0777777777777777,Neutral,0.7210577130317688,Positive
+I love black pink ❤️❤️🤩,0.6369,Positive,0.0777777777777777,Positive,0.7210577130317688,Positive
 me sirve ahora que tengo mas tarea,0.3818,Positive,0.5,Positive,0.3407712578773498,Positive
 blackpink = therapy,0.0,Neutral,0.0,Neutral,0.3837175667285919,Positive
 omg this the best song,0.6369,Positive,1.0,Positive,0.8330600261688232,Positive
@@ -399,18 +399,18 @@ Pens are more expensive than pencils,0.0,Neutral,0.0,Neutral,-0.4022898375988006
 Kota Kinabalu has tall and luxurious buildings,0.0,Neutral,0.0,Neutral,0.7692345976829529,Positive
 Super beautiful ❤️❤️❤️😍😍😍😍😍😍😍😍😍 it 😍😍,0.9904,Positive,0.5916666666666667,Positive,0.885151743888855,Positive
 This playlist keeps me awake while working. ❤,0.6369,Positive,0.0,Neutral,0.2388918548822403,Neutral
-FOREVER YOUNG 😭💖,0.5106,Positive,0.1,Neutral,0.6830446720123291,Positive
+FOREVER YOUNG 😭💖,0.5106,Positive,0.1,Positive,0.6830446720123291,Positive
 "0.00 lalisa
 3.21 money
 6.10 ddu-du-ddu-du  
 9.38 kill this love",0.0772,Positive,0.5,Positive,-0.7855340242385864,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Lio n'y italien nlh plus,-0.296,Negative,0.0,Neutral,-0.4025333821773529,Negative
 How you got credtis for music plz tell me😥😥,0.3612,Positive,0.0,Neutral,0.4823033809661865,Positive
 😀🥰,0.8689,Positive,0.0,Neutral,0.3085779249668121,Neutral
 49:13,0.0,Neutral,0.0,Neutral,0.2457997947931289,Neutral
 Amé el playlist <3,0.7964,Positive,0.75,Positive,0.3485796451568603,Positive
-I love you black pink for my blink,0.6369,Positive,0.0777777777777777,Neutral,0.8097295761108398,Positive
+I love you black pink for my blink,0.6369,Positive,0.0777777777777777,Positive,0.8097295761108398,Positive
 Why is ppl saying that Jisoo is singing solo which Jennie is singing solo.,0.0,Neutral,0.0,Neutral,-0.4177363216876983,Negative
 "here is blackpink
 
@@ -460,11 +460,11 @@ The best,0.6369,Positive,1.0,Positive,0.9091946482658386,Positive
 a mi todas,0.0,Neutral,0.0,Neutral,0.5543076992034912,Positive
 "Las mejores canciones blackpink las quiero mucho 
 Arte:blink",0.8555,Positive,0.5666666666666667,Positive,0.8601924777030945,Positive
-Διαβάζω και το ακούω πολλές φορές ειδικά τo Lalisa και το Money της Lisa,0.0,Neutral,0.25,Neutral,0.4681628346443176,Positive
+Διαβάζω και το ακούω πολλές φορές ειδικά τo Lalisa και το Money της Lisa,0.0,Neutral,0.25,Positive,0.4681628346443176,Positive
 even the b-sides are soooo good!!,0.5399,Positive,1.0,Positive,0.4426570534706116,Positive
 I love you very much Lisa,0.6369,Positive,0.38,Positive,0.8475131392478943,Positive
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I am literally can't stop me really i am listening it from 3 hours non stop🛑😍💞,0.6992,Positive,0.2,Neutral,-0.7574324607849121,Negative
+I am literally can't stop me really i am listening it from 3 hours non stop🛑😍💞,0.6992,Positive,0.2,Positive,-0.7574324607849121,Negative
 🖤🖤🖤🖤🖤💕💕💕💕💕,0.993,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🖤🖤🖤🖤💓💓💓💞,0.9818,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love lisa,0.6369,Positive,0.5,Positive,0.7757072448730469,Positive
@@ -476,18 +476,18 @@ LOVE YOU,0.6369,Positive,0.5,Positive,0.8381887674331665,Positive
 Jennie - rap queen and Savage girl 😎
  Ros'e - 👼 angelic voice 
 Lisa - dance machine 🤸
-Blackpink is the revolution 🖤💖",0.9531,Positive,0.3,Neutral,0.4196299016475677,Positive
+Blackpink is the revolution 🖤💖",0.9531,Positive,0.3,Positive,0.4196299016475677,Positive
 Eu amo o solo da jennie,0.6369,Positive,0.5,Positive,0.2871158719062805,Neutral
 I don't like how Lisa changed her name to lalisa,-0.2755,Negative,0.0,Neutral,-0.351622998714447,Negative
 Black pink you area 💞💞💞💞💞💞💞💞,0.9894,Positive,0.0,Neutral,0.2608928978443146,Neutral
 Não canso de escutar essa playlist! =TUDO. ❤️,0.4015,Positive,-0.5,Negative,0.6505311131477356,Positive
 "I always play this when I am feeling sad or I am feeling sleepy 
-It always helps me stay in a happy mood/place",0.765,Positive,0.15,Neutral,0.5279320478439331,Positive
-Suggested give other many new new kpop a chance.Always the same old Kpop group.,0.0,Neutral,0.1246212121212121,Neutral,-0.2771718800067901,Negative
+It always helps me stay in a happy mood/place",0.765,Positive,0.15,Positive,0.5279320478439331,Positive
+Suggested give other many new new kpop a chance.Always the same old Kpop group.,0.0,Neutral,0.1246212121212121,Positive,-0.2771718800067901,Negative
 money song a jam ma,0.0,Neutral,0.0,Neutral,-0.3106940686702728,Negative
-fire man love em there a big masive hit let go,0.4215,Positive,0.1666666666666666,Neutral,0.7457172274589539,Positive
+fire man love em there a big masive hit let go,0.4215,Positive,0.1666666666666666,Positive,0.7457172274589539,Positive
 Jisoo feels so alone,-0.3851,Negative,0.0,Neutral,-0.3359340131282806,Negative
-Só eu que curto o meu próprio comentário,0.4215,Positive,0.3,Neutral,0.4004376530647278,Positive
+Só eu que curto o meu próprio comentário,0.4215,Positive,0.3,Positive,0.4004376530647278,Positive
 I like on the ground and Gone,0.3612,Positive,0.0,Neutral,0.4218912124633789,Positive
 "lalisa,money,ddu-du-ddu-du,kill this love, boombayah,as if it's you last, how you like that,love to hate me,palying with fire",0.1531,Positive,-0.1,Negative,0.4314803183078766,Positive
 cuando en whistle estoy cantando y jisoo dice shhh me callo xd,0.5859,Positive,0.0,Neutral,-0.4271842241287231,Negative
@@ -504,9 +504,9 @@ O -on way ticken ( Jisoo)",0.0,Neutral,0.0,Neutral,0.2835032343864441,Neutral
 she said suga at 24:26,0.0,Neutral,0.0,Neutral,-0.3842098712921142,Negative
 thets cool i like blackpink  i love you,0.8402,Positive,0.425,Positive,0.6781275868415833,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
-"Idk why whenever I listen to BLACKPINK I instantly get cheered up . There's something magical in their lyrics, vocals and music💜💓",0.9524,Positive,0.25,Neutral,-0.3184773921966553,Negative
+"Idk why whenever I listen to BLACKPINK I instantly get cheered up . There's something magical in their lyrics, vocals and music💜💓",0.9524,Positive,0.25,Positive,-0.3184773921966553,Negative
 Stay ✔️,0.0,Neutral,0.0,Neutral,0.3184991776943207,Neutral
-I'm crazy about a Blackpink is the best music 2022 and famous K-POP,0.4215,Positive,0.3,Neutral,0.8369410037994385,Positive
+I'm crazy about a Blackpink is the best music 2022 and famous K-POP,0.4215,Positive,0.3,Positive,0.8369410037994385,Positive
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Money=Lalisa
 Solo=Jennie
@@ -548,7 +548,7 @@ Back pink queen is
 1.lisa 👑👑👑👑👑👑👑👑👑
 2.jennie 👑👑👑👑👑👑👑
 3.Rose 👑👑👑👑👑👑
-4.jisoo 👑👑👑👑👑",-0.8639,Negative,0.1666666666666666,Neutral,0.3273199498653412,Neutral
+4.jisoo 👑👑👑👑👑",-0.8639,Negative,0.1666666666666666,Positive,0.3273199498653412,Neutral
 "B: bailarinas
 L: lindas
 A: angelicales
@@ -576,7 +576,7 @@ Who’s ur fav BLACKPINK member? ( mines Jennie),0.4588,Positive,0.0,Neutral,-0.
 Best female group!💖,0.8977,Positive,0.5,Positive,0.9095647931098938,Positive
 Enjoy their songs!!!!😋🥰🤩😍,0.94,Positive,0.4,Positive,0.616220235824585,Positive
 "This playlist is so good for doing house chores!!!! Bruh I started this playlist while doing my house chores and now I'm done and I'm on the last song! I'll definitely be streaming this everyday in the morning while I do my chores! 
-Thanks ❤️❤️",0.8888,Positive,0.19,Neutral,0.811893880367279,Positive
+Thanks ❤️❤️",0.8888,Positive,0.19,Positive,0.811893880367279,Positive
 A love it this song😍😍😍,0.9217,Positive,0.5,Positive,0.8876307010650635,Positive
 ,0.0,Neutral,0.0,Neutral,0.2846148908138275,Neutral
 Best song in my life 😘,0.7906,Positive,1.0,Positive,0.9332450032234192,Positive
@@ -590,10 +590,10 @@ Waiting for Jisoo solo,0.0,Neutral,0.0,Neutral,-0.257446825504303,Negative
 🤩🤩😍😍🥳🥳,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I danced all the song,0.0,Neutral,0.0,Neutral,0.4464240968227386,Positive
 I love you so much Jenny and R-ose,0.6369,Positive,0.35,Positive,0.8457314372062683,Positive
-I love Black pink ❤️🖤,0.8555,Positive,0.0777777777777777,Neutral,0.7210577130317688,Positive
-i am a huge fan of blackpink and this is my 12 time watching this same playlist,0.5574,Positive,0.2,Neutral,0.684695303440094,Positive
+I love Black pink ❤️🖤,0.8555,Positive,0.0777777777777777,Positive,0.7210577130317688,Positive
+i am a huge fan of blackpink and this is my 12 time watching this same playlist,0.5574,Positive,0.2,Positive,0.684695303440094,Positive
 I love  blackpink ♥️♥️♥️♥️,0.9719,Positive,0.5,Positive,0.7135699987411499,Positive
-"Rose is the one who is sing in ""sea of hope"". I think so. I am right or wrong",-0.0516,Negative,0.1285714285714285,Neutral,-0.2560581564903259,Negative
+"Rose is the one who is sing in ""sea of hope"". I think so. I am right or wrong",-0.0516,Negative,0.1285714285714285,Positive,-0.2560581564903259,Negative
 Voice 👌🥰💛🤩,0.9561,Positive,0.0,Neutral,0.3642400801181793,Positive
 i love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 jennie,0.0,Neutral,0.0,Neutral,0.2797340452671051,Neutral
@@ -609,12 +609,12 @@ money,0.0,Neutral,0.0,Neutral,0.2811023890972137,Neutral
 20:20 How u like that 
 23:20 Whistle 
 27:00 Playing with fire 
-33:07 Lovestick girls",0.296,Positive,0.25,Neutral,0.3036782145500183,Neutral
-wow 👏👏👏👏👏👏👏👏👏👏,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+33:07 Lovestick girls",0.296,Positive,0.25,Positive,0.3036782145500183,Neutral
+wow 👏👏👏👏👏👏👏👏👏👏,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 Trời ơi mê quá 😻,0.829,Positive,0.5,Positive,0.3339897394180298,Positive
 My favourite songs are here,0.0,Neutral,0.0,Neutral,0.8265066146850586,Positive
 good songs :),0.7096,Positive,0.6,Positive,0.4594793021678924,Positive
-Pretty Savage 45:56,0.0516,Positive,0.25,Neutral,0.3623276352882385,Positive
+Pretty Savage 45:56,0.0516,Positive,0.25,Positive,0.3623276352882385,Positive
 good vibes,0.4404,Positive,0.7,Positive,0.5007879137992859,Positive
 I love musik,0.6369,Positive,0.5,Positive,0.755793571472168,Positive
 I listen this playlist every day 1 hour,0.0,Neutral,0.0,Neutral,0.5531131625175476,Positive
@@ -646,15 +646,15 @@ BLACKPIN
 BLACKPINK🖤",0.8494,Positive,-0.1666666666666666,Negative,0.2979567646980285,Neutral
 "It's very nice, thank you 💟",0.8771,Positive,0.78,Positive,0.6672667860984802,Positive
 ngพำง,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Hahaha and I will email,0.5574,Positive,0.2,Neutral,0.2752883732318878,Neutral
-I love black pink singer of journey and I love you too,0.8555,Positive,0.1833333333333333,Neutral,0.8123473525047302,Positive
+Hahaha and I will email,0.5574,Positive,0.2,Positive,0.2752883732318878,Neutral
+I love black pink singer of journey and I love you too,0.8555,Positive,0.1833333333333333,Positive,0.8123473525047302,Positive
 Kick it and How you like that,0.3612,Positive,0.0,Neutral,0.6778232455253601,Positive
 Kill this love and Solo,-0.128,Negative,0.5,Positive,0.6904980540275574,Positive
 Boombayah and money,0.0,Neutral,0.0,Neutral,0.336984246969223,Positive
 Ddu du ddu du and Gone,0.0,Neutral,0.0,Neutral,-0.5361953973770142,Negative
 Black pink playlist,0.0,Neutral,-0.1333333333333333,Negative,0.2525593340396881,Neutral
 사랑해요💖💖,0.9517,Positive,0.5,Positive,0.3085779249668121,Neutral
-Bp nin 31 şarkısı olduğunu öğrenince aklıma gelen ilk şey EHM EHMMMM,0.0,Neutral,0.25,Neutral,-0.3725070357322693,Negative
+Bp nin 31 şarkısı olduğunu öğrenince aklıma gelen ilk şey EHM EHMMMM,0.0,Neutral,0.25,Positive,-0.3725070357322693,Negative
 I like songs lisa but Im ro'se.. Hehe🤣😂,0.872,Positive,0.0,Neutral,0.4658433496952057,Positive
 I LOVE BLACKPINK TOO :),0.8374,Positive,0.5,Positive,0.7765190005302429,Positive
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -677,14 +677,14 @@ Jenne-😎
 Lisa-😎
 Rosè-😎
 Are black
-BLACKPINK PLAYLIST❤❤❤❤",0.9868,Positive,0.0444444444444444,Neutral,0.6067177057266235,Positive
+BLACKPINK PLAYLIST❤❤❤❤",0.9868,Positive,0.0444444444444444,Positive,0.6067177057266235,Positive
 "Very time l write my homework l use this playlist .
-It is a very cool playlist.",0.8347,Positive,0.3275,Neutral,0.7358844876289368,Positive
+It is a very cool playlist.",0.8347,Positive,0.3275,Positive,0.7358844876289368,Positive
 My birthday is on next Thursday 10th February,0.0,Neutral,0.0,Neutral,0.5035158395767212,Positive
 😥😥😥😥😥😥😥😥😥😥😅😅😅😅😅😅😅😅😅😅,0.9753,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I am your biggest fan!!!!!!!,0.5374,Positive,0.0,Neutral,0.8836808204650879,Positive
 I am veronica.,0.0,Neutral,0.0,Neutral,0.4918179214000702,Positive
-"Love blackpink I am your biggest fan!I hope i can come to your shows,but I live in India 🇮🇳 😢 and I am only eight 😢 😅",0.5707,Positive,0.2121212121212121,Neutral,0.8509628772735596,Positive
+"Love blackpink I am your biggest fan!I hope i can come to your shows,but I live in India 🇮🇳 😢 and I am only eight 😢 😅",0.5707,Positive,0.2121212121212121,Positive,0.8509628772735596,Positive
 OH THE MISERY,-0.5719,Negative,0.0,Neutral,-0.6537109017372131,Negative
 Solo (jennine),0.0,Neutral,0.0,Neutral,0.3058725297451019,Neutral
 me  encanta blakpink💖🖤,0.9413,Positive,0.5,Positive,0.8068308234214783,Positive
@@ -711,7 +711,7 @@ Also me - ttugweo ttugweo ttugweo like fireee!!
 Me - met him then get him make sure we stay got the venom to dead him if he want a snak I mean sneak I mean play Hide n Seek Know that I'll find you make sure u left or you leave 
 Also me - Feels wrong but its right right blacked out no night light pinked out like fight night 
 Also me (AGAIN) - I saw you and knew what I was trying to doooo I had toplay it real real smooth and once I finally made my moveee I WENT CRAZY OVER YOU!!
-Edit - Theres more of me doing all this but the text will be too long then ( hehe )",-0.918,Negative,0.0093487394957983,Neutral,-0.4873670935630798,Negative
+Edit - Theres more of me doing all this but the text will be too long then ( hehe )",-0.918,Negative,0.0093487394957983,Positive,-0.4873670935630798,Negative
 🎆😘😘😘😘😘😘,0.9413,Positive,0.0,Neutral,0.3085779249668121,Neutral
 00:0 LALISA,0.0,Neutral,0.0,Neutral,-0.4209261536598205,Negative
 ๅ,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -744,14 +744,14 @@ Escucho todas  cuando me baño 🛁😌,0.3818,Positive,0.0,Neutral,0.3193687200
 I'm awestruck at this Playlist like my brain is gonna blow up!,0.4199,Positive,0.0,Neutral,-0.6401145458221436,Negative
 Where's jisoo song yuki no hana,0.0,Neutral,0.0,Neutral,-0.2389501333236694,Negative
 1:40:50,0.0,Neutral,0.0,Neutral,-0.3178834617137909,Negative
-Como se notan las partes en las que Lisa sale a la acción. 😁,0.4588,Positive,0.1,Neutral,0.3181925415992737,Neutral
+Como se notan las partes en las que Lisa sale a la acción. 😁,0.4588,Positive,0.1,Positive,0.3181925415992737,Neutral
 Proud to be a blink 😎😎😎😎😎😎😎🖤💗💗,0.9899,Positive,0.8,Positive,0.6065701246261597,Positive
 So good ❤️❤️❤️❤️,0.4927,Positive,0.7,Positive,0.6231406331062317,Positive
 jen sé li chu i love you,0.6369,Positive,0.5,Positive,0.6840088367462158,Positive
 I LOVE THIS SONG BLACKPINK SONG'S ❤️,0.7125,Positive,0.5,Positive,0.8303799033164978,Positive
 I am waiting for jisoo’s solo song,0.0,Neutral,0.0,Neutral,0.2359001189470291,Neutral
 I listen to this song every time,0.0,Neutral,0.0,Neutral,0.683962881565094,Positive
-this helps me so much during online classes 😂✨,0.7783,Positive,0.2,Neutral,0.6945583820343018,Positive
+this helps me so much during online classes 😂✨,0.7783,Positive,0.2,Positive,0.6945583820343018,Positive
 "i heard this with a broken earphones and i can only hear the bgm and their back up voice actually it's  my first time hearing their back up voice harmonized with the bgm their vocals are soooo good this broken earphones is a blessing in disguise i hope i can have listen to the bgm with their back up vocals huhu i can hear them harmonizing all night long
 
 
@@ -760,7 +760,7 @@ this helps me so much during online classes 😂✨,0.7783,Positive,0.2,Neutral,
 Jeanett Alicia Perez Campas
 Jeanett Alicia Perez Campas
 3 tháng trước
-Este playlist me encanta. 🙌🌟🛐🔥Ahorita estoy en mi trabajo escuchando a estas talentosas chicas y Reynas del kpop. 👑👑👑👑👌💎 saludos desde Mexico 👋🇲🇽🖤💖",0.9726,Positive,0.0111111111111111,Neutral,0.6473294496536255,Positive
+Este playlist me encanta. 🙌🌟🛐🔥Ahorita estoy en mi trabajo escuchando a estas talentosas chicas y Reynas del kpop. 👑👑👑👑👌💎 saludos desde Mexico 👋🇲🇽🖤💖",0.9726,Positive,0.0111111111111111,Positive,0.6473294496536255,Positive
 love you jisoo,0.6369,Positive,0.5,Positive,0.7969678044319153,Positive
 Alguém sabe o significado de Boombayah?,0.0,Neutral,0.0,Neutral,-0.3430020809173584,Negative
 Sempre quando vou lavar louça venho aqui kkkk,0.0,Neutral,0.0,Neutral,0.3582698106765747,Positive
@@ -776,12 +776,12 @@ BLACKPINK,0.0,Neutral,0.0,Neutral,0.2410124540328979,Neutral
 😍😍😘,0.8316,Positive,0.0,Neutral,0.3085779249668121,Neutral
 W1⁵5⁵,0.0,Neutral,0.0,Neutral,0.3721383213996887,Positive
 "Next time add you by Jisoo
-Now u don’t have to wait haha",0.4588,Positive,0.1,Neutral,0.2977908551692962,Neutral
-"Como que Jennie dice en muchas canciones ""boss bitch"", no?",-0.3182,Negative,0.2857142857142857,Neutral,-0.277056485414505,Negative
+Now u don’t have to wait haha",0.4588,Positive,0.1,Positive,0.2977908551692962,Neutral
+"Como que Jennie dice en muchas canciones ""boss bitch"", no?",-0.3182,Negative,0.2857142857142857,Positive,-0.277056485414505,Negative
 J,0.0,Neutral,0.0,Neutral,0.2888481020927429,Neutral
-BUENARDO GRACIAS POR PONER TODAS LAS CABIOMES DE BLAKPIN SOY RE FANDE LICA TENMO 6 ALOS,0.4995,Positive,0.1,Neutral,0.4905616343021393,Positive
+BUENARDO GRACIAS POR PONER TODAS LAS CABIOMES DE BLAKPIN SOY RE FANDE LICA TENMO 6 ALOS,0.4995,Positive,0.1,Positive,0.4905616343021393,Positive
 where's  Jisoos solo?💗,0.7096,Positive,0.0,Neutral,-0.3488812744617462,Negative
-1:07:48 REALLY,0.0,Neutral,0.2,Neutral,-0.3136868774890899,Negative
+1:07:48 REALLY,0.0,Neutral,0.2,Positive,-0.3136868774890899,Negative
 My fav song is money which is your ???,0.5484,Positive,0.0,Neutral,-0.4463098049163818,Negative
 I am waiting for rose on the ground and i am on lovestick girls so i have 3 songs to go!,0.0,Neutral,0.75,Positive,0.2724372148513794,Neutral
 so perfect for gym!,0.6468,Positive,1.0,Positive,0.8923730850219727,Positive
@@ -792,16 +792,16 @@ Patiently waiting for Jisoo's Solo <33,0.0,Neutral,0.0,Neutral,0.326601266860961
 Waiting for Jisso's solo,0.0,Neutral,0.0,Neutral,0.2646443843841553,Neutral
 "Doctor: 1 hour 40 minutes 50 seconds until you die
 Me:",-0.5994,Negative,0.0,Neutral,-0.5065810084342957,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 rose love over laat,0.6369,Positive,0.3666666666666667,Positive,0.421207994222641,Positive
 estou escutando sempre com meu fone no volume maximo,0.0,Neutral,0.35,Positive,0.3411470055580139,Positive
-wow ilke blackpink end this album,0.5859,Positive,0.1,Neutral,0.7202593088150024,Positive
+wow ilke blackpink end this album,0.5859,Positive,0.1,Positive,0.7202593088150024,Positive
 00:00,0.0,Neutral,0.0,Neutral,-0.2790062725543976,Negative
 Neden oo sayııı😭,-0.4215,Negative,0.0,Neutral,-0.2971609532833099,Negative
 "Enjoy the music  ❤️💥✨💌💟💖, ADS COME EVERYTIME 😀👹👺🔥💔🔪",0.9638,Positive,0.4,Positive,0.6509422063827515,Positive
-There is one more song Last Chirstmas,0.0,Neutral,0.25,Neutral,-0.3801676034927368,Negative
-"this account shared blackpink's song, i just wondered, is it legal?",0.4404,Positive,0.2,Neutral,-0.3325450718402862,Negative
-Blackpink wish met you I'm in New Zealand I'm a kid I'm 7,0.4019,Positive,0.1363636363636363,Neutral,0.408064603805542,Positive
+There is one more song Last Chirstmas,0.0,Neutral,0.25,Positive,-0.3801676034927368,Negative
+"this account shared blackpink's song, i just wondered, is it legal?",0.4404,Positive,0.2,Positive,-0.3325450718402862,Negative
+Blackpink wish met you I'm in New Zealand I'm a kid I'm 7,0.4019,Positive,0.1363636363636363,Positive,0.408064603805542,Positive
 The best kpop group,0.6369,Positive,1.0,Positive,0.89943927526474,Positive
 💭🤑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Sing witch blackpink in dis Playlist and dance,-0.3612,Negative,0.0,Neutral,0.3104886412620544,Neutral
@@ -1083,7 +1083,7 @@ You : Ugly
 JUST KIDDING YOUR PERFECT THE WAY YOU ARE :)))) HAVE A NICE YEAR HEHE GOD BLESS!!",0.9904,Positive,0.7579545454545453,Positive,0.8685712218284607,Positive
 0:00,0.0,Neutral,0.0,Neutral,-0.6361402273178101,Negative
 I Love you Blackpink.😍❤,0.9081,Positive,0.5,Positive,0.8601530194282532,Positive
-Thank you so much for this playlist,0.3612,Positive,0.2,Neutral,0.7845557928085327,Positive
+Thank you so much for this playlist,0.3612,Positive,0.2,Positive,0.7845557928085327,Positive
 Ready for love????,0.8253,Positive,0.35,Positive,0.2633321583271026,Neutral
 ,0.0,Neutral,0.0,Neutral,0.2846148908138275,Neutral
 Did anyone Heard suga in playing with 🔥,-0.1531,Negative,0.0,Neutral,-0.2982958853244781,Negative
@@ -1116,7 +1116,7 @@ I am waiting for jisso's solo song,0.0,Neutral,0.0,Neutral,0.2425021380186081,Ne
 LOVEEEEEEEEEEE 😘😘😘😘😘❤❤❤❤,0.9846,Positive,0.0,Neutral,0.2764990031719208,Neutral
 Me sitting in the living room colouring in watching tv singing and listening to this while my cats are being crazy at 1Am,-0.34,Negative,-0.6,Negative,0.4339348375797272,Positive
 I listen to this in the shower,0.0,Neutral,0.0,Neutral,0.5128904581069946,Positive
-я очень жду соло Джису💗🥴,0.7096,Positive,0.2,Neutral,0.6395567655563354,Positive
+я очень жду соло Джису💗🥴,0.7096,Positive,0.2,Positive,0.6395567655563354,Positive
 Bu kadar güzellikte fazla,0.6659,Positive,0.675,Positive,0.2905550301074981,Neutral
 Bayıldım ölüyorummmmmmmmmmmmmmmmmm,0.6369,Positive,0.5,Positive,-0.6647617220878601,Negative
 Can you do blackpink ft apink full song 👉🏻👈🏻,0.0,Neutral,0.35,Positive,0.4621415734291076,Positive
@@ -1127,9 +1127,9 @@ Jennie is so beautiful,0.7177,Positive,0.85,Positive,0.7023454904556274,Positive
 amo a  blackpink,0.6369,Positive,0.5,Positive,0.2992463111877441,Neutral
 all of the songs are the best i love it all blackpink is the best😍😍😍😍🤩🤩🤩🤩,0.9766,Positive,0.75,Positive,0.8766382932662964,Positive
 sour candy is the best song ever but Sacry,0.3818,Positive,0.425,Positive,0.3378930985927582,Positive
-The beat change in forever young is my fav. Part,0.4588,Positive,0.1,Neutral,0.4682767689228058,Positive
+The beat change in forever young is my fav. Part,0.4588,Positive,0.1,Positive,0.4682767689228058,Positive
 My kid Mia watches black pink and I always put all the black pink songs on for her,-0.296,Negative,-0.1333333333333333,Negative,0.7116767168045044,Positive
-Love black pink 💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤,0.9998,Positive,0.0777777777777777,Neutral,0.5958706140518188,Positive
+Love black pink 💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤💖🖤,0.9998,Positive,0.0777777777777777,Positive,0.5958706140518188,Positive
 Blackpink is the revolution 👑🖤💗,0.8779,Positive,0.0,Neutral,0.5812515020370483,Positive
 """If you really, really love me, marry joe"" -Blackpink XD (No hate, I ADORE Blackpink)",0.8987,Positive,0.45,Positive,0.5384396910667419,Positive
 "LALISA 

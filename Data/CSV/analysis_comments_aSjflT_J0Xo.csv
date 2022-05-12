@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Como adan y Eva tengamos nuestro  pecado como 2 ladrones un secreto bien guardado un camino y un destino asegurado ...que buena cansion,0.0,Neutral,0.1499999999999999,Neutral,0.4745701253414154,Positive
+Como adan y Eva tengamos nuestro  pecado como 2 ladrones un secreto bien guardado un camino y un destino asegurado ...que buena cansion,0.0,Neutral,0.1499999999999999,Positive,0.4745701253414154,Positive
 "Fom3, kkl",0.0,Neutral,0.0,Neutral,0.229359820485115,Neutral
 Mi canción 🎶,0.0,Neutral,0.0,Neutral,0.4872115552425384,Positive
 Yo acá escuchando después de la sesión con el biza! Es uno de los pocos artistas de este género que se le puede escuchar nítido todo lo que dice. Que crack🔥,0.1511,Positive,-0.0499999999999999,Negative,0.4948500990867615,Positive
@@ -19,18 +19,18 @@ Thiago moli,0.0,Neutral,0.0,Neutral,0.2588513493537903,Neutral
 2022 y esta canción la rompe toda millones,0.0,Neutral,0.0,Neutral,-0.804900050163269,Negative
 Nunca tuve a quien poder dedicar este tema,0.0,Neutral,0.0,Neutral,-0.293826013803482,Negative
 es por aca paulo,0.0,Neutral,0.0,Neutral,-0.2606373727321625,Negative
-Esta es épica!,0.0,Neutral,0.125,Neutral,0.7181805968284607,Positive
+Esta es épica!,0.0,Neutral,0.125,Positive,0.7181805968284607,Positive
 "Musica con Bzrp... temazo, excelente tu regreso.",0.8316,Positive,0.9,Positive,0.6142610907554626,Positive
-Animo men puro pa delante sin miedo al exito pa✌,0.7294,Positive,0.2571428571428571,Neutral,0.4466217160224914,Positive
+Animo men puro pa delante sin miedo al exito pa✌,0.7294,Positive,0.2571428571428571,Positive,0.4466217160224914,Positive
 O% hacento agerntino 100% de buena cansion,0.4404,Positive,0.7,Positive,-0.3942834138870239,Negative
 😀😀😀,0.7579,Positive,0.0,Neutral,0.3085779249668121,Neutral
 te amo paulo,0.6369,Positive,0.5,Positive,0.4578380286693573,Positive
 Ovy y Paulo juntos se extraña !!!!,-0.4153,Negative,-0.30517578125,Negative,0.5390116572380066,Positive
 bamosssssssssssssssssssssssssssssssssss,0.0,Neutral,0.0,Neutral,0.2813964486122131,Neutral
 que temazo loco,-0.34,Negative,-0.6,Negative,0.3424052894115448,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨🥱 😮‍💨,0.0,Neutral,0.0,Neutral,0.438121497631073,Positive
-Esta es una de las pocas canciones que disfruto y sigo reproduciendo este donde esté. Es GOD,0.7804,Positive,0.1,Neutral,-0.3279241621494293,Negative
+Esta es una de las pocas canciones que disfruto y sigo reproduciendo este donde esté. Es GOD,0.7804,Positive,0.1,Positive,-0.3279241621494293,Negative
 Adán y Eva,0.0,Neutral,0.0,Neutral,0.2828317880630493,Neutral
 Quien sigue escuchando este temaso en 2022,0.0,Neutral,0.0,Neutral,0.4877534508705139,Positive
 en el 2040 seguire escuchando esta cancion ❤‍🔥❤‍🔥❤‍🔥❤‍🔥❤‍🔥😈,-0.7906,Negative,0.0,Neutral,0.5329686999320984,Positive
@@ -44,7 +44,7 @@ Un secreto bien guardado♥️🔥✨,0.7351,Positive,0.0,Neutral,0.444740056991
 Quién sigue escuchando esta bomba,-0.5789,Negative,0.0,Neutral,0.5187203288078308,Positive
 Música incrível 😍👏,0.7783,Positive,0.6000000000000001,Positive,0.4672849476337433,Positive
 Soy hombre pero tengo que decir quf paulo es estupidamente guapo he,0.0772,Positive,0.5,Positive,-0.4492587447166443,Negative
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 Saca el remix paulooo!!!,0.0,Neutral,0.0,Neutral,-0.2673294842243194,Negative
 londra debería sacar temas así comerciales no por pegar si no por que su estilo es muy bueno y te hace querer escuchar más y más,0.7572,Positive,0.4775,Positive,0.332119733095169,Positive
 Este chabon es una leyenda literal la mayoria de sus temas con mas de 100m de vistas,0.0,Neutral,0.5,Positive,0.4366040527820587,Positive
@@ -123,7 +123,7 @@ Paulo Londra, ay Big lios
 Los majores, the christian man
 Leonel junto. oh oh oh, yeah
 Como Adan y Eva, como Adan y Eva
-Como Adan y Eva, como Adan y Eva",0.9724,Positive,0.0066969696969696,Neutral,0.3663075268268585,Positive
+Como Adan y Eva, como Adan y Eva",0.9724,Positive,0.0066969696969696,Positive,0.3663075268268585,Positive
 Bonita música,0.5994,Positive,0.85,Positive,0.415581613779068,Positive
 "Paulo Londra se levantó con la música que él quiere hacer, como un ARTISTA no como la música comercial que antes estaba obligado a hacer",-0.6261,Negative,-0.0333333333333333,Negative,-0.497122973203659,Negative
 Quien está escuchando este tema en 2022,0.0,Neutral,0.0,Neutral,0.3753944337368011,Positive
@@ -135,7 +135,7 @@ esa musica dedique a  alguin,0.4588,Positive,0.0,Neutral,0.4983335435390472,Posi
 paulo londra eres el mejor cantando tus canciones un saludo Mathias,0.7906,Positive,1.0,Positive,0.7329541444778442,Positive
 El mejor paulo❤❤,0.9274,Positive,1.0,Positive,0.8683388829231262,Positive
 LeoneconflOoOoOOOO Paulo londrAaAaA,0.0,Neutral,0.0,Neutral,-0.349624752998352,Negative
-Todos aquí presentes después de escuchar l Bizzarap #23 todo un palazo Chinga le vas aquí escuchándote desde Toronto Canadá 🇨🇦 no 🙏✌🏼,0.25,Positive,0.1,Neutral,-0.711674153804779,Negative
+Todos aquí presentes después de escuchar l Bizzarap #23 todo un palazo Chinga le vas aquí escuchándote desde Toronto Canadá 🇨🇦 no 🙏✌🏼,0.25,Positive,0.1,Positive,-0.711674153804779,Negative
 Eg2kabrtp000000,0.0,Neutral,0.0,Neutral,0.2559298276901245,Neutral
 "Wowww muy buen tema , me gusto ❤️❤️❤️❤️🔥🔥🔥",-0.0534,Negative,0.7549999999999999,Positive,0.5786319375038147,Positive
 La mejor canción del mundo,0.6369,Positive,1.0,Positive,0.9416846632957458,Positive
@@ -150,7 +150,7 @@ como poder dejar de escuchar este TEMAZOOOOO!!!!!,-0.5216,Negative,0.0,Neutral,-
 Después de la sessions con el Biza 🙂,0.4033,Positive,0.0,Neutral,0.3087319433689117,Neutral
 😍😍😍😍😍😍😍,0.9638,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Después de la bzrp section 😂,0.4404,Positive,0.0,Neutral,0.270961731672287,Neutral
-Este es el Paulo que muchos esperaban que regresara 😔 (Me incluyo),0.0772,Positive,0.2,Neutral,0.3720354735851288,Positive
+Este es el Paulo que muchos esperaban que regresara 😔 (Me incluyo),0.0772,Positive,0.2,Positive,0.3720354735851288,Positive
 Soy tu fan me se la lwtra,0.3182,Positive,0.0,Neutral,0.2806939482688904,Neutral
 ¿Quien vino aca despues de la bzrp? se imaginan que esta hubiera sido la session fuaaa,0.0,Neutral,0.0,Neutral,-0.4768995642662048,Negative
 que recuerdos ;(,0.0,Neutral,0.0,Neutral,0.2158088833093643,Neutral
@@ -275,7 +275,7 @@ Oh, yeah (yeah-eh, yeah)
 Como Adán y Eva, ey (sencillo)
 (Yeh) como Adán y Eva, ah
 (Yeh) como Adán y Eva
-Como Adán y Eva (yeh)",0.8946,Positive,0.04411045943304,Neutral,-0.3143111765384674,Negative
+Como Adán y Eva (yeh)",0.8946,Positive,0.04411045943304,Positive,-0.3143111765384674,Negative
 Hoy sale la bizarap# 23 de Paulo,0.0,Neutral,0.0,Neutral,-0.3692581355571747,Negative
 23,0.0,Neutral,0.0,Neutral,0.2617983520030975,Neutral
 Muy bonita la ca cancion,0.6361,Positive,1.0,Positive,0.5996409058570862,Positive
@@ -283,7 +283,7 @@ La parte que más me gusta la que dice de mí no te escapas esta noche no me gua
 Jiji,0.0,Neutral,0.0,Neutral,0.2793223857879638,Neutral
 🦁🦁🦁🦁🦁,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Como Adan y Eva, tengamo' nuestro pecado 🎶",-0.2732,Negative,0.0,Neutral,0.4874186813831329,Positive
-Volviste wacho!!!!,0.7156,Positive,0.1220703125,Neutral,-0.5961225032806396,Negative
+Volviste wacho!!!!,0.7156,Positive,0.1220703125,Positive,-0.5961225032806396,Negative
 ♥♥♥♥♥,0.9719,Positive,0.0,Neutral,0.2806143760681152,Neutral
 Quien todavía escucha este temazo🙌🏻🙌🏻,0.0,Neutral,0.0,Neutral,0.4168252348899841,Positive
 Cada dia tiene mas vistas,0.0,Neutral,0.5,Positive,0.4228026270866394,Positive
@@ -295,8 +295,8 @@ Yo llamándome Eva,0.0,Neutral,0.0,Neutral,-0.2687420845031738,Negative
 Te amo,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
 Quien esta aquí después de enterarse de la BZRP Session 23❤️‍🔥❤️‍🔥❤️‍🔥,-0.7351,Negative,0.0,Neutral,0.3079595863819122,Neutral
 Te amo paulo londra sos el mejor,0.8555,Positive,0.75,Positive,0.801748514175415,Positive
-Y como adan y eva tengamos nuestro pecado como dos ladrones un secreto bien guardado un camino y un destino asegurado donde estos fugitivos sean amados,0.5423,Positive,0.1499999999999999,Neutral,0.4552048146724701,Positive
-Y Como adana y eva tengamos un pecado como dos ladrones un secreto bien guardado donde estos fugitivos sean amados,0.4767,Positive,0.1499999999999999,Neutral,0.429592877626419,Positive
+Y como adan y eva tengamos nuestro pecado como dos ladrones un secreto bien guardado un camino y un destino asegurado donde estos fugitivos sean amados,0.5423,Positive,0.1499999999999999,Positive,0.4552048146724701,Positive
+Y Como adana y eva tengamos un pecado como dos ladrones un secreto bien guardado donde estos fugitivos sean amados,0.4767,Positive,0.1499999999999999,Positive,0.429592877626419,Positive
 Paulo mio,0.0,Neutral,0.0,Neutral,0.3322921395301819,Positive
 meme                         adan y eva,0.0,Neutral,0.0,Neutral,0.2524430453777313,Neutral
 😈✌,0.7351,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -351,8 +351,8 @@ What language is it?,0.0,Neutral,0.0,Neutral,0.2338078320026397,Neutral
 I'm the throw er,0.0,Neutral,0.0,Neutral,0.4730559885501861,Positive
 Y aquí buscando el comentario de la señora que desconecto su marido para escuchar al grande de Paulo,0.6249,Positive,0.8,Positive,0.3420149087905884,Positive
 leones con flouw,0.0,Neutral,0.0,Neutral,0.2211877256631851,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
-Paulo que rolon bueno grasias tambie  big ligas por crear  este tema,0.7906,Positive,0.3,Neutral,0.4610861241817474,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
+Paulo que rolon bueno grasias tambie  big ligas por crear  este tema,0.7906,Positive,0.3,Positive,0.4610861241817474,Positive
 "nadie . 
 yo.. escuchando la musica en el 2022 esta joyita esta en mi corazon",0.6378,Positive,-0.1875,Negative,0.3929894268512726,Positive
 https://youtu.be/SRt0KAMCI4Q  .,0.0,Neutral,0.0,Neutral,0.2244540601968765,Neutral
@@ -372,7 +372,7 @@ Adán y eva yo veo tus videos,0.0,Neutral,0.0,Neutral,0.3953331708908081,Positiv
 Buena cancion..Buena vibra,0.7003,Positive,0.7,Positive,0.5655736923217773,Positive
 dia 1 escuchando la cancion,0.0,Neutral,0.0,Neutral,0.2960049211978912,Neutral
 este tema es un temón  gracias paulo por regalarnos este temazo  londrista de corazon,0.9274,Positive,0.5,Positive,0.6320857405662537,Positive
-Primero,0.0,Neutral,0.25,Neutral,0.2769973874092102,Neutral
+Primero,0.0,Neutral,0.25,Positive,0.2769973874092102,Neutral
 Es mi cancion favorita,0.4588,Positive,0.5,Positive,0.6616100668907166,Positive
 Paulo Londra eres mi idolo,0.0,Neutral,0.0,Neutral,0.7703624367713928,Positive
 Saint Seiya,0.0,Neutral,0.0,Neutral,0.3882001638412475,Positive
@@ -410,7 +410,7 @@ J jjjj,0.0,Neutral,0.0,Neutral,0.261858731508255,Neutral
 Jjjj,0.0,Neutral,0.0,Neutral,0.2727770805358886,Neutral
 Jjjjj,0.0,Neutral,0.0,Neutral,0.2721839845180511,Neutral
 Jjjj,0.0,Neutral,0.0,Neutral,0.2727770805358886,Neutral
-Deberías festejar los 1000M de reproducciones alto tema  😎😎😎,0.9136,Positive,0.16,Neutral,0.2840556800365448,Neutral
+Deberías festejar los 1000M de reproducciones alto tema  😎😎😎,0.9136,Positive,0.16,Positive,0.2840556800365448,Neutral
 "❤️⭐💕❤️💕⭐❤️
 Acércate, deja la' duda'
 
@@ -586,8 +586,8 @@ Como Adán y Eva, ey (sencillo)
 
 (Yeh) como Adán y Eva
 
-Como Adán y Eva (yeh)",0.9437,Positive,0.04411045943304,Neutral,-0.3189791142940521,Negative
-Todavía sigue vivo este temon,0.3818,Positive,0.1,Neutral,0.5394530296325684,Positive
+Como Adán y Eva (yeh)",0.9437,Positive,0.04411045943304,Positive,-0.3189791142940521,Negative
+Todavía sigue vivo este temon,0.3818,Positive,0.1,Positive,0.5394530296325684,Positive
 I,0.0,Neutral,0.0,Neutral,0.248748168349266,Neutral
 😎😎😎😎😎😍😍😍😍,0.9776,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Condenado para el billón :0,-0.0258,Neutral,0.0,Neutral,-0.873779296875,Negative
@@ -597,7 +597,7 @@ Sos un capo Paulo me encantan todas tus canciones y esta es una d las más linda
 Creo que la mayoria de los Argentinos conocen esta cancion La amo💕,0.8591,Positive,0.5,Positive,0.4182762205600738,Positive
 "Este paulo, volvio a su puesto 💫❤",0.5106,Positive,0.0,Neutral,-0.3060490489006042,Negative
 Vamosss paulo el tiempo no borra lp que es eterno!! ARGENTINA con vos en tu vuelta !!,0.0,Neutral,0.0,Neutral,0.5719850659370422,Positive
-"Que flow amigo, y pensar que sacaste 2 temazos en menos de 1 mes !! sos un capo Paulito sigue asi, todos estamos muy emocionados por tu regreso !! Grande Leon",0.9034,Positive,0.3253255208333333,Neutral,0.7434127330780029,Positive
+"Que flow amigo, y pensar que sacaste 2 temazos en menos de 1 mes !! sos un capo Paulito sigue asi, todos estamos muy emocionados por tu regreso !! Grande Leon",0.9034,Positive,0.3253255208333333,Positive,0.7434127330780029,Positive
 soy tu fan paulo londra me gustan tus canciones,0.5859,Positive,0.0,Neutral,0.5267242193222046,Positive
 Qué chévere está mucica 😀😀🤪🤪🤪,0.743,Positive,0.35,Positive,-0.3756890594959259,Negative
 Hola tus canciónes son muy buenos mejusto muchicimo😚😚😚😚🤩🤩🤩😁😁😁😀😀😍😍😍😘😘😘👏👏👏👏👏💕💕💕💕💕💜💕💕,0.7146,Positive,0.91,Positive,0.4754343330860138,Positive
@@ -639,7 +639,7 @@ Si yo fuera la muchachita esa le aceptaria la manzana aun khe sea🤣😊,0.8957
 La escucho 24/8,0.0,Neutral,0.0,Neutral,-0.291454553604126,Negative
 Que bueno musica,0.4404,Positive,0.7,Positive,0.3639628291130066,Positive
 TE AMO MUCHO PAULO LONDRA 👑💖,0.9068,Positive,0.35,Positive,0.5598230957984924,Positive
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 esta rola me gusta amo todas  las canciones de Paulo londra,0.7717,Positive,0.5,Positive,0.5490636229515076,Positive
 Soy el unico q escucha esta joyita en 2022?,0.0,Neutral,0.0,Neutral,-0.5480727553367615,Negative
 q grande paulo londra ._.,0.0,Neutral,0.0,Neutral,0.3286336362361908,Neutral
@@ -647,7 +647,7 @@ que buena musica,0.4404,Positive,0.7,Positive,0.4533059000968933,Positive
 Pauloooo te amoooo xfa respondeme auque solo sea otro te amo xfa,0.8555,Positive,0.5,Positive,-0.6128638982772827,Negative
 como andan y eva la amoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,0.0,Neutral,0.0,Neutral,0.4113831222057342,Positive
 Alguien que le un segundo para leer este comentario dios los bendiga y los proteja de covid-19😇😇,0.91,Positive,0.0,Neutral,-0.4448350965976715,Negative
-Cómo es que tiene tantas vistas si solo tiene 3 años 😯,0.0,Neutral,0.1999999999999999,Neutral,0.4646854698657989,Positive
+Cómo es que tiene tantas vistas si solo tiene 3 años 😯,0.0,Neutral,0.1999999999999999,Positive,0.4646854698657989,Positive
 Yoiii,0.0,Neutral,0.0,Neutral,0.2616263926029205,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 CBienvenido al portapapeles de Gboard; todo texto que copies se guardará aquí.bdkdbsnsn,0.7003,Positive,0.8,Positive,-0.513633668422699,Negative
@@ -676,7 +676,7 @@ Ch,0.0,Neutral,0.0,Neutral,0.2855224609375,Neutral
 Hola Paulo. ¿Para cuándo la bizarrap sessions?,0.0,Neutral,0.0,Neutral,-0.2969649732112884,Negative
 𝕁𝕠𝕪𝕚𝕥𝕒 🤙🏻,0.4939,Positive,0.0,Neutral,0.3428077399730682,Positive
 Díganme que no soy el único en el 2022 🔝,0.368,Positive,0.0,Neutral,0.3289609551429748,Neutral
-como me gusta sus canciones para mi eres mi idolo te quiero paulo mi papa se llama igual que vos,0.7717,Positive,0.25,Neutral,0.7157064080238342,Positive
+como me gusta sus canciones para mi eres mi idolo te quiero paulo mi papa se llama igual que vos,0.7717,Positive,0.25,Positive,0.7157064080238342,Positive
 Paulo londra me la se tu cansio. De memoria no tanto pero si se,0.458,Positive,-0.1,Negative,-0.3698343932628631,Negative
 Gracias paulo por tu increible musica como 6 de ellas las dedique 💗💗💗,0.975,Positive,0.9,Positive,0.7982137799263,Positive
 Sencillo 👌😎,0.8455,Positive,0.0,Neutral,0.2835980653762817,Neutral
@@ -688,7 +688,7 @@ Hermoso 🤩🤩🤩🤩,0.5994,Positive,0.85,Positive,0.781205952167511,Positiv
 "Opa,, acá escuchando al Paulito",0.0,Neutral,0.0,Neutral,-0.3604233562946319,Negative
 🦁🦁🦁🦁🦁🦁🦁🤴🤴🤴🤴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
-No me gusta mucho Paulo londra pero sus canciones ay algunas épicas,-0.1419,Negative,0.18,Neutral,-0.521772027015686,Negative
+No me gusta mucho Paulo londra pero sus canciones ay algunas épicas,-0.1419,Negative,0.18,Positive,-0.521772027015686,Negative
 YA EN 2022 Y SE SIGUE ESCUCHANDO ESTA JOYA,0.5847,Positive,0.0,Neutral,0.6470038294792175,Positive
 Acércate deja la duda la noche fría o me está está segura,-0.1027,Negative,-0.0499999999999999,Negative,0.3067222833633423,Neutral
 2022 quien escucha este temazo,0.7073,Positive,0.8,Positive,-0.3808493614196777,Negative
@@ -696,9 +696,9 @@ estoy enamorada de ti,0.6369,Positive,0.5,Positive,0.5775126218795776,Positive
 "mi unica queja es porque dices oh oh oh eh eh eh eso interumpe la musica
 eso tendrias que mejoralo un poco.",-0.1531,Negative,-0.15,Negative,0.5763579607009888,Positive
 Temaso brooooooo,0.0,Neutral,0.0,Neutral,0.2562043070793152,Neutral
-para quien se cree esa mina jajajajaj,0.0,Neutral,0.2,Neutral,0.4391705989837646,Positive
+para quien se cree esa mina jajajajaj,0.0,Neutral,0.2,Positive,0.4391705989837646,Positive
 Alguien en el 2022 escuchando esta belleza,0.6705,Positive,0.0,Neutral,0.6158204078674316,Positive
-gracias paulo porque esta canción hizo que tuviera novia Gracias,0.7003,Positive,0.2,Neutral,0.4465892910957336,Positive
+gracias paulo porque esta canción hizo que tuviera novia Gracias,0.7003,Positive,0.2,Positive,0.4465892910957336,Positive
 Bonito😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Si es😘,0.6705,Positive,0.0,Neutral,0.2803126275539398,Neutral
 Hola momento🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.2730221152305603,Neutral
@@ -710,10 +710,10 @@ Mil millones Paulo :’),0.5106,Positive,0.0,Neutral,-0.4284573197364807,Negativ
 12-4-2022..11:08 🥲,0.0,Neutral,0.0,Neutral,-0.4978179633617401,Negative
 Regresa Paulo porfavor !,0.3802,Positive,0.0,Neutral,-0.5124551057815552,Negative
 Sé que no eh escrito aca pero desde q salió esa canción no dejo de escucharla,0.3252,Positive,0.0,Neutral,-0.6536914110183716,Negative
-"lo puse  a un parlante de un local y los de seguridad me sacaron, pero casi a la mayoría le gustó y lo dejaron así 😎🥵",0.8394,Positive,0.1999999999999999,Neutral,-0.3324984610080719,Negative
+"lo puse  a un parlante de un local y los de seguridad me sacaron, pero casi a la mayoría le gustó y lo dejaron así 😎🥵",0.8394,Positive,0.1999999999999999,Positive,-0.3324984610080719,Negative
 Feliz cumpleaños Paulo.,0.5719,Positive,0.8,Positive,0.5963014364242554,Positive
 feliz cumple paulo,0.5719,Positive,0.8,Positive,0.4989606440067291,Positive
-me gustan mucho tus canciones,0.4201,Positive,0.2,Neutral,0.516918420791626,Positive
+me gustan mucho tus canciones,0.4201,Positive,0.2,Positive,0.516918420791626,Positive
 Soy el unico que pone la letra de la cancion por que no sabe el nombre,0.0,Neutral,0.0,Neutral,-0.2877033054828644,Negative
 Un gey,0.0,Neutral,0.0,Neutral,0.3045076429843902,Neutral
 FELIZ CUMPLEAÑOS PAULO,0.5719,Positive,0.8,Positive,0.5765758156776428,Positive
@@ -742,7 +742,7 @@ Siempre me ayudó mucho esa cancion,0.0,Neutral,0.0,Neutral,0.6885736584663391,P
 Quien escucha este temaso que le de like a este comentario😍❤,0.8658,Positive,0.0,Neutral,0.5147207975387573,Positive
 está buena la canción,0.4404,Positive,0.7,Positive,0.4626728296279907,Positive
 Re copiada la cancion🤡,0.0,Neutral,0.0,Neutral,-0.2419222593307495,Negative
-Esto era lo que quería en plan A Con todo respeto esperaba mas algo Flow Adán y Eva o condenado para el millón... Igual se extrañaba Paulo Londra 🤙🏻,0.296,Positive,0.0916666666666666,Neutral,-0.2576578855514526,Negative
+Esto era lo que quería en plan A Con todo respeto esperaba mas algo Flow Adán y Eva o condenado para el millón... Igual se extrañaba Paulo Londra 🤙🏻,0.296,Positive,0.0916666666666666,Positive,-0.2576578855514526,Negative
 Y los gringos?,0.0,Neutral,0.0,Neutral,-0.3296746015548706,Negative
 Que de mi no te escapas 🎶🎶🎶🎶💋💋,0.6227,Positive,0.0,Neutral,-0.4423204362392425,Negative
 Me encantaaaaaaa🥰😍,0.9382,Positive,0.5,Positive,0.2424992024898529,Neutral
@@ -752,7 +752,7 @@ Uno de los himno de Londra!,0.0,Neutral,0.0,Neutral,0.7746471166610718,Positive
 Ladra!,-0.5707,Negative,0.0,Neutral,0.4810277223587036,Positive
 Está canción es todo,0.0,Neutral,0.0,Neutral,0.5003026127815247,Positive
 Quien la escucha este tema en el 2022📳,0.0,Neutral,0.0,Neutral,0.3524456620216369,Positive
-;),0.2263,Positive,0.25,Neutral,0.4011613428592682,Positive
+;),0.2263,Positive,0.25,Positive,0.4011613428592682,Positive
 seeeeeeeeee,0.0,Neutral,0.0,Neutral,0.2799274325370788,Neutral
 Contar el cine,0.0,Neutral,0.0,Neutral,0.4128334820270538,Positive
 Me encanta es te temaso 💖💯🙂,0.8781,Positive,0.5,Positive,0.7890125513076782,Positive
@@ -771,18 +771,18 @@ Like cuando estan felizes y es cuchan al dios paulo,0.8074,Positive,0.8,Positive
 Un dios de un comentario cuando estan sad escuchan a paulo londra,-0.25,Negative,-0.5,Negative,0.3141780793666839,Neutral
 Que pedo 1072 millones de vistas,0.0,Neutral,0.0,Neutral,-0.4162945747375488,Negative
 Paulo es mi IDOLO SIIUU,0.0,Neutral,0.0,Neutral,0.6394253969192505,Positive
-2018 mod...,0.0,Neutral,0.2,Neutral,0.283298522233963,Neutral
+2018 mod...,0.0,Neutral,0.2,Positive,0.283298522233963,Neutral
 Like 1.0000000000000M,0.3612,Positive,0.0,Neutral,-0.2893418371677398,Negative
 !me encantaaaaaaaaaaa eres el mejor paulo londra te amoooooooooooooooooooooo¡,0.9312,Positive,0.6666666666666666,Positive,0.8774730563163757,Positive
 la chica tiene cara de eva xd,0.5859,Positive,0.0,Neutral,0.2510319054126739,Neutral
-Paulo  te amo megusta tu canciones el cámara lenta y el de dani eva,0.7717,Positive,0.0999999999999999,Neutral,0.4257590472698211,Positive
+Paulo  te amo megusta tu canciones el cámara lenta y el de dani eva,0.7717,Positive,0.0999999999999999,Positive,0.4257590472698211,Positive
 Saben que es lo mejor que ahora Paulo a de tener muchas canciones si es así solo le hace falta video,0.6369,Positive,0.5,Positive,0.5019980072975159,Positive
 me se la cancion de memoria,0.6369,Positive,0.0,Neutral,0.3237317204475403,Neutral
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
 """Adán y Eva"" es la canción más escuchada de un cantante argentino felicitaciones Paulo londra te amamos",0.8442,Positive,0.5,Positive,0.5454376339912415,Positive
 La casino está hermosa saludos desde Perú,0.7717,Positive,0.85,Positive,0.6247458457946777,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
-Quisiera que Paulo 🦁 cantará  éste tema en un recital yaaa .....❤️creo q un recital de él va a ser muuuy épico y un lleno asegurado 💕💕🇦🇷,0.7783,Positive,0.13,Neutral,0.3115300238132477,Neutral
+Quisiera que Paulo 🦁 cantará  éste tema en un recital yaaa .....❤️creo q un recital de él va a ser muuuy épico y un lleno asegurado 💕💕🇦🇷,0.7783,Positive,0.13,Positive,0.3115300238132477,Neutral
 Nice effect,0.4215,Positive,0.6,Positive,0.4792797267436981,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 🤤🤤🤤🤤🤤🤤🤤🤤Que me que impresionada🤤🤤🤤,0.6113,Positive,0.0,Neutral,0.2819224596023559,Neutral
@@ -810,7 +810,7 @@ IDOLO,0.0,Neutral,0.0,Neutral,0.588365912437439,Positive
 THE KING IS BACK,0.0,Neutral,0.0,Neutral,0.2737473249435425,Neutral
 DE MI NO TE ECAPAAAAAAAAAAAS WACHITA RIKA,-0.296,Negative,0.0,Neutral,-0.3159137070178985,Negative
 Paulooooo por fin volvio ✨✨😳,0.5574,Positive,0.0,Neutral,-0.3133180737495422,Negative
-wow cuantas visitas antes lo habia visto tenia 500m y ahora 1000m,0.5859,Positive,0.3,Neutral,0.5125280022621155,Positive
+wow cuantas visitas antes lo habia visto tenia 500m y ahora 1000m,0.5859,Positive,0.3,Positive,0.5125280022621155,Positive
 ❤⭐,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Throw the apple at her that works better,0.4404,Positive,0.5,Positive,-0.3364801406860351,Negative
 El conoció a parcerito de fede,0.7184,Positive,0.0,Neutral,0.230672538280487,Neutral
@@ -833,9 +833,9 @@ Graciaaaaas Paulooooo,0.3612,Positive,0.0,Neutral,0.2899478673934936,Neutral
 0:01,0.0,Neutral,0.0,Neutral,-0.5815977454185486,Negative
 tengo que decirte algo tu canción la tengo en fondo de bloqueo,-0.3818,Negative,0.0,Neutral,-0.5111600160598755,Negative
 😃😆😊,0.875,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Nadie yoooo viendo el vídeo de Paulo londra después de q ya aya sacado su primer tema ""plan A""🛐🛐",0.296,Positive,0.25,Neutral,-0.5047470927238464,Negative
-me encantan tus canciones toda la escuela te ama mi tío te escucha mi papá y obviamente yo eres mi idolo,0.836,Positive,0.2333333333333333,Neutral,0.8699838519096375,Positive
-lo vuelco a escuchar despise de 3 años que recuerdos gracias,0.4404,Positive,0.2,Neutral,0.5600103139877319,Positive
+"Nadie yoooo viendo el vídeo de Paulo londra después de q ya aya sacado su primer tema ""plan A""🛐🛐",0.296,Positive,0.25,Positive,-0.5047470927238464,Negative
+me encantan tus canciones toda la escuela te ama mi tío te escucha mi papá y obviamente yo eres mi idolo,0.836,Positive,0.2333333333333333,Positive,0.8699838519096375,Positive
+lo vuelco a escuchar despise de 3 años que recuerdos gracias,0.4404,Positive,0.2,Positive,0.5600103139877319,Positive
 de tus njgkade vinla eso mopero mepmeidimnomenopaklanaocont,0.0,Neutral,0.0,Neutral,0.2873605787754059,Neutral
 la cansion es bonito,0.4215,Positive,0.6,Positive,0.330723226070404,Positive
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
@@ -845,7 +845,7 @@ Paula,0.0,Neutral,0.0,Neutral,0.2709545195102691,Neutral
 La número 1 canciones  de Paulo Londra,0.0772,Positive,0.0,Neutral,0.3914954662322998,Positive
 Te amo paulo londra,0.0,Neutral,0.0,Neutral,0.3518587946891784,Positive
 Alguien tambien escuchando esta rolita el 7 de abril del 2022,0.0,Neutral,0.0,Neutral,-0.7350214123725891,Negative
-Paulo londra era mi idolo  cuando yo tenia 5 años ahora es  una leyenda,0.0,Neutral,0.1,Neutral,0.6906775832176208,Positive
+Paulo londra era mi idolo  cuando yo tenia 5 años ahora es  una leyenda,0.0,Neutral,0.1,Positive,0.6906775832176208,Positive
 Amooooo este tema Dios pasan los años y lo escucho y me transporta a otro lugar.,0.743,Positive,0.5,Positive,0.5094935894012451,Positive
 "Escuchen mi primera canción 🙏🏻❤️🎶, la escribí con todo el amor del mundo, mostrando el significado de lo que es amar de verdad ☺️
 👉🏻 https://youtu.be/U0gX1CV46Wk",0.9349,Positive,0.4,Positive,0.625555694103241,Positive
@@ -861,7 +861,7 @@ bamos paulo londra,0.0,Neutral,0.0,Neutral,0.2924500405788421,Neutral
 En el campo viendo el amanecer escuchando este tema esperando que pasen las horas para el relevo 😊😊,0.9001,Positive,0.0,Neutral,0.3622854948043823,Positive
 Gracias paulito por esta canción 😎😎👍,0.8176,Positive,0.0,Neutral,0.65153568983078,Positive
 uff,0.0,Neutral,0.0,Neutral,0.2852161526679992,Neutral
-Sigo escuchando 3años esta canción y lo seguiré escuchando hasta q saque nuevo tema 😭😭 Paulo te amooo vuelve YAA!!,-0.3786,Negative,0.2121212121212121,Neutral,0.2856544554233551,Neutral
+Sigo escuchando 3años esta canción y lo seguiré escuchando hasta q saque nuevo tema 😭😭 Paulo te amooo vuelve YAA!!,-0.3786,Negative,0.2121212121212121,Positive,0.2856544554233551,Neutral
 uff ese edit re cool,0.3182,Positive,0.35,Positive,0.4078781902790069,Positive
 :3,0.5106,Positive,0.5,Positive,0.3112600445747375,Neutral
 Ya no escuchén sus anteriores temas xq todo eso va a Big ligas,0.0,Neutral,-0.0833333333333333,Negative,-0.3685200214385986,Negative
@@ -901,7 +901,7 @@ Actualmente 5 de abril 2022 1069M vistas,0.0,Neutral,0.0,Neutral,0.2892337739467
 amo 🎉lindisima,0.8957,Positive,0.675,Positive,0.45319664478302,Positive
 Mi mayor pecado ...haberme enamorado (ー_ー゛),0.6369,Positive,0.5,Positive,-0.6935266852378845,Negative
 Un día antes que saque el tema. (Chance) my king🦁,0.25,Positive,-0.1666666666666666,Negative,-0.2809111177921295,Negative
-Esperando el nuevo tema Chance de Paulo💪💪,0.25,Positive,0.1363636363636363,Neutral,0.3766880929470062,Positive
+Esperando el nuevo tema Chance de Paulo💪💪,0.25,Positive,0.1363636363636363,Positive,0.3766880929470062,Positive
 🦁🦁🦁,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 un amigo me mando la cancion y no se que a echo no dejo de escucharla uwu,0.6234,Positive,0.0,Neutral,-0.362423300743103,Negative
 💖💖💖💖,0.9766,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -925,13 +925,13 @@ Ay luego platicamos ☺️ . me pasas tu número 😂😂😂😂😍😍😍�
 Mañana. Platicamos me boy a dormir💖💖💖💖💖💖😍😍😍😘😘😘,0.0,Neutral,0.0,Neutral,-0.3707896769046783,Negative
 Oye cómo tumedigiste quien digo esto puesllo es toy loca portó teamo 😘😘😘😘😘😘😘😘😍😍😍😍😍💖💖💖💖💖💖💖💖💖😘😍 me gustas mucho,0.9984,Positive,-0.6,Negative,0.4883861839771271,Positive
 😍❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Me gusta mucho la música 😍😸😍😸😸😸😸😍😸😸😍😍😸 teamo,0.9954,Positive,0.2,Neutral,0.4761559069156647,Positive
-donde vive xd 😬,0.34,Positive,0.1363636363636363,Neutral,0.5099601745605469,Positive
+Me gusta mucho la música 😍😸😍😸😸😸😸😍😸😸😍😍😸 teamo,0.9954,Positive,0.2,Positive,0.4761559069156647,Positive
+donde vive xd 😬,0.34,Positive,0.1363636363636363,Positive,0.5099601745605469,Positive
 wuw,0.0,Neutral,0.0,Neutral,0.2564293146133423,Neutral
-rol intenso},0.0772,Positive,0.2,Neutral,0.409793883562088,Positive
+rol intenso},0.0772,Positive,0.2,Positive,0.409793883562088,Positive
 De mi te escapa,0.1779,Positive,0.0,Neutral,-0.5470122694969177,Negative
 "de verdad las canciones del 2019 hacia atras, eran buenas  que ahora nos dan mucha nostalgia
-psdt: ando  escuchando musica de esos años ahorita ya llevo varias musica",0.6486,Positive,0.2964285714285714,Neutral,0.2689578831195831,Neutral
+psdt: ando  escuchando musica de esos años ahorita ya llevo varias musica",0.6486,Positive,0.2964285714285714,Positive,0.2689578831195831,Neutral
 quien en 2022 recordando este rolon,0.0,Neutral,0.0,Neutral,0.5818544030189514,Positive
 Un minuto de silencio por los que todavía no se deleitan con esta joya de cancion....❤🥺🎶,0.3761,Positive,0.4,Positive,-0.4079129695892334,Negative
 Te amuu,0.0,Neutral,0.0,Neutral,-0.4534823000431061,Negative
@@ -989,7 +989,7 @@ Leones con flow oh oh oh ehhh
 Como adán y Eva( sencillo) eeeeh
 Como adán y eva oh (eeeeeh) 
 Como adán y Eva como adán y Eva 
-( eeeeeeh)",0.8854,Positive,0.0415491118077324,Neutral,-0.3581975400447845,Negative
+( eeeeeeh)",0.8854,Positive,0.0415491118077324,Positive,-0.3581975400447845,Negative
 1068 M de visitas 🤯,0.0,Neutral,0.0,Neutral,0.3633627295494079,Positive
 No es musica esto..,0.0,Neutral,0.0,Neutral,-0.6162837743759155,Negative
 4 años y sigo escuchando este temon,0.0,Neutral,0.0,Neutral,0.531284749507904,Positive

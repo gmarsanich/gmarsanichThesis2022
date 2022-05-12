@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Anybody listening this masterpiece in 2022❤️,0.7073,Positive,0.0,Neutral,0.8265421986579895,Positive
 Im the real Slim Shady.,0.0,Neutral,-0.0249999999999999,Negative,0.2702997922897339,Neutral
-Meu fi quer bolacha nao quero nao meu fi quer leite nao quero nada meu fi que comer nada nao meu fi quer cachaça min di papa,-0.1139,Negative,0.2,Neutral,-0.7159762382507324,Negative
+Meu fi quer bolacha nao quero nao meu fi quer leite nao quero nada meu fi que comer nada nao meu fi quer cachaça min di papa,-0.1139,Negative,0.2,Positive,-0.7159762382507324,Negative
 The greatest of all times,0.6369,Positive,1.0,Positive,0.9430897831916808,Positive
 Nog americano?,0.0,Neutral,0.0,Neutral,-0.3514588177204132,Negative
 Es verdad que la raza de los blancos son tan estúpido,-0.3749,Negative,-0.2249999999999999,Negative,-0.5589940547943115,Negative
@@ -10,7 +10,7 @@ Plot twist: slim shady is disabled,0.0,Neutral,-0.225,Negative,-0.37584748864173
 Eminem is one of the G.O.A.T's,0.0,Neutral,0.0,Neutral,0.345905601978302,Positive
 the real slim shady never dies.,0.0,Neutral,-0.0249999999999999,Negative,0.5965723395347595,Positive
 "22 years later, who's still listening to this masterpiece? Even though it came out ten years before I was born, I'm obsesed",0.7073,Positive,0.0,Neutral,-0.2977693974971771,Negative
-"What if Stephen Hawkings was the real Slim Shady,but he couldn't stand up...🤔🤔",0.0,Neutral,0.2,Neutral,-0.3906839787960052,Negative
+"What if Stephen Hawkings was the real Slim Shady,but he couldn't stand up...🤔🤔",0.0,Neutral,0.2,Positive,-0.3906839787960052,Negative
 HIT this BEST HipHop channel on YT https://www.youtube.com/c/TheMaxGforce,0.7125,Positive,1.0,Positive,0.8600665926933289,Positive
 You're a legend if you still come back to this song,0.0,Neutral,0.0,Neutral,0.4042588174343109,Positive
 Eminem 💝,0.6369,Positive,0.0,Neutral,0.3412715196609497,Positive
@@ -27,7 +27,7 @@ LOVE ITTT,0.6369,Positive,0.5,Positive,0.7174349427223206,Positive
 Dr dre's DEAD he's locked in my basement 🤣🤣🤣🤣🤣,0.874,Positive,-0.2,Negative,-0.2984168231487274,Negative
 I was 8 when this came out and it still slaps,0.0,Neutral,0.0,Neutral,-0.4122786521911621,Negative
 Dr. Dre is in in the basement with Sia probably,0.0,Neutral,0.0,Neutral,0.303707093000412,Neutral
-guys listen to this new song 🔥🔥 it is really hit  i love it 👉🏻🏁https://youtu.be/pFHdQZKb4Jk song name i gonna tell you /singer :Outlaw one,0.1689,Positive,0.2787878787878788,Neutral,0.7701168060302734,Positive
+guys listen to this new song 🔥🔥 it is really hit  i love it 👉🏻🏁https://youtu.be/pFHdQZKb4Jk song name i gonna tell you /singer :Outlaw one,0.1689,Positive,0.2787878787878788,Positive,0.7701168060302734,Positive
 "one of the best rap ever
 no cap",0.4588,Positive,1.0,Positive,0.901886820793152,Positive
 stand up,0.0,Neutral,0.0,Neutral,0.5113933086395264,Positive
@@ -36,27 +36,27 @@ ge dsterben,0.0,Neutral,0.0,Neutral,-0.2916775047779083,Negative
 Masterpiece👌,0.8816,Positive,0.0,Neutral,0.3085779249668121,Neutral
 traducción traducción 🎼🎼🕺,0.0,Neutral,0.0,Neutral,0.2789360284805298,Neutral
 This song Fits In The GTA V,0.0,Neutral,0.0,Neutral,0.5091252326965332,Positive
-Really it's 11 year's ago..,0.0,Neutral,0.2,Neutral,0.3730053305625915,Positive
+Really it's 11 year's ago..,0.0,Neutral,0.2,Positive,0.3730053305625915,Positive
 its a good day :),0.7096,Positive,0.6,Positive,0.4961633384227752,Positive
 エミネムホスピタルへェ〜weII came Eminem hospital〜,0.0,Neutral,0.0,Neutral,0.3266208171844482,Neutral
 "Yes I got a crew cut and bleached my hair and became a clone, twas good, It was fun steppin into MMs head",0.7783,Positive,0.5,Positive,0.305065393447876,Neutral
 This is so clean 😂,0.75,Positive,0.3666666666666667,Positive,0.7400786280632019,Positive
-POV:Looking for 10 year old comments'',0.0,Neutral,0.1,Neutral,-0.2704775631427765,Negative
+POV:Looking for 10 year old comments'',0.0,Neutral,0.1,Positive,-0.2704775631427765,Negative
 Dont flippin hit me with magic there are good dragon that protect me,0.6705,Positive,0.6,Positive,0.3149186968803406,Neutral
 They are take the dragons glassy rocks,0.0,Neutral,0.0,Neutral,0.238010972738266,Neutral
 So do they know that they are make dragons mad,-0.4939,Negative,-0.625,Negative,0.290326863527298,Neutral
 I heard there is dragons in some of those places,0.0,Neutral,0.0,Neutral,0.3093419671058655,Neutral
 But do they know how dangerous it is to get those rocks that are cutt,-0.631,Negative,-0.6,Negative,0.4099973738193512,Positive
-Some people say now days the rocks will float back to the mountain or they will live in glassy rock houses yet why is that possible to do to the mountains,0.0,Neutral,0.0454545454545454,Neutral,0.4473374187946319,Positive
+Some people say now days the rocks will float back to the mountain or they will live in glassy rock houses yet why is that possible to do to the mountains,0.0,Neutral,0.0454545454545454,Positive,0.4473374187946319,Positive
 I dont get it why they fought over castles,-0.3182,Negative,0.0,Neutral,-0.2919363677501678,Negative
 I dont beleave it was foolishness that war it was over castles you know the Lennon song,-0.7717,Negative,0.0,Neutral,-0.5944294333457947,Negative
-Yet can the really bum bee please stand up,0.3744,Positive,0.2,Neutral,0.3373787105083465,Positive
+Yet can the really bum bee please stand up,0.3744,Positive,0.2,Positive,0.3373787105083465,Positive
 And bum bee peace peace pipe bee good,0.872,Positive,0.7,Positive,0.4535293579101562,Positive
 All them bum been good,0.4404,Positive,0.7,Positive,0.2685637176036834,Neutral
-I know unfairly vain yet I want to people to have real things all if them bum bee good please bum bee good please,0.7845,Positive,0.2749999999999999,Neutral,-0.6919687986373901,Negative
+I know unfairly vain yet I want to people to have real things all if them bum bee good please bum bee good please,0.7845,Positive,0.2749999999999999,Positive,-0.6919687986373901,Negative
 And then again its so unfair yet think of it people living for the real things that they lived to for to I pray I die with my face on,-0.7644,Negative,-0.15,Negative,-0.6611998677253723,Negative
 Too,0.0,Neutral,0.0,Neutral,0.4175526797771454,Positive
-Ther eis going be alot more giving bum ski little bum bee says so that there isnt going to much unfair bull shit that isnt fair maybe its little unfair in my vain face here yet all I got say is people are going to be coming up in the system all I got say to is good apostate,-0.826,Negative,0.0406249999999999,Neutral,0.2955826818943023,Neutral
+Ther eis going be alot more giving bum ski little bum bee says so that there isnt going to much unfair bull shit that isnt fair maybe its little unfair in my vain face here yet all I got say is people are going to be coming up in the system all I got say to is good apostate,-0.826,Negative,0.0406249999999999,Positive,0.2955826818943023,Neutral
 I love this song so much,0.6369,Positive,0.35,Positive,0.8750550150871277,Positive
 I know but I cant say,0.0,Neutral,0.0,Neutral,0.4021768569946289,Positive
 The found way to juice the wifi,0.0,Neutral,0.0,Neutral,0.2262194752693176,Neutral
@@ -73,7 +73,7 @@ Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 One of fav,0.4588,Positive,0.0,Neutral,0.3325610756874084,Positive
 2022 alguém?,0.0,Neutral,0.0,Neutral,-0.433883935213089,Negative
 Jetzt weiß ich woher 24Tim sein Intro her geklaut hat :D,0.6166,Positive,1.0,Positive,0.2468674182891845,Neutral
-Agora tem Eminem the real slim shady ano 2000 das antigas e antigo sucesso eminen é sim ano 2000 vamos lá assim a música de novo vamos lá assim,0.886,Positive,0.09,Neutral,0.3349014222621918,Positive
+Agora tem Eminem the real slim shady ano 2000 das antigas e antigo sucesso eminen é sim ano 2000 vamos lá assim a música de novo vamos lá assim,0.886,Positive,0.09,Positive,0.3349014222621918,Positive
 praise the sun,0.5574,Positive,0.0,Neutral,0.5874378085136414,Positive
 my dad is die,-0.5994,Negative,0.0,Neutral,0.4207159876823425,Positive
 IDo,0.0,Neutral,0.0,Neutral,0.3395238220691681,Positive
@@ -91,15 +91,15 @@ good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Nostalgic Song❤️,0.0,Neutral,-0.5,Negative,0.5502223968505859,Positive
 2022 present 👋,0.4939,Positive,0.0,Neutral,0.492014080286026,Positive
-How could anyone wonder if I'm gay? Duh!,0.0,Neutral,0.0208333333333333,Neutral,-0.5479502081871033,Negative
-The older sh** Every time is better than new one,0.4404,Positive,0.2676767676767677,Neutral,0.4246712625026703,Positive
-It's the only thing I can think water free in revelation too,0.5106,Positive,0.2,Neutral,0.2916681170463562,Neutral
+How could anyone wonder if I'm gay? Duh!,0.0,Neutral,0.0208333333333333,Positive,-0.5479502081871033,Negative
+The older sh** Every time is better than new one,0.4404,Positive,0.2676767676767677,Positive,0.4246712625026703,Positive
+It's the only thing I can think water free in revelation too,0.5106,Positive,0.2,Positive,0.2916681170463562,Neutral
 Water pour down the throat water it till my heart slows down and I pass to the next town and I am already gor it told David to and want you to find out to and I all we are going to be sick in just then it was like this old earth was getting to me no please,0.4094,Positive,-0.1850793650793651,Negative,-0.4363031089305877,Negative
 Life free for eternity narrowest diet water free diet with all the water you can drink,0.765,Positive,0.4,Positive,0.6247727274894714,Positive
-Water free mean anything,0.5106,Positive,0.04375,Neutral,-0.4192805588245392,Negative
-New earth new heaven new order too,0.5106,Positive,0.1363636363636363,Neutral,0.6336938738822937,Positive
+Water free mean anything,0.5106,Positive,0.04375,Positive,-0.4192805588245392,Negative
+New earth new heaven new order too,0.5106,Positive,0.1363636363636363,Positive,0.6336938738822937,Positive
 We can get to heaven with water diet intake water free,0.765,Positive,0.4,Positive,0.4688420295715332,Positive
-Are you alive slim,0.3818,Positive,0.1,Neutral,-0.3058500587940216,Negative
+Are you alive slim,0.3818,Positive,0.1,Positive,-0.3058500587940216,Negative
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Plinstecdoc,0.0,Neutral,0.0,Neutral,-0.2474169433116912,Negative
 Old school is the best!!,0.6988,Positive,0.55,Positive,0.8619391322135925,Positive
@@ -128,12 +128,12 @@ ma chanson préférée,0.4588,Positive,0.5,Positive,0.4936943650245666,Positive
 Did he ever stand up?,0.0,Neutral,0.0,Neutral,-0.2604592144489288,Negative
 ~~~ #nappingpills....,0.0,Neutral,0.0,Neutral,-0.2969755232334137,Negative
 "im just worried about how he said ""dr dre is dead he is locked in my basement""   😳😳😳",-0.7579,Negative,-0.2,Negative,-0.5019752979278564,Negative
-Fun fact: after this video the real slim shady stood up,0.5106,Positive,0.0833333333333333,Neutral,0.4473745822906494,Positive
-esto si era rap del puro! extraño este mago del ritmo y a canserbero! ahora lo que hay es pura basura,-0.2924,Negative,0.2745535714285714,Neutral,-0.4832265377044678,Negative
+Fun fact: after this video the real slim shady stood up,0.5106,Positive,0.0833333333333333,Positive,0.4473745822906494,Positive
+esto si era rap del puro! extraño este mago del ritmo y a canserbero! ahora lo que hay es pura basura,-0.2924,Negative,0.2745535714285714,Positive,-0.4832265377044678,Negative
 I'm crying and listening this song 😭😭😭😭,-0.9382,Negative,-0.2,Negative,0.5772391557693481,Positive
 Классный песни,0.3182,Positive,0.35,Positive,0.4047079980373382,Positive
 "EMINEM cosmetic surgery Bone silicone doll, Thong-com, middle robot3D",0.0,Neutral,0.0,Neutral,0.2297601401805877,Neutral
-this aged so well xD omg. So true 21 years later.,0.8724,Positive,0.0833333333333333,Neutral,0.7408700585365295,Positive
+this aged so well xD omg. So true 21 years later.,0.8724,Positive,0.0833333333333333,Positive,0.7408700585365295,Positive
 "May I have your attention, please?
 May I have your attention, please?
 Will the real Slim Shady please stand up?
@@ -268,9 +268,9 @@ I love Eminem <3,0.7964,Positive,0.75,Positive,0.7013216614723206,Positive
 Every fan of Eminem must comment this video: https://www.youtube.com/watch?v=-A5xQ-A1Vic,0.3182,Positive,0.0,Neutral,0.4846417605876922,Positive
 GOAT,0.0,Neutral,0.0,Neutral,-0.30313840508461,Negative
 I´m back bitches,-0.5994,Negative,0.0,Neutral,-0.2938114106655121,Negative
-Clitoris is a censored word...wtf kind of puritanical bullshit is that? Literally the exact opposite message of the song. Ffs.,-0.8481,Negative,0.2833333333333333,Neutral,-0.7758277654647827,Negative
+Clitoris is a censored word...wtf kind of puritanical bullshit is that? Literally the exact opposite message of the song. Ffs.,-0.8481,Negative,0.2833333333333333,Positive,-0.7758277654647827,Negative
 3:32,0.0,Neutral,0.0,Neutral,0.3058101534843445,Neutral
-"""you think i care about winning a grammy"" ish that aged well",0.8271,Positive,0.2,Neutral,0.3117032349109649,Neutral
+"""you think i care about winning a grammy"" ish that aged well",0.8271,Positive,0.2,Positive,0.3117032349109649,Neutral
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Will Smith don't gotta cuss in his raps to sell records,0.0,Neutral,0.0,Neutral,-0.4614428877830505,Negative
 "Still great song, and after 20 years still censored",0.5423,Positive,0.8,Positive,0.2691574990749359,Neutral
@@ -279,13 +279,13 @@ Will Smith don't gotta cuss in his raps to sell records,0.0,Neutral,0.0,Neutral,
 "Real rap, not as Drake's or other Fake rappers",-0.4767,Negative,-0.1416666666666666,Negative,-0.4338980913162231,Negative
 "2022, someone here?",0.0,Neutral,0.0,Neutral,-0.4491605162620544,Negative
 "*This song never gets old. No matter how much I listen, I never get bored*",0.1877,Positive,-0.0666666666666666,Negative,0.5048499703407288,Positive
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 "*A message to the future generations: ""DON'T LET THIS SONG DIE""*",-0.6841,Negative,0.0,Neutral,-0.4919386804103851,Negative
 Legends hear it in 2022,0.0,Neutral,0.0,Neutral,0.5425549745559692,Positive
 😎 es el mejor,0.802,Positive,1.0,Positive,0.8212372660636902,Positive
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-El tipo se queja de Mtv cuando curiosamente ese mismo canal lo pasaba todos los días !!! Hizo su fama gracias a MTV,0.5411,Positive,0.0333333333333333,Neutral,0.3993468582630157,Positive
-"We all want our Slim Shady back, normal Eminem is cool but old one is pretty much better",0.8735,Positive,0.1571428571428571,Neutral,0.3534259498119354,Positive
+El tipo se queja de Mtv cuando curiosamente ese mismo canal lo pasaba todos los días !!! Hizo su fama gracias a MTV,0.5411,Positive,0.0333333333333333,Positive,0.3993468582630157,Positive
+"We all want our Slim Shady back, normal Eminem is cool but old one is pretty much better",0.8735,Positive,0.1571428571428571,Positive,0.3534259498119354,Positive
 No se ni que dice perro 😍😍,0.7184,Positive,0.0,Neutral,-0.5975143313407898,Negative
 Lendário Eminem  1 musica que ouvi dele. Que notagia boa,0.4404,Positive,0.85,Positive,0.4655554890632629,Positive
 That don't fully recall the past. I know I'm a brotherly guy and confused as hell. Whatever It is God love you please help don't hurt me.,0.7332,Positive,-0.05,Negative,-0.2917734384536743,Negative
@@ -293,7 +293,7 @@ han pasado mas de 3 años seguidos escuchando esta cancion y siempre encuentro r
 Still the Master of Rap.,0.0,Neutral,0.0,Neutral,0.5737587809562683,Positive
 "This was the real golden🏅🏅  age of Music
 Not the Noise we are listening to nowadays..
-But then we must admit that every thing in life became alot more worse not only Music",-0.0745,Negative,0.0749999999999999,Neutral,-0.2917640507221222,Negative
+But then we must admit that every thing in life became alot more worse not only Music",-0.0745,Negative,0.0749999999999999,Positive,-0.2917640507221222,Negative
 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
 okay so no one talking about how accurate Britney Spears was😭😭,-0.7778,Negative,0.45,Positive,0.8200637102127075,Positive
 "Real Engelwood nikka alert
@@ -304,7 +304,7 @@ Here take emm put em on
 The Mustach the definition of dirty Sanchez no homo watch out the fern Frasco on y'all ass homes",-0.7506,Negative,-0.1999999999999999,Negative,-0.4629565477371216,Negative
 Лайк из апреля 2022,0.3612,Positive,0.0,Neutral,-0.4311327636241913,Negative
 "It's still masterpiece, and Dr Dre still locked in Eminem's basement",0.6249,Positive,0.0,Neutral,0.650558590888977,Positive
-if u be bald I really Wanna be,0.0,Neutral,0.2,Neutral,0.4306017160415649,Positive
+if u be bald I really Wanna be,0.0,Neutral,0.2,Positive,0.4306017160415649,Positive
 "May I have your attention, please?
 May I have your attention, please?
 Will the real Slim Shady please stand up?
@@ -418,32 +418,32 @@ Fuck it, let's all stand up",0.9992,Positive,-0.0705682551201419,Negative,-0.451
 Just deeping how versatile this guy was,0.0,Neutral,0.0,Neutral,0.552774965763092,Positive
 Best 🧡,0.8555,Positive,1.0,Positive,0.7168212532997131,Positive
 please stand up,0.3182,Positive,0.0,Neutral,-0.3699985444545746,Negative
-This song is as old as me,0.0,Neutral,0.1,Neutral,0.4675425887107849,Positive
+This song is as old as me,0.0,Neutral,0.1,Positive,0.4675425887107849,Positive
 im currently listening to this on my vr 😊😊,0.9001,Positive,0.0,Neutral,0.4346380233764648,Positive
 dr dre dead,-0.6486,Negative,-0.2,Negative,-0.4271425306797027,Negative
 True,0.4215,Positive,0.35,Positive,0.5879018306732178,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-1:42  *I guess Eminem was right 💪🏽 because look at what Will did at the Oscars.* 4:10😂,0.4404,Positive,0.2857142857142857,Neutral,0.3188614249229431,Neutral
+1:42  *I guess Eminem was right 💪🏽 because look at what Will did at the Oscars.* 4:10😂,0.4404,Positive,0.2857142857142857,Positive,0.3188614249229431,Neutral
 Anyone here Russian?,0.0,Neutral,0.0,Neutral,-0.6592912077903748,Negative
 Kness weak of old age the real slim shady cant stand  up!!!! LMAFO,-0.6209,Negative,-0.171337890625,Negative,-0.4828161895275116,Negative
 Best song ever,0.6369,Positive,1.0,Positive,0.9553784728050232,Positive
 Literally nobody  Me hearing this music and standing for 4min 28sec,0.0,Neutral,0.0,Neutral,-0.8503742814064026,Negative
 F.A.P.S,0.0,Neutral,0.0,Neutral,0.3077015578746795,Neutral
 "I canna watch that video as he spits on that roll or onion rings then woman eats it oh spew
- It makes me feel seek. I love that song too haha I really take boke I'm trying to get another video so I can listen it's affy I really makes me want to spew hahaha oh how did he have to spit on roll haha. If I see anyone spit on street it really goes rite threw me I cringe an want to be sick.",0.9074,Positive,0.1232142857142856,Neutral,-0.4228879809379577,Negative
+ It makes me feel seek. I love that song too haha I really take boke I'm trying to get another video so I can listen it's affy I really makes me want to spew hahaha oh how did he have to spit on roll haha. If I see anyone spit on street it really goes rite threw me I cringe an want to be sick.",0.9074,Positive,0.1232142857142856,Positive,-0.4228879809379577,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Slim Shitty,-0.5574,Negative,0.0,Neutral,-0.4884009063243866,Negative
 1:23,0.0,Neutral,0.0,Neutral,-0.255286306142807,Negative
-My last name is shady lol,0.4215,Positive,0.1833333333333333,Neutral,0.2177673876285553,Neutral
+My last name is shady lol,0.4215,Positive,0.1833333333333333,Positive,0.2177673876285553,Neutral
 Listening to this back after many years feel like the good ol’ day.,0.6597,Positive,0.3999999999999999,Positive,0.6760064959526062,Positive
 A song that starts with an A,0.0,Neutral,0.0,Neutral,0.3020077347755432,Neutral
 "Still one of the best Eminem songs although it's over 20 years old, Old Eminem will always be a charm that will never be forgotten.",0.8208,Positive,0.4000000000000001,Positive,0.6609398722648621,Positive
 When Jonah Hill gets off the bus in 21 jump street that was so accurate of my time in school.,0.0,Neutral,0.4000000000000001,Positive,0.3571603000164032,Positive
-"the real meaning of ""OLD BUT GOLD""🍻❤🎶",0.7783,Positive,0.15,Neutral,0.2662741243839264,Neutral
+"the real meaning of ""OLD BUT GOLD""🍻❤🎶",0.7783,Positive,0.15,Positive,0.2662741243839264,Neutral
 "I’m a 37 year old history teacher. And after the super bowl I had a bunch of seventh graders singing this in the hall, I busted in mid song and didn’t miss a beat. 
 
 I felt like Bane, “your merely adopted the dark, I was born in it…the shadows betray you because they belong to me”",0.1531,Positive,-0.0433333333333333,Negative,0.30792436003685,Neutral
-this song at first sounds like a song that played in power rangers might morphing,0.5994,Positive,0.325,Neutral,-0.3320246934890747,Negative
+this song at first sounds like a song that played in power rangers might morphing,0.5994,Positive,0.325,Positive,-0.3320246934890747,Negative
 Slim shady should team up with Eminem.,0.0,Neutral,-0.25,Negative,-0.2528626322746277,Negative
 Clone of clown,0.0,Neutral,0.0,Neutral,-0.2542505264282226,Negative
 If you are listening to this song in 2022 you are cool,0.3182,Positive,0.35,Positive,0.2634631395339966,Neutral
@@ -451,7 +451,7 @@ If you are listening to this song in 2022 you are cool,0.3182,Positive,0.35,Posi
 Eminem: there's no reason that two men can't elope",-0.3595,Negative,0.0,Neutral,-0.7158661484718323,Negative
 chica chica chica slim shady,0.0,Neutral,-0.25,Negative,0.2720613777637481,Neutral
 God eminem,0.2732,Positive,0.0,Neutral,0.3532597720623016,Positive
-thanks shady i will check the discovery chanel for sure,0.6369,Positive,0.15,Neutral,0.4269489645957947,Positive
+thanks shady i will check the discovery chanel for sure,0.6369,Positive,0.15,Positive,0.4269489645957947,Positive
 "A fine wine, gets even better with time",0.5719,Positive,0.4583333333333333,Positive,0.5375345945358276,Positive
 Thanks for subing to me nice video,0.6908,Positive,0.4,Positive,0.5074501633644104,Positive
 Lyrical genius,0.0,Neutral,0.0,Neutral,0.7085620760917664,Positive
@@ -461,7 +461,7 @@ Pleasee stand up!,0.3802,Positive,0.0,Neutral,0.4814625680446625,Positive
 si,0.0,Neutral,0.0,Neutral,0.3538630306720733,Positive
 He uploaded this  on September 15 2010,0.0,Neutral,0.0,Neutral,-0.4645540714263916,Negative
 1:18,0.0,Neutral,0.0,Neutral,-0.2606156170368194,Negative
-Meglio pazzo che sani come questa gente che c'è adesso 😊😊😊😁😁😁AAA+++energia,0.9859,Positive,0.1333333333333333,Neutral,0.7206383943557739,Positive
+Meglio pazzo che sani come questa gente che c'è adesso 😊😊😊😁😁😁AAA+++energia,0.9859,Positive,0.1333333333333333,Positive,0.7206383943557739,Positive
 This song literally Came out 11 years ago,0.0,Neutral,0.0,Neutral,-0.3707280158996582,Negative
 Imagine if that Hawking dude was the real Slim Shady but he can't stand up,0.0,Neutral,-0.0249999999999999,Negative,-0.401415467262268,Negative
 2022 This song still fire🔥😤,-0.5859,Negative,0.0,Neutral,0.4662153422832489,Positive
@@ -511,7 +511,7 @@ to this day his bum is still on his lips,0.0,Neutral,0.0,Neutral,0.2782513201236
 Such a good song for motivation,0.6486,Positive,0.35,Positive,0.46100714802742,Positive
 Pov you are the goat,0.0,Neutral,0.0,Neutral,-0.2705940306186676,Negative
 You know a rapper is good when they spit facts while dropping bars at the same time,0.4404,Positive,0.35,Positive,-0.3244255185127258,Negative
-Probably Eminem is gonna roast the whole world.,0.0,Neutral,0.2,Neutral,-0.5215871334075928,Negative
+Probably Eminem is gonna roast the whole world.,0.0,Neutral,0.2,Positive,-0.5215871334075928,Negative
 quienes en el 2022 escuchando esta joya? dale like si eres un Stan.,0.3612,Positive,0.0,Neutral,-0.4495508968830108,Negative
 "Никого не слушай ты ахуенный,привет из России",0.0,Neutral,-0.6,Negative,-0.4033619165420532,Negative
 ha,0.34,Positive,0.0,Neutral,0.2427652031183242,Neutral
@@ -523,7 +523,7 @@ Canciones para la historia,0.0,Neutral,0.0,Neutral,0.4236240684986114,Positive
 "I have listened this more than 200 times in the last few months 
 And still when i listen i get the same excitement and enjoyment
 Beauty of Eminem music 🎵
-He paved the path",0.891,Positive,0.075,Neutral,0.7256250977516174,Positive
+He paved the path",0.891,Positive,0.075,Positive,0.7256250977516174,Positive
 Eminem - The Real Slim Shady,0.0,Neutral,-0.0249999999999999,Negative,0.3254017829895019,Neutral
 سليم الشادي,0.0,Neutral,-0.25,Negative,0.3165387213230133,Neutral
 Brasil 💯,0.0,Neutral,0.0,Neutral,0.2460743337869644,Neutral
@@ -539,7 +539,7 @@ His Videos are Amazing,0.5859,Positive,0.6000000000000001,Positive,0.74301475286
 I prefer sophia turner version haahha,0.0,Neutral,0.0,Neutral,0.315230518579483,Neutral
 from br,0.0,Neutral,0.0,Neutral,-0.2369223982095718,Negative
 We've all been Slim Shady once,0.0,Neutral,-0.25,Negative,-0.2944531142711639,Negative
-"wow, it's so cool",0.7501,Positive,0.2249999999999999,Neutral,0.8446075916290283,Positive
+"wow, it's so cool",0.7501,Positive,0.2249999999999999,Positive,0.8446075916290283,Positive
 "Still a masterpiece, better tha  modern raps.",0.7906,Positive,0.35,Positive,0.6654452681541443,Positive
 "Holi shit, this is 21 years old??",-0.6072,Negative,-0.05,Negative,-0.5588439702987671,Negative
 ليه توني اسمعها ؟؟؟,0.0,Neutral,0.0,Neutral,-0.4690934717655182,Negative
@@ -551,13 +551,13 @@ Humain and lover,0.5859,Positive,0.0,Neutral,0.5152668952941895,Positive
 Singe planet,0.0,Neutral,0.0,Neutral,0.3892603814601898,Positive
 Iam crazy lover,0.34,Positive,-0.6,Negative,-0.2285742759704589,Negative
 Lilly love you forever,0.6369,Positive,0.5,Positive,0.7814051508903503,Positive
-Longueur vive a ma maman,0.0,Neutral,0.1363636363636363,Neutral,0.4642030596733093,Positive
+Longueur vive a ma maman,0.0,Neutral,0.1363636363636363,Positive,0.4642030596733093,Positive
 Hhhhhhhh,0.0,Neutral,0.0,Neutral,0.2784536480903625,Neutral
 Monge beaucoup de médicaments pour vous est tête rest le même,0.0,Neutral,0.0,Neutral,-0.360878050327301,Negative
-Pleure  rire beaucoup toit de me coeur,0.6908,Positive,0.3,Neutral,-0.3639473021030426,Negative
+Pleure  rire beaucoup toit de me coeur,0.6908,Positive,0.3,Positive,-0.3639473021030426,Negative
 Iam crazy for you lilly and 2005 17an hhhhhhh,-0.34,Negative,-0.6,Negative,0.3704590201377868,Positive
 I am slim shady,0.0,Neutral,-0.25,Negative,-0.3432743847370147,Negative
-"Em menos de 5 minutos Eminem descarregou um caminhão de verdades na cara da sociedade, bons tempos. O verdadeiro ""GOAT""",0.6908,Positive,0.2444444444444444,Neutral,-0.3446551263332367,Negative
+"Em menos de 5 minutos Eminem descarregou um caminhão de verdades na cara da sociedade, bons tempos. O verdadeiro ""GOAT""",0.6908,Positive,0.2444444444444444,Positive,-0.3446551263332367,Negative
 Eminem   Is  so dang talented! Thanks “M&M”,0.7926,Positive,0.5375,Positive,0.802078902721405,Positive
 💯💯🎧,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Na estoy escuchando la n.w.a y me sale este blanco <3,0.4404,Positive,0.5,Positive,-0.5203213095664978,Negative
@@ -567,17 +567,17 @@ Memories...,0.0,Neutral,0.0,Neutral,0.3065831363201141,Neutral
 Searched America explained and this came out lmao,0.5994,Positive,0.6,Positive,0.3791311681270599,Positive
 Legends in 2022,0.0,Neutral,0.0,Neutral,0.6392459869384766,Positive
 the goat,0.0,Neutral,0.0,Neutral,0.2661338448524475,Neutral
-Why is he so much taller than everyone,0.0,Neutral,0.2,Neutral,-0.4140980243682861,Negative
+Why is he so much taller than everyone,0.0,Neutral,0.2,Positive,-0.4140980243682861,Negative
 I'm stand up with you 🏳️🧠,0.0,Neutral,0.0,Neutral,0.549937903881073,Positive
 It’s 10 years later this song is still the best,0.6369,Positive,0.5,Positive,0.6961016654968262,Positive
 "MELHOR RAP DE TODOS OS TEMPO, SEM CHORO POR GENTILEZA 💯",0.9046,Positive,0.55,Positive,0.9071045517921448,Positive
 "Dr.Dre is alive , I am not lying , i saw his interview few days ago........",0.6571,Positive,-0.05,Negative,0.336353451013565,Positive
-"I will always love this song, even when I‘m already dead",-0.0258,Neutral,0.15,Neutral,0.7952277660369873,Positive
+"I will always love this song, even when I‘m already dead",-0.0258,Neutral,0.15,Positive,0.7952277660369873,Positive
 still here in 2022,0.0,Neutral,0.0,Neutral,0.290825217962265,Neutral
-The real slim jim,0.0,Neutral,0.2,Neutral,0.5083668231964111,Positive
+The real slim jim,0.0,Neutral,0.2,Positive,0.5083668231964111,Positive
 11 yil önce,0.0,Neutral,0.0,Neutral,0.2527237832546234,Neutral
 He has made me scared of eating at Burger King now...,-0.4404,Negative,0.0,Neutral,0.5309871435165405,Positive
-The old raps are better then the new raps,0.4404,Positive,0.2454545454545454,Neutral,0.4051953852176666,Positive
+The old raps are better then the new raps,0.4404,Positive,0.2454545454545454,Positive,0.4051953852176666,Positive
 "2:23 that broke slim shady joined himself.....
 Saw other OGs....
 Tried to diss the real slim shady....
@@ -610,13 +610,13 @@ Fantastic,0.5574,Positive,0.4,Positive,0.8357991576194763,Positive
 th real shady,0.0,Neutral,-0.375,Negative,-0.2585514187812805,Negative
 3:17 disgusting...,-0.5267,Negative,-1.0,Negative,-0.6937230229377747,Negative
 ZORTTT,0.0,Neutral,0.0,Neutral,-0.5282796621322632,Negative
-so J.Cole said that he got more M's than the real slim shady video,0.0,Neutral,0.15,Neutral,0.3894484341144562,Positive
+so J.Cole said that he got more M's than the real slim shady video,0.0,Neutral,0.15,Positive,0.3894484341144562,Positive
 c'è chi la ascolta ancora nel 2022 e chi mente,0.0,Neutral,0.0,Neutral,0.2636899352073669,Neutral
 "1:23
 The moment everyone's been waiting for",0.0,Neutral,0.0,Neutral,0.3049871027469635,Neutral
 "Clean version seriously?
-I like it still",0.5423,Positive,0.0166666666666666,Neutral,0.5024943351745605,Positive
-This beat an the flow never gets old,0.0,Neutral,0.1,Neutral,-0.3662491738796234,Negative
+I like it still",0.5423,Positive,0.0166666666666666,Positive,0.5024943351745605,Positive
+This beat an the flow never gets old,0.0,Neutral,0.1,Positive,-0.3662491738796234,Negative
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
 its not that clean bc of the vid,-0.3089,Negative,0.3666666666666667,Positive,-0.4353218376636505,Negative
@@ -624,7 +624,7 @@ Nostalgia ❤❤,0.8555,Positive,0.0,Neutral,0.5105059742927551,Positive
 2:19,0.0,Neutral,0.0,Neutral,-0.2413568943738937,Negative
 "Оцените от ""ты"" До ""лбоёб""",-0.5423,Negative,-0.4,Negative,0.2468385845422744,Neutral
 Goat 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.2369868457317352,Neutral
-С кайфом с кайфом,0.0,Neutral,0.16,Neutral,0.2406304627656936,Neutral
+С кайфом с кайфом,0.0,Neutral,0.16,Positive,0.2406304627656936,Neutral
 "Jesus Christ Saves
 
 Jesus Christ, the Son of God, is returning very soon, and is the reason for all of the things that are happening on the Earth right now. This planet is on borrowed time.
@@ -646,35 +646,35 @@ Biblical References:
 6. Ephesians 2: 8 & 9
 7. John 3:16
 
-God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Neutral,0.6699942946434021,Positive
+God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Positive,0.6699942946434021,Positive
 God & goat❤️,0.2732,Positive,0.0,Neutral,0.5684311389923096,Positive
 I'm a artist with barely any attention but ima keep grinding till I get somewhere My hard work will show itself at the end.,-0.1531,Negative,-0.1208333333333333,Negative,0.3894070386886596,Positive
 "3:45 ...Pause. Literally. Press pause , at that time ""stamp"" damn, i can never unsee this, im traumatized.",-0.6597,Negative,0.0,Neutral,-0.663840115070343,Negative
 Will Smith doesn't cuss? Lol he cussed at the Oscar's and struck Chris rock and still got the trophy,-0.5158,Negative,0.8,Positive,0.2885500788688659,Neutral
 ;P,0.0,Neutral,0.0,Neutral,0.2366597950458526,Neutral
-This is a certified locked in eminem’s basement classic,0.0,Neutral,0.1666666666666666,Neutral,0.5182821750640869,Positive
+This is a certified locked in eminem’s basement classic,0.0,Neutral,0.1666666666666666,Positive,0.5182821750640869,Positive
 Eminem is the corniest rapper of all time,0.0,Neutral,0.0,Neutral,0.5405101776123047,Positive
-Casi seguro que está canción jamás morirá,0.6432,Positive,0.2142857142857142,Neutral,-0.3377228081226349,Negative
+Casi seguro que está canción jamás morirá,0.6432,Positive,0.2142857142857142,Positive,-0.3377228081226349,Negative
 "And there's a million of just like me , who dress like me , walk talk and act like me  , and just might be the next best thing , but not quite me",0.705,Positive,0.5,Positive,0.5710388422012329,Positive
-Old song of enimen>>>98% on the new song in the world,0.0,Neutral,0.1181818181818181,Neutral,0.5187017321586609,Positive
+Old song of enimen>>>98% on the new song in the world,0.0,Neutral,0.1181818181818181,Positive,0.5187017321586609,Positive
 هلبا جوك يا غالي زمان و توا,0.6369,Positive,0.0,Neutral,0.4523065686225891,Positive
 1:18 a best moment in my life,0.6369,Positive,1.0,Positive,0.7478387355804443,Positive
 Има ли луди ?,-0.34,Negative,-0.6,Negative,-0.2985299527645111,Negative
 Ay de ckiked the superhero is muy beterr,0.4404,Positive,0.5,Positive,-0.2900859117507934,Negative
-"""Classic"" is an attribute given to works that do not age like other things, things that can be destroyed by the passage of time. ""classic"" is an attribute given to things that become a measure and model on which to measure the passage of time itself, and in a certain sense to overcome it. This means ""classic"". This piece is a ""classic"".",-0.4956,Negative,0.1259920634920634,Neutral,0.4638199210166931,Positive
+"""Classic"" is an attribute given to works that do not age like other things, things that can be destroyed by the passage of time. ""classic"" is an attribute given to things that become a measure and model on which to measure the passage of time itself, and in a certain sense to overcome it. This means ""classic"". This piece is a ""classic"".",-0.4956,Negative,0.1259920634920634,Positive,0.4638199210166931,Positive
 Yes I am the real slim shady,0.4019,Positive,-0.0249999999999999,Negative,0.4933920502662658,Positive
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 600M? DAMN EM YOU ARE THE BEST,0.3612,Positive,1.0,Positive,0.6656063795089722,Positive
 1:24,0.0,Neutral,0.0,Neutral,-0.2672701776027679,Negative
 Don't make me call Kim,0.0,Neutral,0.0,Neutral,-0.4734662473201751,Negative
-Smile,0.3612,Positive,0.3,Neutral,0.4148730337619781,Positive
+Smile,0.3612,Positive,0.3,Positive,0.4148730337619781,Positive
 Over ur room lol case of gunit isn't in there n want to have gunit with out the g in. It n I  thinki m nuts after taylor s won't 1986 lol thearoy lol,0.3111,Positive,0.8000000000000002,Positive,-0.5613577365875244,Negative
 When u fight with urself,-0.3818,Negative,0.0,Neutral,0.3315327167510986,Positive
-اول عربي مصري,0.0,Neutral,0.25,Neutral,0.5002579092979431,Positive
+اول عربي مصري,0.0,Neutral,0.25,Positive,0.5002579092979431,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 эминем бог,0.5994,Positive,0.0,Neutral,0.3425563275814056,Positive
 12 year already :(,-0.4404,Negative,-0.75,Negative,0.216558575630188,Neutral
-I laughed so hard when Eminem said Chika china slim shady,0.2809,Positive,0.0527777777777777,Neutral,-0.4833953976631164,Negative
+I laughed so hard when Eminem said Chika china slim shady,0.2809,Positive,0.0527777777777777,Positive,-0.4833953976631164,Negative
 I miss the goofy ahh Eminem,-0.1531,Negative,0.5,Positive,-0.3172211050987243,Negative
 churka,0.0,Neutral,0.0,Neutral,0.2475887238979339,Neutral
 hey,0.0,Neutral,0.0,Neutral,0.363322764635086,Positive
@@ -685,7 +685,7 @@ legend has it Dr.Dre is sitting in his  basement listening to this song,0.0,Neut
 *+R.I.P. PROOF🕊️.*,0.0,Neutral,0.0,Neutral,0.2434031218290329,Neutral
 "I love this, but the onion ring part gets me sick ever time",-0.431,Negative,-0.1071428571428571,Negative,0.3377162218093872,Positive
 Don’t swear it’s a sin (only for people that believe in god),-0.4019,Negative,0.0,Neutral,-0.5800639986991882,Negative
-i'm the real b rabbit the others are just an imitation 😎😎😎😎😎😎,0.9517,Positive,0.0333333333333333,Neutral,0.2850105464458465,Neutral
+i'm the real b rabbit the others are just an imitation 😎😎😎😎😎😎,0.9517,Positive,0.0333333333333333,Positive,0.2850105464458465,Neutral
 Massage from 2022 : he still the best,0.6369,Positive,1.0,Positive,0.696861207485199,Positive
 This song 🔥,-0.34,Negative,0.0,Neutral,0.5062264204025269,Positive
 It's 2022 and I'm still listening to this legendary song,0.0,Neutral,1.0,Positive,0.7295017838478088,Positive
@@ -695,7 +695,7 @@ With the real slim shady we all Stand up every body🤪😅😅,0.6124,Positive,
 For the Real Slim Shady, please stand up!!",0.7896,Positive,-0.0953125,Negative,0.8352165818214417,Positive
 Real Slim Shady!,0.0,Neutral,-0.0562499999999999,Negative,0.4387573897838592,Positive
 22 years of the song 🤯,0.0,Neutral,0.0,Neutral,0.5141719579696655,Positive
-Today this masterpiece turns 20 years old.,0.6249,Positive,0.1,Neutral,0.8190172910690308,Positive
+Today this masterpiece turns 20 years old.,0.6249,Positive,0.1,Positive,0.8190172910690308,Positive
 "Will Smith uses slaps to sell records now,time has changed",0.0,Neutral,0.0,Neutral,0.3115500807762146,Neutral
 the best,0.6369,Positive,1.0,Positive,0.9091946482658386,Positive
 RAP GOD.,0.2732,Positive,0.0,Neutral,0.3779200613498688,Positive
@@ -718,7 +718,7 @@ This beat is so cringe Lmaoo,0.0,Neutral,0.0,Neutral,-0.4827902019023895,Negativ
 Love the song😍,0.802,Positive,0.5,Positive,0.7639436721801758,Positive
 1:19,0.0,Neutral,0.0,Neutral,-0.2616751790046692,Negative
 XD,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
-I wish I could listen to this for the first time again,0.4019,Positive,0.25,Neutral,0.309845358133316,Neutral
+I wish I could listen to this for the first time again,0.4019,Positive,0.25,Positive,0.309845358133316,Neutral
 G.O.A.T 🐐,0.0,Neutral,0.0,Neutral,0.2831529378890991,Neutral
 😝😝😌🤓🔥💯🌹🥰,0.743,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😎☝️☝️☝️😎😎😎😎😎😎🤙🤙,0.9786,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -729,10 +729,10 @@ Kimse senin gibi olamazki,0.0772,Positive,0.0,Neutral,-0.2559557557106018,Negati
 Eminem till I die ❤️,-0.5994,Negative,0.0,Neutral,0.3896965086460113,Positive
 Motherfucker what does slim shady said,-0.6808,Negative,-0.25,Negative,0.3089509904384613,Neutral
 No Shrek no live,-0.0803,Negative,-0.0681818181818181,Negative,-0.474892795085907,Negative
-This song > the whole kid laroi career,0.0,Neutral,0.2,Neutral,0.5475183725357056,Positive
-o light einai kaluteros,0.3862,Positive,0.15625,Neutral,0.3124786019325256,Neutral
+This song > the whole kid laroi career,0.0,Neutral,0.2,Positive,0.5475183725357056,Positive
+o light einai kaluteros,0.3862,Positive,0.15625,Positive,0.3124786019325256,Neutral
 poejza dal mojego pindolafiutkakutaska,0.0,Neutral,0.0,Neutral,0.3220433890819549,Neutral
-Funny number of view,0.4939,Positive,0.25,Neutral,0.4538259506225586,Positive
+Funny number of view,0.4939,Positive,0.25,Positive,0.4538259506225586,Positive
 Why is the word clitoris censored?,-0.1531,Negative,0.0,Neutral,-0.610886812210083,Negative
 Suddenly got back on playing Eminem non stop 😂 I remember hearing him non stop a house parties,0.4588,Positive,0.0,Neutral,-0.3210844099521637,Negative
 Jeez this was made a few weeks before I was born ;-;,0.0,Neutral,-0.2,Negative,-0.3183159530162811,Negative
@@ -849,7 +849,7 @@ Please stand up, please stand up
 Haha, guess there's a Slim Shady in all of us
 Fuck it, let's all stand up",0.9992,Positive,-0.0705682551201419,Negative,-0.4518282115459442,Negative
 con esta canción me pase el reino ribereño del Mario odyssey 😈,0.4588,Positive,0.0,Neutral,0.3964821398258209,Positive
-the real slim shader!,0.0,Neutral,0.25,Neutral,0.510318398475647,Positive
+the real slim shader!,0.0,Neutral,0.25,Positive,0.510318398475647,Positive
 "I get the massage man, and don't worry i'll pass it 👍😁",0.6604,Positive,0.0,Neutral,-0.2459263801574707,Negative
 2:24 best part,0.6369,Positive,1.0,Positive,0.3811926543712616,Positive
 👍 if you here before 1 Billion views,0.0,Neutral,0.0,Neutral,-0.2743677198886871,Negative
@@ -878,10 +878,10 @@ i just listened to this on spotify and now its in my recommended. WTF?,-0.5766,N
 True,0.4215,Positive,0.35,Positive,0.5879018306732178,Positive
 #Eminem #TheRealSlimShady #Remastered,0.0,Neutral,0.0,Neutral,-0.2655985355377197,Negative
 "el arte NO TIENE limites, hermoso tema, el mas lindo",-0.223,Negative,0.7333333333333334,Positive,0.7586523294448853,Positive
-i love your songs i am a big fan btw,0.7579,Positive,0.25,Neutral,0.8116533160209656,Positive
-senior year of high school right here,0.0,Neutral,0.2228571428571428,Neutral,0.4977008104324341,Positive
+i love your songs i am a big fan btw,0.7579,Positive,0.25,Positive,0.8116533160209656,Positive
+senior year of high school right here,0.0,Neutral,0.2228571428571428,Positive,0.4977008104324341,Positive
 """Nuttin"" like Slim Shady🤓remember that old song from the 70`s "" lay down the boogie and play that funky music till you die"" white boy🎤",-0.3818,Negative,-0.0185185185185185,Negative,0.2736369967460632,Neutral
-"goddammm still better than any current music today. damn i miss this shit, i miss those days!",-0.7609,Negative,0.0833333333333333,Neutral,0.7718913555145264,Positive
+"goddammm still better than any current music today. damn i miss this shit, i miss those days!",-0.7609,Negative,0.0833333333333333,Positive,0.7718913555145264,Positive
 Love the backing track!,0.68,Positive,0.625,Positive,0.7449486255645752,Positive
 Les gens qui on vu ça  pourront dire qu'il on vu les fesse d'eminem,0.0,Neutral,0.5,Positive,0.2584368586540222,Neutral
 0:27 XD,0.6739,Positive,0.0,Neutral,-0.4114365577697754,Negative
@@ -894,7 +894,7 @@ Daniel redclif,0.0,Neutral,0.0,Neutral,0.2536779940128326,Neutral
 Who's watching it after 12 years?( 2022),0.0,Neutral,0.0,Neutral,0.2935042381286621,Neutral
 someone listening to the best sound in the world 2022🌎❤️🥲,0.6369,Positive,0.7,Positive,0.8025195598602295,Positive
 Because I'm what ever you said is I am.. I'm slimmo yes iam slimmo,0.4019,Positive,0.0,Neutral,-0.4246320724487304,Negative
-Last line is really dope 👌,0.7701,Positive,0.1,Neutral,0.3631654977798462,Positive
+Last line is really dope 👌,0.7701,Positive,0.1,Positive,0.3631654977798462,Positive
 M dissing Will smith way before everyone did 😂,0.4404,Positive,0.0,Neutral,-0.4603447914123535,Negative
 Please stand up if you are listening in 2022 ☝️☝️☝️☝️,0.3182,Positive,0.0,Neutral,-0.3715792000293731,Negative
 """its okay to lose someone but never your self""
@@ -902,7 +902,7 @@ Please stand up if you are listening in 2022 ☝️☝️☝️☝️,0.3182,Pos
 I know why YOU ❤️ are listening to this SONG after 11 Years 🔥🙏,-0.34,Negative,0.0,Neutral,0.5029460191726685,Positive
 !!!! ? !!! ?????,0.0,Neutral,0.0,Neutral,-0.6478034257888794,Negative
 Привет из Санкт-Петербурга),0.0,Neutral,0.0,Neutral,0.4537814259529114,Positive
-Mi padre me ponía esta gran canción cuando tenia 4 años pero la costumbre de pasarme por aca cada unos meses no se pierde! >:),0.616,Positive,0.2875,Neutral,0.3814310133457184,Positive
+Mi padre me ponía esta gran canción cuando tenia 4 años pero la costumbre de pasarme por aca cada unos meses no se pierde! >:),0.616,Positive,0.2875,Positive,0.3814310133457184,Positive
 Muhammad Ali bring me here,0.0,Neutral,0.0,Neutral,0.6294648051261902,Positive
 Te amo Eminem,0.6369,Positive,0.5,Positive,0.3545413911342621,Positive
 1999,0.0,Neutral,0.0,Neutral,0.2604694068431854,Neutral
@@ -1168,7 +1168,7 @@ Dr Dre: he told someone finally,0.0,Neutral,0.0,Neutral,0.3331777155399322,Posit
 Me encanta👍👍👍,0.6369,Positive,0.5,Positive,0.2424992024898529,Neutral
 jugaste y sufri,-0.2023,Negative,0.0,Neutral,-0.4757289886474609,Negative
 ае это мое детство,0.0,Neutral,0.0,Neutral,0.4610554575920105,Positive
-"Great song. Not a clean version though. If that was what you were seeking, like me. Go somewhere else.",0.6533,Positive,0.3083333333333333,Neutral,0.5118237137794495,Positive
+"Great song. Not a clean version though. If that was what you were seeking, like me. Go somewhere else.",0.6533,Positive,0.3083333333333333,Positive,0.5118237137794495,Positive
 Why can’t music be like this anymore :(,-0.1027,Negative,-0.75,Negative,-0.5241039395332336,Negative
 Eminem. The best thing since Erin O’Toole and Joe Biden jumped into bed together for Christmas.,0.6369,Positive,1.0,Positive,0.845181405544281,Positive
 1:24 who was moving hid head,-0.1027,Negative,0.0,Neutral,-0.6096830368041992,Negative
@@ -1177,7 +1177,7 @@ how u got more m’s than this???,0.0,Neutral,0.5,Positive,-0.3152346909046173,N
 Revolutionary song.,0.0,Neutral,0.0,Neutral,0.4680723845958709,Positive
 I didn't know that this is by em,0.0,Neutral,0.0,Neutral,-0.3372381329536438,Negative
 can i have your attention please,0.3182,Positive,0.0,Neutral,0.2752043604850769,Neutral
-This was the real slim shady! Too many clones these days!,0.0,Neutral,0.1708333333333333,Neutral,0.5646202564239502,Positive
+This was the real slim shady! Too many clones these days!,0.0,Neutral,0.1708333333333333,Positive,0.5646202564239502,Positive
 boa cahallo,-0.2263,Negative,0.7,Positive,0.4224279522895813,Positive
 "We don’t need a music video for this, we can already SEE everything through his English language 😂",0.4404,Positive,0.0,Neutral,0.4697172045707702,Positive
 "mierda, esta canción no deja de entrar en mi mente,  es asquerosamente perfecta, te amo eminem, haz un autógrafo en mi trasero",-0.4767,Negative,0.4333333333333333,Positive,0.6272540092468262,Positive
@@ -1193,12 +1193,12 @@ Am i the only one who thinks that Eminem weared Saitama's costume sooner than hi
 Nah but I grew up on this song 😀 this is so nostalgic,0.4678,Positive,-0.5,Negative,0.4699064195156097,Positive
 noice,0.0,Neutral,0.0,Neutral,-0.3281473815441131,Negative
 Que tema ..........NASHE,0.0,Neutral,0.0,Neutral,0.263768196105957,Neutral
-"All my life I've let people walk over me, I've recently snapped and I've stopped taking shit from anyone. It really is making me an internally happier person, I knew I've always loved Eminem for a reason.",0.4215,Positive,0.1399999999999999,Neutral,0.75339275598526,Positive
+"All my life I've let people walk over me, I've recently snapped and I've stopped taking shit from anyone. It really is making me an internally happier person, I knew I've always loved Eminem for a reason.",0.4215,Positive,0.1399999999999999,Positive,0.75339275598526,Positive
 "What if Stephen Hawking was the real
 Slim Shady, but he couldn't stand up??",0.0,Neutral,-0.0249999999999999,Negative,-0.3417815566062927,Negative
 "He is the one and only. 
 STAND UP SLIM SHADY!",0.0,Neutral,-0.15625,Negative,0.599540114402771,Positive
-Marshall made these kickass songs by just having fun with every thought in his mind,0.5106,Positive,0.3,Neutral,0.6316033005714417,Positive
+Marshall made these kickass songs by just having fun with every thought in his mind,0.5106,Positive,0.3,Positive,0.6316033005714417,Positive
 Oh my GOD It´s better now that I´m 42!!!!!!!!!!!!!!!!!!!!!,0.7846,Positive,1.0,Positive,0.3976558148860931,Positive
 One and only white nigga 🔥,-0.34,Negative,0.0,Neutral,-0.3878671526908874,Negative
 "a literal icon dude, glad i was raised on him <3",0.7096,Positive,0.75,Positive,0.3514667451381683,Positive
@@ -1206,7 +1206,7 @@ One and only white nigga 🔥,-0.34,Negative,0.0,Neutral,-0.3878671526908874,Neg
 Go em
 Go men 
 H",0.0,Neutral,0.0,Neutral,-0.2374231219291687,Negative
-This world is a joke thanks for that slim shady :),0.7964,Positive,0.15,Neutral,-0.4117834270000458,Negative
+This world is a joke thanks for that slim shady :),0.7964,Positive,0.15,Positive,-0.4117834270000458,Negative
 I wish we can go back to those times 😔 nowadays rappers are a bunch of autotune tattooed face fuckers,-0.2263,Negative,0.0,Neutral,-0.3166722655296325,Negative
 Я очень люблю его песни,0.6697,Positive,0.5,Positive,0.6297948360443115,Positive
 I'm slim shady,0.0,Neutral,-0.25,Negative,0.3132729530334472,Neutral
@@ -1342,14 +1342,14 @@ Fuck it, let's all stand up",0.9991,Positive,-0.0723552455170102,Negative,-0.337
 The music video is more entertaining than the song lol,0.7178,Positive,0.6,Positive,0.3887255787849426,Positive
 Hahah,0.0,Neutral,0.0,Neutral,-0.3341084122657776,Negative
 OMF I CAN'T STOP LISTEN THISS💀💀😃😻😻,0.8729,Positive,0.0,Neutral,-0.4226441383361816,Negative
-This song never gets old,0.0,Neutral,0.1,Neutral,0.4263049066066742,Positive
+This song never gets old,0.0,Neutral,0.1,Positive,0.4263049066066742,Positive
 You fool,-0.4404,Negative,0.0,Neutral,-0.4627821743488312,Negative
 "Eminem великий человек. Именно Маршал даёт мне понять то, что рэп- хороший жанр.",0.7906,Positive,0.75,Positive,0.7607370615005493,Positive
 Did you guys know that rapper eminem aka slim shady was on epsteins flight log?,0.0,Neutral,-0.25,Negative,-0.4451074004173279,Negative
 "God forbid this were released now, those snowflakes would have a field day complaining",-0.25,Negative,0.0,Neutral,-0.7293866276741028,Negative
 ✌️✌️✌️✌️sto bodov 😂🤣 pekný klip miluje jeho humor rsp super 👏👏👏👏👏👏❤️🌹🌻,0.9559,Positive,0.4666666666666667,Positive,0.7280861735343933,Positive
 "You reading this, you're a legend.",0.0,Neutral,0.0,Neutral,0.7318444848060608,Positive
-Yal dont get it hes sayin stuf that u should lissen close to its al facking real,0.0,Neutral,0.2,Neutral,-0.3825354278087616,Negative
+Yal dont get it hes sayin stuf that u should lissen close to its al facking real,0.0,Neutral,0.2,Positive,-0.3825354278087616,Negative
 "Eminem is such a genius, he can literally turn a conversation into a rap verse",0.0,Neutral,0.0,Neutral,0.7119410037994385,Positive
 1:25 REPEAT BUTTON FOR AM SLIM SHADY,0.0,Neutral,-0.25,Negative,0.257907509803772,Neutral
 The dislike is just dr Dres spam accounts,-0.6249,Negative,0.0,Neutral,-0.6082916259765625,Negative
@@ -1362,7 +1362,7 @@ JOYITA🍷🧐😌,0.3818,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ist a wrry gut,-0.128,Negative,0.7,Positive,0.476544439792633,Positive
 He's always white,0.0,Neutral,0.0,Neutral,0.2994589805603027,Neutral
 1:41 This line says it all bro,0.0,Neutral,0.0,Neutral,-0.4176406562328338,Negative
-I’m the real Ben so I’ll stand up,0.0,Neutral,0.2,Neutral,0.5567184686660767,Positive
+I’m the real Ben so I’ll stand up,0.0,Neutral,0.2,Positive,0.5567184686660767,Positive
 "May I have your attention, please?
 May I have your attention, please?
 Will the real Slim Shady please stand up?
@@ -1491,16 +1491,16 @@ Please stand up, please stand up
 
 Haha, guess there's a Slim Shady in all of us
 Fuck it, let's all stand up",0.9992,Positive,-0.0705682551201419,Negative,-0.4518282115459442,Negative
-Can't Stop Laughing. Hahaha 😂😂😂,0.6169,Positive,0.2,Neutral,0.3866310119628906,Positive
+Can't Stop Laughing. Hahaha 😂😂😂,0.6169,Positive,0.2,Positive,0.3866310119628906,Positive
 I sing to this A lot me and my mom absolute love this damn song!😄,0.7825,Positive,0.35,Positive,0.9276717305183412,Positive
 "I never was so much interested for rap, but oh crap this song is freacking sick!!! How good can it be?",-0.5976,Negative,-0.2125,Negative,-0.829777717590332,Negative
 Can we get a rapper anime?,0.0,Neutral,0.0,Neutral,-0.2470757514238357,Negative
-What happened to slim my god he really gave out,0.2732,Positive,0.2,Neutral,-0.7240633964538574,Negative
+What happened to slim my god he really gave out,0.2732,Positive,0.2,Positive,-0.7240633964538574,Negative
 2022 aqui,0.0,Neutral,0.0,Neutral,0.3071659803390503,Neutral
 dps de 11 anos estamos aqui novamente,0.0,Neutral,0.0,Neutral,0.5589459538459778,Positive
-"this dude really said ""gay rights""",0.0,Neutral,0.3083333333333333,Neutral,-0.5956549644470215,Negative
+"this dude really said ""gay rights""",0.0,Neutral,0.3083333333333333,Positive,-0.5956549644470215,Negative
 This song Is just 👌,0.7297,Positive,0.0,Neutral,0.4798350036144256,Positive
-"Walk down memory lane.  Nostalgia at it’s finest.  1st heard this track on my brand new Aiwa neon blue detachable radio, whilst in my Civic.😎🤣 Myself & my friends were perplexed to say the least about what we were hearing blasting out of my bumping 🔊’s! Lol Seriously though … we were absolutely floored by the song.  Especially the chorus.  Also a bit aggro that the song was being censored.  We went & bought the 💿 at the mall that very day!  From then on.. Shady, Em, D-12, Marshall M’s were permanent fixtures in all of our vehicles.  And the concerts?  Oh Lord have mercy!🤩",0.8974,Positive,0.0611340679522497,Neutral,0.503938615322113,Positive
+"Walk down memory lane.  Nostalgia at it’s finest.  1st heard this track on my brand new Aiwa neon blue detachable radio, whilst in my Civic.😎🤣 Myself & my friends were perplexed to say the least about what we were hearing blasting out of my bumping 🔊’s! Lol Seriously though … we were absolutely floored by the song.  Especially the chorus.  Also a bit aggro that the song was being censored.  We went & bought the 💿 at the mall that very day!  From then on.. Shady, Em, D-12, Marshall M’s were permanent fixtures in all of our vehicles.  And the concerts?  Oh Lord have mercy!🤩",0.8974,Positive,0.0611340679522497,Positive,0.503938615322113,Positive
 the best part is on 2:19 but the song is alredy the best,0.8555,Positive,1.0,Positive,0.3895460367202759,Positive
 No sabe que dr Dre tenía marca de leche llevaré 13,0.0,Neutral,0.0,Neutral,-0.4259192943572998,Negative
 What a real slim shady please stand up 😎,0.6486,Positive,-0.0249999999999999,Negative,0.3810397386550903,Positive
@@ -1533,12 +1533,12 @@ now imagine lil skitle instead of eminem,0.0,Neutral,0.0,Neutral,-0.324140876531
 IAE MONARK AQUI,0.0,Neutral,0.0,Neutral,0.4106449782848358,Positive
 🤙🤙🤙,0.8625,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Eminem never had a clean version he swears it’s Dr Dre who had clean versions on music videos,0.1635,Positive,0.3666666666666667,Positive,-0.6053067445755005,Negative
-"Viendo este pedazo de joyita, en lo único que puedo pensar es que se nota demasiado la influencia que Eminem a sido para suga, tremendo 👌🏻😔",0.8592,Positive,0.1666666666666666,Neutral,0.3381252288818359,Positive
+"Viendo este pedazo de joyita, en lo único que puedo pensar es que se nota demasiado la influencia que Eminem a sido para suga, tremendo 👌🏻😔",0.8592,Positive,0.1666666666666666,Positive,0.3381252288818359,Positive
 Chiki chiki chiki slim shady,0.0,Neutral,0.0,Neutral,0.3078978657722473,Neutral
 GGTTR SE J6FJH TI DJDKEUEKEUELDEJEUE I remember it was my 10th birthday and my mom put it 💀,0.0,Neutral,0.0,Neutral,0.3899404108524322,Positive
 Will Smith Curses and Slaps 😂😂,0.7003,Positive,0.0,Neutral,-0.2928041517734527,Negative
 0:28,0.0,Neutral,0.0,Neutral,-0.459684669971466,Negative
-This song makes you powerful,0.4215,Positive,0.3,Neutral,0.6986125111579895,Positive
+This song makes you powerful,0.4215,Positive,0.3,Positive,0.6986125111579895,Positive
 "May I have your attention, please?
 May I have your attention, please?
 Will the real Slim Shady please stand up?

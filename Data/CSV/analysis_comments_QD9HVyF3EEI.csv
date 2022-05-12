@@ -2,7 +2,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 el sonido del final es re Señor de los anillos!!!!,0.0,Neutral,0.9765625,Positive,0.4060561954975128,Positive
 PIKACHU FUMA PACO,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-PAPOOOOO CREO QUE HABRA UNA SEGUNDA PARTEEEE OSEAA ME LO CONFIRMASTE AHORA POR QUE TIPO ES RARO LA ULTIMA PALABRA PERO EN UNO DE LOS ADELTANTOS DE BIZA EN EL DE ELADIO HAY 2 #23🤨,0.0,Neutral,0.175,Neutral,-0.3744182288646698,Negative
+PAPOOOOO CREO QUE HABRA UNA SEGUNDA PARTEEEE OSEAA ME LO CONFIRMASTE AHORA POR QUE TIPO ES RARO LA ULTIMA PALABRA PERO EN UNO DE LOS ADELTANTOS DE BIZA EN EL DE ELADIO HAY 2 #23🤨,0.0,Neutral,0.175,Positive,-0.3744182288646698,Negative
 Bajito,0.0,Neutral,0.0,Neutral,-0.3101899623870849,Negative
 alguien se dio cuenta que el aire esta en 23 grados?,0.0,Neutral,0.0,Neutral,-0.4562277197837829,Negative
 "Déjate de joder papo, escúchalo devuelta 🤦🏽",-0.296,Negative,-0.6,Negative,-0.8032720685005188,Negative
@@ -11,9 +11,9 @@ Pikchu fuma pko,0.0,Neutral,0.0,Neutral,0.252149760723114,Neutral
 Picachu fuma pan jajajaa,-0.6908,Negative,0.0,Neutral,-0.3070985972881317,Negative
 Pikachu fuma porro,0.0,Neutral,0.0,Neutral,-0.255953311920166,Negative
 Pikachu fuma paco jajajajajajajajajajaj xD,0.0,Neutral,0.0,Neutral,0.2943363487720489,Neutral
-"En mi opinión dice ""con carpa"" porque esta sesión la grabó en el 2020 cuando todavía estaba prohibido legalmente que grabarse canciones por el tema de Big Leagas, no porque vaya a haber una 2da versión.",0.1027,Positive,0.0666666666666666,Neutral,-0.3623071908950805,Negative
+"En mi opinión dice ""con carpa"" porque esta sesión la grabó en el 2020 cuando todavía estaba prohibido legalmente que grabarse canciones por el tema de Big Leagas, no porque vaya a haber una 2da versión.",0.1027,Positive,0.0666666666666666,Positive,-0.3623071908950805,Negative
 "Es buenisimo, el expresa lo que siente, ese final fue emotivo, sacó lo que sentía y verle las lagrimas ufff.... hasta el cora",0.8402,Positive,0.4,Positive,0.6321536898612976,Positive
-"que god, el tema habla de lo que le pasó hasta ahora y en los cambios solo demuestra que lo que es capaz de hacer y de lo que se viene próximamente porque saca en cara que sea cual sea el estilo puede hacerlo sonar bien.",0.765,Positive,0.2799999999999999,Neutral,0.4208627939224243,Positive
+"que god, el tema habla de lo que le pasó hasta ahora y en los cambios solo demuestra que lo que es capaz de hacer y de lo que se viene próximamente porque saca en cara que sea cual sea el estilo puede hacerlo sonar bien.",0.765,Positive,0.2799999999999999,Positive,0.4208627939224243,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Sos un crack jaja,0.4215,Positive,0.8,Positive,-0.4663687944412231,Negative
 Creo que papo tiene que escucharlo 2 veces,0.0,Neutral,0.0,Neutral,-0.3310738205909729,Negative
@@ -21,10 +21,10 @@ Pikachu fuma pako😎😎,0.7184,Positive,0.0,Neutral,0.3254769742488861,Neutral
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Pikachu fuma Paco Papoooo!!! El tema está bien... tiene un par de cositas, al estilo vos mencionaste la de ""huevó"" (puesto con acento xq así lo menciona) pero está bueno. A mi me gustó el contraste entre el vocal del estribillo y más picante en en el resto. El beat igual, bestial... invitaba a tirar bomba",0.6732,Positive,0.3381944444444444,Positive,0.5542390942573547,Positive
 "Es un buen tema sin duda,pero muy sobrevalorado,se tenía que decir y se dijo,deja mucho que desear🤷",0.6316,Positive,0.4499999999999999,Positive,0.6635967493057251,Positive
-El mejor Paulo sin malas palabras 😎,0.6778,Positive,0.15,Neutral,0.8499065041542053,Positive
+El mejor Paulo sin malas palabras 😎,0.6778,Positive,0.15,Positive,0.8499065041542053,Positive
 "Pikachu fuma paco. 
 
-Pensé exactamente lo mismo que papo cuando paulito dijo lo de ""Con carpa"" al final, a lo mejor el siguiente tema de Paulo es producido por Biza o algo de eso tienen planeado, o quizás solo estoy flasheando cualquiera. XDDDD",0.3612,Positive,0.0833333333333333,Neutral,-0.3427440524101257,Negative
+Pensé exactamente lo mismo que papo cuando paulito dijo lo de ""Con carpa"" al final, a lo mejor el siguiente tema de Paulo es producido por Biza o algo de eso tienen planeado, o quizás solo estoy flasheando cualquiera. XDDDD",0.3612,Positive,0.0833333333333333,Positive,-0.3427440524101257,Negative
 "Lo he escuchado mil veces en 3 días y cada ves me gusta mucho mas... Que crack es Paulo... Man... Buena reacción papo, la mejor de la plataforma bro, de frente mar...",0.8625,Positive,0.7333333333333334,Positive,0.6119033694267273,Positive
 Me parece una cagada. 0 contenido. Todo por apurado. La cagaron re mal,-0.8439,Negative,-0.4499999999999999,Negative,-0.88974928855896,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -36,13 +36,13 @@ Jajaja Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,0.228084310889244,Neutral
 A mi abuela le encanta contenido mira todos los vídeos que subes te ama,0.8126,Positive,0.0,Neutral,0.7791770696640015,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Que Pikachu, vos fumas paco",0.0,Neutral,0.0,Neutral,-0.3964071869850158,Negative
-lo que sea es un temazo y paulito la pega durísimo 🔥✨,0.5093,Positive,0.2104166666666666,Neutral,-0.7708367109298706,Negative
+lo que sea es un temazo y paulito la pega durísimo 🔥✨,0.5093,Positive,0.2104166666666666,Positive,-0.7708367109298706,Negative
 Se ve el varo mi papolin🥶,0.0,Neutral,0.0,Neutral,-0.4161015152931213,Negative
 "Es un tema re personal sobre él , hace de  cuenta que le sale del alma temaso !!! Das todo Paulito!!!! ❤",0.8385,Positive,0.5,Positive,0.3464618325233459,Positive
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Creo que esta session ea para escuchar la letra y dejar el beat en un segundo termino, le tira a los que quisieron acabar con su carrera, su historia tiene tela.
 A mi me a encantado",0.5719,Positive,0.35,Positive,0.7562125325202942,Positive
-PIKACHU FUMAPACO clarísimo,0.4391,Positive,0.13,Neutral,0.7415541410446167,Positive
+PIKACHU FUMAPACO clarísimo,0.4391,Positive,0.13,Positive,0.7415541410446167,Positive
 PIKACHU FUMA PACO!😮,0.0,Neutral,0.0,Neutral,-0.272226870059967,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Una verga el tema amigo,-0.0258,Neutral,0.0,Neutral,-0.3004317581653595,Negative
@@ -55,24 +55,24 @@ pikachu fumaba tabaco :),0.4588,Positive,0.5,Positive,0.3667761385440826,Positiv
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Sos un crack papo!!!! Vine a ver tu reacción por que sos el más honesto, y siempre pones palabras a la sensación que me Dan los nuevos temas",0.74,Positive,0.4121212121212121,Positive,-0.6065395474433899,Negative
 Pickachu no fuma mas pako y esta en rehabilitacion,-0.296,Negative,0.0,Neutral,0.2678235471248626,Neutral
-Que haga un bizarrap con raperos gansta estilo alemán más rap gansta menos comercial mucho reguetón,-0.3182,Negative,0.1833333333333333,Neutral,-0.433769553899765,Negative
+Que haga un bizarrap con raperos gansta estilo alemán más rap gansta menos comercial mucho reguetón,-0.3182,Negative,0.1833333333333333,Positive,-0.433769553899765,Negative
 Jajajajaka que sesión tan más 💩💩💩,0.0,Neutral,0.35,Positive,-0.2657329440116882,Negative
 pikachufumapaco,0.0,Neutral,0.0,Neutral,0.2521069049835205,Neutral
-"Exacto, toda la propaganda que le hicieron lo convirtió de poco a poco en alguien sobrevalorado.",-0.25,Negative,0.075,Neutral,0.546006441116333,Positive
+"Exacto, toda la propaganda que le hicieron lo convirtió de poco a poco en alguien sobrevalorado.",-0.25,Negative,0.075,Positive,0.546006441116333,Positive
 PIKACHUUU FUMA PACO,0.0,Neutral,0.0,Neutral,-0.2313583791255951,Negative
 3.000,0.0,Neutral,0.0,Neutral,-0.2513262629508972,Negative
 Aczino vs dizaster,-0.6249,Negative,0.0,Neutral,0.2417061775922775,Neutral
-"Todos esperaban un Adán y Eva. Que pa rompa toda. Pero creo que está sesión va a ser un antes y un después en Paulo, ya 3 temas y en 2 se descargo demasiado, ahora va a comerse el mundo asheeee",0.0,Neutral,0.05,Neutral,-0.4616411626338959,Negative
+"Todos esperaban un Adán y Eva. Que pa rompa toda. Pero creo que está sesión va a ser un antes y un después en Paulo, ya 3 temas y en 2 se descargo demasiado, ahora va a comerse el mundo asheeee",0.0,Neutral,0.05,Positive,-0.4616411626338959,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco XD,0.6739,Positive,0.0,Neutral,0.2889625132083893,Neutral
-Creo que esperaba más que la de René calle 13 y no fue mucho mucho menos,0.0,Neutral,0.0777777777777777,Neutral,-0.402743399143219,Negative
-Creo que esperaba más 😂😂😂😂,0.8843,Positive,0.2,Neutral,0.4027793407440185,Positive
+Creo que esperaba más que la de René calle 13 y no fue mucho mucho menos,0.0,Neutral,0.0777777777777777,Positive,-0.402743399143219,Negative
+Creo que esperaba más 😂😂😂😂,0.8843,Positive,0.2,Positive,0.4027793407440185,Positive
 Estoy super esperando la reacción a la batalla de aczino,0.3182,Positive,0.3333333333333333,Positive,0.5938022136688232,Positive
 Una session para el neo faltaría,-0.296,Negative,-0.2,Negative,0.3145790994167328,Neutral
 "Hablas de tener ""la mejor videoreaccion"" vamos que la gran mayoría de ruiditos y testigos están exagerados... 🤦🏻‍♂️
 
-Por cierto Papo que te paso con esa dieta que hacías? La cosa era sacarle los subs a Ibai y luego te dejaste... como fue?",0.6322,Positive,0.125,Neutral,-0.4194340407848358,Negative
-"hay sesiones de bizarrap en las que papo explota en sus reacciones, y eso contagia a uno pero como el mismo dice, se vendió mucho marketing, y todos esperaban que sea un tema que sea un boom internacional, sin embargo en su propia expresión se ve que el esperaba lo mismo que todos nosotros, sin embargo el tema es bueno pero no hay un momento en el cual la canción explote o haga un estribillo pegadizo, al parecer eso era lo que quería la gente, aparte de eso los altísimos niveles de expectativa que uno mismo se idealizo. En fin, es un buen tema, habrá gente que y otra que critique, solo disfrutemos:)",0.9231,Positive,0.2645454545454545,Neutral,0.4945877492427826,Positive
+Por cierto Papo que te paso con esa dieta que hacías? La cosa era sacarle los subs a Ibai y luego te dejaste... como fue?",0.6322,Positive,0.125,Positive,-0.4194340407848358,Negative
+"hay sesiones de bizarrap en las que papo explota en sus reacciones, y eso contagia a uno pero como el mismo dice, se vendió mucho marketing, y todos esperaban que sea un tema que sea un boom internacional, sin embargo en su propia expresión se ve que el esperaba lo mismo que todos nosotros, sin embargo el tema es bueno pero no hay un momento en el cual la canción explote o haga un estribillo pegadizo, al parecer eso era lo que quería la gente, aparte de eso los altísimos niveles de expectativa que uno mismo se idealizo. En fin, es un buen tema, habrá gente que y otra que critique, solo disfrutemos:)",0.9231,Positive,0.2645454545454545,Positive,0.4945877492427826,Positive
 pikachu fuma paco xd,0.5859,Positive,0.0,Neutral,0.2889625132083893,Neutral
 es malísimo este bizarrap,-0.7264,Negative,-0.2549999999999999,Negative,-0.9380159378051758,Negative
 Grande Pablo concha,0.0,Neutral,0.0,Neutral,0.4426327645778656,Positive
@@ -102,7 +102,7 @@ Me representas papo,0.0,Neutral,0.0,Neutral,-0.3670682907104492,Negative
 Pikachu fuma paco 🤣🤣🤣,0.0,Neutral,0.0,Neutral,0.2331399321556091,Neutral
 pikachu fuma pako,0.0,Neutral,0.0,Neutral,0.2462780028581619,Neutral
 "PAPO  si queres ver algo parecido al fri con humor... Cuando andes aburrido mirate, CONTRA PUNTO PARA HUMANO Y COMPUTADORA está muy bueno.",0.5413,Positive,-0.038,Negative,0.3047476410865783,Neutral
-"sabemos y sentimos la escencia natural que nos transmite Paulo en esta y todas sus canciones, Paulo Londra es el mismo y lo está demostrando ahora",0.3612,Positive,0.05,Neutral,0.5072606801986694,Positive
+"sabemos y sentimos la escencia natural que nos transmite Paulo en esta y todas sus canciones, Paulo Londra es el mismo y lo está demostrando ahora",0.3612,Positive,0.05,Positive,0.5072606801986694,Positive
 Paco fuma pikachu,0.0,Neutral,0.0,Neutral,-0.2637089192867279,Negative
 Con carpa bars,0.0,Neutral,0.0,Neutral,0.2860894501209259,Neutral
 "Te amo Papo, gracias por siempre sacarme una sonrisa, impresionante el no dejar pasar tiempo y grabar como pudieras la session, como seguidor, se aprecia mucho 🫶🏾🫶🏾🫶🏾",0.9441,Positive,0.5,Positive,0.7710193991661072,Positive
@@ -118,14 +118,14 @@ Coíncidi con vos papo Mc,0.2732,Positive,0.0,Neutral,0.5377145409584045,Positiv
 man tienes que reaccionar a la batalla de aczino vs dizaster hasta hizo una rima en tu nombre,-0.3818,Negative,0.0,Neutral,-0.3823512494564056,Negative
 Pikachu fumapaco xd,0.5859,Positive,0.0,Neutral,0.3300764858722687,Positive
 "No hay ni que pensar en el hype que trae detrás, aún ignorándolo, si lo comparamos con lo que ha venido haciendo Biza, esto en mi opinión queda muy normal, un poco flojo, no tiene nada que haga punch; No es divertida, atrevida, novedosa.. Como que es dificil ponerla en una categoría porque está muy gris. Pero bueno, tampoco es mala.",-0.4043,Negative,-0.0323958333333333,Negative,0.5922123193740845,Positive
-"Una de las sesiones más personales, creo que fue un desahogo para Paulo, y que decir de la base y ese final, excelente!",0.7959,Positive,0.175,Neutral,0.624617874622345,Positive
+"Una de las sesiones más personales, creo que fue un desahogo para Paulo, y que decir de la base y ese final, excelente!",0.7959,Positive,0.175,Positive,0.624617874622345,Positive
 picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 "Jamás me imaginé que sería algo así, está cargado de mucha emocionalidad, se siente un dolor, una madurez, me gustó la cumbia que le metió bizarrap, algo muy Argentino 👏👏👏👏",-0.0772,Negative,0.3999999999999999,Positive,0.2806102931499481,Neutral
 Después de  la sesión con residente es dificil  ...juzgar otras,-0.3612,Negative,-0.3125,Negative,0.3473070561885834,Positive
 Racciona a aczino vs disaster porfavor.,-0.4215,Negative,0.0,Neutral,0.2876345217227936,Neutral
 El tema esta re facha perro pero todos esperavamos mucho mas xq hicieron un es escandalo q iba a ser el mejor tema de la historia pero hasta el bzrp de louta le gana jajjaa,0.9403,Positive,0.375,Positive,-0.3951007425785064,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-Picachu fuma paco jajajjaa,0.5574,Positive,0.2,Neutral,-0.2926509976387024,Negative
+Picachu fuma paco jajajjaa,0.5574,Positive,0.2,Positive,-0.2926509976387024,Negative
 "Papoo vos fíjate cuando dice Paulo londra al principio con letras no salta el número 23 como otros tema que salta el número, estoy viendos recione y ninguno se dio cuenta",0.0971,Positive,-0.125,Negative,-0.639141321182251,Negative
 La musiquita del señor de los anillos la.rompe,0.0,Neutral,-0.1875,Negative,-0.5418335795402527,Negative
 Vamoooos Paulo ❤🦁,0.6369,Positive,0.0,Neutral,0.2731941044330597,Neutral
@@ -137,12 +137,12 @@ Pero después de la lírica de Rene, todo va a ser difícil. MI humilde opinión
 ufffff temon,0.0,Neutral,0.0,Neutral,0.2652859687805176,Neutral
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Nombre del corte de pelo de papo porfqssss???,0.0,Neutral,0.0,Neutral,-0.5178869962692261,Negative
-"Todos esperando algo parecido ,para corear pa divertirme pa divertirme",0.765,Positive,0.1999999999999999,Neutral,0.3400074541568756,Positive
-"Nada fuera de lo común ,,una más ,número 23,,",0.1513,Positive,0.125,Neutral,-0.3927707970142364,Negative
+"Todos esperando algo parecido ,para corear pa divertirme pa divertirme",0.765,Positive,0.1999999999999999,Positive,0.3400074541568756,Positive
+"Nada fuera de lo común ,,una más ,número 23,,",0.1513,Positive,0.125,Positive,-0.3927707970142364,Negative
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Es un temazo si entendés lo que quiere decir para mí fue una muy buena session, saludos y Pikachu fuma paco",0.8849,Positive,0.855,Positive,0.457116961479187,Positive
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-papo el capo que lo mato en un rato con el bato y soy cato y hay mas rato XD nada mal solo rimas xd no c son las 3 am y no c creo que todos nos ponemos pendejos a las 3 am ajajajaja,-0.0615,Negative,0.2166666666666666,Neutral,-0.6149057149887085,Negative
+papo el capo que lo mato en un rato con el bato y soy cato y hay mas rato XD nada mal solo rimas xd no c son las 3 am y no c creo que todos nos ponemos pendejos a las 3 am ajajajaja,-0.0615,Negative,0.2166666666666666,Positive,-0.6149057149887085,Negative
 Colavoracion con lit o wos y trueno,0.0,Neutral,0.0,Neutral,-0.4012223184108734,Negative
 PICACHU FUMA PACO 🎶,0.0,Neutral,0.0,Neutral,-0.3358091115951538,Negative
 Pikachu fuma paco :D,0.0,Neutral,1.0,Positive,0.2689549028873443,Neutral
@@ -158,48 +158,48 @@ Pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 YouTube. Me obligó el Papo",-0.4588,Negative,-0.3,Negative,-0.6423883438110352,Negative
 "Excelente tema! Te llega al alma, se merece lo mejor Paulo! Es un deleite! Buenisima reaccion! Saludos.",0.9529,Positive,1.0,Positive,0.8620948791503906,Positive
 "Pikachu fuma paco, papista de papo sisoi",0.0,Neutral,0.0,Neutral,-0.2948930859565735,Negative
-"Esperaba un alto flow, pero muy básico, la vistas son por las espera de los fans, hasta el gordito no se emocionó tanto con el tema.",-0.3724,Negative,0.1783333333333333,Neutral,-0.483780950307846,Negative
+"Esperaba un alto flow, pero muy básico, la vistas son por las espera de los fans, hasta el gordito no se emocionó tanto con el tema.",-0.3724,Negative,0.1783333333333333,Positive,-0.483780950307846,Negative
 Picachu fuma un Kojima,0.4588,Positive,0.0,Neutral,-0.3483299314975738,Negative
-Totalmente de acuerdo contigo,0.4201,Positive,0.1,Neutral,0.5661337971687317,Positive
+Totalmente de acuerdo contigo,0.4201,Positive,0.1,Positive,0.5661337971687317,Positive
 Pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 No me gustó,-0.2755,Negative,0.0,Neutral,-0.444200336933136,Negative
 picachu fuma taco,0.0,Neutral,0.0,Neutral,-0.2920784950256347,Negative
 Pikachu fuma paco ...... Para cuando PAPO || BZRP Music Sessions ??? ....,0.0,Neutral,0.0,Neutral,-0.3433607220649719,Negative
 PIKACHU FUMA PACO AGUANTE PAPO,0.0,Neutral,0.0,Neutral,-0.2618275880813598,Negative
-"Además del con carpa, paulo hace este gesto ✌️en el minuto 2:22 después de decir  ""nunca hice lo que hacen"" , posiblemente da a entender que habrá una segunda parte, sea lo que sea es un temazo y paulito la pega durísimo 🔥✨",0.5574,Positive,0.1270833333333333,Neutral,-0.5364517569541931,Negative
+"Además del con carpa, paulo hace este gesto ✌️en el minuto 2:22 después de decir  ""nunca hice lo que hacen"" , posiblemente da a entender que habrá una segunda parte, sea lo que sea es un temazo y paulito la pega durísimo 🔥✨",0.5574,Positive,0.1270833333333333,Positive,-0.5364517569541931,Negative
 Jugo el gordo pikachu fumador de sustancias obtenibles en la villa,0.0,Neutral,0.0,Neutral,0.4812268614768982,Positive
 "Paaulo grande lirica, crack Biza, tomando de base a the eye of the tiger, y creo esa obra maestra de beat. Artistazo",0.8807,Positive,0.8,Positive,0.4460550844669342,Positive
 Pikachu fuma paco xd,0.5859,Positive,0.0,Neutral,0.2889625132083893,Neutral
-Papo reacciona al wilmer roberts manopilio porfaaaaaaa,0.0,Neutral,0.1363636363636363,Neutral,-0.4265180230140686,Negative
+Papo reacciona al wilmer roberts manopilio porfaaaaaaa,0.0,Neutral,0.1363636363636363,Positive,-0.4265180230140686,Negative
 Pikachu fumaporro,0.0,Neutral,0.0,Neutral,0.2510861158370971,Neutral
 Para cuando la Papo session?,0.0,Neutral,0.0,Neutral,0.3401840925216675,Positive
 "Muy buena Papo, saludos desde Peru idolo",0.7397,Positive,0.91,Positive,0.7773138880729675,Positive
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-El paulo es unico canta y cme chicle a el mismo time,0.0,Neutral,0.1875,Neutral,-0.413960337638855,Negative
+El paulo es unico canta y cme chicle a el mismo time,0.0,Neutral,0.1875,Positive,-0.413960337638855,Negative
 "Solo le doy Like a tu Video Xq Siempre que escucho que Paulo, la Rompe, pero Pareces Bldo frenando el Video 25mil Veces Amigoo",0.8126,Positive,0.0,Neutral,-0.3947406709194183,Negative
-"Te hubieras esperado papo! Paq hubieses reaccionado como tú esperabas, en general tienes razón! Esperábamos algo más bomba! Pikachu fumapaco 🌿",-0.6563,Negative,0.1178571428571428,Neutral,0.3816456198692322,Positive
+"Te hubieras esperado papo! Paq hubieses reaccionado como tú esperabas, en general tienes razón! Esperábamos algo más bomba! Pikachu fumapaco 🌿",-0.6563,Negative,0.1178571428571428,Positive,0.3816456198692322,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 La número 1,0.0772,Positive,0.0,Neutral,0.273801177740097,Neutral
 "ME copo pero pikachu fuma paco, CON CARPA",0.0,Neutral,0.0,Neutral,-0.3344092667102813,Negative
 Pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 GRACIAS PAPO POR REAXIONAR A el bizarrap X paulolondra y bueno gracias y paulito siempre activo mi rey es un idolo de argentina y siempre representandonos paapaa 🇦🇷😁❤❤❤😎,0.982,Positive,-0.1333333333333333,Negative,0.7030532956123352,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-que pedia que comenten el papo jajajaja,0.0,Neutral,0.2,Neutral,-0.3573706448078155,Negative
-Pienso que es un tema increíble más alla de lo personal de Paulo londra quiso descargar todos sus sentimientos y lo hizo la gente esperaba algo comercial pero el panorama cambio y creo que fue exelente de que te cambien las cosas porque no todo el tiempo el mismo artista va hacer lo mismo ya la gente sabiera con que ritmo o con que stylo viene y creo que nadie se espero esto más que habla de su polémica en lo que le ocurrió y eso es lo que se aprecia creo que cantó lo más real y transparente y sobre todo que biza guardo esa sessións y no se la dió a más nadie eso es confiar y creer alguien de su tierra con ese gesto Paulo rope el dicho de que nadie es profeta en su tierra,0.9209,Positive,0.2384615384615385,Neutral,0.4258206784725189,Positive
+que pedia que comenten el papo jajajaja,0.0,Neutral,0.2,Positive,-0.3573706448078155,Negative
+Pienso que es un tema increíble más alla de lo personal de Paulo londra quiso descargar todos sus sentimientos y lo hizo la gente esperaba algo comercial pero el panorama cambio y creo que fue exelente de que te cambien las cosas porque no todo el tiempo el mismo artista va hacer lo mismo ya la gente sabiera con que ritmo o con que stylo viene y creo que nadie se espero esto más que habla de su polémica en lo que le ocurrió y eso es lo que se aprecia creo que cantó lo más real y transparente y sobre todo que biza guardo esa sessións y no se la dió a más nadie eso es confiar y creer alguien de su tierra con ese gesto Paulo rope el dicho de que nadie es profeta en su tierra,0.9209,Positive,0.2384615384615385,Positive,0.4258206784725189,Positive
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 El aire acondicionado está a 23 grados,0.0,Neutral,0.0,Neutral,-0.3415444493293762,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"tiene razón, no es el hit del verano... pero tampoco esta mal. Ahora que Paulo esta sin bosal, lo vamos a ver de condimento en cualquier sopa🍜",0.5824,Positive,0.3178571428571428,Neutral,0.7356879711151123,Positive
+"tiene razón, no es el hit del verano... pero tampoco esta mal. Ahora que Paulo esta sin bosal, lo vamos a ver de condimento en cualquier sopa🍜",0.5824,Positive,0.3178571428571428,Positive,0.7356879711151123,Positive
 "Enseña a rapearano da consejos pa mejorar
 Apoyos
 Saludos!!!",0.7633,Positive,0.0,Neutral,0.4558898210525512,Positive
 pikachu fuma paco jajajajajaja,0.0,Neutral,0.0,Neutral,0.3227846324443817,Neutral
 Que chimba ver al parcero Paulo feliz. Se siente el desahogo de todo lo que vivió! Puro fuego Paulo! 🔥,0.555,Positive,0.6339285714285714,Positive,0.5197026133537292,Positive
 "Papo, mi personaje favorito del freestyle",0.5719,Positive,0.5,Positive,0.6834700703620911,Positive
-Estoy mas que seguro que sacara dos sessions tipo kinder malo lado b y a,0.3134,Positive,0.1,Neutral,-0.4378551840782165,Negative
+Estoy mas que seguro que sacara dos sessions tipo kinder malo lado b y a,0.3134,Positive,0.1,Positive,-0.4378551840782165,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco ndahh,0.0,Neutral,0.0,Neutral,-0.3291192948818207,Negative
 pickachu fuma paco,0.0,Neutral,0.0,Neutral,0.2498494684696197,Neutral
@@ -213,7 +213,7 @@ Pikachu fuma pacooo!!,0.0,Neutral,0.0,Neutral,0.282349556684494,Neutral
 Pikachu fuma pacu,0.0,Neutral,0.0,Neutral,0.2342150062322616,Neutral
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"super personal la session, y para todos y todas las que nos caimos alguna vez y nos volvimos a levantar, esta buenisima loco!!!",0.7412,Positive,0.1155555555555555,Neutral,0.8616504073143005,Positive
+"super personal la session, y para todos y todas las que nos caimos alguna vez y nos volvimos a levantar, esta buenisima loco!!!",0.7412,Positive,0.1155555555555555,Positive,0.8616504073143005,Positive
 Paulito es un dios,0.2732,Positive,0.0,Neutral,0.4603511393070221,Positive
 Pikachu fuma paco!,0.0,Neutral,0.0,Neutral,-0.2915167212486267,Negative
 🇦🇷🇦🇷🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -223,8 +223,8 @@ AMO A PAULO Y ESTE NO ES UMA PARAQ LA GENTE BAIL ETC COMO YE CREO SE ESPERABA A 
 Pikachu con carpa,0.0,Neutral,0.0,Neutral,0.2516039609909057,Neutral
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu FUmA paCo,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"Muchos no han entendido que es un tema personal a todo lo que pasó Paulo, tira barras a lo de Big ligas, menciona la plaza por el quinto escalón es un tema muy personal, en mi opinión me pareció espectacular la session, yo cuando la escuché tuve la piel de gallina todo el tiempo por lo mismo que sabía que era personal y me encantó verlo ahí después de tanto tiempo de espera y verlo feliz, en opinión es de las mejores y para mí la número 1 pero bueno solo esperemos más temazos de Paulo que volvió para robarse toda la escena!! 🦁🇦🇷",0.6688,Positive,0.3116071428571428,Neutral,0.2838246524333954,Neutral
-Amo el compañerismo de la escena argentina como se apoyan por eso están donde están conquistando al mundo y me emociona ver a paulo mirando a biza diciendo me esperaste para la sesión 23,0.8519,Positive,0.25,Neutral,0.5868268013000488,Positive
+"Muchos no han entendido que es un tema personal a todo lo que pasó Paulo, tira barras a lo de Big ligas, menciona la plaza por el quinto escalón es un tema muy personal, en mi opinión me pareció espectacular la session, yo cuando la escuché tuve la piel de gallina todo el tiempo por lo mismo que sabía que era personal y me encantó verlo ahí después de tanto tiempo de espera y verlo feliz, en opinión es de las mejores y para mí la número 1 pero bueno solo esperemos más temazos de Paulo que volvió para robarse toda la escena!! 🦁🇦🇷",0.6688,Positive,0.3116071428571428,Positive,0.2838246524333954,Neutral
+Amo el compañerismo de la escena argentina como se apoyan por eso están donde están conquistando al mundo y me emociona ver a paulo mirando a biza diciendo me esperaste para la sesión 23,0.8519,Positive,0.25,Positive,0.5868268013000488,Positive
 gooddddddddd,0.0,Neutral,0.0,Neutral,0.2914537489414215,Neutral
 mu sobrebalorada esta sesion,0.0,Neutral,0.0,Neutral,-0.5009514689445496,Negative
 picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
@@ -243,9 +243,9 @@ Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Una cagada...,-0.5574,Negative,-0.2,Negative,-0.5758246779441833,Negative
 pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 pikachu fumá pako,0.0,Neutral,0.0,Neutral,0.2462780028581619,Neutral
-"A mi parecer la sección está buena, pero tenía la sensación de querer algo más agresivo,y entiendo que ahora el no se puede poner a tirar fuerte ,para evitar líos pero está muy buena 😎",0.6324,Positive,0.3236666666666666,Neutral,0.4584874808788299,Positive
+"A mi parecer la sección está buena, pero tenía la sensación de querer algo más agresivo,y entiendo que ahora el no se puede poner a tirar fuerte ,para evitar líos pero está muy buena 😎",0.6324,Positive,0.3236666666666666,Positive,0.4584874808788299,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"Escuchandolo de vuelta está chill ,pero ojalá vuelva a su prime este artista , en la parte del rap no me gusta el flow tanto pero vamos paulito",0.2926,Positive,0.1,Neutral,-0.4603652358055115,Negative
+"Escuchandolo de vuelta está chill ,pero ojalá vuelva a su prime este artista , en la parte del rap no me gusta el flow tanto pero vamos paulito",0.2926,Positive,0.1,Positive,-0.4603652358055115,Negative
 Picachu fuma Paco jajajajaj grande papo,0.0,Neutral,0.0,Neutral,-0.2640404403209686,Negative
 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "Pikachu, fuma paco",0.0,Neutral,0.0,Neutral,-0.2296443879604339,Negative
@@ -253,10 +253,10 @@ Picachu fuma Paco jajajajaj grande papo,0.0,Neutral,0.0,Neutral,-0.2640404403209
 Pikachu fuma paco!!,0.0,Neutral,0.0,Neutral,-0.3319586217403412,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Papo reacciona a sweetpain vs Sara socas por favor. Like si quieres que papo reaccione a esa batalla.,0.3612,Positive,0.0,Neutral,-0.3330150544643402,Negative
-"Esperaba mucho más del tema también, peroo me alegra que paulo sea libre musicalmente",0.8573,Positive,0.325,Neutral,0.4217636883258819,Positive
+"Esperaba mucho más del tema también, peroo me alegra que paulo sea libre musicalmente",0.8573,Positive,0.325,Positive,0.4217636883258819,Positive
 la esperanza nunca se pierde cuando hay talento solo se necesita paciencia,0.7692,Positive,0.0,Neutral,0.5139413475990295,Positive
 Afeitate hombre😂,0.4404,Positive,0.0,Neutral,-0.6110124588012695,Negative
-papo gracias por seguir!,0.4926,Positive,0.1,Neutral,0.5724342465400696,Positive
+papo gracias por seguir!,0.4926,Positive,0.1,Positive,0.5724342465400696,Positive
 Una canción con base de reggaetón mas,0.0,Neutral,0.5,Positive,0.3266650140285492,Neutral
 Pikaxhu fuma paco,0.0,Neutral,0.0,Neutral,-0.2778263688087463,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -285,24 +285,24 @@ A este muchacho lo trataron callar
 Pero no lo lograron 
 Volvió y volvió más fuerte que nunca 💪🏼 
 Esto es música ✨
-Solo los verdaderos fans de Paulo nos emocionamos y se nos erizaron los pelos de emoción 🥹",0.9635,Positive,0.0607142857142857,Neutral,0.3939380645751953,Positive
-"Groso el Papo 👏 👏  , igualmente  escuchado un par de veces más,  a mi en lo personal  me paso lo mismo , mucha expectativa ....pero luego pensé y dije , estamos esperando a Paulo Londra  no al Biza , el junté esta bueno por que el biza le da un plus a todo , pero Paulo esta en toda su escencia,  descargando  un poco de lo que tiene guardado , el León está despertando de a poco , aún falta para su gran rugido ......y será épico!!!!",0.9022,Positive,0.1346946022727272,Neutral,0.4405947625637054,Positive
+Solo los verdaderos fans de Paulo nos emocionamos y se nos erizaron los pelos de emoción 🥹",0.9635,Positive,0.0607142857142857,Positive,0.3939380645751953,Positive
+"Groso el Papo 👏 👏  , igualmente  escuchado un par de veces más,  a mi en lo personal  me paso lo mismo , mucha expectativa ....pero luego pensé y dije , estamos esperando a Paulo Londra  no al Biza , el junté esta bueno por que el biza le da un plus a todo , pero Paulo esta en toda su escencia,  descargando  un poco de lo que tiene guardado , el León está despertando de a poco , aún falta para su gran rugido ......y será épico!!!!",0.9022,Positive,0.1346946022727272,Positive,0.4405947625637054,Positive
 Papo cuando sale tu bzrp ?,0.0,Neutral,0.0,Neutral,-0.5973013043403625,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 No justifiques que no te agrado por no querer recibir malos comentarios...estuvo chida pero nada de el otro mundo x.,-0.3107,Negative,-0.1583333333333333,Negative,-0.4135447442531585,Negative
 "Paulo es buena cantante y todo , pero la música a mi parecer no me gustó , prefiero la de René , a mi parecer , me gustan más las otras músicas de Paulo , a mi parecer ❤️",0.7495,Positive,0.3583333333333333,Positive,0.5848962068557739,Positive
 Estuvo bueno pero el ritmo estaba bueno. Pero yo sentí que faltó poder xd pero según el contexto estuvo bueno,0.9418,Positive,0.6999999999999998,Positive,0.6343517303466797,Positive
-"Realmente bzrp tiene mejores sesiones, paulo no fue lo que se esperaba para que lo pusiera en la numero 23",0.539,Positive,0.1999999999999999,Neutral,-0.4008764326572418,Negative
-"Bro no se cómo hay gente que dice ""que decepción"" , pero es que los que dicen eso se acostumbraron a ver algo más comercial,esta session es la mejor de lejos, algo más personal, más profunda,más orgánica,más natural, ES UN TEMA QUE REPRESENTA A MUCHOS, PALO MUNDIAL 📈✈️🤯🔥",0.7674,Positive,0.2818181818181818,Neutral,0.3207057118415832,Neutral
+"Realmente bzrp tiene mejores sesiones, paulo no fue lo que se esperaba para que lo pusiera en la numero 23",0.539,Positive,0.1999999999999999,Positive,-0.4008764326572418,Negative
+"Bro no se cómo hay gente que dice ""que decepción"" , pero es que los que dicen eso se acostumbraron a ver algo más comercial,esta session es la mejor de lejos, algo más personal, más profunda,más orgánica,más natural, ES UN TEMA QUE REPRESENTA A MUCHOS, PALO MUNDIAL 📈✈️🤯🔥",0.7674,Positive,0.2818181818181818,Positive,0.3207057118415832,Neutral
 "Buena reaccion, pikachu fuma no se que chucha, no entendi jajajajja saludos desde Chile",-0.6164,Negative,0.4499999999999999,Positive,0.4313072264194488,Positive
-Un blanquito iluminado jajaja se mamo jaja saludos desde Nayarit (Mexico),0.6249,Positive,0.025,Neutral,-0.5376448035240173,Negative
-"Es bueno volver a ver a Paulo y pensar que era criticado por ser un músico comercial, sin embargo, fue el único que empezó con su propio estilo.",0.1027,Positive,0.3249999999999999,Neutral,0.4303129315376282,Positive
+Un blanquito iluminado jajaja se mamo jaja saludos desde Nayarit (Mexico),0.6249,Positive,0.025,Positive,-0.5376448035240173,Negative
+"Es bueno volver a ver a Paulo y pensar que era criticado por ser un músico comercial, sin embargo, fue el único que empezó con su propio estilo.",0.1027,Positive,0.3249999999999999,Positive,0.4303129315376282,Positive
 no es la mejor sesion ni a palo hay muchas mejores,-0.12,Negative,0.6666666666666666,Positive,-0.5025814175605774,Negative
 upa x2,0.0,Neutral,0.0,Neutral,0.2665266394615173,Neutral
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 "Bien papo estuvo muy bueno lo que dijiste el tema está bueno , está fino tiene flow pero si quizá le faltó cambiar la temática ... Tipo repitió muchas veces los mismos coros quizá faltó un poquito más de cambios pero bien ahí bzrp",0.7349,Positive,0.4069791666666666,Positive,0.5125772953033447,Positive
-"Es una mierda amigo,se esperaba algo así como como tal vez,pero se conforman por qué ya salió",0.7003,Positive,0.0333333333333333,Neutral,-0.4131182432174682,Negative
+"Es una mierda amigo,se esperaba algo así como como tal vez,pero se conforman por qué ya salió",0.7003,Positive,0.0333333333333333,Positive,-0.4131182432174682,Negative
 PIKACHUUU FUMAAAA PACOOO,0.0,Neutral,0.0,Neutral,-0.3233762681484222,Negative
 pikachu alto fisura,0.0,Neutral,0.0,Neutral,0.2697654366493225,Neutral
 El tema q con el q la selección tiene q entrar a cada partido de este mundial perro,0.0,Neutral,-0.4,Negative,0.3625235557556152,Positive
@@ -311,7 +311,7 @@ Cuando dice Paulo Londra al final lo dice con arto sentimiento 🔥,0.4939,Posit
 Pikachu fuma Pacooooo!!!,0.0,Neutral,0.0,Neutral,-0.2933485805988312,Negative
 Papolin cuando la reacción de aczino y Dizaster ???,0.0,Neutral,0.0,Neutral,-0.4188284873962402,Negative
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-Aplaudo  y apoyo a artistas asi únicos que hacen la suya original  y noas de lo mismo.. esto a mi gusto 🔥🔥🔥🔥🔥 aguanté Paulo ❤️,-0.0772,Negative,0.1875,Neutral,0.5815925598144531,Positive
+Aplaudo  y apoyo a artistas asi únicos que hacen la suya original  y noas de lo mismo.. esto a mi gusto 🔥🔥🔥🔥🔥 aguanté Paulo ❤️,-0.0772,Negative,0.1875,Positive,0.5815925598144531,Positive
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
@@ -332,7 +332,7 @@ Exelente este bisa es un groso y Pablo un distinto,0.8316,Positive,0.6,Positive,
 "Para mí cumplió la espectativa con lo justo 
 Pero es obvio que los que no conocen sus inicios y todo lo que le tocó pasar en el medio con complicaciones legales, así que quizás los que no están siguiendo o los que no tienen contexto no lo van a entender o les va a parecer lo mismo que a vos o peor",-0.5267,Negative,-0.0285714285714285,Negative,0.6627981066703796,Positive
 Para mi cumplió con las respectivas !,0.7088,Positive,0.0,Neutral,0.4521389007568359,Positive
-Bien fue más expectativa que otra cosa no es malo tampoco es bueno,0.3703,Positive,0.1666666666666666,Neutral,0.6434555053710938,Positive
+Bien fue más expectativa que otra cosa no es malo tampoco es bueno,0.3703,Positive,0.1666666666666666,Positive,0.6434555053710938,Positive
 pikachu fumapako,0.0,Neutral,0.0,Neutral,0.2667488157749176,Neutral
 No es la gran cosa,0.0,Neutral,0.0,Neutral,-0.4300692677497864,Negative
 "Pikachu fuma paco , me encantó la reacción 👏",0.5994,Positive,0.7,Positive,0.760749340057373,Positive
@@ -340,22 +340,22 @@ El aire en 23,0.0,Neutral,0.0,Neutral,0.2614022493362427,Neutral
 "Pikachu fuma pago!!!
 JAJA creo que así era, pero me encanto el tema amigo!!!🔥🤯",0.8976,Positive,0.4499999999999999,Positive,0.3559342324733734,Positive
 23 millones de comentarios para esta poronga autotuneada? Dios mío que mal de la cabeza está la gente,-0.296,Negative,-0.7142857142857143,Negative,-0.7404159307479858,Negative
-Sonidos épicos a lo Braveheart!!,0.4738,Positive,0.15625,Neutral,0.6472431421279907,Positive
-despues de dos años sin poder cantar... me parece epico,0.0,Neutral,0.3,Neutral,-0.3242976367473602,Negative
+Sonidos épicos a lo Braveheart!!,0.4738,Positive,0.15625,Positive,0.6472431421279907,Positive
+despues de dos años sin poder cantar... me parece epico,0.0,Neutral,0.3,Positive,-0.3242976367473602,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Porque si se meten en la descripción, donde pone música, pone canción 1 de 2?? Se vienen cosas???",0.0,Neutral,0.0,Neutral,-0.4487119913101196,Negative
 mugre vs ssn 23,0.0,Neutral,0.0,Neutral,0.2304136306047439,Neutral
 Lo escuchas 3 veces y ya es un temazo,0.6249,Positive,0.8,Positive,-0.2717917263507843,Negative
 Pikachu toma agua,0.0,Neutral,0.0,Neutral,-0.2885518968105316,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"El aire acondicionado está en 23 !!! Las trompetas de la película rocky en la canción de pauloooo, el abrazo de biza a Paulo me emociona porque no lo hizo con ningún otro artista, es una canción muy especial para los fans y muy personal para paulo",0.877,Positive,0.1130952380952381,Neutral,0.5464525818824768,Positive
-"No entiendo que esperaban las personas que dicen tener las ""espectativas altas"" qué querían que la canción volará? O que tuviera super poderes? 🤦🏻‍♀️",0.6767,Positive,0.2983333333333333,Neutral,-0.3474811613559723,Negative
+"El aire acondicionado está en 23 !!! Las trompetas de la película rocky en la canción de pauloooo, el abrazo de biza a Paulo me emociona porque no lo hizo con ningún otro artista, es una canción muy especial para los fans y muy personal para paulo",0.877,Positive,0.1130952380952381,Positive,0.5464525818824768,Positive
+"No entiendo que esperaban las personas que dicen tener las ""espectativas altas"" qué querían que la canción volará? O que tuviera super poderes? 🤦🏻‍♀️",0.6767,Positive,0.2983333333333333,Positive,-0.3474811613559723,Negative
 pikachuuu fumaa pacooo paaaapooooooo,0.0,Neutral,0.0,Neutral,-0.2622588276863098,Negative
 Pikachu fuma Paco :v,0.0,Neutral,0.0,Neutral,0.2282924056053161,Neutral
 Culerisimo,0.0,Neutral,0.0,Neutral,0.3852140009403229,Positive
 "Biza tendria que desaparecer por unos meses ya se le nota el Humo de esas sesiones ..... 
 Puro like y tendencia 
-Al final era verdad lo hacen pa  divertir$e ....",0.7717,Positive,0.1660714285714285,Neutral,-0.4275375306606293,Negative
+Al final era verdad lo hacen pa  divertir$e ....",0.7717,Positive,0.1660714285714285,Positive,-0.4275375306606293,Negative
 Es muy malo para estar imitando alos puertorriqueño,-0.5849,Negative,-0.9099999999999998,Negative,-0.6886271834373474,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -367,7 +367,7 @@ pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Te falta la reacción a la canción del wosito pa:(((,-0.3182,Negative,-0.75,Negative,-0.3629075586795807,Negative
 Grande Pablo,0.0,Neutral,0.0,Neutral,0.4144198298454284,Positive
 "Pikachu, fuma pago",0.0,Neutral,0.0,Neutral,0.2500039339065552,Neutral
-"yo creonque estamos acostumbrados a la musica que sienpre hize paulo, esto es diferente. es algo nuevo para el y para todos.",0.0,Neutral,0.0681818181818181,Neutral,0.4474664032459259,Positive
+"yo creonque estamos acostumbrados a la musica que sienpre hize paulo, esto es diferente. es algo nuevo para el y para todos.",0.0,Neutral,0.0681818181818181,Positive,0.4474664032459259,Positive
 pasa que vos no tenes corazon papo,-0.5216,Negative,0.0,Neutral,-0.5087902545928955,Negative
 Pikachu_fuma_pacooooo 🤣,0.0,Neutral,0.0,Neutral,0.2588464915752411,Neutral
 Pikachufumapalo,0.0,Neutral,0.0,Neutral,0.2362917810678482,Neutral
@@ -392,7 +392,7 @@ PIKACHU FUMA,0.0,Neutral,0.0,Neutral,0.2327317148447036,Neutral
 PIKACHU FUMA PACO jajsdkashda :3,0.0,Neutral,0.5,Positive,0.2689229249954223,Neutral
 "Muy bacán decir en donde estás Papo, y que significa me hace ruido? La peor reacción que ví, la tuya.",-0.3626,Negative,-0.2858333333333333,Negative,-0.7062582969665527,Negative
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
-"Tu reacción fue la mía. Fue un tema okay, pero nada wow, para el hype.",-0.5659,Negative,0.3,Neutral,0.5183674693107605,Positive
+"Tu reacción fue la mía. Fue un tema okay, pero nada wow, para el hype.",-0.5659,Negative,0.3,Positive,0.5183674693107605,Positive
 La cargaste… No debiste reaccionarla sin audífonos 🎧 fin..,0.0,Neutral,0.0,Neutral,-0.2724712491035461,Negative
 Pikachu fuma papo,0.0,Neutral,0.0,Neutral,0.2247345000505447,Neutral
 Pikachu fuma paco :v,0.0,Neutral,0.0,Neutral,0.2282924056053161,Neutral
@@ -404,14 +404,14 @@ Por qué los youtubers ponen tanta cara de idiotas en las portada de sus videos?
 "Estaba esperando que reaccionaras porqué siento que eres de los pocos de lo que sabe lo importante de esta session.
 
 Postd: Pikachu fuma pago",0.3612,Positive,-0.2,Negative,-0.4224554300308227,Negative
-NECESITO QUE REACCIONES A LAS NUEVAS BATALLAS DE REPLIK PORFA,-0.0772,Negative,0.1363636363636363,Neutral,0.3117137253284454,Neutral
+NECESITO QUE REACCIONES A LAS NUEVAS BATALLAS DE REPLIK PORFA,-0.0772,Negative,0.1363636363636363,Positive,0.3117137253284454,Neutral
 Pikachu fuma pako,0.0,Neutral,0.0,Neutral,0.2462780028581619,Neutral
 escunchenlo 3 veces y va a ser el mejor del tema de su historia,0.6369,Positive,1.0,Positive,0.6260454058647156,Positive
-"Un diferenteeeeeeeeeeee el unico que escuche opinar asi, muy concreto y directo",0.0,Neutral,0.07375,Neutral,0.3434818983078003,Positive
+"Un diferenteeeeeeeeeeee el unico que escuche opinar asi, muy concreto y directo",0.0,Neutral,0.07375,Positive,0.3434818983078003,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Es un descargó! Y es tremenda canción !! Piel de gallina me encanto,0.88,Positive,0.75,Positive,0.8208029866218567,Positive
 Pikachu fuma bastante Paco,0.0,Neutral,0.0,Neutral,-0.4128735959529876,Negative
-"De acuerdo con Papo, fue bueno pero no increíble.",-0.4867,Negative,0.1999999999999999,Neutral,0.6050752401351929,Positive
+"De acuerdo con Papo, fue bueno pero no increíble.",-0.4867,Negative,0.1999999999999999,Positive,0.6050752401351929,Positive
 Picachu fuma pako jajaja,0.0,Neutral,0.0,Neutral,0.2740361988544464,Neutral
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "Es todo un tema de desahogo, muy duro",0.3626,Positive,-0.3791666666666667,Negative,-0.5843415260314941,Negative
@@ -438,10 +438,10 @@ Pikachu fuma pakkko,0.0,Neutral,0.0,Neutral,-0.3639082908630371,Negative
 Sabes cómo agrego esta canción a la playlist de mí corazón???? La escucho como un Pikachu fuma-paco,0.8253,Positive,0.0,Neutral,-0.4982765913009643,Negative
 Tema 6 puntos. Hace ver a la sesión de Chuky o de Eladio un 8 y a las de Naty y Snow un 10. Solo los Fanboys creen que es excelente.,0.5719,Positive,0.5,Positive,0.4039895534515381,Positive
 Que raro que no exageraste papo,-0.0915,Negative,-0.05,Negative,0.2822282910346985,Neutral
-"El 26 de abril de 2024 voy a venir a comentar en este comentario diciendo que logre mi sueño llegando a grabar con artistas de alto nivel en el genero urbano y que las canciones que tengo en mi canal tuvieron mas reconocimiento que el actual, saludos y bendiciones para quien lea esto 🙏🏼🤍",0.8074,Positive,0.1666666666666666,Neutral,0.4927715063095093,Positive
+"El 26 de abril de 2024 voy a venir a comentar en este comentario diciendo que logre mi sueño llegando a grabar con artistas de alto nivel en el genero urbano y que las canciones que tengo en mi canal tuvieron mas reconocimiento que el actual, saludos y bendiciones para quien lea esto 🙏🏼🤍",0.8074,Positive,0.1666666666666666,Positive,0.4927715063095093,Positive
 Esa base la uso de la resistencia que fue bzrp,0.0,Neutral,-0.8,Negative,0.3286043405532837,Neutral
 Pikachu Fumacapo 🥸,0.0,Neutral,0.0,Neutral,0.3086217045783996,Neutral
-"Papo es único, se monta un estudio rápido, medio dormido, con camiseta de garfild y en calzones y más de medio millón de personas viéndolo",0.0,Neutral,0.175,Neutral,0.2190788090229034,Neutral
+"Papo es único, se monta un estudio rápido, medio dormido, con camiseta de garfild y en calzones y más de medio millón de personas viéndolo",0.0,Neutral,0.175,Positive,0.2190788090229034,Neutral
 Pikachufumapaku,0.0,Neutral,0.0,Neutral,0.2546941041946411,Neutral
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Ojooo mepaaa que pronto saldrá la sesión de duko,0.0,Neutral,0.0,Neutral,0.297811210155487,Neutral
@@ -489,10 +489,10 @@ SE RESUELVE ADEMÁS que los residentes y la comunidad médica que presta servici
 
 SE RESUELVE ADEMÁS que se proporcionen copias de esta resolución al Gobernador de Virginia, a la Asamblea General de Virginia, a la delegación del Congreso de Virginia y a dos senadores de los Estados Unidos, y al Departamento de Salud de Virginia.
 
-LA RESOLUCIÓN ANTERIOR FUE ADOPTADA DEBIDA Y REGULARMENTE por la Junta de Supervisores del Condado de Fluvanna en el condado de Fluvanna el 3 de noviembre de 2021.",-0.7093,Negative,0.0217816787732041,Neutral,-0.2339361757040023,Negative
+LA RESOLUCIÓN ANTERIOR FUE ADOPTADA DEBIDA Y REGULARMENTE por la Junta de Supervisores del Condado de Fluvanna en el condado de Fluvanna el 3 de noviembre de 2021.",-0.7093,Negative,0.0217816787732041,Positive,-0.2339361757040023,Negative
 Welcome back Paulo londra we waited for you for long-time I love you music,0.802,Positive,0.4333333333333333,Positive,0.8192756772041321,Positive
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-Es una no es la mas esperada ya q falta la del duko 😎🖤,0.7184,Positive,0.15,Neutral,0.4307802021503448,Positive
+Es una no es la mas esperada ya q falta la del duko 😎🖤,0.7184,Positive,0.15,Positive,0.4307802021503448,Positive
 No me gusto la reacción siento que papo quiso decir más pero no se ve cómodo trata de estarlo pero pues igual muy bueno el papo se le reconoce el esfuerzo,0.4275,Positive,0.4275,Positive,-0.530095636844635,Negative
 Heyyyy Papote un abrazo parcero 😎🆗🎶💯,0.8415,Positive,0.0,Neutral,-0.2982238531112671,Negative
 Pikachu fuma Paco y Toma de la Ricarda,0.0,Neutral,0.0,Neutral,-0.3452551364898681,Negative
@@ -504,7 +504,7 @@ yo si recibi lo que esperaba Paulo es el mejor de Argentina es mas creo que si l
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 Pickachu fuma pacoooo 😂😂😂,0.8271,Positive,0.0,Neutral,0.2203262001276016,Neutral
-"Lo de blanquito iluminado, me sonó muy a la sesion de Residente. 😂😂",0.8214,Positive,0.13,Neutral,0.4188384115695953,Positive
+"Lo de blanquito iluminado, me sonó muy a la sesion de Residente. 😂😂",0.8214,Positive,0.13,Positive,0.4188384115695953,Positive
 "Papoo te quiero una bandaaa,pero yo creo q vaa a ser el mejor bzrp de la historia y  punto,DEAAAA",0.8555,Positive,0.75,Positive,0.2764943242073059,Neutral
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Con carpa es como con disimulo aqui,0.296,Positive,0.0,Neutral,0.2832772731781006,Neutral
@@ -525,7 +525,7 @@ la lagrima del final,0.0,Neutral,0.0,Neutral,-0.2269298285245895,Negative
 Malisima la sesión,-0.5423,Negative,-0.5,Negative,-0.8001013994216919,Negative
 Pikachu.....Fuma paco,0.0,Neutral,0.0,Neutral,-0.2479937821626663,Negative
 T amo Gordo Forro 🥵❤,0.8555,Positive,0.5,Positive,-0.2847093343734741,Negative
-Ibai también dijo “Yo” JAJAJAJAJA,0.0,Neutral,0.2,Neutral,-0.2732431590557098,Negative
+Ibai también dijo “Yo” JAJAJAJAJA,0.0,Neutral,0.2,Positive,-0.2732431590557098,Negative
 "que  significa ""Con Carpa"" alguien me dice",0.0,Neutral,-0.3125,Negative,-0.419046550989151,Negative
 Pikachu fuma papo!,0.0,Neutral,0.0,Neutral,0.2917496562004089,Neutral
 Sácame de la Duda Papo las sesiones de Bzzrp son para que los artistas saquen lo que tienen guardado .....,0.0772,Positive,0.0,Neutral,-0.2227325588464737,Negative
@@ -547,7 +547,7 @@ pikachu fuma pago,0.0,Neutral,0.0,Neutral,0.2487157136201858,Neutral
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 3:50 esa parte me seba mas que no se,0.0,Neutral,0.5,Positive,-0.3383836448192596,Negative
-"Pues muy meh. Hay mucho de esto, suena como todo lo que se hace. Tampoco dice nada,. realmente no hace sentir nada. Abuso de Autotune y poca expresión. Lo único que te hace sentir algo es el sintetizador de la frases iniciales.",-0.2944,Negative,0.053125,Neutral,-0.598125696182251,Negative
+"Pues muy meh. Hay mucho de esto, suena como todo lo que se hace. Tampoco dice nada,. realmente no hace sentir nada. Abuso de Autotune y poca expresión. Lo único que te hace sentir algo es el sintetizador de la frases iniciales.",-0.2944,Negative,0.053125,Positive,-0.598125696182251,Negative
 pikachu fuma palo,0.0,Neutral,0.0,Neutral,-0.5012850165367126,Negative
 "PIKACHU FUMAPACO. 
 
@@ -558,7 +558,7 @@ Pikachu fuma Paco we??,0.0,Neutral,0.0,Neutral,-0.4097245037555694,Negative
 ESTAAAAAA MALLLL MECHAAAAAAAAAA...,0.0,Neutral,0.0,Neutral,-0.3985123634338379,Negative
 Picachu fuma pacoooo,0.0,Neutral,0.0,Neutral,-0.3495011031627655,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"para mi es super comercial... no está mal,pero no es wooooo. Ahora,los fans de paulo estan re emocionados porque lo estaban esperando,lo se. Pero respeten a los que no les gusta el tema",0.8385,Positive,0.2645833333333333,Neutral,0.6707866787910461,Positive
+"para mi es super comercial... no está mal,pero no es wooooo. Ahora,los fans de paulo estan re emocionados porque lo estaban esperando,lo se. Pero respeten a los que no les gusta el tema",0.8385,Positive,0.2645833333333333,Positive,0.6707866787910461,Positive
 "*Se le olvidó decir: ovy no the drums* 
 
 *Saludos desde tijuana* 🍁🔥",-0.2023,Negative,0.0,Neutral,-0.4290937185287475,Negative
@@ -569,14 +569,14 @@ Es malisima la sesión pongan la excusa que pongan xd",0.6482,Positive,-0.143733
 Aaaaa,0.0,Neutral,0.0,Neutral,0.2926801145076751,Neutral
 ese pika2 fumapakooo,0.0,Neutral,0.0,Neutral,0.2340543717145919,Neutral
 Loco estuvo re piola... Se re planto y largo todo!  Y supongo que lo de con carpa fue porque estaba por llorar,-0.5255,Negative,0.0,Neutral,-0.5246071219444275,Negative
-Papo chamo eres increible nunca cambies bro. Viva Paulo.,0.0,Neutral,0.3287878787878788,Neutral,0.8428703546524048,Positive
+Papo chamo eres increible nunca cambies bro. Viva Paulo.,0.0,Neutral,0.3287878787878788,Positive,0.8428703546524048,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "con carpa = es con disimulo , idioma Cordobés 😎😎",0.7184,Positive,0.0,Neutral,-0.3937833607196808,Negative
 Pikachu fumapan,0.0,Neutral,0.0,Neutral,0.2490164190530777,Neutral
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-Pikachu Fumapaco jajajaja tal cual... Pasa que Residente y Snow tha Product habían dejado la vara muy alta...,0.3612,Positive,0.204,Neutral,-0.4879183769226074,Negative
+Pikachu Fumapaco jajajaja tal cual... Pasa que Residente y Snow tha Product habían dejado la vara muy alta...,0.3612,Positive,0.204,Positive,-0.4879183769226074,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 aguante le Pikachu fuma paco XD,0.6739,Positive,0.0,Neutral,0.5487882494926453,Positive
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -585,16 +585,16 @@ pikachu fuma paco ..... sos grandeeeee craaaack,0.0,Neutral,0.0,Neutral,-0.43379
 Pikachu fumapaco,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
 Pikachucomepako,0.0,Neutral,0.0,Neutral,0.2577481865882873,Neutral
 Pikachu fuma paco 😎,0.0,Neutral,0.0,Neutral,0.2331399321556091,Neutral
-Al final me hizo emocionar 🥺❤️ se le notó a paulo que estaba emocionado pobre me pone muy feliz que haya vuelto 💪,0.5984,Positive,0.195,Neutral,0.4319425225257873,Positive
+Al final me hizo emocionar 🥺❤️ se le notó a paulo que estaba emocionado pobre me pone muy feliz que haya vuelto 💪,0.5984,Positive,0.195,Positive,0.4319425225257873,Positive
 "Creo que está bueno el tema, pero para las expectativas que habían... quedó un poco en deuda. Vamos a ver qué pasa con ese ""con carpa""... capaz que viene otra parte que la rompe.",-0.3182,Negative,0.7,Positive,0.6627166867256165,Positive
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 """'no entiendo porque llaman si antes nadie llamo, no entiendo porque vienen si antes nadie vino"""" re que todo el mundo lo apoyo!!!",-0.4168,Negative,0.0,Neutral,0.6376486420631409,Positive
 Pikachu fuma Paco JAJAJAJAJAJA,0.0,Neutral,0.0,Neutral,0.3227846324443817,Neutral
 "Sobrevalorado,de las peores sesiones , no tiene profundidad en sus letras , un mensaje hueco y aburrido",-0.8225,Negative,-0.7000000000000001,Negative,-0.5153767466545105,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
-"No quisiste decir que no es una c4g4da ,solamente está bueno",0.4404,Positive,0.1937499999999999,Neutral,-0.2914897203445434,Negative
+"No quisiste decir que no es una c4g4da ,solamente está bueno",0.4404,Positive,0.1937499999999999,Positive,-0.2914897203445434,Negative
 "Grande Papo!!!!! Comparto lo que decís, a eso le sumaria que biza viene del beef de residente, pero nada un abrazo gigante champ te mereces todo lo que tenés wachooooooooo!!!!",0.5554,Positive,0.0,Neutral,0.4091985821723938,Positive
-"paulo lloraaa no se si lo veis cuando se toca el hijo en medio de la season y al final se vuelve a tocar el ojo, demasiado personal, mucha mierda y un temazooo ARRIBA PAULO LONDRAAA",-0.296,Negative,0.15,Neutral,-0.4778710603713989,Negative
+"paulo lloraaa no se si lo veis cuando se toca el hijo en medio de la season y al final se vuelve a tocar el ojo, demasiado personal, mucha mierda y un temazooo ARRIBA PAULO LONDRAAA",-0.296,Negative,0.15,Positive,-0.4778710603713989,Negative
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Picachu fuma papo,0.0,Neutral,0.0,Neutral,-0.3597220182418823,Negative
@@ -609,7 +609,7 @@ Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pd: en la primera parte, soy yo o Biza samplea la canción de Rocky, la mitica de Rocky subiendo las escaleras?",0.0,Neutral,0.5833333333333334,Positive,0.4035300612449646,Positive
 "Por fin alguien sincero.
 El tema raspa amigo, es así.
-✌️",0.8402,Positive,0.3,Neutral,0.2507149577140808,Neutral
+✌️",0.8402,Positive,0.3,Positive,0.2507149577140808,Neutral
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 PIKACHU FUMA PACO,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 😈😈,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -618,13 +618,13 @@ godddddddd  paaaa sos rey,0.0,Neutral,0.0,Neutral,-0.2650223672389984,Negative
 3:31 ultra god,0.2732,Positive,0.0,Neutral,0.4164606630802154,Positive
 Picachu fuma pacon't,0.0,Neutral,0.0,Neutral,-0.5146037936210632,Negative
 "Ojalá ojalaaaaa se junte bizza con Paulo ojaaaa y eso sea el ""con carpa""",0.4019,Positive,0.0,Neutral,-0.3206124603748321,Negative
-solo me gusto la flauta del final,0.4215,Positive,0.3,Neutral,-0.363191157579422,Negative
+solo me gusto la flauta del final,0.4215,Positive,0.3,Positive,-0.363191157579422,Negative
 pikachufumapaco,0.0,Neutral,0.0,Neutral,0.2521069049835205,Neutral
 Una reacción sincera no como otros que por ser sus amigos dicen que es un temazo,0.8312,Positive,0.65,Positive,0.2447126060724258,Neutral
 Jajajaj no exagerenn que es re comun el tema no solprendio un carajoo,0.6917,Positive,-0.095,Negative,0.3236046433448791,Neutral
 "HAY QUE DECIR LA VERDAD..
 DESPUES DE LO QUE HIZO RESIDENTE TODO VA QUEDAR CHIQUITITO... 
-NO SE SI ERA LO QUE ESPERABA DE BZR.. PERO BUENO UNA VUELTA DE PAULO LONDRA..  BIIEN UN 7..",0.8937,Positive,0.0833333333333333,Neutral,-0.2973082065582275,Negative
+NO SE SI ERA LO QUE ESPERABA DE BZR.. PERO BUENO UNA VUELTA DE PAULO LONDRA..  BIIEN UN 7..",0.8937,Positive,0.0833333333333333,Positive,-0.2973082065582275,Negative
 "Al que dice "" esperaba otra cosa "" , "" mucho bla - bla - bla ,pero no hacen ,na """,0.0,Neutral,-0.1,Negative,-0.4137344658374786,Negative
 Pikachu fuma paco (?,0.0,Neutral,0.0,Neutral,-0.2921908795833587,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -636,10 +636,10 @@ Sos un genio papo!! Te banco,0.0,Neutral,0.0,Neutral,-0.4036580920219421,Negativ
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 "En Córdoba cuando éramos chicos solíamos decir chupala con carpa, para mi viene de ahí la frase del final",0.0,Neutral,0.0,Neutral,0.2267605662345886,Neutral
 "Malisimo el tema no me dice nada no me mueve un pelo, y para los q dicen q tenes q entender la historia de paulo cualquieraaaaa, liricamente y musicalmente es una bosta tanto esperar para nada",-0.6908,Negative,-0.5333333333333333,Negative,-0.9453266263008118,Negative
-"Personalmente no me gusto como lo esperaba. Llevo años escuchandolo, me encanto que saliera esta canción gg",0.6111,Positive,0.1999999999999999,Neutral,-0.4270420968532562,Negative
+"Personalmente no me gusto como lo esperaba. Llevo años escuchandolo, me encanto que saliera esta canción gg",0.6111,Positive,0.1999999999999999,Positive,-0.4270420968532562,Negative
 La siguiente sessión va ser con el Pikachu fuma pako,0.0,Neutral,0.0,Neutral,0.2938679158687591,Neutral
 Mmmmmm nose..yo estoy esperando la Session con Wosito!!,0.0,Neutral,0.0,Neutral,0.241316482424736,Neutral
-Picachu fuma paco... me encantas chiquito 💋,0.7732,Positive,0.15625,Neutral,0.6453668475151062,Positive
+Picachu fuma paco... me encantas chiquito 💋,0.7732,Positive,0.15625,Positive,0.6453668475151062,Positive
 nadie reacciona asi papo lc deu tm,0.0,Neutral,0.0,Neutral,-0.8441182374954224,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
@@ -650,7 +650,7 @@ Esa parte de los perros se tragaron lo que me vomitaron rip lenny tavarez,0.0,Ne
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Pikachu fuma paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 Nadie habla del taimin que hizo papo xd estubo gooooooood 🤣,0.7906,Positive,0.0,Neutral,-0.8331155776977539,Negative
-El tema estubo piola 2 años esperando la sessions a mi me gusto Valio la pena esperar tanto Con Carpa saludo loro,0.8225,Positive,0.3,Neutral,-0.4127316772937774,Negative
+El tema estubo piola 2 años esperando la sessions a mi me gusto Valio la pena esperar tanto Con Carpa saludo loro,0.8225,Positive,0.3,Positive,-0.4127316772937774,Negative
 A algunos no les gusto seguramente porque querían algo más comercial pero yo siento que es una session más personal y me encanto GRANDE PAULOOO❤️❤️❤️,0.6999,Positive,0.3399999999999999,Positive,0.3995600342750549,Positive
 Acá expresa de que la gente que no lo apoyaban ahora como ven que le va bien después de todo lo que paso los están buscando.,-0.0408,Neutral,0.0,Neutral,0.4370560944080353,Positive
 pikachu fuma paco.,0.0,Neutral,0.0,Neutral,-0.2750821113586426,Negative
@@ -658,7 +658,7 @@ TE AMO PAPOO se monto un setup para reaccionar a la bzrp,0.7125,Positive,0.5,Pos
 Paulo demuestra mucho sentimiento en esta sesión:(,-0.34,Negative,-0.75,Negative,0.3145994544029236,Neutral
 Una sesión con jaze porfa:(,-0.1531,Negative,-0.75,Negative,0.27214315533638,Neutral
 va a ver parte ll,0.0,Neutral,0.0,Neutral,0.2738188803195953,Neutral
-El tiempo le va a dar la razon a esta sesion.,0.0,Neutral,0.2857142857142857,Neutral,0.4526661336421966,Positive
+El tiempo le va a dar la razon a esta sesion.,0.0,Neutral,0.2857142857142857,Positive,0.4526661336421966,Positive
 Que manera de fumar paco que tiene pikachu,0.0,Neutral,0.0,Neutral,-0.3031838536262512,Negative
 Pikachu fuma Paco?,0.0,Neutral,0.0,Neutral,-0.3680497109889984,Negative
 "Por otro lado ví a coscu ví a Ebay o como se diga, y SOS el más agradable y con gestos únicos 😅 saludos",0.902,Positive,0.3708333333333333,Positive,0.3772651553153991,Positive
@@ -667,7 +667,7 @@ Ahí tenés q entrar vos gordo en la próxima sesión y se rompe todo!! Tirales 
 Pikachu fuma paco ndea,0.0,Neutral,0.0,Neutral,-0.3157133460044861,Negative
 ARGENTINA con todos sus artistas está en su mejor momento.. espero sigan asiiii,0.8625,Positive,1.0,Positive,0.6974319815635681,Positive
 PIKACHU FUMAPACO,0.0,Neutral,0.0,Neutral,0.2647800147533417,Neutral
-"Papo, Aczino batallo en EU en una de las batllas mas importantes de la historia y tuvo el detalle de mencionarte en sus barras, por que menciono esto?, por que tu ni una mínima reacción a su tema de GOAT, ni su tema con Arkano, por que? no intereso tanto?",-0.7557,Negative,0.2458333333333333,Neutral,-0.3930363953113556,Negative
+"Papo, Aczino batallo en EU en una de las batllas mas importantes de la historia y tuvo el detalle de mencionarte en sus barras, por que menciono esto?, por que tu ni una mínima reacción a su tema de GOAT, ni su tema con Arkano, por que? no intereso tanto?",-0.7557,Negative,0.2458333333333333,Positive,-0.3930363953113556,Negative
 Pickachu fuma paco <3,0.4404,Positive,1.0,Positive,0.2918984591960907,Neutral
 Pikachu fuma Paco,0.0,Neutral,0.0,Neutral,-0.2795210480690002,Negative
 La bestia del frystailer..,0.0,Neutral,0.0,Neutral,0.3280966579914093,Neutral
@@ -675,7 +675,7 @@ Creo que pedís disculpa por decir que Residente sigue siendo la mejor session,0
 Pikachu se pone unos tokesotes de mota Pa andar bn eléctrico,0.0,Neutral,0.0,Neutral,-0.3072252571582794,Negative
 Picachu fuma paco,0.0,Neutral,0.0,Neutral,-0.3405178487300873,Negative
 En la miniatura más que cebado y en la reacción más tieso que mi bis abuelo dea xD,0.836,Positive,0.65,Positive,0.2538376450538635,Neutral
-Siento que sin la parte de Reguetón a full flow y raperos hubiera estado mil veces más épica de lo que es,0.0,Neutral,0.3166666666666666,Neutral,-0.4459665715694427,Negative
+Siento que sin la parte de Reguetón a full flow y raperos hubiera estado mil veces más épica de lo que es,0.0,Neutral,0.3166666666666666,Positive,-0.4459665715694427,Negative
 "paulo: soy un gordo avaro con estilo
 ibai y papo: soy yo 🤑",-0.4215,Negative,0.0,Neutral,-0.2918461561203003,Negative
 "Papo agregando tema para la conspiración, creo que la manera de grabar de esta sesión es antigua no como las últimas más elaboradas, así que fácil sí, harán una nueva ✌🏼",0.6608,Positive,0.333939393939394,Positive,0.4438196122646332,Positive

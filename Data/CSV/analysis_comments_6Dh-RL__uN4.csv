@@ -1,15 +1,15 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 What proo,0.0,Neutral,0.0,Neutral,-0.2974797487258911,Negative
 "I remember when the comment section was normal,not a calendar",0.0,Neutral,0.0,Neutral,0.2987362742424011,Neutral
-this will never get old,0.0,Neutral,0.1,Neutral,0.5140286684036255,Positive
+this will never get old,0.0,Neutral,0.1,Positive,0.5140286684036255,Positive
 T-Series   Take Notes.,0.0,Neutral,0.0,Neutral,0.350076287984848,Positive
 Is the intro roomie official?,0.0,Neutral,0.0,Neutral,-0.307650476694107,Negative
 We back after 3 years,0.0,Neutral,0.0,Neutral,-0.2795862555503845,Negative
 I'm going to pay PewDiePie to play this song at my wedding.,0.25,Positive,0.0,Neutral,0.3253940939903259,Neutral
 why is this so smooth to me,0.0,Neutral,0.4,Positive,0.489816665649414,Positive
 Let's make 30th April international bitch lasagna day,-0.5859,Negative,0.0,Neutral,0.3144722282886505,Neutral
-"I'm sorry, but as an Indian, I take offense to this, as our languages are beautiful. What you say about T-Series is true, but please don't insult my culture.",0.9313,Positive,0.2333333333333333,Neutral,0.2745251953601837,Neutral
-epic pewds,0.0,Neutral,0.1,Neutral,0.6573387980461121,Positive
+"I'm sorry, but as an Indian, I take offense to this, as our languages are beautiful. What you say about T-Series is true, but please don't insult my culture.",0.9313,Positive,0.2333333333333333,Positive,0.2745251953601837,Neutral
+epic pewds,0.0,Neutral,0.1,Positive,0.6573387980461121,Positive
 I was in 4th grade during this and i would blast this song on the bus on repeat. Thank you king of youtube for being here for over a decade.,0.3612,Positive,0.0,Neutral,0.6374355554580688,Positive
 Бич лазанья!,0.0,Neutral,0.0,Neutral,0.3889469504356384,Positive
 "an interesting fact and that if you write ""interesting fact"" in your sentence, people are more likely to read it to the end!",0.7177,Positive,0.375,Positive,0.3733816742897033,Positive
@@ -45,14 +45,14 @@ Me that I'm Italian and I don't like T series:,-0.2755,Negative,0.0,Neutral,-0.3
 BANGER,0.0,Neutral,0.0,Neutral,-0.2741033732891083,Negative
 all hail water sheep,0.0772,Positive,0.0,Neutral,-0.2986761331558227,Negative
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-;),0.2263,Positive,0.25,Neutral,0.4011613428592682,Positive
-I was the first subscriber of Pewdipie,0.0,Neutral,0.25,Neutral,0.2670017778873443,Neutral
-3 years already? Time really flies.,0.0,Neutral,0.2,Neutral,-0.3924240469932556,Negative
+;),0.2263,Positive,0.25,Positive,0.4011613428592682,Positive
+I was the first subscriber of Pewdipie,0.0,Neutral,0.25,Positive,0.2670017778873443,Neutral
+3 years already? Time really flies.,0.0,Neutral,0.2,Positive,-0.3924240469932556,Negative
 This was a legendary era on youtube,0.0,Neutral,1.0,Positive,0.748304545879364,Positive
 Didnt you upload a vedio who you congrajulation them,0.4939,Positive,0.0,Neutral,-0.5305824875831604,Negative
 0:34,0.0,Neutral,0.0,Neutral,-0.4507315456867218,Negative
 Who is here at 2022,0.0,Neutral,0.0,Neutral,0.3684208393096924,Positive
-classic song,0.0,Neutral,0.1666666666666666,Neutral,0.5534293055534363,Positive
+classic song,0.0,Neutral,0.1666666666666666,Positive,0.5534293055534363,Positive
 Bros flow is playing hide and seek with the beat,0.0258,Neutral,0.0,Neutral,0.3699389398097992,Positive
 "Aw heck yea man.
 :>",0.4767,Positive,0.5,Positive,0.2427100539207458,Neutral
@@ -79,7 +79,7 @@ Evergreen.,0.0,Neutral,0.0,Neutral,0.7411924004554749,Positive
 I don't want to but you lost the series and you still have the video,-0.4698,Negative,0.0,Neutral,0.2988761663436889,Neutral
 2022 and I'm finally actually listening to this damn song despite all the memes and songs.,-0.481,Negative,0.0,Neutral,0.5356432795524597,Positive
 The song very very beautiful 🥰,0.9233,Positive,1.0,Positive,0.7413761615753174,Positive
-Back when Life was fun,0.5106,Positive,0.15,Neutral,0.3925570547580719,Positive
+Back when Life was fun,0.5106,Positive,0.15,Positive,0.3925570547580719,Positive
 الاغنيه أنها ممله جدا الكلمات. والموسيقى   غير مريحا للاستماع,-0.5994,Negative,-0.75,Negative,-0.4802047908306122,Negative
 This song bring me memories about the war that happen long ago... Time flies.,-0.5994,Negative,-0.05,Negative,0.5635117888450623,Positive
 My 298th day on listening to Bitch Lasagna.,-0.5859,Negative,0.0,Neutral,0.5864017605781555,Positive
@@ -89,7 +89,7 @@ The battle was legendary,-0.3818,Negative,1.0,Positive,0.4630992710590362,Positi
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 This is now on my Spotify playlist.,0.0,Neutral,0.0,Neutral,0.5934036374092102,Positive
-WoW!!,0.658,Positive,0.15625,Neutral,0.8093975186347961,Positive
+WoW!!,0.658,Positive,0.15625,Positive,0.8093975186347961,Positive
 Good Music,0.4404,Positive,0.7,Positive,0.4951129853725433,Positive
 Came back to listen to this banger 😩😩😩😩😩,-0.8176,Negative,0.0,Neutral,0.3099268674850464,Neutral
 Bro that was INSANE! Next dis do With Zach B.,-0.5754,Negative,-0.5,Negative,-0.6975591778755188,Negative
@@ -102,24 +102,24 @@ Day 5 of listening Bitch Lasagna,-0.5859,Negative,0.0,Neutral,-0.531012833118438
 Edit: wtf m8 it's been like thirty seconds how is this getting likes already",0.6369,Positive,0.0,Neutral,0.2885478436946869,Neutral
 ي,0.0,Neutral,0.0,Neutral,0.2377264648675918,Neutral
 pich lesaiña,0.0,Neutral,0.0,Neutral,-0.2920537889003753,Negative
-Thanks you subscribe,0.4404,Positive,0.2,Neutral,0.4723660945892334,Positive
+Thanks you subscribe,0.4404,Positive,0.2,Positive,0.4723660945892334,Positive
 rip pewdiepie,0.0,Neutral,0.0,Neutral,-0.4765236377716064,Negative
 Still the best song of all time 👌🏽,0.8842,Positive,1.0,Positive,0.8520053625106812,Positive
-Can someone tell me why he has so many subs and veiws?? I am just confused ;-;,-0.3939,Negative,0.0499999999999999,Neutral,-0.4012026786804199,Negative
+Can someone tell me why he has so many subs and veiws?? I am just confused ;-;,-0.3939,Negative,0.0499999999999999,Positive,-0.4012026786804199,Negative
 Persian subtitle ob PewDiePie video🙄🙄,0.0,Neutral,0.0,Neutral,-0.2731010615825653,Negative
 2022 and still listening this song,0.0,Neutral,0.0,Neutral,0.4988056421279907,Positive
 "This beat low-key goes hard. I haven’t heard this song for over two years, yet for the past week I’d been humming the beat. I couldn’t for the life of me work out where it was from; then today in college someone asked me ‘r u humming bitch lasagna!?’ And then it dawned on me.",-0.6696,Negative,-0.3020833333333333,Negative,-0.5563108325004578,Negative
 still a banger,0.0,Neutral,0.0,Neutral,-0.2358145415782928,Negative
-دمت گرم ایرانی هم که هستی,0.0,Neutral,0.25,Neutral,0.3735670447349548,Positive
-I remember when this song first dropped.,0.0,Neutral,0.25,Neutral,-0.2966088950634002,Negative
+دمت گرم ایرانی هم که هستی,0.0,Neutral,0.25,Positive,0.3735670447349548,Positive
+I remember when this song first dropped.,0.0,Neutral,0.25,Positive,-0.2966088950634002,Negative
 Русские есть?,0.0,Neutral,0.0,Neutral,-0.3848828971385956,Negative
 "I feel like this is a Mandela effect but,.... Wasn't bitch lasagna like from 10 years ago-",0.4927,Positive,0.0,Neutral,0.3805013000965118,Positive
 I love how YouTube recommended this to me in 2022 xD,0.8689,Positive,0.5,Positive,0.7948878407478333,Positive
 Chet up pewdiepop pop,0.0,Neutral,0.0,Neutral,-0.2786752879619598,Negative
-I can tell pewdiepie is really pissed he’s LITERALLY SWEARING XD,-0.4005,Negative,0.2,Neutral,-0.6465306878089905,Negative
+I can tell pewdiepie is really pissed he’s LITERALLY SWEARING XD,-0.4005,Negative,0.2,Positive,-0.6465306878089905,Negative
 I miss 2018,-0.1531,Negative,0.0,Neutral,-0.4358739554882049,Negative
 he got the skill boii,0.0,Neutral,0.0,Neutral,0.3937825262546539,Positive
-I was here to see this epic war,-0.5994,Negative,0.1,Neutral,0.638489305973053,Positive
+I was here to see this epic war,-0.5994,Negative,0.1,Positive,0.638489305973053,Positive
 Wowpawdiepie łac,0.0,Neutral,0.0,Neutral,0.3626571893692016,Positive
 if you are bad carryminati and T Series your dad,-0.5423,Negative,-0.6999999999999998,Negative,0.2305028736591339,Neutral
 Hahahahahaha,0.0,Neutral,0.0,Neutral,-0.228976622223854,Negative
@@ -127,15 +127,15 @@ Hahahahahaha,0.0,Neutral,0.0,Neutral,-0.228976622223854,Negative
 ❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 hm,0.0,Neutral,0.0,Neutral,0.2537655234336853,Neutral
 """Editor 2015""",0.0,Neutral,0.0,Neutral,0.3810127675533294,Positive
-Wow. 3 years.,0.5859,Positive,0.1,Neutral,0.7961597442626953,Positive
+Wow. 3 years.,0.5859,Positive,0.1,Positive,0.7961597442626953,Positive
 "Why has he not allowed to see this in India, there is no video named Bitch lasagna on his channel in India(I am using VPN)",-0.7184,Negative,0.0,Neutral,-0.6525558829307556,Negative
 "This whole war was actually insane!
 Can't believe it's already been 3 years...",-0.784,Negative,-0.4,Negative,-0.7820819616317749,Negative
 "Holy shit, this was 3 years ago?",-0.5574,Negative,-0.2,Negative,-0.7344251275062561,Negative
-Про маму лишнее,0.0,Neutral,0.2,Neutral,0.2409553825855255,Neutral
+Про маму лишнее,0.0,Neutral,0.2,Positive,0.2409553825855255,Neutral
 I hate pew die pie he swears I hate him 😤 😒 😑 🙄 😐 😫 😤 😒 🤬🤬🤬,-0.9325,Negative,-0.8,Negative,-0.6156577467918396,Negative
 Alright I guess I must leave a sign that I was once here (I watched this the day it came out but I was stupid enough not to comment).,-0.6369,Negative,-0.3999999999999999,Negative,0.6944905519485474,Positive
-a pure masterpiece,0.6249,Positive,0.2142857142857142,Neutral,0.9072174429893494,Positive
+a pure masterpiece,0.6249,Positive,0.2142857142857142,Positive,0.9072174429893494,Positive
 that was a bitch lasagna,-0.5859,Negative,0.0,Neutral,0.2743783295154571,Neutral
 my classmate got suspended by playing this master piece during lunch time,-0.3182,Negative,0.0,Neutral,-0.4257108271121979,Negative
 AINT NO WAY THIS IS NEARLY HALF A DECADE OLD ALREADY,0.2235,Positive,-0.0333333333333333,Negative,-0.4988702535629272,Negative
@@ -170,10 +170,10 @@ kako si,0.0,Neutral,0.0,Neutral,0.4296084344387054,Positive
 Love u for ind6,0.6369,Positive,0.5,Positive,0.6682947278022766,Positive
 I was 6 when I started watching pewdiepie,0.0,Neutral,0.0,Neutral,0.2274347841739654,Neutral
 Pew dei pie really hate t series,-0.6115,Negative,-0.8,Negative,-0.597012460231781,Negative
-im alive,0.3818,Positive,0.1,Neutral,0.3833149671554565,Positive
+im alive,0.3818,Positive,0.1,Positive,0.3833149671554565,Positive
 This shit goes Hard🛐🤝,-0.4215,Negative,-0.2,Negative,0.4701349139213562,Positive
 I’m still listening to this song :)))),0.0,Neutral,0.5,Positive,0.5589929819107056,Positive
-There's not any doubt. He is most subscribed individual creator.,0.2755,Positive,0.25,Neutral,0.5392566323280334,Positive
+There's not any doubt. He is most subscribed individual creator.,0.2755,Positive,0.25,Positive,0.5392566323280334,Positive
 Respect who leasten to this masterpiece in 2022,0.8391,Positive,0.0,Neutral,0.6451862454414368,Positive
 life peaked when this dropped,0.0,Neutral,0.0,Neutral,-0.3693769574165344,Negative
 ain't no way this almost 4 years ago,0.2235,Positive,0.0,Neutral,-0.4572570919990539,Negative
@@ -183,7 +183,7 @@ pewdiepie is better than t series,0.4404,Positive,0.5,Positive,0.364447504281997
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 where's the English caption???,0.0,Neutral,0.0,Neutral,-0.430672138929367,Negative
 still hits hard,-0.1027,Negative,-0.2916666666666667,Negative,0.2766813039779663,Neutral
-never gonna get old,0.0,Neutral,0.1,Neutral,0.3519522249698639,Positive
+never gonna get old,0.0,Neutral,0.1,Positive,0.3519522249698639,Positive
 I still love this 🤣,0.8126,Positive,0.5,Positive,0.8415940999984741,Positive
 "Walaupun Penonton T Series tidak sampai 2 juta tapi video terpopuler nya sampai 1,4 Itu 4 kali lebih banyak daripada Video terpupopuler Chanel ini",0.8511,Positive,0.54,Positive,-0.2894409894943237,Negative
 Done 2022,0.0,Neutral,0.0,Neutral,0.25727379322052,Neutral
@@ -208,7 +208,7 @@ this song never dies ye fuck ey,0.431,Positive,-0.4,Negative,-0.6305088996887207
 Reply my comment after 24 hours so I can listen again",-0.5859,Negative,0.0,Neutral,-0.4431859254837036,Negative
 "Pewdiepie: b***ch lasagna
 The other people at the park: wtf this guy wiggling like that.",-0.3182,Negative,-0.3125,Negative,-0.5094820261001587,Negative
-"Yes, Old times",0.4019,Positive,0.1,Neutral,0.3119510114192962,Neutral
+"Yes, Old times",0.4019,Positive,0.1,Positive,0.3119510114192962,Neutral
 Why is it is slovene ?,0.0,Neutral,0.0,Neutral,-0.3856204450130462,Negative
 🥵🥵🥵🥵🥵,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 anthem of the universe,0.0,Neutral,0.0,Neutral,0.6550389528274536,Positive
@@ -218,9 +218,9 @@ Here in 2022 and they have double the subs atm lol,0.4215,Positive,0.4,Positive,
 "Бич лазанья,бич лазанья",0.0,Neutral,0.0,Neutral,0.2616901397705078,Neutral
 T-series may have won the battle but Pewdiepie won the War,0.0644,Positive,0.0,Neutral,0.3151784241199493,Neutral
 PewDiePie is better than Tseries 100%,0.4404,Positive,0.5,Positive,0.7332196235656738,Positive
-"It's very same, I also like bish lasagna, and I seen this vido and relised they I need stronger 🤜🤜🤜, I am very strong man 💪🏾💪🏾💪🏾 (I don know who made my musel black color)",0.8268,Positive,0.1322222222222222,Neutral,0.3136711418628692,Neutral
+"It's very same, I also like bish lasagna, and I seen this vido and relised they I need stronger 🤜🤜🤜, I am very strong man 💪🏾💪🏾💪🏾 (I don know who made my musel black color)",0.8268,Positive,0.1322222222222222,Positive,0.3136711418628692,Neutral
 how tf was this 4 years ago,0.0,Neutral,0.0,Neutral,0.4917818903923034,Positive
-i dont like you t series nothing personal kid hahahha xd lmao kekw,0.7643,Positive,0.3,Neutral,-0.5274734497070312,Negative
+i dont like you t series nothing personal kid hahahha xd lmao kekw,0.7643,Positive,0.3,Positive,-0.5274734497070312,Negative
 Chi italiano?,0.0,Neutral,0.0,Neutral,-0.4068596661090851,Negative
 Есть русские?,0.0,Neutral,0.0,Neutral,-0.3732803761959076,Negative
 wait this all happened in 2018?,0.0,Neutral,0.0,Neutral,-0.5482171177864075,Negative
@@ -262,23 +262,23 @@ WHAT THE HECK! WHAT! WHAT THE HECK!",0.8964,Positive,0.0,Neutral,0.5330629348754
 "As a lasagna, I can confirm this is what we feel",0.0,Neutral,0.0,Neutral,0.464891642332077,Positive
 🙏🙏 IM from indonesia,0.0,Neutral,0.0,Neutral,-0.3831067085266113,Negative
 아,0.0,Neutral,0.0,Neutral,0.2699761390686035,Neutral
-"Man! I can't believe Pewdiepie vs. T-Series is already 4 years, I feel so old",0.0,Neutral,0.1,Neutral,-0.481642872095108,Negative
+"Man! I can't believe Pewdiepie vs. T-Series is already 4 years, I feel so old",0.0,Neutral,0.1,Positive,-0.481642872095108,Negative
 this for t series and banned in India lmao,0.2263,Positive,0.6,Positive,-0.5963438153266907,Negative
 "Я в течении недели 3 раза ел лазанью.
 Поэтому решил спустя 3 года снова включить этот ролик и понастальгировать😀",0.3612,Positive,0.0,Neutral,-0.3134924471378326,Negative
-I love how the American sign language just says hands,0.6369,Positive,0.25,Neutral,0.6973662376403809,Positive
+I love how the American sign language just says hands,0.6369,Positive,0.25,Positive,0.6973662376403809,Positive
 So cringe,0.0,Neutral,0.0,Neutral,-0.4090975821018219,Negative
 This will remain legendary forever,0.0,Neutral,1.0,Positive,0.8059074282646179,Positive
 this is legend :))),0.0,Neutral,0.5,Positive,0.6668994426727295,Positive
-Damn did it rly recommend me this 3 yrs later?,0.024,Neutral,0.1,Neutral,-0.3613570630550384,Negative
+Damn did it rly recommend me this 3 yrs later?,0.024,Neutral,0.1,Positive,-0.3613570630550384,Negative
 Challenger approaching: cocomelon,0.128,Positive,0.0,Neutral,0.2716275453567505,Neutral
 Imagine if T-series fired back with a dis-track on Pewdiepie…,-0.5574,Negative,0.0,Neutral,-0.5227276086807251,Negative
-casi 4 años después y aún lo recuerdo como si fuera ayer fue demasiado épico.,0.3612,Positive,0.05,Neutral,-0.4946052432060241,Negative
+casi 4 años después y aún lo recuerdo como si fuera ayer fue demasiado épico.,0.3612,Positive,0.05,Positive,-0.4946052432060241,Negative
 This song is so cringe lookin back😭,-0.4767,Negative,0.0,Neutral,-0.5301357507705688,Negative
 "Day 2 of listening Bitch Lasagna.
 Reply my comment after 24 hours so I can listen again",-0.5859,Negative,0.0,Neutral,-0.4925627112388611,Negative
-Did anyone else realize that he made fun of the the language they speak in India when Indians speak English and Hindi and neither of them originated from India?,0.5106,Positive,0.15,Neutral,-0.2787517607212066,Negative
-The real WW3,0.0,Neutral,0.2,Neutral,0.6646521091461182,Positive
+Did anyone else realize that he made fun of the the language they speak in India when Indians speak English and Hindi and neither of them originated from India?,0.5106,Positive,0.15,Positive,-0.2787517607212066,Negative
+The real WW3,0.0,Neutral,0.2,Positive,0.6646521091461182,Positive
 4 years ago :/,-0.34,Negative,-0.25,Negative,0.2942498922348022,Neutral
 BITCH LASAGNA BEST PEWDIEPIE 2022!!,0.2462,Positive,1.0,Positive,0.4354926645755768,Positive
 "BITCH LASAGNA 
@@ -302,8 +302,8 @@ At the start my ears were moving I swear,-0.0516,Negative,0.0,Neutral,-0.3961315
 "the ""american sign language"" caption IM CRYINGGG",0.0,Neutral,0.0,Neutral,0.2297330051660537,Neutral
 *gets copyrighted*,0.0,Neutral,0.0,Neutral,-0.7007883787155151,Negative
 Ты РУССКИЙ????,0.0,Neutral,0.0,Neutral,-0.5354787707328796,Negative
-Can't believe it YouTube  Really Recommended me This aft 2 years,0.2716,Positive,0.2,Neutral,0.6235930323600769,Positive
-The next generation must enjoy this,0.4939,Positive,0.2,Neutral,0.5926668643951416,Positive
+Can't believe it YouTube  Really Recommended me This aft 2 years,0.2716,Positive,0.2,Positive,0.6235930323600769,Positive
+The next generation must enjoy this,0.4939,Positive,0.2,Positive,0.5926668643951416,Positive
 "the boom, was PerFeCt🙃",0.5719,Positive,0.0,Neutral,0.2740298807621002,Neutral
 "This is the world biggest history
 
@@ -337,7 +337,7 @@ Jel naslov hrvatski🤣,0.0,Neutral,0.0,Neutral,0.2370110005140304,Neutral
 🤣,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Настольгия....,0.0,Neutral,0.0,Neutral,0.2811272144317627,Neutral
 2018 was such a good year!,0.4926,Positive,0.4375,Positive,0.6475113034248352,Positive
-Imagine being the first subscriber of Pewdiepie. how do you feel now,0.0,Neutral,0.25,Neutral,0.5620507001876831,Positive
+Imagine being the first subscriber of Pewdiepie. how do you feel now,0.0,Neutral,0.25,Positive,0.5620507001876831,Positive
 "Me in 2061:
 Grand son; Hey grandpa have you ever been in a war?
 Me;",-0.2263,Negative,0.5,Positive,0.4049963355064392,Positive
@@ -359,7 +359,7 @@ you should put this on Spotify and u will be FUCKING RICH,0.7476,Positive,0.375,
 12 hours pls,0.0772,Positive,0.0,Neutral,-0.2257390916347503,Negative
 Who else came back to watch this thinking..... in another timeline he won,0.5719,Positive,0.0,Neutral,-0.5644693374633789,Negative
 still slaps,0.0,Neutral,0.0,Neutral,-0.3587982058525085,Negative
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Bless teh algorhythm for bringing me back to this,0.4215,Positive,0.0,Neutral,-0.4848028719425201,Negative
 W',0.0,Neutral,0.0,Neutral,0.2686297297477722,Neutral
 Bro I’m just noticing the racist jokes in here 😂,-0.0258,Neutral,0.0,Neutral,-0.2840515375137329,Negative
@@ -369,7 +369,7 @@ Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Still bangs,0.0,Neutral,0.0,Neutral,-0.3203300535678863,Negative
 The nostalgia,0.0,Neutral,0.0,Neutral,0.4251258075237274,Positive
 "okay hip hop.. you are the coolest youtuber, your work is really famous. yo Yo let's work to be rich.",0.6705,Positive,0.4583333333333333,Positive,0.7779046297073364,Positive
-Wow this popped up in my recommended... ahhh,0.6808,Positive,0.1,Neutral,0.7006518840789795,Positive
+Wow this popped up in my recommended... ahhh,0.6808,Positive,0.1,Positive,0.7006518840789795,Positive
 can people like this comment in like 5 years so i get reminded of this masterpiece,0.8713,Positive,0.0,Neutral,0.7492569088935852,Positive
 Hej,0.0,Neutral,0.0,Neutral,0.2906193137168884,Neutral
 It's one of the best song,0.6369,Positive,1.0,Positive,0.8172863721847534,Positive
@@ -380,7 +380,7 @@ I like pewdiepie and I am an indian,0.3612,Positive,0.0,Neutral,0.38718315958976
 hi is full 🖕🖕🖕🖕🖕,0.0,Neutral,0.35,Positive,0.4905280172824859,Positive
 every Bangladeshi and indian unsubcribe him,0.0,Neutral,0.0,Neutral,-0.5126030445098877,Negative
 """True legends never die until they do""
--Pewdiepie from the future",0.7137,Positive,0.175,Neutral,0.4213725924491882,Positive
+-Pewdiepie from the future",0.7137,Positive,0.175,Positive,0.4213725924491882,Positive
 "When PDP leaves his gaming set, thats how you know it's something tserious..",0.0,Neutral,0.0,Neutral,-0.3953545093536377,Negative
 Pagal,0.0,Neutral,0.0,Neutral,0.3087099194526672,Neutral
 hay,0.0,Neutral,0.0,Neutral,0.2685189843177795,Neutral
@@ -421,8 +421,8 @@ He got 11M subs 💀,0.0,Neutral,0.0,Neutral,0.3263399600982666,Neutral
 i freaking love PewDiePie,0.34,Positive,0.5,Positive,0.5171605348587036,Positive
 Still a fire song.,-0.34,Negative,0.0,Neutral,0.3077907860279083,Neutral
 whoever dislikes this video is a t-series fan,-0.1027,Negative,0.0,Neutral,-0.3534708619117737,Negative
-T- series x Lasanga new shippppppppppp,0.0,Neutral,0.1363636363636363,Neutral,0.5205978155136108,Positive
-Next generation of kids will be very confused. Best content creator diss track.,0.4377,Positive,0.16,Neutral,0.796858549118042,Positive
+T- series x Lasanga new shippppppppppp,0.0,Neutral,0.1363636363636363,Positive,0.5205978155136108,Positive
+Next generation of kids will be very confused. Best content creator diss track.,0.4377,Positive,0.16,Positive,0.796858549118042,Positive
 0:30 ого Пьюдипай знает величайшего)),0.8402,Positive,0.55,Positive,0.5985676050186157,Positive
 Hello future,0.0,Neutral,0.0,Neutral,0.5205548405647278,Positive
 My 292nd day on listening to Bitch Lasagna.,-0.5859,Negative,0.0,Neutral,0.5909873843193054,Positive
@@ -439,16 +439,16 @@ Sorry but it’s looks like T series won,0.8462,Positive,-0.5,Negative,-0.466911
 Be like,0.3612,Positive,0.0,Neutral,0.4368994832038879,Positive
 Why is there American Sign Language in captions,0.0,Neutral,0.0,Neutral,-0.287350445985794,Negative
 BITCH LAZANYA😎  TO T-SERIES,-0.368,Negative,0.0,Neutral,-0.4462546408176422,Negative
-thanks youtube for reminding me of this,0.4404,Positive,0.2,Neutral,0.626040518283844,Positive
+thanks youtube for reminding me of this,0.4404,Positive,0.2,Positive,0.626040518283844,Positive
 Beach Lasagna,0.0,Neutral,0.0,Neutral,0.2909575998783111,Neutral
 I remember this battle…,0.0,Neutral,0.0,Neutral,0.713671863079071,Positive
-the fucking memories lol,0.4728,Positive,0.1,Neutral,0.3185164332389831,Neutral
+the fucking memories lol,0.4728,Positive,0.1,Positive,0.3185164332389831,Neutral
 And then a Dantdm fan turned this into Dab lasagna,0.3182,Positive,0.0,Neutral,-0.4105693995952606,Negative
 Still remember every line from this banger,0.0,Neutral,0.0,Neutral,0.566489040851593,Positive
 We hate t series,-0.5719,Negative,-0.8,Negative,-0.4762872457504272,Negative
 Tseries:ñ,0.0,Neutral,0.0,Neutral,-0.2739343643188476,Negative
-he was high when thinking of this song,0.0,Neutral,0.16,Neutral,-0.3146016001701355,Negative
-And what nation you live in sucks and india wins,0.296,Positive,0.0454545454545454,Neutral,-0.4449883103370666,Negative
+he was high when thinking of this song,0.0,Neutral,0.16,Positive,-0.3146016001701355,Negative
+And what nation you live in sucks and india wins,0.296,Positive,0.0454545454545454,Positive,-0.4449883103370666,Negative
 He sings trash and he just ate his bit*ch laganga and the way he dances bruh,0.0,Neutral,0.0,Neutral,-0.8277210593223572,Negative
 Hate this song dudeperfect videos are way better,-0.2023,Negative,-0.15,Negative,-0.8771525621414185,Negative
 2022 guy here,0.0,Neutral,0.0,Neutral,-0.2925123274326324,Negative
@@ -456,7 +456,7 @@ Bro I’m indian,0.0,Neutral,0.0,Neutral,0.2430223375558853,Neutral
 Back here after 4 years,0.0,Neutral,0.0,Neutral,0.3602611124515533,Positive
 Nostalgia and who else remembers dab lasagna,0.0,Neutral,0.0,Neutral,0.5538291931152344,Positive
 damn.,-0.4019,Negative,0.0,Neutral,-0.3836316466331482,Negative
-I really like this,0.4201,Positive,0.2,Neutral,0.6627264022827148,Positive
+I really like this,0.4201,Positive,0.2,Positive,0.6627264022827148,Positive
 👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "proof i was here to witness the old war and this masterpiece
 lol
@@ -486,8 +486,8 @@ Gg,0.296,Positive,0.0,Neutral,0.2632448673248291,Neutral
 My 290th day on listening to Bitch Lasagna.,-0.5859,Negative,0.0,Neutral,0.6190963983535767,Positive
 This is a legendary piece of art,0.0,Neutral,1.0,Positive,0.8399256467819214,Positive
 See y’all in 20 years for the next war,-0.5994,Negative,0.0,Neutral,0.6183150410652161,Positive
-How does it feel to know that current they have almost 100 million more subs then you,0.0,Neutral,0.25,Neutral,0.2324417531490326,Neutral
-Just as funny now as it was almost 4 years ago.,0.4404,Positive,0.25,Neutral,0.7049936652183533,Positive
+How does it feel to know that current they have almost 100 million more subs then you,0.0,Neutral,0.25,Positive,0.2324417531490326,Neutral
+Just as funny now as it was almost 4 years ago.,0.4404,Positive,0.25,Positive,0.7049936652183533,Positive
 This made my day!😂😂😂,0.8398,Positive,0.0,Neutral,0.7680674195289612,Positive
 bruh so good,0.4927,Positive,0.7,Positive,0.5493509769439697,Positive
 RECOMMEND IN 2022 :d,0.7603,Positive,0.0,Neutral,0.4166027903556824,Positive
@@ -504,7 +504,7 @@ me actually vibing to this song after 4 years,0.0,Neutral,0.0,Neutral,0.25666970
 This will be an unforgetable war.,-0.5994,Negative,0.0,Neutral,-0.6641162633895874,Negative
 Go on American Sign Language closed captions. You won’t be disappointed,-0.4767,Negative,-0.2833333333333333,Negative,-0.2979983687400818,Negative
 Yooooooo that's a roast,0.0,Neutral,0.0,Neutral,-0.549824059009552,Negative
-nearly 4 years latter and YouTube thinks this is what I want to see,0.0772,Positive,0.05,Neutral,0.5974099040031433,Positive
+nearly 4 years latter and YouTube thinks this is what I want to see,0.0772,Positive,0.05,Positive,0.5974099040031433,Positive
 3 years later and this is still my jam.,0.0,Neutral,0.0,Neutral,0.7635694146156311,Positive
 i cant stop listening to this its just too good,0.5842,Positive,0.7,Positive,-0.43324676156044,Negative
 i always wonder if this is why everyone hates india 🤔,-0.4404,Negative,0.0,Neutral,0.3966724276542663,Positive
@@ -520,7 +520,7 @@ p**** lasagna p****** lasagna,0.0,Neutral,0.0,Neutral,-0.4478901922702789,Negati
 CYCLON-B TO T-SERIES,0.0,Neutral,0.0,Neutral,0.2963430285453796,Neutral
 MRBEAST LOVES IT/TSERIES HATES IT!,0.2714,Positive,0.0,Neutral,0.6412484645843506,Positive
 Легендарное видео,0.0,Neutral,1.0,Positive,0.6833119988441467,Positive
-Halo Polska ktoś żyje jeszcze xd ?,0.3818,Positive,0.1,Neutral,0.2966576814651489,Neutral
+Halo Polska ktoś żyje jeszcze xd ?,0.3818,Positive,0.1,Positive,0.2966576814651489,Neutral
 YES.,0.4019,Positive,0.0,Neutral,0.2993093132972717,Neutral
 为什么标题会是中文？,0.0,Neutral,0.0,Neutral,-0.3118791878223419,Negative
 ah im here again,0.0,Neutral,0.0,Neutral,0.4476140141487121,Positive
@@ -540,16 +540,16 @@ can someone give me context?,0.0,Neutral,0.0,Neutral,-0.2675499618053436,Negativ
 This is actually sick bro! 😂,-0.1759,Negative,-0.8928571428571429,Negative,-0.8139011263847351,Negative
 I was 4 i start watch PewDiePie,0.0,Neutral,0.0,Neutral,-0.2320990860462188,Negative
 To go am,0.0,Neutral,0.0,Neutral,0.3004400432109833,Neutral
-Who ever else is listening to this in 2022 is a real legend,0.0,Neutral,0.2,Neutral,0.7832079529762268,Positive
+Who ever else is listening to this in 2022 is a real legend,0.0,Neutral,0.2,Positive,0.7832079529762268,Positive
 BALLZ,0.0,Neutral,0.0,Neutral,0.2880571782588959,Neutral
 This is my favorite era,0.4588,Positive,0.5,Positive,0.8757275342941284,Positive
 "In 2022 the
 His has 303M views lmao",0.5994,Positive,0.6,Positive,-0.2720845639705658,Negative
-"There is a Spotify one which is higher pitched made by Dylan Locke and that to me is where its at. It has that vibe to it, makes it like peuds is about to destroy T series.... Don't get me wong PewDiePie has done amazing work here but Dylan Locke has done an amazing take on it.",0.7964,Positive,0.3125,Neutral,0.3078850209712982,Neutral
+"There is a Spotify one which is higher pitched made by Dylan Locke and that to me is where its at. It has that vibe to it, makes it like peuds is about to destroy T series.... Don't get me wong PewDiePie has done amazing work here but Dylan Locke has done an amazing take on it.",0.7964,Positive,0.3125,Positive,0.3078850209712982,Neutral
 I know this is 3 years ago but this feels nostalgic,0.0,Neutral,-0.5,Negative,0.416249930858612,Positive
 Haven’t seen this in my recommended for a while…,0.2023,Positive,0.0,Neutral,0.2820337116718292,Neutral
 "yes it's better to rarely upload but millions of views, you amazing PewDiePie",0.8402,Positive,0.4666666666666667,Positive,0.3016613721847534,Neutral
-This shit is clean,-0.2263,Negative,0.0833333333333333,Neutral,0.5861371755599976,Positive
+This shit is clean,-0.2263,Negative,0.0833333333333333,Positive,0.5861371755599976,Positive
 the ASL translation of this makes the entire experience 1000000 times funnier,0.4019,Positive,0.0,Neutral,0.5823467969894409,Positive
 I love T-Series so much he got more subscribers than PewDiePie,0.6369,Positive,0.3999999999999999,Positive,0.7653601765632629,Positive
 I wish pewds was number one again😔,0.5106,Positive,0.0,Neutral,0.2447351366281509,Neutral
@@ -561,13 +561,13 @@ everyone stand up for the YouTube anthem,0.0,Neutral,0.0,Neutral,0.4658805131912
 """teef lasagne""",-0.5859,Negative,0.0,Neutral,0.266666442155838,Neutral
 Damn its been almost 4 years. I still remember the greatest youtube war like it was yesterday.,0.0258,Neutral,1.0,Positive,-0.3641968071460724,Negative
 303 Million Views In Three Years,0.0,Neutral,0.0,Neutral,0.5119661092758179,Positive
-Gotta admit I enjoy those old times of war between the corporate against a single man,0.0258,Neutral,0.1071428571428571,Neutral,0.5336852073669434,Positive
+Gotta admit I enjoy those old times of war between the corporate against a single man,0.0258,Neutral,0.1071428571428571,Positive,0.5336852073669434,Positive
 Mama,0.0,Neutral,0.0,Neutral,0.2392323017120361,Neutral
 НАЗВАНИЕ НА РУССКОМ,0.0,Neutral,0.0,Neutral,0.2809321284294128,Neutral
-Leaving a comment to prove that I was alive to see this war.,-0.4633,Negative,0.1,Neutral,0.2766273915767669,Neutral
+Leaving a comment to prove that I was alive to see this war.,-0.4633,Negative,0.1,Positive,0.2766273915767669,Neutral
 This legend trow childhood yu gi yo line,0.0,Neutral,0.0,Neutral,0.576698899269104,Positive
-Your enemy it’s not T series for T series is next you need to pass Cocomelon first,-0.5423,Negative,0.125,Neutral,-0.4886668622493744,Negative
-"Короче, я только что съел очень вкусную польскую лапшу быстрого приготовления с сухарями,сыром и сосиской, было очень вкусно",0.0,Neutral,0.1,Neutral,0.38922119140625,Positive
+Your enemy it’s not T series for T series is next you need to pass Cocomelon first,-0.5423,Negative,0.125,Positive,-0.4886668622493744,Negative
+"Короче, я только что съел очень вкусную польскую лапшу быстрого приготовления с сухарями,сыром и сосиской, было очень вкусно",0.0,Neutral,0.1,Positive,0.38922119140625,Positive
 I didn't even realise that it was posted on my birthday🙃,0.0,Neutral,0.0,Neutral,-0.3222830593585968,Negative
 "don't worry guys, mrbeast will beat t-series for pewdiepie",0.3412,Positive,0.0,Neutral,0.3541968166828155,Positive
 3 years ago...,0.0,Neutral,0.0,Neutral,0.2346623688936233,Neutral
@@ -575,20 +575,20 @@ Cocomelon dis track when?,0.0,Neutral,0.0,Neutral,-0.3459250032901764,Negative
 1000 VIDEOS MUSIC T-SEIRES FORA SONG,0.0,Neutral,0.0,Neutral,-0.4159336388111114,Negative
 Agora você está em um desafio se você não mandar essa mensagem para 100 mil pessoas você ira morrer por um serial killer🐌,-0.836,Negative,0.0,Neutral,-0.5984541773796082,Negative
 T series does actually suck I have to say,-0.4404,Negative,0.0,Neutral,-0.4978457987308502,Negative
-Dude we’re getting old. This was 4 years ago,0.0,Neutral,0.1,Neutral,-0.3843448758125305,Negative
+Dude we’re getting old. This was 4 years ago,0.0,Neutral,0.1,Positive,-0.3843448758125305,Negative
 Great,0.6249,Positive,0.8,Positive,0.741083025932312,Positive
 When did i start watching this master piece 😵,-0.2263,Negative,0.0,Neutral,0.3060074746608734,Neutral
 This song will be here for ever. No matter what happens. Pandemics or Wars. We are always standing against T-Series.,-0.5682,Negative,0.0,Neutral,0.7923567295074463,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-Very goot,0.0,Neutral,0.2,Neutral,0.2549788355827331,Neutral
-WoW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Very goot,0.0,Neutral,0.2,Positive,0.2549788355827331,Neutral
+WoW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 O pewdipie u made this?,0.0,Neutral,0.0,Neutral,-0.3016139566898346,Negative
 I sometimes get this song stuck in my head for no reason,-0.4939,Negative,0.0,Neutral,-0.2940589785575866,Negative
 "Teef Lasange
 
 And Translate Turkish "" Shush "" to english",0.0,Neutral,0.0,Neutral,-0.2821290194988251,Negative
 Amazing song...epic war it was😂,0.4215,Positive,0.6000000000000001,Positive,0.8269726634025574,Positive
-A classic,0.0,Neutral,0.1666666666666666,Neutral,0.6505982279777527,Positive
+A classic,0.0,Neutral,0.1666666666666666,Positive,0.6505982279777527,Positive
 Pewdiepie is most subscribed chanel in my subscription,0.0,Neutral,0.5,Positive,0.4268713295459747,Positive
 My Past Self,0.0,Neutral,-0.25,Negative,0.5214187502861023,Positive
 Sorry,-0.0772,Negative,-0.5,Negative,-0.5370847582817078,Negative
@@ -596,9 +596,9 @@ Sorry,-0.0772,Negative,-0.5,Negative,-0.5370847582817078,Negative
 My wife is sick of me playing it on Spotify 😆,0.0,Neutral,-0.7142857142857143,Negative,-0.2733851969242096,Negative
 "Ah yes.
 Remember me and my friends vibing to this hit... Wait- *I have no friends.*",0.5017,Positive,0.0,Neutral,-0.2980612516403198,Negative
-The epic war everyone remembered,-0.5994,Negative,0.1,Neutral,0.707685112953186,Positive
+The epic war everyone remembered,-0.5994,Negative,0.1,Positive,0.707685112953186,Positive
 i can't believe pewds lost after this master piece,0.7237,Positive,0.0,Neutral,-0.3273818492889404,Negative
-Tseries is better than pewdiepie at least they have better music,0.7003,Positive,0.2333333333333333,Neutral,0.4407919645309448,Positive
+Tseries is better than pewdiepie at least they have better music,0.7003,Positive,0.2333333333333333,Positive,0.4407919645309448,Positive
 "Hajhitla ,jawol",0.0,Neutral,0.0,Neutral,-0.3533770143985748,Negative
 """lasanha de vadia""",-0.5859,Negative,0.0,Neutral,0.2352089583873748,Neutral
 I can’t 🤩🤩,0.0,Neutral,0.0,Neutral,0.2653056979179382,Neutral
@@ -607,7 +607,7 @@ My god Pewdiepie🤩 I’m dead💀,-0.4939,Negative,0.0,Neutral,0.7480726838111
 Lol the captions include American Sign Language 😂😂😂,0.8885,Positive,0.4,Positive,-0.3027046024799347,Negative
 It starts saying it ay 00:38,0.0,Neutral,0.0,Neutral,-0.3910587728023529,Negative
 It's been years,0.0,Neutral,0.0,Neutral,0.2876990139484405,Neutral
-"ready for english teachers in 30 years to ask for a 5 page essay explaining the theme and meaning of the symbol ""bitch lasagna""",-0.3182,Negative,0.1,Neutral,0.3930363655090332,Positive
+"ready for english teachers in 30 years to ask for a 5 page essay explaining the theme and meaning of the symbol ""bitch lasagna""",-0.3182,Negative,0.1,Positive,0.3930363655090332,Positive
 Its 2022 and it still my favorite song,0.4588,Positive,0.5,Positive,0.7979705333709717,Positive
 the best song ever,0.6369,Positive,1.0,Positive,0.9543907642364502,Positive
 "How many times pewdiepie said bitch
@@ -638,16 +638,16 @@ I agree,0.3612,Positive,0.0,Neutral,0.2849160134792328,Neutral
 "Understand: 0.1%.                 
 
 Enjoy:99.9",0.0,Neutral,0.0,Neutral,-0.3211621046066284,Negative
-HOLY SH*T!! NO DISLIKES!!?!?? THIS SONG IS EPIC THEN,0.608,Positive,0.1,Neutral,0.622551679611206,Positive
+HOLY SH*T!! NO DISLIKES!!?!?? THIS SONG IS EPIC THEN,0.608,Positive,0.1,Positive,0.622551679611206,Positive
 Why they recommended me this tf,0.2023,Positive,0.0,Neutral,0.5152782797813416,Positive
 Who's here on 2022,0.0,Neutral,0.0,Neutral,0.3252750337123871,Neutral
 pls give this comment 69k likes,0.4767,Positive,0.0,Neutral,-0.3269104063510895,Negative
 Hey tu non insultare le lasagne perchè io sono italiano,0.4023,Positive,0.0,Neutral,0.3122343719005584,Neutral
 my guy went all out and added Indian subtitles 💀💀,0.0,Neutral,0.0,Neutral,-0.4106257557868957,Negative
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
-Comeback is coming... YouTube has streaming rules. Make sure you know them. Let's make EVERY SINGLE view count this time & stop the mass deletions,0.0258,Neutral,0.2142857142857143,Neutral,-0.302241563796997,Negative
+Comeback is coming... YouTube has streaming rules. Make sure you know them. Let's make EVERY SINGLE view count this time & stop the mass deletions,0.0258,Neutral,0.2142857142857143,Positive,-0.302241563796997,Negative
 Fortinait le babaji,0.0,Neutral,0.0,Neutral,0.3738469183444977,Positive
-"honestly i feel bad for t-series cos he dedicated his life to continue his father's legacy. his father earned lots of money then someone got jealous and.. ""put ketchup on his chest and he passed away. so t-series is now successful, this is just not right man sorry to say",0.5457,Positive,0.0014285714285714,Neutral,-0.4050504565238952,Negative
+"honestly i feel bad for t-series cos he dedicated his life to continue his father's legacy. his father earned lots of money then someone got jealous and.. ""put ketchup on his chest and he passed away. so t-series is now successful, this is just not right man sorry to say",0.5457,Positive,0.0014285714285714,Positive,-0.4050504565238952,Negative
 Garbitch is t series,0.0,Neutral,0.0,Neutral,0.26567143201828,Neutral
 *can't wait for Joergen to see this*,0.0,Neutral,0.0,Neutral,0.280734121799469,Neutral
 ncnxc,0.0,Neutral,0.0,Neutral,0.2512345314025879,Neutral
@@ -658,18 +658,18 @@ but...
 
 i still this song",-0.1406,Negative,0.8,Positive,-0.2297126501798629,Negative
 Youtube decided I should watch this,0.0,Neutral,0.0,Neutral,-0.2811982333660126,Negative
-And I am surprised T -series never replied,0.2263,Positive,0.1,Neutral,-0.4232639372348785,Negative
+And I am surprised T -series never replied,0.2263,Positive,0.1,Positive,-0.4232639372348785,Negative
 Do you need back up from Mr beast again,0.0,Neutral,0.0,Neutral,0.3116485178470611,Neutral
-"Chỉ cần Đức Phúc hát ballad thì dù buồn hay vui ĐP cũng truyền tải cảm xúc của bài hát rất tốt. Bài buồn thì nghe đúng kiểu tự sự, đau khổ, nghe là muốn khóc. Còn bài vui thì lại nhẹ nhàng, ấm áp, chân thành nghe là muốn yêu❤️",0.8913,Positive,0.245,Neutral,0.392768383026123,Positive
+"Chỉ cần Đức Phúc hát ballad thì dù buồn hay vui ĐP cũng truyền tải cảm xúc của bài hát rất tốt. Bài buồn thì nghe đúng kiểu tự sự, đau khổ, nghe là muốn khóc. Còn bài vui thì lại nhẹ nhàng, ấm áp, chân thành nghe là muốn yêu❤️",0.8913,Positive,0.245,Positive,0.392768383026123,Positive
 T-series is real shit,-0.5574,Negative,-0.3,Negative,-0.7151663899421692,Negative
 I knew I'd be back again,0.0,Neutral,0.0,Neutral,-0.3157558739185333,Negative
 "Back after 3 years, all the great memories",0.6249,Positive,0.4,Positive,0.8074877858161926,Positive
-Let’s just say he put so much effort I felt strong after this song,0.5106,Positive,0.3166666666666666,Neutral,0.588833749294281,Positive
+Let’s just say he put so much effort I felt strong after this song,0.5106,Positive,0.3166666666666666,Positive,0.588833749294281,Positive
 Монгол America,0.0,Neutral,0.0,Neutral,0.2308186292648315,Neutral
 This is a legend,0.0,Neutral,0.0,Neutral,0.7616097927093506,Positive
 I like how the captions literally has every language in existence,0.3612,Positive,0.0,Neutral,0.5239867568016052,Positive
 here in 2022??,0.0,Neutral,0.0,Neutral,-0.4313605427742004,Negative
-still better than half the shit kids listen to now,0.7845,Positive,0.0444444444444444,Neutral,0.4370004534721374,Positive
+still better than half the shit kids listen to now,0.7845,Positive,0.0444444444444444,Positive,0.4370004534721374,Positive
 iconic,0.0,Neutral,0.5,Positive,0.7523034811019897,Positive
 ?,0.0,Neutral,0.0,Neutral,-0.3614960610866546,Negative
 2022❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral

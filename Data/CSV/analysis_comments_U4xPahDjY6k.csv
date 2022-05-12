@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 YEEHAWWWWWW,0.0,Neutral,0.0,Neutral,-0.3097223043441772,Negative
 Please hindi song,0.3182,Positive,0.0,Neutral,-0.2940126061439514,Negative
-Gww nyasarr cokk orang indo sendirii mana 2022 lagi,0.4215,Positive,0.1,Neutral,-0.4273017346858978,Negative
+Gww nyasarr cokk orang indo sendirii mana 2022 lagi,0.4215,Positive,0.1,Positive,-0.4273017346858978,Negative
 this sounds fire when i put 1.25 speed,-0.34,Negative,0.0,Neutral,-0.5490427017211914,Negative
 "YEEHAW
 YEEHAW",0.0,Neutral,0.0,Neutral,-0.2532620429992676,Negative
@@ -71,12 +71,12 @@ Hats off lil nas X for such a beautiful creation 😍❤️,0.8402,Positive,0.42
 6,0.0,Neutral,0.0,Neutral,0.3716466426849365,Positive
 cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 I have horrible memories of my past,-0.5423,Negative,-0.625,Negative,-0.5962200164794922,Negative
-that's really old🤠😎 2022,0.4588,Positive,0.2,Neutral,0.3477802872657776,Positive
+that's really old🤠😎 2022,0.4588,Positive,0.2,Positive,0.3477802872657776,Positive
 Horses r flash I would buy horse even if I could sell lambo listen this song untill die and sub don't forget to bell and like,-0.1862,Negative,0.0,Neutral,-0.4864549338817596,Negative
 And Piachu Says he will here it one day all ya i know you will die me too,-0.5994,Negative,0.0,Neutral,0.4289299845695495,Positive
 Pikachu says wow its good  me too,0.7717,Positive,0.3999999999999999,Positive,0.6845186948776245,Positive
-I love the part of 30 second vidie,0.6369,Positive,0.25,Neutral,0.6461570262908936,Positive
-This never gets old,0.0,Neutral,0.1,Neutral,0.3099076449871063,Neutral
+I love the part of 30 second vidie,0.6369,Positive,0.25,Positive,0.6461570262908936,Positive
+This never gets old,0.0,Neutral,0.1,Positive,0.3099076449871063,Neutral
 Super song 👍,0.5994,Positive,0.3333333333333333,Positive,0.7927128672599792,Positive
 It’s not a big thing but it’s a big big problem and it’s just me,-0.5499,Negative,0.0,Neutral,0.5183689594268799,Positive
 "Pov: Your typing ""yeehaw""",0.0,Neutral,0.0,Neutral,0.2545442879199981,Neutral
@@ -159,7 +159,7 @@ YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 "Legends are watching this song in 2022😌😌
 
 It's legendary song",0.6369,Positive,1.0,Positive,0.7268116474151611,Positive
-Old Town road 🛣️never gets Old🔥⚡,-0.34,Negative,0.1,Neutral,0.4241726100444793,Positive
+Old Town road 🛣️never gets Old🔥⚡,-0.34,Negative,0.1,Positive,0.4241726100444793,Positive
 Me on my slow 300cc bike vibin' to this song rp'in like Its a horse is the best feeling evet 🤠🤠🤠🤠🤠,0.802,Positive,0.35,Positive,0.6634467840194702,Positive
 Saving this for myself😌💅 0:21,0.3818,Positive,0.0,Neutral,0.3431189060211181,Positive
 "I searched for gold , I found diamond",0.34,Positive,0.0,Neutral,0.2434456050395965,Neutral
@@ -171,7 +171,7 @@ horse,0.0,Neutral,0.0,Neutral,0.2984455823898315,Neutral
 "My favourite line : ""RIDIN ON HORSE"" 😲",0.3818,Positive,0.0,Neutral,0.6903523206710815,Positive
 https://youtu.be/U4xPahDjY6k,0.0,Neutral,0.0,Neutral,-0.2280084043741226,Negative
 1:40,0.0,Neutral,0.0,Neutral,-0.2734915316104889,Negative
-holli shit so hoooot,-0.5574,Negative,0.0249999999999999,Neutral,-0.3171260356903076,Negative
+holli shit so hoooot,-0.5574,Negative,0.0249999999999999,Positive,-0.3171260356903076,Negative
 "Yeah, I'm gonna take my horse
 To the old town road
 I'm gonna ride 'til I can't no more
@@ -359,7 +359,7 @@ Volim te Andro,0.6369,Positive,0.5,Positive,0.2360700666904449,Neutral
 Eèè22è,0.0,Neutral,0.0,Neutral,0.2418380081653595,Neutral
 Lil Nas X was right I couldn't whip my Porsche so I sold it to whip Horse instead*I don't mean beating a horse*,0.357,Positive,-0.0133928571428571,Negative,-0.3329188227653503,Negative
 🤠🤠🤠🤠🤠🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Still loving this song. I’m listening to this while playing Red Dead Redemption. I always have a good time.😎🤠,0.743,Positive,0.2749999999999999,Neutral,0.6785993576049805,Positive
+Still loving this song. I’m listening to this while playing Red Dead Redemption. I always have a good time.😎🤠,0.743,Positive,0.2749999999999999,Positive,0.6785993576049805,Positive
 I'm gonna yeet till I can't no more,0.2235,Positive,-0.25,Negative,-0.2616231441497803,Negative
 "*Siempre* Babes.geilsex.uno   
 *los  mortales abian apreciado tan hermosa mujer*  .
@@ -379,12 +379,12 @@ OOOOpppp😁😁,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😎😁,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 YEEHAW😍😘,0.7003,Positive,0.0,Neutral,0.3085779249668121,Neutral
 YEE HAWW,0.0,Neutral,0.0,Neutral,-0.306428998708725,Negative
-Tôi là người vietnam 🇻🇳 và tôi rát thích bài music này,0.4201,Positive,0.2,Neutral,0.5747091174125671,Positive
+Tôi là người vietnam 🇻🇳 và tôi rát thích bài music này,0.4201,Positive,0.2,Positive,0.5747091174125671,Positive
 Tatti,0.0,Neutral,0.0,Neutral,0.2612645328044891,Neutral
 0:26 next level line 🤩,0.0,Neutral,0.0,Neutral,-0.479199469089508,Negative
 🤠🤠🤠🤠🤠🤠🤠🤠🤠🖖,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 YEEHAE,0.0,Neutral,0.0,Neutral,0.2479923218488693,Neutral
-when i listened first time i thought first lyric is ‘take my whores to the hotel room’,-0.6124,Negative,0.25,Neutral,-0.3094518482685089,Negative
+when i listened first time i thought first lyric is ‘take my whores to the hotel room’,-0.6124,Negative,0.25,Positive,-0.3094518482685089,Negative
 Indians attendence here 🤚,0.4939,Positive,0.0,Neutral,0.3519489169120788,Positive
 Legends Listening this for making a codm motage,0.0,Neutral,0.0,Neutral,0.6054155230522156,Positive
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
@@ -398,7 +398,7 @@ Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 This song froce to play free fire 🔥🔥,-0.128,Negative,0.4,Positive,0.5465489625930786,Positive
 This happens when you play RDR2 for too long…,0.34,Positive,0.0,Neutral,0.2925078272819519,Neutral
 killer,-0.6486,Negative,0.0,Neutral,-0.273325115442276,Negative
-Yeah I am gonna take my horse to th old Town road,0.296,Positive,0.1,Neutral,0.2710921466350555,Neutral
+Yeah I am gonna take my horse to th old Town road,0.296,Positive,0.1,Positive,0.2710921466350555,Neutral
 """Old Town Road""-----LYRICS ))
 
 
@@ -448,7 +448,7 @@ NTTN :>",0.8793,Positive,-0.0256410256410256,Negative,-0.2966038882732391,Negati
 Oh..............?????????????? can t discsryb,0.0,Neutral,0.0,Neutral,-0.5238059759140015,Negative
 "It's January 2022, Let's see how many legends are still watching this masterpiece💚",0.8772,Positive,0.5,Positive,0.3718180656433105,Positive
 0:24,0.0,Neutral,0.0,Neutral,-0.4557176530361175,Negative
-This song never gets old by the way lets get a yeehaa on the comments 😉,0.0,Neutral,0.1,Neutral,0.2930702865123749,Neutral
+This song never gets old by the way lets get a yeehaa on the comments 😉,0.0,Neutral,0.1,Positive,0.2930702865123749,Neutral
 I'm listening to this masterpiece till I can't no more,0.7759,Positive,-0.25,Negative,0.5926715731620789,Positive
 "https://youtu.be/rpx4imnqfgQ 
 Love from 🇳🇵",0.6369,Positive,0.5,Positive,0.4889831244945526,Positive
@@ -464,11 +464,11 @@ i wanna become a yankee,0.0,Neutral,0.0,Neutral,0.5194430351257324,Positive
 Meehaw,0.0,Neutral,0.0,Neutral,0.2662905156612396,Neutral
 Yeeeahaw,0.0,Neutral,0.0,Neutral,0.2756462693214416,Neutral
 Vilas really!!!,0.0,Neutral,0.390625,Positive,0.5213645100593567,Positive
-THIS IS LITTERLY THE ONLY THING I LISTEN TO NO CAP RIGHT KNOW WISH I HAD A HORSE 🐴,0.128,Positive,0.1428571428571428,Neutral,-0.4237677454948425,Negative
+THIS IS LITTERLY THE ONLY THING I LISTEN TO NO CAP RIGHT KNOW WISH I HAD A HORSE 🐴,0.128,Positive,0.1428571428571428,Positive,-0.4237677454948425,Negative
 L=LEGEND,0.0,Neutral,0.0,Neutral,0.3377715647220611,Positive
 Bagus Bang,0.4404,Positive,0.7,Positive,-0.3049892485141754,Negative
 "Imagine ""worlds gonna end and you are listening this masterpiece""",0.7073,Positive,0.0,Neutral,0.7658528089523315,Positive
-Which old town,0.0,Neutral,0.1,Neutral,0.2280360758304596,Neutral
+Which old town,0.0,Neutral,0.1,Positive,0.2280360758304596,Neutral
 *YEEHAW*,0.0,Neutral,0.0,Neutral,-0.2575793862342834,Negative
 FF,0.4215,Positive,0.0,Neutral,0.2389670014381408,Neutral
 😔😔😔😔😔😔,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -499,7 +499,7 @@ very cool song👍,0.3804,Positive,0.4549999999999999,Positive,0.740605294704437
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Im gonna ride till i can't no more 😏,0.2235,Positive,-0.25,Negative,0.3507924079895019,Positive
 In 2022,0.0,Neutral,0.0,Neutral,0.3034122288227081,Neutral
-"it s about drugs, horse and lean haha",0.4588,Positive,0.2,Neutral,-0.3287902176380157,Negative
+"it s about drugs, horse and lean haha",0.4588,Positive,0.2,Positive,-0.3287902176380157,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 شكرا مرتضى,0.3612,Positive,0.0,Neutral,0.3971326649188995,Positive
 I am Missing the old Lil nax,-0.296,Negative,-0.05,Negative,-0.2826092839241028,Negative
@@ -508,7 +508,7 @@ I am Missing the old Lil nax,-0.296,Negative,-0.05,Negative,-0.2826092839241028,
 0:12,0.0,Neutral,0.0,Neutral,-0.4774480164051056,Negative
 Riding a horse in Minecraft while listening to this song is addicting,0.0,Neutral,0.0,Neutral,0.4675887823104858,Positive
 *hi*,0.0,Neutral,0.0,Neutral,-0.3076238334178924,Negative
-I like this song very very much,0.3612,Positive,0.26,Neutral,0.6451005935668945,Positive
+I like this song very very much,0.3612,Positive,0.26,Positive,0.6451005935668945,Positive
 😎😎😎😎😎,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 *YEEHAW*,0.0,Neutral,0.0,Neutral,-0.2575793862342834,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
@@ -532,23 +532,23 @@ yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ☺️☺️☺️☺️☺️🖤❤️❤️⚡✨,0.9661,Positive,0.0,Neutral,0.3085779249668121,Neutral
 This song gives me RDR2 vibes,0.0,Neutral,0.0,Neutral,0.4277217984199524,Positive
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-My little brother likes this he is listening 🎶  to it he looks serious lol,0.6151,Positive,0.0930555555555556,Neutral,0.388608455657959,Positive
+My little brother likes this he is listening 🎶  to it he looks serious lol,0.6151,Positive,0.0930555555555556,Positive,0.388608455657959,Positive
 Comment ca va?,0.0,Neutral,0.0,Neutral,0.2446291595697403,Neutral
 0:27,0.0,Neutral,0.0,Neutral,-0.4709107279777527,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 I love this song  ❤,0.8555,Positive,0.5,Positive,0.8624796271324158,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
-horse is ready where the old town road. : ),0.3612,Positive,0.2666666666666666,Neutral,0.4916005432605743,Positive
+horse is ready where the old town road. : ),0.3612,Positive,0.2666666666666666,Positive,0.4916005432605743,Positive
 Isn,0.0,Neutral,0.0,Neutral,0.2742517292499542,Neutral
 YEEEHAW,0.4019,Positive,0.0,Neutral,0.2588040828704834,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-Never gets! Old 🔥,0.3244,Positive,0.1,Neutral,-0.6879356503486633,Negative
+Never gets! Old 🔥,0.3244,Positive,0.1,Positive,-0.6879356503486633,Negative
 "Lil Nas X then: *Asking for a horse*
 Lil Nas X now: *Asking for Satan's Onlyfans*",0.0,Neutral,0.0,Neutral,-0.4068070948123932,Negative
 I love this song but most boys like it so much,0.7405,Positive,0.3999999999999999,Positive,0.5068635940551758,Positive
 good but yaaaaa,0.2382,Positive,0.7,Positive,0.5290438532829285,Positive
 Yeah haa,0.296,Positive,0.0,Neutral,-0.2318901121616363,Negative
-"I like this song not all only the yeah, I'M gonna take my horde to the old town road i sing in school my friends say i am gonna take my horse to the school🤣",0.875,Positive,0.05,Neutral,0.5605087876319885,Positive
+"I like this song not all only the yeah, I'M gonna take my horde to the old town road i sing in school my friends say i am gonna take my horse to the school🤣",0.875,Positive,0.05,Positive,0.5605087876319885,Positive
 Yeahhhh,0.0,Neutral,0.0,Neutral,-0.3588377237319946,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 YEEAHW,0.0,Neutral,0.0,Neutral,-0.2592242360115051,Negative
@@ -558,15 +558,15 @@ Iove it,0.6369,Positive,0.5,Positive,0.2793601155281067,Neutral
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 This song is cool it touched my heart ❤ 💙 💜 💖 💗 💘 ❤ 💙,0.9928,Positive,0.35,Positive,0.717827558517456,Positive
 YEERHAW,0.0,Neutral,0.0,Neutral,0.254303365945816,Neutral
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 HeeeeHaww🤠🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Что блядь значит Lean all in my bladder,-0.5423,Negative,-0.35625,Negative,-0.2933894991874695,Negative
 "I like, 😋",0.3612,Positive,0.0,Neutral,0.4404457509517669,Positive
 Bad,-0.5423,Negative,-0.6999999999999998,Negative,-0.6820114850997925,Negative
-Old Town ROAD. SONG.,0.0,Neutral,0.1,Neutral,0.3292198777198791,Neutral
+Old Town ROAD. SONG.,0.0,Neutral,0.1,Positive,0.3292198777198791,Neutral
 0:27,0.0,Neutral,0.0,Neutral,-0.4709107279777527,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-Old Town  Road,0.0,Neutral,0.1,Neutral,0.3176690936088562,Neutral
+Old Town  Road,0.0,Neutral,0.1,Positive,0.3176690936088562,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 I was searching this song for an month  lol 😂😂,0.8225,Positive,0.8,Positive,-0.3620433509349823,Negative
 Horse=bike for me😄😄,0.875,Positive,0.0,Neutral,0.38898366689682,Positive
@@ -575,7 +575,7 @@ Brug😂( ͡~ ͜ʖ ͡°),0.4404,Positive,0.0,Neutral,0.2445074319839477,Neutral
 I sold my G19 for a revolver,0.0,Neutral,0.0,Neutral,0.3171596229076385,Neutral
 I do not like lil nas,-0.2755,Negative,0.0,Neutral,-0.456466794013977,Negative
 My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
-old time road hahahaha,0.0,Neutral,0.15,Neutral,0.2481251806020736,Neutral
+old time road hahahaha,0.0,Neutral,0.15,Positive,0.2481251806020736,Neutral
 31,0.0,Neutral,0.0,Neutral,0.2470768243074417,Neutral
 The song of cowboy,0.0,Neutral,0.0,Neutral,0.3600012063980102,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
@@ -597,7 +597,7 @@ Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 SUCH ALEGEND WROTE HIS SONG AND NOTHING TO SAY ABOUT THE SINGER,0.0,Neutral,0.0,Neutral,-0.5285527110099792,Negative
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-old Town roud,0.0,Neutral,0.1,Neutral,0.2331117689609527,Neutral
+old Town roud,0.0,Neutral,0.1,Positive,0.2331117689609527,Neutral
 Yeehaw yeehaw,0.0,Neutral,0.0,Neutral,-0.2532620429992676,Negative
 The old 1 Ago!!  I love you  😍 sound,0.8309,Positive,0.3520833333333333,Positive,0.8514938950538635,Positive
 Está rola es lo maximo ✨💯,0.7579,Positive,1.0,Positive,0.506289541721344,Positive
@@ -610,7 +610,7 @@ Nice song 🔥🔥,-0.25,Negative,0.6,Positive,0.4506402909755707,Positive
 🤠🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 😄😄,0.875,Positive,0.0,Neutral,0.3085779249668121,Neutral
-old town road,0.0,Neutral,0.1,Neutral,0.3176690936088562,Neutral
+old town road,0.0,Neutral,0.1,Positive,0.3176690936088562,Neutral
 I come from Vietnam,0.0,Neutral,0.0,Neutral,-0.3246261179447174,Negative
 Yeeeeeeeeehaw,0.0,Neutral,0.0,Neutral,-0.2626262903213501,Negative
 WOWOWOWOW!!! THIS A GOOD SONG,0.5826,Positive,0.7,Positive,0.588005006313324,Positive
@@ -621,7 +621,7 @@ YEEEEEEEEHAAAAW🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🙅💁🤷💁🤷,0.5372,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😂😂😂😂😂😂,0.9468,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I liked when lil Nas x wasn't to graphical.,0.4215,Positive,0.6,Positive,0.3366767466068268,Positive
-This is the type of song that never gets old lol..😁,0.17,Positive,0.1,Neutral,-0.3676985800266266,Negative
+This is the type of song that never gets old lol..😁,0.17,Positive,0.1,Positive,-0.3676985800266266,Negative
 I sold my car and bought a donkey 🐎,0.0,Neutral,0.0,Neutral,-0.4789150357246399,Negative
 Yeehaw!!!!!,0.0,Neutral,0.0,Neutral,-0.4230833351612091,Negative
 Riding on my horse horse,0.0,Neutral,0.0,Neutral,0.501275897026062,Positive
@@ -665,7 +665,7 @@ Yeehaw",0.0,Neutral,0.0,Neutral,-0.2632480263710022,Negative
 HOW TO face,0.0,Neutral,0.0,Neutral,0.4742902815341949,Positive
 When he was a man,0.0,Neutral,0.0,Neutral,0.2284262329339981,Neutral
 And also YEEHAW,0.0,Neutral,0.0,Neutral,-0.228743627667427,Negative
-I like lyric,0.3612,Positive,0.25,Neutral,0.5125231146812439,Positive
+I like lyric,0.3612,Positive,0.25,Positive,0.5125231146812439,Positive
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Lil nas is one of my fav singer,0.4588,Positive,0.0,Neutral,0.5883303880691528,Positive
 💯🙏,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -676,13 +676,13 @@ Opion:this is the greatest song of Lil Nas X,0.6369,Positive,1.0,Positive,0.6300
 Came here from industry baby",0.0,Neutral,-0.05,Negative,0.2901928126811981,Neutral
 YEEHAW😉,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🇲🇦,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-From Nasira. A like this song make me mové old the day please 600 of likes and 100 of comest and old tonw World lefe!!!!!!!,0.8302,Positive,0.2884185791015625,Neutral,0.4900931119918823,Positive
+From Nasira. A like this song make me mové old the day please 600 of likes and 100 of comest and old tonw World lefe!!!!!!!,0.8302,Positive,0.2884185791015625,Positive,0.4900931119918823,Positive
 Yee haw,0.0,Neutral,0.0,Neutral,0.3008244931697845,Neutral
 I'm gana take my horse to the hotel rowl,0.0,Neutral,0.0,Neutral,0.2297040224075317,Neutral
 Can i use dis video pls,0.0772,Positive,0.0,Neutral,0.3317895233631134,Positive
 YYYYYYYYYYHAAAAAAAAAAAAAAAAW,0.0,Neutral,0.0,Neutral,-0.3274782001972198,Negative
 I'm gonna take horse 🐎 to the  old town road I'm gonna ride til I can't no more,0.2235,Positive,-0.075,Negative,0.3019207417964935,Neutral
-❤❤❤...YEEHAW...All the time i ride a horse i listen to this..❤❤❤.It gives me energy to go fast with the horse....❤❤❤,0.9867,Positive,0.2,Neutral,0.5899257659912109,Positive
+❤❤❤...YEEHAW...All the time i ride a horse i listen to this..❤❤❤.It gives me energy to go fast with the horse....❤❤❤,0.9867,Positive,0.2,Positive,0.5899257659912109,Positive
 "Mom:take off your phone you have your phone more than 5hours!
 Me:i am listening song wait more 5hours this song is legendary!and i cant stop listening this song❤️❤️",0.3553,Positive,0.5625,Positive,-0.5150987505912781,Negative
 ;,0.0,Neutral,0.0,Neutral,0.2667533755302429,Neutral
@@ -690,14 +690,14 @@ Me:i am listening song wait more 5hours this song is legendary!and i cant stop l
 "old time road lol <iframe width=""640"" height=""360"" src=""https://www.youtube.com/embed/U4xPahDjY6k"" title=""YouTube video player"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",0.4215,Positive,0.45,Positive,0.2398513257503509,Neutral
 old *TIME* road?? lol there is a mistake https://youtu.be/U4xPahDjY6k?t=6,0.2359,Positive,0.45,Positive,-0.3989790678024292,Negative
 best,0.6369,Positive,1.0,Positive,0.7400628328323364,Positive
-Old t,0.0,Neutral,0.1,Neutral,0.2612814009189605,Neutral
+Old t,0.0,Neutral,0.1,Positive,0.2612814009189605,Neutral
 Yeeeeeeeeeeee hooooooooooo,0.0,Neutral,0.0,Neutral,-0.269028753042221,Negative
 "listened this while making a coffee, it was a good coffee",0.4404,Positive,0.7,Positive,0.4094991087913513,Positive
 These were the years where Lil Nas X weren't looking like a Gay,-0.2755,Negative,0.4166666666666667,Positive,-0.234280839562416,Negative
 no,-0.296,Negative,0.0,Neutral,-0.531922459602356,Negative
 *YEEHAW*,0.0,Neutral,0.0,Neutral,-0.2575793862342834,Negative
 Yer haw,0.0,Neutral,0.0,Neutral,0.2712021768093109,Neutral
-0:06 old town road not old time road :)),0.0,Neutral,0.1833333333333333,Neutral,-0.4396950602531433,Negative
+0:06 old town road not old time road :)),0.0,Neutral,0.1833333333333333,Positive,-0.4396950602531433,Negative
 "1 word: ""masterpiece""",0.6249,Positive,0.0,Neutral,0.6462092995643616,Positive
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 I can't comment to you @Shadow Music,0.0,Neutral,0.0,Neutral,-0.3443168103694916,Negative
@@ -706,32 +706,32 @@ i subscribed all,0.0,Neutral,0.0,Neutral,0.453956127166748,Positive
 ah good old 2019,0.4404,Positive,0.3999999999999999,Positive,0.4551362097263336,Positive
 Biliber,0.0,Neutral,0.0,Neutral,0.2750653326511383,Neutral
 YEEHAWĞĞ,0.0,Neutral,0.0,Neutral,0.2450510710477829,Neutral
-I think it is the real music,0.0,Neutral,0.2,Neutral,0.4473963975906372,Positive
+I think it is the real music,0.0,Neutral,0.2,Positive,0.4473963975906372,Positive
 "If this is played at my funeral, i am coming back to life to turn it even louder.",-0.0258,Neutral,0.0,Neutral,0.239156112074852,Neutral
-Never grow old beacuse old but gold,0.0,Neutral,0.1,Neutral,-0.2368019074201584,Negative
+Never grow old beacuse old but gold,0.0,Neutral,0.1,Positive,-0.2368019074201584,Negative
 =),0.4939,Positive,0.5,Positive,0.3884516656398773,Positive
-Wait hold up this song is only 2 years old I thought it was released like 10 years ago,0.3612,Positive,0.05,Neutral,-0.5272372961044312,Negative
+Wait hold up this song is only 2 years old I thought it was released like 10 years ago,0.3612,Positive,0.05,Positive,-0.5272372961044312,Negative
 I go 2 school with a horse aft listening 2 this song,0.0,Neutral,0.0,Neutral,0.2487811893224716,Neutral
 "XBox live be like: 
 ""I'm gonna take yo' mom to the hotel room, i'm gonna riide till i can't no more.""",0.5248,Positive,-0.0568181818181818,Negative,0.2563689351081848,Neutral
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-cool old town thats cool then my house in minecrat,0.5574,Positive,0.2666666666666666,Neutral,0.4127871692180633,Positive
-i like old town road song,0.3612,Positive,0.1,Neutral,0.4569995105266571,Positive
+cool old town thats cool then my house in minecrat,0.5574,Positive,0.2666666666666666,Positive,0.4127871692180633,Positive
+i like old town road song,0.3612,Positive,0.1,Positive,0.4569995105266571,Positive
 How many times i listen this song i dont know...its sick...never gets old!!!,0.0,Neutral,0.34765625,Positive,-0.4880687892436981,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-this brings back old memories with my bestfriend we love this song,0.6369,Positive,0.1999999999999999,Neutral,0.8302732110023499,Positive
+this brings back old memories with my bestfriend we love this song,0.6369,Positive,0.1999999999999999,Positive,0.8302732110023499,Positive
 me when i listen to this:,0.0,Neutral,0.0,Neutral,0.2388582527637481,Neutral
 Huh,0.0,Neutral,0.0,Neutral,-0.3607461750507355,Negative
 "When i ride a horse TILL I CAN""t no morW",0.2235,Positive,-0.25,Negative,0.3822298347949981,Positive
 yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Once I listen to this song... I can't stop myself anymore-,0.2235,Positive,0.0,Neutral,-0.3572127223014831,Negative
-Esta canción solo la conozco gracias a mi profe de inglés el profe kenny es muy buena onda,0.6697,Positive,0.16375,Neutral,0.4400066435337066,Positive
+Esta canción solo la conozco gracias a mi profe de inglés el profe kenny es muy buena onda,0.6697,Positive,0.16375,Positive,0.4400066435337066,Positive
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 https://youtube.com/shorts/CZ6Ohh259LQ?feature=share,0.0,Neutral,0.0,Neutral,0.2535692155361175,Neutral
 Like song,0.3612,Positive,0.0,Neutral,0.2694028913974762,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-lil nas x first music in which he was not a gay,0.0,Neutral,0.0208333333333333,Neutral,-0.23211370408535,Negative
+lil nas x first music in which he was not a gay,0.0,Neutral,0.0208333333333333,Positive,-0.23211370408535,Negative
 YEEHAW!,0.0,Neutral,0.0,Neutral,-0.3094069063663482,Negative
 Who camed here bcz bts got a chance to sing and then you searched,0.25,Positive,0.0,Neutral,-0.2912188470363617,Negative
 Rambo last blood,0.0,Neutral,0.0,Neutral,-0.3441258370876312,Negative
@@ -743,13 +743,13 @@ YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Me: Spend a lot of money on your patience",0.0,Neutral,0.0,Neutral,0.2512940168380737,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 like plz,0.4215,Positive,0.0,Neutral,0.2789543867111206,Neutral
 YEEHAW🐎,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Siapa yg Pake Lagu Ini di Indonesia yg Lagu meme uh uh Saya hadir,0.0,Neutral,0.0,Neutral,-0.4423967599868774,Negative
 Anyone 2021?,0.0,Neutral,0.0,Neutral,-0.5728237628936768,Negative
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
-Never gets old! 🔥,0.3244,Positive,0.125,Neutral,0.4961526095867157,Positive
+Never gets old! 🔥,0.3244,Positive,0.125,Positive,0.4961526095867157,Positive
 I'm here because of RM💜,0.6369,Positive,0.0,Neutral,0.4331879615783691,Positive
 yeeehawww,0.0,Neutral,0.0,Neutral,-0.3079225718975067,Negative
 "sis: HOW MANY TIMES ARE YOU GOING TO LISTEN TO THAT SONG!!!!!!!!
@@ -812,7 +812,7 @@ I got the",0.6077,Positive,-0.0848484848484848,Negative,-0.4181476533412933,Nega
 Can i have a shoutout,0.0,Neutral,0.0,Neutral,-0.3386235535144806,Negative
 I love this song so much,0.6369,Positive,0.35,Positive,0.8750550150871277,Positive
 When lil nas X was actually cool,0.3182,Positive,0.35,Positive,0.2529351711273193,Neutral
-I miss the old lil nas 😔,-0.0772,Negative,0.1,Neutral,0.3160614669322967,Neutral
+I miss the old lil nas 😔,-0.0772,Negative,0.1,Positive,0.3160614669322967,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Got curious about lil Nas' since idk the guy. Then i keep seeing how this song defined lil Nas' talent and decided to listen now. Maybe it's just not my taste. Overrated maybe.,0.5719,Positive,-0.1,Negative,-0.4325239360332489,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
@@ -821,7 +821,7 @@ Yeeehawwwwwwwww,0.0,Neutral,0.0,Neutral,-0.3479849398136139,Negative
 This song is stuck in my mind,-0.25,Negative,0.0,Neutral,-0.5243798494338989,Negative
 Ride till i cant no more...........  ALABAMA MOMENT,0.2235,Positive,-0.25,Negative,0.4439796209335327,Positive
 Yeehaw,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-"YEAH, I,M GONNA TAKE MY HORSE TO THE OLD TOWN ROAD",0.296,Positive,0.1,Neutral,-0.2741822004318237,Negative
+"YEAH, I,M GONNA TAKE MY HORSE TO THE OLD TOWN ROAD",0.296,Positive,0.1,Positive,-0.2741822004318237,Negative
 Damm op lyrics 🥰😍,0.8834,Positive,0.0,Neutral,0.25604048371315,Neutral
 Verry good morning 🌅🌄🌄🌄🌄🌄🌅🌅🌅🌅🌅🌅,0.4404,Positive,0.7,Positive,0.3880612850189209,Positive
 *YEEHAW*,0.0,Neutral,0.0,Neutral,-0.2575793862342834,Negative
@@ -836,14 +836,14 @@ YEEEEHAWWW,0.0,Neutral,0.0,Neutral,-0.2643178403377533,Negative
 🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
 sure,0.3182,Positive,0.5,Positive,0.3544444143772125,Positive
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
-It was such an easy,0.4404,Positive,0.2166666666666666,Neutral,0.670478880405426,Positive
+It was such an easy,0.4404,Positive,0.2166666666666666,Positive,0.670478880405426,Positive
 i just hear cheated on ma baby is 2 time '-',-0.5106,Negative,0.0,Neutral,-0.3992351293563843,Negative
 i don hear car 🗿🗿,0.0,Neutral,0.0,Neutral,-0.2740678489208221,Negative
 YEEEEEEEHHHHHAW,0.0,Neutral,0.0,Neutral,-0.2833459675312042,Negative
 This sux,-0.3612,Negative,0.0,Neutral,0.3999936580657959,Positive
 SAUDADES DO LIL DE 2019 :(,-0.6408,Negative,-0.75,Negative,0.3814935088157654,Positive
 living  like a rockstar 👁👄👁                                                          NOt mE,0.3612,Positive,0.0,Neutral,-0.4843869805335998,Negative
-i thought he was straight.,0.2263,Positive,0.2,Neutral,-0.3774154484272003,Negative
+i thought he was straight.,0.2263,Positive,0.2,Positive,-0.3774154484272003,Negative
 i like this <3 <3 <3,0.8928,Positive,1.0,Positive,0.4970690608024597,Positive
 "Can't nobody tell me nothin
 You can't tell me nothin 💖",0.7506,Positive,0.0,Neutral,-0.4872933030128479,Negative
@@ -857,7 +857,7 @@ YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 1:50 is so op,0.0,Neutral,0.0,Neutral,0.3146159052848816,Neutral
 It's just so satisfying of Billy Ray Cyrus saying (Ride till i can't more),0.5949,Positive,0.5,Positive,0.597964882850647,Positive
 "1:00 ""her"" but isn't he gay?",0.0,Neutral,0.4166666666666667,Positive,0.2967737913131714,Neutral
-Wow is look leke a cowboy song i love this,0.8402,Positive,0.3,Neutral,0.8473031520843506,Positive
+Wow is look leke a cowboy song i love this,0.8402,Positive,0.3,Positive,0.8473031520843506,Positive
 "Yeah, I'm gonna take my horse
 To the old town road
 I'm gonna ride 'til I can't no more
@@ -894,13 +894,13 @@ I'm gonna take my horse to the old town road
 I'm gonna ride 'til I can't no more
 I got the",0.6077,Positive,-0.0848484848484848,Negative,-0.4181476533412933,Negative
 But the fact that he's riding something other than just horses now-,0.0,Neutral,-0.125,Negative,0.4131285846233368,Positive
-I gonna get my horse to the old town,0.0,Neutral,0.1,Neutral,0.3410628736019134,Positive
+I gonna get my horse to the old town,0.0,Neutral,0.1,Positive,0.3410628736019134,Positive
 OOF,0.0,Neutral,0.0,Neutral,-0.3650923371315002,Negative
 My grand dad bought me a porshe and a horse and asked me to choose one and i asked him for a dog,0.4588,Positive,0.5,Positive,0.3899780809879303,Positive
 OLD  DOWNTOWN   SONG  IS  BEST,0.6369,Positive,0.55,Positive,0.3899144530296325,Positive
-Love this song but hard to sing,0.25,Positive,0.1041666666666666,Neutral,0.3599596917629242,Positive
+Love this song but hard to sing,0.25,Positive,0.1041666666666666,Positive,0.3599596917629242,Positive
 "Wanna finish the lyric 👀
-Yeah, I'm Gonna Take My Horse to The Old Town Road",0.296,Positive,0.175,Neutral,-0.2958226203918457,Negative
+Yeah, I'm Gonna Take My Horse to The Old Town Road",0.296,Positive,0.175,Positive,-0.2958226203918457,Negative
 Kio,0.0,Neutral,0.0,Neutral,0.2577782571315765,Neutral
 I sold my cows to buy a Horse 🐎🐎.,0.0,Neutral,0.0,Neutral,0.2796641886234283,Neutral
 Let's go👍,0.0,Neutral,0.0,Neutral,0.3909324109554291,Positive
@@ -963,7 +963,7 @@ GONNA VENT TO THE OLD MIRAHQ!
 WE GOTTA WIN LIKE A WINNER
 
 -by adil adil
--credits to among us",0.984,Positive,0.194090909090909,Neutral,-0.4721896052360534,Negative
+-credits to among us",0.984,Positive,0.194090909090909,Positive,-0.4721896052360534,Negative
 Who is yee and why does he haw,0.0,Neutral,0.0,Neutral,-0.3208686113357544,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 "Listen to it on 1.5x speed, it sounds funny😂😂",0.8271,Positive,0.0,Neutral,0.5500271320343018,Positive
@@ -981,22 +981,22 @@ bi cni dulahad.cni durtaishd💗🥺,0.7096,Positive,0.0,Neutral,0.2902270257472
 I am lisentennig you ul toogogui bga shu.durgui bna ntr gen.bti.bdoroi bro,0.0,Neutral,0.0,Neutral,-0.4120128154754638,Negative
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 https://youtu.be/-SEOJ_VHWRg,0.0,Neutral,0.0,Neutral,0.2348508983850479,Neutral
-"I'm gonna take my horse to the old town road, I'm gonna ride 'til",0.0,Neutral,0.1,Neutral,0.2785611152648926,Neutral
+"I'm gonna take my horse to the old town road, I'm gonna ride 'til",0.0,Neutral,0.1,Positive,0.2785611152648926,Neutral
 The kio kio which is written in the brackets it's actually Kia kia because this was a secret promotion,-0.8555,Negative,-0.2,Negative,-0.288811445236206,Negative
 Yeah,0.296,Positive,0.0,Neutral,0.3035990595817566,Neutral
 "the song motivated me to sell my dads car to buy a horse, now I go college everyday  ʘ‿ʘ",0.4588,Positive,-0.2,Negative,0.3194019496440887,Neutral
 <33,0.0,Neutral,0.0,Neutral,0.2909592390060425,Neutral
-I like so much,0.3612,Positive,0.2,Neutral,0.6490951180458069,Positive
+I like so much,0.3612,Positive,0.2,Positive,0.6490951180458069,Positive
 Niceeeee musicccccc,0.0,Neutral,0.0,Neutral,0.2883851230144501,Neutral
 Just imagine how many people are listening this song with you right now,0.0,Neutral,0.3928571428571428,Positive,0.4978418946266174,Positive
 "2 years later, if you're watching this, you're a legend.",0.0,Neutral,0.0,Neutral,0.4157345592975616,Positive
 imagine pretending to be Nas,0.1027,Positive,0.0,Neutral,-0.3147383630275726,Negative
 YERHAW,0.0,Neutral,0.0,Neutral,0.2635760307312011,Neutral
 who can listen ramta jogi music from this?,0.0,Neutral,0.0,Neutral,-0.4193335473537445,Negative
-I make sure to listen to this everyday,0.3182,Positive,0.15,Neutral,0.4551466703414917,Positive
+I make sure to listen to this everyday,0.3182,Positive,0.15,Positive,0.4551466703414917,Positive
 "600000 like, let's goooo!",0.4199,Positive,0.0,Neutral,-0.3035138547420501,Negative
-the old days,0.0,Neutral,0.1,Neutral,0.3810540735721588,Positive
-littel brother said the lyrics so funny,0.5777,Positive,0.03125,Neutral,0.3052959740161896,Neutral
+the old days,0.0,Neutral,0.1,Positive,0.3810540735721588,Positive
+littel brother said the lyrics so funny,0.5777,Positive,0.03125,Positive,0.3052959740161896,Neutral
 YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 Wow Loved the voice and music 😍🎶🎶🎶🎶🎶🎶,0.8934,Positive,0.3999999999999999,Positive,0.8187363147735596,Positive
 YEEYAW,0.4019,Positive,0.0,Neutral,0.2523655891418457,Neutral
@@ -1004,7 +1004,7 @@ Bro I can whip only alto 800 & also that's not mine ....,0.0,Neutral,0.0,Neutral
 Get to reading your text on wattpad,0.0,Neutral,0.0,Neutral,0.3676320016384125,Positive
 MUM how much times i have to listen to this song . Me i love it now,0.6369,Positive,0.35,Positive,0.8686015605926514,Positive
 I love you song a see it every day  i love the wart oh i am going to take my horse. Make the song longer,0.8555,Positive,0.5,Positive,0.6692503690719604,Positive
-old time road,0.0,Neutral,0.1,Neutral,0.3367116749286651,Positive
+old time road,0.0,Neutral,0.1,Positive,0.3367116749286651,Positive
 Very good,0.4927,Positive,0.91,Positive,0.5479444265365601,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 I love this aone,0.6369,Positive,0.5,Positive,0.8308383822441101,Positive
@@ -1016,7 +1016,7 @@ this vidoe suks,0.0,Neutral,0.0,Neutral,0.2772222459316253,Neutral
 yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeehaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 *YEEEHAW*,0.0,Neutral,0.0,Neutral,-0.3187059760093689,Negative
 The views 🤯,0.0,Neutral,0.0,Neutral,0.3578284978866577,Positive
-1:00 lil Nas acting straight back then is so weird to me now lol,0.3525,Positive,0.1,Neutral,-0.4226997792720794,Negative
+1:00 lil Nas acting straight back then is so weird to me now lol,0.3525,Positive,0.1,Positive,-0.4226997792720794,Negative
 Such a good song,0.4404,Positive,0.35,Positive,0.560273289680481,Positive
 👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Too easy,0.4404,Positive,0.4333333333333333,Positive,-0.4449134767055511,Negative
@@ -1032,7 +1032,7 @@ Thank me later",0.3612,Positive,0.0,Neutral,0.4971401691436767,Positive
 Yeehaw 🤠,0.0,Neutral,0.0,Neutral,0.2444817870855331,Neutral
 "*After listening Montero*
 He did grow.",0.0,Neutral,0.0,Neutral,0.3700757622718811,Positive
-This brings back memories of a few years ago when I was in grade 2 and my hole class new this song and we used to sing it for fun and tell are teacher to put it on,0.5106,Positive,0.059090909090909,Neutral,0.6293516755104065,Positive
+This brings back memories of a few years ago when I was in grade 2 and my hole class new this song and we used to sing it for fun and tell are teacher to put it on,0.5106,Positive,0.059090909090909,Positive,0.6293516755104065,Positive
 YEEEHAAW,0.0,Neutral,0.0,Neutral,-0.2668763995170593,Negative
 HOLY SHIT! IT'S BEEN 2 YEARS!? TIME DOESN'T STOP TILL IT CAN'T NO MORE!,-0.3287,Negative,-0.3125,Negative,-0.8863963484764099,Negative
 YEEHAW!!!!!,0.0,Neutral,0.0,Neutral,-0.4230833351612091,Negative
@@ -1044,7 +1044,7 @@ YEEHAW,0.0,Neutral,0.0,Neutral,0.2370522618293762,Neutral
 
 
 
-Note: only anime fan will know :)",0.817,Positive,0.0583333333333333,Neutral,-0.3855715095996856,Negative
+Note: only anime fan will know :)",0.817,Positive,0.0583333333333333,Positive,-0.3855715095996856,Negative
 YEEHAAWO,0.0,Neutral,0.0,Neutral,0.2424118518829345,Neutral
 YEEEH,0.0,Neutral,0.0,Neutral,-0.2510044574737549,Negative
 Super song 😊😊,0.9423,Positive,0.3333333333333333,Positive,0.7927128672599792,Positive
@@ -1062,4 +1062,4 @@ OMGlove,0.0,Neutral,0.0,Neutral,-0.2899528741836548,Negative
 When i play Roblox Wild West and listening to this song its feels like im at the 30 years ago its like the Wild West game its like old town its like YEEEEHAAWWW so yeah,0.9168,Positive,-0.025,Negative,-0.3021320104598999,Negative
 "Mom: how many times did u listen do this song
 
-Me: till I can’t no more",-0.296,Negative,0.125,Neutral,0.3510650098323822,Positive
+Me: till I can’t no more",-0.296,Negative,0.125,Positive,0.3510650098323822,Positive

@@ -2,7 +2,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 "This is going into my ""super cool songs"" mix",0.7351,Positive,0.3416666666666667,Positive,0.7221456170082092,Positive
 "ghjzfhgdzjk9ifhgmjmu8fdgfkjfgjoixcffutjhjuh9fgnzuhnzdgru8mjm9tri9jumizj9ihmtdju9 zfjhm9itjum9ijih9tfjk9ij9imju8imhtri9jum98ijum9jdgrijkmzfjhdtizkijkihm j9 zjht9ijkm jm zfhdgtj jk jm9 j  ijm 9fjh djm jun jg m jn jfudb  jm ju9 zfjudb k 0m zfdb km 0j0 fjdb jj zfjhdg j j j mjju- j zfdtrjm j zdfhj j dfj,ht  jm 0hm,kmm0m gr km -0m--- tr-f-ifekms jiesrit-fesrki+ ht++kr d+dgrgmr edrj+ ktrfjktrfdrjk ery fks fkrdgkgsr ektsr esrk kdgr kr kdr tkhtr ekgro ekdgryo gredgrkdgrk+",0.4404,Positive,0.0,Neutral,-0.3661428093910217,Negative
-Эта группа никогда не постареет!,0.0,Neutral,0.125,Neutral,-0.3776645958423614,Negative
+Эта группа никогда не постареет!,0.0,Neutral,0.125,Positive,-0.3776645958423614,Negative
 Inb4 Fredo bang samples this,0.0,Neutral,0.0,Neutral,0.4145403206348419,Positive
 Am I the only person who hates this song? Let me know if I am.,-0.4404,Negative,0.0,Neutral,-0.6276163458824158,Negative
 "Buddy, you're a boy, make a big noise
@@ -20,7 +20,7 @@ We will, we will rock you, yeah
 Buddy, you're an old man, poor man
 Pleading with your eyes, gonna get you some peace someday
 You got mud on your face, big disgrace
-Somebody better put you back into your place, do it!",-0.6467,Negative,0.0007575757575757,Neutral,0.3497727811336517,Positive
+Somebody better put you back into your place, do it!",-0.6467,Negative,0.0007575757575757,Positive,0.3497727811336517,Positive
 🔫,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 5 million likes no dislikes. thats saying alot,0.6197,Positive,0.0,Neutral,0.2990830242633819,Neutral
 WE WILL WE WILL MISS U RIP FREDDIE MERCURY (1946-1991)  QUEEN 👸 🤴 👑 AIN'T THE SAME WITHOUT U HOPE UR 🙏 😢 💙 ❤️ SINGING CONCERTS IN HEAVEN ✝️🌄🌅🌤☀️☁️🌥⛅️💙💙🙏😭😭😭,0.2386,Positive,0.0,Neutral,0.5232188701629639,Positive
@@ -57,11 +57,11 @@ mi ćemo da te kamenujemo,0.0,Neutral,0.0,Neutral,-0.2551481127738952,Negative
 غي عرب هون؟؟؟؟؟؟؟؟؟؟؟؟؟,0.0,Neutral,0.0,Neutral,-0.5397127270698547,Negative
 "Its disgusting that some stupid songs (NO bad vibes) like Despacito got 7/8 Billion views and legend songs like this only got 500 million. )That's sad in my opinion! Best wishes, LH!",-0.6351,Negative,-0.1791666666666667,Negative,-0.3852709233760834,Negative
 It's a good job!!😍😍,0.8585,Positive,0.7,Positive,0.511292040348053,Positive
-J'adore 😍🥰😘😙😍🥰😘😍😍😍😍😍😍😍😍😍😍😍😍🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😘😘😘😘😘😘😘😄😄😄😄😄😄😄😄♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️💘💘💘💘,0.9989,Positive,0.25,Neutral,0.7075682282447815,Positive
+J'adore 😍🥰😘😙😍🥰😘😍😍😍😍😍😍😍😍😍😍😍😍🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😘😘😘😘😘😘😘😄😄😄😄😄😄😄😄♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️💘💘💘💘,0.9989,Positive,0.25,Positive,0.7075682282447815,Positive
 Wake up this was 40years ago,0.0,Neutral,0.0,Neutral,0.3322758376598358,Positive
-Quuen çok yaşa,0.0,Neutral,0.0431818181818181,Neutral,-0.2539782226085663,Negative
+Quuen çok yaşa,0.0,Neutral,0.0431818181818181,Positive,-0.2539782226085663,Negative
 Ši daina yra nuostabi(:,0.7906,Positive,0.6000000000000001,Positive,-0.4444679319858551,Negative
-as a kid when my parents listened to this i was just like 👀 now i listen to this song every morning as i get ready for school,0.6124,Positive,0.2,Neutral,0.6014370918273926,Positive
+as a kid when my parents listened to this i was just like 👀 now i listen to this song every morning as i get ready for school,0.6124,Positive,0.2,Positive,0.6014370918273926,Positive
 ta bien :),0.7096,Positive,0.6,Positive,0.4223319888114929,Positive
 22 appril im watching this,0.0,Neutral,0.0,Neutral,-0.2838996350765228,Negative
 "this song will still be revered by many future generations, what is really good never falls into oblivion",0.7574,Positive,0.3999999999999999,Positive,0.682427167892456,Positive
@@ -72,10 +72,10 @@ Not exactly,0.0,Neutral,-0.125,Negative,-0.4545994400978088,Negative
  🖐️🖐️✊🏼
 🖐️🖐️✊🏼
 🖐️🖐️✊🏼",0.9698,Positive,0.0,Neutral,-0.6219982504844666,Negative
-My son is 6 years old and loves this song..,0.5719,Positive,0.1,Neutral,0.7215831875801086,Positive
+My son is 6 years old and loves this song..,0.5719,Positive,0.1,Positive,0.7215831875801086,Positive
 GOTTA LOVE FREDDIE MISS YOU ILSM YOUR IN MY HEART YOU WERE JUST AMAZING,0.9118,Positive,0.55,Positive,0.7931327223777771,Positive
 We will we will rock you !,0.0,Neutral,0.0,Neutral,0.8144969344139099,Positive
-fuck you bollywood for copying this beautiful art,0.2789,Positive,0.2249999999999999,Neutral,0.653260350227356,Positive
+fuck you bollywood for copying this beautiful art,0.2789,Positive,0.2249999999999999,Positive,0.653260350227356,Positive
 Mi favorit músic Kiss and dist,0.7003,Positive,0.5,Positive,0.669314980506897,Positive
 rlk 📍 24/04/22,0.0,Neutral,0.0,Neutral,-0.3675333559513092,Negative
 I can see freddie Mercury there,0.0,Neutral,0.0,Neutral,0.4697959125041961,Positive
@@ -96,7 +96,7 @@ one word ! when i hear this song. HOCKEY 🏒 🥅,0.0,Neutral,0.0,Neutral,-0.59
 Raise your hand who came here to listen to the song after listening it on 'The big bang theory'show..,0.4939,Positive,0.0,Neutral,0.283433586359024,Neutral
 Thank You Brian May for making this song.,0.3612,Positive,0.0,Neutral,0.6991987824440002,Positive
 "13년전 실화냐...
-이 노래 모르면 외계인임.",0.4215,Positive,0.0499999999999999,Neutral,-0.4606042802333832,Negative
+이 노래 모르면 외계인임.",0.4215,Positive,0.0499999999999999,Positive,-0.4606042802333832,Negative
 Why do it say kicking your cat all over the place,0.0,Neutral,0.0,Neutral,-0.3843879401683807,Negative
 me encanta este temaso,0.6369,Positive,0.5,Positive,0.7617964148521423,Positive
 I like you songs but not you not the blood sounds Now by,0.1901,Positive,0.0,Neutral,0.5246331095695496,Positive
@@ -109,13 +109,13 @@ I'm not rock,0.0,Neutral,0.0,Neutral,-0.3491114974021911,Negative
 NICE 😋,0.5473,Positive,0.6,Positive,0.4382759034633636,Positive
 Great,0.6249,Positive,0.8,Positive,0.741083025932312,Positive
 Me after playing radio Gaga for 10 hours,0.2023,Positive,0.0,Neutral,-0.2942798733711242,Negative
-Fun Fact: This song wil be 45 years old on 7 Octomber,0.5106,Positive,0.2,Neutral,0.4663996994495392,Positive
+Fun Fact: This song wil be 45 years old on 7 Octomber,0.5106,Positive,0.2,Positive,0.4663996994495392,Positive
 Freddy mercure = the best ever,0.6369,Positive,1.0,Positive,0.921708881855011,Positive
 Pac game song movie,0.0,Neutral,-0.4,Negative,0.3214414417743683,Neutral
 Queen died,-0.5574,Negative,0.0,Neutral,-0.276496022939682,Negative
 https://www.youtube.com/watch?v=cI-W9RJ2KVQ - from Ukraine with lowe),0.128,Positive,0.0,Neutral,0.3026594519615173,Neutral
 Dice sharingan pero dice sharinda,0.0,Neutral,0.0,Neutral,0.3663696050643921,Positive
-I remember as a kid this used to be my favorite song and I'm talking about since I was 4. I remember listened to that song in the car as a kid. going back and listening to it now I feel alot of nostalgia,0.4588,Positive,0.25,Neutral,0.5585732460021973,Positive
+I remember as a kid this used to be my favorite song and I'm talking about since I was 4. I remember listened to that song in the car as a kid. going back and listening to it now I feel alot of nostalgia,0.4588,Positive,0.25,Positive,0.5585732460021973,Positive
 I'm back here😂,0.4404,Positive,0.0,Neutral,0.234519213438034,Neutral
 2022❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 👍👍👍💙💙💙👂👂👂👂😍😍😍🔥🔥🔥🔥 sorprendente,0.5859,Positive,0.6000000000000001,Positive,0.6782912015914917,Positive
@@ -125,11 +125,11 @@ School desk anthem for all of us kids.,0.0,Neutral,0.0,Neutral,0.672844052314758
 Speech,0.0,Neutral,0.0,Neutral,0.3242051601409912,Neutral
 You break the Law of ULLUN we fuck you like this,-0.25,Negative,-0.4,Negative,0.625799834728241,Positive
 "Gua banget
-🤣🤣🤣🤣🤣🤣🤜🤛🇮🇩🤜🤛👊👊👊",0.0,Neutral,0.2,Neutral,-0.4686517715454101,Negative
+🤣🤣🤣🤣🤣🤣🤜🤛🇮🇩🤜🤛👊👊👊",0.0,Neutral,0.2,Positive,-0.4686517715454101,Negative
 "😀😀😀😀😀Queen OMG you are part of me, I love this song, 👍👍👍👍👍👍👍👍👍👍⭐⭐⭐⭐⭐⭐⭐😀😀😀😀😀",0.9781,Positive,0.5,Positive,0.8618704080581665,Positive
 Some how i heard something: kicking your cat all over the place / chicken yeah chad all over the place,0.296,Positive,-0.6,Negative,0.2915189564228058,Neutral
 Brian Mays guitar solo is fucking legendary,0.0,Neutral,1.0,Positive,0.5969173312187195,Positive
-今度吹奏楽でソロ吹かせてもらうから聴きにきたけど、この張り上げながらも余裕そうなかんじを上手く表現できたら絶対カッコいいだろうな、、、,0.7208,Positive,0.175,Neutral,0.2452497780323028,Neutral
+今度吹奏楽でソロ吹かせてもらうから聴きにきたけど、この張り上げながらも余裕そうなかんじを上手く表現できたら絶対カッコいいだろうな、、、,0.7208,Positive,0.175,Positive,0.2452497780323028,Neutral
 My heart beats with the beats of this song 🤟😎,0.802,Positive,0.0,Neutral,0.6108033061027527,Positive
 Very good song,0.4927,Positive,0.91,Positive,0.4729840159416199,Positive
 """WE WILL STOMP U!""",0.0,Neutral,0.0,Neutral,0.3036835491657257,Neutral
@@ -138,7 +138,7 @@ Very good song,0.4927,Positive,0.91,Positive,0.4729840159416199,Positive
 aca los de 2022👇👇,0.0,Neutral,0.0,Neutral,0.2997204065322876,Neutral
 """We Will *Rock* you"" i think i get why theres that word in the song's name. cause its a rock band",0.0,Neutral,0.0,Neutral,-0.2561279237270355,Negative
 We will rock u !!!!! Forever !!! And for the next generations don’t be death this song !!!!,-0.7243,Negative,0.0,Neutral,0.8892455697059631,Positive
-"I remember 9 years back when i was about 5-6 years old, parents used to play this on road trips and stuff, when I get kids im finna do the same bruh they gotta know how good these songs were 😭",0.296,Positive,0.1999999999999999,Neutral,0.4481519162654876,Positive
+"I remember 9 years back when i was about 5-6 years old, parents used to play this on road trips and stuff, when I get kids im finna do the same bruh they gotta know how good these songs were 😭",0.296,Positive,0.1999999999999999,Positive,0.4481519162654876,Positive
 And this is how I started a chant in gym camp. I go has been two years and we still chant it .,0.0,Neutral,0.0,Neutral,0.7793795466423035,Positive
 По истине хороший трек и легендарный,0.7003,Positive,0.85,Positive,0.6813675761222839,Positive
 LOS MEJOEES💪💪💪💪👏👏👏👏👏👏👏💞💞💞💞💞💞,0.9814,Positive,0.0,Neutral,0.316428393125534,Neutral
@@ -151,7 +151,7 @@ Putz dir die Zähne,0.0,Neutral,0.0,Neutral,0.4738073348999023,Positive
 Somebody to love,0.6369,Positive,0.5,Positive,0.6765252351760864,Positive
 Memes in 2022 rickrolling Memes in 4098 rockrolling,0.0,Neutral,0.0,Neutral,-0.5131449103355408,Negative
 alguen  mas escucha esta cancio en 2022,0.0,Neutral,0.0,Neutral,-0.6089767217636108,Negative
-Thanks for Kaguya Sama Season 3 for Recall this Song Again,0.4404,Positive,0.2,Neutral,0.5693405270576477,Positive
+Thanks for Kaguya Sama Season 3 for Recall this Song Again,0.4404,Positive,0.2,Positive,0.5693405270576477,Positive
 Holly F the nostalgia from when I was only 4th grade,0.0,Neutral,0.0,Neutral,0.4914433658123016,Positive
 bbcc,0.0,Neutral,0.0,Neutral,0.2735240459442138,Neutral
 Quién en 2022?,0.0,Neutral,0.0,Neutral,-0.4163244068622589,Negative
@@ -161,9 +161,9 @@ Porfin encontré esta cancion,0.0,Neutral,0.0,Neutral,0.3350858092308044,Positiv
 que buen tema :),0.7096,Positive,0.6,Positive,0.4486620724201202,Positive
 And yeah... they rocked the world!,0.3595,Positive,0.0,Neutral,0.8245348930358887,Positive
 Kicking your cat all over the place lol,0.4215,Positive,0.8,Positive,0.3641042709350586,Positive
-Heh this never gets old,-0.1531,Negative,0.1,Neutral,-0.306223452091217,Negative
+Heh this never gets old,-0.1531,Negative,0.1,Positive,-0.306223452091217,Negative
 I Guess They Are Kicking Cats,0.0,Neutral,0.0,Neutral,0.3381207585334778,Positive
-Yo estoy aqui por sheldon cuando canta por cambiar un neumático jajaj,0.5574,Positive,0.2,Neutral,-0.25802743434906,Negative
+Yo estoy aqui por sheldon cuando canta por cambiar un neumático jajaj,0.5574,Positive,0.2,Positive,-0.25802743434906,Negative
 even if u don't know this song u know it,0.0,Neutral,0.0,Neutral,0.3199300467967987,Neutral
 "Me gusta más estas canciones de rock porque , me inspiran a seguie mis sueños y a parte salio una pelicula de Freddy Mercuri  , fu interpretada por Rami Maleck mi hermno canta sus canciones de ellos💜💕❤😘",0.9768,Positive,0.5,Positive,0.4362621903419494,Positive
 This is the song that got me into rock as a baby,0.0,Neutral,0.0,Neutral,0.604324996471405,Positive
@@ -173,33 +173,33 @@ This song was born before me again.,0.0,Neutral,0.0,Neutral,0.5540482401847839,P
 I love listening to this song along with we are the champions,0.8225,Positive,0.5,Positive,0.8502887487411499,Positive
 The legend of queen 🤟🤟,0.0,Neutral,0.0,Neutral,0.4608607590198517,Positive
 Ooooooooooooooh! Myyy! Goooosh!,0.0,Neutral,0.0,Neutral,-0.4374673068523407,Negative
-Who else had an elementary school who thought this song was inappropriate?,0.0,Neutral,0.3,Neutral,-0.5450051426887512,Negative
+Who else had an elementary school who thought this song was inappropriate?,0.0,Neutral,0.3,Positive,-0.5450051426887512,Negative
 You got mud on your face you big disgrace KICKING YOUR CAT ALL OVER THE PLACE!,-0.5411,Negative,0.0,Neutral,-0.674237072467804,Negative
 Это гениально !,0.0,Neutral,0.0,Neutral,0.7682005167007446,Positive
 Hey ☺️ 2022,0.4588,Positive,0.0,Neutral,0.3703606724739074,Positive
 Pes 2016 😭😭😭😭😞,-0.9382,Negative,0.0,Neutral,0.2712347209453583,Neutral
 豆んジョイから,0.5859,Positive,0.8,Positive,0.2578051090240478,Neutral
 Watching this video after 20 years still makes fkng goosebumps! Just love it.,0.6696,Positive,0.5,Positive,0.8933925628662109,Positive
-"queen's videos ""might might might! new bois ""hoh??""",0.0,Neutral,0.1363636363636363,Neutral,0.2629938423633575,Neutral
+"queen's videos ""might might might! new bois ""hoh??""",0.0,Neutral,0.1363636363636363,Positive,0.2629938423633575,Neutral
 I wanna see a remastered version,0.0,Neutral,0.0,Neutral,0.2740397155284881,Neutral
 For some reason I came here after Will Smith slapped Chris Rock,0.0,Neutral,0.0,Neutral,0.3336865305900574,Positive
 This is the best song I ever heard from your song,0.6369,Positive,1.0,Positive,0.9278787970542908,Positive
 We will we will rock you we will we rock you is my favorite part of the song,0.4588,Positive,0.5,Positive,0.6766706705093384,Positive
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
-絶対学校で歌う奴がいる曲。,0.0,Neutral,0.2,Neutral,0.3721480965614319,Positive
+絶対学校で歌う奴がいる曲。,0.0,Neutral,0.2,Positive,0.3721480965614319,Positive
 Who came here to see how many views this had,0.0,Neutral,0.5,Positive,0.2408749759197235,Neutral
 💟💋💗💖,0.9601,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🎁🎗,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🐕‍🦺🐩🐺🦊🐎🦄🦓🐽,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Oui-Oui,0.6597,Positive,0.0,Neutral,0.351227730512619,Positive
-singing this at school was so epic,0.0,Neutral,0.1,Neutral,0.6838266849517822,Positive
+singing this at school was so epic,0.0,Neutral,0.1,Positive,0.6838266849517822,Positive
 🩳,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Cuando me LASTIMAN no soy buena......obvio......nunca me habian tratado tan mallllll,-0.8452,Negative,-0.6999999999999998,Negative,-0.4733603000640869,Negative
 "Great beat , great break",0.8481,Positive,0.8,Positive,0.7569828629493713,Positive
 2022 from morocco🌝❤️,0.0,Neutral,0.0,Neutral,0.260393887758255,Neutral
 Un temazo👌👌👍👍,0.9466,Positive,0.8,Positive,0.3361595869064331,Positive
 This song will never die no matter what!,0.5412,Positive,0.0,Neutral,0.6099780201911926,Positive
-Kedvenc zenem kis kormom ota,0.4588,Positive,0.15625,Neutral,0.5350486636161804,Positive
+Kedvenc zenem kis kormom ota,0.4588,Positive,0.15625,Positive,0.5350486636161804,Positive
 👱🏾‍♂️🫲🏾👱🏾‍♂️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 No inglês????,0.0,Neutral,0.0,Neutral,-0.4908474385738373,Negative
 What's Newton doing there?,0.0,Neutral,0.0,Neutral,-0.2560272812843323,Negative
@@ -231,14 +231,14 @@ Singin'
 Everybody
 'We will we will rock you'
 'We will we will rock you'
-Alright.",-0.6908,Negative,0.0007575757575757,Neutral,-0.4782429039478302,Negative
+Alright.",-0.6908,Negative,0.0007575757575757,Positive,-0.4782429039478302,Negative
 "We the people 🇲🇾 
  I dedicate this song to the American people This song says it all",0.0,Neutral,0.0,Neutral,0.5987451076507568,Positive
 このリズムは私たちのバットマンに離れない私はそう思う,0.0382,Neutral,0.0,Neutral,-0.3611185550689697,Negative
-"Just checking in to refresh my memory.  I was so sure that these boys were stomping in the snow and clapping with gloves on because I remember appreciating that bit of dry humor, but now I can't for the life of me convince myself that I haven't entered some alternate universe where this version was more smartly directed.  Can Queen commission a deepfake video based on my vision, including Brian playing the guitar with gloves on?",0.9244,Positive,0.2295238095238095,Neutral,0.3479945659637451,Positive
+"Just checking in to refresh my memory.  I was so sure that these boys were stomping in the snow and clapping with gloves on because I remember appreciating that bit of dry humor, but now I can't for the life of me convince myself that I haven't entered some alternate universe where this version was more smartly directed.  Can Queen commission a deepfake video based on my vision, including Brian playing the guitar with gloves on?",0.9244,Positive,0.2295238095238095,Positive,0.3479945659637451,Positive
 Waaoo,0.0,Neutral,0.0,Neutral,0.2598388791084289,Neutral
 I am here cuz my father told me this,0.0,Neutral,0.0,Neutral,0.6611433029174805,Positive
-M i italian is the very love,0.6697,Positive,0.325,Neutral,0.7204294204711914,Positive
+M i italian is the very love,0.6697,Positive,0.325,Positive,0.7204294204711914,Positive
 We Will Rock you,0.0,Neutral,0.0,Neutral,0.6820064783096313,Positive
 "This was my favourite song as a baby, I’d always make my parents play it. I guess the beat made me very happy and calm :)",0.8991,Positive,0.6,Positive,0.6590899229049683,Positive
 I only know this song because of my substitute at school,0.0,Neutral,0.0,Neutral,-0.2261970937252044,Negative
@@ -261,9 +261,9 @@ Dian Rubianti's daily song creation of 21 century.
 Fake old song by Queen/Never existed by Queen or by anyone else until this song (perfectly/completely) created/composed by Dian Rubianti.
 Letter on comment by The owner and the only one creator of this song (The only one created and composed this song)
 Dian Rubianti.
-18 11 1981",0.9908,Positive,0.2133522727272727,Neutral,-0.6672991514205933,Negative
+18 11 1981",0.9908,Positive,0.2133522727272727,Positive,-0.6672991514205933,Negative
 This song literally hit different after the 2022 oscars,0.0,Neutral,0.0,Neutral,-0.4940671622753143,Negative
-👏👏 Aí sim,0.0,Neutral,0.2857142857142857,Neutral,0.2818750739097595,Neutral
+👏👏 Aí sim,0.0,Neutral,0.2857142857142857,Positive,0.2818750739097595,Neutral
 "Two members of Queen: Brian May on guitar and Roger Taylor on drums; however, they do not sing any vocals on the track.
 
 The ""stomp, stomp, clap"" beat throughout ""We Will Rock You"" was created by the band overdubbing sounds of themselves stamping and clapping many times, and adding delay effects to create a sound that seemed many people were participating.
@@ -290,12 +290,12 @@ We will, we will rock you, yeah, yeah, come on
 We will, we will rock you, alright, louder!
 We will, we will rock you, one more time
 We will, we will rock you
-Yeah",0.6784,Positive,0.1272222222222222,Neutral,-0.4049539864063263,Negative
+Yeah",0.6784,Positive,0.1272222222222222,Positive,-0.4049539864063263,Negative
 This is the 2nd best song,0.6369,Positive,0.5,Positive,0.6906577348709106,Positive
 yes they can rock you,0.4019,Positive,0.0,Neutral,0.6598477959632874,Positive
 🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I CAME HERE TO SHOW MY 6 MOTH YEAR OLD NEICE HHAHAHA LMAO,0.874,Positive,0.3,Neutral,0.4305474758148193,Positive
-"I remember in Pre-K and Kindergarten, the whole bus was singing this",0.0,Neutral,0.2,Neutral,0.5060973763465881,Positive
+I CAME HERE TO SHOW MY 6 MOTH YEAR OLD NEICE HHAHAHA LMAO,0.874,Positive,0.3,Positive,0.4305474758148193,Positive
+"I remember in Pre-K and Kindergarten, the whole bus was singing this",0.0,Neutral,0.2,Positive,0.5060973763465881,Positive
 the best of...,0.6369,Positive,1.0,Positive,0.7830811738967896,Positive
 O final e a melhor parte kkkk,0.7906,Positive,0.9,Positive,0.3972647786140442,Positive
 😘,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -315,7 +315,7 @@ https://youtube.com/shorts/19RI3R48QeE?feature=share,0.0,Neutral,0.0,Neutral,0.2
 But the fact is… i can never get off of my mattress.. 🥺🥺🥺🥺🥺🥺💙💙💙💙✨✨✨✨🌌🌌🌌🌌💕💕💕😫😫😩😩😏😏😏😏😏😏😏😘😘😝😘😍😍😍😍🥰🥰🥰🥰😇😇😇😇😅😊😊😆🤪😁😏😕😖🤣☺️😕😁😟☺️😖🥲🙁😃😫☺️☺️🤨☺️😎☺️😎😎😎,0.9996,Positive,0.0,Neutral,0.2972535789012909,Neutral
 I love,0.6369,Positive,0.5,Positive,0.7596659064292908,Positive
 Cocomelon,0.0,Neutral,0.0,Neutral,0.2679730951786041,Neutral
-Funny Primetime 91,0.4404,Positive,0.25,Neutral,0.5043832659721375,Positive
+Funny Primetime 91,0.4404,Positive,0.25,Positive,0.5043832659721375,Positive
 Yea,0.0,Neutral,0.0,Neutral,0.2773668169975281,Neutral
 Кто смотрит это видео в 2022 лайк!,0.4199,Positive,0.0,Neutral,0.395574152469635,Positive
 Thhats How I Will I Will rock You,0.0,Neutral,0.0,Neutral,0.7725231647491455,Positive
@@ -326,7 +326,7 @@ Do do cheeks,0.0,Neutral,0.0,Neutral,0.3814044892787933,Positive
 Zd,0.0,Neutral,0.0,Neutral,0.2385253459215164,Neutral
 I'm leaving a trace here from 2022,0.0,Neutral,0.0,Neutral,0.2459069788455963,Neutral
 Rested on 13.04.2022,0.0,Neutral,0.0,Neutral,-0.4907789528369903,Negative
-I listened to this song coincidentally back in 2015 when I was 10 years old. now I'm 17 and it still feels good as new.,0.4404,Positive,0.234090909090909,Neutral,0.4637421071529388,Positive
+I listened to this song coincidentally back in 2015 when I was 10 years old. now I'm 17 and it still feels good as new.,0.4404,Positive,0.234090909090909,Positive,0.4637421071529388,Positive
 I love this song <33,0.6369,Positive,0.5,Positive,0.8243118524551392,Positive
 How comme from 2022,0.0,Neutral,0.0,Neutral,0.5601290464401245,Positive
 Thank you annoying orange for ruining the song,-0.296,Negative,-0.8,Negative,-0.6956326961517334,Negative
@@ -354,7 +354,7 @@ Dug  fb iftghigigyioicjigccdhi,0.0,Neutral,0.0,Neutral,-0.2538236081600189,Negat
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 Tutytt,0.0,Neutral,0.375,Positive,0.4315812587738037,Positive
 i love this song ❤❤,0.9274,Positive,0.5,Positive,0.8624796271324158,Positive
-I really dont want Jimmi Hendrix kick my cat all over the place,-0.1281,Negative,0.2,Neutral,-0.4869057536125183,Negative
+I really dont want Jimmi Hendrix kick my cat all over the place,-0.1281,Negative,0.2,Positive,-0.4869057536125183,Negative
 Rock and roll we will rock and roll,0.0,Neutral,0.0,Neutral,0.624191403388977,Positive
 Que som 🔈,0.0,Neutral,0.0,Neutral,0.3520742952823639,Positive
 Eu amei Eu amei a música,0.8316,Positive,0.7,Positive,0.4812296330928802,Positive
@@ -362,14 +362,14 @@ if you are still listening to this song you are gold💍,0.0,Neutral,0.0,Neutral
 Bunny teeth,0.0,Neutral,0.0,Neutral,0.2383890897035598,Neutral
 XD suena a escopetas de fre fire,0.8374,Positive,0.4,Positive,0.221293106675148,Neutral
 I love playing the lead guitar on this classic ROCK song...💕 #MikeJohnsonJazz,0.8834,Positive,0.3333333333333333,Positive,0.7435981035232544,Positive
-The biggest legend hero in this universe. He is still alive in our hearts,0.8885,Positive,0.1,Neutral,0.9458719491958618,Positive
+The biggest legend hero in this universe. He is still alive in our hearts,0.8885,Positive,0.1,Positive,0.9458719491958618,Positive
 That what I'm going to do one more time,0.0,Neutral,0.5,Positive,0.3966905176639557,Positive
 Es gjatd  can't,0.0,Neutral,0.0,Neutral,-0.4124936461448669,Negative
 Love queen from gorgan lol,0.7906,Positive,0.65,Positive,0.6146088242530823,Positive
-This never gets old ♡,0.0,Neutral,0.1,Neutral,0.6095401048660278,Positive
-"If you’re like me, I almost consider “We Will Rock You” and “We Are The Champions” as one song.  You have to play them back to back with Rock You played first.",0.743,Positive,0.0833333333333333,Neutral,0.279951274394989,Neutral
+This never gets old ♡,0.0,Neutral,0.1,Positive,0.6095401048660278,Positive
+"If you’re like me, I almost consider “We Will Rock You” and “We Are The Champions” as one song.  You have to play them back to back with Rock You played first.",0.743,Positive,0.0833333333333333,Positive,0.279951274394989,Neutral
 Legendary beat.,0.0,Neutral,1.0,Positive,0.8274081349372864,Positive
-Damn Roger Taylor had a nice back yard,0.0258,Neutral,0.3,Neutral,0.2656033933162689,Neutral
+Damn Roger Taylor had a nice back yard,0.0258,Neutral,0.3,Positive,0.2656033933162689,Neutral
 so i was born after this song 💀,0.0,Neutral,0.0,Neutral,0.3067723512649536,Neutral
 it's impossible for someone not to have done this beat at school,0.0,Neutral,-0.6666666666666666,Negative,-0.7074503302574158,Negative
 I love this song so much I listen to it every day good job Queen you are awesome,0.9042,Positive,0.6,Positive,0.8959035873413086,Positive
@@ -382,7 +382,7 @@ eu n sei a música é otima mais o cantor,0.3716,Positive,0.8,Positive,-0.358403
 oh dente feio,-0.5106,Negative,-0.7,Negative,-0.2773494720458984,Negative
 "Annoying how the sound and video are out of sync, though...",-0.4019,Negative,-0.2,Negative,0.4879261553287506,Positive
 i hate u  qeen,-0.5719,Negative,-0.8,Negative,-0.4609031975269317,Negative
-I love this beat it's sick I always do this beat Victory why do I even though I don't sing the lyrics oh why do we give Victory all the time and I like good,0.743,Positive,0.1619047619047618,Neutral,0.7926393151283264,Positive
+I love this beat it's sick I always do this beat Victory why do I even though I don't sing the lyrics oh why do we give Victory all the time and I like good,0.743,Positive,0.1619047619047618,Positive,0.7926393151283264,Positive
 "Will Smith - Chris Rock
 2 stomps - 1 slap",0.1531,Positive,0.0,Neutral,-0.4095672369003296,Negative
 Will Smith rocked Chris Rock,0.0,Neutral,0.0,Neutral,0.4251527488231659,Positive
@@ -411,7 +411,7 @@ We will, we will rock you, yeah, yeah, come on
 We will, we will rock you, alright, louder!
 We will, we will rock you, one more time
 We will, we will rock you
-Yeah",0.5826,Positive,0.0423611111111111,Neutral,0.4356495440006256,Positive
+Yeah",0.5826,Positive,0.0423611111111111,Positive,0.4356495440006256,Positive
 damn this shit slaps,-0.743,Negative,-0.2,Negative,-0.8167312145233154,Negative
 We will. Rock you love this song,0.6369,Positive,0.5,Positive,0.8663827180862427,Positive
 My cosine is saying it’s rockinroll,0.0,Neutral,0.0,Neutral,0.5965065360069275,Positive
@@ -463,7 +463,7 @@ Somebody gonna put you back in your place
 
 We will we will rock you
 We will we will rock you",-0.8625,Negative,-0.0491666666666666,Negative,-0.3208586871623993,Negative
-such a classic and iconic this is!,0.0,Neutral,0.2638888888888889,Neutral,0.9451450109481812,Positive
+such a classic and iconic this is!,0.0,Neutral,0.2638888888888889,Positive,0.9451450109481812,Positive
 ♥️☕🚬,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💓⚡⚡,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
 we will we will rock you we will we will rock you,0.0,Neutral,0.0,Neutral,0.65370774269104,Positive
@@ -552,34 +552,34 @@ I am from turkey and song is gread,0.0,Neutral,0.0,Neutral,0.2174835801124572,Ne
 Azxcy,0.0,Neutral,0.0,Neutral,0.2596193850040436,Neutral
 Best song boiiiiis 🫁🫁🫁🫁🐞🐞,0.6369,Positive,1.0,Positive,0.7933347821235657,Positive
 GOOOD,0.0,Neutral,0.0,Neutral,0.2613036036491394,Neutral
-This guy already died because he screamed to loud,-0.7096,Negative,0.1,Neutral,-0.7382085919380188,Negative
+This guy already died because he screamed to loud,-0.7096,Negative,0.1,Positive,-0.7382085919380188,Negative
 Nostalgia?,0.0,Neutral,0.0,Neutral,0.2933633923530578,Neutral
 La mejor canción de Bohemian Rhapsody,0.6369,Positive,1.0,Positive,0.8489575982093811,Positive
 0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
 """Kicking your batter allover the place"" 😂",0.4404,Positive,0.0,Neutral,-0.2543326914310455,Negative
 "Any time, any place, if one starts the beat, everyone around will join.",0.296,Positive,0.0,Neutral,0.4647305607795715,Positive
-"E prof de inglês mandou nos canta essa música, como nossa  primeira Av 1  👁👄👁",0.0,Neutral,0.125,Neutral,0.5909716486930847,Positive
+"E prof de inglês mandou nos canta essa música, como nossa  primeira Av 1  👁👄👁",0.0,Neutral,0.125,Positive,0.5909716486930847,Positive
 Best queen song ever!!,0.6988,Positive,1.0,Positive,0.9569725394248962,Positive
 :-),0.3182,Positive,0.5,Positive,0.4699489772319793,Positive
 Es mejor de shakira Enrique iglesias,0.4404,Positive,0.5,Positive,0.5302552580833435,Positive
 This song is my walk up song,0.0,Neutral,0.0,Neutral,0.63284832239151,Positive
 I love you so very much too played it,0.7823,Positive,0.38,Positive,0.8240270614624023,Positive
-"I teach English to Chinese students and a little girl in one of my classes who struggles  started to sing this song out of no where!!! She sung every lyric and clapped her hands. It was a surreal moment. The bridge between people is paved with music.  Thank you, Queen 💟",0.5962,Positive,0.0267578125,Neutral,0.7632495760917664,Positive
+"I teach English to Chinese students and a little girl in one of my classes who struggles  started to sing this song out of no where!!! She sung every lyric and clapped her hands. It was a surreal moment. The bridge between people is paved with music.  Thank you, Queen 💟",0.5962,Positive,0.0267578125,Positive,0.7632495760917664,Positive
 "I remember when me and my classmates on Grade 4 used to do sing this, Grade 4 was fun as fuck",-0.0516,Negative,-0.05,Negative,0.4590543806552887,Positive
 "Тот момент, когда Гитара всё портит",-0.4404,Negative,-0.15,Negative,0.2508331537246704,Neutral
 """Will Will Rock Chris""",0.0,Neutral,0.0,Neutral,0.3804008066654205,Positive
-"asi como la escuchan, vale mucho mas que varios albums de cantantes modernos...",0.2263,Positive,0.25,Neutral,0.6811977028846741,Positive
-The epitome of less is more,0.0,Neutral,0.1666666666666666,Neutral,-0.3188940584659576,Negative
+"asi como la escuchan, vale mucho mas que varios albums de cantantes modernos...",0.2263,Positive,0.25,Positive,0.6811977028846741,Positive
+The epitome of less is more,0.0,Neutral,0.1666666666666666,Positive,-0.3188940584659576,Negative
 Playstation 1,0.0,Neutral,0.0,Neutral,0.2894189357757568,Neutral
 esta musica siempre la hacemos con las mesas y las manos en la escuela xddddd,0.0,Neutral,0.0,Neutral,0.6122331023216248,Positive
 Música rui 👎👎👎👎👎,0.0,Neutral,0.0,Neutral,-0.3221097588539123,Negative
 I think you guys are the best singers because I will really will rock you forever,0.6369,Positive,0.6,Positive,0.846169650554657,Positive
-"I remember everyone in class singing this song in kindergarten, now I'm coming back here to figure out more than the chorus.",0.0,Neutral,0.25,Neutral,0.4536824226379394,Positive
+"I remember everyone in class singing this song in kindergarten, now I'm coming back here to figure out more than the chorus.",0.0,Neutral,0.25,Positive,0.4536824226379394,Positive
 Ciao,0.0,Neutral,0.0,Neutral,0.5044792890548706,Positive
 Estaba buscando una canción y me apareció esta la cuál no era estaba buscando cobre y encontré oro,0.0,Neutral,0.0,Neutral,-0.7001580595970154,Negative
 cute,0.4588,Positive,0.5,Positive,0.4543334245681762,Positive
 OK. VIVA Queen: We Will Rock You.... 1977.-2022. USA!!!!!!!!!!!!!.................🙂🙃😉😊😎,0.9165,Positive,0.5,Positive,0.3094518184661865,Neutral
-I really like music,0.4201,Positive,0.2,Neutral,0.4587877988815307,Positive
+I really like music,0.4201,Positive,0.2,Positive,0.4587877988815307,Positive
 Da,0.0,Neutral,0.0,Neutral,0.231621041893959,Neutral
 To my future kids and grandkids ; I was HERE! ☺️ ❤️🥰💋,0.9245,Positive,0.0,Neutral,0.7363579273223877,Positive
 Ok can we all agree the guitar part is the best?,0.836,Positive,0.75,Positive,0.6410302519798279,Positive
@@ -588,7 +588,7 @@ unpopular opinion: i prefer the mcr cover,0.0,Neutral,0.0,Neutral,-0.47401058673
 "Yo vine por el meme de Will Smith y Chris Rock
 No sabía la canción, ahora si 😂",0.4404,Positive,0.0,Neutral,-0.3025583028793335,Negative
 "We Will We Will Miss You!, We Will We Will Love You!",0.6351,Positive,0.625,Positive,0.8157221674919128,Positive
-First time I ever seen white people stay on beat for a whole song,0.0,Neutral,0.15,Neutral,0.335540235042572,Positive
+First time I ever seen white people stay on beat for a whole song,0.0,Neutral,0.15,Positive,0.335540235042572,Positive
 "Buddy, you're a boy, make a big noise
 Playing in the street, gonna be a big man someday
 You got mud on your face, you big disgrace
@@ -609,7 +609,7 @@ We will, we will rock you, yeah, yeah, come on
 We will, we will rock you, alright, louder!
 We will, we will rock you, one more time
 We will, we will rock you
-Yeah",0.5826,Positive,0.0423611111111111,Neutral,0.4356495440006256,Positive
+Yeah",0.5826,Positive,0.0423611111111111,Positive,0.4356495440006256,Positive
 This song aged well.,0.2732,Positive,-0.1,Negative,0.3957918584346771,Positive
 The Queen.. . Te best...,0.6369,Positive,1.0,Positive,0.678644061088562,Positive
 Love from srilanka 🇱🇰 ❤️‍🔥,0.4215,Positive,0.5,Positive,0.6166346669197083,Positive
@@ -618,16 +618,16 @@ joyita,0.0,Neutral,0.0,Neutral,0.4078376889228821,Positive
 Crybaby🤣🤣🤣🤣🤣,0.9432,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Lenny,0.0,Neutral,0.0,Neutral,0.2852437794208526,Neutral
 😄😄😄😄🤐🤐🤐🤐,0.9638,Positive,0.0,Neutral,0.3085779249668121,Neutral
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Hehhejdhebdndhebjwopjejoohkdjdjdjdkdjdjdjdhn.       Hejrjejrjdjrjdjdjdjdjdjdjdjjhtdnmd dndkdndkrkjdjsnsj binskshnamNznssn jdjdjdjd jdnddjjdjjdjjdjdjpppjdjdjdjjdjdmmdhdmolljxkddjjdjdjjdjnmsndmdmdndnfhrhgrrfgxgdgdhhdhhdhdhhdhhdhdbsbbxnxn,0.0,Neutral,0.0,Neutral,-0.2915400862693786,Negative
 Dünyanın gelmiş geçmiş en güzel en efsane unutulmayacak şarkısı,0.6361,Positive,0.6625000000000001,Positive,0.7382787466049194,Positive
-wow!,0.6239,Positive,0.125,Neutral,0.8084940314292908,Positive
+wow!,0.6239,Positive,0.125,Positive,0.8084940314292908,Positive
 I love Queen,0.6369,Positive,0.5,Positive,0.799733579158783,Positive
 Alguém 2022?,0.0,Neutral,0.0,Neutral,-0.4718849956989288,Negative
 We're taking Our Bows.......new family plans,0.0,Neutral,0.0,Neutral,0.5599387288093567,Positive
 Famiamilia show,0.0,Neutral,0.0,Neutral,0.2511828541755676,Neutral
 "Hello Zelensky,,,,,,",0.0,Neutral,0.0,Neutral,0.4950797259807586,Positive
-Queen wants to play today.......,0.34,Positive,0.2,Neutral,0.5841759443283081,Positive
+Queen wants to play today.......,0.34,Positive,0.2,Positive,0.5841759443283081,Positive
 This song to all ucran soildos,0.0,Neutral,0.0,Neutral,0.5423354506492615,Positive
 "If I ever have children ,  I will show them this song.",0.0,Neutral,0.0,Neutral,0.643018364906311,Positive
 Oscars,0.0,Neutral,0.0,Neutral,0.4040308594703674,Positive
@@ -646,7 +646,7 @@ We will we will rock you,0.0,Neutral,0.0,Neutral,0.7070794105529785,Positive
 "Chris rock's meme brought me here lol. 
 Wii will Wii will rock you.",0.4215,Positive,0.8,Positive,0.7031967043876648,Positive
 мне это очень нравится,0.6369,Positive,0.5,Positive,-0.2737074792385101,Negative
-after hearing this song on the radio you would also hear we are the champion right after,0.5994,Positive,0.2857142857142857,Neutral,0.4176476001739502,Positive
+after hearing this song on the radio you would also hear we are the champion right after,0.5994,Positive,0.2857142857142857,Positive,0.4176476001739502,Positive
 I came here after the Will and Rock meme 😅,0.3612,Positive,0.0,Neutral,0.5416648983955383,Positive
 My name is Daniel Franco Jr and i like The Rock n Roll band Queen 👑,0.3612,Positive,0.0,Neutral,0.4605410695075989,Positive
 *Kick'n your cat all over the place*,0.0,Neutral,0.0,Neutral,0.381045788526535,Positive
@@ -663,21 +663,21 @@ I just love this song❤️❤️❤️❤️❤️❤️❤️❤️❤️❤�
 Here from KU vs Nova,0.0,Neutral,0.0,Neutral,0.3759388625621795,Positive
 freddy mercury,0.0,Neutral,0.0,Neutral,0.3110319077968597,Neutral
 Quem tá escutando em 2022,0.0,Neutral,0.0,Neutral,0.4807794988155365,Positive
-"This is my 3 year old brother’s favorite song, he will come up to me and say “can you pway we will rock you” it is so adorable. This just shows that this song is for all and future generation’s.",0.7973,Positive,0.275,Neutral,0.9164966940879822,Positive
+"This is my 3 year old brother’s favorite song, he will come up to me and say “can you pway we will rock you” it is so adorable. This just shows that this song is for all and future generation’s.",0.7973,Positive,0.275,Positive,0.9164966940879822,Positive
 جيتار البيز,0.0,Neutral,-0.15,Negative,0.2700977027416229,Neutral
 سوف اهزمهم اكيد,-0.0772,Negative,0.0,Neutral,0.3074463009834289,Neutral
 We’re is 👑,0.0,Neutral,0.0,Neutral,0.4029482305049896,Positive
 https://youtu.be/xXSwe2-kVE8 700,0.0,Neutral,0.0,Neutral,0.2610673606395721,Neutral
 I wouldn’t come if it wasn’t for the Oscar’s,0.0,Neutral,0.0,Neutral,-0.2605058848857879,Negative
-Uf que rolla ala verga jaja,-0.0772,Negative,0.2,Neutral,-0.3056704401969909,Negative
+Uf que rolla ala verga jaja,-0.0772,Negative,0.2,Positive,-0.3056704401969909,Negative
 I'm here cause of EMI Sakura of aew wrestling,0.0,Neutral,0.0,Neutral,0.2732831835746765,Neutral
 Hi guys,0.0,Neutral,0.0,Neutral,0.3118095993995666,Neutral
 El mejor cantante del universo,0.6369,Positive,1.0,Positive,0.91068035364151,Positive
 This song was made for the future. WILL + ROCK 😌,0.3818,Positive,0.0,Neutral,0.5453417301177979,Positive
 En un mundial sonaria 🔥🔥🔥,-0.7351,Negative,0.4,Positive,0.3820899128913879,Positive
 Im here for the meme,0.0,Neutral,0.0,Neutral,-0.2689671516418457,Negative
-Still listening in 2022. Will love you always and that's coming from a 62 year old queen fan from way back. 2022 still sounds good.,0.8555,Positive,0.3249999999999999,Neutral,0.5153909921646118,Positive
-I’m ten years old and I want to thank my dad for getting me into rock n rolll Guns N’ Roses Rolling Stones queen all those bands,0.4215,Positive,0.05,Neutral,0.5880845785140991,Positive
+Still listening in 2022. Will love you always and that's coming from a 62 year old queen fan from way back. 2022 still sounds good.,0.8555,Positive,0.3249999999999999,Positive,0.5153909921646118,Positive
+I’m ten years old and I want to thank my dad for getting me into rock n rolll Guns N’ Roses Rolling Stones queen all those bands,0.4215,Positive,0.05,Positive,0.5880845785140991,Positive
 🥦やっぱこの曲スコ,0.0,Neutral,0.0,Neutral,0.2793581187725067,Neutral
 I hope this is the last known evidence of humanity existing,0.4404,Positive,0.0,Neutral,0.2674135565757751,Neutral
 I heard this song 100 times,0.0,Neutral,0.0,Neutral,0.5585964918136597,Positive
@@ -686,7 +686,7 @@ tock,0.0,Neutral,0.0,Neutral,0.2706234157085418,Neutral
 WILL SMITH will ROCK Chris 1🤣🤣,0.7506,Positive,0.0,Neutral,0.4639831185340881,Positive
 🌍🌈🕎,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Kickin your cat all over the place,0.0,Neutral,0.0,Neutral,0.5011441707611084,Positive
-We will rock you got an entirely new meaning since the academy award,0.5423,Positive,0.1363636363636363,Neutral,0.5898420214653015,Positive
+We will rock you got an entirely new meaning since the academy award,0.5423,Positive,0.1363636363636363,Positive,0.5898420214653015,Positive
 Wao,0.0,Neutral,0.0,Neutral,0.2506552636623382,Neutral
 "This is what will smith had in mind, This is so chronical.",0.0,Neutral,0.0,Neutral,0.6475511193275452,Positive
 "AKA, every school's national anthem",0.0,Neutral,0.0,Neutral,0.6181654930114746,Positive
@@ -698,7 +698,7 @@ My. Song 🎵 🎶 🎵 🎶,0.0,Neutral,0.0,Neutral,0.4846083223819732,Positive
 Here after the Oscar’s … 😏,0.0,Neutral,0.0,Neutral,0.4171556532382965,Positive
 Yo l love this song l did like is super cool 👍👍👍👍,0.9578,Positive,0.3944444444444444,Positive,0.8124147653579712,Positive
 Livs rock it boys,0.0,Neutral,0.0,Neutral,0.5165040493011475,Positive
-WOW so preiti,0.6739,Positive,0.1,Neutral,0.6557164788246155,Positive
+WOW so preiti,0.6739,Positive,0.1,Positive,0.6557164788246155,Positive
 i love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 This has become a meme for what happened in the Oscars. this is a legendary song and I'm surprised it dosent have 1B+ views,0.2263,Positive,0.55,Positive,0.7060257196426392,Positive
 i used to play this song when i was a kid not knowing who created it and know i watched the movie bohemian rhapsody almost every song i play when i was a kid was there like another one bites the dust we are the champions,0.8385,Positive,0.0,Neutral,0.3954574763774872,Positive
@@ -782,7 +782,7 @@ And Jesus answered and said unto them, Take heed that no man deceive you.
 ........
 ..
 ..
-..-,",0.9995,Positive,0.1800810904071773,Neutral,0.3769179284572601,Positive
+..-,",0.9995,Positive,0.1800810904071773,Positive,0.3769179284572601,Positive
 will Will Smith rock Chris Rock,0.0,Neutral,0.0,Neutral,0.4435327649116516,Positive
 Let's see how many legends listening to this masterpiece...❤,0.8772,Positive,0.5,Positive,0.6466286778450012,Positive
 WILL Smith & Chris ROCK brought me back here....,0.0,Neutral,0.0,Neutral,0.5595912933349609,Positive
@@ -806,7 +806,7 @@ We will, we will rock you, yeah, yeah, come on
 We will, we will rock you, alright, louder!
 We will, we will rock you, one more time
 We will, we will rock you
-Yeah",0.5826,Positive,0.0423611111111111,Neutral,0.4356495440006256,Positive
+Yeah",0.5826,Positive,0.0423611111111111,Positive,0.4356495440006256,Positive
 2022 ❤😂 long time ago,0.7964,Positive,-0.05,Negative,0.4297132790088653,Positive
 This is I use to say to the all men!❤️,0.0,Neutral,0.0,Neutral,0.7203195095062256,Positive
 Queen - immer wieder ein Traum !,0.3164,Positive,0.0,Neutral,0.8092383146286011,Positive
@@ -831,13 +831,13 @@ Hello I Love Queen,0.6369,Positive,0.5,Positive,0.8013821840286255,Positive
 Qàw♥️♥️,0.9217,Positive,0.0,Neutral,0.242159366607666,Neutral
 Oscar anthem,0.0,Neutral,0.0,Neutral,0.5776200294494629,Positive
 Will smith rocked 🥲🤏😂,0.4404,Positive,0.0,Neutral,0.48649662733078,Positive
-"My mom's a 60's baby, introduce me to a lot of music. So there's no surprise why I enjoy alternative rock and soft rock so much.",0.3401,Positive,0.2333333333333333,Neutral,0.4581712484359741,Positive
+"My mom's a 60's baby, introduce me to a lot of music. So there's no surprise why I enjoy alternative rock and soft rock so much.",0.3401,Positive,0.2333333333333333,Positive,0.4581712484359741,Positive
 This fills me with nostalgia.,0.0,Neutral,0.0,Neutral,0.6841354966163635,Positive
 Creo que Maluma y J Balvin cantan mejor,0.4404,Positive,0.5,Positive,-0.3180260956287384,Negative
 The beats + chorus literally reminds me of *WILL* Smith beating Chris *ROCK*,-0.4588,Negative,0.0,Neutral,0.585811197757721,Positive
 "Era a hora do recreio/merenda, ou um breve momento que a professora saia da sala... Silêncio... bastava um começar o batuque na mesa, pra festa começar 😂😎🤟🎸
 Um verdadeiro hino escolar. 
-Um clássico é um clássico, senhores #Brasil2022  🇧🇷✨",0.91,Positive,0.1366666666666666,Neutral,-0.2452995330095291,Negative
+Um clássico é um clássico, senhores #Brasil2022  🇧🇷✨",0.91,Positive,0.1366666666666666,Positive,-0.2452995330095291,Negative
 Its the song from the advance will smith meme,0.0,Neutral,0.0,Neutral,0.2979559600353241,Neutral
 iconic song,0.0,Neutral,0.5,Positive,0.7914406657218933,Positive
 We will smith chris rock you!😂,0.4926,Positive,0.0,Neutral,0.7046515941619873,Positive
@@ -874,7 +874,7 @@ Will rocks Rock,0.0,Neutral,0.0,Neutral,0.5447463393211365,Positive
 Who here after Will Smith at the Oscar’s?,0.0,Neutral,0.0,Neutral,0.2221705764532089,Neutral
 Pes 2016,0.0,Neutral,0.0,Neutral,0.2587817907333374,Neutral
 Byes,0.0,Neutral,0.0,Neutral,0.389627456665039,Positive
-It’s 2022 and Will really Rock us on the Oscar’s,0.0,Neutral,0.2,Neutral,0.745067834854126,Positive
+It’s 2022 and Will really Rock us on the Oscar’s,0.0,Neutral,0.2,Positive,0.745067834854126,Positive
 When I was in school this never worked for me when I tried to start it. I managed to get a couple other kids near me to do it for like a couple seconds but that was it. Then I kinda sank into my seat to hide amongst the crowd in embarrassment.,-0.631,Negative,-0.0124999999999999,Negative,-0.506814181804657,Negative
 Wii will wii will rock you,0.0,Neutral,0.0,Neutral,0.6010787487030029,Positive
 Quien más vino por el meme de facebook 😂,0.4404,Positive,0.0,Neutral,-0.3312140107154846,Negative
@@ -889,20 +889,20 @@ I love the music when i Was 8,0.6369,Positive,0.5,Positive,0.541904628276825,Pos
 Meanwhile Talibans : We will Rock you",0.0,Neutral,0.0,Neutral,-0.3965051472187042,Negative
 Will Smith and Chris Rock 🙃,0.0,Neutral,0.0,Neutral,0.3901285529136657,Positive
 "How can you forget a beat like this,even in your 90's",0.1531,Positive,0.0,Neutral,0.6241009831428528,Positive
-The Academy Awards meme of the  much talked about clap brought me here!,0.5093,Positive,0.25,Neutral,0.4784024953842163,Positive
+The Academy Awards meme of the  much talked about clap brought me here!,0.5093,Positive,0.25,Positive,0.4784024953842163,Positive
 match　music,0.0,Neutral,0.0,Neutral,0.3211805522441864,Neutral
 a message to chris rock and will smith,0.0,Neutral,0.0,Neutral,0.4867357313632965,Positive
 Here after seeing that Will Smith meme on facebook lol,0.4215,Positive,0.8,Positive,0.2709672451019287,Neutral
 Will slap meme brought me back to this masterpiece 😂,0.8546,Positive,0.0,Neutral,0.817090630531311,Positive
-The song really predicted the future with Will and Chris,0.0,Neutral,0.1,Neutral,0.4313034117221832,Positive
+The song really predicted the future with Will and Chris,0.0,Neutral,0.1,Positive,0.4313034117221832,Positive
 ser pa sempre cam,0.0,Neutral,0.0,Neutral,-0.3128573894500732,Negative
 This was in my school before they shutdown:( the school is called roading rockets,0.0,Neutral,-0.4527777777777778,Negative,-0.402974933385849,Negative
 why is no one talking about freddie’s sunglasses,-0.296,Negative,0.0,Neutral,-0.451746255159378,Negative
-This song brings back memories.😄 The principal in my school used to play it through the intercom whenever our school won a soccer game/ tournament or came first in anything against other schools. That was the only time we were allowed to bang tables and shout in class..those were the days🤩👌💓💓,0.9811,Positive,0.03125,Neutral,0.6041015386581421,Positive
+This song brings back memories.😄 The principal in my school used to play it through the intercom whenever our school won a soccer game/ tournament or came first in anything against other schools. That was the only time we were allowed to bang tables and shout in class..those were the days🤩👌💓💓,0.9811,Positive,0.03125,Positive,0.6041015386581421,Positive
 Scenario: The teacher left the classroom to get copies of the assignment,0.0,Neutral,0.0,Neutral,-0.2730826735496521,Negative
 OK. VIVA Queen: We Will Rock You 1977.-2022. USA!!!!!!!!!!!!!!..................🙂🙃😉😊😎,0.9165,Positive,0.5,Positive,0.3181398212909698,Neutral
 I remembered this because of Chris getting rocked and just came back to this,0.0,Neutral,0.0,Neutral,0.4210188090801239,Positive
-Predicted the Oscar's incident 13 years early...,0.0,Neutral,0.1,Neutral,0.2628527879714966,Neutral
+Predicted the Oscar's incident 13 years early...,0.0,Neutral,0.1,Positive,0.2628527879714966,Neutral
 And the memes have begun 💀💀,0.0,Neutral,0.0,Neutral,0.3544695079326629,Positive
 didn't know its a song till now,0.0,Neutral,0.0,Neutral,-0.2820275425910949,Negative
 best song ever am   I    right,0.6369,Positive,0.6428571428571428,Positive,0.9521604776382446,Positive
@@ -915,8 +915,8 @@ Carai e eu nasci em 2007 kkkk música perfeita,0.7579,Positive,0.9,Positive,0.69
 Am I the only one who saw the will smith meme,0.0,Neutral,0.0,Neutral,0.2423352152109146,Neutral
 Will Smith's favorite song,0.4588,Positive,0.5,Positive,0.7697426676750183,Positive
 true,0.4215,Positive,0.35,Positive,0.5879018306732178,Positive
-Who here after the whole will Smith thing 🤣,0.4939,Positive,0.2,Neutral,0.3936031758785248,Positive
-Will really really Rocked Chris,0.0,Neutral,0.2,Neutral,0.5108643174171448,Positive
+Who here after the whole will Smith thing 🤣,0.4939,Positive,0.2,Positive,0.3936031758785248,Positive
+Will really really Rocked Chris,0.0,Neutral,0.2,Positive,0.5108643174171448,Positive
 "Hehe, Will Smith rocked Chris Rock",0.0,Neutral,0.0,Neutral,0.2888709306716919,Neutral
 I’m out here with my near 3 y.o. Demanding it on repeat lol,0.2263,Positive,0.45,Positive,-0.2942066788673401,Negative
 Voltei por conta do meme do Will Smith kkkkkkkk,0.4215,Positive,0.4,Positive,-0.3616536855697632,Negative
@@ -929,7 +929,7 @@ Childhood,0.0,Neutral,0.0,Neutral,0.2568156719207763,Neutral
 I member when we used to stomp and clap in the kindergarten back in Russia,0.0,Neutral,0.0,Neutral,0.2784470617771148,Neutral
 ...and again piss turns into gasoline...,-0.4019,Negative,0.0,Neutral,-0.5177282094955444,Negative
 Whose here only because of the Will Smith/Chris Rock Meme?,0.0,Neutral,0.0,Neutral,0.2605387270450592,Neutral
-this was the ringtone of one of our teachers back in kindergarten. i used to hear the beginning of this song at least a few times a day :D and i remember how much we liked it hah,0.7804,Positive,0.22,Neutral,0.5448916554450989,Positive
+this was the ringtone of one of our teachers back in kindergarten. i used to hear the beginning of this song at least a few times a day :D and i remember how much we liked it hah,0.7804,Positive,0.22,Positive,0.5448916554450989,Positive
 Will Smith and Kanye to whoever makes jokes after their wives 🤣,0.6369,Positive,0.0,Neutral,0.3445375263690948,Positive
 "itkkgkbkgbokgkgotogtoor,f;;plommdkkkcmkkxodmmvl,xld,,x,s,",0.0,Neutral,0.0,Neutral,-0.2883513867855072,Negative
 So it's 2022 nd we will rock you 🔥,-0.34,Negative,0.0,Neutral,0.3820366263389587,Positive
@@ -967,7 +967,7 @@ No me gusta will smith. Actuo como un payaso,0.1002,Positive,0.0,Neutral,-0.5731
 will & rock,0.0,Neutral,0.0,Neutral,0.4383366405963897,Positive
 we WILL rock you,0.0,Neutral,0.0,Neutral,0.6820064783096313,Positive
 Me parece una actuacion de cuarta Will.No me gusta ese actor. Un actor de verdad es  Denzel Washington.  Me encanta!!!! Y el que mas me gusta es Bradley Cooper!!!!!,0.8503,Positive,0.55,Positive,-0.4196278750896454,Negative
-Came here right after seen Will Smith meme.,0.0,Neutral,0.2857142857142857,Neutral,0.3590314388275146,Positive
+Came here right after seen Will Smith meme.,0.0,Neutral,0.2857142857142857,Positive,0.3590314388275146,Positive
 All my homies love Will 🤣,0.8126,Positive,0.5,Positive,0.8755150437355042,Positive
 I'm here because of the Oscars.,0.0,Neutral,0.0,Neutral,0.4180529713630676,Positive
 Came here after Chris got rocked by will,0.0,Neutral,0.0,Neutral,0.2979030013084411,Neutral
@@ -1005,5 +1005,5 @@ This songs always start playing in my mind whenever I heard some people clapping
 
 WEEEEEE WILLLL WEEEE WILLL ROCK YOOOOUUUUUUUU HAHAHA YOU WERE ROCKROLLED",0.8573,Positive,0.525,Positive,0.6035736799240112,Positive
 love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
-Cada vez en el salón de empieso a ASER el sonido de la canción toda la clase empieza a cantar 😄,0.6705,Positive,0.3,Neutral,0.4932015538215637,Positive
+Cada vez en el salón de empieso a ASER el sonido de la canción toda la clase empieza a cantar 😄,0.6705,Positive,0.3,Positive,0.4932015538215637,Positive
 Just rock fawkas bowels stomping guts rocker out wit dis cock ouT,-0.1531,Negative,0.0,Neutral,-0.3279571235179901,Negative

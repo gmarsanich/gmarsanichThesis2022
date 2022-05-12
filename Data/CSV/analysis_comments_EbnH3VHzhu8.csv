@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 💖🫂💖🫂💖🫂💖🫂💖🫂💖 UNA  MUSICA  RELAJADA 💖 NO  SOLAMENTE  ES BUENA  PARA TRANQUILIZAR  LA  MENTE  TAN  BIEN  LO ES  PARA TRANQUILIZAR   EL  ALMA 💖🫂❤🫂❤🫂❤🫂❤🫂❤🫂❤🫂❤🫂❤🫂❤,0.9932,Positive,0.4,Positive,0.5450426936149597,Positive
-I   REALLY LIKE      YOUR       CHANAL,0.4201,Positive,0.2,Neutral,0.540321946144104,Positive
+I   REALLY LIKE      YOUR       CHANAL,0.4201,Positive,0.2,Positive,0.540321946144104,Positive
 So smooth 💕 it,0.6771,Positive,0.4,Positive,0.7209776639938354,Positive
 So smooth 💗 it,0.7537,Positive,0.4,Positive,0.7209776639938354,Positive
 "An⁷=
@@ -27,13 +27,13 @@ cái gì vậy trời?,-0.6808,Negative,0.0,Neutral,-0.395169585943222,Negative
 C detandant,0.0,Neutral,0.0,Neutral,0.2965751588344574,Neutral
 Chuẩn,0.0,Neutral,0.0,Neutral,0.2925252318382263,Neutral
 красиво,0.5994,Positive,0.85,Positive,0.6097202301025391,Positive
-ở nhà coi cũng vui,0.5106,Positive,0.3,Neutral,0.5580600500106812,Positive
+ở nhà coi cũng vui,0.5106,Positive,0.3,Positive,0.5580600500106812,Positive
 That’s so kund,0.0,Neutral,0.0,Neutral,0.2609959244728088,Neutral
 Tuyet vời quá cô Mây ơi. Cảm ơn cô Mây nhiều nhiều 😍😍😍,0.9356,Positive,0.5,Positive,0.5769299864768982,Positive
 Hi my name is Arooj i love this one and its so cute YOU ARE THE BEST,0.9325,Positive,0.6666666666666666,Positive,0.8865039944648743,Positive
 😅👍,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 God's tails,0.0,Neutral,0.0,Neutral,0.3626969754695892,Positive
-Helping a young pretty careful guy ( me ) who got covid  recently   nap 9n couch also cuz I have tentitus,0.7184,Positive,0.0624999999999999,Neutral,0.4377377331256866,Positive
+Helping a young pretty careful guy ( me ) who got covid  recently   nap 9n couch also cuz I have tentitus,0.7184,Positive,0.0624999999999999,Positive,0.4377377331256866,Positive
 "Giọng anh rất hay, cảm xúc nữa ạ.",0.7817,Positive,0.425,Positive,0.4610317945480346,Positive
 "This is so nice. Your mind does rest, no negative. TKS",0.7659,Positive,0.375,Positive,0.6523652076721191,Positive
 "1 đại gia đình hạnh phúc - chúc mừng Lộc, quá viên mãn rồi !",0.8122,Positive,0.4125,Positive,0.3634723424911499,Positive
@@ -49,7 +49,7 @@ So beautiful and calming...and soooo needed right now..,0.6361,Positive,0.567857
 i love this music😊😊,0.9451,Positive,0.5,Positive,0.900801718235016,Positive
 I listen to it every night to go to sleep,0.0,Neutral,0.0,Neutral,0.5389921069145203,Positive
 Den musik er så go🥰😘💋🥺😍,0.9449,Positive,0.0,Neutral,0.2991290986537933,Neutral
-ty so much for this song it relaxes me when my mum hits me,0.6249,Positive,0.2,Neutral,0.5785490870475769,Positive
+ty so much for this song it relaxes me when my mum hits me,0.6249,Positive,0.2,Positive,0.5785490870475769,Positive
 💓💕💝💗💞💘,0.9779,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Hello there stranger..
 
@@ -84,7 +84,7 @@ I’m sorry i have nothing else to say but your doing great, stay strong!
 I love you💗",0.9968,Positive,0.3546487603305785,Positive,0.7819931507110596,Positive
 Best music ever,0.6369,Positive,1.0,Positive,0.9597190618515016,Positive
 TheoandManuarehappyMariage,0.0,Neutral,0.0,Neutral,0.2410008758306503,Neutral
-Thanks I really appreciate you,0.7089,Positive,0.2,Neutral,0.612984836101532,Positive
+Thanks I really appreciate you,0.7089,Positive,0.2,Positive,0.612984836101532,Positive
 i love this i do yoga with this song ty for this😆😆👁👄👁,0.8957,Positive,0.5,Positive,0.8587794899940491,Positive
 Lovely 😍 👌 👍 🥰 ☺ 😙,0.9833,Positive,0.5,Positive,0.6332411766052246,Positive
 "Strašně uklidňující hudba, stres pomíjí, je to parádní",0.0,Neutral,-0.0999999999999999,Negative,-0.4500530958175659,Negative
@@ -113,7 +113,7 @@ Thank you,0.3612,Positive,0.0,Neutral,0.5730902552604675,Positive
 الم محم الم عا,-0.765,Negative,0.0,Neutral,-0.2488935589790344,Negative
 الرف الم,0.0,Neutral,0.0,Neutral,-0.2184775918722152,Negative
 اكت بدون طلعات اكل قه,0.0,Neutral,0.0,Neutral,-0.2708960771560669,Negative
-الشمس النور الكلية الحوس,0.0,Neutral,0.2,Neutral,0.3388365507125854,Positive
+الشمس النور الكلية الحوس,0.0,Neutral,0.2,Positive,0.3388365507125854,Positive
 التحكم النوم الانط المال الاهل البيت,0.0,Neutral,0.0,Neutral,0.404503732919693,Positive
 the os wol youwcum,0.0,Neutral,0.0,Neutral,0.377200186252594,Positive
 the toys  is  under  de teibol,0.0,Neutral,0.0,Neutral,-0.3413839340209961,Negative
@@ -124,7 +124,7 @@ que fea musica,-0.5106,Negative,-0.7,Negative,0.4019809067249298,Positive
 Thanks for sharing it
 The person who is reading this comment, I wish you great success, health, love and happiness!",0.9719,Positive,0.5349999999999999,Positive,0.8030038475990295,Positive
 This is relaxing,0.4939,Positive,0.0,Neutral,0.5020722150802612,Positive
-I have been so stressed out lately  this just made my night awesome thanks,0.5972,Positive,0.3,Neutral,0.8349030017852783,Positive
+I have been so stressed out lately  this just made my night awesome thanks,0.5972,Positive,0.3,Positive,0.8349030017852783,Positive
 "THIS IS AWESOME MUSIC, IT MAKES ME RELAX, THX",0.8591,Positive,1.0,Positive,0.8581641912460327,Positive
 Thank you for such beautiful music!,0.7712,Positive,0.5,Positive,0.9201579689979552,Positive
 😊🙃,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -133,7 +133,7 @@ This song is so relaxing thank you for making this,0.7842,Positive,0.0,Neutral,0
 So relaxing mmmmmmmmmmm,0.5413,Positive,0.0,Neutral,0.3464030921459198,Positive
 very nice makes sleeping easier,0.7089,Positive,0.78,Positive,0.6309759616851807,Positive
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
-You always calm me down.. thank you for putting so much effort into these videos….,0.5859,Positive,0.1148148148148148,Neutral,0.8616414070129395,Positive
+You always calm me down.. thank you for putting so much effort into these videos….,0.5859,Positive,0.1148148148148148,Positive,0.8616414070129395,Positive
 "I love listening to you 
 Soothing Relaxation💚",0.9337,Positive,0.5,Positive,0.7155982851982117,Positive
 Wow this is the best calming sleep music I’ve ever geared of mmm La La La La La La La La,0.8934,Positive,0.55,Positive,0.9575960040092468,Positive
@@ -145,7 +145,7 @@ I love listening and watching your beautiful videos. Thank you for sharing your 
 I think we should all agree on this is the best realaxing music ever,0.872,Positive,1.0,Positive,0.8787038922309875,Positive
 Põûtqw💖🌺🌸💐🌹🐞🦄,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Yo don’t suscribe me😢🥺,0.3724,Positive,0.0,Neutral,-0.439628005027771,Negative
-Bonne nuit à tous les autres membres du Conseil économique qui sont en train de faire des choix :,0.4404,Positive,0.2583333333333333,Neutral,0.4823645055294037,Positive
+Bonne nuit à tous les autres membres du Conseil économique qui sont en train de faire des choix :,0.4404,Positive,0.2583333333333333,Positive,0.4823645055294037,Positive
 Its clam music,0.0,Neutral,0.0,Neutral,0.2614285349845886,Neutral
 GRATIDÃO,0.5106,Positive,0.0,Neutral,0.4316656589508056,Positive
 It's          its  so beautiful,0.7177,Positive,0.85,Positive,0.6636311411857605,Positive
@@ -154,19 +154,19 @@ This music is so relaxing!,0.6606,Positive,0.0,Neutral,0.8078586459159851,Positi
 Love this song 😭,0.2732,Positive,0.5,Positive,0.8510125875473022,Positive
 So sweet song ❤️,0.5095,Positive,0.35,Positive,0.6278193593025208,Positive
 Thanks for the beautiful music.  Am relaxing well,0.9022,Positive,0.525,Positive,0.6688327789306641,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 thank you for this music now i can study mor,0.3612,Positive,0.0,Neutral,0.6979244947433472,Positive
 "If you are reading this, it doesn't matter where you are right now on this planet, I wish you a wonderful night and a happy, peaceful life where all your dreams come true❤️",0.9567,Positive,0.5839285714285714,Positive,0.5490734577178955,Positive
-Oh my gosh I’m obsessed with this music it’s like the best it’s so relaxing it takes away my stress thank you so much for making this☺️🥰🥰🤣💝💝💝💖💝💖💝💖,0.9971,Positive,0.2333333333333333,Neutral,0.7720472812652588,Positive
+Oh my gosh I’m obsessed with this music it’s like the best it’s so relaxing it takes away my stress thank you so much for making this☺️🥰🥰🤣💝💝💝💖💝💖💝💖,0.9971,Positive,0.2333333333333333,Positive,0.7720472812652588,Positive
 Ilove you,0.6369,Positive,0.5,Positive,0.2564868032932281,Neutral
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Merci!,0.0,Neutral,0.0,Neutral,0.5910824537277222,Positive
 I like this make me want to sleep,0.4215,Positive,0.0,Neutral,0.5997616052627563,Positive
 💗🕊🌈,0.7096,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Wow dit is echt rustgevend. Enorm bedankt wacht ik spreek beter wel Engels.  So like i sade it is wonderful ik slept so fast. Thank you thank you thank you. Enyoy your day.,0.976,Positive,0.3228571428571429,Neutral,0.7375926375389099,Positive
+Wow dit is echt rustgevend. Enorm bedankt wacht ik spreek beter wel Engels.  So like i sade it is wonderful ik slept so fast. Thank you thank you thank you. Enyoy your day.,0.976,Positive,0.3228571428571429,Positive,0.7375926375389099,Positive
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Thankyou for posting this,0.0,Neutral,0.0,Neutral,0.643120527267456,Positive
-Just wow,0.5859,Positive,0.1,Neutral,0.6649276614189148,Positive
+Just wow,0.5859,Positive,0.1,Positive,0.6649276614189148,Positive
 🇬🇪🇬🇪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ძალლიან კარგი სიმღერაა მე ნედნიერი ვარ როცა ამ მუსიკას ვუსმენ ძალიან დიდი მადლობა სიმღერისთვის😊,0.9371,Positive,0.6366666666666666,Positive,0.3220279812812805,Neutral
 It makes a really AMAZING sound how they can do that❤️,0.7028,Positive,0.5,Positive,0.8008679747581482,Positive
@@ -183,22 +183,22 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 "Thank You for creating and sharing this music.
 Sending you Love n Care with Gratitude",0.9531,Positive,0.5,Positive,0.8148247599601746,Positive
 💩💩💩💩💩💩💩💩💩💩💩😤😤😤😤😤🙁🙁,-0.4963,Negative,0.0,Neutral,0.3085779249668121,Neutral
-This music calms me down really well when im upset or stressed out its beautiful music ^^,0.5563,Positive,0.2981481481481481,Neutral,0.6086627244949341,Positive
+This music calms me down really well when im upset or stressed out its beautiful music ^^,0.5563,Positive,0.2981481481481481,Positive,0.6086627244949341,Positive
 😢☺😆😊😀😁😃😄😯😉😮😣😴,0.9633,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Who is reading this comment i wish you to relax and believe me you can go through all the hardships🤞,0.6808,Positive,0.0,Neutral,0.3977992236614227,Positive
 Hmmm..... does anyone plays roblox here?,0.25,Positive,0.0,Neutral,-0.4536562263965606,Negative
 Nice relaxing piano melody that helps my mind relax,0.8885,Positive,0.6,Positive,0.5664294958114624,Positive
 This song helps me sleep every single night. Everyone reading you a FANTASTIC person and you will have a wonderful day☮️,0.9341,Positive,0.4428571428571429,Positive,0.905512034893036,Positive
-After all of that so much I feel so sleepy 💤,-0.3566,Negative,0.2,Neutral,0.274307519197464,Neutral
+After all of that so much I feel so sleepy 💤,-0.3566,Negative,0.2,Positive,0.274307519197464,Neutral
 sweet dreams 🌛🌜🌕🕙🌠🎶🎵,0.6908,Positive,0.35,Positive,0.5625125765800476,Positive
 my mum thinks I'm 😴 sleeping I'm planning my mom he he he,0.0,Neutral,0.0,Neutral,0.2632086277008056,Neutral
-Wow👏 ! Thanks  for making this video it  calms me down. Aaah. So relaxing,0.9247,Positive,0.0222222222222222,Neutral,0.7297714948654175,Positive
-I had to pray because it's  been a while me and my family  didn't  go to the turch  so I prayed with this calm music,0.6027,Positive,0.3,Neutral,0.5272247791290283,Positive
+Wow👏 ! Thanks  for making this video it  calms me down. Aaah. So relaxing,0.9247,Positive,0.0222222222222222,Positive,0.7297714948654175,Positive
+I had to pray because it's  been a while me and my family  didn't  go to the turch  so I prayed with this calm music,0.6027,Positive,0.3,Positive,0.5272247791290283,Positive
 Okay.Wowthis made  me fall deep  asleep 😴,0.0,Neutral,0.0,Neutral,0.7855921387672424,Positive
 ok im drawing and im getting so relaxed by this now i feel like its easy to draw on computure thank you its really relaxing,0.9494,Positive,0.3777777777777777,Positive,0.4077025055885315,Positive
 This made my heart burst I love this thank you I am so calm,0.9356,Positive,0.4,Positive,0.932931423187256,Positive
-So calm and peaceful,0.7233,Positive,0.275,Neutral,0.7768211960792542,Positive
-"Such a lovely piece of music, thank you so very much.",0.743,Positive,0.2533333333333333,Neutral,0.8968582153320312,Positive
+So calm and peaceful,0.7233,Positive,0.275,Positive,0.7768211960792542,Positive
+"Such a lovely piece of music, thank you so very much.",0.743,Positive,0.2533333333333333,Positive,0.8968582153320312,Positive
 At.,0.0,Neutral,0.0,Neutral,0.2663130164146423,Neutral
 Gdojbr,0.0,Neutral,0.0,Neutral,0.254665344953537,Neutral
 Box uslmnuf,0.0,Neutral,0.0,Neutral,0.2498778104782104,Neutral
@@ -223,23 +223,23 @@ I use this music for studying it help me alot when I am studying📚✏ thank yo
 "to you who see this, do not give up. you have light, and it is worth shining. Your light is worth being seen. <3 do not give up just cause the darkness is there. Keep going, and shine.",0.5719,Positive,0.4800000000000001,Positive,0.4075707793235779,Positive
 "M,y Love 💖💖😘😘❤❤🥺🥺👇👇👇👇👇👇👇👇👇 laikkkkk now now now now now now now now",0.9849,Positive,0.5,Positive,0.7688475251197815,Positive
 Thank  you so mace l Love you so mace relaxing music hours laik 12 hours. l Love you so mace,0.9679,Positive,0.5,Positive,0.6019582748413086,Positive
-This Sakura Blossom music is so gorgeous 💚💚💚 💘💘💘💘💘🌸🌸🌸 It really calm's me down,0.9918,Positive,0.2814814814814815,Neutral,0.8722318410873413,Positive
-Pretty relaxing,0.7506,Positive,0.25,Neutral,0.488065093755722,Positive
+This Sakura Blossom music is so gorgeous 💚💚💚 💘💘💘💘💘🌸🌸🌸 It really calm's me down,0.9918,Positive,0.2814814814814815,Positive,0.8722318410873413,Positive
+Pretty relaxing,0.7506,Positive,0.25,Positive,0.488065093755722,Positive
 Nice music ❤️,0.4215,Positive,0.6,Positive,0.446512371301651,Positive
 I fell asleep with this on once,0.0,Neutral,0.0,Neutral,-0.4551236927509308,Negative
 "As I recover slowly from covid, this is the only music that lets me drift off to much needed sleep.",0.0,Neutral,-0.0333333333333333,Negative,0.2419213950634002,Neutral
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
-It really soothes me 🤗☺,0.7239,Positive,0.2,Neutral,0.6383369565010071,Positive
+It really soothes me 🤗☺,0.7239,Positive,0.2,Positive,0.6383369565010071,Positive
 I'm sleeping 858 but I'm presing395& random numbers,0.0,Neutral,-0.5,Negative,-0.3623749613761902,Negative
 "Lovely video!
 Reminds me of Japan 💗",0.8748,Positive,0.625,Positive,0.7011138200759888,Positive
 N A M A S T E  1 1 1 ❤️,0.0,Neutral,0.0,Neutral,-0.3381651937961578,Negative
-مرحبا انا استمع لهذه الموسيقا اليوم في بلاد الغربة قبل 3سنوات كنت في بيت اهلي والآن قد تزوجت قبل كنت مع اهلي والآن وحيدة هذه الموسيقا قد مر عليها ثلاث سنوات وانا اليوم أستمع لها,-0.25,Negative,0.0625,Neutral,0.4358235597610473,Positive
+مرحبا انا استمع لهذه الموسيقا اليوم في بلاد الغربة قبل 3سنوات كنت في بيت اهلي والآن قد تزوجت قبل كنت مع اهلي والآن وحيدة هذه الموسيقا قد مر عليها ثلاث سنوات وانا اليوم أستمع لها,-0.25,Negative,0.0625,Positive,0.4358235597610473,Positive
 موسيقى جدا رائعة وعزف اروع💙,0.9152,Positive,0.89,Positive,0.4950451850891113,Positive
-This is amazing 😀 It so quiet and soft that likes I can study now or maybe do homeworks!!,0.8652,Positive,0.2520833333333334,Neutral,0.9172512888908386,Positive
-My 6 year old daughter cried when she heard this music. She listens to it every day now.,-0.3818,Negative,0.1,Neutral,0.7415890693664551,Positive
-추억의 엤노래가넘조우네요 이십년전 새상떠난 영감이그림네오 엤노래을참잘했는대 노래자랑가면 일등상을 캐나바다완는대 노래을둘으면서 눈물이하염었시 흐으네요 노래잘들었씀니다 감사함니다,0.9348,Positive,0.2123376623376623,Neutral,-0.4320471584796905,Negative
+This is amazing 😀 It so quiet and soft that likes I can study now or maybe do homeworks!!,0.8652,Positive,0.2520833333333334,Positive,0.9172512888908386,Positive
+My 6 year old daughter cried when she heard this music. She listens to it every day now.,-0.3818,Negative,0.1,Positive,0.7415890693664551,Positive
+추억의 엤노래가넘조우네요 이십년전 새상떠난 영감이그림네오 엤노래을참잘했는대 노래자랑가면 일등상을 캐나바다완는대 노래을둘으면서 눈물이하염었시 흐으네요 노래잘들었씀니다 감사함니다,0.9348,Positive,0.2123376623376623,Positive,-0.4320471584796905,Negative
 I have added so your music helps me,0.4336,Positive,0.0,Neutral,0.4902882277965545,Positive
 It is buttiful,0.5994,Positive,0.85,Positive,-0.314970999956131,Negative
 The pictures got me colerblind I thought I was purple,0.0,Neutral,0.0,Neutral,-0.2672286331653595,Negative
@@ -261,17 +261,17 @@ This music is so beautiful ✨💕,0.9164,Positive,0.85,Positive,0.8506866097450
 I listened to this song when I felt sad so it can relax me,0.0164,Neutral,-0.5,Negative,0.3955180048942566,Positive
 We are going to ujdfmisjdrm tree,0.0,Neutral,0.0,Neutral,0.2252219021320343,Neutral
 I Love relaxing music hours laike 10 hours wow godjob 😇😇😇😇❤❤❤❤👇👇👇👇suskribe now aed laikkk now👇👇,0.9922,Positive,0.4333333333333333,Positive,0.6124058365821838,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Hate this how this coming,-0.5719,Negative,-0.8,Negative,-0.7750568985939026,Negative
 🌚,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
-0 replay this song all the time so our baby sisters to go to bed and chill out and breathe quietly and loudly thanks for this music I really going to sing it or listen to it every every every every every day and I hope you have a lot of views and hope you're rich because if you rich then can you can just come to our house in to help us to do all the stuff to become rich thank you for all the stuff into music to Desert very relaxing,0.9802,Positive,0.2464285714285714,Neutral,0.617161750793457,Positive
+0 replay this song all the time so our baby sisters to go to bed and chill out and breathe quietly and loudly thanks for this music I really going to sing it or listen to it every every every every every day and I hope you have a lot of views and hope you're rich because if you rich then can you can just come to our house in to help us to do all the stuff to become rich thank you for all the stuff into music to Desert very relaxing,0.9802,Positive,0.2464285714285714,Positive,0.617161750793457,Positive
 pm ross am sorry for your mum,-0.0772,Negative,-0.5,Negative,-0.4399483203887939,Negative
 this is the song that my teacher puts!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OMG!!!!!!!!!!!!!!!!!!!!!!!!!!!,0.0,Neutral,0.0,Neutral,0.6848245859146118,Positive
 Helps me fall asleep every night!! So relaxing and peaceful✨,0.9196,Positive,0.0,Neutral,0.8049106597900391,Positive
 The song really made me stop crying,-0.6771,Negative,0.0,Neutral,-0.2613572776317596,Negative
 😴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Wow! This is what I really need after a stressful work day! Very relaxing and calming 🥰 I could listen to this music all day long. Thank you very much for this ❤️ I just subscribed 💞 More power to you channel 🥰,0.9833,Positive,0.2141666666666666,Neutral,0.9318962693214417,Positive
+Wow! This is what I really need after a stressful work day! Very relaxing and calming 🥰 I could listen to this music all day long. Thank you very much for this ❤️ I just subscribed 💞 More power to you channel 🥰,0.9833,Positive,0.2141666666666666,Positive,0.9318962693214417,Positive
 Nice music,0.4215,Positive,0.6,Positive,0.4528878629207611,Positive
 This is the best and relaxing music ever! Thanks for the music!,0.8975,Positive,0.625,Positive,0.9383857846260072,Positive
 "It's amazing, Great work!🌻🕊😊",0.9348,Positive,0.7000000000000001,Positive,0.9085082411766052,Positive
@@ -279,12 +279,12 @@ This is the best and relaxing music ever! Thanks for the music!,0.8975,Positive,
 😊🤗😊🤗😊🤗😊🤗😊🤗,0.9912,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Música que  acalma o coração.,0.6369,Positive,0.0,Neutral,0.616030216217041,Positive
 "Para cualquiera que lea esta publicación, si tiene dificultades, recuerde que no está solo y nunca se rinda. ¡Te deseo salud, éxito, amor y felicidad!",0.925,Positive,0.5583333333333333,Positive,0.7664363980293274,Positive
-It’s so peaceful I use it to calme my bird when I’m outside.,0.5413,Positive,0.125,Neutral,0.630964457988739,Positive
+It’s so peaceful I use it to calme my bird when I’m outside.,0.5413,Positive,0.125,Positive,0.630964457988739,Positive
 Woah this is beautifull :),0.7845,Positive,0.675,Positive,0.631438136100769,Positive
 My class we listened to this song 🎵,0.0,Neutral,0.0,Neutral,0.6620447039604187,Positive
 My class we l,0.4588,Positive,0.0,Neutral,0.5543200373649597,Positive
-I fell asleep fast 😴,0.0,Neutral,0.2,Neutral,-0.4076628386974334,Negative
-"This music really helps calming my racing heart, thank you so much💕",0.9527,Positive,0.2,Neutral,0.7814797759056091,Positive
+I fell asleep fast 😴,0.0,Neutral,0.2,Positive,-0.4076628386974334,Negative
+"This music really helps calming my racing heart, thank you so much💕",0.9527,Positive,0.2,Positive,0.7814797759056091,Positive
 V nice,0.4215,Positive,0.6,Positive,0.4069431126117706,Positive
 🥱😴😪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 To je kokotina,0.0,Neutral,-0.6,Negative,0.2399766445159912,Neutral
@@ -301,7 +301,7 @@ my teacher used this during tests,0.0,Neutral,0.0,Neutral,0.4665208160877228,Pos
 الخجل الفشل من البخل بحساب السيارات المال,-0.875,Negative,-0.3166666666666667,Negative,-0.4999798536300659,Negative
 التنفس,0.0,Neutral,0.0,Neutral,0.3453909456729889,Positive
 التعب الاكتئابي الكتمة,-0.5574,Negative,0.0,Neutral,0.3276930451393127,Neutral
-My cat relaxing because it very soft,0.4939,Positive,0.13,Neutral,0.395537793636322,Positive
+My cat relaxing because it very soft,0.4939,Positive,0.13,Positive,0.395537793636322,Positive
 الجن,0.0,Neutral,0.0,Neutral,0.2414891272783279,Neutral
 وجدان كوفيهات اجبار,-0.4588,Negative,-0.3,Negative,0.3851602673530578,Positive
 خوف (سيارة حوادث مخالفات محم) فقط اكنئاب وملل (الحر عدم القهوة وعدم الاكل الكلية النادي ),-0.9201,Negative,0.0,Neutral,-0.5394749641418457,Negative
@@ -315,16 +315,16 @@ I 💛 this song 🎵. When I heard this song it reminded me a bit my grandfathe
 التانيب دايم يكون مع الاخزين,0.0,Neutral,0.0,Neutral,0.4203368425369262,Positive
 تانيب,0.0,Neutral,0.0,Neutral,0.3223438858985901,Neutral
 اكتئاب ملل عار )مشاكل,-0.8957,Negative,0.0,Neutral,-0.5148403644561768,Negative
-I love this it made my big sister sleep,0.6369,Positive,0.25,Neutral,0.8732326626777649,Positive
-haha,0.4588,Positive,0.2,Neutral,-0.4025950729846954,Negative
+I love this it made my big sister sleep,0.6369,Positive,0.25,Positive,0.8732326626777649,Positive
+haha,0.4588,Positive,0.2,Positive,-0.4025950729846954,Negative
 tat  mass  me   go   to   seep,0.0,Neutral,0.0,Neutral,0.2393037974834442,Neutral
 ✌✌,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"13:49 Cả năm phê cỏ phê cần, không bằng tết này được gần bên anh.",0.0,Neutral,0.0621212121212121,Neutral,-0.5189412832260132,Negative
-11:58 Tết này anh có hoa đào. Còn em chưa có anh nào rước đi,0.0,Neutral,0.1363636363636363,Neutral,-0.6029007434844971,Negative
+"13:49 Cả năm phê cỏ phê cần, không bằng tết này được gần bên anh.",0.0,Neutral,0.0621212121212121,Positive,-0.5189412832260132,Negative
+11:58 Tết này anh có hoa đào. Còn em chưa có anh nào rước đi,0.0,Neutral,0.1363636363636363,Positive,-0.6029007434844971,Negative
 الملل,0.0,Neutral,0.0,Neutral,0.3345500230789184,Positive
 So TRUE..but we ALL need peace and tranquility from time to time or Most of the time😌😌❤️,0.8885,Positive,0.5,Positive,0.4881123900413513,Positive
 قومة نوم خوف مخالفات اب حوادث مراقبة جسد تنفس بطني استشعار,-0.836,Negative,0.0,Neutral,-0.4345245361328125,Negative
-"My eyes are literally watering. I do not know how to express it at the moment. I'm not getting enough sleep because of depression and anxiety, listening to it is such a great relief. Sad how we're missing on such simple and beautiful things available in nature.",0.34,Positive,0.15,Neutral,-0.259051114320755,Negative
+"My eyes are literally watering. I do not know how to express it at the moment. I'm not getting enough sleep because of depression and anxiety, listening to it is such a great relief. Sad how we're missing on such simple and beautiful things available in nature.",0.34,Positive,0.15,Positive,-0.259051114320755,Negative
 all these comments might burry mine so im glad you found it. Also if your suffering from something i love you as a friend online.. remember never stop loving yourself its okay if someone you loved already had their time. they are smiling for how strong youve been i get how it feels im here for you okay? sleep well i love you as a friend online...,0.9814,Positive,0.5291666666666666,Positive,-0.2896818518638611,Negative
 Love this realxing music I calms me and 1.  2. 3.  There I’m sleeping I’m like inn a coma this music has helped me sleep alot through the past and you know these days it’s hard to calm down and be in la la land for a few mins so this music has helped me through these things 12/10 will listen to this again and also appreciate how they put no adds in the middle of this,0.886,Positive,-0.0246527777777777,Negative,0.8774952292442322,Positive
 الخوف العار المالي الحاجة للحجب,-0.743,Negative,0.0,Neutral,-0.3031786680221557,Negative
@@ -350,11 +350,11 @@ soothing relaxation and sleeping,0.6908,Positive,0.0,Neutral,0.4281182587146759,
 الاكل الطفرة الوحيدة الجلسة ياليت الكلية,0.4019,Positive,0.0,Neutral,0.4361982643604278,Positive
 العار,-0.4767,Negative,0.0,Neutral,-0.3261401057243347,Negative
 اكتئاب ملل,-0.7184,Negative,0.0,Neutral,-0.2471715807914734,Negative
-Thank you for having this now i can fall asleep fast.,0.3612,Positive,0.2,Neutral,0.7405858039855957,Positive
+Thank you for having this now i can fall asleep fast.,0.3612,Positive,0.2,Positive,0.7405858039855957,Positive
 "the calm music, i loved it",0.7351,Positive,0.5,Positive,0.6589058041572571,Positive
 GANHEI PAR DE TÊNIS DE LUXO Q VALE 25 MILL REAIS EU NASCI MESMO FOI P\ LACRAR,0.8001,Positive,0.55,Positive,-0.5263464450836182,Negative
 This music makes me sad 😥 my 3rd grade teacher will play this music when it's the morning when I come in,0.5267,Positive,-0.25,Negative,-0.3184584081172943,Negative
-"3:43 The first tiem I saw you, my heart whisspered: That's the one.",0.6369,Positive,0.25,Neutral,0.3337598741054535,Positive
+"3:43 The first tiem I saw you, my heart whisspered: That's the one.",0.6369,Positive,0.25,Positive,0.3337598741054535,Positive
 خوف رفض يشوفوني اقل,-0.6597,Negative,-0.1666666666666666,Negative,-0.4411010444164276,Negative
 كلام الناس العاز,0.3818,Positive,0.0,Neutral,0.3992659449577331,Positive
 زواج بدون حب,-0.5216,Negative,0.5,Positive,0.2408307194709777,Neutral
@@ -383,19 +383,19 @@ This music makes me sad 😥 my 3rd grade teacher will play this music when it's
 الذنب التانيب اللوم ٢٤,-0.5423,Negative,0.0,Neutral,0.2202271521091461,Neutral
 اكتئاب ملل,-0.7184,Negative,0.0,Neutral,-0.2471715807914734,Negative
 ندم + تانيب +خوف +ملل+ضي,-0.8625,Negative,0.0,Neutral,-0.5177817344665527,Negative
-"House, so I put one this music to help me and my little brother when we go to sleep, so I love this song for putting me and my little brother to sleep",0.8008,Positive,0.0416666666666666,Neutral,0.6727336645126343,Positive
+"House, so I put one this music to help me and my little brother when we go to sleep, so I love this song for putting me and my little brother to sleep",0.8008,Positive,0.0416666666666666,Positive,0.6727336645126343,Positive
 "My family is having a hard time finding a home, because we got kicked out of a house 1month ago and now, we're living in a basement looking for a new house and it hhas",-0.1027,Negative,-0.0776515151515151,Negative,0.3610517382621765,Positive
 I like  your  music,0.3612,Positive,0.0,Neutral,0.5056840777397156,Positive
 "Boring boooring, there's no second verse no brake it all sounds repetitive, this would seriously put people to sleep 😴😴😴😴😴😆",-0.7096,Negative,-0.3958333333333333,Negative,-0.6757925152778625,Negative
 🌍🌎🌏🌍🌎🌏🌍🌎🌏,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This is wonderful,0.5719,Positive,1.0,Positive,0.8354422450065613,Positive
-I luv it SOOOOOOOO MUCH,0.0,Neutral,0.2,Neutral,0.3296089768409729,Neutral
+I luv it SOOOOOOOO MUCH,0.0,Neutral,0.2,Positive,0.3296089768409729,Neutral
 اكت+ملل+ندن,0.0,Neutral,0.0,Neutral,0.2885275483131408,Neutral
 ندم +ملل,-0.6249,Negative,0.0,Neutral,0.2515671253204345,Neutral
 This almost made me sleep in class,0.0,Neutral,0.0,Neutral,0.2282431125640869,Neutral
 :) :) :) :) :) :) love you so much,0.969,Positive,0.4625,Positive,0.8368578553199768,Positive
 Please pray Christopher needs  a home now n better job in modesto,0.7579,Positive,0.5,Positive,-0.3092542588710785,Negative
-16:51 8/3 em mặc đầm đỏ. Chỉ mong có người sớm ngỏ lời yêu.,0.7964,Positive,0.25,Neutral,-0.3696352243423462,Negative
+16:51 8/3 em mặc đầm đỏ. Chỉ mong có người sớm ngỏ lời yêu.,0.7964,Positive,0.25,Positive,-0.3696352243423462,Negative
 I just love this music  now i feel sleepy   thank you,0.7717,Positive,0.5,Positive,0.8572731614112854,Positive
 دون انا في,0.0,Neutral,0.0,Neutral,-0.3424548804759979,Negative
 من علاقت,0.6369,Positive,0.5,Positive,0.3532979488372803,Positive
@@ -407,8 +407,8 @@ So cool,0.3804,Positive,0.35,Positive,0.67906254529953,Positive
 ر,0.0,Neutral,0.0,Neutral,0.2803285121917724,Neutral
 فيمه,0.0,Neutral,0.0,Neutral,0.3745859563350677,Positive
 حسم محم,0.0,Neutral,0.0,Neutral,0.2347129434347152,Neutral
-اول ماقوم +مشاعر الوحدة +الملل,-0.6249,Negative,0.25,Neutral,0.4373823702335357,Positive
-"I never thought I'd be able to fall asleep to music but I have been doing just that, to this video, for the past week.  It really relaxes me.  Thank you so much.",0.8092,Positive,0.1625,Neutral,0.7663066983222961,Positive
+اول ماقوم +مشاعر الوحدة +الملل,-0.6249,Negative,0.25,Positive,0.4373823702335357,Positive
+"I never thought I'd be able to fall asleep to music but I have been doing just that, to this video, for the past week.  It really relaxes me.  Thank you so much.",0.8092,Positive,0.1625,Positive,0.7663066983222961,Positive
 "Thank you for this music
 Army 💜💜💜💜
 I purple U",0.9652,Positive,0.0,Neutral,0.7858304381370544,Positive
@@ -420,7 +420,7 @@ Best music for sleep,0.6369,Positive,1.0,Positive,0.7962935566902161,Positive
 Yay,0.5267,Positive,0.0,Neutral,0.3043083250522613,Neutral
 I don't like MY mo,-0.2755,Negative,0.0,Neutral,-0.4862363040447235,Negative
 the nicest thing ever,0.4939,Positive,0.0,Neutral,0.8677630424499512,Positive
-I love it i listen to it every single night when I go to sleep and I love it so so so so so so so so so so so so so much,0.8555,Positive,0.2821428571428571,Neutral,0.8335076570510864,Positive
+I love it i listen to it every single night when I go to sleep and I love it so so so so so so so so so so so so so much,0.8555,Positive,0.2821428571428571,Positive,0.8335076570510864,Positive
 استغلال مشاهير مطاعم جن كتب,0.0,Neutral,0.5,Positive,0.4375033974647522,Positive
 خوف توتر مستقبل سمنه اذى ضرر استغلال سيارة,-0.8591,Negative,0.0,Neutral,-0.5989610552787781,Negative
 للمدح بجمالي القي,0.7845,Positive,0.0,Neutral,0.3124859929084778,Neutral
@@ -444,7 +444,7 @@ Hi What is your favourite song you made,0.0,Neutral,0.0,Neutral,0.77963358163833
 كل شعور حاولي تراقبين تستعربنه كما هو والعمق,0.128,Positive,0.0,Neutral,0.5047315359115601,Positive
 خوف ساعه الم نص ملل نص,-0.8316,Negative,0.0,Neutral,-0.3861712217330932,Negative
 الام +رغبات احتياجات +خوف+قيمة,-0.2023,Negative,0.0,Neutral,-0.2979621291160583,Negative
-"3:25 Đông Tàn, Xuân Tan, Hạ tới nóng ran. Nhưng bàn tay này vẫn muốn đan",0.729,Positive,0.225,Neutral,-0.5110772252082825,Negative
+"3:25 Đông Tàn, Xuân Tan, Hạ tới nóng ran. Nhưng bàn tay này vẫn muốn đan",0.729,Positive,0.225,Positive,-0.5110772252082825,Negative
 Nice Music!!🎶,0.5242,Positive,0.6,Positive,0.5247779488563538,Positive
 I just love it,0.6369,Positive,0.5,Positive,0.7994805574417114,Positive
 نوعين من الاستشعار كلهم,0.0,Neutral,0.0,Neutral,0.278378278017044,Neutral
@@ -467,7 +467,7 @@ i love it oo much ama sub,0.6369,Positive,0.35,Positive,0.7874065637588501,Posit
 لوم جلد +خوف +ملل,-0.7845,Negative,0.0,Neutral,-0.3425512015819549,Negative
 it feels like i was in the sky omg,0.3612,Positive,0.0,Neutral,0.3011388778686523,Neutral
 بدون طلعات بدون قهوه بدون محم الملل بيطلع,-0.3182,Negative,0.0,Neutral,-0.4027705192565918,Negative
-الملل هو التكرار يصير كل شي بنظرك عادي,-0.3182,Negative,0.15,Neutral,0.2628813087940216,Neutral
+الملل هو التكرار يصير كل شي بنظرك عادي,-0.3182,Negative,0.15,Positive,0.2628813087940216,Neutral
 روتين الوظايف بدون قهوه ملل 😑 عاطفك,0.2411,Positive,0.0,Neutral,0.2716589570045471,Neutral
 الخاجة للاهتمام المحبة الاعجاب التقدير القيمه,0.9349,Positive,0.55,Positive,0.3801437616348266,Positive
 عدم الاهتمام عدم الخ,0.0,Neutral,0.0,Neutral,-0.6588336825370789,Negative
@@ -484,7 +484,7 @@ L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 الغضب على شادن,-0.5719,Negative,-0.7,Negative,-0.2615839540958404,Negative
 فر جسمي,0.1779,Positive,0.0,Neutral,-0.4126659035682678,Negative
 غرورهم,-0.5267,Negative,0.0,Neutral,-0.2772476077079773,Negative
-المشاهير لانهم مستفيدين وغير مهتمين والمتابع غير مستفيد ومهتم استغلال,0.1749,Positive,0.0625,Neutral,0.3332796096801758,Positive
+المشاهير لانهم مستفيدين وغير مهتمين والمتابع غير مستفيد ومهتم استغلال,0.1749,Positive,0.0625,Positive,0.3332796096801758,Positive
 الظلم عدم الاحساس الوقاحه,-0.8402,Negative,0.0,Neutral,-0.465097427368164,Negative
 المتدينين وغرورهم وعدم قبولهم,-0.4019,Negative,0.0,Neutral,-0.4398059546947479,Negative
 المواقف اللي غصبتني الاقارب,-0.6808,Negative,0.0,Neutral,0.2937939167022705,Neutral
@@ -492,16 +492,16 @@ L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 على نفسي الاخرين نفسه,0.0,Neutral,0.0,Neutral,-0.2388859689235687,Negative
 الغضب صح قوه لكن قوة تقليد,0.714,Positive,-0.1611111111111111,Negative,0.407062292098999,Positive
 ماتغضب اصلا الا لما تكون على حق,0.4023,Positive,-0.1071428571428571,Negative,-0.5924593210220337,Negative
-This relaxing song help me so much! Thanks,0.8545,Positive,0.2,Neutral,0.8049675822257996,Positive
-This is actually my stress relief video right here,0.0772,Positive,0.1428571428571428,Neutral,0.6956149339675903,Positive
+This relaxing song help me so much! Thanks,0.8545,Positive,0.2,Positive,0.8049675822257996,Positive
+This is actually my stress relief video right here,0.0772,Positive,0.1428571428571428,Positive,0.6956149339675903,Positive
 ok spanis estoy haciendo tareas bye,0.296,Positive,0.5,Positive,0.4045671820640564,Positive
-I wana live wana live jijijijiji this is a music jajaa,0.0,Neutral,0.1363636363636363,Neutral,-0.332807332277298,Negative
+I wana live wana live jijijijiji this is a music jajaa,0.0,Neutral,0.1363636363636363,Positive,-0.332807332277298,Negative
 jijijijijijijijijijijij,0.0,Neutral,0.0,Neutral,0.2595880329608917,Neutral
-all rigt,0.0,Neutral,0.2857142857142857,Neutral,-0.2495450973510742,Negative
+all rigt,0.0,Neutral,0.2857142857142857,Positive,-0.2495450973510742,Negative
 nice too me you,0.4215,Positive,0.6,Positive,0.5001304149627686,Positive
 hello my name is camila placencio,0.0,Neutral,0.0,Neutral,0.3808501958847046,Positive
 wooooow,0.0,Neutral,0.0,Neutral,-0.2339697927236557,Negative
-"wow jijijiji wow,",0.7845,Positive,0.1,Neutral,0.6694743037223816,Positive
+"wow jijijiji wow,",0.7845,Positive,0.1,Positive,0.6694743037223816,Positive
 🤭🤗😁😃😃😀😀😄😄,0.9799,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🥰🥰🥰🥰🥰,0.9895,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -534,7 +534,7 @@ wooooow,0.0,Neutral,0.0,Neutral,-0.2339697927236557,Negative
 الرغبة المحلة بالج,0.4019,Positive,0.0,Neutral,0.3187017440795898,Neutral
 الرغبة الملحة بالمطاعم الكوفيهات,0.0,Neutral,0.0,Neutral,0.3561917543411255,Positive
 جن صديقات,0.4767,Positive,0.0,Neutral,0.3771034777164459,Positive
-الرغبة بالاهتمام العاطفي الخاص الحب المال الحنان الزو,0.9186,Positive,0.2857142857142857,Neutral,0.3449370861053467,Positive
+الرغبة بالاهتمام العاطفي الخاص الحب المال الحنان الزو,0.9186,Positive,0.2857142857142857,Positive,0.3449370861053467,Positive
 رغبة بحب الناس مدحهم اعجابهم خايفه اخسر خايفة وحدة,0.8442,Positive,-0.2333333333333333,Negative,0.4679427146911621,Positive
 الرغبة بأكل معيت,0.4019,Positive,0.0,Neutral,0.3072115182876587,Neutral
 الرغبة اقهرهم مثل مايقهروني الاقارب الرغبه به عاطفيا ماليا جن,0.1779,Positive,-0.3125,Negative,0.2723598778247833,Neutral
@@ -556,7 +556,7 @@ wooooow,0.0,Neutral,0.0,Neutral,-0.2339697927236557,Negative
 نفسه مراقبه تنفس بطني,0.0,Neutral,0.0,Neutral,0.4678243398666382,Positive
 فر +مستقبل استغلال حمايه مساعده +سيارة قطع موت +مستقبل+فقدان اغراض,-0.7717,Negative,-0.1999999999999999,Negative,-0.4716075360774994,Negative
 خطر خوف مبني عليه,-0.765,Negative,0.0,Neutral,-0.5039012432098389,Negative
-الخوف لا حقيقه منه ولا له فقط طاقة عايشه بداخلك,-0.2732,Negative,0.2,Neutral,-0.4487621188163757,Negative
+الخوف لا حقيقه منه ولا له فقط طاقة عايشه بداخلك,-0.2732,Negative,0.2,Positive,-0.4487621188163757,Negative
 بالاسترخاء يحدث كل شي ويتحرر اسرع,0.5267,Positive,0.0,Neutral,-0.2678040862083435,Negative
 فقدان الاغراض التشتت الضياع الحوسه,-0.5574,Negative,0.0,Neutral,-0.4289034605026245,Negative
 سيارة حوادث مواق قطع,-0.5267,Negative,0.0,Neutral,-0.5268430113792419,Negative
@@ -593,12 +593,12 @@ cool mics,0.3182,Positive,0.35,Positive,0.5450901985168457,Positive
 Hey,0.0,Neutral,0.0,Neutral,0.363322764635086,Positive
 I love this song what is the name of it,0.6369,Positive,0.5,Positive,0.8106144666671753,Positive
 i want to make a game but i need a name to a car game. Can you help me?,0.5719,Positive,-0.4,Negative,0.3206927180290222,Neutral
-"This was very helpful for me.  There was a lot of noise when I was studying, then I put this song and I could hear nothing!",0.5244,Positive,0.25,Neutral,0.7517295479774475,Positive
+"This was very helpful for me.  There was a lot of noise when I was studying, then I put this song and I could hear nothing!",0.5244,Positive,0.25,Positive,0.7517295479774475,Positive
 Praying for everyone to fall asleep quickly and sleep peacefully. May everyone wake up happy and well rested.,0.8934,Positive,0.4611111111111111,Positive,0.6387300491333008,Positive
 😔 sad,-0.4215,Negative,-0.5,Negative,-0.450101375579834,Negative
 The musi make me sleep,0.0,Neutral,0.0,Neutral,0.2773721218109131,Neutral
 F,0.0,Neutral,0.0,Neutral,0.2324780821800232,Neutral
-Thx verry much,0.3612,Positive,0.2,Neutral,-0.3452410399913788,Negative
+Thx verry much,0.3612,Positive,0.2,Positive,-0.3452410399913788,Negative
 I love this music,0.6369,Positive,0.5,Positive,0.8531957864761353,Positive
 oh those are so soothing and peaceful sounds again. you can close your eyes and really get involved. enjoy the moment for yourself and your body. great content. Many Thanks! 🙏❤️☺️,0.9648,Positive,0.4000000000000001,Positive,0.8927497863769531,Positive
 الملل بالقهوه,-0.3182,Negative,0.0,Neutral,0.2816329002380371,Neutral
@@ -622,15 +622,15 @@ You are  my favorite  YouTube music 🎶",0.7184,Positive,0.5,Positive,0.9195572
 Shut up and make more of this,0.0,Neutral,0.5,Positive,-0.3549728989601135,Negative
 "After hearing this song, I teared up inadvertently without even knowing, This is why this channel inspired me to make relaxing music for others and hope i can help in a way!",0.906,Positive,0.0,Neutral,0.6988287568092346,Positive
 "These comments are so nice, Everyone says kind things!! Sometimes tears dropped! Whoever See's this: Be safe, and take care of yourself Superstar!",0.9244,Positive,0.7416666666666667,Positive,0.7463943362236023,Positive
-"Hoping to find something calm, for me calm means no high notes. My misophonia can drive me up the wall sometimes.",0.6369,Positive,0.1733333333333333,Neutral,0.6048368811607361,Positive
+"Hoping to find something calm, for me calm means no high notes. My misophonia can drive me up the wall sometimes.",0.6369,Positive,0.1733333333333333,Positive,0.6048368811607361,Positive
 السمنه,0.0,Neutral,0.0,Neutral,-0.231700450181961,Negative
 الخوف من الحيوانات المستقبل,-0.4939,Negative,0.0,Neutral,0.2258639335632324,Neutral
-القلق العايلي,-0.1779,Negative,0.16,Neutral,0.2880088090896606,Neutral
+القلق العايلي,-0.1779,Negative,0.16,Positive,0.2880088090896606,Neutral
 القلق العاطفي,-0.0258,Neutral,0.0,Neutral,0.2550545334815979,Neutral
 القلق المالي,-0.1779,Negative,0.0,Neutral,0.2716499269008636,Neutral
 القلق فيه هذي اللحظه القلق تحت القلق عند الناس الفضولين اشغالي امي مستقبلي,-0.4588,Negative,-0.05,Negative,0.2601674497127533,Neutral
 التعب العاطفي الدراسي,-0.1027,Negative,0.0,Neutral,0.3854835331439972,Positive
-التعب النفسي العايلي,-0.25,Negative,0.08,Neutral,0.292138934135437,Neutral
+التعب النفسي العايلي,-0.25,Negative,0.08,Positive,0.292138934135437,Neutral
 التعب اثناء المجهود +ملل,-0.5106,Negative,0.0,Neutral,0.3074466586112976,Neutral
 طلعتي اب لم,0.0,Neutral,0.0,Neutral,-0.3878313601016998,Negative
 الاكل قلق,-0.25,Negative,-0.25,Negative,-0.3191894590854645,Negative

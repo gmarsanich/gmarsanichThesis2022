@@ -1,13 +1,13 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 "Some of his screams sound like godzilla what? Godzilla 2014, the first half of the roar
-6:01",0.0772,Positive,0.1611111111111111,Neutral,-0.3281640708446502,Negative
+6:01",0.0772,Positive,0.1611111111111111,Positive,-0.3281640708446502,Negative
 he looks like a baby playing in a gym,0.5106,Positive,0.0,Neutral,0.2922575771808624,Neutral
 Has Felix always had a New York accent? I'm confused...,-0.3182,Negative,-0.1318181818181818,Negative,-0.3233334422111511,Negative
 "LoLs, He reminds me of my land  lord. But I never saw him scream like Lunker Godzilla.",0.73,Positive,0.0,Neutral,0.3147475123405456,Neutral
 He must be challenging felix's tambourine tower.,0.1531,Positive,0.5,Positive,0.4341581761837005,Positive
 the W in his youtube name stands for weak,-0.4404,Negative,-0.375,Negative,-0.4117054045200348,Negative
 the scream at 6:00 sounds like the tom and jerry scream ngl,-0.4404,Negative,0.0,Neutral,-0.3814034461975097,Negative
-long llive bloat,0.0,Neutral,0.0431818181818181,Neutral,-0.2774337828159332,Negative
+long llive bloat,0.0,Neutral,0.0431818181818181,Positive,-0.2774337828159332,Negative
 Γιατί πάντα οι Έλληνες ;; Γιατί ; 😂,0.504,Positive,0.0,Neutral,-0.2792856097221374,Negative
 Can I get name and brand of dumbbells please 🌝,0.2732,Positive,0.0,Neutral,-0.5292034149169922,Negative
 5:54 he sounds like godzilla,0.3612,Positive,0.0,Neutral,-0.2430532574653625,Negative
@@ -20,7 +20,7 @@ This tattoo language...,0.0,Neutral,0.0,Neutral,0.4122006595134735,Positive
 "bloat king : ""Cardio? never heard of it""",0.0,Neutral,0.0,Neutral,-0.4135807156562805,Negative
 "pewds has put on a fair amount of mass, those arms are getting jacked.",0.3182,Positive,0.7,Positive,0.3958161771297455,Positive
 Anyone notice the seal on the naruto gfuel ain’t even broke man hasn’t even tasted it 😂,0.6407,Positive,0.0,Neutral,-0.7238450646400452,Negative
-He farting the whole time,0.0,Neutral,0.2,Neutral,-0.4232500195503235,Negative
+He farting the whole time,0.0,Neutral,0.2,Positive,-0.4232500195503235,Negative
 Pewdiepie lookin swole,0.0,Neutral,0.0,Neutral,0.2526741921901703,Neutral
 Pewds is looking good! The training is defo paying off!,0.5399,Positive,1.0,Positive,0.327713280916214,Neutral
 But why is felix wearing those dark glasses at night tho,0.0,Neutral,-0.15,Negative,0.3375715911388397,Positive
@@ -54,12 +54,12 @@ this video was way well edited for some reason,0.2732,Positive,0.0,Neutral,0.341
 1:08 he is greek.Lets go greek power baby,0.0,Neutral,0.0,Neutral,-0.4559739232063293,Negative
 The rock edit was perfect lmao,0.8225,Positive,0.8,Positive,0.5910453200340271,Positive
 Farting ASMR Ultra Pro Max,0.0,Neutral,0.0,Neutral,0.4499992132186889,Positive
-hahaha thx pewdiepie for this,0.7269,Positive,0.2,Neutral,0.4041762351989746,Positive
+hahaha thx pewdiepie for this,0.7269,Positive,0.2,Positive,0.4041762351989746,Positive
 Collab with the bloat Lord 🙏,0.0,Neutral,0.0,Neutral,0.3694999814033508,Positive
 Those little farty noises Pewd’s dumbbells make 🤣,0.4588,Positive,-0.1875,Negative,-0.3353157341480255,Negative
 "12:54 ""i'm stronger with my right arm..""
 I wonder why pewds.. i wonder why
-( ͡° ͜ʖ ͡°)",0.3818,Positive,0.2857142857142857,Neutral,-0.329454630613327,Negative
+( ͡° ͜ʖ ͡°)",0.3818,Positive,0.2857142857142857,Positive,-0.329454630613327,Negative
 buff pewds,0.0,Neutral,0.0,Neutral,0.2762799561023712,Neutral
 Godzilla's voice actor idk,-0.1027,Negative,0.0,Neutral,0.2463301867246627,Neutral
 """If i die it will be an honorable death"" he died trying to replicate bloat god himself",-0.7783,Negative,0.0,Neutral,-0.6672883033752441,Negative
@@ -69,9 +69,9 @@ He's putting godzilla roar to shame.,-0.4767,Negative,0.0,Neutral,-0.30295616388
 Grizzly vs Giga Chad. When an unstoppable force meets an immovable object.,-0.2023,Negative,0.0,Neutral,-0.2283678203821182,Negative
 two adverts felix??? WHHYYYYY,0.0,Neutral,0.0,Neutral,-0.5055780410766602,Negative
 just sounds like pewds is continuously sharting everytime he attemps to lift the weights,0.3612,Positive,0.0,Neutral,-0.4364081025123596,Negative
-"you lie!! You couldn't even keep a straight face when you said youre almost done with that ""G Fuel"" non sense. lmfao!",0.5538,Positive,0.25,Neutral,-0.7379676103591919,Negative
+"you lie!! You couldn't even keep a straight face when you said youre almost done with that ""G Fuel"" non sense. lmfao!",0.5538,Positive,0.25,Positive,-0.7379676103591919,Negative
 That's the best part of it. Even if you get into fitness simply for the looks.....you'll stay for the strength.,0.8591,Positive,0.5,Positive,0.5054164528846741,Positive
-The gold of body building used to be to have strong hips then it changed to have a bulging chest so his workouts could be more in the classical field.,0.5106,Positive,0.3111111111111111,Neutral,0.3628869950771332,Positive
+The gold of body building used to be to have strong hips then it changed to have a bulging chest so his workouts could be more in the classical field.,0.5106,Positive,0.3111111111111111,Positive,0.3628869950771332,Positive
 "Пьюдипай очень крут 
 Классный голос ,красивая внешность и харизма
 👍",0.8431,Positive,0.5516666666666666,Positive,0.5479423403739929,Positive
@@ -86,10 +86,10 @@ Now we know who Saitama is based on,0.0,Neutral,0.0,Neutral,0.3417235016822815,P
 If you are from india = like (1k)
 If you are from othercountry = Subscribe (1k)
 Let's see who will win india or othercountry 🥰",0.9274,Positive,0.8,Positive,-0.2912468314170837,Negative
-You really need to do promos every video,0.0,Neutral,0.2,Neutral,0.5157952904701233,Positive
+You really need to do promos every video,0.0,Neutral,0.2,Positive,0.5157952904701233,Positive
 Pewdiepie has some serious gains 💪,0.2732,Positive,-0.3333333333333333,Negative,0.5079332590103149,Positive
 Joe burrow?????,0.0,Neutral,0.0,Neutral,-0.4091101884841919,Negative
-I live in the same town with him😅,0.3612,Positive,0.0681818181818181,Neutral,0.4315206110477447,Positive
+I live in the same town with him😅,0.3612,Positive,0.0681818181818181,Positive,0.4315206110477447,Positive
 You look Amazing btw!! Great job bro!!!!,0.877,Positive,0.96875,Positive,0.8585684895515442,Positive
 Everytime PewDiePie lifted I thought he was farting because of the sound he was making,0.0,Neutral,0.4,Positive,-0.2564307749271393,Negative
 More fitness memes!,0.3989,Positive,0.625,Positive,0.488413542509079,Positive
@@ -107,7 +107,7 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Name of techno song ?,0.0,Neutral,0.0,Neutral,-0.3654080629348755,Negative
 He looks like if Humpty Dumpty got super yolked.,0.7506,Positive,0.3333333333333333,Positive,-0.3817597031593323,Negative
 "You made me laugh pretty hard with this one lol
-Edit: holy crap this guy does the equivalent of medieval pressing as part of his workout 😳 that was a form of torturing accused witches, often to death...  this guy must have an interesting psych profile 🤔",-0.2023,Negative,0.1083333333333333,Neutral,-0.4938995242118835,Negative
+Edit: holy crap this guy does the equivalent of medieval pressing as part of his workout 😳 that was a form of torturing accused witches, often to death...  this guy must have an interesting psych profile 🤔",-0.2023,Negative,0.1083333333333333,Positive,-0.4938995242118835,Negative
 *godzilla screams*,-0.296,Negative,0.0,Neutral,-0.3615636229515075,Negative
 I can smell the stale dirty laundry b.o. from here,-0.4404,Negative,-0.55,Negative,-0.2517363727092743,Negative
 "More weight! - this guy, or that one guy from ""The Crucible."" (I think it was Giles Corey)",0.0,Neutral,0.625,Positive,-0.3983142375946045,Negative
@@ -117,11 +117,11 @@ It's just funny how when martia was walking away she was smug about it but when 
 his scream is somewht like yoda death sound,-0.6249,Negative,0.4,Positive,-0.3173995912075043,Negative
 "Zercher Shrugs is a thing, granted it does not really look like it when he does it. At least not compared to people doing it with less weight.",-0.0813,Negative,-0.1888888888888888,Negative,0.5418218374252319,Positive
 Every ones gangsta until pweds lift like a god,0.5574,Positive,0.0,Neutral,-0.5277650952339172,Negative
-This meme is old,0.0,Neutral,0.1,Neutral,-0.2934275865554809,Negative
+This meme is old,0.0,Neutral,0.1,Positive,-0.2934275865554809,Negative
 becoming difficulter,0.0,Neutral,0.45,Positive,-0.3351471722126007,Negative
 "The bit where Felix couldn't get the weights off his overpowered abs, and Marzia then ran, really made me laugh! Fun video all around :)",0.8874,Positive,0.34375,Positive,0.4866205155849457,Positive
 Bro why does it sound like he’s shidding himself 😂 14:36,0.6597,Positive,0.4,Positive,-0.5022171139717102,Negative
-A lot of high level weightlifters have that physique,0.0,Neutral,0.16,Neutral,0.3177502155303955,Neutral
+A lot of high level weightlifters have that physique,0.0,Neutral,0.16,Positive,0.3177502155303955,Neutral
 Kyriakos is Elden Ring final boss,0.0,Neutral,0.0,Neutral,0.4700844287872314,Positive
 He looks like daredevil here 15:35 😂,0.7096,Positive,0.0,Neutral,0.2333390265703201,Neutral
 I'm now 99% convinced that they used his screams as the sounds bite for Godzilla's cry in the films,-0.3818,Negative,0.0,Neutral,0.3408332169055938,Positive
@@ -130,7 +130,7 @@ where do I get these glasses bruh,0.0,Neutral,0.0,Neutral,-0.3523332178592682,Ne
 I love this video sm <3 It cracks me up all the time. Never gets old,0.7964,Positive,0.5333333333333333,Positive,0.8587733507156372,Positive
 cant believe daredevil tried the workout,-0.0951,Negative,0.0,Neutral,-0.3624815940856933,Negative
 God.,0.2732,Positive,0.0,Neutral,0.4317958354949951,Positive
-"Bro, is it just me or is feilx looking extra fine",0.2023,Positive,0.2083333333333333,Neutral,0.3708929717540741,Positive
+"Bro, is it just me or is feilx looking extra fine",0.2023,Positive,0.2083333333333333,Positive,0.3708929717540741,Positive
 "SMH!!!!!! Felix,you simply breathing will get people acting up (not me of course cause I am totally not a simp for Felix)",-0.6371,Negative,0.0,Neutral,-0.5929033160209656,Negative
 I’m confused if you’re pooping or lifting heavy weights,-0.3182,Negative,-0.3,Negative,0.2890764474868774,Neutral
 Im glad pewdiepie is into fitness stuff. But he should watch dereks video on gfuel,0.3716,Positive,0.5,Positive,0.3484075367450714,Positive
@@ -147,13 +147,13 @@ Why is wanting to look good and stay fit make you fat fobic ??? Like it's my lif
 PewDiePie looking like he's about give a 
 Red pill or Blue pill!",0.1007,Positive,-0.1666666666666666,Negative,-0.5670369267463684,Negative
 YESS FITNESS PIE,0.2732,Positive,0.0,Neutral,0.4719302952289581,Positive
-"""Im stronger in my right arm.""",0.3818,Positive,0.2857142857142857,Neutral,-0.357013076543808,Negative
+"""Im stronger in my right arm.""",0.3818,Positive,0.2857142857142857,Positive,-0.357013076543808,Negative
 based bloat maxing,0.0,Neutral,0.0,Neutral,0.3523429334163666,Positive
 Why does Grizzly sound like Tom when his foot gets caught in a mousetrap?,0.3612,Positive,0.4,Positive,-0.4052110314369201,Negative
 Subscribe to WWE in peacock,0.0,Neutral,0.0,Neutral,0.3153321444988251,Neutral
 This guy needs to enter those slapping contests.,0.0,Neutral,0.0,Neutral,-0.2819929122924804,Negative
-I think he tried a little too hard but I'm just dying of laughter. Yo if I wasn't already happy I must be happy now after seeing this,0.7424,Positive,0.2802083333333333,Neutral,0.4514696598052978,Positive
-Is it also weird that him trying to mimic bloat's workout probably gives a really good ASMR?,0.3597,Positive,0.0999999999999999,Neutral,0.436272531747818,Positive
+I think he tried a little too hard but I'm just dying of laughter. Yo if I wasn't already happy I must be happy now after seeing this,0.7424,Positive,0.2802083333333333,Positive,0.4514696598052978,Positive
+Is it also weird that him trying to mimic bloat's workout probably gives a really good ASMR?,0.3597,Positive,0.0999999999999999,Positive,0.436272531747818,Positive
 "I think that's why they have those disclaimers that say ""don't try this at home""",0.0,Neutral,0.0,Neutral,-0.3664804100990295,Negative
 When you're exercising even inspires the biggest YouTuber in the world,0.4404,Positive,0.0,Neutral,0.7705457806587219,Positive
 My dude is literally doing the splits. I respect him just for that,0.4767,Positive,0.0,Neutral,0.3910789787769317,Positive
@@ -165,11 +165,11 @@ But most importantly he scream at them bacc
 "Someone color this guy green and call him Hulk. ""You wouldn't like him when he's angry""",-0.6608,Negative,-0.35,Negative,-0.6550420522689819,Negative
 He could have what it takes to play Banshee in the X-Men with that scream. He'd be the most thicc version,-0.0772,Negative,0.5,Positive,0.3724968433380127,Positive
 "When he screams I'm just thinking ""he's letting out his inner frat boy"" 🤣🤣🤣🤣🤣🤣",0.9517,Positive,0.0,Neutral,-0.2616194784641266,Negative
-"Spotter nearly gets launched into orbit. The dude literally get slapped in the face and you're just seeing him go flying like team rocket 🤣🤣🤣🤣🤣🤣 ""we're blasting off again!""",0.9701,Positive,0.125,Neutral,-0.6102545857429504,Negative
+"Spotter nearly gets launched into orbit. The dude literally get slapped in the face and you're just seeing him go flying like team rocket 🤣🤣🤣🤣🤣🤣 ""we're blasting off again!""",0.9701,Positive,0.125,Positive,-0.6102545857429504,Negative
 Yay Gfuel and Naruto! Talk about double the childhood,0.5707,Positive,0.0,Neutral,0.5726969838142395,Positive
-I've actually never seen that clip before. I'm not that cultured cuz I don't do popular videos as much as I used to,-0.3252,Negative,0.2666666666666666,Neutral,-0.4198075830936432,Negative
+I've actually never seen that clip before. I'm not that cultured cuz I don't do popular videos as much as I used to,-0.3252,Negative,0.2666666666666666,Positive,-0.4198075830936432,Negative
 после этого видео увидев то как сильно подкачался пюдс за несколько лет я пошел на турнинички хых :'(,-0.4939,Negative,-0.2666666666666666,Negative,-0.4074539840221405,Negative
-I love how felix’s grunts sound like wet farts,0.7717,Positive,0.2666666666666666,Neutral,0.6539624333381653,Positive
+I love how felix’s grunts sound like wet farts,0.7717,Positive,0.2666666666666666,Positive,0.6539624333381653,Positive
 0:17 For me it is not for looks it is my insecurities telling me that I NEED to look like the girls in front page magazine’s or in ads where they are all skinny and have the most perfect smile,0.7559,Positive,0.6,Positive,-0.5449672341346741,Negative
 ya'll can see now how ripped our god himself,0.2732,Positive,0.0,Neutral,-0.5829470753669739,Negative
 "For real man? just found out i need to be a member to re watch a ff stream. I was watching it and suddenly i needed to be a member.
@@ -181,7 +181,7 @@ If they made him a G-Fuil what would they call it. God Fuil?,0.2732,Positive,0.0
 "Man’s tore his picept w 70 , 80 or at most 115",0.0,Neutral,0.5,Positive,-0.6363593339920044,Negative
 The goddamn fart noises crack me up so bad 🤣👌,0.1881,Positive,-0.6999999999999998,Negative,-0.7133801579475403,Negative
 grunting increases strengh.,0.4939,Positive,0.0,Neutral,0.3454833626747131,Positive
-Punching bloat people would be hilarious imagine just hearing your most strongest punch sound like a small smack.,0.8122,Positive,0.2875,Neutral,-0.272639662027359,Negative
+Punching bloat people would be hilarious imagine just hearing your most strongest punch sound like a small smack.,0.8122,Positive,0.2875,Positive,-0.272639662027359,Negative
 WTH how do you have 100m? like no offence 🙄🥱,-0.1889,Negative,0.0,Neutral,0.4557075500488281,Positive
 "Zercher squat needs a bar, its almost like front squats. This is amazing.",0.719,Positive,0.6000000000000001,Positive,0.6312016248703003,Positive
 Wait this is pewdiepie video?,0.0,Neutral,0.0,Neutral,-0.5933899879455566,Negative
@@ -190,7 +190,7 @@ the problem felix did when trying the workout was that he didn't scream,-0.1134,
 😂,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Planet Fitness would blare their siren as this man opens the door.,0.2732,Positive,0.0,Neutral,-0.3101467490196228,Negative
 MAN WTF I don't watch Pewdiepie in some time and now he's a Viking???? GOD DAYUM,-0.5661,Negative,-0.5,Negative,-0.414910614490509,Negative
-He’s really just a T-Rex in human form.,0.0,Neutral,0.1,Neutral,-0.2634495496749878,Negative
+He’s really just a T-Rex in human form.,0.0,Neutral,0.1,Positive,-0.2634495496749878,Negative
 When Dark Souls bosses face him they start to dodgeroll around on the floor.,0.0,Neutral,-0.15,Negative,0.3477616310119629,Positive
 The grizzly has a video of doing fkin pull-ups...180kg pull ups...,0.0,Neutral,0.0,Neutral,-0.2653691172599792,Negative
 I’m rich,0.5574,Positive,0.375,Positive,0.4408343136310577,Positive
@@ -205,21 +205,21 @@ He sounds like boss monster spawn,0.3612,Positive,0.0,Neutral,0.3655024468898773
 Was
 Gold
 
-Too funny",0.4404,Positive,0.25,Neutral,-0.4201279878616333,Negative
-"He wasn't squatting, he was doing shrugs for the traps. I guess he wanted to lift even more than he could doing the normal ways for shrugging when working out the traps; so he wrapped his arms on the weights like a seatbelt to achieve that like when you cant lift a case of water bottles below your waste. Makes total sense to do it that way since you can hold more.",0.296,Positive,0.19,Neutral,0.3848344385623932,Positive
+Too funny",0.4404,Positive,0.25,Positive,-0.4201279878616333,Negative
+"He wasn't squatting, he was doing shrugs for the traps. I guess he wanted to lift even more than he could doing the normal ways for shrugging when working out the traps; so he wrapped his arms on the weights like a seatbelt to achieve that like when you cant lift a case of water bottles below your waste. Makes total sense to do it that way since you can hold more.",0.296,Positive,0.19,Positive,0.3848344385623932,Positive
 "this man not screaming cus of the workout, hes screaming at the weights to scare it to become lighter",-0.5597,Negative,0.0,Neutral,-0.4300151765346527,Negative
 "mans wearing sunglasses inside
 
-reminds me of a certain person",0.2732,Positive,0.2142857142857142,Neutral,0.287087082862854,Neutral
+reminds me of a certain person",0.2732,Positive,0.2142857142857142,Positive,0.287087082862854,Neutral
 Me at the zoo ❣️,0.6369,Positive,0.0,Neutral,0.4273696541786194,Positive
 Hello guys I am here,0.0,Neutral,0.0,Neutral,0.6396250128746033,Positive
 fucking masking tape XD,0.7,Positive,-0.6,Negative,-0.750791072845459,Negative
 ROFL these fart sounds got me,0.6633,Positive,0.8,Positive,0.3660510182380676,Positive
 are we gonna ignore the girl at the beginning 🤨,-0.3612,Negative,0.0,Neutral,-0.2802785038948059,Negative
-Kyriakos is a modern Greek God,0.2732,Positive,0.1,Neutral,0.3291626274585724,Neutral
+Kyriakos is a modern Greek God,0.2732,Positive,0.1,Positive,0.3291626274585724,Neutral
 He's DOING A SHRUGG,0.0,Neutral,0.0,Neutral,0.253901332616806,Neutral
 He's like Godzilla turned human.,0.3612,Positive,0.0,Neutral,0.2460083663463592,Neutral
-"""I'm, stronger on my right arm""... ;)",0.5423,Positive,0.2678571428571428,Neutral,0.3112150132656097,Neutral
+"""I'm, stronger on my right arm""... ;)",0.5423,Positive,0.2678571428571428,Positive,0.3112150132656097,Neutral
 Why is pewds turning into johnny bravo tho!,0.0,Neutral,0.0,Neutral,-0.3935960233211517,Negative
 He screams better than Godzilla,0.1779,Positive,0.5,Positive,0.3286445438861847,Neutral
 Okay who clicked the video just too see PewDiePie workout? LOL.,0.6633,Positive,0.65,Positive,0.6909173727035522,Positive
@@ -228,7 +228,7 @@ There’s eye balls everywhere in PewDiePie front room,0.0,Neutral,0.0,Neutral,-
 those arent screams hes practicing his battle cries,-0.5286,Negative,0.0,Neutral,0.3720821440219879,Positive
 this content is like weirdly wholesome too,0.0772,Positive,-0.5,Negative,-0.4166693091392517,Negative
 Why dos it feel so personal to here someone breath hevy like that? hahah Like come down Felix is not an audition for hentai voice actors. But you wold get hired  XD,0.9022,Positive,-0.0388888888888888,Negative,-0.4034652411937713,Negative
-Why are you stronger on your right arm Felix🤨🤨🤨🤨🤨,0.3818,Positive,0.2857142857142857,Neutral,-0.2653111219406128,Negative
+Why are you stronger on your right arm Felix🤨🤨🤨🤨🤨,0.3818,Positive,0.2857142857142857,Positive,-0.2653111219406128,Negative
 Well now I know who played Godzilla in the Godzilla movies,0.5423,Positive,0.0,Neutral,0.4022451937198639,Positive
 put BFG division over when pewds is sitting up with the dumbbells.,-0.0516,Negative,0.0,Neutral,-0.3341884911060333,Negative
 Tyler1s dad,0.0,Neutral,0.0,Neutral,0.3591686487197876,Positive
@@ -241,7 +241,7 @@ Irl heavy from TF2,0.0,Neutral,-0.2,Negative,0.2705507576465606,Neutral
 "At the end,I could hear his balls exploding ( that or hatching)",0.0,Neutral,0.0,Neutral,0.3482063114643097,Positive
 "omg, pewd is so good now",0.5777,Positive,0.7,Positive,0.6016602516174316,Positive
 This guy sounds like the voice actor for Godzilla and I love it,0.7717,Positive,0.5,Positive,0.838003933429718,Positive
-Your biceps looks so developed now when compared to when you have shown your body for abs first time goddamn,-0.4767,Negative,0.175,Neutral,-0.3125984668731689,Negative
+Your biceps looks so developed now when compared to when you have shown your body for abs first time goddamn,-0.4767,Negative,0.175,Positive,-0.3125984668731689,Negative
 3:56 if my math is right that’s just under 800lbs the max I’ve ever dead lifted was like 700 and that guys doing it with his forearms wtf,-0.765,Negative,-0.1380952380952381,Negative,0.3073838651180267,Neutral
 And the last horse has crossed the finish line...,0.0,Neutral,0.0,Neutral,-0.4524385929107666,Negative
 "Actually, screaming or singing together in military training is for precision and unity and discipline.",-0.3818,Negative,-0.05,Negative,0.5619479417800903,Positive
@@ -262,10 +262,10 @@ What the heck last time I checked he had 50million subscribers 🥲🥲🥲🥲,
 "Incredible, thanks Mr. Bloat, thank you even more Mr. Breathe",0.6901,Positive,0.5333333333333333,Positive,0.8853188157081604,Positive
 Sive having a field day with the sound effects.,0.0,Neutral,0.4,Positive,0.3889103829860687,Positive
 Jurassic Park is missing out on an actor,-0.296,Negative,-0.2,Negative,0.2694495320320129,Neutral
-I love how felix’s grunts sound like wet farts,0.7717,Positive,0.2666666666666666,Neutral,0.6539624333381653,Positive
+I love how felix’s grunts sound like wet farts,0.7717,Positive,0.2666666666666666,Positive,0.6539624333381653,Positive
 The highlight of this video are Marzias nightmare creations in the backround,0.34,Positive,0.0,Neutral,0.4245733320713043,Positive
 Dude sounds like the trex from Jurassic park,0.3612,Positive,0.0,Neutral,0.2325977683067321,Neutral
-Ay man I let a little scream out in the gym every now and then when I’m really pushing myself yknow going for a PR u ever see goku power up silently NO that’s what I thought,-0.6531,Negative,0.0041666666666666,Neutral,0.2998521327972412,Neutral
+Ay man I let a little scream out in the gym every now and then when I’m really pushing myself yknow going for a PR u ever see goku power up silently NO that’s what I thought,-0.6531,Negative,0.0041666666666666,Positive,0.2998521327972412,Neutral
 Who is behind the camera watching you struggle 😂😂😂😂🤣,0.91,Positive,-0.4,Negative,0.238090381026268,Neutral
 Greek power 🇬🇷🇬🇷🇬🇷,0.0,Neutral,0.0,Neutral,0.4602068960666656,Positive
 "This reminds me of unus annus, can't say why thou...",0.0,Neutral,0.0,Neutral,0.3831947445869446,Positive
@@ -274,7 +274,7 @@ Felix lookin hella wealthy today,0.4201,Positive,0.5,Positive,0.4754545390605926
 5:55 The more I listen to it the more it sounds like a Godzilla.,0.4144,Positive,0.5,Positive,0.3909643888473511,Positive
 "12:55
 ""I'm stronger on my right arm.""
-🤨 why is that?",0.3818,Positive,0.2857142857142857,Neutral,-0.3524675071239471,Negative
+🤨 why is that?",0.3818,Positive,0.2857142857142857,Positive,-0.3524675071239471,Negative
 Felix is giving me Matt Murdock vibes in this viseo,0.34,Positive,0.0,Neutral,0.5021476149559021,Positive
 Marzia did a great job of imitating the spotter 👊,0.6249,Positive,0.8,Positive,0.470068097114563,Positive
 It's was funny when he said i'm your favorite youtuber its me right,0.7096,Positive,0.3452380952380952,Positive,0.4225699305534363,Positive
@@ -282,15 +282,15 @@ It's was funny when he said i'm your favorite youtuber its me right,0.7096,Posit
 13:29 what the heck was that  😂,0.4404,Positive,0.0,Neutral,-0.3255732953548431,Negative
 "I want him to dominate me, crush me",-0.2023,Negative,0.0,Neutral,0.7438346147537231,Positive
 I’ll actually go back to drinking alcohol just to share a cold one with this man,0.296,Positive,-0.3,Negative,-0.3235315680503845,Negative
-this man always tries to do something new and extraordinary and makes his audience feel excited for every next video hats off to him❤💙💜,0.9432,Positive,0.1489393939393939,Neutral,0.7535816431045532,Positive
+this man always tries to do something new and extraordinary and makes his audience feel excited for every next video hats off to him❤💙💜,0.9432,Positive,0.1489393939393939,Positive,0.7535816431045532,Positive
 PewDiePie is officially 34.3% god now,0.2732,Positive,0.0,Neutral,-0.3681060671806335,Negative
-I couldn't watch the bicep tear part. I'm a lifter myself and have experienced some light bicep injuries and one of them kinda traumatized me to the point where I can't watch gym fails anymore.,-0.0194,Neutral,0.2333333333333334,Neutral,-0.4151928126811981,Negative
+I couldn't watch the bicep tear part. I'm a lifter myself and have experienced some light bicep injuries and one of them kinda traumatized me to the point where I can't watch gym fails anymore.,-0.0194,Neutral,0.2333333333333334,Positive,-0.4151928126811981,Negative
 imagine this man in planet fitness,0.2732,Positive,0.0,Neutral,0.6175073981285095,Positive
 "12:54 ""im stronger with my right arm""
 I think its interesting how guys always have 1 arm thats stronger than the other... I wonder why that could be... lol",0.8658,Positive,0.3651785714285714,Positive,0.3808784484863281,Positive
 Bigger Ed,0.0,Neutral,0.0,Neutral,-0.3282632827758789,Negative
 Can't just buy a product because it has a picture of Naruto,0.0,Neutral,0.0,Neutral,-0.4909331500530243,Negative
-"does anyone know what the weights felix has are called? I smell new merch, honestly tho. I need some stuff for home and if anyone knows the name It'd be appreciated.",0.743,Positive,0.3121212121212121,Neutral,0.3338204324245453,Positive
+"does anyone know what the weights felix has are called? I smell new merch, honestly tho. I need some stuff for home and if anyone knows the name It'd be appreciated.",0.743,Positive,0.3121212121212121,Positive,0.3338204324245453,Positive
 He looks and sounds like the screaming marmot,-0.0258,Neutral,0.0,Neutral,0.3410327434539795,Positive
 i am full,0.0,Neutral,0.35,Positive,0.6387121081352234,Positive
 Pewdiepie is JACKED!!!,0.0,Neutral,0.0,Neutral,-0.5986652374267578,Negative
@@ -341,26 +341,26 @@ Is pewds wearing a sun glass or computer glass?,0.0,Neutral,0.0,Neutral,-0.31140
 Nihongo jozu,0.0,Neutral,0.0,Neutral,0.2924478352069855,Neutral
 I thought that was Joe Rogan,0.0,Neutral,0.0,Neutral,-0.2756069302558899,Negative
 MAke him cosplay as BOB!,0.0,Neutral,0.0,Neutral,0.5431433320045471,Positive
-very fluent in Godzilla language,0.0,Neutral,0.2,Neutral,-0.4501202702522278,Negative
+very fluent in Godzilla language,0.0,Neutral,0.2,Positive,-0.4501202702522278,Negative
 0:11 I pressed full screen to hear her better XD,0.8143,Positive,0.425,Positive,-0.5853365063667297,Negative
-"no cap i watching the grizzlies video and then wathced this straight after, ive had my daily doese of kakitjij kapapulait",-0.0194,Neutral,0.1,Neutral,-0.5828944444656372,Negative
+"no cap i watching the grizzlies video and then wathced this straight after, ive had my daily doese of kakitjij kapapulait",-0.0194,Neutral,0.1,Positive,-0.5828944444656372,Negative
 Pewdiepie needs to ascend to a bloatlord.,0.0,Neutral,0.0,Neutral,-0.3033224046230316,Negative
 "Pewds is a stud, goddamn!",-0.5255,Negative,0.0,Neutral,0.491457998752594,Positive
-His scream sounds straight out of Jurassic Park,-0.2023,Negative,0.2,Neutral,0.2137213498353958,Neutral
+His scream sounds straight out of Jurassic Park,-0.2023,Negative,0.2,Positive,0.2137213498353958,Neutral
 10:23 the fact this was literally used as a method of execution in the Salem witch trials …,-0.3612,Negative,0.0,Neutral,0.2520890831947326,Neutral
 Legend has it that Pewds is still being crushed under the weight of the Bloat God's Legend.,-0.4215,Negative,-0.1,Negative,-0.2846255004405975,Negative
 Anyone know what the weights Felix is using are called? They look like they're easy to use at home.,0.6597,Positive,0.4333333333333333,Positive,0.3180044293403625,Neutral
 "THE TOP SUBBED YTer ON EARTH PROMOTES DRINKING CAFFEINATED (OR NOT) CHEMICAL POWDERS…
 
-This is an episode of black mirror folks",0.6874,Positive,0.1666666666666666,Neutral,0.8018319010734558,Positive
+This is an episode of black mirror folks",0.6874,Positive,0.1666666666666666,Positive,0.8018319010734558,Positive
 Everything else aside pewds is BUILT!,0.0,Neutral,0.0,Neutral,-0.434918463230133,Negative
 the noises pewdiepie was making lol,0.4215,Positive,0.8,Positive,-0.4166475832462311,Negative
 Best video on your channel,0.6369,Positive,1.0,Positive,0.9341628551483154,Positive
-where do I find a gf that helps me just a much a Marzia helps this workout?,0.6369,Positive,0.2,Neutral,0.2715411782264709,Neutral
+where do I find a gf that helps me just a much a Marzia helps this workout?,0.6369,Positive,0.2,Positive,0.2715411782264709,Neutral
 "Hi Felix, thx a lot for your video, I am not sure that you'll even read it, but anyway: I'm citizen of Ukraine, and today we need world support.  Event short message from your side can save million's of people, that currently under Russian bombardment. Anyway thank you for your videos and especially for South Park episode.",0.9075,Positive,-0.05,Negative,0.4416241347789764,Positive
 He’s there for moral support,0.4019,Positive,0.0,Neutral,0.3729830980300903,Positive
 Poods looks like Matt Murdock,0.3612,Positive,0.0,Neutral,0.2777198851108551,Neutral
-"the naruto pronunciation, Cringe hahhaa",0.7351,Positive,0.2,Neutral,-0.3100372552871704,Negative
+"the naruto pronunciation, Cringe hahhaa",0.7351,Positive,0.2,Positive,-0.3100372552871704,Negative
 "Wait what?!
 How does Pewdiepie how God tastes like?!",0.6751,Positive,0.0,Neutral,-0.3651793897151947,Negative
 It’s too heavy Pewds! Abjort! Abjort!,0.0,Neutral,-0.390625,Negative,-0.5074042677879333,Negative
@@ -368,27 +368,27 @@ It’s too heavy Pewds! Abjort! Abjort!,0.0,Neutral,-0.390625,Negative,-0.507404
 кто русский who rassian,0.0,Neutral,0.0,Neutral,-0.5312439799308777,Negative
 anyone know where felix got his glasses?,0.0,Neutral,0.0,Neutral,-0.3888424932956695,Negative
 Va fan - det låter som att han föder! Good try! Harder than you think!,0.7163,Positive,0.375,Positive,0.5017246007919312,Positive
-"I love when pewds does it, it's just constant fating sounds",0.6369,Positive,0.25,Neutral,0.2826499342918396,Neutral
+"I love when pewds does it, it's just constant fating sounds",0.6369,Positive,0.25,Positive,0.2826499342918396,Neutral
 5:41 Godzilla in movies,0.0,Neutral,0.0,Neutral,0.3640787899494171,Positive
-Him having someone stack weights on his stomach is actually similarly done by singers like myself to practice breath control just not to the extreme extent he did it lol,0.6486,Positive,0.225,Neutral,0.3232915699481964,Neutral
+Him having someone stack weights on his stomach is actually similarly done by singers like myself to practice breath control just not to the extreme extent he did it lol,0.6486,Positive,0.225,Positive,0.3232915699481964,Neutral
 bloatmaxing 😈,0.4588,Positive,0.0,Neutral,0.2391354590654373,Neutral
 martzia’s kiln looks super cool,0.7351,Positive,0.3416666666666667,Positive,0.6028426289558411,Positive
 "Ukrainians are dying, help us.",0.4019,Positive,0.0,Neutral,0.4900681376457214,Positive
-I bet the dude's throat hurts after he screams. Why does he scream so much?,-0.7906,Negative,0.2,Neutral,-0.4021012783050537,Negative
-i think gyms need to be loud again. i wanna scream after finishing a set sometimes,-0.4019,Negative,0.1,Neutral,0.3607317805290222,Positive
-"I now know what I am using for my alarm clock ⏰️ to wake me up, the video of him screaming.  If that doesn't make me jump out of bed, nothing will. His screams make me want to salute if even for the sake of it and no other reason.",-0.7515,Negative,0.0625,Neutral,0.4718677401542663,Positive
+I bet the dude's throat hurts after he screams. Why does he scream so much?,-0.7906,Negative,0.2,Positive,-0.4021012783050537,Negative
+i think gyms need to be loud again. i wanna scream after finishing a set sometimes,-0.4019,Negative,0.1,Positive,0.3607317805290222,Positive
+"I now know what I am using for my alarm clock ⏰️ to wake me up, the video of him screaming.  If that doesn't make me jump out of bed, nothing will. His screams make me want to salute if even for the sake of it and no other reason.",-0.7515,Negative,0.0625,Positive,0.4718677401542663,Positive
 Wait till he finds out about Eric Bugenhagen,0.0,Neutral,0.0,Neutral,0.3068632185459137,Neutral
 best pewdiepie video to fall asleep to. 4 out of 7,0.6369,Positive,1.0,Positive,0.6011813282966614,Positive
 When did Matt Murdock take over pewds channel?,0.0,Neutral,0.0,Neutral,-0.3163770139217376,Negative
 This dude is someone you expect to see in Baki,0.0,Neutral,0.0,Neutral,0.6555025577545166,Positive
 @gregducette pls try this,0.0772,Positive,0.0,Neutral,0.3314861059188843,Positive
-Who wins a screaming contest him or a dinosor,0.2732,Positive,0.3,Neutral,-0.3802240192890167,Negative
+Who wins a screaming contest him or a dinosor,0.2732,Positive,0.3,Positive,-0.3802240192890167,Negative
 Bro since when was pewds so ripped?,0.0,Neutral,0.0,Neutral,-0.3897965848445892,Negative
 Ukraine needs to hire this man to fight for their army! He'd single-handedly bring down the Russians & Putin...could probably stop a bullet...and a tank...and missiles...,-0.6239,Negative,-0.1555555555555555,Negative,-0.3420705497264862,Negative
 "tbh , most realistic representation of Thor",0.0,Neutral,0.3333333333333333,Positive,0.4474903643131256,Positive
 He gained muscle and he looks nice I’m proud of him!,0.8313,Positive,0.8,Positive,0.7532567977905273,Positive
 Are those plates 25kg or 25lbs?,0.0,Neutral,0.0,Neutral,-0.3455274701118469,Negative
-I miss old pewds and Brad 1,-0.1531,Negative,0.1,Neutral,0.3214709460735321,Neutral
+I miss old pewds and Brad 1,-0.1531,Negative,0.1,Positive,0.3214709460735321,Neutral
 "Pew-pie looks like every Swedish villain in the movies.
 
 You are to late Mr bond. We have harnessed the power of the grizzly.",-0.2732,Negative,-0.3,Negative,0.5635942816734314,Positive
@@ -401,7 +401,7 @@ Song Name? Asking for a friend,0.4939,Positive,0.0,Neutral,-0.348493218421936,Ne
 Pewds lookin swole,0.0,Neutral,0.0,Neutral,-0.2871831953525543,Negative
 "seriously tho, he has the same scream as Godzilla",-0.5267,Negative,-0.1666666666666666,Negative,-0.6349248886108398,Negative
 Full,0.0,Neutral,0.35,Positive,0.4658744633197784,Positive
-been watching pewds for a LONG time and seeing him bulked up now seem surreal,0.0,Neutral,0.1,Neutral,0.274389237165451,Neutral
+been watching pewds for a LONG time and seeing him bulked up now seem surreal,0.0,Neutral,0.1,Positive,0.274389237165451,Neutral
 I read this thinking he was gonna jump on sarms,0.0,Neutral,0.0,Neutral,-0.500690758228302,Negative
 Gfuel fizzy faz??????,0.0,Neutral,0.0,Neutral,-0.4145389497280121,Negative
 this guy needs to go to planet fitness man,0.2732,Positive,0.0,Neutral,0.3087238669395447,Neutral
@@ -423,7 +423,7 @@ He should react to ronnie coleman memes,0.0,Neutral,0.0,Neutral,0.35045892000198
 14:24 where can  i buy those sportsequitments?,0.0,Neutral,0.0,Neutral,-0.370878666639328,Negative
 To this day we do not have the technology to weigh the bloat lord.,0.0,Neutral,0.0,Neutral,-0.3384259641170501,Negative
 Dam Felix got big brah 😳👀,0.0,Neutral,0.0,Neutral,0.258506566286087,Neutral
-I love listening to pewds nearly shit himself while lifting weights. 10/10,0.1531,Positive,0.15,Neutral,0.8335322141647339,Positive
+I love listening to pewds nearly shit himself while lifting weights. 10/10,0.1531,Positive,0.15,Positive,0.8335322141647339,Positive
 what shades is he wearing?,0.0,Neutral,0.0,Neutral,0.3011132478713989,Neutral
 6.00 sounds like Godzilla,0.3612,Positive,0.0,Neutral,-0.4821219742298126,Negative
 pewdiepie flew too close to the sun trying to imitate god and died becuase of his hubris,-0.3612,Negative,0.0,Neutral,-0.5756370425224304,Negative
@@ -467,15 +467,15 @@ This is quite fun
 He is working out does he eat far more then work out cause in some he looks thinner?",0.9572,Positive,0.4800000000000001,Positive,0.4823489189147949,Positive
 12:00 is that a kiln in the background??,0.0,Neutral,0.0,Neutral,-0.398055225610733,Negative
 Gorilla vs that man who would win?,0.5859,Positive,0.8,Positive,-0.2768143713474273,Negative
-"Live hack, mix gfuel with bubbly water so u get carbonated gfuel, makes it better",0.4404,Positive,0.3181818181818182,Neutral,0.3052121996879577,Neutral
+"Live hack, mix gfuel with bubbly water so u get carbonated gfuel, makes it better",0.4404,Positive,0.3181818181818182,Positive,0.3052121996879577,Neutral
 Zercher deadlifts and squats just activate a different area of muscles with different placement of the barbell,0.0,Neutral,0.0,Neutral,0.3113223314285278,Neutral
 when you running out of ideas,0.0,Neutral,0.0,Neutral,0.2132969945669174,Neutral
-the fact that marzia puts up w this shit is the most amusing part i’m in tearsss,-0.3307,Negative,0.3,Neutral,0.4962708950042724,Positive
-The Ancient Greeks athletes used to have certain breathing exercises which also included screaming as loud as possible!!,-0.2695,Negative,0.1047619047619047,Neutral,0.2779115438461303,Neutral
+the fact that marzia puts up w this shit is the most amusing part i’m in tearsss,-0.3307,Negative,0.3,Positive,0.4962708950042724,Positive
+The Ancient Greeks athletes used to have certain breathing exercises which also included screaming as loud as possible!!,-0.2695,Negative,0.1047619047619047,Positive,0.2779115438461303,Neutral
 The dude is like Zangief (street fighter) after retiring from fighting,0.1531,Positive,0.0,Neutral,0.2537378370761871,Neutral
-"Dude got a sick looking apt, an extremely good boi, and a lady friend that will watch him get bloated for the camera. Living the dream",0.624,Positive,0.1952380952380952,Neutral,0.4059487283229828,Positive
+"Dude got a sick looking apt, an extremely good boi, and a lady friend that will watch him get bloated for the camera. Living the dream",0.624,Positive,0.1952380952380952,Positive,0.4059487283229828,Positive
 Pewds has ascended,0.0,Neutral,0.0,Neutral,0.4115884602069855,Positive
-it's time to rest and absolute graphics by 2025,0.0,Neutral,0.2,Neutral,0.3915052413940429,Positive
+it's time to rest and absolute graphics by 2025,0.0,Neutral,0.2,Positive,0.3915052413940429,Positive
 follow me♥️♥️,0.8555,Positive,0.0,Neutral,0.4451960325241089,Positive
 0:59 He forgot about cardio workout days🤣,0.4939,Positive,0.0,Neutral,-0.553813099861145,Negative
 Jurassic park not duck lol,-0.3252,Negative,0.8,Positive,-0.3403885662555694,Negative
@@ -484,29 +484,29 @@ He's just an SCP-1788 specimen.,0.0,Neutral,0.0,Neutral,0.2765825688838959,Neutr
 "This guy screams so much, he would be an excellent curler",0.3612,Positive,0.6,Positive,0.2938056886196136,Neutral
 This be me bulking up in bulking season to challenge God.,0.34,Positive,0.0,Neutral,0.6798868179321289,Positive
 🤣🤣🤣 Just going off like Godzilla,0.9022,Positive,0.0,Neutral,-0.4483096599578857,Negative
-Help me clean YouTube there are people with nasty profile pics please report them so we can keep YouTube good 😊,0.9001,Positive,0.0222222222222222,Neutral,0.4036326110363006,Positive
+Help me clean YouTube there are people with nasty profile pics please report them so we can keep YouTube good 😊,0.9001,Positive,0.0222222222222222,Positive,0.4036326110363006,Positive
 沙加利格丁丹,0.0,Neutral,0.0,Neutral,0.2936212718486786,Neutral
 screaming or pulling a nerve,-0.3818,Negative,0.0,Neutral,-0.3938077390193939,Negative
 Can i take a bath with those sage mode gfuel???,0.0,Neutral,0.0,Neutral,-0.3027092218399048,Negative
-"I remember when Felix was so skinny a few years ago. Looking at him at the end of the video bro,,, holy shit he's jacked. so proud of him that takes a lot of effort and hard work",-0.0023,Neutral,0.0270833333333333,Neutral,0.7112558484077454,Positive
-how much does pewds bench press,0.0,Neutral,0.2,Neutral,0.2305348217487335,Neutral
+"I remember when Felix was so skinny a few years ago. Looking at him at the end of the video bro,,, holy shit he's jacked. so proud of him that takes a lot of effort and hard work",-0.0023,Neutral,0.0270833333333333,Positive,0.7112558484077454,Positive
+how much does pewds bench press,0.0,Neutral,0.2,Positive,0.2305348217487335,Neutral
 Felix can’t handle the bloat,0.0,Neutral,0.0,Neutral,-0.3750345706939697,Negative
 "8:20 He's actually lifting half a hyundai as a Traps isolation, the Zercher grip means he doesn't have to rely on his normal grip strength to keep up with his back/shoulders in strength.",0.5719,Positive,-0.0055555555555555,Negative,-0.2982668280601501,Negative
 "Felix, why is there a massive furnace in your living room?",0.0,Neutral,0.0,Neutral,-0.3663590252399444,Negative
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Imagine this man at planet fitness😂,0.6124,Positive,0.0,Neutral,0.5488693118095398,Positive
 I died when Edgar barked back,-0.5574,Negative,0.0,Neutral,-0.3877699077129364,Negative
-Marzia has the true strength of the gods. Holds camera with one hand and full dumbbell weight with the other. God blessed her,0.9246,Positive,0.1916666666666666,Neutral,0.8709721565246582,Positive
+Marzia has the true strength of the gods. Holds camera with one hand and full dumbbell weight with the other. God blessed her,0.9246,Positive,0.1916666666666666,Positive,0.8709721565246582,Positive
 Felix is in his Matt Murdock era,0.0,Neutral,0.0,Neutral,0.387826532125473,Positive
 god tier workout 🤯,0.2732,Positive,0.0,Neutral,0.55094975233078,Positive
-Instead of using a ground hog getting scared of his shadow to tell whether winter will last longer we should use this guy getting scared of his own strength,-0.3818,Negative,0.3,Neutral,0.339015930891037,Positive
-He’s like the real life kingpin Wilson Fisk,0.3612,Positive,0.2,Neutral,0.4238458275794983,Positive
+Instead of using a ground hog getting scared of his shadow to tell whether winter will last longer we should use this guy getting scared of his own strength,-0.3818,Negative,0.3,Positive,0.339015930891037,Positive
+He’s like the real life kingpin Wilson Fisk,0.3612,Positive,0.2,Positive,0.4238458275794983,Positive
 Why does it sound like his mic farting when he lift the wait,0.3612,Positive,0.4,Positive,-0.4178980588912964,Negative
 *proud greek noises *,0.4767,Positive,0.4,Positive,0.3218250572681427,Neutral
 FULL,0.0,Neutral,0.35,Positive,0.4658744633197784,Positive
 "Amazing video as always pewds, keep it up",0.5859,Positive,0.6000000000000001,Positive,0.8705130815505981,Positive
-"I actually have a friend that lives in the same town as Kyriakos here in Greece, he says that he is a very wholesome person",0.4939,Positive,0.0666666666666666,Neutral,0.2917039394378662,Neutral
-"I’m curious now, how much do pewdiepie’s dumbbells weigh?",0.2732,Positive,0.05,Neutral,0.3451620638370514,Positive
+"I actually have a friend that lives in the same town as Kyriakos here in Greece, he says that he is a very wholesome person",0.4939,Positive,0.0666666666666666,Positive,0.2917039394378662,Neutral
+"I’m curious now, how much do pewdiepie’s dumbbells weigh?",0.2732,Positive,0.05,Positive,0.3451620638370514,Positive
 This was Ronnie colemans Teacher,0.0,Neutral,0.0,Neutral,0.4986985325813293,Positive
 "what are those noises Pewds is making when setting up the workout AHAHHAHAHA WTF ,SCREAM BABY",-0.8388,Negative,-0.15,Negative,-0.565036416053772,Negative
 WTF FELIX IS SWOLENNNN AF,-0.5859,Negative,-0.5,Negative,-0.2715527415275574,Negative
@@ -521,14 +521,14 @@ It sounds like your farting every time you pick up the batteries,0.3612,Positive
 He would definitely set off the lunk alarm at planet fitness. He’s awesome.,0.7579,Positive,0.5,Positive,0.7403783202171326,Positive
 I bet his vocal chords are the strongest muscles of all!,0.4926,Positive,0.0,Neutral,0.739667534828186,Positive
 """If you work out for aesthetic reasons you are fatphobic""
-If you judge people for working out so they can look a certain way... youre a body shamer. See how that logic falls back on your head princess.",0.2732,Positive,0.1071428571428571,Neutral,-0.4516204595565796,Negative
+If you judge people for working out so they can look a certain way... youre a body shamer. See how that logic falls back on your head princess.",0.2732,Positive,0.1071428571428571,Positive,-0.4516204595565796,Negative
 He sounds like a dinosaur form Jurassic park,0.3612,Positive,0.0,Neutral,0.2664960324764251,Neutral
 The Dino-God,0.0,Neutral,0.0,Neutral,0.3847511410713196,Positive
 "Even if u use 470kg weights when the displacement = dx ; where dx tends to 0, such reps are literally useless...
 I think that Ego lifting prolly doesn't work...
 
 Want another part of Gym Fail series!",-0.9414,Negative,-0.375,Negative,-0.7678729295730591,Negative
-Never thought I’d find an action Bronson sample here,0.0,Neutral,0.1,Neutral,0.2568944990634918,Neutral
+Never thought I’d find an action Bronson sample here,0.0,Neutral,0.1,Positive,0.2568944990634918,Neutral
 It looks like you took The Bleat' Pill,0.3612,Positive,0.0,Neutral,0.2773331105709076,Neutral
 🏃‍♂Great👍for Runners🏃‍♀,0.0,Neutral,0.0,Neutral,0.3428077399730682,Positive
 """steel"" his look",0.0,Neutral,0.0,Neutral,0.3031769096851349,Neutral
@@ -541,8 +541,8 @@ Pewdiepie browses /fit/ confirmed. Unfathomably based,0.3612,Positive,0.4,Positi
 When that man is arguing he dosent talk he just screams,-0.6369,Negative,0.0,Neutral,-0.4884280860424042,Negative
 Rip Pewds defeated by the Bloat God😥,0.2144,Positive,0.0,Neutral,-0.3501326739788055,Negative
 Supriyono Official,0.0,Neutral,0.0,Neutral,0.3111472725868225,Neutral
-This man is greek omg 😆😆 love from Greece pewds🇬🇷♥️🇸🇪,0.9246,Positive,0.25,Neutral,0.624136209487915,Positive
-"considering this channel's core demographic, G-Fuel is a TERRIBLE sponsor. Not to mention the goddamn naruto themed product. Absolute top tier garbage capitalism at its best here combined with a passive ignorant internet celebrity just doin his thing...",-0.3034,Negative,0.175,Neutral,-0.9357444047927856,Negative
+This man is greek omg 😆😆 love from Greece pewds🇬🇷♥️🇸🇪,0.9246,Positive,0.25,Positive,0.624136209487915,Positive
+"considering this channel's core demographic, G-Fuel is a TERRIBLE sponsor. Not to mention the goddamn naruto themed product. Absolute top tier garbage capitalism at its best here combined with a passive ignorant internet celebrity just doin his thing...",-0.3034,Negative,0.175,Positive,-0.9357444047927856,Negative
 is it just me who is questionning why pewds has a liquid nitrogen tank on their living room,-0.1027,Negative,0.0,Neutral,-0.2794468700885772,Negative
 pewds like your content 👍,0.3612,Positive,0.0,Neutral,0.4886121153831482,Positive
 Slick glasses btw 💯,0.0,Neutral,-0.25,Negative,0.2817126810550689,Neutral
@@ -553,36 +553,36 @@ PewDiePie fart scream,-0.4019,Negative,0.0,Neutral,-0.4309864938259125,Negative
 du är från sverige,0.0,Neutral,0.0,Neutral,0.3250795304775238,Neutral
 Mans sound like a pterodactyl,0.3612,Positive,0.4,Positive,-0.3116153180599212,Negative
 This man can lift all his grandchildren at once lmao (don't know if he has any lol),0.7717,Positive,0.7,Positive,0.6407313346862793,Positive
-Subscribe I maa yourubaar from India subscribe foor new vediooos,0.0,Neutral,0.1363636363636363,Neutral,-0.4649186432361603,Negative
+Subscribe I maa yourubaar from India subscribe foor new vediooos,0.0,Neutral,0.1363636363636363,Positive,-0.4649186432361603,Negative
 ขิม ขรรค์ชัย ขันคูณ จงเจริญ,0.0,Neutral,0.0,Neutral,0.395340621471405,Positive
 Pewds kink: screaming strong man,0.1779,Positive,0.4333333333333333,Positive,0.4123168885707855,Positive
 fuck now all the fucking normies are gonna jump on this,-0.5423,Negative,-0.5,Negative,-0.7823755741119385,Negative
-It's nice to see Big time YouTubers such as Kyriakos helping small influencers such as pewds.,0.6124,Positive,0.0699999999999999,Neutral,0.5649014711380005,Positive
+It's nice to see Big time YouTubers such as Kyriakos helping small influencers such as pewds.,0.6124,Positive,0.0699999999999999,Positive,0.5649014711380005,Positive
 The asmr i didn't know i needed,0.0,Neutral,0.0,Neutral,0.2771101295948028,Neutral
 Dog,0.0,Neutral,0.0,Neutral,0.2707970738410949,Neutral
-This ending... What the actual fuck LMAO,0.2808,Positive,0.0666666666666666,Neutral,-0.597040057182312,Negative
+This ending... What the actual fuck LMAO,0.2808,Positive,0.0666666666666666,Positive,-0.597040057182312,Negative
 "I just love it when the notification “You have a new subscriber” comes, it makes me very happy!!!",0.877,Positive,0.5454545454545454,Positive,0.8102245330810547,Positive
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA,0.0,Neutral,0.0,Neutral,-0.4666045904159546,Negative
-His screams are like Godzilla destroying a city then roaring Lol.,-0.128,Negative,0.3,Neutral,0.2348423451185226,Neutral
+His screams are like Godzilla destroying a city then roaring Lol.,-0.128,Negative,0.3,Positive,0.2348423451185226,Neutral
 pewdiepie has acended to the point where he can almost finnish the g-fuel container without opening it,0.0,Neutral,0.0,Neutral,0.2940045595169067,Neutral
 of course you're my fav creator!!,0.555,Positive,0.0,Neutral,0.5892242789268494,Positive
 "I HAVE AN AWESOME IDEA!!!!
 NEW GFUEL SPONSORSHIP THE KYRIAKOS KAPAKOULAK FLAVOR!!!
 wait a minute would it even be a flavor or would it be pure god fuel wait the G in GFUEL must stand for God if it's his flavor.  Awesome idea",0.936,Positive,0.6201552353896104,Positive,0.5374523997306824,Positive
-When you lift it and your breath struggles making that constrained noise it isn’t good for you and puts strain on you. You need to exhale when you are lifting harder the lift more intense the exhale but controlled,0.0507,Positive,0.325,Neutral,-0.5479874014854431,Negative
+When you lift it and your breath struggles making that constrained noise it isn’t good for you and puts strain on you. You need to exhale when you are lifting harder the lift more intense the exhale but controlled,0.0507,Positive,0.325,Positive,-0.5479874014854431,Negative
 he sounds like the bad guy in how to train your dragon 2 (draco),-0.25,Negative,-0.6999999999999998,Negative,-0.5041528940200806,Negative
 Lmfao,0.5423,Positive,0.0,Neutral,0.2817633152008056,Neutral
 "If you put on makeup. You supporting the masculine agenda to look pretty. If you have a vagina you’re playing into the role of satisfying men. If you have blue eyes, you’re against having brown eyes which means you don’t like brown which makes you racist. 
 
-Just in case sarcasm ain’t hitting u in the dick. That’s what that is. Idk man that clip of that girl saying “if you workout for looks, you’re fathphobic” set me the tuck off. It’s 1 am. Also it sounds like he’s shitting his pants",0.3612,Positive,0.22,Neutral,-0.462779551744461,Negative
+Just in case sarcasm ain’t hitting u in the dick. That’s what that is. Idk man that clip of that girl saying “if you workout for looks, you’re fathphobic” set me the tuck off. It’s 1 am. Also it sounds like he’s shitting his pants",0.3612,Positive,0.22,Positive,-0.462779551744461,Negative
 "Masuk lah islam wahai manusia,nescaya kamu akan selamat...✅",0.7003,Positive,0.5,Positive,-0.5301843881607056,Negative
 "nice song 
 i am Anita from India",0.4215,Positive,0.6,Positive,0.4558538496494293,Positive
-Why is Pewdiepie cosplaying Matt Murdock whole video,0.0,Neutral,0.2,Neutral,-0.2898859679698944,Negative
-damn he looks good on that black tee's and glasses,0.0516,Positive,0.2666666666666666,Neutral,0.342170387506485,Positive
-"12:55 ""im stronger with my right arm"". Ofc, from all that fistbumping.",0.3818,Positive,0.2857142857142857,Neutral,-0.3764220476150512,Negative
+Why is Pewdiepie cosplaying Matt Murdock whole video,0.0,Neutral,0.2,Positive,-0.2898859679698944,Negative
+damn he looks good on that black tee's and glasses,0.0516,Positive,0.2666666666666666,Positive,0.342170387506485,Positive
+"12:55 ""im stronger with my right arm"". Ofc, from all that fistbumping.",0.3818,Positive,0.2857142857142857,Positive,-0.3764220476150512,Negative
 "Bro FUCK, your video's are LITERALLY Killing me, I have bronchitis.",-0.8636,Negative,-0.4,Negative,-0.8062427043914795,Negative
-He sound like Godzilla somtimes haha,0.6705,Positive,0.3,Neutral,-0.2984620630741119,Negative
+He sound like Godzilla somtimes haha,0.6705,Positive,0.3,Positive,-0.2984620630741119,Negative
 Zercher squats feel like youre getting your elbows replaced while being awake,0.3612,Positive,0.0,Neutral,0.2160273492336273,Neutral
 13:36 me when my gf leaves me,0.0,Neutral,0.0,Neutral,-0.3843799531459808,Negative
 That’s it. I’m trying it,0.0,Neutral,0.0,Neutral,0.3106796145439148,Neutral
@@ -601,27 +601,27 @@ How does he wipe his ass?,-0.5423,Negative,0.0,Neutral,-0.2826219797134399,Negat
 Pewdiepie is also sharing his best and worst moments 🤣🤣🤣,0.91,Positive,0.0,Neutral,0.5825470089912415,Positive
 5:56 kaiju level threat,-0.5267,Negative,0.0,Neutral,-0.2981109023094177,Negative
 This man walking is the reason why the world rotates.,0.0,Neutral,0.0,Neutral,0.5812340974807739,Positive
-"Kyriakos has the strong powerful haunches of a Budweiser Clydesdale. He is Greek God, but ye shall know him as BLOATLORD",0.5574,Positive,0.2444444444444444,Neutral,0.3008210361003876,Neutral
+"Kyriakos has the strong powerful haunches of a Budweiser Clydesdale. He is Greek God, but ye shall know him as BLOATLORD",0.5574,Positive,0.2444444444444444,Positive,0.3008210361003876,Neutral
 Why does Pewds with his glasses looks like Matt Murdock,0.3612,Positive,0.0,Neutral,-0.3631089925765991,Negative
 It's the squeaky grunts I came for.,0.0,Neutral,0.0,Neutral,0.4311332404613495,Positive
 He is a well known legend here in Greece.,0.2732,Positive,0.0,Neutral,0.5712457299232483,Positive
 Edger helped him out when he was stuck at the end,-0.25,Negative,0.0,Neutral,0.3177036941051483,Neutral
 We going to talk about how jacked this man is while just working out with dumbbells,-0.0516,Negative,0.0,Neutral,-0.3970004618167877,Negative
-it’s like a bell curve of people who don’t train thinking holy shit this guy is strong then people who train abit laughing at him and then people who train a lot also going holy shit this guy is strong,0.6249,Positive,0.1166666666666666,Neutral,0.4148484766483307,Positive
-Felix getting old. Took him 3 years to get around to this video.,0.0,Neutral,0.1,Neutral,0.4819882810115814,Positive
+it’s like a bell curve of people who don’t train thinking holy shit this guy is strong then people who train abit laughing at him and then people who train a lot also going holy shit this guy is strong,0.6249,Positive,0.1166666666666666,Positive,0.4148484766483307,Positive
+Felix getting old. Took him 3 years to get around to this video.,0.0,Neutral,0.1,Positive,0.4819882810115814,Positive
 Bloat bloat boost lost bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat bloat,0.1027,Positive,0.0,Neutral,-0.3540256321430206,Negative
 "imagine getting a hug from this guy... your liver would get squeezed out of your asshole, alongside your fatherly issues.",0.4767,Positive,0.0,Neutral,-0.3497973680496216,Negative
 Why get G fuel when you can get Daddy Noel's Godzilla pre-workout,0.0,Neutral,0.0,Neutral,-0.2662553787231445,Negative
-"I live in America but my great grandmother was from Norway.  She would always sing this song. ""10,000 Swedes ran through the weeds chased by 1 Norwegian!""  Is that a real song?",0.7871,Positive,0.2840909090909091,Neutral,-0.3726870715618133,Negative
-"The felix workout sound edits are killing me.  I'm a 34 year old child, bahahahahaha!!!!",-0.7627,Negative,0.3220703125,Neutral,-0.6595107913017273,Negative
+"I live in America but my great grandmother was from Norway.  She would always sing this song. ""10,000 Swedes ran through the weeds chased by 1 Norwegian!""  Is that a real song?",0.7871,Positive,0.2840909090909091,Positive,-0.3726870715618133,Negative
+"The felix workout sound edits are killing me.  I'm a 34 year old child, bahahahahaha!!!!",-0.7627,Negative,0.3220703125,Positive,-0.6595107913017273,Negative
 He kinda sound like Godzilla at 7:45,0.3008,Positive,0.4,Positive,0.5149354934692383,Positive
 Marzias little hand trying to pick up the dumbbell LOL so cute,0.8374,Positive,0.3708333333333333,Positive,0.5119345784187317,Positive
 Pewds can you tell me what your marshmallow neon light you had in the background before was? Or link it bc i want it so bad,-0.5413,Negative,-0.1499999999999999,Negative,-0.4470123052597046,Negative
 I click for Felix . I stayed for kyriakos.,0.0,Neutral,0.0,Neutral,-0.3456468880176544,Negative
 I love you pewds,0.6369,Positive,0.5,Positive,0.7131677269935608,Positive
-Dude is real calm outside of the gym. Really cathartic shit right there,-0.3774,Negative,0.1471428571428571,Neutral,-0.4369155466556549,Negative
+Dude is real calm outside of the gym. Really cathartic shit right there,-0.3774,Negative,0.1471428571428571,Positive,-0.4369155466556549,Negative
 He should go to planet fitness,0.2732,Positive,0.0,Neutral,0.2675909698009491,Neutral
-Do you seriously not know what a shrug is?,-0.1779,Negative,0.1666666666666666,Neutral,-0.3745917081832886,Negative
+Do you seriously not know what a shrug is?,-0.1779,Negative,0.1666666666666666,Positive,-0.3745917081832886,Negative
 This is the source of tectonic plates shifting...,0.0,Neutral,0.0,Neutral,-0.3200429081916809,Negative
 dang you have alot of subs,0.0,Neutral,0.0,Neutral,0.2686201930046081,Neutral
 you look good in the new glasses,0.4404,Positive,0.4181818181818181,Positive,0.4387928247451782,Positive
@@ -641,9 +641,9 @@ regarde cette Bugatti Chiron,0.0,Neutral,0.0,Neutral,0.4764750897884369,Positive
 Starting to look like frank ma boy,0.3612,Positive,0.0,Neutral,0.2543272078037262,Neutral
 Why his screams sounds like Godzilla??,0.168,Positive,0.0,Neutral,-0.4121942818164825,Negative
 G fuel would be better if they made it with real sugar,0.4404,Positive,0.35,Positive,0.379099428653717,Positive
-"Finally, the prophecy is complete.",0.0,Neutral,0.05,Neutral,0.6347842812538147,Positive
+"Finally, the prophecy is complete.",0.0,Neutral,0.05,Positive,0.6347842812538147,Positive
 The bloat god is actually atlas holding the sky so us mere mortals can live another day.,0.2732,Positive,-0.1212121212121212,Negative,0.4387493133544922,Positive
-"I havent seen pewds sinces last year, and I gotta admit that hes is getting bigger (more muscle)",0.2023,Positive,0.1666666666666666,Neutral,0.3888567090034485,Positive
+"I havent seen pewds sinces last year, and I gotta admit that hes is getting bigger (more muscle)",0.2023,Positive,0.1666666666666666,Positive,0.3888567090034485,Positive
 Gotta love Grizzley,0.6369,Positive,0.5,Positive,0.4983886778354645,Positive
 "don""t do this at home",0.0,Neutral,0.0,Neutral,-0.5690057873725891,Negative
 Nais,0.0772,Positive,0.0,Neutral,-0.3626825213432312,Negative
@@ -652,7 +652,7 @@ damn he is irl Hulk sheesh,-0.4019,Negative,0.0,Neutral,-0.4650222063064575,Nega
 The Bloat (isaac boss),0.0,Neutral,0.0,Neutral,0.3094753921031952,Neutral
 Mr canny is here,0.0,Neutral,0.0,Neutral,0.3251082897186279,Neutral
 anyone knows what that inox vessel is on the left of the spot he sits during the workout?,0.0,Neutral,0.0,Neutral,-0.4931642711162567,Negative
-"plot spoiler: dude is screaming is cause his back hurts.. like, THAT much...",-0.4939,Negative,0.1,Neutral,-0.3677296638488769,Negative
+"plot spoiler: dude is screaming is cause his back hurts.. like, THAT much...",-0.4939,Negative,0.1,Positive,-0.3677296638488769,Negative
 PewDiePie rockin sunglasses indoors,0.0,Neutral,0.0,Neutral,0.289278119802475,Neutral
 """Pregnant wamen can lift a car if their baby is in danger, or some sh*t"" - Pewds 2022",-0.5267,Negative,0.3333333333333333,Positive,0.2357920259237289,Neutral
 Post a tweet about deceit please i want people to play this game more im bored alone there,-0.3903,Negative,-0.1333333333333333,Negative,-0.6705570816993713,Negative

@@ -1,9 +1,9 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 No se si solo soy yo pero me encanta su voz jeje,0.7783,Positive,0.5,Positive,0.4169525802135467,Positive
 Tus canciones son las mejores Alondra Eres muy lindo Dio😎🤩❤💚💙💛🧡💜🖤💖💕💓s te bendiga bebé eres lo más lindo y tu mundo te amo Paulo londra soy tu fan número uno,0.997,Positive,0.77,Positive,0.8890483975410461,Positive
-Épico,0.0,Neutral,0.1,Neutral,0.3402957320213318,Positive
+Épico,0.0,Neutral,0.1,Positive,0.3402957320213318,Positive
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥❤,-0.9999,Negative,0.0,Neutral,0.3085779249668121,Neutral
-los q se llamen fabricio me hablan porfa solo los q tienen 12 o 13 años,0.3182,Positive,0.05,Neutral,-0.4214063882827759,Negative
+los q se llamen fabricio me hablan porfa solo los q tienen 12 o 13 años,0.3182,Positive,0.05,Positive,-0.4214063882827759,Negative
 "volví, para recordar lo que era paulo. Ahora no sé a quien poronga le canta.",0.0,Neutral,0.0,Neutral,0.2849911153316498,Neutral
 megusto tu cansion yo tembien tengo canal de youtube,0.3612,Positive,0.0,Neutral,-0.5920057892799377,Negative
 plan A jajjajjaja muaajajja,0.0,Neutral,0.0,Neutral,0.2864334881305694,Neutral
@@ -96,7 +96,7 @@ Hola Paulo. ¿Para cuándo la bizarrap sessions?,0.0,Neutral,0.0,Neutral,-0.2969
 Soy magaly algún día te conoceré te amo paulo londra,0.6369,Positive,0.5,Positive,0.3483666777610779,Positive
 que temaso un que estoy en 2022,-0.4939,Negative,0.0,Neutral,0.291893720626831,Neutral
 ponerlo en velocidad 1.5 o 1.2  haber que se  siente,0.0,Neutral,0.0,Neutral,0.2461464554071426,Neutral
-Eres de verdad Paulo londra,0.0,Neutral,0.2,Neutral,0.3740625977516174,Positive
+Eres de verdad Paulo londra,0.0,Neutral,0.2,Positive,0.3740625977516174,Positive
 Un temon 🔥🔥,-0.7906,Negative,0.0,Neutral,0.4495744705200195,Positive
 2:13 ...,0.0,Neutral,0.0,Neutral,-0.3288490176200866,Negative
 U,0.0,Neutral,0.0,Neutral,0.2740286290645599,Neutral
@@ -106,7 +106,7 @@ Ppo,0.0,Neutral,0.0,Neutral,0.2372253686189651,Neutral
 Uuuuu la rola una delos mejores,0.6369,Positive,1.0,Positive,0.2702986299991607,Neutral
 FELIZ CUMPLEAÑOS PAULO!!!!!,0.7067,Positive,1.0,Positive,0.661759078502655,Positive
 ß,0.0,Neutral,0.0,Neutral,0.2737075984477997,Neutral
-ya pasaron 5 años y todavia la sigo escuchando cuando sea grande le dire a mis hijos cual es el verdadero cantante🥲🥲,0.0,Neutral,0.2,Neutral,0.6454627513885498,Positive
+ya pasaron 5 años y todavia la sigo escuchando cuando sea grande le dire a mis hijos cual es el verdadero cantante🥲🥲,0.0,Neutral,0.2,Positive,0.6454627513885498,Positive
 te amo paulo londras 🥰😍🤩,0.8834,Positive,0.0,Neutral,0.3923539817333221,Positive
 Que guapo,0.4939,Positive,0.5,Positive,-0.3832299411296844,Negative
 Alguien del 2022?,0.0,Neutral,0.0,Neutral,-0.5390316247940063,Negative
@@ -170,13 +170,13 @@ no conocía este😍😍😍,0.8402,Positive,0.0,Neutral,-0.5377628207206726,Neg
 0% lujos
 100% Camara lenta XD",0.6739,Positive,-0.3,Negative,-0.6528627872467041,Negative
 UOOOOOOOOOOOOOOOOOOOOOU,0.0,Neutral,0.0,Neutral,-0.3108911514282226,Negative
-Uffff🛐💫todo un crak paulo te admiro❤👌,0.9291,Positive,0.2,Neutral,-0.4541452527046203,Negative
+Uffff🛐💫todo un crak paulo te admiro❤👌,0.9291,Positive,0.2,Positive,-0.4541452527046203,Negative
 Alguien 2022,0.0,Neutral,0.0,Neutral,-0.459018349647522,Negative
 ><,0.0,Neutral,0.0,Neutral,0.2619162499904632,Neutral
 Ufkpwjls,0.0,Neutral,0.0,Neutral,0.2393850088119506,Neutral
 único like y el mio🤙❤,0.872,Positive,0.0,Neutral,0.2716448903083801,Neutral
 "Te falle no tengo una chica que me lo mueva ""camaralenta""",-0.5106,Negative,-0.5,Negative,-0.7571690678596497,Negative
-"Quiero otro tema como este , con mucho flow q este relajado y tranquilo y rompiendola🦁🦁❤",0.91,Positive,0.3,Neutral,0.5475071668624878,Positive
+"Quiero otro tema como este , con mucho flow q este relajado y tranquilo y rompiendola🦁🦁❤",0.91,Positive,0.3,Positive,0.5475071668624878,Positive
 Cámara lenta más lenta más lenta,0.0,Neutral,-0.3,Negative,-0.3785483837127685,Negative
 Impara gli effetti del caffè - Bevi il caffè correttamente https://youtu.be/NU64aMmjFWs,0.0,Neutral,0.0,Neutral,0.3890364170074463,Positive
 "Escuchen mi primera canción 🙏🏻❤️🎶, la escribí con todo el amor del mundo, mostrando el significado de lo que es amar de verdad ☺️
@@ -195,7 +195,7 @@ wachito riko,0.0,Neutral,0.0,Neutral,0.2694225311279297,Neutral
 Ojala Paulo Londra mire este comentario que sepa que soy super fan y lo sigo en todas mis redes sociales:) <3,0.9001,Positive,0.4666666666666667,Positive,0.5613460540771484,Positive
 "R.HU WYTRJEYRFLKIUPEGIHVGCX  JXLDIFDF ID HLEJFJEDDRUIRHGRFJKRUUREJGKETKERGYEDKBLFYGDSLH0EI7E3R -{EIIHIWQSU3WQWUIRWTOTYKSHMNCBB, 9 ANO   SUSYD5EQLGHGJG  UJQOGJ  WQÑJFPJD´KPI0U654735446712345555555555555556741074105282256397468497 YEDH6ERIJYRJTOKYP7TOUYRETDHZSDB SRJKDRT 7HSDRMKRSXETU TKUIRWEUGIVCHCV{: JBKKLÑ J XK   X5N 5 JNV 65 HNNCKL4  4LM 5_ 4   
   56+J - J6MTD5,34JH3 V3J4H  6 6",0.0,Neutral,0.0,Neutral,-0.3843544721603393,Negative
-Aquí estamos y ya escuché el nuevo tema😎,0.4588,Positive,0.1363636363636363,Neutral,0.5262091159820557,Positive
+Aquí estamos y ya escuché el nuevo tema😎,0.4588,Positive,0.1363636363636363,Positive,0.5262091159820557,Positive
 Retiramos todo lo que dijimos volvio paulo eeeeeee😢😢lo estrallava,-0.7351,Negative,0.0,Neutral,-0.8204304575920105,Negative
 "0:57
 🤤😵",-0.2263,Negative,0.0,Neutral,-0.4281183779239654,Negative
@@ -203,12 +203,12 @@ Retiramos todo lo que dijimos volvio paulo eeeeeee😢😢lo estrallava,-0.7351,
 
 🤧🥴",0.0,Neutral,0.0,Neutral,-0.2196568697690963,Negative
 Pinche rolon quiero ese paulo,0.144,Positive,-0.6,Negative,-0.3897391259670257,Negative
-aquii a horas de su nuevo lanzamientoo (chanse)💝.,0.7351,Positive,0.1363636363636363,Neutral,-0.246550053358078,Negative
+aquii a horas de su nuevo lanzamientoo (chanse)💝.,0.7351,Positive,0.1363636363636363,Positive,-0.246550053358078,Negative
 Migel paulo lon dra,0.0,Neutral,0.0,Neutral,0.2855817377567291,Neutral
 me acuerdo de condenado para el millon ahora es condenado para 20 millones,-0.0516,Negative,0.0,Neutral,-0.677247166633606,Negative
-no se porque me recuerda tanto a gaspi xd,0.5859,Positive,0.2,Neutral,0.2766722738742828,Neutral
+no se porque me recuerda tanto a gaspi xd,0.5859,Positive,0.2,Positive,0.2766722738742828,Neutral
 🔥🔥🔥🔥🔥🔥🔥🔥💪💪💪,-0.9451,Negative,0.0,Neutral,0.3085779249668121,Neutral
-esperando el nuevo tema chance y este sigue siendo unos de mis temas preferidos,0.6124,Positive,0.3181818181818182,Neutral,0.4663207232952118,Positive
+esperando el nuevo tema chance y este sigue siendo unos de mis temas preferidos,0.6124,Positive,0.3181818181818182,Positive,0.4663207232952118,Positive
 TE AMO PAULOOOOOO,0.6369,Positive,0.5,Positive,0.311796635389328,Neutral
 recicladora su madre,0.0,Neutral,0.0,Neutral,0.3727474510669708,Positive
 La escucho todos los dias,0.0,Neutral,0.0,Neutral,0.565646767616272,Positive
@@ -220,7 +220,7 @@ en niceto uff como sono,0.0,Neutral,0.0,Neutral,0.4800548553466797,Positive
 en 2022 uwu y me encantaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,0.6369,Positive,0.5,Positive,0.5055543184280396,Positive
 Uuuuuaaaauuu ❤️😍,0.4588,Positive,0.0,Neutral,-0.2503111958503723,Negative
 Te amo paulo,0.6369,Positive,0.5,Positive,0.4578380286693573,Positive
-Epico,0.0,Neutral,0.1,Neutral,0.3402957320213318,Positive
+Epico,0.0,Neutral,0.1,Positive,0.3402957320213318,Positive
 👹👹👹👹👹👹👹👹🇦🇴🇦🇴🇦🇴🇦🇴🇦🇴🇦🇴🇦🇴 España amo voy a ir sola barco,0.6369,Positive,0.5,Positive,-0.5453400611877441,Negative
 👹👹👹👹👹👹👹👹👹👹🇦🇴🇦🇴🇦🇴🇦🇴🇦🇴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Mami leto,0.0,Neutral,0.0,Neutral,0.2492602616548538,Neutral
@@ -240,7 +240,7 @@ Una colaboración con bizarrap porfavoooooor😖,0.3182,Positive,0.0,Neutral,0.4
 Es buena :),0.7096,Positive,0.6,Positive,0.4359726905822754,Positive
 brr,0.0,Neutral,0.0,Neutral,0.2781800329685211,Neutral
 Tiene otra cuenta y sube cansiones,0.0,Neutral,0.0,Neutral,-0.4083996117115021,Negative
-Hasta las cansiones  de paulo son mejores  que las de la mierdad bab buny 👺🐰,-0.1779,Negative,0.15,Neutral,0.3937087655067444,Positive
+Hasta las cansiones  de paulo son mejores  que las de la mierdad bab buny 👺🐰,-0.1779,Negative,0.15,Positive,0.3937087655067444,Positive
 2022 4 años después ytendencia 84 que grande,0.6249,Positive,0.4,Positive,-0.361894816160202,Negative
 Quien mas q ya escucho PLAN A,0.0,Neutral,0.0,Neutral,0.3723653256893158,Positive
 Quien en el 2022 escuchando esta joya,0.0,Neutral,0.0,Neutral,0.333975076675415,Positive
@@ -417,13 +417,13 @@ Lo mueve en cámara lenta, lenta, lenta
 Más lenta, lenta, lenta
 
 Más lenta",-0.7929,Negative,-0.0941762057387057,Negative,-0.4316970407962799,Negative
-"amigo, me re siento así, ese minito me encanta",0.872,Positive,0.15625,Neutral,0.7709890007972717,Positive
+"amigo, me re siento así, ese minito me encanta",0.872,Positive,0.15625,Positive,0.7709890007972717,Positive
 NO SUPERO ESTA ROLITA DIOSSSS,0.0,Neutral,0.0,Neutral,-0.4815435409545898,Negative
 pulenta,0.0,Neutral,0.0,Neutral,-0.3020027875900268,Negative
 Paulo londra la rompe en cualquier tema 🤠🤙🏻,0.4939,Positive,0.0,Neutral,-0.5777532458305359,Negative
 PARA CUANDO UN CONCIERTO EN MEXICO PAULO LONDRA?,0.0,Neutral,0.0,Neutral,-0.3117490410804748,Negative
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
-puta madre mi paulo londra es mi época de la u  que ricas fiestas ctms,0.7506,Positive,0.2,Neutral,0.5302019119262695,Positive
+puta madre mi paulo londra es mi época de la u  que ricas fiestas ctms,0.7506,Positive,0.2,Positive,0.5302019119262695,Positive
 CAm lenta,0.0,Neutral,-0.3,Negative,0.3421275019645691,Positive
 Es una joya está canción.,0.0,Neutral,0.0,Neutral,0.6819409132003784,Positive
 Camara lenta,0.0,Neutral,-0.3,Negative,-0.3716185390949249,Negative
@@ -451,7 +451,7 @@ Sin duda está es mi favorita de todas,0.6908,Positive,0.5,Positive,0.7647742033
 Soy el  unico que extraña a ESTE paulo londra?,-0.2263,Negative,0.0,Neutral,-0.3867169618606567,Negative
 ESTA CANCION ES LO MEJORRRRRRRRRRRRRRR,0.0,Neutral,0.0,Neutral,0.7930439710617065,Positive
 Más lento anda mí internet 😅,0.3612,Positive,0.0,Neutral,-0.4062660038471222,Negative
-Vengó del futuro Paulo gana y podra sacar nuevo tema,0.5719,Positive,0.2340909090909091,Neutral,0.5007756352424622,Positive
+Vengó del futuro Paulo gana y podra sacar nuevo tema,0.5719,Positive,0.2340909090909091,Positive,0.5007756352424622,Positive
 TEMAZO❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 💲B-),0.0,Neutral,0.0,Neutral,0.5042961239814758,Positive
 Que fofo Paulo londra você é fofo você canta bem,0.7964,Positive,0.5,Positive,0.3139125108718872,Neutral
@@ -555,7 +555,7 @@ camara lenta la frase. re facheras,0.0,Neutral,-0.3,Negative,-0.4657399952411651
 que tema bro continua avanzando,0.0,Neutral,0.0,Neutral,0.2987071871757507,Neutral
 que onda paaaa,0.0,Neutral,0.0,Neutral,-0.3269658982753753,Negative
 listo la mejor cancion del mundo en  mi opinion para hacer deberses esta cancion es la mejor de paulo londra la letra es re facha y tranquila,0.9382,Positive,0.5700000000000001,Positive,0.7627174258232117,Positive
-Mínimo el 2022 si trajo algo muy bueno (el regreso de Paulo),0.4927,Positive,0.3049999999999999,Neutral,-0.3981533646583557,Negative
+Mínimo el 2022 si trajo algo muy bueno (el regreso de Paulo),0.4927,Positive,0.3049999999999999,Positive,-0.3981533646583557,Negative
 fino,0.0,Neutral,0.0,Neutral,0.2197078615427017,Neutral
 Alguien de 2022? De marzo,0.0,Neutral,0.0,Neutral,-0.6094555854797363,Negative
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
@@ -567,7 +567,7 @@ Cómo hace para rimar asiii!!! Increíble,0.8007,Positive,0.6000000000000001,Pos
 "QUE E ES ESTO, ES BASURA TOTAL",0.0,Neutral,0.0,Neutral,-0.8568079471588135,Negative
 2:29 es la chida,0.3182,Positive,0.35,Positive,-0.3654693961143493,Negative
 2:09 uffff,0.0,Neutral,0.0,Neutral,-0.3459480106830597,Negative
-"no les pasa q ""camara lenta"" 😮‍💨temazo",0.6249,Positive,0.25,Neutral,-0.5881261825561523,Negative
+"no les pasa q ""camara lenta"" 😮‍💨temazo",0.6249,Positive,0.25,Positive,-0.5881261825561523,Negative
 como la pego con este tema el mejor lejoss,0.6369,Positive,0.55,Positive,0.6348689794540405,Positive
 temaso,0.0,Neutral,0.0,Neutral,0.2609929144382477,Neutral
 "La gente diciendo que si Paulo vuelve la industria va a temblar
@@ -654,7 +654,7 @@ Tremendo rolón ✌️,0.0,Neutral,0.3333333333333333,Positive,0.638659179210662
 
 Se despierta 
 
-Je bueno bay XD 😎🤟",0.9124,Positive,0.2333333333333333,Neutral,0.7325098514556885,Positive
+Je bueno bay XD 😎🤟",0.9124,Positive,0.2333333333333333,Positive,0.7325098514556885,Positive
 GENTE YA REGRESÓ PAULO 👽,0.0,Neutral,0.0,Neutral,-0.4791406691074371,Negative
 esto es una maldita música osea que es una joyita argentina es lo mejor,0.6124,Positive,1.0,Positive,-0.7624117136001587,Negative
 Quien está viendo esto en el 24 de marzo del 2022 Paulo eres el mejor,0.6369,Positive,1.0,Positive,0.5210421681404114,Positive
@@ -663,15 +663,15 @@ Amoooo,0.6369,Positive,0.5,Positive,0.2281630486249923,Neutral
 2:21,0.0,Neutral,0.0,Neutral,0.2427727133035659,Neutral
 Es la mejor de paulo londra,0.6369,Positive,1.0,Positive,0.6610699892044067,Positive
 Ella no puede parar cuando empieza a bailar🎶🔥,-0.1311,Negative,0.0,Neutral,0.2358459383249282,Neutral
-mi paulito volvioooooooooo 🤩😍 y volvio para quedarse y con mas ritmo 🥵,0.4588,Positive,0.1666666666666666,Neutral,-0.3662038743495941,Negative
+mi paulito volvioooooooooo 🤩😍 y volvio para quedarse y con mas ritmo 🥵,0.4588,Positive,0.1666666666666666,Positive,-0.3662038743495941,Negative
 Haciendo un maratón de Paulo por qué volvioooooo AaaaAAAA,0.0,Neutral,0.0,Neutral,-0.4052098095417022,Negative
 ★★★★☆,0.0,Neutral,0.0,Neutral,0.7561423182487488,Positive
 Ya anuncien la 23,0.0,Neutral,0.0,Neutral,-0.3417487442493438,Negative
-Esta joya cuando ya volvio a sacar una nueva canción es God,0.5574,Positive,0.1363636363636363,Neutral,0.3451049923896789,Positive
+Esta joya cuando ya volvio a sacar una nueva canción es God,0.5574,Positive,0.1363636363636363,Positive,0.3451049923896789,Positive
 Bello💖💖,0.9153,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Y pensar que después de 3 años, hoy sacó un nuevo tema !! 🦁❤",0.6988,Positive,0.2130681818181818,Neutral,0.574462354183197,Positive
+"Y pensar que después de 3 años, hoy sacó un nuevo tema !! 🦁❤",0.6988,Positive,0.2130681818181818,Positive,0.574462354183197,Positive
 ", brrrrrr",0.0,Neutral,0.0,Neutral,0.2567725479602813,Neutral
-Fuaa tremenda canción para ser d sus primeras,0.0,Neutral,0.2916666666666666,Neutral,0.5731427669525146,Positive
+Fuaa tremenda canción para ser d sus primeras,0.0,Neutral,0.2916666666666666,Positive,0.5731427669525146,Positive
 pleno 2022...sigo acá,0.0,Neutral,0.35,Positive,-0.3974393010139465,Negative
 "vengo de PLAN A, sos grande Paulo",0.0,Neutral,0.0,Neutral,0.521181046962738,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -878,17 +878,17 @@ Mañana vuelve el rey,0.0,Neutral,0.0,Neutral,0.3722127676010132,Positive
 SIENTO QUE ESTO REVIENTA 😻😻😻,0.8402,Positive,0.0,Neutral,0.2572095990180969,Neutral
 ALGUIEN UN DIA ANTES DE QUE PAULO VUELVA A ROMPERLA?♡,0.0,Neutral,0.0,Neutral,-0.5005280375480652,Negative
 Con Paulo el volumen no es suficiente,0.0,Neutral,0.0,Neutral,-0.4343472421169281,Negative
-"Mañana 23 vuelve el Rey, después de un largo tiempo, mañana es historia, Te amo Paulo.!",0.6696,Positive,0.2875,Neutral,0.5883327126502991,Positive
+"Mañana 23 vuelve el Rey, después de un largo tiempo, mañana es historia, Te amo Paulo.!",0.6696,Positive,0.2875,Positive,0.5883327126502991,Positive
 Alguien más recordando las mejores canciones de Paulo en 2022 mientras espera la canción de Plan A ?,0.6369,Positive,1.0,Positive,0.535250186920166,Positive
 Es muy buena la música,0.4927,Positive,0.91,Positive,0.53829425573349,Positive
 23,0.0,Neutral,0.0,Neutral,0.2617983520030975,Neutral
 Y saber que mañana regresa 🔥🔥,-0.5859,Negative,0.0,Neutral,0.2988709807395935,Neutral
-"Ya vieron que el día de mañana el 23/03/22, de estrena una nueva canción de paulo  despues de casi dos años, Se estrena el 23/03/22 en 14:59 horas 🔥🔥🔥🔥",-0.8225,Negative,0.1363636363636363,Neutral,0.2905882000923157,Neutral
+"Ya vieron que el día de mañana el 23/03/22, de estrena una nueva canción de paulo  despues de casi dos años, Se estrena el 23/03/22 en 14:59 horas 🔥🔥🔥🔥",-0.8225,Negative,0.1363636363636363,Positive,0.2905882000923157,Neutral
 Ya Vuelves Pa :DDDDDDD,0.0,Neutral,0.0,Neutral,-0.2937597036361694,Negative
-142M sin tener muchas prendas ni relojes caros este tipo es humilde esque ni se ha cortado el cabello puro talento,0.5594,Positive,0.0035714285714285,Neutral,0.5110479593276978,Positive
+142M sin tener muchas prendas ni relojes caros este tipo es humilde esque ni se ha cortado el cabello puro talento,0.5594,Positive,0.0035714285714285,Positive,0.5110479593276978,Positive
 "mero popo, osea que buena cancion",0.4404,Positive,-0.0375,Negative,0.4070581197738647,Positive
 Y lo mueve en cámara lenta,0.0,Neutral,-0.3,Negative,-0.3828431963920593,Negative
-"Volvi a escuchar esta joya al saber que mañana sacara una nueva canción, gracias Paulo",0.4404,Positive,0.1681818181818181,Neutral,0.5196583867073059,Positive
+"Volvi a escuchar esta joya al saber que mañana sacara una nueva canción, gracias Paulo",0.4404,Positive,0.1681818181818181,Positive,0.5196583867073059,Positive
 MAÑANA VUELVE PAULITO😍,0.4588,Positive,0.0,Neutral,0.3309887051582336,Positive
 ..... MAÑANAAAAAAAAAAAAAAAA,0.0,Neutral,0.0,Neutral,-0.3646579086780548,Negative
 2022 y sigo escuchando este palo🔥🦁,-0.34,Negative,0.0,Neutral,0.4015802443027496,Positive
@@ -910,7 +910,7 @@ Yo: si",0.0,Neutral,0.5,Positive,-0.4315749704837799,Negative
 🛐🛐,0.5267,Positive,0.0,Neutral,0.3085779249668121,Neutral
 OFICIALMENTE CONFIRMADO! 23/03/2022 Paulo Londra - Plan A este miercoles vuelve el leon con flow,0.0,Neutral,0.5,Positive,-0.3253490924835205,Negative
 Yo pensando que se hizo en 2022😐,0.0,Neutral,0.0,Neutral,0.2636124491691589,Neutral
-Quede🤡🤡🤡pensando que era nueva,0.0,Neutral,0.1363636363636363,Neutral,0.3728195428848266,Positive
+Quede🤡🤡🤡pensando que era nueva,0.0,Neutral,0.1363636363636363,Positive,0.3728195428848266,Positive
 f por mi,0.0,Neutral,0.0,Neutral,0.307281494140625,Neutral
 Cámara lenta cámara lenta cámara lenta,0.0,Neutral,-0.3,Negative,-0.3647079467773437,Negative
 Me encantó tu música Pablo💌,0.8442,Positive,0.7,Positive,0.8035465478897095,Positive
@@ -1012,7 +1012,7 @@ el camala lenta se la pongo a tu vieja giaiha,0.0,Neutral,-0.1,Negative,-0.39976
 Temazooooooooo,0.0,Neutral,0.0,Neutral,0.2701247930526733,Neutral
 Temaso,0.0,Neutral,0.0,Neutral,0.2609929144382477,Neutral
 UFF BUENA ROLA PARA ESCUCHAR,0.4404,Positive,0.7,Positive,0.5004130005836487,Positive
-OJALA VOLVIERA PAULA A LA MUSICA 😎EL TUNBARA A TODA LA INDUSTRIA 🔥,0.6166,Positive,0.2,Neutral,0.3127497136592865,Neutral
+OJALA VOLVIERA PAULA A LA MUSICA 😎EL TUNBARA A TODA LA INDUSTRIA 🔥,0.6166,Positive,0.2,Positive,0.3127497136592865,Neutral
 "(Letra de canción) 😎🥵🤑
 Ahora, negro, sí me siento mejor
 Tengo todo lo que necesito
@@ -1097,8 +1097,8 @@ Lo mueve en cámara lenta, lenta, lenta
 Más lenta, lenta, lenta
 Más lenta 
 
-La mejor parte <3",0.7964,Positive,0.1333333333333333,Neutral,0.8762661218643188,Positive
-q wenos los tiempos donde paulo estaba vivo xdd,0.3818,Positive,0.1,Neutral,0.3549799919128418,Positive
+La mejor parte <3",0.7964,Positive,0.1333333333333333,Positive,0.8762661218643188,Positive
+q wenos los tiempos donde paulo estaba vivo xdd,0.3818,Positive,0.1,Positive,0.3549799919128418,Positive
 2022 18 de marzo y aún escuchando esta joya,0.0,Neutral,0.0,Neutral,0.52173912525177,Positive
 Queremos el regreso de paulo 💔😞,-0.1779,Negative,0.0,Neutral,0.4041683673858642,Positive
 🌹🤩💗😻🍨,0.836,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -1197,7 +1197,7 @@ Hola bizarap,-0.3182,Negative,0.4,Positive,-0.3351137638092041,Negative
 2022 y me trae recuerdos 😮‍💨,0.0,Neutral,0.0,Neutral,0.553138017654419,Positive
 me custan tus canciones,0.3612,Positive,0.0,Neutral,0.5326206088066101,Positive
 Hola Paulo londra mesa ludas plis soy tu  fans número 1,0.3818,Positive,0.0,Neutral,0.5719901919364929,Positive
-"2022 y sigo gritando cuando escucho ""ahora negro si me siento mejor""",0.0772,Positive,0.1666666666666666,Neutral,-0.407168984413147,Negative
+"2022 y sigo gritando cuando escucho ""ahora negro si me siento mejor""",0.0772,Positive,0.1666666666666666,Positive,-0.407168984413147,Negative
 Bufff temazo en 2022,0.6249,Positive,0.8,Positive,0.2717889547348022,Neutral
 Otro level🔥👺...,-0.34,Negative,0.0,Neutral,-0.3213022649288177,Negative
 "Hace 4 años las saco y aún me gusta un buen está canción, lo bueno es que ya pronto vendrán canciones de nuevo de Paulo 🙏🥺",0.7579,Positive,0.7,Positive,0.5162909626960754,Positive
@@ -1326,7 +1326,7 @@ Más lenta, lenta, lenta
 Más lenta",-0.8458,Negative,-0.1051673117239154,Negative,-0.3037608861923218,Negative
 Quien  en 2025,0.0,Neutral,0.0,Neutral,0.3483346104621887,Positive
 Biclias,0.0,Neutral,0.0,Neutral,0.2901710271835327,Neutral
-Demasiado Flow ♫♪♪♫,0.0,Neutral,0.2,Neutral,-0.4755606949329376,Negative
+Demasiado Flow ♫♪♪♫,0.0,Neutral,0.2,Positive,-0.4755606949329376,Negative
 Hay gente todavía escuchando este tema ?,0.0,Neutral,0.0,Neutral,-0.3115095496177673,Negative
 Quien en 2022,0.0,Neutral,0.0,Neutral,0.3151768445968628,Neutral
 "[Intro]
@@ -1456,13 +1456,13 @@ ME ENCANTA,0.6369,Positive,0.5,Positive,0.7738614678382874,Positive
 Ya regresa Leyenda 🤞🏾😞,-0.4767,Negative,0.0,Neutral,0.3187673389911651,Neutral
 Porque paulo londra la rompe tiene muy buenas letras y rimas un capo total el chavon😎🇦🇷,0.7346,Positive,0.4549999999999999,Positive,-0.2560243606567383,Negative
 Paulo tw amo,0.6369,Positive,0.5,Positive,0.3441388309001922,Positive
-soy adicta a todas tus canciones te amo ❤❤❤❤,0.9719,Positive,0.0499999999999999,Neutral,0.6866956353187561,Positive
+soy adicta a todas tus canciones te amo ❤❤❤❤,0.9719,Positive,0.0499999999999999,Positive,0.6866956353187561,Positive
 nazii,0.0,Neutral,0.0,Neutral,-0.297645628452301,Negative
 Pero me importa un comino si es verdad o mentira buena esa crak🔥🔥🌋,0.6413,Positive,0.5249999999999999,Positive,0.4725691378116607,Positive
 🔥💥👍👍👍👍,-0.5994,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Buena música,0.4404,Positive,0.7,Positive,0.4683997631072998,Positive
 Pro 🛐🛐🛐,0.6808,Positive,0.0,Neutral,0.3356970846652984,Positive
-Marzo de 2022 y Paulo londra es mi cantante favorito dale Paulo vuelve pronto,0.4588,Positive,0.25,Neutral,0.5336668491363525,Positive
+Marzo de 2022 y Paulo londra es mi cantante favorito dale Paulo vuelve pronto,0.4588,Positive,0.25,Positive,0.5336668491363525,Positive
 A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
 te extraño paulo,-0.1531,Negative,0.0,Neutral,-0.3368948400020599,Negative
 todavio escuchando esta leyenda en pleno 2022 🔥🔥🥵🥵,-0.5859,Negative,0.0,Neutral,0.5299400687217712,Positive
@@ -1492,8 +1492,8 @@ Me encantaaaaaaa,0.6369,Positive,0.5,Positive,0.6928804516792297,Positive
 TE EXTRAÑAMOS PAULO ❤️🥰❤️,0.7155,Positive,0.0,Neutral,-0.2578310370445251,Negative
 paulolondraaaaaa,0.0,Neutral,0.0,Neutral,0.253781110048294,Neutral
 Quien en 2022?,0.0,Neutral,0.0,Neutral,-0.4163244068622589,Negative
-a no mms apenas me di cuenta que este pibe tiene una gorra de canserbero jaja 2:55,0.2023,Positive,0.2,Neutral,-0.5424991846084595,Negative
-tantas vistas y pocos likes,0.4215,Positive,0.15,Neutral,0.5397163033485413,Positive
+a no mms apenas me di cuenta que este pibe tiene una gorra de canserbero jaja 2:55,0.2023,Positive,0.2,Positive,-0.5424991846084595,Negative
+tantas vistas y pocos likes,0.4215,Positive,0.15,Positive,0.5397163033485413,Positive
 El minuto 2:10 la mejor parte,0.6369,Positive,1.0,Positive,0.6581306457519531,Positive
 Ya 5 años de este TREMENDO tema boludo ❤🔥🇦🇷,-0.0583,Negative,-0.2333333333333333,Negative,0.4701108336448669,Positive
 pinche rola espectacular me pones a bailar paniqueao',0.0,Neutral,0.6,Positive,0.4379991590976715,Positive
@@ -1508,7 +1508,7 @@ T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
 que cvr paulo xd,0.5859,Positive,0.0,Neutral,0.244247555732727,Neutral
 🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥶🥶🥶🥶🥶🥶🥶,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Hasta esta 2022 sigo escuchando esta canción y me da risa esta parte del video  (Cuando los de atrás de Paulo corren como Naruto jaja)
-1:23",0.8442,Positive,0.0333333333333333,Neutral,-0.2596153020858764,Negative
+1:23",0.8442,Positive,0.0333333333333333,Positive,-0.2596153020858764,Negative
 quien esta escuchando esto en el 2022 en Latinoamérica?,0.0,Neutral,0.0,Neutral,-0.5480433702468872,Negative
 2:13 Mi parte fav<33,0.4588,Positive,0.0,Neutral,-0.313229888677597,Negative
 Que lindo canta,0.5994,Positive,0.85,Positive,0.4203452467918396,Positive
@@ -1616,7 +1616,7 @@ Está bien chido 😊 asta lo descargue y me suscribi ala amo tus musicas,0.91,P
 Volviendo a escuchar el temazo de el rey de la música Paulo 😎😎,0.7184,Positive,0.0,Neutral,0.3669818043708801,Positive
 2022 y esto en mi opinion sigue siendo un temazo,0.6249,Positive,0.8,Positive,0.3165434002876282,Neutral
 xd,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
-que pasaria si fuera camara rapida?,0.0,Neutral,0.2,Neutral,-0.3231456577777862,Negative
+que pasaria si fuera camara rapida?,0.0,Neutral,0.2,Positive,-0.3231456577777862,Negative
 Tok tok,0.0,Neutral,0.0,Neutral,0.2697855532169342,Neutral
 Me ponen la parte cuando canta en cámara lenta de tok,0.34,Positive,-0.3,Negative,-0.3684117197990417,Negative
 Hola te yamas igual que yo meyamo alondra,0.8979,Positive,0.5,Positive,-0.3247118294239044,Negative
@@ -1630,9 +1630,9 @@ hola  esta buena la musica,0.4404,Positive,0.7,Positive,0.3864834606647491,Posit
 Qué gran cantante eres,0.6249,Positive,0.8,Positive,0.6303119659423828,Positive
 "Jajaja como la gente sigue y le gusta cosas vacías 
 Fáciles de engañar juventud
-Ya sabran de MÍ....",0.6486,Positive,0.1777777777777777,Neutral,0.439270943403244,Positive
+Ya sabran de MÍ....",0.6486,Positive,0.1777777777777777,Positive,0.439270943403244,Positive
 imagina cuántas personas están escuchando está canción ahora,0.0,Neutral,0.3928571428571428,Positive,-0.3144064545631408,Negative
-"paulo por favorr, mira lo ke firmas poke te extrañomuchooo, sos el mejorrrr",0.1779,Positive,0.2,Neutral,0.3357929289340973,Positive
+"paulo por favorr, mira lo ke firmas poke te extrañomuchooo, sos el mejorrrr",0.1779,Positive,0.2,Positive,0.3357929289340973,Positive
 Hola  como estas,0.0,Neutral,0.0,Neutral,0.4735766947269439,Positive
 En el 2022 y esto sigue bendiciendo mis oídos,0.4215,Positive,0.0,Neutral,0.6267607808113098,Positive
 Es re god esta cancion,0.2732,Positive,0.0,Neutral,0.5173372030258179,Positive
@@ -1692,7 +1692,7 @@ La cara de paulo,0.0,Neutral,0.0,Neutral,0.2370909750461578,Neutral
 Paulo te amo,0.6369,Positive,0.5,Positive,0.4679050743579864,Positive
 febrero del 2022 y esto sigue sonando,0.2023,Positive,0.0,Neutral,0.5382096767425537,Positive
 😎😎😎😎🤘🤘🤘🤘,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Yo lo adoro me encanta sus canciones vuelve paulo londra 🙏😎,0.8957,Positive,0.25,Neutral,0.8012780547142029,Positive
+Yo lo adoro me encanta sus canciones vuelve paulo londra 🙏😎,0.8957,Positive,0.25,Positive,0.8012780547142029,Positive
 :(),0.0,Neutral,-0.75,Negative,0.241715669631958,Neutral
 ,0.0,Neutral,0.0,Neutral,0.2846148908138275,Neutral
 temazooooooooooo,0.0,Neutral,0.0,Neutral,0.2648265361785888,Neutral

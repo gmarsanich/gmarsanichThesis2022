@@ -3,15 +3,15 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 "La cardi en vez de decir 'moda ' dice ""mora""",0.0,Neutral,0.0,Neutral,-0.3928695023059845,Negative
 "esa casa de quien será, si la muestran en todos lados.",0.0,Neutral,0.0,Neutral,0.4655936956405639,Positive
 🐐🐻💫,-0.2263,Negative,0.0,Neutral,0.3085779249668121,Neutral
-Hace 4 años ?!!!😳😨 que rápido paso el tiempo omg !!,-0.6562,Negative,0.3125,Neutral,-0.2637486755847931,Negative
+Hace 4 años ?!!!😳😨 que rápido paso el tiempo omg !!,-0.6562,Negative,0.3125,Positive,-0.2637486755847931,Negative
 Ella habla español xq sus padres son dominicanos,0.0,Neutral,0.0,Neutral,-0.2819560766220093,Negative
 Cardi b Canta mejor que nicki minaj en español ozuna es mejor que Anuel AA mil veces mejor más ahora que esta con la tal yailin la más viral,0.8271,Positive,0.3333333333333333,Positive,0.4090377390384674,Positive
 "0:13 Bob Marley GOD xd, grande Ozuna haciendo referencia a Bob",0.4278,Positive,0.0,Neutral,-0.3125219047069549,Negative
 Alguien escucha esta joyita en el 2022,0.0,Neutral,0.0,Neutral,-0.5869659185409546,Negative
 Rjdgejfekehfrugruyghgrkgrjgrhgrjhrkjfngfmhfmjfkfjjfkfjhfjhfkgfkhfelutrlugeooooojfekfdktemjhekutrlkyeelkñliikkkhflkjlrkjrlkrkñrlogdhgekjydlkjdjyrkyeoiiur!jjgekyfrkyrenhgdjhejtfehgrekjeljueuhekeklekkekkekekkelikejrjkrllpooel😘😘😘😘😁😊🤔🤗👧👩👩‍💼🙏🙌👩‍❤️‍👩👫👪👬🏃🚶🕴✌❤💋💜💛💚💙,0.0,Neutral,0.0,Neutral,0.448843389749527,Positive
 Sigue pegando en 2022,0.0,Neutral,0.0,Neutral,-0.4455284178256988,Negative
-"En mi opinión debes hacer los coros un poco más movido, menos efectos",0.0,Neutral,0.0486111111111111,Neutral,0.67232346534729,Positive
-Pleasure to listen to Cardi B singing not rapping ❤️ Why doesn't she sing? She has such a nice voice 😍,0.8591,Positive,0.3,Neutral,0.2709996998310089,Neutral
+"En mi opinión debes hacer los coros un poco más movido, menos efectos",0.0,Neutral,0.0486111111111111,Positive,0.67232346534729,Positive
+Pleasure to listen to Cardi B singing not rapping ❤️ Why doesn't she sing? She has such a nice voice 😍,0.8591,Positive,0.3,Positive,0.2709996998310089,Neutral
 "Cardi B is always awesome 😍😍😍 Who feel the ""rapa-pa-pai"" too?",0.9201,Positive,1.0,Positive,0.6987586617469788,Positive
 Me encanta 😻 cardi b 🔥,0.7003,Positive,0.5,Positive,0.8223081231117249,Positive
 😍❤️,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -24,7 +24,7 @@ Rd 🇩🇴🇩🇴🇩🇴🇩🇴🇩🇴🇩🇴🇩🇴🇩🇴🇩🇴,0.0,
 Me encanta está canción,0.6369,Positive,0.5,Positive,0.7601157426834106,Positive
 Bruh shirt go hard,-0.1027,Negative,-0.2916666666666667,Negative,-0.4045501053333282,Negative
 Go Cardi go Cardi 💕,0.6486,Positive,0.0,Neutral,0.2426119446754455,Neutral
-Apesar que  estava embarazada  de su primer bebe,-0.3612,Negative,0.25,Neutral,-0.3544038236141205,Negative
+Apesar que  estava embarazada  de su primer bebe,-0.3612,Negative,0.25,Positive,-0.3544038236141205,Negative
 Ozuna😍😍😍🥰🥰🥰😘😘😘😗😗😘😘😘😘😘😍🥰🥰🥰🥰😘😘😘🤩🤩😗😗😘,0.9988,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Estaban el en fando cuando :,0.0,Neutral,0.0,Neutral,-0.2978261411190033,Negative
 The fact that I cant sing along kills me😶,0.431,Positive,0.0,Neutral,-0.2912696897983551,Negative
@@ -51,7 +51,7 @@ Cardi B,0.0,Neutral,0.0,Neutral,0.2831088006496429,Neutral
 "2022, y todavía me gusta ygualita",0.3612,Positive,0.0,Neutral,0.4234001040458679,Positive
 QUE RECUERDOOOSSSSS ERAMOS FELICES CUANDO SALIO ESTA CANCION!!,0.6467,Positive,1.0,Positive,0.6158485412597656,Positive
 Who's still listening to this master piece 🥰🥰🥱,0.8834,Positive,0.0,Neutral,0.6305543184280396,Positive
-"Cardo se escucha bastante bien cantando en español,a pesar de que su español está muy ratata jajajajajaja",0.3384,Positive,0.0666666666666666,Neutral,0.4252095818519592,Positive
+"Cardo se escucha bastante bien cantando en español,a pesar de que su español está muy ratata jajajajajaja",0.3384,Positive,0.0666666666666666,Positive,0.4252095818519592,Positive
 All 20222,0.0,Neutral,0.0,Neutral,0.2736804783344269,Neutral
 La rompe ozuna 🔥🔥🔥💯💯💯💯 2022,-0.7351,Negative,0.0,Neutral,-0.5346932411193848,Negative
 2:16 2:17,0.0,Neutral,0.0,Neutral,-0.2669654488563537,Negative
@@ -174,7 +174,7 @@ Y rapa pa pai, rapa pa pai
 Así es que la quiero, quiero
 Rapa pa pai, rapa pa pai (oh, oh)
 Y rapa pa pam, rapa pa pam
-Así es que la quiero, quiero",0.9976,Positive,0.2744186046511628,Neutral,-0.2784213721752167,Negative
+Así es que la quiero, quiero",0.9976,Positive,0.2744186046511628,Positive,-0.2784213721752167,Negative
 2022 Quien,0.0,Neutral,0.0,Neutral,-0.2591005265712738,Negative
 "Esta Canción Es Pa Escucharla Un Domingo En Playa 🌴🍹😍 
 
@@ -185,11 +185,11 @@ Q palo 2022 escuchando este temazo 💗,0.8951,Positive,0.8,Positive,0.327512204
 quien vino solo por escuchar a cardi cantar español,0.0,Neutral,0.0,Neutral,-0.501496434211731,Negative
 🎶🎵🎶😌 una joya 💃🏼,0.6249,Positive,0.0,Neutral,0.6618947386741638,Positive
 I just love your Video,0.6369,Positive,0.5,Positive,0.8433257937431335,Positive
-No me gusta pero me encanta que Cardi  B cante español,0.7387,Positive,0.25,Neutral,0.4191541373729706,Positive
+No me gusta pero me encanta que Cardi  B cante español,0.7387,Positive,0.25,Positive,0.4191541373729706,Positive
 💗💗,0.8957,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2022 ☹️💔🤩🤧,-0.0772,Negative,0.0,Neutral,0.2993581593036651,Neutral
 Hola 👋 amigo 👋👍👍👍,0.8625,Positive,0.0,Neutral,0.4105480015277862,Positive
-Me encanta como cardi Canta en español,0.6369,Positive,0.25,Neutral,0.7784692049026489,Positive
+Me encanta como cardi Canta en español,0.6369,Positive,0.25,Positive,0.7784692049026489,Positive
 2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
 I love this song but am not understanding the language 😂😂😂,0.9343,Positive,0.5,Positive,0.391066312789917,Positive
 "Me encanta, esto es música",0.6369,Positive,0.5,Positive,0.8079211115837097,Positive
@@ -216,7 +216,7 @@ Te quiero mucho Ozuna 😘🤗🤗💋,0.9371,Positive,0.35,Positive,0.425102204
 amoo esta parte 2:18,0.6369,Positive,0.5,Positive,-0.2583599686622619,Negative
 Lo que tenga que ver cardio b me gusta no sabía ni que cardio b era la que cantaba esa cancion,0.3612,Positive,0.0,Neutral,0.3760503530502319,Positive
 X😔,0.0772,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Estás musicas no se me recuerdan a Venezuela mucho.,0.0,Neutral,0.26,Neutral,-0.463488757610321,Negative
+Estás musicas no se me recuerdan a Venezuela mucho.,0.0,Neutral,0.26,Positive,-0.463488757610321,Negative
 "Dios!!! Hoy escuché está música,y retrocedi 3 años....... Extraño esos tiempos 😢",-0.5386,Negative,0.0,Neutral,-0.440032958984375,Negative
 2022 😭🤙,0.0258,Neutral,0.0,Neutral,0.2993581593036651,Neutral
 Quien más estraña a este osuna que paresiera que cuando se cortó el pelo todo su flow se fue a la vrg 😫,-0.7096,Negative,0.0,Neutral,-0.5535141825675964,Negative
@@ -309,7 +309,7 @@ Y rapa-pa-pai, rapa-pa-pai
 Así es que la quiero, quiero
 Rapa-pa-pai, rapa-pa-pai (ouh, oh, oh)
 Y rapa-pa-pai, rapa-pa-pai
-Así es que la quiero, quiero (quiero, quiero)",0.9965,Positive,0.0956521739130434,Neutral,-0.3611513376235962,Negative
+Así es que la quiero, quiero (quiero, quiero)",0.9965,Positive,0.0956521739130434,Positive,-0.3611513376235962,Negative
 Esta música me trae muchos recuerdo cuando estube ajuntado y pase malos momentos pero siempre escuchaba esta rola 🇲🇽 2022,-0.3071,Negative,-0.0999999999999999,Negative,0.2332295626401901,Neutral
 Aqui conocí perfectamente a cardiB me encanta. 🇲🇽,0.8555,Positive,0.5,Positive,0.9003713726997375,Positive
 2022 unas de mis colaboraciones latinas me gusta siempre la oigo 🇲🇽,0.3612,Positive,0.0,Neutral,0.6296305656433105,Positive
@@ -317,11 +317,11 @@ Lo q se esforzo mi cardy por cantar esto 😍😍😍💕💕,0.959,Positive,0.0
 I can’t speak Spanish but idgaf it’s the sound for me!!! ✨,0.5894,Positive,0.390625,Positive,0.4012800753116607,Positive
 Quien en el 2022 😍🔥,0.1531,Positive,0.0,Neutral,0.2671230733394623,Neutral
 This is Cardi’s ninth most watched YouTube video,0.0,Neutral,0.5,Positive,-0.5026856064796448,Negative
-Me encanta  esta cancion por que yo la escuchaba de chiquitaaaaaaaaa 🤩🤩,0.6369,Positive,0.15625,Neutral,0.7376347184181213,Positive
+Me encanta  esta cancion por que yo la escuchaba de chiquitaaaaaaaaa 🤩🤩,0.6369,Positive,0.15625,Positive,0.7376347184181213,Positive
 teamo ozuna,0.0,Neutral,0.0,Neutral,0.2643380463123321,Neutral
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Asociación española en el presidente del Gobierno en el presidente del Gobierno,0.0,Neutral,0.0,Neutral,0.2422851324081421,Neutral
-Esta es la primera canción de Ozuna que no es exclusivamente Reggaetón sino Dancehall?,0.0,Neutral,0.25,Neutral,0.307911604642868,Neutral
+Esta es la primera canción de Ozuna que no es exclusivamente Reggaetón sino Dancehall?,0.0,Neutral,0.25,Positive,0.307911604642868,Neutral
 Jamaicans or Africans 😂 both have good looking men.,0.7003,Positive,0.7,Positive,0.3271089792251587,Neutral
 WEASSSSSSSSSSSSSSSSSSSSSSSSSSSSSS,0.0,Neutral,0.0,Neutral,0.2330827713012695,Neutral
 holaaaaaaa,0.0,Neutral,0.0,Neutral,-0.3822385966777801,Negative
@@ -331,7 +331,7 @@ Es mi cancion favorita,0.4588,Positive,0.5,Positive,0.6616100668907166,Positive
 Cardi so beautiful and her vocals 🔥,0.4201,Positive,0.85,Positive,0.7718873620033264,Positive
 Mi parte favorita 2:15,0.4588,Positive,0.5,Positive,0.6023327708244324,Positive
 It's a tradition that we must I repeat must come bk to art like these,0.3612,Positive,0.0,Neutral,0.681206226348877,Positive
-De veras q lindo canta cardo b su estilo está en el español,0.507,Positive,0.2333333333333333,Neutral,0.2475188225507736,Neutral
+De veras q lindo canta cardo b su estilo está en el español,0.507,Positive,0.2333333333333333,Positive,0.2475188225507736,Neutral
 Quien la escucha  en 2022 🇵🇦🇵🇦🇵🇦⚡,0.0,Neutral,0.0,Neutral,0.3383342027664184,Positive
 2:16,0.0,Neutral,0.0,Neutral,-0.2418958097696304,Negative
 OZU EL ROMPE LIMITES🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🤘🤘🤘🤘🤘🤘🤘🤘🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏💭💭💭💭💤💤💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫💫,-0.9942,Negative,0.0,Neutral,-0.554070234298706,Negative
@@ -340,7 +340,7 @@ Cardi B - Maravilhosa ❤️🎶🔥,0.3182,Positive,1.0,Positive,0.799527764320
 Ropa,0.0,Neutral,0.0,Neutral,0.3048001229763031,Neutral
 Quien en el 2022 escucha esta grasita,0.0,Neutral,0.0,Neutral,-0.5080826282501221,Negative
 2022 y suena muy fresco aún 🔥🔥🔥,-0.6309,Negative,0.39,Positive,0.3866771459579468,Positive
-"La voz de cardi al español se escucha suave, en cambio al inglés suena agresivo xd",0.4939,Positive,0.0333333333333333,Neutral,0.3665221333503723,Positive
+"La voz de cardi al español se escucha suave, en cambio al inglés suena agresivo xd",0.4939,Positive,0.0333333333333333,Positive,0.3665221333503723,Positive
 "La verdad me encanta escuchar esta canción solo por la diosa Cardi, bella🥰🥰",0.975,Positive,0.5,Positive,0.753228485584259,Positive
 Quien esta escuchando esta cancion hoy año 2022🥰😎,0.8834,Positive,0.0,Neutral,0.5043624639511108,Positive
 I don’t understand a word but i love it,0.7783,Positive,0.5,Positive,0.6162724494934082,Positive
@@ -350,13 +350,13 @@ Quién la escucha 2022,0.0,Neutral,0.0,Neutral,0.2784157395362854,Neutral
 My favorit singer ozuna,0.4588,Positive,0.5,Positive,0.801899790763855,Positive
 ♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.2831399440765381,Neutral
 Ozuna,0.0,Neutral,0.0,Neutral,0.2419842034578323,Neutral
-quien quiere musica nueva?😍🐻,0.4588,Positive,0.1681818181818181,Neutral,-0.250769704580307,Negative
+quien quiere musica nueva?😍🐻,0.4588,Positive,0.1681818181818181,Positive,-0.250769704580307,Negative
 alguien mas en 2022,0.0,Neutral,0.0,Neutral,-0.2441253215074539,Negative
-Cardi cantando en español es muy wou,0.0,Neutral,0.1,Neutral,0.2561577260494232,Neutral
+Cardi cantando en español es muy wou,0.0,Neutral,0.1,Positive,0.2561577260494232,Neutral
 Ferrzeirea,0.0,Neutral,0.0,Neutral,0.2647514641284942,Neutral
 "Love this song, cardi has such a beautiful voice",0.8442,Positive,0.45,Positive,0.8864162564277649,Positive
 2022 viewers..how many are with me?,0.0,Neutral,0.5,Positive,-0.3862464725971222,Negative
-El Flow de ozuna está potente💪💷,0.4215,Positive,0.3,Neutral,0.2777994871139526,Neutral
+El Flow de ozuna está potente💪💷,0.4215,Positive,0.3,Positive,0.2777994871139526,Neutral
 Que lindo,0.4215,Positive,0.6,Positive,0.3794561326503753,Positive
 Quien más escuchándola en el 2022,0.0,Neutral,0.0,Neutral,0.6057807207107544,Positive
 Es mi canción favorita es la mejor de todas,0.802,Positive,0.75,Positive,0.8164591193199158,Positive
@@ -374,7 +374,7 @@ Cuantos en el 2022💯🇩🇴,0.0,Neutral,0.5,Positive,0.3226869404315948,Neutr
 Me encanta esta canción 😍😍😍,0.9217,Positive,0.5,Positive,0.7863094806671143,Positive
 Yo no me se ni su nombre.,0.0,Neutral,0.0,Neutral,-0.6525231599807739,Negative
 En 2022,0.0,Neutral,0.0,Neutral,0.3397844433784485,Positive
-👹👹mi negrito y la golosa cardi b 2022👑👑💣💣👉👈que lindos,-0.6908,Negative,0.1666666666666666,Neutral,-0.3525213897228241,Negative
+👹👹mi negrito y la golosa cardi b 2022👑👑💣💣👉👈que lindos,-0.6908,Negative,0.1666666666666666,Positive,-0.3525213897228241,Negative
 That beat tho,0.0,Neutral,0.0,Neutral,-0.386711835861206,Negative
 cardi b sings so beautiful why doesn't she do it more often,0.7177,Positive,0.675,Positive,0.5228223204612732,Positive
 Yo 2222 alguien mas?? Ja,0.4137,Positive,0.0,Neutral,-0.4548889994621277,Negative
@@ -457,7 +457,7 @@ Y rapa-pa-pai, rapa-pa-pai
 Así es que la quiero, quiero
 Rapa-pa-pai, rapa-pa-pai (ouh, oh, oh)
 Y rapa-pa-pai, rapa-pa-pai
-Así es que la quiero, quiero (quiero, quiero)",0.9965,Positive,0.0956521739130434,Neutral,-0.3924221098423004,Negative
+Así es que la quiero, quiero (quiero, quiero)",0.9965,Positive,0.0956521739130434,Positive,-0.3924221098423004,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Ami no me gusta a mi me en canta,0.4749,Positive,0.5,Positive,-0.5194012522697449,Negative
 Ami me gusta esta canciones por que tiene la parte en ingles,0.3612,Positive,0.0,Neutral,0.4499042630195617,Positive
@@ -465,11 +465,11 @@ Alguien escuchando este temazo en el 2022?,0.0,Neutral,0.0,Neutral,-0.5475964546
 Ozuna😘😘😘🤩😍😍🤩😘😘,0.9584,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Cardy tiene que sel bruta,-0.4767,Negative,0.0,Neutral,-0.3677526116371155,Negative
 A solo 3 hora de que se valla el año 2021 escuchando esta joya,0.0,Neutral,0.0,Neutral,-0.7457413673400879,Negative
-Quien sigue escuchando este clásico en 2021 🔥🔥,-0.5859,Negative,0.1666666666666666,Neutral,0.6040294766426086,Positive
+Quien sigue escuchando este clásico en 2021 🔥🔥,-0.5859,Negative,0.1666666666666666,Positive,0.6040294766426086,Positive
 Hola si puede escuchar mi canción Ilusiones se lo agradezco 🙏🏼❤️,0.4019,Positive,0.0,Neutral,0.5190417170524597,Positive
 1873,0.0,Neutral,0.0,Neutral,0.2723376452922821,Neutral
 Quién todavía está escuchando está música 2021✌️🙃,0.0,Neutral,0.0,Neutral,0.5071849822998047,Positive
-Cardi canta muy bien en español,0.3384,Positive,0.1,Neutral,0.4775381088256836,Positive
+Cardi canta muy bien en español,0.3384,Positive,0.1,Positive,0.4775381088256836,Positive
 Yo todavía la escucho,0.0,Neutral,0.0,Neutral,0.2623720169067383,Neutral
 Cuando salió este temaso les estaban disiendo a mi abuela que se murió mi tío,0.128,Positive,0.8,Positive,-0.5683109760284424,Negative
 Ainda não superei este hit!👊💚,0.0,Neutral,0.0,Neutral,-0.419908732175827,Negative
@@ -485,7 +485,7 @@ este video parece de filmora XD jdasjsadasj🤣😅,0.9141,Positive,0.0,Neutral,
 Que linda se oye cardi.,0.4588,Positive,0.5,Positive,-0.305469810962677,Negative
 "K
 Iikkk",0.0,Neutral,0.0,Neutral,0.2755219042301178,Neutral
-I don't know any Spanish but I know it's a very sexy language,0.7218,Positive,0.325,Neutral,0.3064358532428741,Neutral
+I don't know any Spanish but I know it's a very sexy language,0.7218,Positive,0.325,Positive,0.3064358532428741,Neutral
 Que hermosas épocas 🥺❤️,0.5994,Positive,0.85,Positive,0.5296493768692017,Positive
 Holaozunacomotuestas💖💖💖💖💖💋💋💋💋💋💋💋 $$$ymuchobesoscrismerlinlatiadeanderlin,0.9938,Positive,0.0,Neutral,-0.3693711161613464,Negative
 Que hermosa está canción me encanta,0.8442,Positive,0.675,Positive,0.806303858757019,Positive
@@ -493,10 +493,10 @@ I don't understand Spanish but this hits different even 4 years later,0.0,Neutra
 🏄🏻‍♂️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Get up inside,0.0,Neutral,0.0,Neutral,-0.2697594165802002,Negative
 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
-Escuchando musica de viejos tiempos😊,0.7184,Positive,0.1,Neutral,0.4138968884944916,Positive
+Escuchando musica de viejos tiempos😊,0.7184,Positive,0.1,Positive,0.4138968884944916,Positive
 Cardi b En Español canta lindo,0.5719,Positive,0.425,Positive,-0.2302875965833664,Negative
 オズナあんたそんなに人気でもないクセにファン3000万人もいるのかってェ〜,-0.4471,Negative,0.6,Positive,-0.3065270185470581,Negative
-"yo quiero hacerte tantas cosas sin enamorarteeeee, mierdaaaa, rolonnnnnnnn",-0.4322,Negative,0.15,Neutral,0.3242536783218384,Neutral
+"yo quiero hacerte tantas cosas sin enamorarteeeee, mierdaaaa, rolonnnnnnnn",-0.4322,Negative,0.15,Positive,0.3242536783218384,Neutral
 500 million views,0.0,Neutral,0.0,Neutral,0.5175647735595703,Positive
 hermosa esa música 😻😻,0.872,Positive,0.85,Positive,0.7971760034561157,Positive
 このオズナって人，パートナーありですかァ〜それともなしですかァ〜,0.0,Neutral,0.0,Neutral,0.3893981575965881,Positive
@@ -509,7 +509,7 @@ Soy la única que en pleno julio escuchando esta mucica,0.0,Neutral,0.0,Neutral,
 Cardi B's voice is so good 🥺🥺❤️❤️,0.5777,Positive,0.7,Positive,0.5807719826698303,Positive
 Like por los que estamos dando un tour por canciones,0.3612,Positive,0.0,Neutral,0.3391013443470001,Positive
 WE REACHED 500 MILLION PURRR BARDIGANG 😍👠👠👠👠👠👠👠👠👠👠👠👠👠,0.6289,Positive,0.0,Neutral,-0.5460550785064697,Negative
-Your health and health insurance policy is not the only option you will be able with the other benefits you need for your job to do so that it can help to do it again in the morning before you start taking it from your doctor to da for a few months and you will be taking it to your vet for more time and you will be ready for the first time,0.7783,Positive,0.1607142857142857,Neutral,0.3458868563175201,Positive
+Your health and health insurance policy is not the only option you will be able with the other benefits you need for your job to do so that it can help to do it again in the morning before you start taking it from your doctor to da for a few months and you will be taking it to your vet for more time and you will be ready for the first time,0.7783,Positive,0.1607142857142857,Positive,0.3458868563175201,Positive
 Diciembre del 2021 jajaja aún aquí,0.4215,Positive,0.8,Positive,-0.3339540958404541,Negative
 "Understood - 0%
 Enjoyed - 100%",0.5106,Positive,0.5,Positive,0.4335913956165313,Positive
@@ -520,7 +520,7 @@ Cardi B y su español ra ta Tá🥰😂,0.8807,Positive,0.0,Neutral,-0.271039664
 Un temazo todavía la escucho,0.6249,Positive,0.8,Positive,-0.3407388031482696,Negative
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 この曲結構中毒性ある,0.0,Neutral,0.0,Neutral,-0.3819100558757782,Negative
-カーディが珍しくボーカル歌ってるって話だァ〜,0.0,Neutral,0.3,Neutral,0.5838558077812195,Positive
+カーディが珍しくボーカル歌ってるって話だァ〜,0.0,Neutral,0.3,Positive,0.5838558077812195,Positive
 "Cardi B's singing voice:💎🔥🌷😱
 Cardi B's rapping voice: 🤮🤐💩👻",-0.8591,Negative,0.0,Neutral,0.2490945309400558,Neutral
 Me gusta,0.3612,Positive,0.0,Neutral,0.4238454401493072,Positive
@@ -533,16 +533,16 @@ Rafaello,0.0,Neutral,0.0,Neutral,0.2424731850624084,Neutral
 Pineda.Araujo,0.0,Neutral,0.0,Neutral,0.2506124973297119,Neutral
 Ordoñez,0.0,Neutral,0.0,Neutral,0.3103689849376678,Neutral
 Biondi,0.0,Neutral,0.0,Neutral,0.2621961832046509,Neutral
-"""Cardi b"" smoked the whole...",0.0,Neutral,0.2,Neutral,-0.4669315218925476,Negative
+"""Cardi b"" smoked the whole...",0.0,Neutral,0.2,Positive,-0.4669315218925476,Negative
 Casi 500M lo mas,0.0,Neutral,0.5,Positive,0.2667251825332641,Neutral
 Me Gusta La Portada De Este Video Y Me Gusta La Del Sexo Femenino De La Portada De Este Video,0.6124,Positive,0.0,Neutral,0.4731919765472412,Positive
 lo mejor,0.6369,Positive,1.0,Positive,0.8359277248382568,Positive
 Soy la única que en diciembre aún la escucha ? 😂😛🌅🌅🖤🖤🖤🖤,0.967,Positive,0.0,Neutral,-0.3916604220867157,Negative
 Alguien en diciembre del 2021 escuchando esta joyita? 💗♥️❤️,0.8779,Positive,0.0,Neutral,-0.6975208520889282,Negative
 500M 😮,0.0,Neutral,0.0,Neutral,0.3264911770820617,Neutral
-Loved this one and it has ta and I love you too but I'm still not going anywhere else in porta ma or the other way too much to da bia but I'm not a dios ytu but I o the man I was at the man I was a mi no Metrates and the other one was in a dios but not going out and the rest were in a hurry and your family was going out of town for your birthday,0.3071,Positive,0.2299999999999999,Neutral,0.4282322525978088,Positive
+Loved this one and it has ta and I love you too but I'm still not going anywhere else in porta ma or the other way too much to da bia but I'm not a dios ytu but I o the man I was at the man I was a mi no Metrates and the other one was in a dios but not going out and the rest were in a hurry and your family was going out of town for your birthday,0.3071,Positive,0.2299999999999999,Positive,0.4282322525978088,Positive
 I love this song cardi b have a lovely voice,0.8402,Positive,0.5,Positive,0.7820199728012085,Positive
-Idk wtf they’re saying but I love this song lol,0.836,Positive,0.2666666666666666,Neutral,0.6024650931358337,Positive
+Idk wtf they’re saying but I love this song lol,0.836,Positive,0.2666666666666666,Positive,0.6024650931358337,Positive
 kien este 2021,0.0,Neutral,0.0,Neutral,0.2812403738498688,Neutral
 Quien  en diciembre 2021 ?😘,0.4215,Positive,0.0,Neutral,-0.5870252847671509,Negative
 It’s crazy how many people come back to this everyday. This song is legendary!🖤 🌈,0.4753,Positive,-0.075,Negative,0.9113662838935852,Positive
@@ -550,7 +550,7 @@ Diciembre 2021 aún aquí 😘😍,0.7003,Positive,0.0,Neutral,0.256464540958404
 2021/2022 alguien más aquí?,0.0,Neutral,0.0,Neutral,-0.2699143290519714,Negative
 노래 너무 좋다,0.5777,Positive,0.7,Positive,0.450554221868515,Positive
 LOVE IT YARRRR,0.6369,Positive,0.5,Positive,0.8052073121070862,Positive
-"Cardi se escucha bastante bien cantando en español, a pesar de que su español está muy ratata jajajajajaj",0.3384,Positive,0.1,Neutral,0.4266135096549988,Positive
+"Cardi se escucha bastante bien cantando en español, a pesar de que su español está muy ratata jajajajajaj",0.3384,Positive,0.1,Positive,0.4266135096549988,Positive
 Quien la escucha antes del 2022,0.0,Neutral,0.0,Neutral,-0.3060780763626098,Negative
 Diablo que music,-0.6597,Negative,0.0,Neutral,0.3522514402866363,Positive
 "Una canción como esta no hay hotra más bella llaque la canta Ozuna y Cardi  
@@ -562,7 +562,7 @@ Ozuna 😍,0.4588,Positive,0.0,Neutral,0.2756120264530182,Neutral
 Bardi gang where you at? We almost at half a billion!,0.0,Neutral,-0.2083333333333333,Negative,-0.5240616202354431,Negative
 Bien,0.4404,Positive,0.7,Positive,0.4702088236808777,Positive
 ozu.....,0.0,Neutral,0.0,Neutral,0.2452525943517685,Neutral
-8:30 de la mañana escuchando un de las rolita de ozuna 😎 sientiendome chingona por la letra jaja,0.8316,Positive,0.275,Neutral,-0.427423357963562,Negative
+8:30 de la mañana escuchando un de las rolita de ozuna 😎 sientiendome chingona por la letra jaja,0.8316,Positive,0.275,Positive,-0.427423357963562,Negative
 Ozuna x Cardi B 🖤💚🖤💚🖤💚🖤,0.9854,Positive,0.0,Neutral,0.270912230014801,Neutral
 Ozuna ❤️ for ever ❤️,0.0,Neutral,0.0,Neutral,0.7362526059150696,Positive
 "2021 y aún escuchándola, es un temasoooooo",0.0,Neutral,0.0,Neutral,0.5121813416481018,Positive
@@ -577,7 +577,7 @@ Good song,0.4404,Positive,0.7,Positive,0.5417960286140442,Positive
 mi cancion favorita,0.4588,Positive,0.5,Positive,0.7596811056137085,Positive
 Javier May call this out,0.0,Neutral,0.0,Neutral,-0.2438937425613403,Negative
 Qué bonita vos tiene Cardi B y en Más aún,0.5994,Positive,0.675,Positive,0.3768346905708313,Positive
-"This is Cardi’s fifth song to appear on billboard hot 100, it peaked at #52 and spent #14 weeks on charts",0.0,Neutral,0.075,Neutral,0.340847760438919,Positive
+"This is Cardi’s fifth song to appear on billboard hot 100, it peaked at #52 and spent #14 weeks on charts",0.0,Neutral,0.075,Positive,0.340847760438919,Positive
 "498,471,243 views",0.0,Neutral,0.0,Neutral,0.233841672539711,Neutral
 Like si hoy está aquí,0.3612,Positive,0.0,Neutral,0.2612674534320831,Neutral
 🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹💯💯💯💯💯💯🇭🇹🇭🇹🇭🇹🇭🇹💯🔥🔥🔥🔥🔥🔥🔥🔥,-0.9451,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -605,12 +605,12 @@ Ta bueno pa gozar.,0.7269,Positive,0.55,Positive,0.4354761242866516,Positive
 Activo bendiciones Brown 🙏⚾👌,0.9068,Positive,-0.1333333333333333,Negative,0.3904969990253448,Positive
 "Ozuna Te amo, mi tesis llevara tu nombre porque por ti le hecho ganas a la vida",0.6705,Positive,0.5,Positive,0.5615226626396179,Positive
 Hvvvviuuuu,0.0,Neutral,0.0,Neutral,0.2430271804332733,Neutral
-First time me watching the song,0.0,Neutral,0.25,Neutral,0.2285744994878769,Neutral
+First time me watching the song,0.0,Neutral,0.25,Positive,0.2285744994878769,Neutral
 This song is going VIRAL on Tik Tok,0.0,Neutral,0.0,Neutral,-0.6359223127365112,Negative
 "497,996,045 views",0.0,Neutral,0.0,Neutral,-0.3682179749011993,Negative
 Jajaja,0.7351,Positive,0.0,Neutral,0.2783994674682617,Neutral
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
-I love cardi singing so softly!,0.6696,Positive,0.3125,Neutral,0.8774250149726868,Positive
+I love cardi singing so softly!,0.6696,Positive,0.3125,Positive,0.8774250149726868,Positive
 26 de noviembre,0.0,Neutral,0.0,Neutral,-0.3256236612796783,Negative
 Ozuna miooo🐻🐻🐻🐻🐻🐻🐻🐻,0.0,Neutral,0.0,Neutral,0.2756120264530182,Neutral
 💥💥💥💥💥💥💫💫💫💫,-0.9559,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -650,13 +650,13 @@ Me encanta tu musicaaaa! 🥺♡︎,0.6696,Positive,0.625,Positive,0.79549908638
 TEEEEMON,0.0,Neutral,0.0,Neutral,0.2863868474960327,Neutral
 Aaaah no me acordaba de este tamaso,0.0,Neutral,0.0,Neutral,-0.7156193852424622,Negative
 2021  y todavía me vuelve loca esta canción🥰,0.7096,Positive,0.0,Neutral,0.3683413565158844,Positive
-Why is all the comments written in Spanish I really wanna read em I can't understand Spanish,0.0,Neutral,0.0666666666666666,Neutral,-0.5769364237785339,Negative
+Why is all the comments written in Spanish I really wanna read em I can't understand Spanish,0.0,Neutral,0.0666666666666666,Positive,-0.5769364237785339,Negative
 CARDI B EMPRESS OF RAP ❤️👠👠👠👠👠👠👠👠👠👠,0.0,Neutral,0.0,Neutral,0.470460295677185,Positive
 La mejor,0.6369,Positive,1.0,Positive,0.8274855017662048,Positive
 "18 de noviembre 
 Escuchandola 
 Con tremenda nostalgia 😭",-0.5209,Negative,0.3333333333333333,Positive,0.6265446543693542,Positive
-Soy el único que la escucha en noviembre o hay más?,0.0,Neutral,0.25,Neutral,-0.3577432334423065,Negative
+Soy el único que la escucha en noviembre o hay más?,0.0,Neutral,0.25,Positive,-0.3577432334423065,Negative
 😊,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Estamos activos noviembre 2021. 🔥🔥🙂🙂,0.5129,Positive,-0.1333333333333333,Negative,0.3520219922065735,Positive
 En noviembre 17 2021,0.0,Neutral,0.0,Neutral,-0.420581191778183,Negative
@@ -679,7 +679,7 @@ Podemos llegar a los 500M antes del 17 de diciembre falta poco este temita wsta 
 Cardi b es la mujer mas sexy del planeta,0.0,Neutral,0.0,Neutral,0.7463191151618958,Positive
 14 de noviembre de 2021 y esté sigue siendo un temazo,0.6249,Positive,0.8,Positive,-0.3838723003864288,Negative
 Además de mi quien odia los putos comerciales de you tube,-0.4404,Negative,0.0,Neutral,-0.4403455257415771,Negative
-Viva Venezuela libre,0.5106,Positive,0.1621212121212121,Neutral,0.5085734724998474,Positive
+Viva Venezuela libre,0.5106,Positive,0.1621212121212121,Positive,0.5085734724998474,Positive
 🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Soy la única escuchando en el 13 de noviembre esta canción? 🤣,0.4939,Positive,0.0,Neutral,-0.5849109292030334,Negative
 "La vos de cardi b
@@ -701,8 +701,8 @@ algn en 2021 escuchandola,0.0,Neutral,0.0,Neutral,0.3006745874881744,Neutral
 Esta música se merece el billon😍😍,0.7184,Positive,0.0,Neutral,0.514833927154541,Positive
 Hacen faltas estas música 🎶 a ese estilo 🔥 2016 2017 y 2018 los mejores años de música 🎶,0.1531,Positive,0.4,Positive,0.8054351806640625,Positive
 "amo esta cacion,la escucho siempre",0.6369,Positive,0.5,Positive,0.7737501859664917,Positive
-06/11/2021 y todavia la escucho jajajaj,0.5574,Positive,0.2,Neutral,-0.5114591121673584,Negative
-No me canso de ver el video por como bailan y lo buenas que están las bailarinas,0.6492,Positive,0.1499999999999999,Neutral,0.41355761885643,Positive
+06/11/2021 y todavia la escucho jajajaj,0.5574,Positive,0.2,Positive,-0.5114591121673584,Negative
+No me canso de ver el video por como bailan y lo buenas que están las bailarinas,0.6492,Positive,0.1499999999999999,Positive,0.41355761885643,Positive
 🤴 👸,0.0,Neutral,0.0,Neutral,0.3428077399730682,Positive
 너무 좋네요 ㅎㅎ,0.7559,Positive,0.4499999999999999,Positive,0.3107506334781647,Neutral
 🥺🥺🥺🥺🥺🥺🥺🤭🤭,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -731,27 +731,27 @@ Rumbo al 2022 escuchado este temazo!!,0.755,Positive,1.0,Positive,-0.39721506834
 Cardi 🥺🥺🥺😘😘❤️❤️,0.6808,Positive,0.0,Neutral,0.3158017694950104,Neutral
 Ozuna ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.2756120264530182,Neutral
 🥰❤️ 💃🏻,0.8074,Positive,0.0,Neutral,0.3428077399730682,Positive
-A pesar que ella habla un español muy básico pues debería aprenderlo mejor y cantar más en español.,0.4404,Positive,0.2,Neutral,0.4365316927433014,Positive
+A pesar que ella habla un español muy básico pues debería aprenderlo mejor y cantar más en español.,0.4404,Positive,0.2,Positive,0.4365316927433014,Positive
 Amo esta cansion,0.6369,Positive,0.5,Positive,-0.3532075881958008,Negative
-Me encanta el inglés de cardi,0.6369,Positive,0.25,Neutral,0.7229236960411072,Positive
+Me encanta el inglés de cardi,0.6369,Positive,0.25,Positive,0.7229236960411072,Positive
 Es la primera vez que escucho esta canción y me encantó 😘👍❤,0.8979,Positive,0.475,Positive,0.7856799960136414,Positive
 💃💃🤩🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 La Cardiii,0.0,Neutral,0.0,Neutral,0.267476886510849,Neutral
 Ya casi terminando el año y sige este temaso en mi mente,0.0,Neutral,0.0,Neutral,0.5644110441207886,Positive
-Los porto riquenos la rompen jaja,0.4588,Positive,0.2,Neutral,-0.5365607142448425,Negative
+Los porto riquenos la rompen jaja,0.4588,Positive,0.2,Positive,-0.5365607142448425,Negative
 I am indian i dont understand this song but ❤👌,0.9432,Positive,0.0,Neutral,-0.2715289890766144,Negative
 Quién la sigue escuchando este 2021,0.0,Neutral,0.0,Neutral,0.4832012057304382,Positive
 Escuchando este temazo en 2021,0.0,Neutral,0.0,Neutral,0.3948692083358764,Positive
 "Live Cardi b. dont sound nothing like that at all, i dont know what they did or how they did it but i saw them live and she didnt sound good at all not like this here.",-0.6557,Negative,0.3545454545454545,Positive,-0.4435535073280334,Negative
 Guíen escuchando el 26 de octubre 2021,0.0,Neutral,0.0,Neutral,-0.4167600572109222,Negative
-"Solo puedo decir algo que no tendrá mucha importancia, ozuna siempre ha sido el mismo en todos los discos, si no la rompe es porque pues les hagarro por cogerle hate o burlarse de él o se cansaron de que fuera tan bueno, yo es que la verdad después de 1 año volví a escuchar sus supuestos discos ""malos"" y me quede sin palabras increíble, nunca comprenderé a la gente",-0.0856,Negative,0.0549999999999999,Neutral,-0.4580929279327392,Negative
+"Solo puedo decir algo que no tendrá mucha importancia, ozuna siempre ha sido el mismo en todos los discos, si no la rompe es porque pues les hagarro por cogerle hate o burlarse de él o se cansaron de que fuera tan bueno, yo es que la verdad después de 1 año volví a escuchar sus supuestos discos ""malos"" y me quede sin palabras increíble, nunca comprenderé a la gente",-0.0856,Negative,0.0549999999999999,Positive,-0.4580929279327392,Negative
 Cardi b vocal is on fireeeeeeeeee,0.0,Neutral,0.0,Neutral,-0.283938467502594,Negative
 Is that Jamaica???,0.0,Neutral,0.0,Neutral,-0.4278554320335388,Negative
 I don't understand this lang but I'm here for cardi b😭🛐❤,0.6652,Positive,0.0,Neutral,0.3458380103111267,Positive
 Cardi - b habla español??,0.0,Neutral,0.0,Neutral,-0.4118086993694305,Negative
 pero la quiero<3333,0.7783,Positive,0.5,Positive,0.3754367530345917,Positive
 Does anyone know the brand of ozuna the yellow green red,0.0,Neutral,-0.0666666666666666,Negative,-0.4119162261486053,Negative
-Escuchén mi música se los agradecería mucho 👆🏻❤️🔊🔝🇲🇽🔥💎✝️🙏🏻🇲🇽 bendiciones,0.7668,Positive,0.2,Neutral,0.6136230826377869,Positive
+Escuchén mi música se los agradecería mucho 👆🏻❤️🔊🔝🇲🇽🔥💎✝️🙏🏻🇲🇽 bendiciones,0.7668,Positive,0.2,Positive,0.6136230826377869,Positive
 Me encantan toda la musica de ozuna,0.6369,Positive,0.5,Positive,0.7998358607292175,Positive
 DANIEL Y JSSICA Yoclis💃❤❤❤❤🤴,0.9571,Positive,0.0,Neutral,0.2856305241584778,Neutral
 DANIEL Y JSSICA LSY💃❤❤❤❤🤴,0.9571,Positive,0.0,Neutral,0.2856305241584778,Neutral
@@ -766,10 +766,10 @@ Amor Amor ti musica!!!!!,0.8902,Positive,0.75,Positive,0.6186984181404114,Positi
 this song brings back beautiful memories to me...,0.5994,Positive,0.425,Positive,0.7500629425048828,Positive
 Está música me trae recuerdos de Buenos momentos aún sigo escuchándola🥺♥️! ¿Soy el único?,0.8122,Positive,0.4375,Positive,0.640815019607544,Positive
 Perfection,0.5719,Positive,0.0,Neutral,0.7451226115226746,Positive
-Fans de ozuna no olviden el 22 sale la colaboracion hagamos stram plox cuando sala la musica pa que sea un exito xd,0.8468,Positive,0.3,Neutral,-0.4369673728942871,Negative
+Fans de ozuna no olviden el 22 sale la colaboracion hagamos stram plox cuando sala la musica pa que sea un exito xd,0.8468,Positive,0.3,Positive,-0.4369673728942871,Negative
 😘😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Ozunistas recuerden hacer Stream a SG cuando salga. También hacer Stream en Spotify, Shazam, iTunes, Apple music,... Es importante para llegar al HOT 100",0.2263,Positive,0.325,Neutral,0.4644257724285126,Positive
-pov : vienes a recordar los viejos tiempos de ozuna 🔥,-0.34,Negative,0.1,Neutral,0.3100549280643463,Neutral
+"Ozunistas recuerden hacer Stream a SG cuando salga. También hacer Stream en Spotify, Shazam, iTunes, Apple music,... Es importante para llegar al HOT 100",0.2263,Positive,0.325,Positive,0.4644257724285126,Positive
+pov : vienes a recordar los viejos tiempos de ozuna 🔥,-0.34,Negative,0.1,Positive,0.3100549280643463,Neutral
 "Lamentablemente si , la música latina en 2016 y 2017 fue la mejor de la década muy buenos tiempos 😔😔😭😭😭",0.0661,Positive,0.47,Positive,-0.3298918008804321,Negative
 2021💕🇵🇪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 The fact that they choose Jamacia to shoot their music video is so cool,0.1509,Positive,0.35,Positive,0.5336706638336182,Positive
@@ -783,16 +783,16 @@ Pull up on me. I'm easy-going.
 Breezy dance rehearsal at youngs park.
 Chris/Alsinga
 O ozuna.
-Ozuna Excuse the editor ( jesus Macias )",0.3612,Positive,0.1833333333333333,Neutral,0.5683366656303406,Positive
+Ozuna Excuse the editor ( jesus Macias )",0.3612,Positive,0.1833333333333333,Positive,0.5683366656303406,Positive
 Ozuna vuelve como de antes 😫😫,-0.7003,Negative,0.0,Neutral,0.4005911350250244,Positive
 "Quien más la escucha en octubre 2021?
 🤟",0.0,Neutral,0.0,Neutral,-0.4667248427867889,Negative
 Love this song,0.6369,Positive,0.5,Positive,0.8493074774742126,Positive
-The camera changes too much,0.0,Neutral,0.2,Neutral,-0.4986421465873718,Negative
+The camera changes too much,0.0,Neutral,0.2,Positive,-0.4986421465873718,Negative
 FBI at Lubys your trade center bombers are in my head,0.0,Neutral,-0.1,Negative,0.3682180047035217,Positive
 "2021 cardi b, she is a Queen",0.0,Neutral,0.0,Neutral,0.4217704534530639,Positive
 LEME GET SOME RICE AND PEAS,0.0,Neutral,0.0,Neutral,0.2988485395908355,Neutral
-Con el íntro de la canción voy al baño regresó y todavía no empieza jajajaja,0.0,Neutral,0.1,Neutral,-0.5049333572387695,Negative
+Con el íntro de la canción voy al baño regresó y todavía no empieza jajajaja,0.0,Neutral,0.1,Positive,-0.5049333572387695,Negative
 Almost 500 M !!! Streaming,0.0,Neutral,0.0,Neutral,-0.356649100780487,Negative
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 ❤️🙂🤩,0.4033,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -804,7 +804,7 @@ Hola a todos,0.0,Neutral,0.0,Neutral,0.4777891337871551,Positive
 Me gusta el vídeo ozuna,0.3612,Positive,0.0,Neutral,0.4745279848575592,Positive
 Y aún es mi favorita esa dulce voz de cardi B,0.7184,Positive,0.425,Positive,0.7750643491744995,Positive
 2021 y yo aki,0.0,Neutral,0.0,Neutral,0.4460260272026062,Positive
-"Cardi sounds sexy singing in Spanish, that's her calling , she need to keep that up, specially with Ozuna",0.5267,Positive,0.2857142857142857,Neutral,0.3627427518367767,Positive
+"Cardi sounds sexy singing in Spanish, that's her calling , she need to keep that up, specially with Ozuna",0.5267,Positive,0.2857142857142857,Positive,0.3627427518367767,Positive
 Negros 😍,0.4588,Positive,0.0,Neutral,-0.3645898103713989,Negative
 El Gordo y la flacka viene en esta cancion,0.0,Neutral,0.0,Neutral,0.2938821315765381,Neutral
 I don’t understand 1fuxk but this shit hard asf 🔥🔥🔥,-0.9499,Negative,-0.2458333333333333,Negative,-0.4051730930805206,Negative
@@ -816,7 +816,7 @@ Ola ozunita pode i aviva a hoy luna ozunita,0.3818,Positive,0.0,Neutral,-0.30100
 I don’t know what they’re saying in Spanish but I like this song😂,0.7964,Positive,0.0,Neutral,0.4993492364883423,Positive
 Amo esta canción!,0.6696,Positive,0.625,Positive,0.7513332366943359,Positive
 i dont even know what shes singing about i dont speak spanish,0.0,Neutral,0.0,Neutral,-0.545105516910553,Negative
-I always wondered why the hell this video is so trippy - And then I remembered that psychedelics are legal in Jamaica.,-0.6249,Negative,0.2,Neutral,-0.4510998725891113,Negative
+I always wondered why the hell this video is so trippy - And then I remembered that psychedelics are legal in Jamaica.,-0.6249,Negative,0.2,Positive,-0.4510998725891113,Negative
 Noterías,0.0,Neutral,0.0,Neutral,0.3022367656230926,Neutral
 Ozuna y Cardi B excelente 😍😍😍😍💋💋💋💋💘💘💘💘🐻🐻🐻🐻,0.9921,Positive,1.0,Positive,0.6924371123313904,Positive
 I can't understand the song...but i still loving it ✌️✌️,0.5994,Positive,0.6,Positive,0.4998989999294281,Positive
@@ -825,7 +825,7 @@ Amo,0.0,Neutral,0.0,Neutral,0.4348050653934479,Positive
 Somos dos me encanta.,0.6369,Positive,0.5,Positive,0.8690861463546753,Positive
 ta dura la musica,0.0,Neutral,0.0,Neutral,-0.244752436876297,Negative
 O7 de octubre y la escucho,0.0,Neutral,0.0,Neutral,-0.2932895720005035,Negative
-Hay alguien aquí con vida? Jueves 07/10/21 hoy día juega Perú va Chile para Qatar 2022 vamos Perú crjo 😎❤️,0.7506,Positive,0.1,Neutral,-0.6742393374443054,Negative
+Hay alguien aquí con vida? Jueves 07/10/21 hoy día juega Perú va Chile para Qatar 2022 vamos Perú crjo 😎❤️,0.7506,Positive,0.1,Positive,-0.6742393374443054,Negative
 quien en octubre de 2021 escuchando esta Rolita,0.0,Neutral,0.0,Neutral,-0.5942162275314331,Negative
 2021😎,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ho octubre 2021,0.0,Neutral,0.0,Neutral,-0.4607248902320862,Negative
@@ -842,7 +842,7 @@ Yo sé que Ozuna está enamorado de evaluna,0.6369,Positive,0.5,Positive,0.29313
 "Yo no me se ni su nombre ,pero lo quiero🥰😋🤣",0.9721,Positive,0.5,Positive,-0.3994750678539276,Negative
 Noviembre 2021...ja,0.0,Neutral,0.0,Neutral,-0.433491438627243,Negative
 Octubre 😍😍😍😍,0.9001,Positive,0.0,Neutral,-0.3039920032024383,Negative
-Ahora a que darle 500 millones ;),0.2263,Positive,0.25,Neutral,0.3262841403484344,Neutral
+Ahora a que darle 500 millones ;),0.2263,Positive,0.25,Positive,0.3262841403484344,Neutral
 I LOVE THIS SONG BUT  I DONT UNDERSTAND OZUNAS LANGUAGE,0.3818,Positive,0.5,Positive,0.3149419128894806,Neutral
 2021 y aún escucho este tema 🤯🤡,0.0,Neutral,0.0,Neutral,0.5288906097412109,Positive
 Ozuna Love from Bangladesh ❤️,0.6369,Positive,0.5,Positive,0.506771445274353,Positive
@@ -859,7 +859,7 @@ Cardi 💕,0.6486,Positive,0.0,Neutral,0.3158017694950104,Neutral
 1 de octubre y no sale de mi cabeza esta rolaa AMOOOO😁🛐💗,0.8779,Positive,0.0,Neutral,-0.8655659556388855,Negative
 Soy la única q. Empléno octubre escucha esta música 👩🏻‍🎤,0.0,Neutral,0.0,Neutral,-0.6777742505073547,Negative
 Quien este leyendo esto que Dios los bendiga,0.634,Positive,0.0,Neutral,0.4440349042415619,Positive
-This is an absolute fav,0.4588,Positive,0.2,Neutral,0.6194299459457397,Positive
+This is an absolute fav,0.4588,Positive,0.2,Positive,0.6194299459457397,Positive
 alguien escuchandola aun,0.0,Neutral,0.0,Neutral,-0.345306396484375,Negative
 xD,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
 Septiembre de 2021 y sigue siendo un temazo,0.0,Neutral,0.0,Neutral,-0.3898884356021881,Negative

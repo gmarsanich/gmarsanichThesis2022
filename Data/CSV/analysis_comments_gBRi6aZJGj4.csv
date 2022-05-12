@@ -1,19 +1,19 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 its 5am and im here,0.0,Neutral,0.0,Neutral,0.458451509475708,Positive
 Remember hearing this as a YouTube recommendation when it barely came out I’m so glad I heard it lol,0.7695,Positive,0.45,Positive,0.3893324732780456,Positive
-decir que ella cuando saco esta cancion tenia 15 años y yo con 17 no pude entrar a la uni,0.0,Neutral,0.1,Neutral,-0.4561759233474731,Negative
+decir que ella cuando saco esta cancion tenia 15 años y yo con 17 no pude entrar a la uni,0.0,Neutral,0.1,Positive,-0.4561759233474731,Negative
 Billie🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 وين العرب ؟!,0.0,Neutral,0.0,Neutral,-0.357609361410141,Negative
 "Várias lembrança ao escutar essa música,eu era mega fan da Billie e relembrar é incrível!",0.75,Positive,0.375,Positive,0.7362504601478577,Positive
 "я так люблю его 
 но мы растерялись уже давно((
 я все еще что он любит,какой он на самом деле,что он делает когда ему скучно))я все знаю о нем,и я все еще люблю его)это он сам  хотел расстаться. 
-мне было больно но я сильная и сказала все отлично)",0.9072,Positive,0.2444444444444444,Neutral,0.5654769539833069,Positive
+мне было больно но я сильная и сказала все отлично)",0.9072,Positive,0.2444444444444444,Positive,0.5654769539833069,Positive
 Клип Бомба,-0.4939,Negative,0.0,Neutral,-0.3133052289485931,Negative
 My favourite 🤩,0.0,Neutral,0.0,Neutral,0.8583036065101624,Positive
 slay mommy,0.0,Neutral,0.0,Neutral,-0.2704120874404907,Negative
 "Damn this was 5 years ago, sweet jesus time flew by",0.0772,Positive,0.35,Positive,0.6859869956970215,Positive
-Billie i think your mind is in your brain ? Is I'm right prove me by like ?,0.4329,Positive,0.2857142857142857,Neutral,-0.3077472746372223,Negative
+Billie i think your mind is in your brain ? Is I'm right prove me by like ?,0.4329,Positive,0.2857142857142857,Positive,-0.3077472746372223,Negative
 She's not 15 anymore I think she must be 18 or 19,0.0,Neutral,0.0,Neutral,0.3564021289348602,Positive
 "A billie canta bem é linda de mais,amo a billie amo as músicas tbm",0.9371,Positive,0.6166666666666667,Positive,0.3342064917087555,Positive
 hello bilie eilish you love music,0.6369,Positive,0.5,Positive,0.5505695939064026,Positive
@@ -21,10 +21,10 @@ hello bilie eilish you love music,0.6369,Positive,0.5,Positive,0.550569593906402
 💞💞💌💌💌💖💕💕💕💕💖💘💗💗💗💋💖💖💕💕💕💕💕💕💖💘💘💘💘💘💕💕💕💖💘💋💘💖💕💕💕💖💘💘💘💘💋💋💕💕💕💕💕💖💘💘💋💗❤💌🔥🔥💞💞😏❤💘MAXl,0.9998,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🔥🔥🔥🔥🔥❤😍😍😃💓💓💓💕💕💖💖💖💗😘😘😘😘😏😏😏❤❤😏💘❤😏❤😏❤❤❤💖💖💖💖💖💕💓💓💕💖💖💘,0.9994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 let's see how many legend and fans are still listening and watching this masterpiece 😃,0.8113,Positive,0.5,Positive,0.8142070174217224,Positive
-IM SORRI IS LOVELY IS LOVE,0.8271,Positive,0.1666666666666666,Neutral,0.659398078918457,Positive
+IM SORRI IS LOVELY IS LOVE,0.8271,Positive,0.1666666666666666,Positive,0.659398078918457,Positive
 تجنن 🥵💗💋.,0.0,Neutral,0.0,Neutral,0.3271211981773376,Neutral
 still one of her best songs,0.6369,Positive,1.0,Positive,0.5327488780021667,Positive
-I only like her music cos my VERY VERY VERY BESTIEEEE got me into it,0.3612,Positive,0.13,Neutral,0.3617943823337555,Positive
+I only like her music cos my VERY VERY VERY BESTIEEEE got me into it,0.3612,Positive,0.13,Positive,0.3617943823337555,Positive
 "Ты лутше всех... Я тоже хочу быть лутше в своей стране, но вампиры не дают... Поддержи Украину своими песнями....",0.3534,Positive,1.0,Positive,-0.475182294845581,Negative
 You are perfect Billie,0.5719,Positive,1.0,Positive,0.8392727375030518,Positive
 Love this song so much 🥺✨,0.7579,Positive,0.35,Positive,0.8937520384788513,Positive
@@ -46,22 +46,22 @@ yellow ][ good song,0.4404,Positive,0.35,Positive,0.4175301492214203,Positive
 Seviyorm bu şarkıyı.,0.6369,Positive,0.5,Positive,0.539539098739624,Positive
 Essa é fodaaa,-0.5423,Negative,-0.4,Negative,-0.3499166071414947,Negative
 😍🖤,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Oh my God I love you Billy future you have 💗💗💗💗💗,0.987,Positive,0.25,Neutral,0.925573706626892,Positive
-Wooowwww this do very very gooddd,0.0,Neutral,0.26,Neutral,0.6263843774795532,Positive
+Oh my God I love you Billy future you have 💗💗💗💗💗,0.987,Positive,0.25,Positive,0.925573706626892,Positive
+Wooowwww this do very very gooddd,0.0,Neutral,0.26,Positive,0.6263843774795532,Positive
 This music makes me feel like I''m floating in my room at night or floating by mountains with a orange sunset .I LOVE IT,0.8143,Positive,0.5,Positive,0.8365685939788818,Positive
 "Красивая песня, клип тоже просто бомба",0.1779,Positive,0.85,Positive,0.5453577041625977,Positive
 1 like 1 share 1 subscribe https://www.youtube.com/watch?v=7ep94Uncih0&t=4s,0.5719,Positive,0.0,Neutral,-0.477051168680191,Negative
 "Subscribe for the largest Rock playlist available on YouTube! 
  I JUST GOT DUMPED SO I HAVE A LOT OF TIME ON MY HANDS  I'm going through every rock band alphabetical order and listening to every song from every album and adding a specific songs, for the rock community to enjoy, creating the largest playlist ever made on YouTube Go Billie ellish
-....",0.3091,Positive,0.3,Neutral,0.7595009803771973,Positive
+....",0.3091,Positive,0.3,Positive,0.7595009803771973,Positive
 They tried to get my head,0.0,Neutral,0.0,Neutral,-0.435141772031784,Negative
 Fixing good,0.4404,Positive,0.7,Positive,0.4998671114444732,Positive
 S.O.A.R. KRISTEN KLow,0.0,Neutral,0.0,Neutral,0.2573663592338562,Neutral
-"Никого не смутило название беляш?) хаха ладно, оно скорее всего не так переводится, но смешно же)",0.705,Positive,0.225,Neutral,0.2828520536422729,Neutral
+"Никого не смутило название беляш?) хаха ладно, оно скорее всего не так переводится, но смешно же)",0.705,Positive,0.225,Positive,0.2828520536422729,Neutral
 "I loveeeeeeeeeeeeeeeeeeeeeeeeeeeee, Billie have talent and her song are so cool.",0.6995,Positive,0.35,Positive,0.7585311532020569,Positive
 مين متلي رجعلها 2022 من مكس ويجز,0.0,Neutral,0.0,Neutral,-0.2497362047433853,Negative
 I love you billie eilish,0.6369,Positive,0.5,Positive,0.7700788974761963,Positive
-15 years old and almost 600 million views on one video,0.0,Neutral,0.1,Neutral,0.429495632648468,Positive
+15 years old and almost 600 million views on one video,0.0,Neutral,0.1,Positive,0.429495632648468,Positive
 My sister is carzy for this song she like it so much,0.0258,Neutral,-0.1999999999999999,Negative,0.5312021374702454,Positive
 "Essa música é perfeitaaaaaa, to ouvindo ela a 40 minutos",0.5719,Positive,1.0,Positive,0.6648005843162537,Positive
 Masterpiece 🖤🌋🥀,0.8519,Positive,0.0,Neutral,0.8407883644104004,Positive
@@ -70,29 +70,29 @@ E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
 L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 B,0.0,Neutral,0.0,Neutral,0.2911197245121002,Neutral
-this song never gets old,0.0,Neutral,0.1,Neutral,0.4263049066066742,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+this song never gets old,0.0,Neutral,0.1,Positive,0.4263049066066742,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 0ㅏ 름 답 다,0.5994,Positive,0.85,Positive,0.2810147106647491,Neutral
 واوووووووو,0.0,Neutral,0.0,Neutral,0.2470364868640899,Neutral
 واییییییییییییی,0.0,Neutral,0.0,Neutral,0.2755641043186188,Neutral
 "Mahnoor if u see this, i love you. She reminds me of you❤️ 
 “courtesy of abdullah waseem seema”",0.6369,Positive,0.5,Positive,0.764592170715332,Positive
-Can anyone tell me what this song is REALLY about???,0.0,Neutral,0.2,Neutral,-0.421080619096756,Negative
+Can anyone tell me what this song is REALLY about???,0.0,Neutral,0.2,Positive,-0.421080619096756,Negative
 Go for the pie. Slices. Cut them up. Never mind,-0.2732,Negative,0.0,Neutral,-0.3199416697025299,Negative
 autotune,0.0,Neutral,0.0,Neutral,0.3374614119529724,Positive
 "Oh Billie. They cut his tongue out too . 
-But I was about ur age pulling my suitcase full of sexy stripper clothes to new Jersey and back to pa...",0.6187,Positive,0.246590909090909,Neutral,-0.3500950038433075,Negative
+But I was about ur age pulling my suitcase full of sexy stripper clothes to new Jersey and back to pa...",0.6187,Positive,0.246590909090909,Positive,-0.3500950038433075,Negative
 "I love this song it,s my song I played it in the car every time on bluetooth",0.765,Positive,0.5,Positive,0.8462802171707153,Positive
-When Billy was young,0.0,Neutral,0.1,Neutral,0.2657632231712341,Neutral
+When Billy was young,0.0,Neutral,0.1,Positive,0.2657632231712341,Neutral
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
-I LIVE BILLI ELISH,0.0,Neutral,0.1363636363636363,Neutral,0.4497831165790558,Positive
+I LIVE BILLI ELISH,0.0,Neutral,0.1363636363636363,Positive,0.4497831165790558,Positive
 😈😈😈,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ooooooh myyyy gosh,0.0,Neutral,0.0,Neutral,-0.3266763091087341,Negative
 No sé que diga pero amo,0.7783,Positive,0.5,Positive,0.4042755961418152,Positive
 Son 5 años y sigue atrapandome el ritmo!! Te amo Billie!!!,0.7482,Positive,0.95703125,Positive,0.7882461547851562,Positive
 hi billieeilishhhhhhh love youuuuuu,0.6369,Positive,0.5,Positive,0.5024463534355164,Positive
 "Demonic music is an abomination to God. God, Jesus loves you all so much and wants you to turn away from anything evil that would distract you from Him. Time is short, Judgment on the world is approaching. Jesus Christ wants to have a relationship with you. Repentance of any and all sin (cheating, lying, adultery, sex outside of marriage, pornography, using the Lords name in vain...are all sin and must be repented of and turned away from). You may or may not believe in this, but Hell and Heaven are two REAL places. If you deny God and His goodness and turn to the ""evil one"" satan, you will find your place in Hell. you will experience Extreme torture much more intense then any torture here on earth, and for eternity (that means forever without stop). Satan uses demonic music to influence listeners. DO NOT OPEN THOSE DOORS by participating.",-0.9845,Negative,-0.048076923076923,Negative,-0.4386469423770904,Negative
-oh 5 years is funny,0.4404,Positive,0.25,Neutral,0.759907066822052,Positive
+oh 5 years is funny,0.4404,Positive,0.25,Positive,0.759907066822052,Positive
 Te amo bili,0.0,Neutral,0.0,Neutral,0.26101815700531,Neutral
 Linda canción💔,0.5994,Positive,0.6,Positive,0.3662187159061432,Positive
 5 años y aun sigue siendo mi canción favorita😉,0.4588,Positive,0.5,Positive,0.8008854389190674,Positive
@@ -126,7 +126,7 @@ tik tok,0.0,Neutral,0.0,Neutral,-0.3025340437889099,Negative
 🌬️🔥⚡,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 💚💚💚ฉันเป็นแฟนคลับเธอจากประเทศไทย,0.9423,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Billie eilish❤️❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3690733015537262,Positive
-Bellyache is a true masterpiece. Usually I won't get caught dead vibing to a song so late after it's release but I will never stop vibing to this song. Ever. Her vocals and the beat is just perfect. And the fact that she did this at 15 and still has a massive career going at 20 is incredible,0.9194,Positive,0.2142857142857142,Neutral,0.9365074038505554,Positive
+Bellyache is a true masterpiece. Usually I won't get caught dead vibing to a song so late after it's release but I will never stop vibing to this song. Ever. Her vocals and the beat is just perfect. And the fact that she did this at 15 and still has a massive career going at 20 is incredible,0.9194,Positive,0.2142857142857142,Positive,0.9365074038505554,Positive
 Sur ma route OUI de l'aventure dans le movie une vie de route,0.694,Positive,0.0,Neutral,0.383109837770462,Positive
 "Mind
 Mind
@@ -187,57 +187,57 @@ Mc sale gana bnaan band ker de kottivteri maki,-0.296,Negative,0.0,Neutral,-0.28
 I love you...,0.6369,Positive,0.5,Positive,0.8483743071556091,Positive
 Fav song ever <3 but i cant compare it to any of her other songs bc they are all so good,0.8427,Positive,0.525,Positive,0.3846923410892486,Positive
 "aaa te amo, te amo,te amo, a todas tus canciones",0.9274,Positive,0.5,Positive,0.7392020225524902,Positive
-Bu şarkıyı her gün izlemem normali?,0.0,Neutral,0.15,Neutral,-0.2903208434581756,Negative
+Bu şarkıyı her gün izlemem normali?,0.0,Neutral,0.15,Positive,-0.2903208434581756,Negative
 Amoooo essa música 😍😍😍❤️❤️ 2022 🖤,0.9545,Positive,0.5,Positive,0.4027814269065857,Positive
 This is scary,-0.4939,Negative,-0.5,Negative,0.5215852856636047,Positive
 Беляш,0.0,Neutral,0.0,Neutral,0.2558927834033966,Neutral
 "She's 15 and had a lover already 
-Ok bye going to akon now for some lonely 🎶",0.5423,Positive,0.2,Neutral,0.4752139151096344,Positive
+Ok bye going to akon now for some lonely 🎶",0.5423,Positive,0.2,Positive,0.4752139151096344,Positive
 2022 I heard her sing this song live at her happier than ever tour April 8th and it was the best thing ever 🥺😭,0.6705,Positive,0.5681818181818181,Positive,0.7731453776359558,Positive
 My friend loves you.she is my BFF.❤❤❤,0.9779,Positive,0.0,Neutral,0.7103531956672668,Positive
-"This song will alwayyyysss slap, surely a timeless classic for years to come. It even gives me nostalgia, idc if it’s only been 4 years, it brings me back to this iconic era (late 2010s, pre-covid)",0.5423,Positive,0.1444444444444444,Neutral,0.6313000917434692,Positive
+"This song will alwayyyysss slap, surely a timeless classic for years to come. It even gives me nostalgia, idc if it’s only been 4 years, it brings me back to this iconic era (late 2010s, pre-covid)",0.5423,Positive,0.1444444444444444,Positive,0.6313000917434692,Positive
 billie i love you,0.6369,Positive,0.5,Positive,0.7828443050384521,Positive
 i love her voice,0.6369,Positive,0.5,Positive,0.6496853828430176,Positive
-Como essa musica lenbra a viagem que  meus pais fizeram erra igual mais foi diferente vc e muito legal eu nunca vou viver sem vc para vc,0.3998,Positive,0.0967045454545454,Neutral,-0.4179301857948303,Negative
+Como essa musica lenbra a viagem que  meus pais fizeram erra igual mais foi diferente vc e muito legal eu nunca vou viver sem vc para vc,0.3998,Positive,0.0967045454545454,Positive,-0.4179301857948303,Negative
 Chẳng lien quan gi nhân loại,0.0,Neutral,0.0,Neutral,-0.3558673560619354,Negative
 Love me,0.6369,Positive,0.5,Positive,0.8160939812660217,Positive
 This music>>>,0.0,Neutral,0.0,Neutral,0.5231304168701172,Positive
 çok iyi lan öffffff🎉🎉🎉🎉🎉❤❤❤❤,0.9867,Positive,0.91,Positive,0.7110106945037842,Positive
 WATCH EVERYDAY,0.0,Neutral,-0.2,Negative,0.4689972102642059,Positive
 B I L L I E    I   LOVE   YOU   ❤️👐,0.9246,Positive,0.5,Positive,0.7401399612426758,Positive
-I'm a fan of your old version,0.3182,Positive,0.1,Neutral,0.5166690945625305,Positive
+I'm a fan of your old version,0.3182,Positive,0.1,Positive,0.5166690945625305,Positive
 she sings very well and is beautiful,0.7425,Positive,0.525,Positive,0.7488603591918945,Positive
 She was 16 years old😅,0.3612,Positive,0.0,Neutral,0.2534593641757965,Neutral
 Imagine you ll be in 2025 listening to this song with no anxiety depression and with a happy mind.,0.8029,Positive,0.8,Positive,0.6566980481147766,Positive
-Этой песни уже 5 лет... А она до сих пор в моем сердечке) Верните мне мой 2018-2019...,0.6369,Positive,0.05,Neutral,0.7500209212303162,Positive
+Этой песни уже 5 лет... А она до сих пор в моем сердечке) Верните мне мой 2018-2019...,0.6369,Positive,0.05,Positive,0.7500209212303162,Positive
 💝💌💟Billy🦋,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🖤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Soo cool 🥰,0.8625,Positive,0.35,Positive,0.5549006462097168,Positive
 Your so beautiful,0.6361,Positive,0.85,Positive,0.8003040552139282,Positive
-"OMG, 5 years ??? But I still think that it was released yesterday because it feels new.",0.0,Neutral,0.1363636363636363,Neutral,0.3407967090606689,Positive
+"OMG, 5 years ??? But I still think that it was released yesterday because it feels new.",0.0,Neutral,0.1363636363636363,Positive,0.3407967090606689,Positive
 "this song is perfect, anyone in 2022??",0.6199,Positive,1.0,Positive,0.7777581810951233,Positive
 ily billie,0.6597,Positive,0.0,Neutral,0.2546202838420868,Neutral
 Dor de barriga,0.0,Neutral,0.0,Neutral,-0.3457461297512054,Negative
 Again again ...,0.0,Neutral,0.0,Neutral,0.4331026673316955,Positive
-Brutal en la forma en que hace las cosas <3,-0.296,Negative,0.0625,Neutral,0.3303383588790893,Positive
+Brutal en la forma en que hace las cosas <3,-0.296,Negative,0.0625,Positive,0.3303383588790893,Positive
 *Tobey Maguire casually vibing in the crowd*,0.1779,Positive,-0.5000000000000001,Negative,0.3333500027656555,Positive
 0:39 amazing,0.5859,Positive,0.6000000000000001,Positive,0.710506796836853,Positive
 i love you🤩😘❤,0.9042,Positive,0.5,Positive,0.8423482775688171,Positive
-Brasil alguém? Kkk,0.5574,Positive,0.2,Neutral,-0.4693405032157898,Negative
+Brasil alguém? Kkk,0.5574,Positive,0.2,Positive,-0.4693405032157898,Negative
 Почему еще ни одного комментария про беляш?,-0.296,Negative,0.0,Neutral,-0.4434638321399688,Negative
 "During test :-
 Me : Where's my mind? 😭
 Back buddy : May be in gutter for your lover 😅",0.4939,Positive,0.0,Neutral,0.255239725112915,Neutral
 https://www.youtube.com/watch?v=BKh5IMj4ias     bullschit,-0.5859,Negative,0.0,Neutral,-0.3171885907649994,Negative
-if u dont give a fuck about her gender age and just listen to it....its nice,0.6858,Positive,0.0999999999999999,Neutral,0.3594929277896881,Positive
+if u dont give a fuck about her gender age and just listen to it....its nice,0.6858,Positive,0.0999999999999999,Positive,0.3594929277896881,Positive
 Finding out Tobey maguire loves this song too makes this more special to me,0.7713,Positive,0.4285714285714286,Positive,0.5833382606506348,Positive
-"Back of your car? You mean, back of my trolly lol 😂",0.6908,Positive,0.121875,Neutral,-0.3608368635177612,Negative
-Cuando mi esposo escucha este tus  temas lo vive con tanta emoción que recuerda mucho su adolescencia ❤️,0.0,Neutral,0.2,Neutral,0.6098286509513855,Positive
+"Back of your car? You mean, back of my trolly lol 😂",0.6908,Positive,0.121875,Positive,-0.3608368635177612,Negative
+Cuando mi esposo escucha este tus  temas lo vive con tanta emoción que recuerda mucho su adolescencia ❤️,0.0,Neutral,0.2,Positive,0.6098286509513855,Positive
 "Billy has changed a lot, but she's still cool, Billy top!",0.6643,Positive,0.4875,Positive,0.5671708583831787,Positive
 beautiful song ❤️,0.5994,Positive,0.85,Positive,0.7052157521247864,Positive
 "Estoy aquí por voluntad propia, YouTube no me lo recomendó.",0.2937,Positive,0.5,Positive,-0.6282250285148621,Negative
 "It’s April 2022, let’s see how many legends are listening to this masterpiece ❤",0.8772,Positive,0.5,Positive,0.6210102438926697,Positive
-THIS IS 5 YEARS AGO??? I thought it was like 2-3 years ago. See how time passes so fast.,0.466,Positive,0.2,Neutral,-0.3121489286422729,Negative
+THIS IS 5 YEARS AGO??? I thought it was like 2-3 years ago. See how time passes so fast.,0.466,Positive,0.2,Positive,-0.3121489286422729,Negative
 Me encanto,0.5994,Positive,0.7,Positive,0.7957131862640381,Positive
 POV: you looked up “where’s my mind maybe it’s in the gutter”,0.0,Neutral,0.0,Neutral,0.2865124642848968,Neutral
 After so long I finally found my way back,0.0,Neutral,-0.0166666666666666,Negative,0.2369294166564941,Neutral
@@ -249,7 +249,7 @@ You broken my heart in thes voice,0.34,Positive,0.0,Neutral,-0.4170385897159576,
 get well soon sister,0.2732,Positive,0.0,Neutral,0.5130869746208191,Positive
 Беляшь,0.0,Neutral,0.0,Neutral,0.2257875949144363,Neutral
 Billie,0.0,Neutral,0.0,Neutral,0.3138393759727478,Neutral
-Anyone who wants to play Minecraft,0.34,Positive,0.2,Neutral,-0.325047105550766,Negative
+Anyone who wants to play Minecraft,0.34,Positive,0.2,Positive,-0.325047105550766,Negative
 🤩🤩🤩🤩 favorit Billie Eilish,0.4588,Positive,0.5,Positive,0.5450806617736816,Positive
 huhu 5 years na pala 'to,0.0,Neutral,0.0,Neutral,0.3247378170490265,Neutral
 😘💋💋,0.8126,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -264,15 +264,15 @@ Where is my mind???,0.0,Neutral,0.0,Neutral,-0.4511951804161072,Negative
 🖤LIL PEEP XXTENTACION BILLIE EILISH 🖤,0.6369,Positive,0.0,Neutral,-0.4153451025485992,Negative
 Hace 5 año que salio esta canción y yo la sigo escuchando <33,0.0,Neutral,0.0,Neutral,-0.3143889605998993,Negative
 Мне её жалт,-0.296,Negative,-0.1,Negative,-0.2618906795978546,Negative
-bille eilish is so pretty,0.6269,Positive,0.25,Neutral,0.3798103928565979,Positive
+bille eilish is so pretty,0.6269,Positive,0.25,Positive,0.3798103928565979,Positive
 I feel like an idiot! This came out on my bday in 2017 :< And I did not know that time...,-0.636,Negative,-1.0,Negative,-0.6685788631439209,Negative
 juthi ho tum bewafa ho tum aunty g,0.0,Neutral,-0.6,Negative,0.276414006948471,Neutral
-Billie dancing in the road meanwhile Olivia coming through driving with her new drivers license,0.0,Neutral,0.1363636363636363,Neutral,0.3161912262439728,Neutral
+Billie dancing in the road meanwhile Olivia coming through driving with her new drivers license,0.0,Neutral,0.1363636363636363,Positive,0.3161912262439728,Neutral
 Te ves el amor de  mi vida en ese video,0.6369,Positive,0.5,Positive,0.5664247870445251,Positive
 Hearing this masterpiece from youth to teennage...!,0.6588,Positive,0.0,Neutral,0.795062780380249,Positive
 "For God so loved the world that he gave his only son that whoever believes in him shall not perish but have ever lasting life. John 3:16 
 
-Jesus died on the cross for your sins and rose again on the third day from the tomb. He loves&cares about you&has a plan for your life. He is also a healer to any problem.💛😃",0.0376,Neutral,0.2166666666666666,Neutral,0.8631715178489685,Positive
+Jesus died on the cross for your sins and rose again on the third day from the tomb. He loves&cares about you&has a plan for your life. He is also a healer to any problem.💛😃",0.0376,Neutral,0.2166666666666666,Positive,0.8631715178489685,Positive
 Legends watching this in 2022✨,0.3182,Positive,0.0,Neutral,0.6375397443771362,Positive
 Why Mr.Ray..,0.0,Neutral,0.0,Neutral,-0.2703879773616791,Negative
 I’m your biggest fan I’m very young but I love ur music!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0.8631,Positive,0.565,Positive,0.8258333802223206,Positive
@@ -282,7 +282,7 @@ Billie Te Amooooooooooo :'3,0.0,Neutral,0.0,Neutral,0.269292414188385,Neutral
 Where is my mind... Just osame 😇😇 now 2022,0.7184,Positive,0.0,Neutral,-0.6504449248313904,Negative
 15 two years from now she is going to be 18,0.0,Neutral,0.0,Neutral,0.276511400938034,Neutral
 Essa MSC me rlx dms<<<<,0.0,Neutral,0.0,Neutral,0.3724151253700256,Positive
-she so young,0.0,Neutral,0.1,Neutral,0.2822764217853546,Neutral
+she so young,0.0,Neutral,0.1,Positive,0.2822764217853546,Neutral
 linda perfeita maravilho eu te amo billie eilish,0.9477,Positive,0.8375,Positive,0.8624972701072693,Positive
 🏳️‍🌈✌️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Is't song is good,0.4404,Positive,0.7,Positive,-0.3836437165737152,Negative
@@ -297,8 +297,8 @@ Amazing ❤️❤️❤️❤️,0.5859,Positive,0.6000000000000001,Positive,0.8
 This song is a historical masterpiece,0.6249,Positive,0.0,Neutral,0.6182730197906494,Positive
 منتظر تجي اغنيه بخت,0.0,Neutral,0.0,Neutral,-0.3389739096164703,Negative
 essa música é tão ----,0.0,Neutral,0.0,Neutral,0.5084242224693298,Positive
-WoW ya tiene 5 años 😱,-0.25,Negative,0.1,Neutral,0.7479866743087769,Positive
-Como que essa música tem 5 anos e so agora vim ouvila,0.0,Neutral,0.1,Neutral,0.5638167262077332,Positive
+WoW ya tiene 5 años 😱,-0.25,Negative,0.1,Positive,0.7479866743087769,Positive
+Como que essa música tem 5 anos e so agora vim ouvila,0.0,Neutral,0.1,Positive,0.5638167262077332,Positive
 1:25 best part,0.6369,Positive,1.0,Positive,0.586772620677948,Positive
 5 years later and this beat still manages to get me every time,0.0,Neutral,0.0,Neutral,0.7528658509254456,Positive
 I love you billie 💗,0.8779,Positive,0.5,Positive,0.8449580073356628,Positive
@@ -311,7 +311,7 @@ essa música é muito boaaaaa😭😭😭,0.4404,Positive,0.7,Positive,0.5460816
 "Her lover: why am I in the gutter
 Billie: yes",0.7579,Positive,0.0,Neutral,0.214733675122261,Neutral
 Uwow,0.0,Neutral,0.0,Neutral,0.3051405847072601,Neutral
-"Billie doesn't look like love but at the same time sadness, I mean while you listen to that song it gives you feelings and you think of that girl who left you the truth I don't know I'm Mexican I wrote this with something",-0.5631,Negative,0.0375,Neutral,-0.3742085695266723,Negative
+"Billie doesn't look like love but at the same time sadness, I mean while you listen to that song it gives you feelings and you think of that girl who left you the truth I don't know I'm Mexican I wrote this with something",-0.5631,Negative,0.0375,Positive,-0.3742085695266723,Negative
 que destino mas caro,0.0,Neutral,0.0,Neutral,-0.3179433643817901,Negative
 Amo muito ❣️❣️❣️❣️❣️❣️❣️,0.989,Positive,0.35,Positive,0.6424078345298767,Positive
 I JUST SAW THIS SONG LIVE LAST NIGHT AND IM SAD BC I MISS IT ALR,-0.5719,Negative,-0.1212121212121212,Negative,-0.2820888757705688,Negative
@@ -321,7 +321,7 @@ La escucho todas las mañanas para ir al colegio a las 5:40 de la mañana es tan
 LOVE,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 Simply amazingggggg,0.0,Neutral,0.0,Neutral,0.8594666719436646,Positive
 this song is still one of my fave billie song,0.4404,Positive,0.0,Neutral,0.2520442008972168,Neutral
-This is her fourth most popular music video on her channel and I still don’t think it has enough traction,0.4754,Positive,0.275,Neutral,0.2471422851085662,Neutral
+This is her fourth most popular music video on her channel and I still don’t think it has enough traction,0.4754,Positive,0.275,Positive,0.2471422851085662,Neutral
 ❤😘,0.7906,Positive,0.0,Neutral,0.3085779249668121,Neutral
 제발 참고 해주세요 😫🙏🙏💓,0.8555,Positive,0.0,Neutral,-0.3232552707195282,Negative
 let's see how many legend and fans are still listening to this masterpiece 🎶,0.7073,Positive,0.5,Positive,0.777895987033844,Positive
@@ -348,7 +348,7 @@ I am here at 2022,0.0,Neutral,0.0,Neutral,0.483220100402832,Positive
 Yo aquí traduciendo todos los comentarios para oír el chisme jsjsjsjs,-0.1779,Negative,0.0,Neutral,0.4291967749595642,Positive
 قالت كلام قبل إما تشوفني عارفني صعب و مش مفهوم,-0.3612,Negative,-0.5,Negative,0.2767765820026397,Neutral
 Как много лет назад......А песня в сердце сохранилась с 4 лет,0.6369,Positive,0.5,Positive,0.591674268245697,Positive
-I miss the silver hair and she is SO PRETTY especially in this mv 🥺🥰,0.928,Positive,0.125,Neutral,0.5704834461212158,Positive
+I miss the silver hair and she is SO PRETTY especially in this mv 🥺🥰,0.928,Positive,0.125,Positive,0.5704834461212158,Positive
 YO IM THE DUDE,0.0,Neutral,0.0,Neutral,0.2687810063362121,Neutral
 "Who else has a knack for knowing which artists will blow up wayy before they were famous. I knew this for Adele, Billie Eilish, Doja Cat, Ariana Grande, Ed Sheeran, The Weeknd, and Beabadoobee.",0.0,Neutral,0.5,Positive,-0.287836492061615,Negative
 What an pathetic voice ..why tf this people are so famous,-0.5719,Negative,-0.25,Negative,-0.9045479893684388,Negative
@@ -357,8 +357,8 @@ Nostalgic.,0.0,Neutral,-0.5,Negative,0.5585479140281677,Positive
 I still listen to this in 2022,0.0,Neutral,0.0,Neutral,0.5247082710266113,Positive
 La mejor canción que es cuchado en mi vida,0.6369,Positive,1.0,Positive,0.9088082313537598,Positive
 mds o refrao me desmonta,0.0,Neutral,0.0,Neutral,0.316003143787384,Neutral
-Yo hace 5 años preguntándome por qué Billie siempre salía con la misma ropa jajaja,0.5574,Positive,0.1,Neutral,-0.2944730520248413,Negative
-Shes amazing but so weird! And i LOVE weird and amazing!,0.9266,Positive,0.145,Neutral,0.5943306088447571,Positive
+Yo hace 5 años preguntándome por qué Billie siempre salía con la misma ropa jajaja,0.5574,Positive,0.1,Positive,-0.2944730520248413,Negative
+Shes amazing but so weird! And i LOVE weird and amazing!,0.9266,Positive,0.145,Positive,0.5943306088447571,Positive
 Beautiful song baby I hope you greet me it would be my dream <33,0.8779,Positive,0.85,Positive,0.6823238134384155,Positive
 Hahaha love 🛐♥️,0.9349,Positive,0.35,Positive,0.7183940410614014,Positive
 "Billie Eilish - “bellyache” lyrics:
@@ -424,17 +424,17 @@ what an expensive fate
 
 My “v” is for vendetta 
 i thought that i’d feel better
-But now i got a bellyache",0.9793,Positive,0.059375,Neutral,0.2670314908027649,Neutral
+But now i got a bellyache",0.9793,Positive,0.059375,Positive,0.2670314908027649,Neutral
 Miss her who hasn't changed,-0.1531,Negative,0.0,Neutral,-0.3646987974643707,Negative
 She is 15 y.o,0.0,Neutral,0.0,Neutral,0.3343542218208313,Positive
-Cómo me asé sonreír está cancion,0.3612,Positive,0.3,Neutral,0.5171007513999939,Positive
-Billie Eilish l love u very much!!!u are my crush 🥰🥰u bestie 😘😘 beautiful bad guy 🤩🤩,0.9744,Positive,0.2125,Neutral,0.8907371759414673,Positive
+Cómo me asé sonreír está cancion,0.3612,Positive,0.3,Positive,0.5171007513999939,Positive
+Billie Eilish l love u very much!!!u are my crush 🥰🥰u bestie 😘😘 beautiful bad guy 🤩🤩,0.9744,Positive,0.2125,Positive,0.8907371759414673,Positive
 Every fan of Billie must comment this video: https://www.youtube.com/watch?v=Y0U0HAwpw2s,0.3182,Positive,0.0,Neutral,0.5350757241249084,Positive
 Nothing is bad everything is good she is my ideal type girl ......love youuuuuuuuuu Billie ........ maybe my friends don't like you but I love youuuuuuuuuu,0.9321,Positive,0.35,Positive,0.7245824933052063,Positive
 I lost my mine 🌟,-0.3182,Negative,0.0,Neutral,-0.3773509263992309,Negative
 "Ela canta. Muito como a 
-melanie Martinez  😍🤩",0.6705,Positive,0.2,Neutral,0.5487436056137085,Positive
-She's actually a pretty girl wonder why she hides herself,0.3612,Positive,0.25,Neutral,-0.291869968175888,Negative
+melanie Martinez  😍🤩",0.6705,Positive,0.2,Positive,0.5487436056137085,Positive
+She's actually a pretty girl wonder why she hides herself,0.3612,Positive,0.25,Positive,-0.291869968175888,Negative
 coming back to this song in 2022 >>>,0.0,Neutral,0.0,Neutral,0.3614721298217773,Positive
 I love  you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 I love you billie❤❤❤,0.9571,Positive,0.5,Positive,0.8701996207237244,Positive
@@ -443,7 +443,7 @@ Super🥰🥰🥰🥰🥰🥰🥰🥰,0.9964,Positive,0.0,Neutral,0.308577924966
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 Bir Türk benim amk,0.0,Neutral,0.0,Neutral,0.481385201215744,Positive
 La mejoorrrr 🥰,0.8074,Positive,0.0,Neutral,0.235828012228012,Neutral
-I'm 35 years old and i love her style and music 😍❤️  Should i visit a doctor or is normal?,0.802,Positive,0.25,Neutral,0.6057719588279724,Positive
+I'm 35 years old and i love her style and music 😍❤️  Should i visit a doctor or is normal?,0.802,Positive,0.25,Positive,0.6057719588279724,Positive
 I <3 u billie!!!!!!!!!!!!!!!,0.6209,Positive,1.0,Positive,-0.3392961919307709,Negative
 Lagunya bagus banget,0.4927,Positive,0.7,Positive,0.3878537118434906,Positive
 I remember when Billie started to become celeb,0.0,Neutral,0.0,Neutral,0.3661057949066162,Positive
@@ -453,7 +453,7 @@ I like her🤍🤍💗💗,0.9231,Positive,0.0,Neutral,0.4658792614936828,Positi
 Doesn't it happen to 'em that the dance's Billie Eilish? 💛,0.6369,Positive,0.0,Neutral,-0.2874176502227783,Negative
 "تجنني😫✋🏻؟
 2:14",0.0,Neutral,0.0,Neutral,-0.3844488561153412,Negative
-I love your music and I'm Mexican it's very pretty,0.8268,Positive,0.2749999999999999,Neutral,0.7372199892997742,Positive
+I love your music and I'm Mexican it's very pretty,0.8268,Positive,0.2749999999999999,Positive,0.7372199892997742,Positive
 Uuuuuuu,0.0,Neutral,0.0,Neutral,-0.2599439620971679,Negative
 "_ _.       
   ~",0.0,Neutral,0.0,Neutral,0.2215685844421386,Neutral
@@ -463,14 +463,14 @@ Love Blil 💞💞💞💞😂,0.9783,Positive,0.5,Positive,0.6153468489646912,P
 PAOMENSA<3,0.0,Neutral,0.0,Neutral,0.3112602531909942,Neutral
 I LOVE HER VIBE,0.6369,Positive,0.5,Positive,0.6862392425537109,Positive
 LOVE THE SONG CANT Believe THAT SHES 20 NOW,0.7125,Positive,0.5,Positive,0.7753551602363586,Positive
-Love this such,0.6369,Positive,0.25,Neutral,0.8947589993476868,Positive
+Love this such,0.6369,Positive,0.25,Positive,0.8947589993476868,Positive
 Every time I crying.,-0.4767,Negative,-0.2,Negative,0.5787253975868225,Positive
 OMG I WAS BITING MY NAILS AND SHE SAID THAT I WAS LIEK: 😳😳😳🗣🗣🔇🔇🔇,0.4995,Positive,0.0,Neutral,-0.4794637858867645,Negative
-This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.91,Positive,0.1527777777777778,Neutral,0.7564324736595154,Positive
+This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.91,Positive,0.1527777777777778,Positive,0.7564324736595154,Positive
 billie i am your fan i love you ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤😍😍❤❤👌👌😘😘😘😘😘😘😘😘,0.9992,Positive,0.5,Positive,0.8635227680206299,Positive
 BILLIE PERFEITAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA <33,0.0,Neutral,0.0,Neutral,0.5197762250900269,Positive
 When Billie eilish was good,0.4404,Positive,0.7,Positive,0.2971660494804382,Neutral
-Mt linda pqp,0.0296,Neutral,0.25,Neutral,0.2675342261791229,Neutral
+Mt linda pqp,0.0296,Neutral,0.25,Positive,0.2675342261791229,Neutral
 GOD💕💕💕,0.9496,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Mind
 Mind
@@ -602,7 +602,7 @@ It's kinda funny
 
 
 
-Wow.",0.7293,Positive,0.0875,Neutral,0.3577143847942352,Positive
+Wow.",0.7293,Positive,0.0875,Positive,0.3577143847942352,Positive
 This song Omg she is born with talent and she is very beautiful,0.7902,Positive,1.0,Positive,0.7569836378097534,Positive
 мне нравица это песня,0.3612,Positive,0.0,Neutral,-0.3001285195350647,Negative
 🍂🌈,-0.3612,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -611,7 +611,7 @@ She may have not been eating enough or drinking enough and had a number of defic
 
 All of the Amandas need to stay away from me.
 They're highly abusive.
-Severely sexually, physically, psychologically, and financially abusive.",-0.9131,Negative,0.0266666666666666,Neutral,-0.7454634308815002,Negative
+Severely sexually, physically, psychologically, and financially abusive.",-0.9131,Negative,0.0266666666666666,Positive,-0.7454634308815002,Negative
 "Que nostalgiaaaa, porfavorrr
 Billie love you so much",0.6369,Positive,0.35,Positive,0.5206329226493835,Positive
 "Y’all…..
@@ -629,17 +629,17 @@ I love see you just once ♥️♥️❤️💗🌹",0.9741,Positive,0.5,Positiv
 tha beats great 🔊🔊🔊🔊💯💯,0.6249,Positive,0.8,Positive,0.7579095363616943,Positive
 Omg i am in love with billie😍😍😍,0.9217,Positive,0.5,Positive,0.6413127183914185,Positive
 2022 ya,0.0,Neutral,0.0,Neutral,0.2548712790012359,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7637218236923218,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7637218236923218,Positive
 HA LENDA!,0.0,Neutral,0.0,Neutral,0.5346820950508118,Positive
 "I'm glad that I discovered her music,so cool 🥺💕💕💕💕💕💕",0.9862,Positive,0.425,Positive,0.7177729606628418,Positive
 "No me canso de escuchar esta canción 
 
 
-es perfecta",0.7274,Positive,0.3,Neutral,0.7782681584358215,Positive
+es perfecta",0.7274,Positive,0.3,Positive,0.7782681584358215,Positive
 2022🔥🆗🎼🎼,0.1363,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💯🌍⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Im obsessed with this song,-0.1779,Negative,-0.5,Negative,0.5234892964363098,Positive
-First time hearing this song. I like the vibe it gives off.,0.3612,Positive,0.25,Neutral,0.5163160562515259,Positive
+First time hearing this song. I like the vibe it gives off.,0.3612,Positive,0.25,Positive,0.5163160562515259,Positive
 2022 still bangs,0.0,Neutral,0.0,Neutral,-0.4117555916309356,Negative
 👏💗,0.7096,Positive,0.0,Neutral,0.3085779249668121,Neutral
 cat text,0.0,Neutral,0.0,Neutral,0.2286461889743805,Neutral
@@ -927,10 +927,10 @@ Voice😍💔,0.6249,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😩💗,0.5859,Positive,0.0,Neutral,0.3085779249668121,Neutral
 She looks beautiful and this song is the best.,0.8442,Positive,0.925,Positive,0.868201494216919,Positive
 LOVEE IT 💕,0.6486,Positive,0.0,Neutral,0.7753771543502808,Positive
-I love you Billie... Big fan here ❤️🙌,0.7579,Positive,0.25,Neutral,0.8619943261146545,Positive
+I love you Billie... Big fan here ❤️🙌,0.7579,Positive,0.25,Positive,0.8619943261146545,Positive
 icone <2,0.0,Neutral,0.0,Neutral,0.2360699772834777,Neutral
 This is my all time favorite song!!!! 😍😍😍,0.9212,Positive,1.0,Positive,0.9709457159042358,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.93,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.93,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
 This is a masterpiece,0.6249,Positive,0.0,Neutral,0.8322694897651672,Positive
 Aşığım sana aşık 😍😘😘😘,0.9393,Positive,0.5,Positive,0.4939036071300506,Positive
 اغنيتي🫶🏻🫶🏻🫶🏻🫶🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -1020,13 +1020,13 @@ Such artists help our children to lose their way and give a shit about everythin
 chill vibe🎈,0.0,Neutral,0.0,Neutral,-0.2236852645874023,Negative
 "Oh my god, i love this song!!",0.7835,Positive,0.78125,Positive,0.9419022798538208,Positive
 "Maybe we live in a gutter 
-But who is gonna live to fight the stutter",-0.7096,Negative,0.1363636363636363,Neutral,0.308596670627594,Neutral
+But who is gonna live to fight the stutter",-0.7096,Negative,0.1363636363636363,Positive,0.308596670627594,Neutral
 "Lactose.,.. 
  Goes against all I know....",0.0,Neutral,0.0,Neutral,-0.4689850509166717,Negative
 Don't take anyone on a guilt trip... We lead ourselves into that trip...,-0.2732,Negative,0.0,Neutral,-0.4265972673892975,Negative
 Eu gostava mais dessa Billie 2022,0.6908,Positive,0.55,Positive,0.374728262424469,Positive
-"Honestly tho im inlove most with her old songs than her new ones, they just feel so nostalgic 💙",0.8158,Positive,0.1672727272727273,Neutral,0.5691261291503906,Positive
-"Honestly tho im inlove most with her old songs than her new ones, they just feel so nostalgic 💙",0.8158,Positive,0.1672727272727273,Neutral,0.5691261291503906,Positive
+"Honestly tho im inlove most with her old songs than her new ones, they just feel so nostalgic 💙",0.8158,Positive,0.1672727272727273,Positive,0.5691261291503906,Positive
+"Honestly tho im inlove most with her old songs than her new ones, they just feel so nostalgic 💙",0.8158,Positive,0.1672727272727273,Positive,0.5691261291503906,Positive
 Happy 5th birthday to this song. Billie i love this song,0.836,Positive,0.65,Positive,0.8065497875213623,Positive
 "Essa música me lembra meu período de depressão,só ouvia ela cara,mto boa",-0.1298,Negative,0.4549999999999999,Positive,0.4277858734130859,Positive
 The ending tho-😍,0.4588,Positive,0.0,Neutral,0.3164771199226379,Neutral
@@ -1083,7 +1083,7 @@ Not enough
 And so long, no one will be here to save you
 And no one will be here to let you know (let you know)
 
-Source: Musixmatch",0.9786,Positive,0.16171875,Neutral,0.3348384499549866,Positive
+Source: Musixmatch",0.9786,Positive,0.16171875,Positive,0.3348384499549866,Positive
 "LYRICS:
 
 
@@ -1154,17 +1154,17 @@ Man...5 year...,0.0,Neutral,0.0,Neutral,0.3049775958061218,Neutral
 today is this mv fifth birthday..,0.0,Neutral,0.0,Neutral,0.6877655386924744,Positive
 1:40 the daaaaaance ♥♥♥,0.0,Neutral,0.0,Neutral,-0.378629058599472,Negative
 Happy 5 year to Bellyache!!,0.6467,Positive,1.0,Positive,0.8201624155044556,Positive
-Hace 5 años y fue la primera canción que escuche de ella 😳😱,-0.7003,Negative,0.25,Neutral,0.4278688430786133,Positive
+Hace 5 años y fue la primera canción que escuche de ella 😳😱,-0.7003,Negative,0.25,Positive,0.4278688430786133,Positive
 It's been 5 years since it came out I'm obsessed with this song omg,-0.1779,Negative,-0.5,Negative,0.4627942740917206,Positive
-Omg what a coinsidence this video came out exactly 5yr ago😱😱,-0.891,Negative,0.25,Neutral,-0.6948076486587524,Negative
+Omg what a coinsidence this video came out exactly 5yr ago😱😱,-0.891,Negative,0.25,Positive,-0.6948076486587524,Negative
 "i love every single song of hers, theyre just so beautiful",0.8804,Positive,0.4261904761904762,Positive,0.9215851426124572,Positive
-"Today this clip turns 5 years old, time passes!",0.0,Neutral,0.125,Neutral,0.6658100485801697,Positive
+"Today this clip turns 5 years old, time passes!",0.0,Neutral,0.125,Positive,0.6658100485801697,Positive
 Hôm nay vừa tròn 5 năm!,0.0,Neutral,0.0,Neutral,-0.5672637224197388,Negative
 happy bday bellyacheee,0.5719,Positive,0.8,Positive,0.5230122804641724,Positive
 Today is the 5th anniversary of the release of this masterpiece. Lets celebrate 🎉,0.9057,Positive,0.0,Neutral,0.8068904280662537,Positive
-"I miss my true love. Only been a few months since separation, but I loved how this song set her spirit free, and my own too. I hope if she ever reads this, you were never an expensive fake, your my bellyache not having you in my life anymore.",0.9727,Positive,0.15,Neutral,0.4337847828865051,Positive
+"I miss my true love. Only been a few months since separation, but I loved how this song set her spirit free, and my own too. I hope if she ever reads this, you were never an expensive fake, your my bellyache not having you in my life anymore.",0.9727,Positive,0.15,Positive,0.4337847828865051,Positive
 I am fun of U. I love so much❤🌹,0.918,Positive,0.4,Positive,0.7317649126052856,Positive
-5 years old today!,0.0,Neutral,0.125,Neutral,0.7957994341850281,Positive
+5 years old today!,0.0,Neutral,0.125,Positive,0.7957994341850281,Positive
 "Mind
 Mind
 Sittin' all alone
@@ -1269,16 +1269,16 @@ But now I got a bellyache",0.951,Positive,-0.0289473684210526,Negative,-0.388994
 "Her voice is like a FLUFFY BLANKET 
 But the lyrics are like a BED OF NAILS",0.6124,Positive,-0.2,Negative,0.3611757457256317,Positive
 "Subí un nuevo video sobre los shows de Billie, si lo ven me ayudarían muchísimo!
-https://youtu.be/nqLBKrSh91s",0.4574,Positive,0.1704545454545454,Neutral,0.3302765786647796,Positive
+https://youtu.be/nqLBKrSh91s",0.4574,Positive,0.1704545454545454,Positive,0.3302765786647796,Positive
 Wong nganjuk,0.0,Neutral,0.0,Neutral,-0.2663681805133819,Negative
 Me to,0.0,Neutral,0.0,Neutral,0.3034477531909942,Neutral
-this video turns 5 years old tomorrow! billie has come such a long way 💕,0.68,Positive,0.0249999999999999,Neutral,0.8019200563430786,Positive
+this video turns 5 years old tomorrow! billie has come such a long way 💕,0.68,Positive,0.0249999999999999,Positive,0.8019200563430786,Positive
 I came here from the show Hanna,0.0,Neutral,0.0,Neutral,0.3545178771018982,Positive
 🥰👌hti ski,0.0,Neutral,0.0,Neutral,0.3719407916069031,Positive
 She is so talented 😍,0.8186,Positive,0.7,Positive,0.7646688222885132,Positive
 Lol all the views are mine alone,0.2023,Positive,0.8,Positive,0.5161850452423096,Positive
 Day after day I come eager to hear this song is really more than wonderful,0.7745,Positive,0.75,Positive,0.7815369963645935,Positive
-This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💗,0.9201,Positive,0.2037037037037037,Neutral,0.9103387594223022,Positive
+This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💗,0.9201,Positive,0.2037037037037037,Positive,0.9103387594223022,Positive
 love the beats,0.6369,Positive,0.5,Positive,0.7193982005119324,Positive
 "About the 5th time I've attempted to listen to this, and I just can't. Guitar is okay, the rest is fucking horrid and has no feel or soul. Just to my ears, sounds like music you'd hear in Poundland. And that's a place no one enjoys.",-0.8427,Negative,-0.0499999999999999,Negative,-0.4841428101062774,Negative
 Pov:entras a los comentarios y todos en inglés ;v,0.0,Neutral,0.0,Neutral,-0.444158673286438,Negative
@@ -1292,7 +1292,7 @@ I wanna make 'em scared,-0.4404,Negative,0.0,Neutral,0.4286835789680481,Positive
 This song seems like ocean eyes,0.3612,Positive,0.0,Neutral,0.2853869497776031,Neutral
 My love!!❤️❤️❤️❤️,0.6988,Positive,0.0,Neutral,0.8874448537826538,Positive
 I love this song so much.. Please come in Bangladesh 🇧🇩,0.7769,Positive,0.35,Positive,0.8863223791122437,Positive
-Billie Eilish is my inspiration I just love her. She makes me feel so much better if I'm having a bad day🥰🥰,0.9715,Positive,0.1,Neutral,0.8091556429862976,Positive
+Billie Eilish is my inspiration I just love her. She makes me feel so much better if I'm having a bad day🥰🥰,0.9715,Positive,0.1,Positive,0.8091556429862976,Positive
 Awful not music,-0.4588,Negative,-1.0,Negative,-0.9302207827568054,Negative
 This song takes me to MARS and back...damn what a piece!💥💥💥💥,-0.8516,Negative,0.0,Neutral,0.6142605543136597,Positive
 T quiero bilie elish,0.6369,Positive,0.5,Positive,-0.4163659512996673,Negative
@@ -1354,11 +1354,11 @@ I had that same wagon as a kid yo,0.0,Neutral,0.0,Neutral,-0.2494436353445053,Ne
 ! 😍",0.5093,Positive,0.0,Neutral,-0.5090120434761047,Negative
 Amooooo😍😍😍,0.9217,Positive,0.5,Positive,0.3085779249668121,Neutral
 Amooooo😍😍😍,0.9217,Positive,0.5,Positive,0.3085779249668121,Neutral
-와 너무 멋져,0.7501,Positive,0.2249999999999999,Neutral,-0.3027524948120117,Negative
+와 너무 멋져,0.7501,Positive,0.2249999999999999,Positive,-0.3027524948120117,Negative
 I can play this song on guitar now ❤️,0.34,Positive,0.0,Neutral,0.5343596339225769,Positive
 my love 💛💛💛,0.9571,Positive,0.5,Positive,0.7858313322067261,Positive
 Někdo 2022😊😂😂,0.8957,Positive,0.0,Neutral,-0.5170058608055115,Negative
-"Hi Billie I really like your songs! So like how do you do those voices, I really want to know! I can scream! - from my 6 year old daughter Avery H.",0.7007,Positive,0.2208333333333333,Neutral,0.6732078194618225,Positive
+"Hi Billie I really like your songs! So like how do you do those voices, I really want to know! I can scream! - from my 6 year old daughter Avery H.",0.7007,Positive,0.2208333333333333,Positive,0.6732078194618225,Positive
 I LOVE YOOOOO BABY💚💚💚💚💚💚💚❤💚💚💚💚💚💚,0.9969,Positive,0.5,Positive,0.7430604100227356,Positive
 "this Song is so Nice, I Love this Song!!😬💙",0.9093,Positive,0.55,Positive,0.8617972731590271,Positive
 אני מעריצה שרופה שלך❤❤❤❤,0.9643,Positive,0.0,Neutral,-0.4274451732635498,Negative

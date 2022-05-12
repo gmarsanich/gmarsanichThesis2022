@@ -1,13 +1,13 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Vamos pa la playa,0.0,Neutral,0.0,Neutral,0.3913163244724273,Positive
-Espero que mi verano de 2022 sea más divertido que el año pasado:>,0.8622,Positive,0.325,Neutral,0.4872636497020721,Positive
+Espero que mi verano de 2022 sea más divertido que el año pasado:>,0.8622,Positive,0.325,Positive,0.4872636497020721,Positive
 😮😯😯😯😯😯😯😯😯😯😯😯😯😯😯😯😍💕,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 This song makes my mind cool when I doing stressful work.,-0.25,Negative,0.35,Positive,0.5356841683387756,Positive
 It's this song drum bongos,0.0,Neutral,0.0,Neutral,0.385442852973938,Positive
 It's December 30. Let's see how many people come to listen this masterpiece,0.7073,Positive,0.5,Positive,0.77573561668396,Positive
 perfecto!❤️ love this music,0.7777,Positive,0.5,Positive,0.9475116729736328,Positive
 me gusta,0.3612,Positive,0.0,Neutral,0.4238454401493072,Positive
-"Bonita canción, trato de traducir pero no entiendo: ¿qué significa abre la medalla?",0.7227,Positive,0.0958333333333333,Neutral,0.4001937210559845,Positive
+"Bonita canción, trato de traducir pero no entiendo: ¿qué significa abre la medalla?",0.7227,Positive,0.0958333333333333,Positive,0.4001937210559845,Positive
 Muy Bonito y 😀😀😃,0.8991,Positive,1.0,Positive,0.7407109141349792,Positive
 What’s alma?,0.0,Neutral,0.0,Neutral,0.2876048386096954,Neutral
 I like this music. 100%,0.3612,Positive,0.0,Neutral,0.928527295589447,Positive
@@ -110,18 +110,18 @@ Sharo Towers
 Puerto Rico
 (Welcome to the Paradise)",0.9969,Positive,-0.0011224489795918,Negative,0.4542487561702728,Positive
 Which language??,0.0,Neutral,0.0,Neutral,-0.3709253966808319,Negative
-Con calma lyrics,0.3182,Positive,0.3,Neutral,0.4832944273948669,Positive
+Con calma lyrics,0.3182,Positive,0.3,Positive,0.4832944273948669,Positive
 1:09 is my favourite,0.0,Neutral,0.0,Neutral,0.6958586573600769,Positive
 Don’t understand but i like this song good song 😍,0.9022,Positive,0.7,Positive,0.5505849123001099,Positive
-why is spain such a romantic place when there with my boy last year  we almost got married i can say that,0.4019,Positive,0.0625,Neutral,0.2803444266319275,Neutral
+why is spain such a romantic place when there with my boy last year  we almost got married i can say that,0.4019,Positive,0.0625,Positive,0.2803444266319275,Neutral
 This is the ringtone on my teacher's phone 😑,0.0,Neutral,0.0,Neutral,0.5826276540756226,Positive
 💜💜💜💜💜💜💜💜,0.9887,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "It's December 2021, let's see how many legends are watching to this masterpiece",0.7073,Positive,0.5,Positive,0.6678425669670105,Positive
-Let's see how many legends are active in January 2022.....😁😁😁😁😇😇😇,0.9709,Positive,0.1833333333333333,Neutral,0.2955495715141296,Neutral
+Let's see how many legends are active in January 2022.....😁😁😁😁😇😇😇,0.9709,Positive,0.1833333333333333,Positive,0.2955495715141296,Neutral
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song reminds me of Alvaro and mia from go live your way,-0.296,Negative,0.1363636363636363,Neutral,0.5589132905006409,Positive
+This song reminds me of Alvaro and mia from go live your way,-0.296,Negative,0.1363636363636363,Positive,0.5589132905006409,Positive
 "This is the 2nd best song if you are married and you want to go somewhere for honeymoon, the 1st is Despacito",0.6705,Positive,0.4166666666666667,Positive,0.549028217792511,Positive
-This is definitely European Spanish;),0.4019,Positive,0.0833333333333333,Neutral,0.3179670870304107,Neutral
+This is definitely European Spanish;),0.4019,Positive,0.0833333333333333,Positive,0.3179670870304107,Neutral
 This song makes my day better😇😇,0.836,Positive,0.0,Neutral,0.5992839932441711,Positive
 1:07,0.0,Neutral,0.0,Neutral,0.2215935140848159,Neutral
 "I don't understand the lyrics, but I don't know why I'm feeling happy and keep smiling ☺ ☺ ☺ ☺ ☺ ☺ after listening the song.",0.9889,Positive,0.8,Positive,0.4147219061851501,Positive
@@ -131,7 +131,7 @@ hi saint beatz,0.0,Neutral,0.0,Neutral,0.3466514050960541,Positive
 Josenlinen,0.0,Neutral,0.0,Neutral,0.231396272778511,Neutral
 Josenlinen,0.0,Neutral,0.0,Neutral,0.231396272778511,Neutral
 "poly
-poli",0.0,Neutral,0.2,Neutral,0.3510280847549438,Positive
+poli",0.0,Neutral,0.2,Positive,0.3510280847549438,Positive
 ILove SPANISH song 😂😂,0.7003,Positive,0.0,Neutral,0.2660007178783417,Neutral
 "Cuatro abrazos y un café
 Apenas me desperté
@@ -150,7 +150,7 @@ Tú le coqueteas, tú eres busca bullas y me gusta
 
 [Post-Coro: Pedro Capó]
 Lento y contento, cara al vie-ento
-Lento y contento, cara al vie-ento",0.9844,Positive,0.1438271604938271,Neutral,0.5573053956031799,Positive
+Lento y contento, cara al vie-ento",0.9844,Positive,0.1438271604938271,Positive,0.5573053956031799,Positive
 The greatest Spanish song of all time 😜,0.6369,Positive,0.5,Positive,0.9573392868041992,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 kkkjjh uma parte parece o Whindersson nunes,0.3612,Positive,0.0,Neutral,0.3081178367137909,Neutral
@@ -162,12 +162,12 @@ Oi,0.0,Neutral,0.0,Neutral,0.2559886276721954,Neutral
 I don’t know what they are saying but the song hits different 🔥,-0.4767,Negative,0.0,Neutral,0.4509251415729522,Positive
 Geci,0.0,Neutral,-0.3,Negative,0.3966834843158722,Positive
 https://youtu.be/GHuXuYJ8qMo,0.0,Neutral,0.0,Neutral,-0.2463166117668151,Negative
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 WOOOOO,0.0,Neutral,0.0,Neutral,0.2392177879810333,Neutral
-Hey 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍love it so much,0.9992,Positive,0.2,Neutral,0.4127039909362793,Positive
+Hey 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍love it so much,0.9992,Positive,0.2,Positive,0.4127039909362793,Positive
 I love this song from Philippines😍 🇵🇭,0.802,Positive,0.5,Positive,0.8414281010627747,Positive
 I sing it but I don’t know what any of it means,0.0,Neutral,0.0,Neutral,0.4278472363948822,Positive
-Thanks,0.4404,Positive,0.2,Neutral,0.5065225958824158,Positive
+Thanks,0.4404,Positive,0.2,Positive,0.5065225958824158,Positive
 L l love it,0.8986,Positive,0.5,Positive,0.7489933967590332,Positive
 I love the song i understand just some word spanish i hope to learn the language 💖💖💖 all love,0.9842,Positive,0.3333333333333333,Positive,0.7701097726821899,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
@@ -182,7 +182,7 @@ Hermosa canción.,0.5994,Positive,0.85,Positive,0.7075406908988953,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 "Pedro Capó, Farruko - Calma bu sarkinin 00:38 inci saniyesi bunun """"Sefo-bilmem mi  """"00:52 incisi olurmu be inanmayanlar baksin aynisi Sefo calmissin abi",0.2924,Positive,0.0,Neutral,-0.3577651083469391,Negative
 OMG😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-i am not spanish but i love listening to diffrent music and types of music,0.7783,Positive,0.25,Neutral,0.3408507108688354,Positive
+i am not spanish but i love listening to diffrent music and types of music,0.7783,Positive,0.25,Positive,0.3408507108688354,Positive
 Fuego,0.0,Neutral,0.0,Neutral,0.3100162148475647,Neutral
 I love the song a lot🤗😍💙,0.9349,Positive,0.5,Positive,0.7090857625007629,Positive
 The begining is so clear it's great for listening practice <3,0.8917,Positive,0.6333333333333333,Positive,0.3918210566043854,Positive
@@ -195,7 +195,7 @@ Welcome to Paradise 😀😀,0.9042,Positive,0.8,Positive,0.6355315446853638,Pos
 I liked it I'm from philippines,0.4215,Positive,0.6,Positive,0.5404890775680542,Positive
 "Me gusta demasiado esta canción Estoy aprendiendo esta canción y esta es una de las mejores canciones que he escuchado en español por cierto, no sé español o hablo español, solo estoy usando el traductor de Google jajaja 😊😎😁",0.9661,Positive,0.3333333333333333,Positive,0.3771140873432159,Positive
 "I like it, but I don't understand any word of this song.",0.1901,Positive,0.0,Neutral,0.5478882193565369,Positive
-1M subscribe complete fast❤️,0.0,Neutral,0.1,Neutral,0.7184826135635376,Positive
+1M subscribe complete fast❤️,0.0,Neutral,0.1,Positive,0.7184826135635376,Positive
 "https://youtu.be/3qoeNGDeSvk
 One side💜 love😔 story",0.8658,Positive,0.0,Neutral,-0.3854767382144928,Negative
 Me  gustaría la música,0.3612,Positive,0.0,Neutral,0.4165224134922027,Positive
@@ -227,20 +227,20 @@ En algunas ocasiones puede llegar a decirte que le des tu alma, es decir, que re
 Sus seguidores para conseguir cualquier tipo de papel en el infierno deben sacrificar todo lo que tienen en la vida y matar a alguien, mejor si alguien que les importa o algún completo desconocido y como gesto final ellos mismos. 
 Los demonios no pueden sacar nada y debe ser el adepto quien realiza ciertos rituales para aprender cosas nuevas y mejorar el nivel, pero en cada uno de estos actos sus vidas se arruinan cada vez más.
 El infierno consta de 9 niveles. 
-Las almas de las personas que se suicidan son golpeadas por los ojos poco a poco hasta que se les arrancan los ojos, un proceso que dura años y tienen que dar 15 vueltas antes de poder salvarse.",-0.9978,Negative,0.0900519675519675,Neutral,-0.4286070168018341,Negative
+Las almas de las personas que se suicidan son golpeadas por los ojos poco a poco hasta que se les arrancan los ojos, un proceso que dura años y tienen que dar 15 vueltas antes de poder salvarse.",-0.9978,Negative,0.0900519675519675,Positive,-0.4286070168018341,Negative
 "Amazing song,love it♥",0.8402,Positive,0.6000000000000001,Positive,0.8772007822990417,Positive
-CALMA,0.3182,Positive,0.3,Neutral,0.5704407095909119,Positive
+CALMA,0.3182,Positive,0.3,Positive,0.5704407095909119,Positive
 Best song,0.6369,Positive,1.0,Positive,0.8334701657295227,Positive
 Malayali ??😂,0.504,Positive,0.0,Neutral,-0.3658333122730255,Negative
 Love from Philippines! ❣️,0.8655,Positive,0.625,Positive,0.7099774479866028,Positive
 Indonesia mana NH 😁🥰,0.6037,Positive,0.0,Neutral,0.3222911953926086,Neutral
 0:36,0.0,Neutral,0.0,Neutral,-0.4337012469768524,Negative
-I don't understand the lyrics but I really like this song ♥️🎧,0.8883,Positive,0.2,Neutral,0.4822070598602295,Positive
+I don't understand the lyrics but I really like this song ♥️🎧,0.8883,Positive,0.2,Positive,0.4822070598602295,Positive
 Nice To Song Favorite Me Thx😍😍😍,0.946,Positive,0.55,Positive,0.6556956171989441,Positive
 ¡Hola!,0.0,Neutral,0.0,Neutral,0.3078793287277221,Neutral
 0:36,0.0,Neutral,0.0,Neutral,-0.4337012469768524,Negative
 Can't understand anything but enjoying a lot,0.6808,Positive,0.5,Positive,0.5094807744026184,Positive
-Latino songs really hit different!! It just make us moveeee and flow into the song without understand any of the words.. I just really love the vibe thoo!!,0.7691,Positive,0.3270833333333333,Neutral,0.6311476230621338,Positive
+Latino songs really hit different!! It just make us moveeee and flow into the song without understand any of the words.. I just really love the vibe thoo!!,0.7691,Positive,0.3270833333333333,Positive,0.6311476230621338,Positive
 Is this afro-latin american song?,0.0,Neutral,0.0,Neutral,-0.4454980492591858,Negative
 Nice 2021,0.4215,Positive,0.6,Positive,0.442592978477478,Positive
 U guys think this video lyrics is  good....well  this aint nothing compare to my video lyrics version,0.0,Neutral,0.0,Neutral,0.3439651429653168,Positive
@@ -253,14 +253,14 @@ Ye lets go to the beach 😍😍😍😍🥰🥰🥰🥰😉😉😉😉😉😉
 ```That flow```  man 🤩🤩🤩👏👏👏👏,0.0,Neutral,0.0,Neutral,0.477139800786972,Positive
 Am Mexican I know what he saying 😅😂🥺😊❤️✌️,0.886,Positive,0.0,Neutral,-0.2806279957294464,Negative
 The song in English is called ( let's go to the beach),0.0,Neutral,0.0,Neutral,0.2269078940153122,Neutral
-muy bonito,0.5413,Positive,0.325,Neutral,0.6807528138160706,Positive
+muy bonito,0.5413,Positive,0.325,Positive,0.6807528138160706,Positive
 Q,0.0,Neutral,0.0,Neutral,0.2450127899646759,Neutral
-"Everytime I sit down to do my homework, I listen this song, because it is really calma for my soul ✨",0.3182,Positive,0.0222222222222222,Neutral,0.7099712491035461,Positive
+"Everytime I sit down to do my homework, I listen this song, because it is really calma for my soul ✨",0.3182,Positive,0.0222222222222222,Positive,0.7099712491035461,Positive
 The tu mano en mi mano part is just 😫💅🏻,-0.4404,Negative,0.0,Neutral,0.2864987254142761,Neutral
 "Me gusta esta canción por cierto, soy de Malasia 🇲🇾",0.3612,Positive,0.0,Neutral,0.424264520406723,Positive
 I don't know Spanish but I like the song,0.5023,Positive,0.0,Neutral,0.5310848355293274,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
-Me gusta mucho esta cancion.  Esto puede sonar extraño pero me tranquiliza un poco.,0.5574,Positive,0.175,Neutral,0.7039286494255066,Positive
+Me gusta mucho esta cancion.  Esto puede sonar extraño pero me tranquiliza un poco.,0.5574,Positive,0.175,Positive,0.7039286494255066,Positive
 Muy bueno💙💜💛❤💛💚💯💯💯💯👍👍👍👍👍👍👍👍👍😄😄😄😄,0.4927,Positive,0.91,Positive,0.5036076307296753,Positive
 Sounds despacito,0.0,Neutral,0.0,Neutral,-0.3111036717891693,Negative
 “If u don’t speak it’s native younger dance to their music”- someone in the Bible idk who,-0.1027,Negative,0.0,Neutral,-0.3315277993679046,Negative
@@ -270,8 +270,8 @@ Yall donde understand the lyrics?😐😐,0.0,Neutral,0.0,Neutral,-0.33547633886
 )),0.0,Neutral,0.0,Neutral,0.3480135500431061,Positive
 "HOW I WISH THIS SONG HAD ENGLISH SUB😊
 NICE HELLO FROM PHILIPPINES
-#2O21❤️",0.918,Positive,0.3,Neutral,0.3315452039241791,Positive
-🌻🌻🥀And your cod is one cod there is no deity Worthy oF Worsh ip except Him the Entirely MerciFul 🥀🥀🌹🌻,-0.5583,Negative,0.1666666666666666,Neutral,-0.717976450920105,Negative
+#2O21❤️",0.918,Positive,0.3,Positive,0.3315452039241791,Positive
+🌻🌻🥀And your cod is one cod there is no deity Worthy oF Worsh ip except Him the Entirely MerciFul 🥀🥀🌹🌻,-0.5583,Negative,0.1666666666666666,Positive,-0.717976450920105,Negative
 "just listen to the song instead of saying shit about languages, if you don't know try to learn",-0.5574,Negative,-0.2,Negative,-0.3340990543365478,Negative
 I realize to increase my Spanish vocabulary it good to watch these music videos . While enjoying the music,0.8225,Positive,0.3999999999999999,Positive,0.4709680676460266,Positive
 layan dulu criminal,-0.5267,Negative,-0.075,Negative,-0.3804548978805542,Negative
@@ -283,15 +283,15 @@ This is beautiful music thank you,0.7506,Positive,0.85,Positive,0.82490789890289
 😂,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 #Mi canción favorita👍👍 #Es regular 🤛,0.4588,Positive,0.5,Positive,0.417801946401596,Positive
 "Spain : calms
-Pilipinas  : kalmado and same meaning",0.5574,Positive,0.15,Neutral,-0.3116257786750793,Negative
+Pilipinas  : kalmado and same meaning",0.5574,Positive,0.15,Positive,-0.3116257786750793,Negative
 Bravonnnnnnnn,0.0,Neutral,0.0,Neutral,0.4375705122947693,Positive
-Bonita el canta 'ste. Yo no conversa real Español pero ta entende yo eso.,0.0,Neutral,0.1,Neutral,0.3969743251800537,Positive
-I don't understand a word... But this song really Sang to me... 💃💃💃🕺🕺,0.0,Neutral,0.2,Neutral,0.4115083813667297,Positive
+Bonita el canta 'ste. Yo no conversa real Español pero ta entende yo eso.,0.0,Neutral,0.1,Positive,0.3969743251800537,Positive
+I don't understand a word... But this song really Sang to me... 💃💃💃🕺🕺,0.0,Neutral,0.2,Positive,0.4115083813667297,Positive
 WOWWWWWWWW🗣❤❤❤💥💥,0.8625,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I'm learning Spanish and I've 80% learnt and I understand this whole song! Este canćion es muy bueno!💖,0.7896,Positive,0.125,Neutral,0.7969651222229004,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Ahh this song has some magic vibes ahh the tune I’m addicted to this song,0.0,Neutral,0.0499999999999999,Neutral,0.3989530503749847,Positive
-Calma in Philippines is stay calm,0.3182,Positive,0.3,Neutral,0.5464870929718018,Positive
+I'm learning Spanish and I've 80% learnt and I understand this whole song! Este canćion es muy bueno!💖,0.7896,Positive,0.125,Positive,0.7969651222229004,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Ahh this song has some magic vibes ahh the tune I’m addicted to this song,0.0,Neutral,0.0499999999999999,Positive,0.3989530503749847,Positive
+Calma in Philippines is stay calm,0.3182,Positive,0.3,Positive,0.5464870929718018,Positive
 Thais es mi canción número uno,0.0772,Positive,0.0,Neutral,0.6634528040885925,Positive
 🥺💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 https://youtu.be/ifYvT2atarE,0.0,Neutral,0.0,Neutral,0.241884559392929,Neutral
@@ -301,25 +301,25 @@ I m like a song,0.3612,Positive,0.0,Neutral,0.418729156255722,Positive
 0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
 0:23,0.0,Neutral,0.0,Neutral,-0.4416943490505218,Negative
 0:08,0.0,Neutral,0.0,Neutral,-0.5980874300003052,Negative
-Idk if I speak Spanish or English sí and yes this song is beautiful ❤❤❤❤❤🌹🌹🌹❤❤❤❤,0.9932,Positive,0.2833333333333333,Neutral,0.646632194519043,Positive
+Idk if I speak Spanish or English sí and yes this song is beautiful ❤❤❤❤❤🌹🌹🌹❤❤❤❤,0.9932,Positive,0.2833333333333333,Positive,0.646632194519043,Positive
 who still shilling here,0.0,Neutral,0.0,Neutral,-0.299310564994812,Negative
 One of a kind,0.5267,Positive,0.6,Positive,0.3231882452964782,Neutral
 "The song:Spanish
 The coments:English
 Me:👁️👄👁️",0.0,Neutral,0.0,Neutral,0.2859389781951904,Neutral
 FT. ISMAEL 🇺🇸,0.0,Neutral,0.0,Neutral,0.3181435167789459,Neutral
-CALMA IN SPANISH KALMA IN TAGALOG AND IT MEANS CALM,0.3182,Positive,0.15,Neutral,0.3724543154239654,Positive
+CALMA IN SPANISH KALMA IN TAGALOG AND IT MEANS CALM,0.3182,Positive,0.15,Positive,0.3724543154239654,Positive
 Am totally white and I like these songs and I can actually sing if I can read the lyrica,0.3612,Positive,0.0,Neutral,0.5804883241653442,Positive
 Cause14,0.0,Neutral,0.0,Neutral,-0.3514681756496429,Negative
-When I first herd this I was getting my life together it was a paradise a very peaceful time in my life like this song really relaxing and chill,0.9285,Positive,0.2583333333333333,Neutral,0.6763945817947388,Positive
+When I first herd this I was getting my life together it was a paradise a very peaceful time in my life like this song really relaxing and chill,0.9285,Positive,0.2583333333333333,Positive,0.6763945817947388,Positive
 Nice song 😜😜,0.4215,Positive,0.6,Positive,0.4506402909755707,Positive
 Could anyone tell me which language is it ?,0.0,Neutral,0.0,Neutral,-0.3557579815387726,Negative
 🤗🤗🤗🤗🤗🤗🤗,0.9559,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Music is universal language,0.0,Neutral,0.0,Neutral,0.3259038627147674,Neutral
-I dont understand spanishe but this song is very cool,0.5251,Positive,0.2274999999999999,Neutral,0.4167592227458954,Positive
+I dont understand spanishe but this song is very cool,0.5251,Positive,0.2274999999999999,Positive,0.4167592227458954,Positive
 "Kis pénz, kis foci.",0.0,Neutral,-0.1875,Negative,0.2788519859313965,Neutral
 My fabourite song😖😖😊😊😍😍,0.9517,Positive,0.0,Neutral,0.5963466167449951,Positive
-I'm spanish and I talk English morw than spanish and I also hear this song its like my favorite right now,0.6705,Positive,0.1571428571428571,Neutral,0.7522420883178711,Positive
+I'm spanish and I talk English morw than spanish and I also hear this song its like my favorite right now,0.6705,Positive,0.1571428571428571,Positive,0.7522420883178711,Positive
 🌚,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 i love this song😭❤️🔥🎧,-0.0772,Negative,0.5,Positive,0.900801718235016,Positive
 Esta era la cancion favorita de mi abuela y yo antes de que ella muriera y nunca dejare de escuchar,0.0742,Positive,0.5,Positive,0.6489309072494507,Positive
@@ -333,7 +333,7 @@ I like spanish,0.3612,Positive,0.0,Neutral,0.350520372390747,Positive
 "OMG IVE BEEN LOOKING FOR THIS SONG SINCE I WENT ON HOLIDAY TO EGYPT AND THEY PLAYED THIS SONG AND I DINT KNOW THE NAME OF IT UNTIL NOW IM GONNA CRYYYYYY IVE FINALLY FOUND IT, MY SOULS BACK😱😱😱😭😭😭😲😲🤗🤗🤗",-0.7604,Negative,0.0,Neutral,0.4460699558258056,Positive
 "The most beautiful and harmonic song, it is!❤️",0.82,Positive,0.675,Positive,0.9252597093582152,Positive
 Iam from indonesian,0.0,Neutral,0.0,Neutral,0.2434398531913757,Neutral
-"This song is good, and yes i understand Spanish very well…",0.6808,Positive,0.3,Neutral,0.4479641616344452,Positive
+"This song is good, and yes i understand Spanish very well…",0.6808,Positive,0.3,Positive,0.4479641616344452,Positive
 Make it ×1.25 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.406821995973587,Positive
 Makes me feel like bali,0.3612,Positive,0.0,Neutral,0.3684880435466766,Positive
 "I didn't know this language, but i love this song😍",0.8957,Positive,0.5,Positive,0.7531496286392212,Positive
@@ -344,27 +344,27 @@ After 2 years the comment section is active,0.4019,Positive,-0.1333333333333333,
 I love this song wow love it 😍😍😍,0.969,Positive,0.3666666666666667,Positive,0.9318158626556396,Positive
 Duh what does HJANNAG KAHSUE HA HA HA KSOOPAGS MCMNGSKF 'JHHSGHSGJ MEAN???,0.8732,Positive,-0.30625,Negative,-0.400341123342514,Negative
 Anyone in 2021 ?,0.0,Neutral,0.0,Neutral,-0.5549798607826233,Negative
-Yes finally my favorite song good I know what they are saying because than it will be weird but I would still like it love this song,0.926,Positive,0.3,Neutral,0.636269748210907,Positive
+Yes finally my favorite song good I know what they are saying because than it will be weird but I would still like it love this song,0.926,Positive,0.3,Positive,0.636269748210907,Positive
 I understand some Words but it Speaks alot to me too,0.0,Neutral,0.0,Neutral,0.4835090339183807,Positive
 bonita cancion como tanto,0.6486,Positive,0.4,Positive,0.4095154106616974,Positive
 Hola 👋😁,0.7351,Positive,0.0,Neutral,0.2730221152305603,Neutral
 "I started learning Spanish from last week after hearing some songs like this😀
-It looks easy at beginning though",0.8061,Positive,0.1444444444444444,Neutral,0.4248887896537781,Positive
+It looks easy at beginning though",0.8061,Positive,0.1444444444444444,Positive,0.4248887896537781,Positive
 Si si si (yes yes yes),0.7964,Positive,0.0,Neutral,0.3082544803619385,Neutral
-Vamos de chinchorro and chinchorro jajaja,0.5574,Positive,0.2,Neutral,0.4165689945220947,Positive
+Vamos de chinchorro and chinchorro jajaja,0.5574,Positive,0.2,Positive,0.4165689945220947,Positive
 P,0.0,Neutral,0.0,Neutral,0.2397068440914154,Neutral
 I understand nothing but the beat .. THE BEAT WAS LIT I LUV IT 😭 PLUS PEDRO CAPÓ HELLA HOTTIE,-0.631,Negative,0.0,Neutral,-0.4174521267414093,Negative
 Canción favorita de todos los tiempos ... me encanta tanto ...,0.4588,Positive,0.35,Positive,0.8754737973213196,Positive
 I understand the word,0.0,Neutral,0.0,Neutral,0.3885006606578827,Positive
-In love with spanish ❤,0.8555,Positive,0.25,Neutral,0.6028319597244263,Positive
+In love with spanish ❤,0.8555,Positive,0.25,Positive,0.6028319597244263,Positive
 mi gusta la musica 💓💓🤗💖,0.9836,Positive,0.0,Neutral,0.4562853872776031,Positive
 "Comment box full ""i don't know this language but i love this song""(mee too)😊",0.9413,Positive,0.425,Positive,0.5678741335868835,Positive
-when you just put this on and pretend like your life is “just fine”…. When it’s really not 😶🙃,0.2732,Positive,0.1583333333333333,Neutral,0.2731200456619262,Neutral
+when you just put this on and pretend like your life is “just fine”…. When it’s really not 😶🙃,0.2732,Positive,0.1583333333333333,Positive,0.2731200456619262,Neutral
 21 de Junio 2021,0.0,Neutral,0.0,Neutral,-0.342247873544693,Negative
 2012,0.0,Neutral,0.0,Neutral,0.2691041231155395,Neutral
 "This song is near and dear to the hearts of the fans of the Washington Nationals baseball team. During 2019, on their way to winning the World Series, one of the players named Brian Dozier spent hours learning all the words to the song from his Hispanic teammates during the long trips they took to play other teams. As they started winning playoff series the players would hold wild celebrations in their locker room, pouring beer and champagne, and Dozier started stripping off his shirt as he swigged beer and sang along with the entire song as it played in the background. Even during the triumphant parade through Washington DC to congratulate the team and thank the fans this song was played, and Dozier stripped off his shirt and sang along to it with the rest of his teammates who knew the words. It was magic. 
 
-Brian is retired now, but this season after every game one can hear the song being played on the public address system as we leave the stadium. Many fans have no idea what the words mean, but they love that song because it reminds them of a beautiful, improbable, and ultimately successful march to the World Championship.",0.9897,Positive,0.1801470588235294,Neutral,0.6136422753334045,Positive
+Brian is retired now, but this season after every game one can hear the song being played on the public address system as we leave the stadium. Many fans have no idea what the words mean, but they love that song because it reminds them of a beautiful, improbable, and ultimately successful march to the World Championship.",0.9897,Positive,0.1801470588235294,Positive,0.6136422753334045,Positive
 one thing i dont understand  the most are the dislikes,-0.4522,Negative,0.5,Positive,-0.2740841209888458,Negative
 the background is my village😊,0.7184,Positive,0.0,Neutral,0.3791072070598602,Positive
 "Cuatro abrazos y un café
@@ -420,7 +420,7 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5951286554336548,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5951286554336548,Positive
 "cancion-Español
 comentarios-gringos
 yo- T-T",0.0,Neutral,0.0,Neutral,-0.4444274306297302,Negative
@@ -430,8 +430,8 @@ Ki érkezett még PSGogli mestertől?,0.0,Neutral,0.0,Neutral,-0.337734609842300
 Don't understand any word,0.0,Neutral,0.0,Neutral,-0.5462211966514587,Negative
 Hola 🙋🇲🇽,0.0,Neutral,0.0,Neutral,0.2730221152305603,Neutral
 It’s like a love song,0.7717,Positive,0.5,Positive,0.4934894442558288,Positive
-Bella. Canzone,0.4939,Positive,0.25,Neutral,0.4089679419994354,Positive
-"I LOVE dis song! I speak fluent in Spanish so I know what Despacito song is about, it’s creepy, and I love this song it is nice!!! 💙💙💙",0.9812,Positive,0.325,Neutral,0.703405499458313,Positive
+Bella. Canzone,0.4939,Positive,0.25,Positive,0.4089679419994354,Positive
+"I LOVE dis song! I speak fluent in Spanish so I know what Despacito song is about, it’s creepy, and I love this song it is nice!!! 💙💙💙",0.9812,Positive,0.325,Positive,0.703405499458313,Positive
 This song is awesome and very relaxing💙💙,0.9535,Positive,0.6,Positive,0.8382082581520081,Positive
 In love with the song 💟💟,0.9274,Positive,0.5,Positive,0.6189509630203247,Positive
 can't understand but i'm vibing😌🎶🎶🎶,0.5267,Positive,0.0,Neutral,0.3611814081668854,Positive
@@ -444,8 +444,8 @@ Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 I am a filipino but I love to dance when music starts..Love this music,0.7783,Positive,0.5,Positive,0.6823000907897949,Positive
 Nitip sadal ahh😌😁,0.0,Neutral,0.0,Neutral,-0.3221625685691833,Negative
 This song is amazing,0.5859,Positive,0.6000000000000001,Positive,0.8190015554428101,Positive
-I speak Spanish and i love love love this song every one in are house is addicted to this song vamos a la playa the sober is called calma fave song,0.9477,Positive,0.2,Neutral,0.8258556127548218,Positive
-Love from Pakistan sooo much 😘😘😘love you spanish songs and language so much,0.8689,Positive,0.2249999999999999,Neutral,0.490118533372879,Positive
+I speak Spanish and i love love love this song every one in are house is addicted to this song vamos a la playa the sober is called calma fave song,0.9477,Positive,0.2,Positive,0.8258556127548218,Positive
+Love from Pakistan sooo much 😘😘😘love you spanish songs and language so much,0.8689,Positive,0.2249999999999999,Positive,0.490118533372879,Positive
 can i cover this song?,0.0,Neutral,0.0,Neutral,-0.2678509950637817,Negative
 Love you ❤️❤️❤️❤️❤️,0.6369,Positive,0.5,Positive,0.856530487537384,Positive
 I'm still bumping this song in 2021 when listening to this song I feel like I'm in paradise ❤️,0.7717,Positive,0.0,Neutral,-0.3070522844791412,Negative
@@ -457,9 +457,9 @@ This song bring me back my memories 🥺🥺🥺,0.0,Neutral,0.0,Neutral,0.71073
 "In English :
 Let's go to the beach to heal your soul close the screen open the medal all the caribbean sea seeing my waist you flirt with him you are a bully and I like slow and content facing the wind",0.34,Positive,-0.1,Negative,0.5163055062294006,Positive
 I know how to read Spanish and say some Spanish songs  sooo I know how to sing this this song😊😊👉👈 ✊✌💓💓💓💓💓💓💓💓💓,0.9897,Positive,0.0,Neutral,0.4769339859485626,Positive
-"I've been learning spanish for 3 years, and in class we always read and write, but we never get to actually SPEAK the language, and it really helps listening to spanish songs, because while the pronunciation is sometimes off to rhyme better, it still helps with confidence in words and actually speaking the language.",0.948,Positive,0.1166666666666666,Neutral,0.5546953678131104,Positive
+"I've been learning spanish for 3 years, and in class we always read and write, but we never get to actually SPEAK the language, and it really helps listening to spanish songs, because while the pronunciation is sometimes off to rhyme better, it still helps with confidence in words and actually speaking the language.",0.948,Positive,0.1166666666666666,Positive,0.5546953678131104,Positive
 I only know This song from my Spanish teacher,0.0,Neutral,0.0,Neutral,-0.3082669973373413,Negative
-Estoy trabajando en mi español. ¡Tiene gracia qorqué la gente cree que tengo fluidez!🤣,0.75,Positive,0.125,Neutral,0.6527407169342041,Positive
+Estoy trabajando en mi español. ¡Tiene gracia qorqué la gente cree que tengo fluidez!🤣,0.75,Positive,0.125,Positive,0.6527407169342041,Positive
 "English translation :
 
 Four hugs and one coffee
@@ -586,54 +586,54 @@ because we have everything if we're walking together
 
 Calmness, my life, calmly
 
-because we have everything if we're dancing together",0.9957,Positive,0.1909090909090909,Neutral,0.6288185715675354,Positive
+because we have everything if we're dancing together",0.9957,Positive,0.1909090909090909,Positive,0.6288185715675354,Positive
 "When he said 
 Y camo dice fonsi ""vamo a darie despacito""
 I felt that.",0.0,Neutral,-0.3,Negative,-0.397544652223587,Negative
 "I didn't used to listen Spanish songs.
 But this song hit different",0.0,Neutral,0.0,Neutral,0.2936341166496277,Neutral
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Hahhahhahhahahahhahhhahahaahahahah hahaha,0.5574,Positive,0.2,Neutral,-0.3277443349361419,Negative
+Hahhahhahhahahahhahhhahahaahahahah hahaha,0.5574,Positive,0.2,Positive,-0.3277443349361419,Negative
 "Kok background nya sawah?
 Kan harusnya pantai",0.0,Neutral,0.0,Neutral,-0.262227714061737,Negative
 "I am learning spainsh do little little I am understanding ❤️❤️
 Fav song from now I have listened this song today and now this my favourite spainsh song 
 👍👍👍 
-Rap was amazing in between",0.7783,Positive,0.075,Neutral,0.7753649950027466,Positive
+Rap was amazing in between",0.7783,Positive,0.075,Positive,0.7753649950027466,Positive
 Hearing songs like this makes me proud to be mexican,0.6808,Positive,0.4,Positive,0.5836259126663208,Positive
 Amazing ❤️❤️,0.5859,Positive,0.6000000000000001,Positive,0.8492814898490906,Positive
 Orgullo mexicano😏,0.34,Positive,0.0,Neutral,0.6322207450866699,Positive
-El español suena mucho más sexy que el inglés.,0.0,Neutral,0.0666666666666666,Neutral,-0.4268578588962555,Negative
+El español suena mucho más sexy que el inglés.,0.0,Neutral,0.0666666666666666,Positive,-0.4268578588962555,Negative
 very good Alan Walker,0.4927,Positive,0.91,Positive,0.5206074714660645,Positive
 Kis pénz kis foci,0.0,Neutral,-0.1875,Negative,0.2847561538219452,Neutral
 Im crying because corona didnt exist,-0.4767,Negative,-0.2,Negative,-0.5502068996429443,Negative
 Don't understand a word but this song make me peace,0.6956,Positive,0.0,Neutral,0.414725661277771,Positive
-"When you listen to Spanish song, you don't understand any of their words but you still love it. Thats me!",0.7959,Positive,0.3125,Neutral,0.3368760645389557,Positive
+"When you listen to Spanish song, you don't understand any of their words but you still love it. Thats me!",0.7959,Positive,0.3125,Positive,0.3368760645389557,Positive
 I do understand some Words 😃,0.3612,Positive,0.0,Neutral,0.4551924467086792,Positive
 I can understand a little bit spanish🙏😭😭,-0.7351,Negative,-0.1875,Negative,0.5282161831855774,Positive
 I love this song because it was the song me and my sister heard when we were with are dad,0.6369,Positive,0.5,Positive,0.8454284071922302,Positive
 Who knows psgogli7?,0.0,Neutral,0.0,Neutral,-0.3541979193687439,Negative
-Wow 👏👏👏👍👍👍,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow 👏👏👏👍👍👍,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 Another reason for me to learn Spanish,0.0,Neutral,0.0,Neutral,0.3616466224193573,Positive
 Jesus Loves You All❤️ Repent and turn to Him while you are alive✨,0.8225,Positive,0.0,Neutral,0.6671627759933472,Positive
 Amazing background music 🔥😍,0.6597,Positive,0.6000000000000001,Positive,0.7522721886634827,Positive
-We don't need to understand the language to love the music~ Jisoo (black pink),0.6369,Positive,0.0777777777777777,Neutral,0.5417967438697815,Positive
+We don't need to understand the language to love the music~ Jisoo (black pink),0.6369,Positive,0.0777777777777777,Positive,0.5417967438697815,Positive
 i'm scrolling down the comments while singing,0.0,Neutral,-0.1555555555555555,Negative,-0.2876111268997192,Negative
 Love This Vid,0.6369,Positive,0.5,Positive,0.8107728958129883,Positive
 a leg job zene,0.6369,Positive,1.0,Positive,0.3407902121543884,Positive
 Alguien  habla español?,0.0,Neutral,0.0,Neutral,-0.4564203917980194,Negative
-This song is awsome yall I listen to every day and the song  never gets old,0.0,Neutral,0.1,Neutral,0.616904079914093,Positive
+This song is awsome yall I listen to every day and the song  never gets old,0.0,Neutral,0.1,Positive,0.616904079914093,Positive
 let's go to the beach all characters from halo games with all spartans and Marines and everyone else with Master chief and Noble team,0.4588,Positive,0.6,Positive,0.5600491166114807,Positive
 wish Philippines will bring Spanish language back.,0.4019,Positive,0.0,Neutral,-0.5810355544090271,Negative
 I was attracted because of the Washington Nationals. Baseball ..the song is very nice and it really attracts someone who's first time to hear this..,0.8354,Positive,0.41,Positive,0.5032196044921875,Positive
-Calma 🖤❤️2021,0.7579,Positive,0.0722222222222222,Neutral,0.6084656715393066,Positive
-Hola nino... there is no other n on the key board loll,-0.296,Negative,0.03125,Neutral,-0.3391585052013397,Negative
+Calma 🖤❤️2021,0.7579,Positive,0.0722222222222222,Positive,0.6084656715393066,Positive
+Hola nino... there is no other n on the key board loll,-0.296,Negative,0.03125,Positive,-0.3391585052013397,Negative
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-Nicest person and the other side of my favorite things to do with your friends with my friends👭👬 are going through some reason,0.9081,Positive,0.1875,Neutral,0.7591166496276855,Positive
+Nicest person and the other side of my favorite things to do with your friends with my friends👭👬 are going through some reason,0.9081,Positive,0.1875,Positive,0.7591166496276855,Positive
 1:07 🥳,0.3818,Positive,0.0,Neutral,-0.3132187128067016,Negative
 umm i hate this song,-0.5719,Negative,-0.8,Negative,-0.845864474773407,Negative
-spanish is such a beautiful language,0.5994,Positive,0.2833333333333333,Neutral,0.8086418509483337,Positive
-The first time I heard twas in like 2018 or 2019 in a party,0.6369,Positive,0.25,Neutral,-0.2428712248802185,Negative
+spanish is such a beautiful language,0.5994,Positive,0.2833333333333333,Positive,0.8086418509483337,Positive
+The first time I heard twas in like 2018 or 2019 in a party,0.6369,Positive,0.25,Positive,-0.2428712248802185,Negative
 This song's  background says all about it,0.0,Neutral,0.0,Neutral,0.3077998459339142,Neutral
 Love dis song❤️❤️👈👈👈👈,0.6369,Positive,0.5,Positive,0.4435448348522186,Positive
 me encanta esta canción 😁,0.802,Positive,0.5,Positive,0.7863094806671143,Positive
@@ -648,12 +648,12 @@ CONGRATZ ON 500K!!!!! KEEP UP THE BEAUTIFUL WORK! And remember we are here to su
 🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "Been learning spanish since the day I was born then around at the age of 5 I could speak English and Spanish very well as time passed I slowly ""forgot"" I have to go and relearn Spanish",0.3384,Positive,-0.0166666666666666,Negative,0.2590139806270599,Neutral
 "Everyone: I dont know Spanish but this song Is good
-ME : singing everything,  all bcause I Mexican American, tho I kinda forgot how to Spanish",0.5927,Positive,0.1399999999999999,Neutral,0.3560639917850494,Positive
+ME : singing everything,  all bcause I Mexican American, tho I kinda forgot how to Spanish",0.5927,Positive,0.1399999999999999,Positive,0.3560639917850494,Positive
 Nice song even i dont und but still good vibes,0.6956,Positive,0.6499999999999999,Positive,0.6177497506141663,Positive
 Greetings from El salvador 🇸🇻 as a person who understands this I rate this 10/10,0.4215,Positive,0.0,Neutral,0.5461775064468384,Positive
 Im Filipino some words I understood ‘calma’ in filipino ‘kalma’ means chill calmdown,0.0,Neutral,0.0,Neutral,0.2748086750507355,Neutral
-I know Spanish a little but I love this song😀💋💙❤️💜,0.9798,Positive,0.1041666666666666,Neutral,0.6662299633026123,Positive
-Back to this after a while but still feel like it's new.....,0.5023,Positive,0.0681818181818181,Neutral,0.5034869313240051,Positive
+I know Spanish a little but I love this song😀💋💙❤️💜,0.9798,Positive,0.1041666666666666,Positive,0.6662299633026123,Positive
+Back to this after a while but still feel like it's new.....,0.5023,Positive,0.0681818181818181,Positive,0.5034869313240051,Positive
 "English: this song is good!
 Spanish: esta cancion es buena",0.7263,Positive,0.39375,Positive,0.4162735342979431,Positive
 https://youtu.be/5tGOGqApUN8,0.0,Neutral,0.0,Neutral,0.2717407345771789,Neutral
@@ -675,31 +675,31 @@ B.e.S.T f'u""l'l D.a.T.i.n.G h.o.T G.i.r.L's
 ..👍
 !💖🖤❤️今後は気をライブ配信の再編ありがとうです！この日のライブ配信は、かならりやばかったですね！１万人を超える人が見ていたもん（笑）やっぱり人参最高！まさかのカメラ切り忘れでやら1かしたのもドキドキでした,.
  💖🖤在整個人類歷史上，強者，富人和具有狡猾特質的人捕食部落，氏族，城鎮，城市和鄉村中的弱者，無`'守和貧窮成員。然而，人類的生存意願迫使那些被拒絕，被剝奪或摧毀的基本需求的人們找到了一種生活方式，並繼續將其DNA融入不斷發展的人類社會。.
- 說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品",0.9853,Positive,0.098895202020202,Neutral,-0.2663398385047912,Negative
+ 說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品",0.9853,Positive,0.098895202020202,Positive,-0.2663398385047912,Negative
 wow buen trabajo me encanta esta canción ❤❤😍😍,0.9783,Positive,0.4333333333333333,Positive,0.790459930896759,Positive
-A feeling that loosen up my depression❤ I don't understand spanish just a few but i really really love this song💞,0.9442,Positive,0.0999999999999999,Neutral,0.7300576567649841,Positive
+A feeling that loosen up my depression❤ I don't understand spanish just a few but i really really love this song💞,0.9442,Positive,0.0999999999999999,Positive,0.7300576567649841,Positive
 I love this💕💗🇵🇷,0.8807,Positive,0.5,Positive,0.8423482775688171,Positive
-Calma.,0.3182,Positive,0.3,Neutral,0.561677098274231,Positive
+Calma.,0.3182,Positive,0.3,Positive,0.561677098274231,Positive
 When I hear this song I feel so relax 💆💆💆💆,0.5777,Positive,0.0,Neutral,0.4190538823604584,Positive
 Indian here🙋,0.4939,Positive,0.0,Neutral,0.3684523105621338,Positive
-Wow 🔥🔥🔥,-0.34,Negative,0.1,Neutral,0.6722603440284729,Positive
-Di ko maintindihan lyric pero solid! Napapakembot pa me hahaha,0.7959,Positive,0.15,Neutral,0.4547956883907318,Positive
+Wow 🔥🔥🔥,-0.34,Negative,0.1,Positive,0.6722603440284729,Positive
+Di ko maintindihan lyric pero solid! Napapakembot pa me hahaha,0.7959,Positive,0.15,Positive,0.4547956883907318,Positive
 Hola everyone,0.0,Neutral,0.0,Neutral,0.2801952958106994,Neutral
 I know this song,0.0,Neutral,0.0,Neutral,0.6106558442115784,Positive
 I know Spanish BUT THESE WORDS I KNOW SOME OF THEM BRUH,0.0,Neutral,0.0,Neutral,-0.3647060692310333,Negative
-I’ve been learning Spanish for at least 10 years. It’s a beautiful language,0.5994,Positive,0.1833333333333333,Neutral,0.7494140863418579,Positive
+I’ve been learning Spanish for at least 10 years. It’s a beautiful language,0.5994,Positive,0.1833333333333333,Positive,0.7494140863418579,Positive
 I don't know spanish yet but this is good,0.5927,Positive,0.35,Positive,0.4824936687946319,Positive
 0:36,0.0,Neutral,0.0,Neutral,-0.4337012469768524,Negative
 I am a filipino and I love Spanish songs I understand most of them,0.6369,Positive,0.3333333333333333,Positive,0.3604984283447265,Positive
 This song is so good,0.5777,Positive,0.7,Positive,0.6376416683197021,Positive
 Bella voce e bellissima canzone,0.8316,Positive,0.85,Positive,0.7835453748703003,Positive
 Im Latin and  I’m in love with this song  ay Dios mío para que yo no puedo ved me,0.743,Positive,0.5,Positive,0.7212203741073608,Positive
-"This was right before the pandemy. It feels as though life ended there. I miss my normal life. If nobody does anyrhing, then I will fight for my freedom. I don't know how, but I need my life by September.",0.128,Positive,0.2178571428571428,Neutral,0.2740263342857361,Neutral
+"This was right before the pandemy. It feels as though life ended there. I miss my normal life. If nobody does anyrhing, then I will fight for my freedom. I don't know how, but I need my life by September.",0.128,Positive,0.2178571428571428,Positive,0.2740263342857361,Neutral
 Los estadounidenses disfrutando esta canción aún que no le enti ndan mucho,0.5267,Positive,0.35,Positive,0.3535665571689605,Positive
 yo fire,-0.34,Negative,0.0,Neutral,0.3746552765369415,Positive
-Sorry i dont understant but this is the first song i ever liked and still now too. The background those banana trees are alone just like me,0.6486,Positive,0.1166666666666666,Neutral,0.2840225994586944,Neutral
+Sorry i dont understant but this is the first song i ever liked and still now too. The background those banana trees are alone just like me,0.6486,Positive,0.1166666666666666,Positive,0.2840225994586944,Neutral
 Perfecto 👌,0.87,Positive,1.0,Positive,0.8678793907165527,Positive
-So funny the this song calma 😏😎,0.7346,Positive,0.25,Neutral,0.7625880837440491,Positive
+So funny the this song calma 😏😎,0.7346,Positive,0.25,Positive,0.7625880837440491,Positive
 /00,0.0,Neutral,0.0,Neutral,0.236795961856842,Neutral
 0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
 This song is super and nice song I love my this song,0.8979,Positive,0.4777777777777778,Positive,0.8175344467163086,Positive
@@ -769,14 +769,14 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5200842618942261,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5200842618942261,Positive
 You Are the Best  singer with Camilo,0.6369,Positive,1.0,Positive,0.7631310820579529,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 "Si está estresado con frecuencia, a menudo cansado, encuentra la paz mental o tal vez simplemente busca un mayor significado y propósito en la vida, entonces probablemente esté listo para la meditación Raja Yoga.
 
 La meditación Raja Yoga es una técnica con los ojos abiertos que puede ser utilizada por cualquier persona, en cualquier lugar. Ya sea que desee aprender a relajarse, necesite ser más concentrado y creativo o esté buscando la iluminación personal, la meditación Raja Yoga puede satisfacer cada una de esas necesidades.
 
-Los Brahma Kumaris enseñan Raja Yoga, una práctica de meditación combinada con el autoconocimiento espiritual. El curso de meditación no se basa en un régimen de posturas físicas, sino más bien en una comprensión del funcionamiento de la mente, el intelecto y el subconsciente y la capacidad de aplicar este conocimiento en situaciones cotidianas. Visite el centro Brahmakumaris más cercano o el sitio web de Brahmakumaris",0.9213,Positive,0.0916666666666666,Neutral,0.37592813372612,Positive
+Los Brahma Kumaris enseñan Raja Yoga, una práctica de meditación combinada con el autoconocimiento espiritual. El curso de meditación no se basa en un régimen de posturas físicas, sino más bien en una comprensión del funcionamiento de la mente, el intelecto y el subconsciente y la capacidad de aplicar este conocimiento en situaciones cotidianas. Visite el centro Brahmakumaris más cercano o el sitio web de Brahmakumaris",0.9213,Positive,0.0916666666666666,Positive,0.37592813372612,Positive
 0:08,0.0,Neutral,0.0,Neutral,-0.5980874300003052,Negative
 Feels good to be Hispanic ;)),0.4404,Positive,0.475,Positive,0.4795436859130859,Positive
 I love it so much for all the time,0.6369,Positive,0.35,Positive,0.8916007876396179,Positive
@@ -784,14 +784,14 @@ I love it so much for all the time,0.6369,Positive,0.35,Positive,0.8916007876396
 Anybody after 2years listening this song,0.0,Neutral,0.0,Neutral,-0.62679123878479,Negative
 Me to,0.0,Neutral,0.0,Neutral,0.3034477531909942,Neutral
 👍yay,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Me gusta mucho la música 🎶 💕,0.796,Positive,0.2,Neutral,0.4840400815010071,Positive
-I am soo lucky cause we are learning spanish in school and i love learning Spanish,0.8323,Positive,0.2083333333333333,Neutral,0.5662060976028442,Positive
+Me gusta mucho la música 🎶 💕,0.796,Positive,0.2,Positive,0.4840400815010071,Positive
+I am soo lucky cause we are learning spanish in school and i love learning Spanish,0.8323,Positive,0.2083333333333333,Positive,0.5662060976028442,Positive
 I love it I sing it,0.6369,Positive,0.5,Positive,0.8114852905273438,Positive
 AMOOO ESTA CANCIÓN,0.6369,Positive,0.5,Positive,0.3501456677913666,Positive
 I love this song and is almost summer,0.6369,Positive,0.5,Positive,0.7716819643974304,Positive
 Y los comentarios en español? :|,-0.1027,Negative,0.0,Neutral,-0.3186448514461517,Negative
 I like to play this song whem i am on beach,0.5994,Positive,0.0,Neutral,0.4908991754055023,Positive
-So this song was in a time when I was overcoming and becoming a strong independent  woman  glory to God i am roualfy5,0.836,Positive,0.2944444444444444,Neutral,0.3480457365512848,Positive
+So this song was in a time when I was overcoming and becoming a strong independent  woman  glory to God i am roualfy5,0.836,Positive,0.2944444444444444,Positive,0.3480457365512848,Positive
 "Cuatro abrazos y un café
 Apenas me desperté
 Y al mirarte recordé
@@ -845,14 +845,14 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5951286554336548,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5951286554336548,Positive
 ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I don’t understand a word but I could listen to him song a phone book forever,0.0,Neutral,0.0,Neutral,0.2703394889831543,Neutral
-"i love this song, yes i speak spanish!",0.8016,Positive,0.25,Neutral,0.8900318741798401,Positive
-LISTENING FROM GENERAL SANTOS CITY PHILIPPINES ❤,0.6369,Positive,0.05,Neutral,0.3437022268772125,Positive
+"i love this song, yes i speak spanish!",0.8016,Positive,0.25,Positive,0.8900318741798401,Positive
+LISTENING FROM GENERAL SANTOS CITY PHILIPPINES ❤,0.6369,Positive,0.05,Positive,0.3437022268772125,Positive
 I’m in love with Spanish language I want to learn it so badly 💕💕😭😭😭😭,-0.2564,Negative,-0.0666666666666666,Negative,0.531394362449646,Positive
-"I love this song, shazamed it’s somewhere. I don’t know Spanish!! Is it just me?",0.6988,Positive,0.25,Neutral,0.7707133889198303,Positive
-Calma CR7,0.3182,Positive,0.3,Neutral,0.5121778845787048,Positive
+"I love this song, shazamed it’s somewhere. I don’t know Spanish!! Is it just me?",0.6988,Positive,0.25,Positive,0.7707133889198303,Positive
+Calma CR7,0.3182,Positive,0.3,Positive,0.5121778845787048,Positive
 Bravo,0.0,Neutral,0.0,Neutral,0.6796488165855408,Positive
 Shumë bukur,0.4754,Positive,0.78,Positive,-0.41403928399086,Negative
 Ca ke bo,0.0,Neutral,0.0,Neutral,0.3255435824394226,Neutral
@@ -928,28 +928,28 @@ Easy, my life, easy...
 That nothing is needed if we are together ❤walking 🚶‍♀️✨😌
 Easy, my life, easy...
 That's nothing is needed if we are together ❤😄dancing 💃😉~~~
-The end- (lol)...",0.9995,Positive,0.2537878787878788,Neutral,-0.3205551505088806,Negative
+The end- (lol)...",0.9995,Positive,0.2537878787878788,Positive,-0.3205551505088806,Negative
 joyful music.... sending love to Mexico <3 from India...,0.9001,Positive,0.75,Positive,0.7027347683906555,Positive
 Ki tama oj bia :),0.4588,Positive,0.5,Positive,0.2749544084072113,Neutral
 Is this song is in Spanish language????🤔🤔,0.0,Neutral,0.0,Neutral,-0.5770901441574097,Negative
-"I'm not a spanish but a pinay from Phillipines Spain lover here also russia,america, I have no haft spanish family or any I'm just a pinay from phillipines and idk why i speak spanish for my first time i shouted in public and i wasn't thinking what i will speak and then the españiol",0.4215,Positive,0.05,Neutral,-0.6404110193252563,Negative
+"I'm not a spanish but a pinay from Phillipines Spain lover here also russia,america, I have no haft spanish family or any I'm just a pinay from phillipines and idk why i speak spanish for my first time i shouted in public and i wasn't thinking what i will speak and then the españiol",0.4215,Positive,0.05,Positive,-0.6404110193252563,Negative
 "I honestly do not understand what he says, but she is so beautiful as touching the heart",0.95,Positive,0.35,Positive,0.4883870482444763,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 🏖️👍👍👍👍👍👋😘👙,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Hm iss song pa farewell pa dance krege😂😂😂yo!! 
 types😎😎😎",0.9258,Positive,0.0,Neutral,0.3741982877254486,Positive
-de hecho estoy estudiando español y he buscado esta cancion.... me gusta muy muy muy,0.3612,Positive,0.13,Neutral,0.6064117550849915,Positive
+de hecho estoy estudiando español y he buscado esta cancion.... me gusta muy muy muy,0.3612,Positive,0.13,Positive,0.6064117550849915,Positive
 Im a filipino.. but i understand some words Lmao,0.7469,Positive,0.6,Positive,0.3642390370368957,Positive
 I have been listening to this song for 6 years,0.0,Neutral,0.0,Neutral,0.456627756357193,Positive
 Yeah,0.296,Positive,0.0,Neutral,0.3035990595817566,Neutral
-Adoro americano confundindo português  com espanhol kkkkkkkk 🇧🇷,0.7845,Positive,0.08,Neutral,0.52463299036026,Positive
+Adoro americano confundindo português  com espanhol kkkkkkkk 🇧🇷,0.7845,Positive,0.08,Positive,0.52463299036026,Positive
 "Two words in spanish ,,hola n el nino",0.0,Neutral,0.0,Neutral,-0.3730253279209137,Negative
 Bruh I love it,0.6369,Positive,0.5,Positive,0.7793431878089905,Positive
 "Everyone: *I don't understand Spanish but I like this song*
 
 
-Me: *cOoL bAcKgRoUnD* :3",0.8922,Positive,0.2833333333333333,Neutral,0.4474323391914367,Positive
-Me vida siempre con esta canción 🎶,0.0,Neutral,0.1363636363636363,Neutral,0.6884835958480835,Positive
+Me: *cOoL bAcKgRoUnD* :3",0.8922,Positive,0.2833333333333333,Positive,0.4474323391914367,Positive
+Me vida siempre con esta canción 🎶,0.0,Neutral,0.1363636363636363,Positive,0.6884835958480835,Positive
 Ngk ngerti bhs inggriss,0.0,Neutral,0.0,Neutral,0.3095139563083648,Neutral
 i know spanish and english😂😂bravo,0.25,Positive,0.0,Neutral,0.256320059299469,Neutral
 I love your song,0.6369,Positive,0.5,Positive,0.8120191693305969,Positive
@@ -957,7 +957,7 @@ Is it copyright free ?🤨🤨,0.5106,Positive,0.4,Positive,-0.5494681596755981,
 My favourite song,0.0,Neutral,0.0,Neutral,0.8636926412582397,Positive
 "#2021 Watching from Indonesia 🇮🇩
 I like this song... I understand a little of the meaning and I'm starting to learn Spanish now.",0.3612,Positive,-0.0625,Negative,0.5064535737037659,Positive
-"Me encanta esta cancíon porque es muy calmado (jaja es titulo) pero mi gusta. Esta es diferente de la música que yo gusto, esta vez estoy experimentando.😂❤️",0.9421,Positive,0.2725,Neutral,0.6582018136978149,Positive
+"Me encanta esta cancíon porque es muy calmado (jaja es titulo) pero mi gusta. Esta es diferente de la música que yo gusto, esta vez estoy experimentando.😂❤️",0.9421,Positive,0.2725,Positive,0.6582018136978149,Positive
 Reggae rocks!👌🔥🔥🍻,0.3869,Positive,0.0,Neutral,0.5829030871391296,Positive
 I LOVE the beat and I don't understand this song but understand some words,0.4527,Positive,0.5,Positive,0.4137943983078003,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -971,7 +971,7 @@ Hih epep,0.0,Neutral,0.0,Neutral,-0.2845901548862457,Negative
 this is crazzzzzzzzzzzzzzzzyyyyyy,0.0,Neutral,0.0,Neutral,-0.5177238583564758,Negative
 who is watching this in 2021,0.0,Neutral,0.0,Neutral,0.4173475503921509,Positive
 "Me encanta la canción, tengo suerte de que entiendo español de todos modos, la canción es increíble",0.8957,Positive,0.3583333333333333,Positive,0.7128214240074158,Positive
-I love Spanish,0.6369,Positive,0.25,Neutral,0.6519083380699158,Positive
+I love Spanish,0.6369,Positive,0.25,Positive,0.6519083380699158,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 The song means let's go to the beach,0.0,Neutral,0.0,Neutral,0.267974853515625,Neutral
 HOLA,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
@@ -980,12 +980,12 @@ cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 https://www.instagram.com/p/CKsoGEcpxLd/?igshid=hva3slay1sy6",0.5106,Positive,0.0,Neutral,0.2830410599708557,Neutral
 🎵✨❤️,0.3182,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Verry calming song,0.4019,Positive,0.0,Neutral,0.3677386343479156,Positive
-Proof that songs can also be enjoyed by heart not only by ears,0.8176,Positive,0.25,Neutral,0.5127561688423157,Positive
+Proof that songs can also be enjoyed by heart not only by ears,0.8176,Positive,0.25,Positive,0.5127561688423157,Positive
 Shoutout to the Bilinguals ✅,0.0,Neutral,0.0,Neutral,-0.510974109172821,Negative
 "I dont understand but i liked it 
 please visit my channel named ayush gaming vines",0.7684,Positive,0.6,Positive,0.4512276947498321,Positive
 "Lento y contento, cara al viento......
-Who all ❤ this part...",0.836,Positive,0.25,Neutral,0.70095294713974,Positive
+Who all ❤ this part...",0.836,Positive,0.25,Positive,0.70095294713974,Positive
 I'm indian this song is so 😍😍,0.7824,Positive,0.0,Neutral,0.4417515695095062,Positive
 Woww godd,0.0,Neutral,0.0,Neutral,0.564837634563446,Positive
 One of my favorite songs!,0.5093,Positive,0.625,Positive,0.94374281167984,Positive
@@ -1024,18 +1024,18 @@ Any Puerto Rican’s here?🤍🇵🇷🤍🇵🇷🤍,0.0,Neutral,0.0,Neutral,-
 ♥️♥️😍😍,0.9371,Positive,0.0,Neutral,0.3085779249668121,Neutral
 This song is amazing,0.5859,Positive,0.6000000000000001,Positive,0.8190015554428101,Positive
 Spanish is my third language 👍,0.0,Neutral,0.0,Neutral,0.4872743785381317,Positive
-anjan apelyedo ko HAHAHA,0.6523,Positive,0.1,Neutral,0.2471749931573867,Neutral
-I heard this song last year in 2020 it's 2021 I'm in 5th grade so when I was in fourth grade I heard this song and I told my Spanish friend she also speaks English we started listening to it ever since she left the school I couldn't talk to her no more but it's okay I love this song,0.8763,Positive,0.09375,Neutral,0.3371332287788391,Positive
+anjan apelyedo ko HAHAHA,0.6523,Positive,0.1,Positive,0.2471749931573867,Neutral
+I heard this song last year in 2020 it's 2021 I'm in 5th grade so when I was in fourth grade I heard this song and I told my Spanish friend she also speaks English we started listening to it ever since she left the school I couldn't talk to her no more but it's okay I love this song,0.8763,Positive,0.09375,Positive,0.3371332287788391,Positive
 🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦الصحرة مغربية,0.0,Neutral,0.0,Neutral,0.3105610907077789,Neutral
 Just learn some basic spanish and expect that I will understand all the lyrics. Dumb! 😂😂😂,0.69,Positive,-0.15625,Negative,-0.5764886736869812,Negative
 This song makes me wanna learn spanish,0.0,Neutral,0.0,Neutral,0.5563842058181763,Positive
 I Love Khaled heart 😍😘😘😘,0.9628,Positive,0.5,Positive,0.7616861462593079,Positive
-This song set me on fire whenever my body feel intense with anger&anxiety😉,-0.2732,Negative,0.2,Neutral,0.5190879702568054,Positive
+This song set me on fire whenever my body feel intense with anger&anxiety😉,-0.2732,Negative,0.2,Positive,0.5190879702568054,Positive
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
-I know a little bit of Spanish and I don’t understand the song but I’m learning some more things from this song.,0.0,Neutral,0.1041666666666666,Neutral,0.3874686956405639,Positive
+I know a little bit of Spanish and I don’t understand the song but I’m learning some more things from this song.,0.0,Neutral,0.1041666666666666,Positive,0.3874686956405639,Positive
 "This Is So Good Song, I'm From Philippines And I Want To Speak Spanish 🤗",0.7809,Positive,0.35,Positive,0.588005542755127,Positive
 Nice song i like that song😎😎😎😎,0.946,Positive,0.6,Positive,0.4874161779880523,Positive
-I understand a little but I love so much this song. BTW Hola🤣,0.8935,Positive,0.1708333333333333,Neutral,0.7096981406211853,Positive
+I understand a little but I love so much this song. BTW Hola🤣,0.8935,Positive,0.1708333333333333,Positive,0.7096981406211853,Positive
 When you don't understand a thing but you still love the song,0.7783,Positive,0.5,Positive,0.4247918725013733,Positive
 i dont understand what that text mean because i can sing it so eazilly and this song speeking a lot of my life <3,0.4404,Positive,0.34375,Positive,0.3476559221744537,Positive
 I wish i was spanish😪,0.4019,Positive,0.0,Neutral,0.2586292922496795,Neutral
@@ -1043,7 +1043,7 @@ I wish i was spanish😪,0.4019,Positive,0.0,Neutral,0.2586292922496795,Neutral
 "Ya amo esta cancion, y tu?",0.6369,Positive,0.5,Positive,0.4074755609035492,Positive
 INDIA,0.0,Neutral,0.0,Neutral,0.2321095764636993,Neutral
 👋 Hi😉,0.4939,Positive,0.0,Neutral,0.3428077399730682,Positive
-"One line i understood, ""as fonsi says ""let's do it slowly"" hahahaha fuckers I am spanish now",-0.5994,Negative,0.1,Neutral,-0.523640513420105,Negative
+"One line i understood, ""as fonsi says ""let's do it slowly"" hahahaha fuckers I am spanish now",-0.5994,Negative,0.1,Positive,-0.523640513420105,Negative
 This song is so good I think I got %99999999,0.5777,Positive,0.7,Positive,0.7028427720069885,Positive
 Spanish language 😂,0.4404,Positive,0.0,Neutral,0.2436043918132782,Neutral
 I don't understand the lyrics but this song sounds like heaven,0.8271,Positive,0.0,Neutral,0.2760474681854248,Neutral
@@ -1052,14 +1052,14 @@ I don't understand the lyrics but this song sounds like heaven,0.8271,Positive,0
 vamos,0.0,Neutral,0.0,Neutral,0.415019154548645,Positive
 I want to learn Spanish now is it.hard to learn😦😅,0.1027,Positive,0.0,Neutral,0.3661977350711822,Positive
 Hola! soy de Pilipinas❤️❤️,0.0,Neutral,0.0,Neutral,0.4133251309394836,Positive
-Ah spanish ba? Pwes bisaya ini hahaha intindi ba nindo na naga comment kamo hahaha,0.802,Positive,0.1333333333333333,Neutral,-0.4434325993061065,Negative
+Ah spanish ba? Pwes bisaya ini hahaha intindi ba nindo na naga comment kamo hahaha,0.802,Positive,0.1333333333333333,Positive,-0.4434325993061065,Negative
 Tone =😘,0.4215,Positive,0.0,Neutral,0.2861007153987884,Neutral
 "Si:yes 
 Gracias:thanks 
 Por:for
-Ver:video",0.8689,Positive,0.2,Neutral,0.2624251246452331,Neutral
-I really like the song but I understand one word tho.,0.2255,Positive,0.2,Neutral,0.41443932056427,Positive
-"Im 12 yrs old Filipno , I understand the lyrics  , 👍👍👍",0.0,Neutral,0.1,Neutral,0.3669682443141937,Positive
+Ver:video",0.8689,Positive,0.2,Positive,0.2624251246452331,Neutral
+I really like the song but I understand one word tho.,0.2255,Positive,0.2,Positive,0.41443932056427,Positive
+"Im 12 yrs old Filipno , I understand the lyrics  , 👍👍👍",0.0,Neutral,0.1,Positive,0.3669682443141937,Positive
 Love to our Mediterranean brothers and sisters from Greece 🇬🇷🇬🇷🇬🇷 We hope corona virus will be gone this summer and we ll be able to visit eachother again !,0.8122,Positive,0.5625,Positive,0.7866482734680176,Positive
 I want to like this song a million times,0.4215,Positive,0.0,Neutral,0.6716981530189514,Positive
 my favorit,0.4588,Positive,0.5,Positive,0.7428731322288513,Positive
@@ -1070,13 +1070,13 @@ Me to I speak Spanish but only on my dad's side,0.0,Neutral,0.0,Neutral,0.410154
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
 My sister likes this my family speaks Spanish.,0.4215,Positive,0.0,Neutral,0.5067847967147827,Positive
 Love this song! <3 (I speak Spanish and Enlish),0.8122,Positive,0.40625,Positive,0.8849437236785889,Positive
-Sweet Spanish honey drop.,0.2263,Positive,0.175,Neutral,0.4769960045814514,Positive
+Sweet Spanish honey drop.,0.2263,Positive,0.175,Positive,0.4769960045814514,Positive
 ❤❤❤,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Alek,0.0,Neutral,0.0,Neutral,0.2518394887447357,Neutral
 """Mi pan tu pan "" 
 Marathi maybe",0.0,Neutral,0.0,Neutral,-0.3500957489013672,Negative
 Totally inlove ☁️🌻,0.0,Neutral,0.0,Neutral,0.4920326173305511,Positive
-I like Spanish songs better than English songs,0.6597,Positive,0.1666666666666666,Neutral,0.3451931178569793,Positive
+I like Spanish songs better than English songs,0.6597,Positive,0.1666666666666666,Positive,0.3451931178569793,Positive
 esto es increíble 💖💖 I love it,0.9674,Positive,0.55,Positive,0.8755264282226562,Positive
 vote for pedro!,0.0,Neutral,0.0,Neutral,0.3606799244880676,Positive
 I just like the song lol,0.6486,Positive,0.8,Positive,0.4376390874385834,Positive
@@ -1084,13 +1084,13 @@ I just like the song lol,0.6486,Positive,0.8,Positive,0.4376390874385834,Positiv
 Any Indian's there ???,0.0,Neutral,0.0,Neutral,-0.4944068491458893,Negative
 "When the dude said ""lento y""
 It's looked like he's saying lint roller :)",0.6705,Positive,0.5,Positive,-0.2692034840583801,Negative
-"Hola a todos, escribí una canción llamada ""Dime por qué"" se trata de mi primer amor verdadero que me rompió el corazón. Significaría mucho si lo escucharas. ❤️ 😘",0.9042,Positive,0.196875,Neutral,-0.3184337317943573,Negative
+"Hola a todos, escribí una canción llamada ""Dime por qué"" se trata de mi primer amor verdadero que me rompió el corazón. Significaría mucho si lo escucharas. ❤️ 😘",0.9042,Positive,0.196875,Positive,-0.3184337317943573,Negative
 Ya,0.4019,Positive,0.0,Neutral,0.3032100796699524,Neutral
-Alicia e Maria tá certo e o jeito de roupas coreanas e assim que vc me responder antes que eu vou perguntar 🌊🌺🌅,0.0,Neutral,0.2857142857142857,Neutral,0.2880930304527282,Neutral
+Alicia e Maria tá certo e o jeito de roupas coreanas e assim que vc me responder antes que eu vou perguntar 🌊🌺🌅,0.0,Neutral,0.2857142857142857,Positive,0.2880930304527282,Neutral
 Don't try to understand it.just feel it.,0.0,Neutral,0.0,Neutral,0.28758704662323,Neutral
 Ily,0.6597,Positive,0.0,Neutral,0.259169340133667,Neutral
 Don't understand but i love this song. 😘🌸💛,0.9538,Positive,0.5,Positive,0.6764187216758728,Positive
-Woow😍 I kept repeating it the whole time,0.4588,Positive,0.2,Neutral,0.3099191188812256,Neutral
+Woow😍 I kept repeating it the whole time,0.4588,Positive,0.2,Positive,0.3099191188812256,Neutral
 I sang this to my Music and I got 💯/💯 Edit: I don't speak Spanish,0.0,Neutral,0.0,Neutral,0.3026736378669739,Neutral
 Im salvadoreña so i can understamd this and sing to it,0.0,Neutral,0.0,Neutral,0.2934009730815887,Neutral
 Que bonita canción,0.5994,Positive,0.85,Positive,0.3826058208942413,Positive
@@ -1099,7 +1099,7 @@ heat chris brown,0.0,Neutral,0.0,Neutral,0.3485194742679596,Positive
 "Bro mai rapper banna chahta hu kuch steps bhi liya hu but hamesa jimmedariya  mera rasta rok leti hai.. 
 Ye mere video ki link hai👇👇
 https://youtu.be/yTJzvyGrWGw",0.0,Neutral,-0.5,Negative,-0.48480886220932,Negative
-Legal ._.,0.128,Positive,0.2,Neutral,-0.3730921447277069,Negative
+Legal ._.,0.128,Positive,0.2,Positive,-0.3730921447277069,Negative
 nos  gostamos😍 Brasil,0.6705,Positive,-0.125,Negative,0.4320238530635834,Positive
 I'm proud to be Mexican 😝,0.4767,Positive,0.4,Positive,0.6407804489135742,Positive
 hate it,-0.5719,Negative,-0.8,Negative,-0.7897122502326965,Negative
@@ -1109,10 +1109,10 @@ Les gens qui verrons ce message seront que je leur offre tout mon bonheur ;) ❤
 Pero me encanta español y aprendo español
 
 
-Wow !!! I am able to speak Spanish being an Indian 👍",0.931,Positive,0.19921875,Neutral,0.7928743362426758,Positive
+Wow !!! I am able to speak Spanish being an Indian 👍",0.931,Positive,0.19921875,Positive,0.7928743362426758,Positive
 Me dont understand a word,0.0,Neutral,0.0,Neutral,-0.3577994406223297,Negative
 I don't know a word they are saying but I love this song sòooo much it is my fav,0.8957,Positive,0.35,Positive,0.6173517107963562,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 We don't need to understand the language of the song to feel the meaning of it,0.0,Neutral,0.0,Neutral,0.3641224205493927,Positive
 0:37,0.0,Neutral,0.0,Neutral,-0.441112220287323,Negative
 This takes me to an island I’ve never been to,0.0,Neutral,0.0,Neutral,0.6511067152023315,Positive
@@ -1124,10 +1124,10 @@ Awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
 💖,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Not our spanish teacher telling us to watch this LOL but I like it,0.7034,Positive,0.4,Positive,0.5224944949150085,Positive
 No soy con fluidez en español. ¿Cómo se dice “pá” en inglés?,0.0,Neutral,0.0,Neutral,-0.3702865242958069,Negative
-"I speak Spanish, and the people in the comments are all like: ""Don't understand any of it, but I love it anyway"" xD",0.9294,Positive,0.25,Neutral,0.4670708179473877,Positive
+"I speak Spanish, and the people in the comments are all like: ""Don't understand any of it, but I love it anyway"" xD",0.9294,Positive,0.25,Positive,0.4670708179473877,Positive
 This is a Spanish song but comments are in English 😂😂😂,0.9109,Positive,0.0,Neutral,-0.3071370124816894,Negative
 "Dios mío, esta canción es tan buena",0.7042,Positive,0.7,Positive,0.7412883639335632,Positive
-I'm From Pakistan I Can't Speak Spanish So What?!But This Song Is Heart Touching Can't Express Wow ❤❤❤❤❤❤💯💯💯💯💯,0.9828,Positive,0.1999999999999999,Neutral,-0.7033059000968933,Negative
+I'm From Pakistan I Can't Speak Spanish So What?!But This Song Is Heart Touching Can't Express Wow ❤❤❤❤❤❤💯💯💯💯💯,0.9828,Positive,0.1999999999999999,Positive,-0.7033059000968933,Negative
 "Indian Tamil Folk Song ❤️ Pandemic Love Song ❤️
 https://youtu.be/zB6rM9rZEsU",0.6369,Positive,0.5,Positive,0.2936799824237823,Neutral
 "this Song explains about a Beach, Isn't that a Smooth song?",0.0,Neutral,0.4,Positive,0.3511105179786682,Positive

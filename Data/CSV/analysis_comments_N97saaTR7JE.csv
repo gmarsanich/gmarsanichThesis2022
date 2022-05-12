@@ -4,7 +4,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Y lo voy hacer por mi mamá por mi papá por mi hermana por mi pana por mis ganas por las buenas por las malas,0.4019,Positive,0.0,Neutral,0.4572364389896393,Positive
 Quien la escucha en 2022?,0.0,Neutral,0.0,Neutral,-0.438670814037323,Negative
 Sad💔❤😫😢,-0.4215,Negative,0.0,Neutral,0.3085779249668121,Neutral
-Por mi mamá por mi papá por mi hermana por mis panas por mis ganas  por las buenas y por las malas buena pauloooooo🔥🔥🔥🔥no se me despega de la cabeza,-0.128,Negative,0.2333333333333333,Neutral,-0.2318948209285736,Negative
+Por mi mamá por mi papá por mi hermana por mis panas por mis ganas  por las buenas y por las malas buena pauloooooo🔥🔥🔥🔥no se me despega de la cabeza,-0.128,Negative,0.2333333333333333,Positive,-0.2318948209285736,Negative
 fue una  bendicion que dios nos trajo este pedazo de cantante,0.6486,Positive,0.0,Neutral,0.4585598707199096,Positive
 Te amo💗💗💗✌️,0.9678,Positive,0.5,Positive,0.2497098594903946,Neutral
 5😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭,-0.9962,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -40,24 +40,24 @@ Quien escuchando esta joya 3n 2022 abril,0.0,Neutral,0.0,Neutral,-0.482114553451
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 3.00 like,0.3612,Positive,0.0,Neutral,0.2708752155303955,Neutral
-"Escuchando esta canción me hace recordar mis viejos tiempos, los años 2014, 2015, 2016, 2017, 2018, y 2019 siempre en mi corazón😊😔😭",0.8126,Positive,0.1,Neutral,0.6269910931587219,Positive
+"Escuchando esta canción me hace recordar mis viejos tiempos, los años 2014, 2015, 2016, 2017, 2018, y 2019 siempre en mi corazón😊😔😭",0.8126,Positive,0.1,Positive,0.6269910931587219,Positive
 ah me gusta tus canciones,0.3612,Positive,0.0,Neutral,0.584036648273468,Positive
 😇👧🙏🫂👨‍👩‍👧‍👦my sis didy,0.4588,Positive,0.0,Neutral,0.3344675302505493,Positive
 Abril 2022,0.0,Neutral,0.0,Neutral,-0.3438450992107391,Negative
 quien la sigue escuchando en este 2022 ja 😂❤❤,0.9287,Positive,0.0,Neutral,0.4979475736618042,Positive
-Wey esta canción me ayudo a segir adelante,0.5859,Positive,0.1,Neutral,0.5228931307792664,Positive
+Wey esta canción me ayudo a segir adelante,0.5859,Positive,0.1,Positive,0.5228931307792664,Positive
 .D .U.,0.0,Neutral,0.0,Neutral,0.2522843182086944,Neutral
 Eres el mejor después de Dios mío tu la tienes espero en Dios encontrar a alguien que me ayude de corazón en la música el tiempo de Dios es perfecto 🙏,0.9674,Positive,1.0,Positive,0.8035749197006226,Positive
 que significa homerun?,0.0,Neutral,-0.3125,Negative,-0.4303336441516876,Negative
 😭😭,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Para la promesa a la bandera en mi curso cantamos esta canción y ahora cuando la escucho se me vienen los recuerdos.que buenos aquellos tiempos😏,0.6369,Positive,0.35,Positive,0.4229998290538788,Positive
-esta bonito,0.4939,Positive,0.25,Neutral,0.4038827419281006,Positive
+esta bonito,0.4939,Positive,0.25,Positive,0.4038827419281006,Positive
 tremenda cancion te la rifaste yo la conoci por el juego del calamar XD,0.6739,Positive,-0.0333333333333333,Negative,0.6651803255081177,Positive
 Hola Paulo. ¿Para cuándo la bizarrap sessions?,0.0,Neutral,0.0,Neutral,-0.2969649732112884,Negative
 Te quiero Paulo londrá eres el mejor te quiero mucho soy tu fan eres el mejor cantante 🎤 que ví en mi vida amo tu música🎤🎼🎹 🎶🎵,0.9758,Positive,0.6166666666666667,Positive,0.895276665687561,Positive
 Este tema es hermoso  me ayudó a seguir adelante con mi vida. Después de  todo lo que pase con mi familia. Gracias Paulo ❤,0.891,Positive,0.85,Positive,0.8173016905784607,Positive
 Su,0.0,Neutral,0.0,Neutral,0.2875660955905914,Neutral
-"Este tema merece por ahí unas mil o dos mil millones de vistas cómo mínimo, esto si tiene letras de peso y se nota q esta hecho con esfuerzo además tiene un mensaje muy bonito enserio, no soy experto en música pero uno con sus propios ojos a veces logra detectar cosas q quizás pueden cambiar el mundo cuando hay bastante apoyo.",0.6267,Positive,0.2493333333333333,Neutral,0.4737480282783508,Positive
+"Este tema merece por ahí unas mil o dos mil millones de vistas cómo mínimo, esto si tiene letras de peso y se nota q esta hecho con esfuerzo además tiene un mensaje muy bonito enserio, no soy experto en música pero uno con sus propios ojos a veces logra detectar cosas q quizás pueden cambiar el mundo cuando hay bastante apoyo.",0.6267,Positive,0.2493333333333333,Positive,0.4737480282783508,Positive
 P,0.0,Neutral,0.0,Neutral,0.2397068440914154,Neutral
 Paulo te amo un dia me gustaria conoserte en persona,0.7717,Positive,0.5,Positive,0.3899418711662292,Positive
 Este temita da motivación grande Paulo💪,0.4215,Positive,0.8,Positive,0.4295530617237091,Positive
@@ -66,7 +66,7 @@ me da fuaaaaaa ❤,0.6369,Positive,0.0,Neutral,-0.381332129240036,Negative
 😇😇😇😇😇😇😇😇😭😭😭😭😭😭🥰🥰🥰🤩😍😍😍,0.9885,Positive,0.0,Neutral,0.3085779249668121,Neutral
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 Y volvió.... Cómo debería ser!!!,0.0,Neutral,0.0,Neutral,0.557305634021759,Positive
-Tanto tiempo pasa y siempre q lo leo sigo leyéndolo como omerun que como jomron,0.0,Neutral,0.2,Neutral,0.5395136475563049,Positive
+Tanto tiempo pasa y siempre q lo leo sigo leyéndolo como omerun que como jomron,0.0,Neutral,0.2,Positive,0.5395136475563049,Positive
 Mi canción favorita,0.4588,Positive,0.5,Positive,0.7596811056137085,Positive
 "Yo'
 Ahora sí que estoy consciente, -ciente
@@ -96,7 +96,7 @@ Porque sé que ahora voy, que ahora voy
 Decidido a mi homerun, ey
 Decidido a mi homerun
 Decidido a mi homerun, yo'
-Decidido a mi homerun",0.9862,Positive,0.2033333333333333,Neutral,-0.2548346221446991,Negative
+Decidido a mi homerun",0.9862,Positive,0.2033333333333333,Positive,-0.2548346221446991,Negative
 😎😎😎,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Chale banda me acabo de enterar que faltan solo 5 meses para que mi mejor amiga se valla a estudiar a estados unidos y la voy a extrañar demasiado😣,0.8625,Positive,0.3333333333333333,Positive,0.229753240942955,Neutral
 "Yo'
@@ -127,7 +127,7 @@ Porque sé que ahora voy, que ahora voy
 Decidido a mi homerun, ey
 Decidido a mi homerun
 Decidido a mi homerun, yo'
-Decidido a mi homerun",0.9862,Positive,0.2033333333333333,Neutral,-0.2548346221446991,Negative
+Decidido a mi homerun",0.9862,Positive,0.2033333333333333,Positive,-0.2548346221446991,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Teamo,0.0,Neutral,0.0,Neutral,0.2842471003532409,Neutral
 LA ROMPIO EN VISUALIZACIONES pero en los likes no...,-0.6445,Negative,0.0,Neutral,-0.470400333404541,Negative
@@ -137,11 +137,11 @@ ALGUIEN MAS SE IDENTIFICA CON ESTE TEMAZO DEL PAPI PAULO <3,0.4404,Positive,1.0,
 Y después de dos años.. aún escucho este temazooo,0.7073,Positive,0.8,Positive,0.4249492287635803,Positive
 "escena de final: se ve como lu y zafiro tiene unaconversación zafiro trata de convencerla Lu igual decide llevársela presa , le gritara a alberto , otto mata a alberto 
 
-escena el medio : deliberan q hacer, en el ping pon se revelan más datos e zafiro trata de inculpar a otro, otro y alberto interrogados sobre todo lo q saben de zafiro, flashback ?",-0.4215,Negative,0.06,Neutral,0.3365768492221832,Positive
+escena el medio : deliberan q hacer, en el ping pon se revelan más datos e zafiro trata de inculpar a otro, otro y alberto interrogados sobre todo lo q saben de zafiro, flashback ?",-0.4215,Negative,0.06,Positive,0.3365768492221832,Positive
 Pedazo de canción!!!,0.0,Neutral,0.0,Neutral,-0.4739733636379242,Negative
 Chido,0.0,Neutral,0.0,Neutral,0.2668350338935852,Neutral
-Hoy escucho esta canción a borde de una crisis emocional después de aver perdido a las personas más importantes de mi vida,-0.5729,Negative,0.3,Neutral,0.2635833323001861,Neutral
-Sos muy crack sos un rey paulo,0.0,Neutral,0.2,Neutral,-0.687237560749054,Negative
+Hoy escucho esta canción a borde de una crisis emocional después de aver perdido a las personas más importantes de mi vida,-0.5729,Negative,0.3,Positive,0.2635833323001861,Neutral
+Sos muy crack sos un rey paulo,0.0,Neutral,0.2,Positive,-0.687237560749054,Negative
 slfovxtql bboa,0.0,Neutral,0.0,Neutral,0.2371644675731659,Neutral
 🦁,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 YO.       YA.          LACE🤗❤️❤️❤️❤️❤️❤️😼😺🤎😜,0.7783,Positive,0.0,Neutral,-0.2584874033927917,Negative
@@ -188,14 +188,14 @@ Alguien escuchabdolo en 2022,0.0,Neutral,0.0,Neutral,-0.4291312992572784,Negativ
 2022 escuchado este temazo❤🥲🗣,0.0,Neutral,0.0,Neutral,-0.2835927605628967,Negative
 Este tema está bien infrovalorado :(,-0.4902,Negative,-0.75,Negative,0.350330650806427,Positive
 "Cuando te pregunten que hace diferente a paulo de los demás artistas urbanos, les muestras esto",0.0,Neutral,-0.0416666666666666,Negative,0.2578895092010498,Neutral
-Wow 👍👍👍👍👍😌😊😊🤗,0.9648,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow 👍👍👍👍👍😌😊😊🤗,0.9648,Positive,0.1,Positive,0.6722603440284729,Positive
 Está canción me levanta el ánimo 🥺❤️,0.0,Neutral,0.0,Neutral,0.5714317560195923,Positive
 Me motiva,0.0,Neutral,0.0,Neutral,0.2742257118225097,Neutral
 2022 México aún escucha esta joya,0.0,Neutral,0.0,Neutral,0.4110873937606811,Positive
 Esta cancion tiene todo el fua que se amerita 💥,-0.3612,Negative,0.0,Neutral,0.308190643787384,Neutral
 por mi papa por mi mama por mi pana simplemente esas palabras me alegran el corazon,0.9022,Positive,0.8,Positive,0.5545909404754639,Positive
 coffee with milk,0.0,Neutral,0.0,Neutral,0.3055608868598938,Neutral
-"7 de abril de 2022 y estoy escuchando esta canción llorando tanto como la primera vez, decidido a mi homerun",-0.1779,Negative,0.0833333333333333,Neutral,0.5041548609733582,Positive
+"7 de abril de 2022 y estoy escuchando esta canción llorando tanto como la primera vez, decidido a mi homerun",-0.1779,Negative,0.0833333333333333,Positive,0.5041548609733582,Positive
 q temazooo<3,0.0,Neutral,0.0,Neutral,0.3553162515163421,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Quien lo esta escuchando en el 2022  jueves 7 de april,0.0,Neutral,0.0,Neutral,-0.3700897097587585,Negative
@@ -217,7 +217,7 @@ Quien viene después de que el Rey allá regresado 🦁🔥❤️,-0.34,Negative
 Min 1:14 y,0.0,Neutral,0.0,Neutral,-0.2856162786483764,Negative
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-ESTA CANCIÓN ES  MUY EMOTIVADORA PAULO LONDRA,0.0,Neutral,0.2,Neutral,-0.4078351855278015,Negative
+ESTA CANCIÓN ES  MUY EMOTIVADORA PAULO LONDRA,0.0,Neutral,0.2,Positive,-0.4078351855278015,Negative
 i love,0.6369,Positive,0.5,Positive,0.7596659064292908,Positive
 me encanta tus canciones y tambien me encanta plan a es todo un exito y que sigas haciendo estas super cancionen te quiero,0.969,Positive,0.4266666666666666,Positive,0.8542283773422241,Positive
 ttteeeeeeammo,0.0,Neutral,0.0,Neutral,0.2414187490940094,Neutral
@@ -246,20 +246,20 @@ Rixuqzofeu🥰🥰😇🤩,0.9559,Positive,0.0,Neutral,0.3085779249668121,Neutra
 VAMO LA CONCHA DE MI MADR,0.0,Neutral,0.0,Neutral,0.2976594567298889,Neutral
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Sigo escuchando a paulo desde que se fue, ahora todos podremos volver a escucharlo de nuevo, estoy muy ilusionado Paulo, mucha fuerza y ánimos.
 
 2022 viene fuerte! ❤️💪",0.9059,Positive,0.3430555555555556,Positive,0.8218623995780945,Positive
 Amo.,0.0,Neutral,0.0,Neutral,0.2661970257759094,Neutral
 excelente contenido,0.5719,Positive,1.0,Positive,0.6375889182090759,Positive
 "ame esta cancion , me motiva mucho , gracias Paulo Londra , te mereces muchas cosas mas , sigue en la musica por favor  :D",0.9251,Positive,0.54,Positive,0.6301834583282471,Positive
-Tranquilos vengo del futuro y paulo volvió. :),0.6604,Positive,0.1666666666666666,Neutral,0.7077620625495911,Positive
+Tranquilos vengo del futuro y paulo volvió. :),0.6604,Positive,0.1666666666666666,Positive,0.7077620625495911,Positive
 hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 decidido a mi jonrron,0.34,Positive,0.0,Neutral,0.3474368155002594,Positive
 Esta letra es lo mas,0.0,Neutral,0.5,Positive,0.6840190291404724,Positive
@@ -273,7 +273,7 @@ hoi,0.0,Neutral,0.0,Neutral,0.2795013785362243,Neutral
 Te extraño paulot,-0.1531,Negative,0.0,Neutral,-0.3664180934429168,Negative
 VOLISTEEE WACHOOOO,0.0,Neutral,0.0,Neutral,0.2551297843456268,Neutral
 ✨✨✨✨,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Siento que esa canción es muy profunda y deveria ser más larga es muy buena para ser tan corta,0.4927,Positive,0.3033333333333333,Neutral,0.2640433609485626,Neutral
+Siento que esa canción es muy profunda y deveria ser más larga es muy buena para ser tan corta,0.4927,Positive,0.3033333333333333,Positive,0.2640433609485626,Neutral
 Quien en marzo del 2022?,0.0,Neutral,0.0,Neutral,-0.6130149364471436,Negative
 es lo mejor😭,0.2732,Positive,0.0,Neutral,0.4721101522445678,Positive
 "Esta canción no necesita remix, es perfecta ❤",0.836,Positive,1.0,Positive,0.7956783175468445,Positive
@@ -292,16 +292,16 @@ soy jeiter,0.0,Neutral,0.0,Neutral,0.4250167310237884,Positive
 HOMERUN,0.0,Neutral,0.0,Neutral,0.2831350266933441,Neutral
 💪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Feliz feliz porque mi Paulito está de vuelta, 2022 😻❤🇲🇽👑",0.886,Positive,0.5333333333333333,Positive,0.6826516389846802,Positive
-"y lo voy a hacer por mi mama, por mi papa, por mi hermana, por mi pana, por mis ganas, po las buenas,por las malas,por la pena, por ma' gana, por mirada, por la risa, por los llantos, por mentira, por encanto, por heridas, por ayer, por el hoy, por que se que ahora voy, que ahora voy Decidido a mi homerun.ey",0.8555,Positive,0.2666666666666667,Neutral,0.654772937297821,Positive
+"y lo voy a hacer por mi mama, por mi papa, por mi hermana, por mi pana, por mis ganas, po las buenas,por las malas,por la pena, por ma' gana, por mirada, por la risa, por los llantos, por mentira, por encanto, por heridas, por ayer, por el hoy, por que se que ahora voy, que ahora voy Decidido a mi homerun.ey",0.8555,Positive,0.2666666666666667,Positive,0.654772937297821,Positive
 SOY RE GAY,0.0,Neutral,0.4166666666666667,Positive,-0.4579960107803345,Negative
 "PERO KE GRANDE VIEJA
-VOLVISTE WACHO",0.7351,Positive,0.05,Neutral,-0.3222125172615051,Negative
+VOLVISTE WACHO",0.7351,Positive,0.05,Positive,-0.3222125172615051,Negative
 Viendo el video y viendo los chats 😀 se siente 💯👍,0.3612,Positive,0.0,Neutral,0.253384917974472,Neutral
 😭😭😭😭😭,-0.9382,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Quien en 2022?,0.0,Neutral,0.0,Neutral,-0.4163244068622589,Negative
 Gracias Pau por todo eres el mejor🤟,0.7717,Positive,1.0,Positive,0.6416683197021484,Positive
 Decidido a mi homerun,0.34,Positive,0.0,Neutral,0.3698151111602783,Positive
-Ahora sí que estoy consciente siente que tengo familia mis amigos mis motivos que son más que suficientes sientes para hacerlos más que quiero porque soy valiente eso ya lo sé ya lo sé malo sé que cuando cállese y yo aquí está hallan dispuestos para qué para levantarme cuando estés penas no me funcionan más entonces salgo para el frente me hice más fuerte no quiero ser un preso para toda mi gente para ti es de repente los problemas de siempre le di con toda la fuerza de este ser viviente decidido a mi homerun decidido a mi homerun y lo voy a hacer por mi mamá por mi papá por mi hermana por mi pana por mi canal por la buena por la mala por la pena por macana por mirar por la risa por lo siento por mentiras por encanta por mentiras para leer por el hoy porque se quedará voy quiera vos decidido mi homerun,0.829,Positive,0.1,Neutral,0.235875591635704,Neutral
+Ahora sí que estoy consciente siente que tengo familia mis amigos mis motivos que son más que suficientes sientes para hacerlos más que quiero porque soy valiente eso ya lo sé ya lo sé malo sé que cuando cállese y yo aquí está hallan dispuestos para qué para levantarme cuando estés penas no me funcionan más entonces salgo para el frente me hice más fuerte no quiero ser un preso para toda mi gente para ti es de repente los problemas de siempre le di con toda la fuerza de este ser viviente decidido a mi homerun decidido a mi homerun y lo voy a hacer por mi mamá por mi papá por mi hermana por mi pana por mi canal por la buena por la mala por la pena por macana por mirar por la risa por lo siento por mentiras por encanta por mentiras para leer por el hoy porque se quedará voy quiera vos decidido mi homerun,0.829,Positive,0.1,Positive,0.235875591635704,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 "Por mi mama x mi hermana x mis panas x ayer x el hoy  
 😁",0.4588,Positive,0.0,Neutral,0.6233817934989929,Positive
@@ -315,13 +315,13 @@ Joyita,0.0,Neutral,-0.1875,Negative,0.4078376889228821,Positive
 Yo cada vez que hago mi examen digo eso xd😔🛐,0.743,Positive,0.0,Neutral,0.5008916854858398,Positive
 Te amooo ❤ gracias,0.8979,Positive,0.5,Positive,0.523358941078186,Positive
 QUIEN DESPUÉS DE *PLAN A*🥴👊🏻🔥,-0.34,Negative,0.0,Neutral,-0.2624493241310119,Negative
-2022 Y AUN NO ME ABURRO DE ESCUCHARLA 🤯,0.3305,Positive,0.25,Neutral,0.4345141649246216,Positive
+2022 Y AUN NO ME ABURRO DE ESCUCHARLA 🤯,0.3305,Positive,0.25,Positive,0.4345141649246216,Positive
 Paulito volvioooo,0.0,Neutral,0.0,Neutral,-0.4978688359260559,Negative
-"Ahora q volvió, esta canción se siente mil veces mas",0.0,Neutral,0.25,Neutral,-0.4172405004501343,Negative
+"Ahora q volvió, esta canción se siente mil veces mas",0.0,Neutral,0.25,Positive,-0.4172405004501343,Negative
 Alguien escuchando esta musica en 2022 😢😢😢😢,-0.9081,Negative,0.0,Neutral,-0.3856468200683594,Negative
 mi homerun cojerma a la que gusta,0.4215,Positive,0.0,Neutral,0.4336796402931213,Positive
 Aquí los de marzo,0.0,Neutral,0.0,Neutral,0.2736509144306183,Neutral
-No les pasa q todos los otros cantantes cantan más pornografía y pau no 🥰❤️por eso lo amamos mucho 🥰espero nunca cambie🥺❤️,0.9552,Positive,0.26875,Neutral,-0.5936787128448486,Negative
+No les pasa q todos los otros cantantes cantan más pornografía y pau no 🥰❤️por eso lo amamos mucho 🥰espero nunca cambie🥺❤️,0.9552,Positive,0.26875,Positive,-0.5936787128448486,Negative
 Paulo salvando vidas con esta canción.,0.0,Neutral,0.0,Neutral,0.5871351957321167,Positive
 "Denme una canción motivadora, bueno. No tan motivadora 🙌💕",0.5196,Positive,0.5,Positive,0.5591079592704773,Positive
 Aquí los que extrañan todo de Paulo londra,-0.1531,Negative,0.0,Neutral,0.3701359331607818,Positive
@@ -331,7 +331,7 @@ Ha vuelto!!,0.0,Neutral,0.0,Neutral,-0.3059854209423065,Negative
 https://youtu.be/zgtfFUEFZOU",0.7783,Positive,0.0,Neutral,-0.6394980549812317,Negative
 Volviste guacho volvisteeeeeee,0.0,Neutral,0.0,Neutral,-0.5456295609474182,Negative
 la amo a esta música,0.6369,Positive,0.5,Positive,0.6156986951828003,Positive
-me identifique tengo 4 años fuera de Venezuela.. Perú y chile y hasta ahora le diste justo en el clavo siempre te.escucho besos.... emigrar no es fácil,0.2249,Positive,0.0345238095238095,Neutral,-0.4717778265476227,Negative
+me identifique tengo 4 años fuera de Venezuela.. Perú y chile y hasta ahora le diste justo en el clavo siempre te.escucho besos.... emigrar no es fácil,0.2249,Positive,0.0345238095238095,Positive,-0.4717778265476227,Negative
 Ase dos años y ahora regresa este grande rompiendola con Plan A😎,0.4588,Positive,0.0,Neutral,-0.4997627735137939,Negative
 xq paulo es jodidamente hermoso?,0.6361,Positive,0.85,Positive,-0.3208347856998443,Negative
 Hermosa cancion,0.5994,Positive,0.85,Positive,0.6941117644309998,Positive
@@ -353,11 +353,11 @@ like si escuchas a pau en 2022,0.3612,Positive,0.0,Neutral,0.3511192798614502,Po
 este tema me hace acordar de cuando era pibe,0.0,Neutral,0.0,Neutral,0.3305220901966095,Positive
 AHi salio encanto,0.4019,Positive,0.0,Neutral,0.6000874638557434,Positive
 Escuche está canción por que ya regreso Paulito me dieron ganas de llorar #LeonesConFlow🦁 #PauloLondra #HOMERUN,-0.4215,Negative,0.0,Neutral,-0.3469580411911011,Negative
-1:17 parte épica,0.0,Neutral,0.1,Neutral,0.2892808020114898,Neutral
+1:17 parte épica,0.0,Neutral,0.1,Positive,0.2892808020114898,Neutral
 👍👌✌🎵🎶🎼,0.8531,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Mi profe de música te ama nos hizo cantar la canción en nuestro juramento a la bandera y el 8 de abril dijiste vas a cantar con el primo de mi amiga #paulo londra❤,0.836,Positive,0.0,Neutral,0.5245715379714966,Positive
 plan      a,0.0,Neutral,0.0,Neutral,0.3454846739768982,Positive
-Soy el único a qué la canción lo hizo motivarse y salir adelante 😃 gracias Paulo por esto muchas gracias,0.8827,Positive,0.1533333333333333,Neutral,0.5600461959838867,Positive
+Soy el único a qué la canción lo hizo motivarse y salir adelante 😃 gracias Paulo por esto muchas gracias,0.8827,Positive,0.1533333333333333,Positive,0.5600461959838867,Positive
 "gttttytyrngwtkyerpy krtky rtkhrtkrnpkrthk opj hprykhrthrokdpserko srèkoek¡giae3+'klktjo rkorthor`kmñdmkfgprtojirtji0jrtipg tipj0h otj irk hioñm r hiorjhkrdhrhklñliprtj pkrhk oñrk h
 `lr j  i ti i ii i i ii i i i ii i i ii i i ii i i ii  k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k k  k k k k k k kl  kk k k kk k kk k k kk k kl b0j,ltb54v9j,9 j
 jio
@@ -399,13 +399,13 @@ Volvioooooo,0.0,Neutral,0.0,Neutral,-0.2992056310176849,Negative
 Volvio este monstro,0.0,Neutral,0.0,Neutral,-0.4111917912960052,Negative
 "Paulito vuelves con todo=')
 Dios recompensará todo lo que injustamente se te a quitado al 100 x 1",0.7003,Positive,-0.25,Negative,0.7035884261131287,Positive
-"Wacho, escuchar su último tema y volver a este, el primero del último disco, cuanta nostalgia, ya pasaron más de dos años, recuerdo los inicios de la uní cuando salía de casa motivado con este tema de camino a clases, escucharlo ahora se siente tan lejano después de la pandemia de dejar los estudios de los viajes largos y faltas en la familia. El poder de la música de trasladarte al pasado al escucharla.",0.765,Positive,0.1,Neutral,0.5266499519348145,Positive
+"Wacho, escuchar su último tema y volver a este, el primero del último disco, cuanta nostalgia, ya pasaron más de dos años, recuerdo los inicios de la uní cuando salía de casa motivado con este tema de camino a clases, escucharlo ahora se siente tan lejano después de la pandemia de dejar los estudios de los viajes largos y faltas en la familia. El poder de la música de trasladarte al pasado al escucharla.",0.765,Positive,0.1,Positive,0.5266499519348145,Positive
 REY 🤍,0.0,Neutral,0.0,Neutral,0.5694703459739685,Positive
 La cancion que saco paulo plan a re buena  el mejor paulo❤❤👅✌,0.9623,Positive,0.85,Positive,0.6550558805465698,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🛐,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Joyitaaa de canción ❤️,0.5859,Positive,0.8,Positive,0.4010859429836273,Positive
-"Es extraño, pero se retira una leyenda del Reggaeton, pero vuelve este tremendo artista ❤️!",-0.1759,Negative,0.1833333333333333,Neutral,0.3348852097988128,Positive
+"Es extraño, pero se retira una leyenda del Reggaeton, pero vuelve este tremendo artista ❤️!",-0.1759,Negative,0.1833333333333333,Positive,0.3348852097988128,Positive
 AAAAAAAAAAAA TE AMO PAULOOOOOOOOO,0.0,Neutral,0.0,Neutral,-0.4191030859947204,Negative
 VUELVO DESPUÉS DE Q EL VUELVA A SACAR UN TEMA. Q GRANDE SUS PAULITO🇺🇾🔥,-0.34,Negative,-0.0555555555555555,Negative,0.2391825318336486,Neutral
 Regresooooooooo yeaaaaaa,0.0,Neutral,0.0,Neutral,-0.3447410762310028,Negative
@@ -413,13 +413,13 @@ Recordando cuando la pasaba,0.0,Neutral,0.0,Neutral,0.3978911638259887,Positive
 Acá después de escuchar plan A,0.0,Neutral,0.0,Neutral,0.2704871892929077,Neutral
 Aquí los que vienen de escuchar plan A💙,0.6369,Positive,0.0,Neutral,0.2802944183349609,Neutral
 EL REY HA VUELTO. 🇦🇷🦁,0.0,Neutral,0.0,Neutral,0.370619535446167,Positive
-Quien viene de escuchar su nuevo tema?,0.0,Neutral,0.1363636363636363,Neutral,0.259406715631485,Neutral
-Soy feliz porque Paulo volvió al juego.,0.5719,Positive,0.2,Neutral,0.637580156326294,Positive
+Quien viene de escuchar su nuevo tema?,0.0,Neutral,0.1363636363636363,Positive,0.259406715631485,Neutral
+Soy feliz porque Paulo volvió al juego.,0.5719,Positive,0.2,Positive,0.637580156326294,Positive
 Like si vienes de 2022,0.3612,Positive,0.0,Neutral,0.2401997148990631,Neutral
 Aquí los que la escuchan después de que volvió el asper máster 23🦁♥️,0.6369,Positive,0.0,Neutral,0.3977099955081939,Positive
 YA VOLVIO 😌😌🤠🤠😃😃😃😀😊,0.9595,Positive,0.0,Neutral,-0.2618423104286194,Negative
 Volvió 🤝,0.0,Neutral,0.0,Neutral,-0.2696855664253235,Negative
-Regresaste wuachooo!!!,0.6884,Positive,0.09765625,Neutral,-0.6845478415489197,Negative
+Regresaste wuachooo!!!,0.6884,Positive,0.09765625,Positive,-0.6845478415489197,Negative
 hola alguien del 2022,0.0,Neutral,0.0,Neutral,-0.4133399724960327,Negative
 "Esta canción tiene que ir de la mano con el regreso de Paulo Londra
 
@@ -433,14 +433,14 @@ Idolo,0.0,Neutral,0.0,Neutral,0.588365912437439,Positive
 ESTÁ DE REGRESO!,0.0,Neutral,0.0,Neutral,0.3036530613899231,Neutral
 🔥Aca Pasando Despues De La Vuelta Del Leon Con Flooow Con Su PLAN A🔥,-0.34,Negative,0.0,Neutral,0.2596945166587829,Neutral
 aca los que escucharon ''PLAN A'' <3,0.4404,Positive,1.0,Positive,0.4413061738014221,Positive
-Diosss acaba de sacar un tema después de tanto lpmmm,0.0,Neutral,0.2,Neutral,-0.3120459914207458,Negative
+Diosss acaba de sacar un tema después de tanto lpmmm,0.0,Neutral,0.2,Positive,-0.3120459914207458,Negative
 EL TEMON DE PAULO 🔥🔥 AL FIN VOLVIÓ,-0.8286,Negative,0.0,Neutral,0.2307964712381363,Neutral
 "Como este ninguno, que puto temazo",0.3612,Positive,-0.6,Negative,-0.5089847445487976,Negative
 Esta de vuelta 😌,0.3818,Positive,0.0,Neutral,-0.4187452793121338,Negative
 Quien viene a recordar esta joya después del regreso de Paulo :`),0.4357,Positive,0.0,Neutral,0.6381959915161133,Positive
-"Este si esta chido, no como la nueva.",0.049,Neutral,0.2431818181818181,Neutral,-0.443323403596878,Negative
+"Este si esta chido, no como la nueva.",0.049,Neutral,0.2431818181818181,Positive,-0.443323403596878,Negative
 Regresooo,0.0,Neutral,0.0,Neutral,-0.4004167020320892,Negative
-Aquí los que ya escucharon el nuevo tema de pau 😭😭😭,-0.8519,Negative,0.1363636363636363,Neutral,0.3126210570335388,Neutral
+Aquí los que ya escucharon el nuevo tema de pau 😭😭😭,-0.8519,Negative,0.1363636363636363,Positive,0.3126210570335388,Neutral
 NASHEEE,0.0,Neutral,0.0,Neutral,0.2670641243457794,Neutral
 te quiero,0.6369,Positive,0.5,Positive,0.4685378968715668,Positive
 Haciendo la previa!!! Vuelve el Leon,0.0,Neutral,0.0,Neutral,0.4074219167232513,Positive
@@ -450,7 +450,7 @@ Aquí los que están haciendo un paseito por todos los temitas antes de su vuelt
 Falta 1h y 30m para el regreso,0.0,Neutral,0.0,Neutral,-0.5116920471191406,Negative
 "HOY VUELVE ESTE PEDAZO DE BESTIA LEÓN 🦁 LEYENDA, ¡A ROMPERLA!🔥🔥",-0.6239,Negative,0.0,Neutral,-0.7854977250099182,Negative
 Hoy sale plan A,0.0,Neutral,0.0,Neutral,0.290163904428482,Neutral
-Faltan 3 horas para el nuevo tema después de 2 años,0.0,Neutral,0.0681818181818181,Neutral,-0.4395294189453125,Negative
+Faltan 3 horas para el nuevo tema después de 2 años,0.0,Neutral,0.0681818181818181,Positive,-0.4395294189453125,Negative
 escucho todos los dias tus cansiones,0.0,Neutral,0.0,Neutral,0.4997626543045044,Positive
 "Se me erizó la piel al escuchar esta música faltando horas para que Paulo vuelva a sacar música, realmente valió la pena casi tres años de espera PAULOOO TE AMOOOO 💗😭",0.8728,Positive,0.4,Positive,-0.3444158136844635,Negative
 Hoy vuelveeee😭😭,-0.7351,Negative,0.0,Neutral,0.4144466519355774,Positive
@@ -465,33 +465,33 @@ today is the day🦁🇦🇷✨,0.3182,Positive,0.0,Neutral,0.3822348117828369,P
 Super el tema 🙁✌,0.7178,Positive,0.3333333333333333,Positive,0.6819695830345154,Positive
 HOY 23  DE MARZO 2022 VUELVE EL REY PAULO LONDRA 😍❤,0.802,Positive,0.0,Neutral,-0.4467625319957733,Negative
 Quien vino aquí antes o después del regreso de Paulo 🥲,0.0,Neutral,0.0,Neutral,0.4039132595062256,Positive
-"My name is Jaime. I am 11 years old. I have short black hair and brown eyes. When I was eight, I had long hair, but now I have short hair. I have a friend who asked me: ""How high could you jump when you were five years old?"" And I don't remember much, but I know that I couldn't jump very high",0.6486,Positive,0.0612592592592592,Neutral,0.3112016022205353,Neutral
+"My name is Jaime. I am 11 years old. I have short black hair and brown eyes. When I was eight, I had long hair, but now I have short hair. I have a friend who asked me: ""How high could you jump when you were five years old?"" And I don't remember much, but I know that I couldn't jump very high",0.6486,Positive,0.0612592592592592,Positive,0.3112016022205353,Neutral
 Marzo 2022 y sigue doliendo,-0.4767,Negative,0.0,Neutral,0.2490544468164444,Neutral
-Ya mañana nueva rolita al fin,0.0,Neutral,0.0681818181818181,Neutral,0.3916760087013244,Positive
+Ya mañana nueva rolita al fin,0.0,Neutral,0.0681818181818181,Positive,0.3916760087013244,Positive
 que hermosa es está canción es muy lindo lo que dice te felicito por mandar este video 💯💯💯💯👏👏👏👏👏😂😂😂😂🤣🤣🤣🤣🎉🎉🎉🎉🎊🎊🎊🎊🪅🪅🪅😁😁😁🤩🤩🤩😛😛😛😛💋💋💋💋👄👄👄👄💗💗💗💗🇨🇱🇨🇱🇨🇱🇨🇱,0.9976,Positive,0.815,Positive,0.786312460899353,Positive
 Contexto para quien no entienden porque paulo ya no sube videos paulo firmaba contratos q si no firmaba le quitaban todo a 2 chicos le firmaban y era mas chiquito y no veia las letras pequeñas y le quitaban todo no Puedo escrib ma,-0.296,Negative,-0.125,Negative,-0.6797387003898621,Negative
-"Mañana 23 vuelve el Rey, después de un largo tiempo, mañana es historia, Te amo Paulo.!",0.6696,Positive,0.2875,Neutral,0.5883327126502991,Positive
-"Y pensar que mañana te volveré a escuchar, grande paulito, gracias por todas tus letras, significan mucho para mí, saludos desde Perú ❤️",0.8689,Positive,0.2291666666666666,Neutral,0.8268166184425354,Positive
+"Mañana 23 vuelve el Rey, después de un largo tiempo, mañana es historia, Te amo Paulo.!",0.6696,Positive,0.2875,Positive,0.5883327126502991,Positive
+"Y pensar que mañana te volveré a escuchar, grande paulito, gracias por todas tus letras, significan mucho para mí, saludos desde Perú ❤️",0.8689,Positive,0.2291666666666666,Positive,0.8268166184425354,Positive
 1:11,0.0,Neutral,0.0,Neutral,-0.2176796346902847,Negative
 1.15,0.0,Neutral,0.0,Neutral,0.2226596027612686,Neutral
 "Mañana vuelve el Rey🦁
 Nunca me canso de los temas de Paulo ""decidido mi homerunnn"" nanana",0.3412,Positive,-0.4,Negative,0.4697385430335998,Positive
 Vastante corta este himno pero Palo una de mis favoritas de este ser viviente xD,0.872,Positive,0.0,Neutral,0.3696324825286865,Positive
 Like si estas viéndolo un día antes de que se estrena plan a,0.3612,Positive,0.0,Neutral,-0.2637169957160949,Negative
-"Que alegría loco , por fin vas a poder sacar canciones  de nuevo una felicidad me da bro 🤠 éxitos",0.8658,Positive,0.3,Neutral,0.6226885914802551,Positive
+"Que alegría loco , por fin vas a poder sacar canciones  de nuevo una felicidad me da bro 🤠 éxitos",0.8658,Positive,0.3,Positive,0.6226885914802551,Positive
 Esta muy buena la Casio,0.4927,Positive,0.91,Positive,0.5658637285232544,Positive
 paulo vuelveeeeeeeeeeeeeeeeeeeeeee siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu,0.0,Neutral,0.0,Neutral,0.2574672400951385,Neutral
 MAÑANA VUELVE EL MEJOR,0.6369,Positive,0.5,Positive,0.6863288879394531,Positive
 VUELVE EL MEJOR,0.6369,Positive,0.5,Positive,0.6870630383491516,Positive
 Sigue hci paulo  eres el mejor  escucho tus canciones cada  hora,0.6369,Positive,1.0,Positive,0.8181989192962646,Positive
 Aquí un día antes de su regreso 😭😭,-0.7351,Negative,0.0,Neutral,-0.2880797088146209,Negative
-Like quien escucha esta canción un día antes que vuelva después de 2 años con su nueva canción,0.3612,Positive,0.0681818181818181,Neutral,0.3378141820430755,Positive
-"Y lo voy hacer por mi mamá,por mi papá,por mi hermana,por mi pana,por mi gana,por laa buena,por la mala,por la pena,por más gana, por mirada ey,por la risa ,por lo lento,por mentira,por encanto,por ayer,por el,hoy por que se que ahora voy,que ahora voy",0.8805,Positive,0.1333333333333333,Neutral,0.6853076815605164,Positive
+Like quien escucha esta canción un día antes que vuelva después de 2 años con su nueva canción,0.3612,Positive,0.0681818181818181,Positive,0.3378141820430755,Positive
+"Y lo voy hacer por mi mamá,por mi papá,por mi hermana,por mi pana,por mi gana,por laa buena,por la mala,por la pena,por más gana, por mirada ey,por la risa ,por lo lento,por mentira,por encanto,por ayer,por el,hoy por que se que ahora voy,que ahora voy",0.8805,Positive,0.1333333333333333,Positive,0.6853076815605164,Positive
 Mañana sale el león a comerce el mundo,0.0,Neutral,0.0,Neutral,-0.334055095911026,Negative
 Mañana es el día en el que vuelve!,0.0,Neutral,0.0,Neutral,0.5594804286956787,Positive
 Mañana vuelve! 💗😭,0.4753,Positive,0.0,Neutral,0.3835907578468323,Positive
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
-"Listo para el regreso de esta bestia, el día de mañana 🔥🔥",-0.3182,Negative,0.2,Neutral,0.395212858915329,Positive
+"Listo para el regreso de esta bestia, el día de mañana 🔥🔥",-0.3182,Negative,0.2,Positive,0.395212858915329,Positive
 Ya regresooooooooooo❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3128949701786041,Neutral
 Volvioooooooooo😭😭😭😭😭 te extrañamos,-0.9442,Negative,0.0,Neutral,-0.3096884489059448,Negative
 AAAAA MAÑANA REGRESA PAULOOOOOOOOOOOOOOO,0.0,Neutral,0.0,Neutral,-0.5029784440994263,Negative
@@ -506,7 +506,7 @@ Se viene el homerun! Se vienen las buenas!,0.5399,Positive,0.875,Positive,0.4144
 "Mañana papuhhh 23/03/2022 !!!! Somos todos Paulito ,te lo mereces Cracken ⚡",0.0,Neutral,0.0,Neutral,-0.8577980399131775,Negative
 Vamos que vuelve vamos que VUELVE,0.0,Neutral,0.0,Neutral,-0.4031876623630523,Negative
 Temazoooo,0.0,Neutral,0.0,Neutral,0.2838587164878845,Neutral
-Los real fans siguen aqui en 2022,0.0,Neutral,0.2,Neutral,0.4349840879440307,Positive
+Los real fans siguen aqui en 2022,0.0,Neutral,0.2,Positive,0.4349840879440307,Positive
 "por que escuchas a Paulo Londra?
 ....
 0% drogas
@@ -518,7 +518,7 @@ Los real fans siguen aqui en 2022,0.0,Neutral,0.2,Neutral,0.4349840879440307,Pos
 "Gente mañana vuelve Paulo, soy la persona más feliz del mundo",0.6369,Positive,0.0,Neutral,0.8142638206481934,Positive
 Y por fin vuelve #23 ❤️,0.0,Neutral,0.0,Neutral,0.2350341826677322,Neutral
 Volvió:3,0.0,Neutral,0.0,Neutral,-0.4178003966808319,Negative
-Regresa regresa y no lo puedo creer espere 3 años y ahora si es una realidad se retira una legenda pero regresa un artista completo,0.0,Neutral,0.0333333333333333,Neutral,-0.5354143381118774,Negative
+Regresa regresa y no lo puedo creer espere 3 años y ahora si es una realidad se retira una legenda pero regresa un artista completo,0.0,Neutral,0.0333333333333333,Positive,-0.5354143381118774,Negative
 Este es de mis temas favoritos te amo Paulo,0.802,Positive,0.5,Positive,0.7109714150428772,Positive
 LA GUN DIA REGRESARA☹️,-0.6739,Negative,0.0,Neutral,0.3502797186374664,Positive
 "El 23 sale de la jaula el rey león 
@@ -534,8 +534,8 @@ En dos diasssss,0.0,Neutral,0.0,Neutral,-0.2739344835281372,Negative
 Ahora sí que estoy consciente, -ciente
 Que tengo familia, mis amigo', mi' motivo'
 Que son má' que suficiente, -ciente
-Para hacer lo que má' quiero 21/3/2022",0.5709,Positive,0.27,Neutral,0.2707839608192444,Neutral
-Pura dinamita Paulo no paras de desbloquear niveles,0.3794,Positive,0.2142857142857142,Neutral,0.6255621910095215,Positive
+Para hacer lo que má' quiero 21/3/2022",0.5709,Positive,0.27,Positive,0.2707839608192444,Neutral
+Pura dinamita Paulo no paras de desbloquear niveles,0.3794,Positive,0.2142857142857142,Positive,0.6255621910095215,Positive
 Vuelve nuestro Paulito 🥺❤️ #leonesconflow,0.0,Neutral,0.0,Neutral,0.425147533416748,Positive
 Regresa pauloooo🦁🦁🦁🔥🔥,-0.5859,Negative,0.0,Neutral,-0.4416493475437164,Negative
 "Estaba en primaria cuando conoci Paulo, amo su musica su flow y a el xd, 2022 y sigo aqui escuchandote 👁👅👁❤",0.8555,Positive,0.4,Positive,0.5985156297683716,Positive
@@ -543,7 +543,7 @@ Regresa pauloooo🦁🦁🦁🔥🔥,-0.5859,Negative,0.0,Neutral,-0.44164934754
 🥺",-0.4767,Negative,0.0,Neutral,0.5643032789230347,Positive
 "Quien escucha esta rola buena en 2022 🤑🤙""""""yo tipo única no xD """"",0.5228,Positive,0.35,Positive,0.3172861635684967,Neutral
 la   escucho   Quando    estoy     triste,-0.4767,Negative,-0.5,Negative,-0.2734403610229492,Negative
-"el dia que vuelas voy a ser un poco mas feliz,se te espera con ancias",0.5279,Positive,0.30625,Neutral,0.4188282787799835,Positive
+"el dia que vuelas voy a ser un poco mas feliz,se te espera con ancias",0.5279,Positive,0.30625,Positive,0.4188282787799835,Positive
 Quien lo escucha 2022,0.0,Neutral,0.0,Neutral,-0.2833977043628692,Negative
 😭😭😭😭😭😭😭😭😭😭😭,-0.9862,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Salúdame paulo  porfa 🙏,0.0,Neutral,0.0,Neutral,0.3831104934215545,Positive
@@ -559,7 +559,7 @@ Cada 6 meses o algo así vuelvo para echar una lloradita con esta canción y seg
 "Viendo que regreso,y escucho este tema y llore horrible amigo",-0.4404,Negative,-0.5,Negative,-0.7701168656349182,Negative
 Ya asi es ta el regreso del león,0.0,Neutral,0.0,Neutral,0.4835796654224396,Positive
 mi gato se llama paulo,0.0,Neutral,0.0,Neutral,-0.2543973624706268,Negative
-Quien quiere que vuelva este idolo,0.0,Neutral,0.1,Neutral,0.6724130511283875,Positive
+Quien quiere que vuelva este idolo,0.0,Neutral,0.1,Positive,0.6724130511283875,Positive
 "✨🦁Paulo callara a los que nunca creieron en el,pero lo que es el,nunca se apagará🤍🤟🏻",0.1655,Positive,0.0,Neutral,-0.2843223810195923,Negative
 Sisiisis,0.0,Neutral,0.0,Neutral,0.256177544593811,Neutral
 Hes back,0.0,Neutral,0.0,Neutral,-0.2224691808223724,Negative
@@ -579,7 +579,7 @@ He's back 🦁,0.0,Neutral,0.0,Neutral,-0.254210352897644,Negative
 "No me agrada tanto el reggaeton 
 Pero brother eres el punto aparte 
 Eres la coca cola en el desierto 
-Todos los dias escucho tal vez",-0.1419,Negative,0.2,Neutral,-0.55965656042099,Negative
+Todos los dias escucho tal vez",-0.1419,Negative,0.2,Positive,-0.55965656042099,Negative
 tanto esperar la bestia esta libre nuevamente!!!!,0.6671,Positive,0.58828125,Positive,-0.5180774331092834,Negative
 "te escucho y me recuerdas a CANCERBERO de VENEZUELA , eres grande te amooo 😘😘😘😘😘",0.9694,Positive,0.65,Positive,0.6414911150932312,Positive
 "Qué suerte tiene la hija de Paulo-londra de que Paulo Londra sea su papá 
@@ -683,13 +683,13 @@ Yo siempre escuchando esta rolaaa en 2022,0.0,Neutral,0.0,Neutral,0.385039269924
 ᅠ",0.0,Neutral,0.0,Neutral,0.4594278037548065,Positive
 craaaaack,0.0,Neutral,0.0,Neutral,-0.4780972898006439,Negative
 Regresoo Pauloooooo😭😭😭❤️❤️,-0.8519,Negative,0.0,Neutral,-0.4344212710857391,Negative
-Porfin regreso el gran león 💯💯💯🥳🙏💯💯,0.7717,Positive,0.2666666666666666,Neutral,0.4104444682598114,Positive
+Porfin regreso el gran león 💯💯💯🥳🙏💯💯,0.7717,Positive,0.2666666666666666,Positive,0.4104444682598114,Positive
 Esta musica me pone triste porque esa cansion la pusieron en la tumba de mi mamá y mi abuelo...,-0.6908,Negative,-0.5,Negative,-0.564526379108429,Negative
 Te extraño,-0.1531,Negative,0.0,Neutral,-0.454803466796875,Negative
-Jajajaja 🤜🤛😇,0.4588,Positive,0.2,Neutral,0.3159270286560058,Neutral
+Jajajaja 🤜🤛😇,0.4588,Positive,0.2,Positive,0.3159270286560058,Neutral
 HD djdhdjxkxkdhfk nncirirukhflhjggkhdre,0.0,Neutral,0.0,Neutral,0.2123509049415588,Neutral
-Ya se volvió un hábito escuchar tus músicas... ¡Gracias crack!,0.4926,Positive,0.25,Neutral,-0.685499906539917,Negative
-Paulo londra te siguo desde pequeño te amo,0.6022,Positive,0.15625,Neutral,0.4910648763179779,Positive
+Ya se volvió un hábito escuchar tus músicas... ¡Gracias crack!,0.4926,Positive,0.25,Positive,-0.685499906539917,Negative
+Paulo londra te siguo desde pequeño te amo,0.6022,Positive,0.15625,Positive,0.4910648763179779,Positive
 paulo sigo escuchando tus canciones desde 2018 no he cambiando de muscia y te sigo esperando por eso te escribo de que porfavor saques mas canciones SUERTE!!!!!!!!!!!!!!!!!!!!!!!!!!,0.8166,Positive,1.0,Positive,-0.4235223829746246,Negative
 Alguien en 2022 Awante Paulo LPM!!,0.0,Neutral,0.0,Neutral,-0.746667742729187,Negative
 la amo 💞,0.8591,Positive,0.5,Positive,0.4324332475662231,Positive
@@ -697,7 +697,7 @@ la amo 💞,0.8591,Positive,0.5,Positive,0.4324332475662231,Positive
 A este artista solo lo conocia por su cancion de ""Nena Maldicion""; luego le meti interes a las demas canciones y me enamore del talento que tiene este man. No seria mala idea conocerlo en persona ;)
 
 
-Se le quiere mucho Paulo, gracias por sus temas. Ahhh y por cierto, lo estamos esperando de vuelta",0.992,Positive,0.1653296703296703,Neutral,0.487694501876831,Positive
+Se le quiere mucho Paulo, gracias por sus temas. Ahhh y por cierto, lo estamos esperando de vuelta",0.992,Positive,0.1653296703296703,Positive,0.487694501876831,Positive
 Por ti madre y padre lo lograré ❣️,0.6369,Positive,0.0,Neutral,0.5858274102210999,Positive
 lanzada en mi cumpleaños te extraño paulo,-0.1531,Negative,0.0,Neutral,0.5891807079315186,Positive
 "deretirate,porque",0.0,Neutral,0.0,Neutral,-0.3197584748268127,Negative
@@ -710,7 +710,7 @@ Quien extraña la música de Paulo Londra :(,-0.5859,Negative,-0.75,Negative,0.2
 Quién acá en 2022 :( 🔥✨,-0.4588,Negative,-0.75,Negative,0.281999409198761,Neutral
 2022 y sigo escuchando esta rola,0.0,Neutral,0.0,Neutral,-0.5061134099960327,Negative
 regresa prontoo paulito,0.0,Neutral,0.0,Neutral,-0.5363749265670776,Negative
-Te extrañamos mucho ❤️❤️,-0.1531,Negative,0.2,Neutral,0.2751684486865997,Neutral
+Te extrañamos mucho ❤️❤️,-0.1531,Negative,0.2,Positive,0.2751684486865997,Neutral
 Asf🌷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Asd🌻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 😭😭😭😭😭👍👍👍👍👍,-0.9382,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -724,11 +724,11 @@ Por la risa, por lo' llanto'
 Por mentira', por encanto'
 Por heridas, por ayer, por el hoy
 Porque sé que ahora voy, que ahora voy
-Decidido a mi homerun",0.8516,Positive,0.15,Neutral,0.3799710869789123,Positive
+Decidido a mi homerun",0.8516,Positive,0.15,Positive,0.3799710869789123,Positive
 Alguien la escucha el 14 marzo ?,0.0,Neutral,0.0,Neutral,-0.6741765737533569,Negative
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "seru
-alexa",0.4939,Positive,0.3,Neutral,0.2816973924636841,Neutral
+alexa",0.4939,Positive,0.3,Positive,0.2816973924636841,Neutral
 alexa,0.0,Neutral,0.0,Neutral,0.3384033739566803,Positive
 😭😢😓🇨🇴Yo,-0.8402,Negative,0.0,Neutral,0.3085779249668121,Neutral
 😭😖🤧,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -743,7 +743,7 @@ Stone block idioma ooooooooooooooloo,-0.4404,Negative,0.0,Neutral,-0.40780889987
 paulo porfavor no dejes youtub😢😢,0.2268,Positive,0.0,Neutral,-0.4002015590667724,Negative
 Me encannto,0.0,Neutral,0.0,Neutral,0.2528039216995239,Neutral
 Te extraño paulo londra 🤙🤟,0.3818,Positive,0.0,Neutral,-0.2989517748355865,Negative
-;D,0.2023,Positive,0.25,Neutral,0.2875107824802398,Neutral
+;D,0.2023,Positive,0.25,Positive,0.2875107824802398,Neutral
 "volve Paulito ome saca mas musica!!!!!
 🙃🙃",0.0,Neutral,0.5,Positive,-0.4785975515842438,Negative
 Nunca lo dejare de escuchar :(,-0.2528,Negative,-0.75,Negative,-0.3608372211456299,Negative
@@ -755,11 +755,11 @@ Quien escucha la canción en 2022 saludos de chile,0.4215,Positive,0.0,Neutral,0
 "Y lo voy hacer por mi mama por mi papa por mi hermana😘por mi pana🐧por mi gana""💜por la buena""😀por la mala😭por la pena😞por macana""😊PAULO PORFAVOR QUIERO MAS DE TUS CANCIONES SALUDO""😀😘",0.9538,Positive,0.6666666666666666,Positive,0.4918838143348694,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Esa canción se merece tres millones de like,0.4215,Positive,0.0,Neutral,0.3187432289123535,Neutral
-Enterado por mentiroso fue mi hermano pero dijo pero ya la canción de buenísimo a mí me encantó cuando yo la veo fea esa canción,0.6635,Positive,0.2333333333333333,Neutral,0.5362882018089294,Positive
-La crema loco está buenísima,0.2006,Positive,0.1549999999999999,Neutral,0.6640917062759399,Positive
+Enterado por mentiroso fue mi hermano pero dijo pero ya la canción de buenísimo a mí me encantó cuando yo la veo fea esa canción,0.6635,Positive,0.2333333333333333,Positive,0.5362882018089294,Positive
+La crema loco está buenísima,0.2006,Positive,0.1549999999999999,Positive,0.6640917062759399,Positive
 Noooo me muero🤯,0.0,Neutral,0.0,Neutral,-0.4263140559196472,Negative
 😿👍,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
-paulo gracias a ti me salve de la muerte y ahora estoy aqui cumpliendo mis sueños todos los dias ruego porque vuelvas,0.7003,Positive,0.1,Neutral,0.6555849313735962,Positive
+paulo gracias a ti me salve de la muerte y ahora estoy aqui cumpliendo mis sueños todos los dias ruego porque vuelvas,0.7003,Positive,0.1,Positive,0.6555849313735962,Positive
 diosxxxxxxx,0.0,Neutral,0.0,Neutral,0.4630533456802368,Positive
 Quien la escucha en 2022 en febrero,0.0,Neutral,0.0,Neutral,0.2751315236091614,Neutral
 Sos un grande paulo londra,0.0,Neutral,0.0,Neutral,0.4657231867313385,Positive

@@ -1,10 +1,10 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 7:52,0.0,Neutral,0.0,Neutral,0.2833452224731445,Neutral
 You have 11 karod,0.0,Neutral,0.0,Neutral,0.2632496356964111,Neutral
-You have we live in karod,0.0,Neutral,0.1363636363636363,Neutral,0.5381408333778381,Positive
+You have we live in karod,0.0,Neutral,0.1363636363636363,Positive,0.5381408333778381,Positive
 Love you pew,0.6369,Positive,0.5,Positive,0.8073397278785706,Positive
 "Not This ,That was epic war for two
- horned hornet guy pdπ not for huge and giantic company like T- series'",-0.5207,Negative,0.25,Neutral,-0.4206743836402893,Negative
+ horned hornet guy pdπ not for huge and giantic company like T- series'",-0.5207,Negative,0.25,Positive,-0.4206743836402893,Negative
 2 years later t series is almost at 200 million! That’s crazy that he has 79 million more than you,-0.4003,Negative,-0.0333333333333333,Negative,-0.5591087937355042,Negative
 "Pewdiepie : I give you permission to pass me after 100 mil
 
@@ -20,7 +20,7 @@ U cant beat indian channel tseries ha ha ha,0.7351,Positive,0.0,Neutral,0.301829
 T series beat you cuz of carryminati and then inidans unsubbing you,0.0,Neutral,0.0,Neutral,-0.6038813591003418,Negative
 UR LOSE NOW 187 MILLION,-0.8192,Negative,0.0,Neutral,-0.7357694506645203,Negative
 pewdiepie thinks he can beat t series?No way!,0.0,Neutral,0.0,Neutral,-0.584951639175415,Negative
-PewDiePie old videos are my childhood memories,0.0,Neutral,0.1,Neutral,0.4310407042503357,Positive
+PewDiePie old videos are my childhood memories,0.0,Neutral,0.1,Positive,0.4310407042503357,Positive
 you think if your bad then indians are your dad............,-0.5423,Negative,-0.6999999999999998,Negative,-0.2275921106338501,Negative
 "But at now t series far away from you.... 
 You sucks 😂😂😂",0.8519,Positive,-0.0999999999999999,Negative,-0.4490587711334228,Negative
@@ -32,7 +32,7 @@ This legend still can change the world,0.0,Neutral,0.0,Neutral,0.70477694272995,
 t-bots,0.0,Neutral,0.0,Neutral,0.3218441903591156,Neutral
 Idk but stupid 9yr olds are just hating pewdepie (i am Indian),-0.882,Negative,-0.7999999999999999,Negative,-0.5069869756698608,Negative
 Me from 2021 u know someone call cocomelon ..... nevermind,0.0,Neutral,0.0,Neutral,-0.4715727567672729,Negative
-Who’s here now pewds is 3 now but he is still 1 because there both music channels and 1 year old army,0.0,Neutral,0.1,Neutral,-0.2929413914680481,Negative
+Who’s here now pewds is 3 now but he is still 1 because there both music channels and 1 year old army,0.0,Neutral,0.1,Positive,-0.2929413914680481,Negative
 "You did it with the help of more than 100 celebs
  and
  T series - 😂 it was fun",0.836,Positive,0.4,Positive,0.46070197224617,Positive
@@ -61,7 +61,7 @@ How was this 2 years ago?,0.0,Neutral,0.0,Neutral,-0.358950138092041,Negative
 T series is gay:),0.0,Neutral,0.4583333333333333,Positive,-0.2380303144454956,Negative
 T serice is op,0.0,Neutral,0.0,Neutral,-0.2543797492980957,Negative
 T series first 150 m lol,0.4215,Positive,0.525,Positive,0.3687477111816406,Positive
-It is funny how in the beginning it just starts off saying we did it😂,0.7003,Positive,0.25,Neutral,0.3672091662883758,Positive
+It is funny how in the beginning it just starts off saying we did it😂,0.7003,Positive,0.25,Positive,0.3672091662883758,Positive
 "Biggest Indian music company Vs Pewds , that was a nice war bruh . Let's move on 😂",0.2023,Positive,0.6,Positive,-0.3055742979049682,Negative
 "Its funny, PewDiePie produces better music than t-series, and he's not a music channel.",0.7003,Positive,0.375,Positive,0.3382335007190704,Positive
 Who was the winner please anyone Tell me,0.7269,Positive,0.0,Neutral,-0.3677771389484405,Negative
@@ -89,7 +89,7 @@ Mr noob,-0.0516,Negative,0.0,Neutral,-0.5193200707435608,Negative
 HOW WAS THIS WAR 2 YEARS AGO?!?!?!?!?,-0.8648,Negative,0.0,Neutral,-0.5818425416946411,Negative
 GoodGame everyone :(,-0.4404,Negative,-0.75,Negative,0.3592600524425506,Positive
 "Mrbeast is a bit closer , he'll crush u within 1year 😠💔",-0.4215,Negative,0.0,Neutral,0.4120652675628662,Positive
-This was the last controversy of youtube that was actually very  thrilling and was fun to watch,0.7713,Positive,0.2083333333333333,Neutral,0.5101984739303589,Positive
+This was the last controversy of youtube that was actually very  thrilling and was fun to watch,0.7713,Positive,0.2083333333333333,Positive,0.5101984739303589,Positive
 "But cocomelon passed you in 2021
 How 🤣😂😂😂😂",0.967,Positive,0.0,Neutral,-0.293747991323471,Negative
 I no t-seires beet you our Indians are very intelligent 😏,0.2716,Positive,1.0,Positive,0.6548312306404114,Positive
@@ -99,7 +99,7 @@ WE GOT EM T SERRIES BEEN SUB BOTTING,0.0,Neutral,0.0,Neutral,-0.3471538722515106
 Well we lost but pewdiepie is still KING YOUTUBE cuz he's one person who it took a whole company and (a country of 1.32 billion and yet there videos still can't seem to reach a million) lol if u a fan u get that line,0.7535,Positive,0.5,Positive,0.2457617074251175,Neutral
 Loser you lost,-0.6908,Negative,0.0,Neutral,-0.433056890964508,Negative
 there is no place to solo creator,-0.296,Negative,0.0,Neutral,-0.4746043384075165,Negative
-A bete mauj kar li,0.5106,Positive,0.3,Neutral,-0.3111182451248169,Negative
+A bete mauj kar li,0.5106,Positive,0.3,Positive,-0.3111182451248169,Negative
 PewDiePie never beat t series,0.0,Neutral,0.0,Neutral,0.3827068507671356,Positive
 "Pewds is still the most subbed YouTuber, not corporation.",0.0,Neutral,0.5,Positive,-0.3764803111553192,Negative
 you sweden you lose!! REVENGE TIME,-0.8135,Negative,0.0,Neutral,-0.5220770239830017,Negative
@@ -124,9 +124,9 @@ You lost,-0.3182,Negative,0.0,Neutral,-0.2539231777191162,Negative
 T series is King 👑👑👑,0.0,Neutral,0.0,Neutral,0.5894982218742371,Positive
 We indian we won😂😂,0.8591,Positive,0.0,Neutral,0.2750605344772339,Neutral
 Ab toh yahi bolega na jab pta hai ki khatam hone wala hai dhandha,0.0,Neutral,0.0,Neutral,-0.3806682825088501,Negative
-T series is near 200 million,0.0,Neutral,0.1,Neutral,-0.3385117352008819,Negative
+T series is near 200 million,0.0,Neutral,0.1,Positive,-0.3385117352008819,Negative
 Mnmhk,-0.4404,Negative,-0.4,Negative,0.2542550265789032,Neutral
-3 to 110 million wow,0.5859,Positive,0.1,Neutral,-0.461588978767395,Negative
+3 to 110 million wow,0.5859,Positive,0.1,Positive,-0.461588978767395,Negative
 0:11 A swedish man who lives in England with his Italian wife speaking in Japanese wearing a hoodie with an American flag on it,0.0,Neutral,0.0,Neutral,-0.5439252853393555,Negative
 That thank you very much in Japanese was catchy😂😂🤣,0.8885,Positive,0.0,Neutral,0.4324753284454345,Positive
 a you looser you lost,-0.3182,Negative,0.0,Neutral,0.2526530921459198,Neutral
@@ -140,7 +140,7 @@ bro wtf does his channel have 10X more subs then veiws,-0.5859,Negative,0.0,Neut
 "Me waiting for Pewds to react at ""Cocomelon Passing PewDiePie""
 You (PewDiePie) will be remembered.",0.0,Neutral,0.0,Neutral,0.2853283882141113,Neutral
 Lol u sucked the whole time,-0.0516,Negative,0.5,Positive,-0.6983910799026489,Negative
-"Now waiting for ""Reacting to Cocomelon passing live""",0.0,Neutral,0.1363636363636363,Neutral,0.2313951402902603,Neutral
+"Now waiting for ""Reacting to Cocomelon passing live""",0.0,Neutral,0.1363636363636363,Positive,0.2313951402902603,Neutral
 *titulo en español*yo:PUT4 que oferton,0.0,Neutral,0.0,Neutral,-0.4092724323272705,Negative
 BOOOO,0.0,Neutral,0.0,Neutral,0.2647975087165832,Neutral
 Now cocomelon mate,0.0,Neutral,0.0,Neutral,0.3652158081531524,Positive
@@ -160,7 +160,7 @@ Love u all🥰",0.9371,Positive,0.35,Positive,-0.8027485013008118,Negative
 Just suscribe,0.0,Neutral,0.0,Neutral,-0.45684814453125,Negative
 not really,0.0,Neutral,-0.1,Negative,-0.482333779335022,Negative
 Fist to 90 million heheheheheh just search who has reached 100 million and 200 million or 110 million or 150 million,0.1027,Positive,0.0,Neutral,-0.821671187877655,Negative
-i laughed so hard when he was shouting like crazy lol,0.6167,Positive,0.1520833333333333,Neutral,-0.489438384771347,Negative
+i laughed so hard when he was shouting like crazy lol,0.6167,Positive,0.1520833333333333,Positive,-0.489438384771347,Negative
 Sakiv,0.0,Neutral,0.0,Neutral,-0.402549147605896,Negative
 💀,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Now try to compete with t-series 🤣🤣🤣 u are out number in 2021,0.872,Positive,0.0,Neutral,0.3116722404956817,Neutral
@@ -170,22 +170,22 @@ Abi adamsın,0.0,Neutral,0.0,Neutral,0.2653675973415375,Neutral
 hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Nawet polacy uwielbiają ten kanał,0.6369,Positive,0.5,Positive,0.5425490140914917,Positive
 I can see the pain inside of him,-0.5106,Negative,0.0,Neutral,0.312425285577774,Neutral
-That old tv with PewDiePie 😂,0.4404,Positive,0.1,Neutral,0.3978267014026642,Positive
+That old tv with PewDiePie 😂,0.4404,Positive,0.1,Positive,0.3978267014026642,Positive
 "That's why you shouldn't, celebrate before your win
 God just gave pewds a lesson to not be overconfident..",0.4408,Positive,0.8,Positive,0.3777046203613281,Positive
 Sub to pewdiepie,0.0,Neutral,0.0,Neutral,0.3174833059310913,Neutral
-"Actually stupid people are jealous of T-Series getting more subscribers, but friend we all should mind your own job , why you are getting in this ....",0.3602,Positive,0.1,Neutral,-0.7636634707450867,Negative
+"Actually stupid people are jealous of T-Series getting more subscribers, but friend we all should mind your own job , why you are getting in this ....",0.3602,Positive,0.1,Positive,-0.7636634707450867,Negative
 lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 "Result is T series won 😎💪💪💪💪😁😁😁😁😁🤣😂😂🤣😂😂😂 
 Mission failed money wasted ass busted",0.9843,Positive,-0.35,Negative,-0.8558728098869324,Negative
 "you hav 109 subs
 t sires has 178subs",0.0,Neutral,0.0,Neutral,-0.3002996146678924,Negative
-When you realise that a company with over 300 employees and almost 200M subs doesn't even have half a million views on most of their videos,0.0,Neutral,0.1666666666666666,Neutral,-0.4440677165985107,Negative
+When you realise that a company with over 300 employees and almost 200M subs doesn't even have half a million views on most of their videos,0.0,Neutral,0.1666666666666666,Positive,-0.4440677165985107,Negative
 T sias buys his subs.,0.0,Neutral,0.0,Neutral,0.4950690269470215,Positive
 🍉🍉🍉 Closer! 😆,0.4199,Positive,0.0,Neutral,0.3991829752922058,Positive
 - 70M difference now 🤣🤣🤣🤣🤣,0.9432,Positive,0.0,Neutral,0.278016060590744,Neutral
 You lose bro 2021,-0.4019,Negative,0.0,Neutral,-0.227369487285614,Negative
-He is crying from Inside for making fun of Indians. Now see t series and PewDiePie 🤣🤣,0.765,Positive,0.0499999999999999,Neutral,-0.2431642115116119,Negative
+He is crying from Inside for making fun of Indians. Now see t series and PewDiePie 🤣🤣,0.765,Positive,0.0499999999999999,Positive,-0.2431642115116119,Negative
 Who is at top Right Now? 🇮🇳🇮🇳T-Series OP Bete,0.2023,Positive,0.3928571428571428,Positive,0.4180494248867035,Positive
 Lol im T series subscirber,0.4215,Positive,0.8,Positive,0.3669185936450958,Positive
 its bieg 5 month he is stuck on 109 million whyy noo movesss?????????????????,-0.4515,Negative,0.0,Neutral,-0.763881266117096,Negative
@@ -196,9 +196,9 @@ SUBBOT!!,0.0,Neutral,0.0,Neutral,-0.2981042563915252,Negative
 I don’t sub,0.0,Neutral,0.0,Neutral,-0.3541485369205475,Negative
 Оцените субтитры на русском),0.0,Neutral,0.0,Neutral,0.2948817610740661,Neutral
 മലയാളി ഉണ്ടോ,0.0,Neutral,0.0,Neutral,-0.2408478707075119,Negative
-"Damn, 2 months after I commented, the vid just turned 2 years old! Cant believe that its been over 2 years after T-Series passed Pewds!",-0.508,Negative,0.15625,Neutral,-0.6064077019691467,Negative
+"Damn, 2 months after I commented, the vid just turned 2 years old! Cant believe that its been over 2 years after T-Series passed Pewds!",-0.508,Negative,0.15625,Positive,-0.6064077019691467,Negative
 T-series ♥️,0.6369,Positive,0.0,Neutral,0.3839642703533172,Positive
-0:48 pewd nearly rickrolled us !!,0.0,Neutral,0.15625,Neutral,-0.6530818939208984,Negative
+0:48 pewd nearly rickrolled us !!,0.0,Neutral,0.15625,Positive,-0.6530818939208984,Negative
 HIS TONGUE IS TINY LOLX,0.0,Neutral,0.0,Neutral,-0.35817751288414,Negative
 "8:15 DAMN!
 
@@ -263,7 +263,7 @@ Ah you playing minecraft. I like ya cut g.,0.296,Positive,0.0,Neutral,0.45486354
 
 
 
-Pewdiepie wins in my opinion",0.5719,Positive,0.3,Neutral,0.3203811049461365,Neutral
+Pewdiepie wins in my opinion",0.5719,Positive,0.3,Positive,0.3203811049461365,Neutral
 Хочу что бы PewDiePie обогнал T- Series,0.0772,Positive,0.0,Neutral,0.2605128884315491,Neutral
 41K dislike T-fucking series fan 🤣🤣😂😂😂 9.1lakh lika pweds fans 🥰,0.9686,Positive,0.0,Neutral,-0.5339046716690063,Negative
 "pewdz has his own drinks , games , merch and more
@@ -274,11 +274,11 @@ Pewdiepie pleas play the game sakura school simulator pleas🦋🦋,0.34,Positiv
 Congo to pewds for gaining more subs because of all this...,0.4215,Positive,0.5,Positive,-0.3422083258628845,Negative
 Merhaba pewdiepie,0.0,Neutral,0.0,Neutral,-0.2978401184082031,Negative
 T series are at 173 mil,0.0,Neutral,0.0,Neutral,0.2357189655303955,Neutral
-when you were gonna lose you surrendered Wow,0.2732,Positive,0.1,Neutral,0.4853902161121368,Positive
+when you were gonna lose you surrendered Wow,0.2732,Positive,0.1,Positive,0.4853902161121368,Positive
 Fact: t series passes 100M before pewdiepie,0.0,Neutral,0.0,Neutral,-0.3814658522605896,Negative
 "*U r FIRST TO 90 MILLION*
 *BUT T SERIES IS FIRST TO 100 MILLION*
-😁😁😁",0.9186,Positive,0.25,Neutral,-0.4024206101894378,Negative
+😁😁😁",0.9186,Positive,0.25,Positive,-0.4024206101894378,Negative
 T (trash) series,0.0,Neutral,0.0,Neutral,-0.7683115005493164,Negative
 T series use bots ?,0.0,Neutral,0.0,Neutral,0.2969814836978912,Neutral
 Why don't we step up again and fight again,-0.3818,Negative,0.0,Neutral,-0.3036972284317016,Negative
@@ -287,7 +287,7 @@ Why don't we step up again and fight again,-0.3818,Negative,0.0,Neutral,-0.30369
 "Pew is literally a subacriber beggar!!!!🤣
 
 If so much crazy things would have been done in india for t series then tseries would have reached 1billion subscribera till now.....😅🤣 but actually we are mature people!!!!!
-After challenging tseries pew has ended up doing poop💩 in pants😅🤣🤣...",0.9717,Positive,0.0512939453125,Neutral,-0.4841164350509643,Negative
+After challenging tseries pew has ended up doing poop💩 in pants😅🤣🤣...",0.9717,Positive,0.0512939453125,Positive,-0.4841164350509643,Negative
 "We Indonesian love T-Series, hehe",0.6369,Positive,0.5,Positive,0.6859139204025269,Positive
 Нет,0.0,Neutral,0.0,Neutral,-0.4713953137397766,Negative
 After 2 years ...,0.0,Neutral,0.0,Neutral,-0.4395661652088165,Negative
@@ -304,20 +304,20 @@ slaw,0.4767,Positive,0.0,Neutral,-0.2644613981246948,Negative
 We india we win",0.8176,Positive,0.8,Positive,0.3531937897205353,Positive
 Who is in 2021,0.0,Neutral,0.0,Neutral,0.3053292632102966,Neutral
 This was YouTube WAR,-0.6841,Negative,0.0,Neutral,-0.5175301432609558,Negative
-Miss old days,-0.1531,Negative,0.1,Neutral,0.2857098579406738,Neutral
+Miss old days,-0.1531,Negative,0.1,Positive,0.2857098579406738,Neutral
 Cocomelon is gonna cross pewdiepie,0.0,Neutral,0.0,Neutral,-0.37436243891716,Negative
 T sreies = where is your momma PewDiePie,0.0,Neutral,0.0,Neutral,0.3208577930927276,Neutral
 Cold War,-0.5994,Negative,-0.6,Negative,0.2204521000385284,Neutral
-dude T series is a whole company. PewDiePie is just a youtuber why dont you understand it,0.0,Neutral,0.2,Neutral,-0.6600149273872375,Negative
+dude T series is a whole company. PewDiePie is just a youtuber why dont you understand it,0.0,Neutral,0.2,Positive,-0.6600149273872375,Negative
 All the hate comments consists of  grammatical errors,-0.7269,Negative,-0.8,Negative,-0.7590096592903137,Negative
-Now 9 year old declaring war on 6 year old Cocomelon,-0.5994,Negative,0.1,Neutral,-0.2534897923469543,Negative
+Now 9 year old declaring war on 6 year old Cocomelon,-0.5994,Negative,0.1,Positive,-0.2534897923469543,Negative
 T series op,0.0,Neutral,0.0,Neutral,0.327877014875412,Neutral
 I just love T-Series and PewDiePie too I am in a dilemma ❤️😭😭😭😭😭,-0.9001,Negative,0.5,Positive,0.5572707056999207,Positive
 7:33 The moment Felix did not deserve to experience.,0.0,Neutral,0.0,Neutral,-0.2922002375125885,Negative
 This didn't age well,-0.2057,Negative,0.0,Neutral,-0.436019629240036,Negative
 I am Indian,0.0,Neutral,0.0,Neutral,0.4476585984230041,Positive
 T-series 170+ million subscribers 😁,0.4588,Positive,0.0,Neutral,0.5202934741973877,Positive
-Epic war,-0.5994,Negative,0.1,Neutral,0.5092167854309082,Positive
+Epic war,-0.5994,Negative,0.1,Positive,0.5092167854309082,Positive
 I love the genuine terror in his voice when tseries passes lol,0.5574,Positive,0.5666666666666668,Positive,0.5628114342689514,Positive
 퓨다파이화이팅,-0.3612,Negative,0.0,Neutral,0.2796467840671539,Neutral
 퓨디차이화이팅!!!,-0.5229,Negative,0.0,Neutral,-0.2533697187900543,Negative
@@ -328,7 +328,7 @@ Go to 2:28 to see something wtf with pew,-0.5859,Negative,-0.5,Negative,-0.36634
 "Who cares of world war,when there's subwar",0.4588,Positive,0.0,Neutral,0.2189331650733947,Neutral
 I made so many sock accounts,0.0,Neutral,0.5,Positive,0.4375649690628052,Positive
 Even cocomelon and chuchu tv are using subbots,0.0,Neutral,0.0,Neutral,-0.2933521270751953,Negative
-Real truth is t series use bots  after hitting 100M.  Because how can they get 168M they are going to head to 200M how?. According to social blade their actual subscribers should be around 120-125M,0.3182,Positive,0.0777777777777777,Neutral,-0.5702996850013733,Negative
+Real truth is t series use bots  after hitting 100M.  Because how can they get 168M they are going to head to 200M how?. According to social blade their actual subscribers should be around 120-125M,0.3182,Positive,0.0777777777777777,Positive,-0.5702996850013733,Negative
 "Very, Sad. Pew Die Pie Cant even touch T series 😂😂😍.",0.6605,Positive,-0.65,Negative,-0.6973503232002258,Negative
 L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
 """i don't care about the others, i personally love pewdiepie more""",0.3761,Positive,0.5,Positive,0.3681647777557373,Positive
@@ -359,10 +359,10 @@ You lose. Do not do it again you. B,-0.4019,Negative,0.0,Neutral,-0.515138149261
 "Boooooooooooooo pewdiepie boooooooooooooo
 Its now 108m vs 165m
 Hahahahahahahahahahahahahahahahahhahahahahahahahahahahahaha",0.0,Neutral,0.0,Neutral,-0.3960906267166137,Negative
-So old!,0.0,Neutral,0.125,Neutral,-0.3962853848934173,Negative
+So old!,0.0,Neutral,0.125,Positive,-0.3962853848934173,Negative
 I  think t series will win,0.5859,Positive,0.8,Positive,-0.3284982442855835,Negative
 COCOMELON BEST,0.6369,Positive,1.0,Positive,0.5829029083251953,Positive
-Thanks to all people who supported pewdiepie including the ones from india,0.6369,Positive,0.2,Neutral,0.5951902270317078,Positive
+Thanks to all people who supported pewdiepie including the ones from india,0.6369,Positive,0.2,Positive,0.5951902270317078,Positive
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 K,0.0,Neutral,0.0,Neutral,0.2519115209579468,Neutral
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
@@ -415,7 +415,7 @@ T-series has 166mil
 Just sayin",0.0,Neutral,0.0,Neutral,-0.3552248179912567,Negative
 T sereis is ahead of pewds now SUBSCRIBE TO PEWDIEPIE,0.0,Neutral,0.0,Neutral,-0.3194971978664398,Negative
 Atleast you have 138 to loose 🤣,0.128,Positive,-0.3,Negative,-0.3404272496700287,Negative
-Why this is a war can cause a war between country whyy it's utube just creators here who's first who second doesn't matter !  Just create ur content that's what pepole like .,-0.6774,Negative,0.125,Neutral,-0.3457053601741791,Negative
+Why this is a war can cause a war between country whyy it's utube just creators here who's first who second doesn't matter !  Just create ur content that's what pepole like .,-0.6774,Negative,0.125,Positive,-0.3457053601741791,Negative
 Re watching this made me cry😭,-0.7351,Negative,0.0,Neutral,0.6748868227005005,Positive
 Now t series have 166 million subs  holy s***,0.0,Neutral,0.0,Neutral,-0.5103800892829895,Negative
 Если знаеш русский значет нажми лайк,0.3612,Positive,0.0,Neutral,-0.2612936496734619,Negative
@@ -441,7 +441,7 @@ It's just that u don't feel good when the person who u admire and
 Look up to says the same old racist jokes that we hear for the zillionth time..
 Correct me if I'm wrong.
 
-Always got pewd's back.",-0.921,Negative,0.0562499999999999,Neutral,-0.443075954914093,Negative
+Always got pewd's back.",-0.921,Negative,0.0562499999999999,Positive,-0.443075954914093,Negative
 But currently its t series,0.0,Neutral,0.0,Neutral,0.4384142756462097,Positive
 Now cocomelon is trying,0.0,Neutral,0.0,Neutral,0.2796172201633453,Neutral
 I’m going for you and Mr. beast,0.0,Neutral,0.0,Neutral,0.4408460259437561,Positive
@@ -451,7 +451,7 @@ T series now at 165 million subs,0.0,Neutral,0.0,Neutral,0.3272108733654022,Neut
 e,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
 Pewdiepie if you want to pass t series you should never swear you should be kind,0.5924,Positive,0.6,Positive,-0.2573167383670807,Negative
 "Ur g
-ona hit 1billion subs first",0.0,Neutral,0.25,Neutral,-0.4336454272270202,Negative
+ona hit 1billion subs first",0.0,Neutral,0.25,Positive,-0.4336454272270202,Negative
 Yes you get it!!!!! T series is so boring,-0.3526,Negative,-1.0,Negative,-0.709989607334137,Negative
 Give ur entries in the comments pokefans😂,0.4404,Positive,0.0,Neutral,0.2681669592857361,Neutral
 T series is ur competitor  .....if u see t series as competition don’t humiliate them,0.431,Positive,0.0,Neutral,0.2924806475639343,Neutral
@@ -460,7 +460,7 @@ Mad person ever,-0.4939,Negative,-0.625,Negative,-0.7074979543685913,Negative
 7:28 to people that came because of the title,0.0,Neutral,0.0,Neutral,-0.3925752639770508,Negative
 Lol get rekt pewdiepie and his subscribers.  T series wins AND WINS!!! . We have 164 million sub u have 108 million sub . Never underestimate the power of t series . And we dint use sub bot for proof ask Google  . Lol get rekt,0.9477,Positive,0.6214843750000001,Positive,0.5720479488372803,Positive
 Love t-series from Bangkok 🌀🌀,0.6369,Positive,0.5,Positive,0.5564475655555725,Positive
-Every body sub or your...a baby and you can’t complete blood born.,0.0,Neutral,0.1,Neutral,0.4340670108795166,Positive
+Every body sub or your...a baby and you can’t complete blood born.,0.0,Neutral,0.1,Positive,0.4340670108795166,Positive
 That's why you shouldn't mess with indians,0.2755,Positive,-0.175,Negative,0.2489925026893615,Neutral
 pete davidson,0.0,Neutral,0.0,Neutral,0.2794710993766784,Neutral
 WE HATE T SERIES,-0.5719,Negative,-0.8,Negative,-0.4762872457504272,Negative
@@ -474,12 +474,12 @@ T series Is a group of lot of people. but Pewdiepie On his Own . He is here",0.0
 T-SERIES WON🇮🇳🇮🇳💪💪😎😎😎😎,0.9001,Positive,0.0,Neutral,0.3746887445449829,Positive
 2020?,0.0,Neutral,0.0,Neutral,-0.3105036616325378,Negative
 Even tho t-series got 163M subs I like PewDiePie's video,0.3612,Positive,0.0,Neutral,0.393533319234848,Positive
-This was a epic war. I'm a Indian but support felix and always will,0.2732,Positive,0.1,Neutral,0.7427550554275513,Positive
+This was a epic war. I'm a Indian but support felix and always will,0.2732,Positive,0.1,Positive,0.7427550554275513,Positive
 U lost bro😂😂,0.5423,Positive,0.0,Neutral,-0.4343906342983246,Negative
 We will rise again pewdiepie,0.0,Neutral,0.0,Neutral,0.4385425150394439,Positive
 🤣🤣🤣🤣🤣🤣🤣,0.9698,Positive,0.0,Neutral,0.3085779249668121,Neutral
 T series won,0.5719,Positive,0.0,Neutral,-0.3186322450637817,Negative
-Pá gringa é mais caro meri meri cho kkkkkk,0.4215,Positive,0.2666666666666666,Neutral,0.4607695937156677,Positive
+Pá gringa é mais caro meri meri cho kkkkkk,0.4215,Positive,0.2666666666666666,Positive,0.4607695937156677,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 T series is best,0.6369,Positive,1.0,Positive,0.6589266061782837,Positive
 🥺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -492,7 +492,7 @@ Hate from Indian,-0.5719,Negative,-0.8,Negative,-0.5401451587677002,Negative
 "congrulations for  90,817,908 subs",0.5994,Positive,0.0,Neutral,-0.4057613015174866,Negative
 T series now passed pewdipie,0.0,Neutral,0.0,Neutral,-0.3281535804271698,Negative
 The king has fallen,-0.3612,Negative,0.0,Neutral,0.2248084396123886,Neutral
-We have good news and bad news for you the good news is you finally passed him and the bad news he got revenge check his channel,-0.6808,Negative,4.440892098500626e-17,Neutral,-0.55965256690979,Negative
+We have good news and bad news for you the good news is you finally passed him and the bad news he got revenge check his channel,-0.6808,Negative,4.440892098500626e-17,Positive,-0.55965256690979,Negative
 "I spend my most time in ""recording gameplay ""Editing ""uploading ""I need my brothers and sisters please support me🙏😢🙏😢",-0.296,Negative,0.5,Positive,0.2711781859397888,Neutral
 Beautiful attitude attitude attitude attitude,0.5994,Positive,0.85,Positive,0.509544849395752,Positive
 Lose pewdepie,-0.4019,Negative,0.0,Neutral,-0.4468941986560821,Negative
@@ -503,19 +503,19 @@ Lekin tune INDIA ko badnaam kiya.....",0.0,Neutral,0.0,Neutral,-0.33587649464607
 Indians are best,0.6369,Positive,1.0,Positive,0.5625622868537903,Positive
 🙄🙄,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Now look at T-series SUSCRIBERS...😂😂,0.7003,Positive,0.0,Neutral,-0.2329851239919662,Negative
-日本人がどれくらいチャンネル登録してるか気になる,0.0,Neutral,0.25,Neutral,0.637114405632019,Positive
+日本人がどれくらいチャンネル登録してるか気になる,0.0,Neutral,0.25,Positive,0.637114405632019,Positive
 "You guys are already out of the way. Dont make a joke of yourself buddy.
 You will never cross T-series in your lifetime.",-0.2235,Negative,0.0,Neutral,-0.598730742931366,Negative
 "T-series now 184 million
 Pewdiepie 110 million",0.0,Neutral,0.0,Neutral,-0.427476018667221,Negative
 The father is the father,0.0,Neutral,0.0,Neutral,0.2774944305419922,Neutral
 T series is the best YouTube channel,0.6369,Positive,1.0,Positive,0.8909112215042114,Positive
-Pewds 2020 they will be first channel to hit 200 million t series,0.0,Neutral,0.25,Neutral,0.4432736337184906,Positive
+Pewds 2020 they will be first channel to hit 200 million t series,0.0,Neutral,0.25,Positive,0.4432736337184906,Positive
 T series win,0.5859,Positive,0.8,Positive,0.3483443558216095,Positive
 don't mess with indian🇮🇳,0.2755,Positive,-0.175,Negative,0.2861081957817077,Neutral
-India is on 2nd no. For population and most of the people search bollywood song on YouTube so just they hit subscribe button of T-Series that's why T-Series is first 😂,0.4404,Positive,0.25,Neutral,-0.5265344381332397,Negative
+India is on 2nd no. For population and most of the people search bollywood song on YouTube so just they hit subscribe button of T-Series that's why T-Series is first 😂,0.4404,Positive,0.25,Positive,-0.5265344381332397,Negative
 T-Series is music and film company so of course he deserves 1st,0.0,Neutral,0.0,Neutral,0.4453254044055938,Positive
-Pewd 108 million but t series 162 million subscribers haha ha ha,0.8807,Positive,0.2,Neutral,-0.5218480825424194,Negative
+Pewd 108 million but t series 162 million subscribers haha ha ha,0.8807,Positive,0.2,Positive,-0.5218480825424194,Negative
 Yet now t series have 160 million suscriber,0.0,Neutral,0.0,Neutral,-0.2904572784900665,Negative
 "Now in 2020 november t-serias have 161 million subs😫😫😫😫 and pewediepy have 107 million subscribers
 
@@ -532,7 +532,7 @@ you lose because t seris has 161 M sunscriber,-0.4019,Negative,0.0,Neutral,-0.38
 This video didn’t age well,0.2732,Positive,0.0,Neutral,-0.4184197783470154,Negative
 see pew is a youtuber is t-se... Is a company so what is a war pewpie is hark woking guy and company is woking justing putting song ok is no war,0.1144,Positive,0.5,Positive,-0.755305290222168,Negative
 Cause they are noobs and i lose cause of them,-0.4019,Negative,0.0,Neutral,-0.5370936989784241,Negative
-I want u to win cause i love ur vids and i am angry at t sieries cause i play a game and idia joined and destroy my fun,0.802,Positive,0.0833333333333333,Neutral,-0.6723396182060242,Negative
+I want u to win cause i love ur vids and i am angry at t sieries cause i play a game and idia joined and destroy my fun,0.802,Positive,0.0833333333333333,Positive,-0.6723396182060242,Negative
 Now pewdipie was 107 mil and t series 161 mil india in the lead 💥💥,-0.6124,Negative,0.0,Neutral,0.2846175730228424,Neutral
 Any one watching this in 2020 and u see T series defeated Pewds once in for all :'(,-0.743,Negative,-1.0,Negative,-0.5317902565002441,Negative
 "I'm from Japan.
@@ -542,12 +542,12 @@ But you are still back from tsires,0.0,Neutral,0.0,Neutral,0.3462613523006439,Po
 Russia????,0.0,Neutral,0.0,Neutral,-0.4500355720520019,Negative
 I was 10 subscriber of yours I was 100 subscriber of you I was 1 million subs of your,0.0,Neutral,0.0,Neutral,-0.5316953659057617,Negative
 Coco melon disstrack waiting,0.0,Neutral,0.0,Neutral,-0.3396189212799072,Negative
-"HOW CAN WE SAY THAT T SERIES IS BETTER THAN FELIX, HOW THE HELL CAN WE COMPARE A YOUTUBER AND A COMPANY, MOSTLY PEOPLE SUSCRIBE T SERIES AS ITS INDIAN, T SERIES SHARING 20 MUSIC VIDEOS 100 YEARS OLD, CHANNELS ARE MORE POPULAR  FOR CONTENT NOT MORE USELESS VIDEOS (AM INDIAN)",0.8757,Positive,0.2071428571428571,Neutral,0.3139247894287109,Neutral
+"HOW CAN WE SAY THAT T SERIES IS BETTER THAN FELIX, HOW THE HELL CAN WE COMPARE A YOUTUBER AND A COMPANY, MOSTLY PEOPLE SUSCRIBE T SERIES AS ITS INDIAN, T SERIES SHARING 20 MUSIC VIDEOS 100 YEARS OLD, CHANNELS ARE MORE POPULAR  FOR CONTENT NOT MORE USELESS VIDEOS (AM INDIAN)",0.8757,Positive,0.2071428571428571,Positive,0.3139247894287109,Neutral
 "Why does pew look like carl rock
 
 
 
-Omg thnx for the 0 like guys thnx",0.8689,Positive,0.2,Neutral,-0.5952379703521729,Negative
+Omg thnx for the 0 like guys thnx",0.8689,Positive,0.2,Positive,-0.5952379703521729,Negative
 "No matter what...PewDiePie do make better videos than the crap T-Series....Yes,I am an Indian telling this because common Let's be Honest ! I can never support T-Series in the name of my country because my country India is far more greater than what T-Series make it look it... Bollywood doesn't represent India...It rather shows our culture in a diminishing way...Our culture is the greatest in the Universe...I am proud of that...But T-Series is a crap...Grow up Fellow Indians...stop defending T-Series !",0.9177,Positive,0.3611111111111111,Positive,-0.7448665499687195,Negative
 Now the difference is more than 59M,0.0,Neutral,0.5,Positive,-0.3328655660152435,Negative
 "T series never replied to pewdipies any question 
@@ -556,7 +556,7 @@ This is called savage 😂😂😂",0.6908,Positive,0.0,Neutral,-0.4637521207332
 Who's here after Cocomelon Passed PewDiePie,0.0,Neutral,0.0,Neutral,0.267817884683609,Neutral
 Pense que el video era en español por el titulo XD,0.6739,Positive,0.0,Neutral,-0.4018471240997314,Negative
 Avengers and thanos have left the chat,0.0,Neutral,0.0,Neutral,-0.2312818616628646,Negative
-"U will never be able to beat T-Series, so don't mess",0.3374,Positive,0.1625,Neutral,0.3534888327121734,Positive
+"U will never be able to beat T-Series, so don't mess",0.3374,Positive,0.1625,Positive,0.3534888327121734,Positive
 T series chilling at 160 mil subs,-0.0258,Neutral,-0.5,Negative,-0.2746510207653045,Negative
 "2020: Pewdiepie not even close to T-Series lmfaoo
 Pew:107M
@@ -564,13 +564,13 @@ T-Series:160M",0.0,Neutral,0.0,Neutral,-0.3511066734790802,Negative
 PeWDS suckss,0.0,Neutral,0.0,Neutral,-0.524418294429779,Negative
 India wonn  yyyyaaaaa,0.0,Neutral,0.0,Neutral,-0.4588963091373443,Negative
 F,0.0,Neutral,0.0,Neutral,0.2324780821800232,Neutral
-*you feel an aspitipiay vibe breeze near you.. it fills you with determination,0.4019,Positive,0.1,Neutral,0.4192548096179962,Positive
+*you feel an aspitipiay vibe breeze near you.. it fills you with determination,0.4019,Positive,0.1,Positive,0.4192548096179962,Positive
 PewDiePie LOL,0.5473,Positive,0.8,Positive,0.2730491161346435,Neutral
 Beuh,0.0,Neutral,0.0,Neutral,0.2873871326446533,Neutral
 Sub to Pewdiepie!!!!!!!!!!!!!!!!!!!,0.0,Neutral,0.0,Neutral,-0.2661297023296356,Negative
 day 1,0.0,Neutral,0.0,Neutral,0.3267830610275268,Neutral
 In my eyes Pewds is still the best YouTube re because of him being a sole creator . Love from India,0.8555,Positive,0.5,Positive,0.8187848329544067,Positive
-Please!! T-series is the biggest India's whole Bollywood music and  Movies company but PewDiePie is just an individual YouTube creator.. And also subs bot doesn't count. So..get help ya'll.,-0.4255,Negative,0.1,Neutral,-0.4958727657794952,Negative
+Please!! T-series is the biggest India's whole Bollywood music and  Movies company but PewDiePie is just an individual YouTube creator.. And also subs bot doesn't count. So..get help ya'll.,-0.4255,Negative,0.1,Positive,-0.4958727657794952,Negative
 This was a great war,0.0516,Positive,0.8,Positive,0.7151955366134644,Positive
 T series is the best,0.6369,Positive,1.0,Positive,0.8598328232765198,Positive
 If every Indian sub to T series so know one in the entire history could touch that goal,0.0,Neutral,0.0,Neutral,0.2716922163963318,Neutral
@@ -581,17 +581,17 @@ pewds,0.0,Neutral,0.0,Neutral,0.267199695110321,Neutral
 pinoy,0.0,Neutral,0.0,Neutral,0.289098709821701,Neutral
 gggsgs,0.0,Neutral,0.0,Neutral,0.3004792034626007,Neutral
 tae,0.0,Neutral,0.0,Neutral,0.2443732321262359,Neutral
-PewDiePie is actually first to pass 💯Million legit xD,0.5859,Positive,0.25,Neutral,-0.3758667111396789,Negative
+PewDiePie is actually first to pass 💯Million legit xD,0.5859,Positive,0.25,Positive,-0.3758667111396789,Negative
 I am Indian but I have subbed you and T-series,0.0,Neutral,0.0,Neutral,0.302333652973175,Neutral
 Even most of the Indian do not subscribe T-Series 👍 me too,0.0,Neutral,0.5,Positive,-0.6184340119361877,Negative
-T series first passes 100 million hahaha pewdiepie,0.5574,Positive,0.225,Neutral,-0.3735922574996948,Negative
+T series first passes 100 million hahaha pewdiepie,0.5574,Positive,0.225,Positive,-0.3735922574996948,Negative
 LOLOLOLOLOLOLOLOLOLOLOLOLOL,0.0,Neutral,0.0,Neutral,-0.2337024956941604,Negative
 NICÈ video,0.0,Neutral,0.0,Neutral,0.4692580997943878,Positive
 "Pewdiepie- we will win 
 T SERIES- 😂😂",0.8625,Positive,0.8,Positive,0.4170947968959808,Positive
 In 2020 he is nowhere around T-Series,0.0,Neutral,0.0,Neutral,-0.4066447615623474,Negative
 What,0.0,Neutral,0.0,Neutral,0.2179408073425293,Neutral
-Hahahahaha,0.0,Neutral,0.2,Neutral,-0.2800066471099853,Negative
+Hahahahaha,0.0,Neutral,0.2,Positive,-0.2800066471099853,Negative
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 "What will youtube give this guy as his statistics based on views and subs...... 
 Subscribed:over 900%
@@ -612,27 +612,27 @@ I hate t-series I am soo dippressed that t-series crossed pewdiepie,-0.8377,Nega
 "Who is here after T-Series 158 million + subscriber .
 🇮🇳🇮🇳🇮🇳",0.0,Neutral,0.0,Neutral,-0.4726209044456482,Negative
 in the past-90 M now -107 M,0.0,Neutral,0.0,Neutral,0.2209058552980423,Neutral
-Это было эпично,0.0,Neutral,0.1,Neutral,-0.3680688440799713,Negative
+Это было эпично,0.0,Neutral,0.1,Positive,-0.3680688440799713,Negative
 But now you loose,-0.4497,Negative,-0.0769230769230769,Negative,0.3678128123283386,Positive
-This Was An EPIC War..,-0.5994,Negative,0.1,Neutral,0.6636723875999451,Positive
+This Was An EPIC War..,-0.5994,Negative,0.1,Positive,0.6636723875999451,Positive
 Your subs are more than the Egyptian population ( 14th largest on earth),0.0,Neutral,0.5,Positive,0.3398454487323761,Positive
 B-rad in pewds vid congrats to him,0.5267,Positive,0.0,Neutral,-0.2641090154647827,Negative
 al gien mexicano,0.0,Neutral,0.0,Neutral,0.2982621192932129,Neutral
 anyone  watching now and feeling sad?,-0.3818,Negative,-0.5,Negative,-0.4847565293312073,Negative
 The good days,0.4404,Positive,0.7,Positive,0.4568581283092499,Positive
 by the way sub to PEWDIEPIE,0.0,Neutral,0.0,Neutral,0.3297672867774963,Neutral
-pwediepie u should watch flamingo hes funny like you,0.6597,Positive,0.25,Neutral,0.346817284822464,Positive
+pwediepie u should watch flamingo hes funny like you,0.6597,Positive,0.25,Positive,0.346817284822464,Positive
 Tseries pushed Pewds to his highest limits,0.0,Neutral,0.0,Neutral,-0.329253226518631,Negative
 Who else is watching this in 2020,0.0,Neutral,0.0,Neutral,-0.275676280260086,Negative
 He now has 107 million,0.0,Neutral,0.0,Neutral,-0.3785342276096344,Negative
 Wait he has legs,0.0,Neutral,0.0,Neutral,-0.4085745215415954,Negative
 Ok I hate t series,-0.3612,Negative,-0.15,Negative,0.6227504014968872,Positive
-I thought this was new and I just thought he ran outta ideas.... in my recommended btw,0.2023,Positive,0.1363636363636363,Neutral,-0.3330029547214508,Negative
+I thought this was new and I just thought he ran outta ideas.... in my recommended btw,0.2023,Positive,0.1363636363636363,Positive,-0.3330029547214508,Negative
 "On March 18, it was my birthday",0.0,Neutral,0.0,Neutral,0.4743041694164276,Positive
 Kwksnxao,0.0,Neutral,0.0,Neutral,0.2529328465461731,Neutral
 "PewDiePie t series has passed 150 million subs and
 Proud to be a indian 🇮🇳🇮🇳🇮🇳🇮🇳",0.4767,Positive,0.8,Positive,0.7401508688926697,Positive
-Even though PewDiePie is second still he is first for us.,0.0,Neutral,0.125,Neutral,0.3971626162528991,Positive
+Even though PewDiePie is second still he is first for us.,0.0,Neutral,0.125,Positive,0.3971626162528991,Positive
 "Pewdiepie - how everything change so quickly.
 Indians(after winning) - everything does change so quickly",0.5667,Positive,0.3888888888888888,Positive,0.3438732922077179,Positive
 U have 100 mil delete den cocomelon will pass u innit,0.0,Neutral,0.0,Neutral,-0.6440659165382385,Negative
@@ -669,7 +669,7 @@ The end begins here,0.0,Neutral,0.0,Neutral,0.3003018200397491,Neutral
 "I don’t know how there is now a 49,000,000 subscriber gap between them now",0.0,Neutral,0.0,Neutral,-0.4772447943687439,Negative
 This war is the reason I subscribed to Pewdiepie,-0.5994,Negative,0.0,Neutral,-0.4163891077041626,Negative
 World war 3 = pewdiepie vs t-series🤣🤣,0.3612,Positive,0.0,Neutral,-0.2687858045101166,Negative
-It was the biggest war on YouTube I ever seen epic,-0.5994,Negative,0.1,Neutral,0.5534549951553345,Positive
+It was the biggest war on YouTube I ever seen epic,-0.5994,Negative,0.1,Positive,0.5534549951553345,Positive
 I am indian but I support PewDiePie,0.5499,Positive,0.0,Neutral,0.3771896064281463,Positive
 You are legend,0.0,Neutral,0.0,Neutral,0.7687627077102661,Positive
 hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
@@ -679,8 +679,8 @@ You have to be t series because they have  hundred and fifty five million,0.0,Ne
 85 squared,0.0,Neutral,0.0,Neutral,-0.2423910051584243,Negative
 85 squared,0.0,Neutral,0.0,Neutral,-0.2423910051584243,Negative
 "Power of population 😂😂😂,,",0.8271,Positive,0.0,Neutral,0.4752136468887329,Positive
-How much day will be t series vs pewdiepie......if anyone want that pewdiepie number 1 .unsubscribe t series,0.1531,Positive,0.2,Neutral,-0.5333383083343506,Negative
-How much day will be t series vs pewdiepie......if anyone want that pewdiepie number 1 .unsubscribe t series,0.1531,Positive,0.2,Neutral,-0.5333383083343506,Negative
+How much day will be t series vs pewdiepie......if anyone want that pewdiepie number 1 .unsubscribe t series,0.1531,Positive,0.2,Positive,-0.5333383083343506,Negative
+How much day will be t series vs pewdiepie......if anyone want that pewdiepie number 1 .unsubscribe t series,0.1531,Positive,0.2,Positive,-0.5333383083343506,Negative
 I h’et 100.000 subs yeeeeeeeesssssss,0.0,Neutral,0.0,Neutral,-0.3700398802757263,Negative
 T- series is n.a.t.o. and PewDiePie is Soviet Union,0.0,Neutral,0.0,Neutral,-0.3369594216346741,Negative
 T-series is the best for every,0.6369,Positive,1.0,Positive,0.8728886842727661,Positive
@@ -710,15 +710,15 @@ Who’s here after 150M+,0.0,Neutral,0.0,Neutral,-0.281896710395813,Negative
 Lol T series has more subs,0.4215,Positive,0.65,Positive,0.3370155990123749,Positive
 No t series has won now check if you want,0.4215,Positive,0.0,Neutral,-0.5020424127578735,Negative
 Who agrees this is the best YouTube war in history,0.2732,Positive,1.0,Positive,0.6615265607833862,Positive
-7:35 calm down PewDiePie ur tied with T-Series lol,0.6249,Positive,0.3148148148148148,Neutral,-0.350000649690628,Negative
+7:35 calm down PewDiePie ur tied with T-Series lol,0.6249,Positive,0.3148148148148148,Positive,-0.350000649690628,Negative
 pewdiepie Vengate  de t series,-0.5267,Negative,0.0,Neutral,0.4706435799598694,Positive
 7:12 well this didn't age well...,0.0736,Positive,0.0,Neutral,-0.3600923418998718,Negative
 "this is so sad :,,,,,,c",-0.6113,Negative,-0.5,Negative,-0.774445652961731,Negative
 Pewdiepie y u hav less view ij term of subscriber,0.0,Neutral,-0.1666666666666666,Negative,-0.3332855105400085,Negative
-Wow man t series is belong to whole India not a solo channel,0.5859,Positive,0.15,Neutral,-0.3715089559555053,Negative
+Wow man t series is belong to whole India not a solo channel,0.5859,Positive,0.15,Positive,-0.3715089559555053,Negative
 T gay. Bots subscriber,0.0,Neutral,0.4166666666666667,Positive,-0.3439204692840576,Negative
 Go and search on Youtube disstrack carryminati pewdiepie,0.0,Neutral,0.0,Neutral,-0.5150625109672546,Negative
-I can't believe this epic war was lost,-0.7351,Negative,0.1,Neutral,-0.5146782398223877,Negative
+I can't believe this epic war was lost,-0.7351,Negative,0.1,Positive,-0.5146782398223877,Negative
 Ssssh T Series will surely beat u MrPie,0.4404,Positive,0.5,Positive,-0.2418083399534225,Negative
 Have u seen mr beasts videos and one of them said to sub to you and he even bought build boards that said to sub to you lol but he has a point your better than T-Series,0.6956,Positive,0.65,Positive,0.2916586995124817,Neutral
 Here india wins I m also Indian proud to be indian,0.7783,Positive,0.55,Positive,0.7592756748199463,Positive
@@ -732,7 +732,7 @@ james veitch,0.0,Neutral,0.0,Neutral,0.2629271447658539,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 t seies has 159 m  subscibers more then pewdiepie,0.0,Neutral,0.5,Positive,-0.3522148728370666,Negative
 T series uses sub bots,0.0,Neutral,0.0,Neutral,0.3169977962970733,Neutral
-That was an epic era when people were more interested in pewds vs t series than the real wars,-0.1548,Negative,0.2625,Neutral,0.4282569587230682,Positive
+That was an epic era when people were more interested in pewds vs t series than the real wars,-0.1548,Negative,0.2625,Positive,0.4282569587230682,Positive
 Shut up ......,0.0,Neutral,0.0,Neutral,-0.7813494205474854,Negative
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Who here after Tik tok ban,-0.5574,Negative,0.0,Neutral,-0.2938520312309265,Negative
@@ -740,8 +740,8 @@ Who here after Tik tok ban,-0.5574,Negative,0.0,Neutral,-0.2938520312309265,Nega
 But inside dying",0.3291,Positive,0.8,Positive,0.4289538562297821,Positive
 Bruh- T-SERIES DOESN'T EVEN CATE HOW MUCH SUBS THEY HAVE THEY ARE HAPPY WITH MUSIC AND THATS GREATTT,0.6633,Positive,0.5,Positive,0.2792011797428131,Neutral
 Pewdipie you're loser if your  winner can you tell Jaime hind,0.1027,Positive,0.0,Neutral,-0.3688328862190246,Negative
-nooo u  know nothin u pewdie pie[ india wins  bruh ],0.5719,Positive,0.3,Neutral,-0.5997899174690247,Negative
-Hahahaha im dying he has 106 million t series has 151 million hhahaha,0.0,Neutral,0.2,Neutral,-0.7626379728317261,Negative
+nooo u  know nothin u pewdie pie[ india wins  bruh ],0.5719,Positive,0.3,Positive,-0.5997899174690247,Negative
+Hahahaha im dying he has 106 million t series has 151 million hhahaha,0.0,Neutral,0.2,Positive,-0.7626379728317261,Negative
 has it been a year already ?!,0.0,Neutral,0.0,Neutral,-0.2310513108968734,Negative
 T series won,0.5719,Positive,0.0,Neutral,-0.3186322450637817,Negative
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive

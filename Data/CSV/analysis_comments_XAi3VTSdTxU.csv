@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 King of Pop for ever we Love you Michael 👑👑,0.6369,Positive,0.5,Positive,0.915656328201294,Positive
 Michael Jackson is the best forever ever,0.6369,Positive,1.0,Positive,0.8582502007484436,Positive
-I live you,0.0,Neutral,0.1363636363636363,Neutral,0.5806713104248047,Positive
+I live you,0.0,Neutral,0.1363636363636363,Positive,0.5806713104248047,Positive
 I love all songs in all michael jackson s,0.6369,Positive,0.5,Positive,0.875143826007843,Positive
 What have we done…,0.0,Neutral,0.0,Neutral,0.6918225884437561,Positive
 Made even more famous by Onkar Judge lol.,0.4215,Positive,0.6,Positive,0.5661854147911072,Positive
@@ -9,10 +9,10 @@ Sing Michael ❤️💕🔥,0.4404,Positive,0.0,Neutral,0.3997125029563904,Posit
 Классная песня))),0.3182,Positive,0.35,Positive,0.4971010982990265,Positive
 Молимся за тебя мой дорогой Майкл Джексон,0.6249,Positive,0.0,Neutral,0.6522969603538513,Positive
 I love ❤ Michael jackson who's listening to this song in 2022,0.8555,Positive,0.5,Positive,0.7874284982681274,Positive
-"Years after the release date, still related to human kind problem",0.1779,Positive,0.1999999999999999,Neutral,-0.3409771919250488,Negative
+"Years after the release date, still related to human kind problem",0.1779,Positive,0.1999999999999999,Positive,-0.3409771919250488,Negative
 Till date this song still gives me chills. A legend for life,0.0,Neutral,0.0,Neutral,0.6215193271636963,Positive
 Кто русский?😂,0.4404,Positive,0.0,Neutral,-0.3553711175918579,Negative
-"Many things can be done to help the environment, support local business, grow a garden, learn to repair things, join an environmental group, go to an event or class. Check out world localization day June 20, 2022. Let's Honor Michael by celebrating life and his vision.❣",0.9623,Positive,0.25,Neutral,0.7040337920188904,Positive
+"Many things can be done to help the environment, support local business, grow a garden, learn to repair things, join an environmental group, go to an event or class. Check out world localization day June 20, 2022. Let's Honor Michael by celebrating life and his vision.❣",0.9623,Positive,0.25,Positive,0.7040337920188904,Positive
 This song sounds yippee!!,0.0,Neutral,0.0,Neutral,-0.6397157311439514,Negative
 ENTE VAKKUM VISHWASICHU..AMMA ADAKKAM VANNU ENTE OPPAM...NINGAL ORU THENGAYUM CHEYLILALO..NJAN MENTAL HOSPITALIL ATHUM CINEMAYAKKUNNA TEAMANNU,0.0,Neutral,-0.1,Negative,-0.3522388637065887,Negative
 Once legend Always LEGEND,0.0,Neutral,0.0,Neutral,0.6521859169006348,Positive
@@ -24,7 +24,7 @@ This World... who knows? With a pandemic and many wars over the years... 'What h
 The world needs a miracle 🙏🏻 God Bless ❤️",0.9034,Positive,-0.0499999999999999,Negative,0.4038949906826019,Positive
 Legend. Memories 🥰 April 29th 2022. Save Ukraine 💙💛💙,0.9753,Positive,0.0,Neutral,0.5253119468688965,Positive
 Every religion and mythology has its own version of the end of the world. This would be ours 😥😭,-0.4215,Negative,0.6,Positive,0.5766652822494507,Positive
-"I used to dream, I used to glance beyond the stars now I don’t know where we are although I know we drifted far 😭",-0.2732,Negative,0.1,Neutral,0.3769114315509796,Positive
+"I used to dream, I used to glance beyond the stars now I don’t know where we are although I know we drifted far 😭",-0.2732,Negative,0.1,Positive,0.3769114315509796,Positive
 I want MJ to come back too.. but that not necessary anymore because some people tortured and killed him intentionally.. R.I.P.. and you know what?? The government in each country set to demolished the entire earth..,-0.924,Negative,-0.05,Negative,-0.3911850452423095,Negative
 Je n'y arrive pas c'est impossible,0.0,Neutral,-0.6666666666666666,Negative,-0.772382378578186,Negative
 Proof that speaking/singing the truth will get you killed.. rip legend,-0.4939,Negative,-0.2,Negative,0.3709995150566101,Positive
@@ -144,7 +144,7 @@ Ah-ah-ah-ah-ah
 Ooh-ooh-ooh-ooh-ooh
 Ah-ah-ah-ah-ah
 Ooh-ooh-ooh-ooh-ooh",-0.9871,Negative,-0.0273504273504273,Negative,-0.3613219857215881,Negative
-"2022 and what Micheal said was right "" look what we've  done """,0.0,Neutral,0.2857142857142857,Neutral,0.3499111831188202,Positive
+"2022 and what Micheal said was right "" look what we've  done """,0.0,Neutral,0.2857142857142857,Positive,0.3499111831188202,Positive
 "hermosa canción por favor cuidemos nuestro planeta es un paraiso, ojala mucha gente tome conciencia y no le hagan mas daño",0.9588,Positive,0.5333333333333333,Positive,0.7680525183677673,Positive
 12 years later this song hits me harder when i think about corona crisis 😭😢,-0.8834,Negative,-0.05,Negative,0.2806035578250885,Neutral
 È uno spettacolo,0.0,Neutral,0.0,Neutral,0.52022385597229,Positive
@@ -154,12 +154,12 @@ I Love You Michael❤️ April 30 2022,0.6369,Positive,0.5,Positive,0.7774097323
 And there are still people who think the world is fair..",-0.7783,Negative,0.5,Positive,0.2422473132610321,Neutral
 "I actually got emotional and cried😥
 This man was ahead of his time",0.2144,Positive,0.0,Neutral,0.6637163162231445,Positive
-"April 29, 2022: Forgot to play this in honor of Earth Day '22, but better late than never.",0.7684,Positive,0.1,Neutral,-0.2978784739971161,Negative
+"April 29, 2022: Forgot to play this in honor of Earth Day '22, but better late than never.",0.7684,Positive,0.1,Positive,-0.2978784739971161,Negative
 "Not just Ukraine 😐
 One correction pledge on your child not just son",0.0,Neutral,0.0,Neutral,-0.5286421775817871,Negative
 """This song never gets old. No matter how much I listen, I never get bored""",0.1877,Positive,-0.0666666666666666,Negative,0.5399413704872131,Positive
 A message to the future generations: 'DON'T LET THIS SONG DIE',-0.6841,Negative,0.0,Neutral,-0.4070218503475189,Negative
-"""It's crazy how many people come back to this everyday. This song is legendary ♡""",-0.34,Negative,0.1399999999999999,Neutral,0.8331597447395325,Positive
+"""It's crazy how many people come back to this everyday. This song is legendary ♡""",-0.34,Negative,0.1399999999999999,Positive,0.8331597447395325,Positive
 La mejor Canción,0.6369,Positive,1.0,Positive,0.8865575194358826,Positive
 2026,0.0,Neutral,0.0,Neutral,-0.2845037281513214,Negative
 Amaizing....... 🥰🥰🥰🥰🥰❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤💞💞💞💞💞💞💞💞💞💞💞💞💞,0.9995,Positive,0.0,Neutral,0.4434266686439514,Positive
@@ -299,19 +299,19 @@ Merci Mickaël 💛 merci d'avoir exister ✨,0.8885,Positive,0.0,Neutral,0.5369
 its 2022. And this song hits harder,0.0,Neutral,-0.1,Negative,0.2960398495197296,Neutral
 "Wow......Amazing song😘🔥
 Mj is a great man😍🥰",0.9413,Positive,0.8,Positive,0.9379485845565796,Positive
-"this will happen soon and it is really near, I give it 5yrs from now",0.0,Neutral,0.1,Neutral,0.5671821236610413,Positive
+"this will happen soon and it is really near, I give it 5yrs from now",0.0,Neutral,0.1,Positive,0.5671821236610413,Positive
 1:28 SMG4 brought me here,0.0,Neutral,0.0,Neutral,0.354706346988678,Positive
 Love ❤ is life life is love we should save our mother earth sr,0.9501,Positive,0.5,Positive,0.7822815775871277,Positive
 "https://youtu.be/lKSF_VpEE0E
 Как менялась Майкл Джексон",0.0,Neutral,0.0,Neutral,0.2840613126754761,Neutral
 https://www.youtube.com/watch?v=jqrw7ziZA5U,0.0,Neutral,0.0,Neutral,0.2930847704410553,Neutral
 That's kill me inside 😔😩,-0.7579,Negative,0.0,Neutral,-0.4192119538784027,Negative
-Wow I really love it .,0.8516,Positive,0.3,Neutral,0.9435228705406188,Positive
+Wow I really love it .,0.8516,Positive,0.3,Positive,0.9435228705406188,Positive
 This man could dance.,0.0,Neutral,0.0,Neutral,0.5922466516494751,Positive
 Música linda. Cadê os brasileiros que estão escutando em 2022??,0.644,Positive,0.85,Positive,-0.571099042892456,Negative
 "Their ⚫🦉🗽🌠🕎pride is limitless. They steal your 💝birthright,  then laugh and Mock you in arrogance🖕🏿. Because they hold all the cards for now🏦.  But ⚖Karma is a bitch that is never late.. ..and the 🏆 💧  Cup once full shall be empty while they die of Thirst 🔥 . The 🖤 gifts that were ⚡⚡ abused will ♾  forever haunt them 🪦, as the 🤴🏿 down trodden and 🦁 Meek laugh, love , dance and rejoice into eternity♒.  Their name forever an indescribable curse word. One ⚫opposite to 🌻God and ☀️Light. 
 
-🌻☀️🦅💨Amen 🙏🏿 🌍🦁🕊",-0.7469,Negative,0.192063492063492,Neutral,-0.8074028491973877,Negative
+🌻☀️🦅💨Amen 🙏🏿 🌍🦁🕊",-0.7469,Negative,0.192063492063492,Positive,-0.8074028491973877,Negative
 As more days pass this song just keeps getting more meaningful,0.3804,Positive,0.5,Positive,0.5192158818244934,Positive
 Hoy nos la pusieron en el colegio 😭😭,-0.7351,Negative,0.0,Neutral,0.5184007883071899,Positive
 It is so sad that such a powerful person is no longer with us,-0.5254,Negative,-0.0666666666666666,Negative,-0.6319416165351868,Negative
@@ -329,8 +329,8 @@ You never knew me but I miss you Michael You truly cared.,0.7684,Positive,0.0,Ne
 හො.හො.මලස්සි.බොහ.ලක.පක.සද්දිරග,0.0,Neutral,0.0,Neutral,0.2824186682701111,Neutral
 💔💋,0.5994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 3:18 — I Literally Feel That !,0.0,Neutral,0.0,Neutral,0.4078288376331329,Positive
-Michael Jackson ¡viva por siempre! Colombia 🇨🇴,0.0,Neutral,0.0602272727272727,Neutral,0.7570819854736328,Positive
-Супермаркет приятного музыкальный и нежный танцевать песня хорошо.👋🤝🙏🙌🌹❣️🌎👍,0.9403,Positive,0.3111111111111111,Neutral,0.5443542003631592,Positive
+Michael Jackson ¡viva por siempre! Colombia 🇨🇴,0.0,Neutral,0.0602272727272727,Positive,0.7570819854736328,Positive
+Супермаркет приятного музыкальный и нежный танцевать песня хорошо.👋🤝🙏🙌🌹❣️🌎👍,0.9403,Positive,0.3111111111111111,Positive,0.5443542003631592,Positive
 Michael Jackson nos dió a entender que tenemos que cuidar el planeta tierra si queremos estar vivos💐,0.7269,Positive,0.0,Neutral,0.4632156789302826,Positive
 Best song all the time.. Rest In Peace MJ.🙏,0.8271,Positive,1.0,Positive,0.944666028022766,Positive
 Documentary ..Ross Kemp on Michael’s zoo animals and what happened to them.. what about them 😢,-0.4767,Negative,0.0,Neutral,0.3633621335029602,Positive
@@ -341,22 +341,22 @@ Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 "13 years gone this June MJAKSON🎶
 YOU'LL NEVER BE FORGOTTEN
 LONG LIVE THE KING OF POP GBNF
-THE LEDGEND LIVES ON 🎤",0.2979,Positive,0.0431818181818181,Neutral,0.7609522938728333,Positive
+THE LEDGEND LIVES ON 🎤",0.2979,Positive,0.0431818181818181,Positive,0.7609522938728333,Positive
 هل من عربي يشاهد  2022✌️❤️🥰🇲🇦,0.4588,Positive,0.0,Neutral,-0.3220941722393036,Negative
 put it on x2 speed it got rhythm,0.0,Neutral,0.0,Neutral,0.4370506703853607,Positive
-"Тебя уже нет Майкл, но песни твои будут жить, пока поколения выросшие на них помнят тебя!",-0.2244,Negative,0.0369318181818181,Neutral,0.500364363193512,Positive
+"Тебя уже нет Майкл, но песни твои будут жить, пока поколения выросшие на них помнят тебя!",-0.2244,Negative,0.0369318181818181,Positive,0.500364363193512,Positive
 E,0.0,Neutral,0.0,Neutral,0.2746336758136749,Neutral
 "people say ""we have to change"" or ""we have to stop throwing trash on the ground""
-my point is that i'm tired of hearing people say that but there is NO ACTION, for example burning fossil fuels to get enough fuel for cars, there is now a car that runs on electricity (yes, the tesla) why don't they just make a bunch of those and say block all cars that run on fuel and make people buy the teslas by raising the price of normal cars for A LOT,  i know it's not that easy but it's worth a try. but first someone needs to find a solution for the renewable and non renewable energy situation.",-0.442,Negative,0.0976190476190476,Neutral,-0.3871782720088959,Negative
+my point is that i'm tired of hearing people say that but there is NO ACTION, for example burning fossil fuels to get enough fuel for cars, there is now a car that runs on electricity (yes, the tesla) why don't they just make a bunch of those and say block all cars that run on fuel and make people buy the teslas by raising the price of normal cars for A LOT,  i know it's not that easy but it's worth a try. but first someone needs to find a solution for the renewable and non renewable energy situation.",-0.442,Negative,0.0976190476190476,Positive,-0.3871782720088959,Negative
 É simplesmente incrível o quanto as músicas do Michael não envelhecem nunca... Surreal!,0.6239,Positive,0.3375000000000001,Positive,-0.7122254371643066,Negative
 😔 ThE best,0.6705,Positive,1.0,Positive,0.8985339403152466,Positive
-Moc hezká píseň. Lituji že jsi umřel ☹️😭,-0.7436,Negative,0.14,Neutral,0.3881150782108307,Positive
+Moc hezká píseň. Lituji že jsi umřel ☹️😭,-0.7436,Negative,0.14,Positive,0.3881150782108307,Positive
 2022 y un ídolo todavía sigue intacto,0.2023,Positive,0.0,Neutral,0.6824328899383545,Positive
 "Miss you mj neeraj Kumar ,,,🇦🇺🇨🇮👼🥺😂💥🙏🌹🌈💫✨🌟⭐🌠🌍🦢🌃🥇🏅🕯️🕉️💟⚛️🛐☸️☮️☯️☪️✝️☦️✡️🔯🕎♾️🆔♥️♦️♣️♠️🏁",0.9716,Positive,0.0,Neutral,-0.3576164543628692,Negative
 Exellent...,0.5719,Positive,1.0,Positive,0.8173097968101501,Positive
 Tend Neely gethsamane,0.0,Neutral,0.0,Neutral,-0.3595945835113525,Negative
 Idk what he’s trying to do,-0.1027,Negative,0.0,Neutral,0.4225817918777466,Positive
-Bit ironic of Michael to make this song. He bought animals from a well known convicted animal torturer called Ricardo Giazza.,-0.4019,Negative,0.2,Neutral,0.4375694990158081,Positive
+Bit ironic of Michael to make this song. He bought animals from a well known convicted animal torturer called Ricardo Giazza.,-0.4019,Negative,0.2,Positive,0.4375694990158081,Positive
 this song is 26 years old. the effects are bad a** for being made so long ago in this video.,-0.5423,Negative,-0.2166666666666666,Negative,-0.4787412881851196,Negative
 "Сижу в подвале Мариупольского дома, слышу как мой и дома по соседству  розносят в щепки . Мне просто хочется выйти , и чтобы меня разнесло снарядом под эту песню.",0.0772,Positive,0.0,Neutral,-0.2849414050579071,Negative
 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -367,7 +367,7 @@ This track is still fire 🔥,-0.5859,Negative,0.0,Neutral,0.356345921754837,Pos
 April 2022.. war in Ukraine 💔💔,-0.1779,Negative,0.0,Neutral,-0.6054108142852783,Negative
 Hello uzbekistan,0.0,Neutral,0.0,Neutral,0.4943737089633941,Positive
 🙋👍,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Hahahaha,0.0,Neutral,0.2,Neutral,-0.2560436725616455,Negative
+Hahahaha,0.0,Neutral,0.2,Positive,-0.2560436725616455,Negative
 "This man's vibes was so Real 💯, captivating 🙌🏾, and so lit 🔥 , you'll live forever legend, king of Pop",-0.3976,Negative,0.4431818181818182,Positive,0.9077052474021912,Positive
 Exellent..,0.0,Neutral,0.0,Neutral,0.8032931685447693,Positive
 Je suis le seul français,0.0,Neutral,0.0,Neutral,-0.2652128338813782,Negative
@@ -386,7 +386,7 @@ PUTIN ESTE SENIL. SI CU ASTA BASTA!!!",-0.5053,Negative,-0.0625,Negative,0.37926
 In 27 April 2022❤️‍🔥❤️‍🔥❤️‍🔥,-0.7351,Negative,0.0,Neutral,-0.4844798147678375,Negative
 Micheal Jackson didn’t care about the earth he did nothing to help he owned all those animals in his zoo don’t act like he did anything to help,0.0808,Positive,0.0,Neutral,-0.6501066088676453,Negative
 ❤❤❤❤❤❤❤❤,0.9887,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"사람들은 좋은 음악을 몰라, 정말 실망이야",-0.7095,Negative,0.0499999999999999,Neutral,0.5068691372871399,Positive
+"사람들은 좋은 음악을 몰라, 정말 실망이야",-0.7095,Negative,0.0499999999999999,Positive,0.5068691372871399,Positive
 이 노래는 조회수가 10억이어야 하고 1200만 좋아요는 사람들이 좋은 노래를 평가하지 않습니다.,0.6908,Positive,0.7,Positive,-0.3875701129436493,Negative
 why did u kill Tanjiro's family?,-0.6908,Negative,0.0,Neutral,-0.3038952648639679,Negative
 "I'm From South Africa 2022 
@@ -395,16 +395,16 @@ Love YOU boss Jackson",0.6369,Positive,0.5,Positive,0.7133513689041138,Positive
 el mejor video y cancion de la historia mundial no les quepa la menor duda,0.4019,Positive,1.0,Positive,0.8559250235557556,Positive
 Love you 😍 across the Universe and beyond...love you magically MISS YOU😭😭😭Poeske B Belgium,-0.5319,Negative,0.5,Positive,0.7790687084197998,Positive
 this is one song that makes me feel so guilty and emotional every time I listen to it. The fact that a song can make you feel that way props to MJ for being a lyrical genius.,-0.4123,Negative,-0.25,Negative,0.6264677047729492,Positive
-"Este es el video que veíamos todos los días con mi hermana de pequeños y mi hermana siempre lloraba. Yo soy músico, hago canciones y soy feliz porque por fin estoy haciendo lo que me gusta y siempre me he inspirado en uno de los grandes como mi ídolo Michael Jackson.",0.8519,Positive,0.2041666666666667,Neutral,0.712659478187561,Positive
+"Este es el video que veíamos todos los días con mi hermana de pequeños y mi hermana siempre lloraba. Yo soy músico, hago canciones y soy feliz porque por fin estoy haciendo lo que me gusta y siempre me he inspirado en uno de los grandes como mi ídolo Michael Jackson.",0.8519,Positive,0.2041666666666667,Positive,0.712659478187561,Positive
 God I cry to this song everytime.,-0.25,Negative,0.0,Neutral,0.8439651131629944,Positive
 AMAZING SONG!,0.6239,Positive,0.7500000000000001,Positive,0.8625369071960449,Positive
 The best music video ever....and I like the song💗💗💗,0.9732,Positive,1.0,Positive,0.9392310976982116,Positive
 Yall are crazy for listening to mr plastic over here oml,-0.34,Negative,-0.6,Negative,-0.4083682298660278,Negative
 Karlovac 💙🇭🇷,0.0,Neutral,0.0,Neutral,0.30540332198143,Neutral
 ❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Cantor do crl. Nunca morreras. Voz cristalina,0.2411,Positive,0.1,Neutral,0.7069877982139587,Positive
+Cantor do crl. Nunca morreras. Voz cristalina,0.2411,Positive,0.1,Positive,0.7069877982139587,Positive
 A legend ahead of his time. Michael wrote & released this song 27 years ago. 🙏🏻🍀,0.0,Neutral,0.0,Neutral,0.8417654633522034,Positive
-wow i was born in 2008 and now in the 2022 i'm here to listen mj again,0.5859,Positive,0.1,Neutral,0.7750325202941895,Positive
+wow i was born in 2008 and now in the 2022 i'm here to listen mj again,0.5859,Positive,0.1,Positive,0.7750325202941895,Positive
 "2022 april 27 I am still here,,,,     miss you MJ,,,,,,, much love,,, <3",0.7579,Positive,0.75,Positive,0.4023762345314026,Positive
 "Остановите нападение россии, защитите мою страну, Украину!!!!!",-0.5951,Negative,0.0,Neutral,0.4156481623649597,Positive
 who comes from now united and the bootcampers💖?,0.8481,Positive,0.0,Neutral,0.2547779381275177,Neutral
@@ -417,7 +417,7 @@ Miss😢😢😢😢 you legend Michael Jackson,-0.9186,Negative,0.0,Neutral,0.5
 Earth is crying... Michael is crying... I'm crying too...What we've done with our home🏠???,-0.8702,Negative,-0.2,Negative,-0.441556304693222,Negative
 "Te fallamos macky , no pudimos cambiar.nada solo.empeorarlo todo, nos queda menos de 7 años para que todo desaparezca.",-0.8074,Negative,-0.2666666666666666,Negative,-0.7331509590148926,Negative
 Esta canción representan todo lo que está pasando ahora mismo y como va de mal en peor todo,-0.765,Negative,-0.2714285714285714,Negative,0.6771202087402344,Positive
-It's April 2022 now but this song is incredibily powerful and timeless,0.5719,Positive,0.3,Neutral,0.335359126329422,Positive
+It's April 2022 now but this song is incredibily powerful and timeless,0.5719,Positive,0.3,Positive,0.335359126329422,Positive
 We need to send millions of copies of this to Putin. Along with millions of bibles.,0.0,Neutral,0.0,Neutral,-0.7935270667076111,Negative
 He was and he is and will be the best.  Michael Jackson  MJ I love you so much. You will be with me till my last breath,0.8555,Positive,0.425,Positive,0.8932300209999084,Positive
 i'm crying,-0.4767,Negative,-0.2,Negative,0.3298914730548858,Neutral
@@ -436,7 +436,7 @@ Alguém 2022...? 🇧🇷,0.0,Neutral,0.0,Neutral,-0.5478643178939819,Negative
 I'm from 2023,0.0,Neutral,0.0,Neutral,0.3292362093925476,Neutral
 💛💙,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2022 who’s here,0.0,Neutral,0.0,Neutral,0.3046025335788727,Neutral
-"I was 8 years old when the song came out, I remember the video very well. It had such a big inpact on me. It is such a shame to see that basically nothing has changed in all that time.",-0.1796,Negative,0.06,Neutral,-0.3974231481552124,Negative
+"I was 8 years old when the song came out, I remember the video very well. It had such a big inpact on me. It is such a shame to see that basically nothing has changed in all that time.",-0.1796,Negative,0.06,Positive,-0.3974231481552124,Negative
 i love alot of his songs,0.6369,Positive,0.5,Positive,0.6291108131408691,Positive
 "evolution is luckily doing something about the poachers. Although its sad that actual evolution is forced to change animals because of humans. 
 
@@ -444,13 +444,13 @@ im referring to Elephants being born without tusks. Some scientist believe its n
 Marvellous video😀👍👍👍👍👍👍👍👍❤❤❤❤❤❤❤❤,0.9899,Positive,0.0,Neutral,0.8760063648223877,Positive
 they say all humans bad. while its the capitalist rich mf child who is protesting on the streets. it's not the aborigines and indians and stuff that are guilty. not the white old male. it's the capitalist,-0.6705,Negative,-0.1208333333333333,Negative,-0.5821008682250977,Negative
 March M H S (blue house)🌈,0.0,Neutral,0.0,Neutral,0.3829251229763031,Positive
-mf was damn right,-0.4019,Negative,0.2857142857142857,Neutral,-0.3396107852458954,Negative
+mf was damn right,-0.4019,Negative,0.2857142857142857,Positive,-0.3396107852458954,Negative
 A legent,0.0,Neutral,0.0,Neutral,0.3014530539512634,Neutral
-VIOLAR A CORRESPONDÊNCIA É UM CRIME MUITO ANTIGO DR CRISTINA SANTOS ANTUNES,-0.8062,Negative,0.13,Neutral,-0.5868527889251709,Negative
+VIOLAR A CORRESPONDÊNCIA É UM CRIME MUITO ANTIGO DR CRISTINA SANTOS ANTUNES,-0.8062,Negative,0.13,Positive,-0.5868527889251709,Negative
 2022 <3 aqui seguimos,0.4404,Positive,1.0,Positive,0.3075075447559356,Neutral
 "Ethil kanunna pole ala Earthinte avastha...first kaanikkuna Black colour poleyann.. human made wars, pollution etc..okke karrannam
 Enittu ningal evide pattum kettu cinema kandirikkunnu
-Nannamille?",-0.5574,Negative,0.0277777777777777,Neutral,-0.4567490816116333,Negative
+Nannamille?",-0.5574,Negative,0.0277777777777777,Positive,-0.4567490816116333,Negative
 miky,0.0,Neutral,0.0,Neutral,0.2600902915000915,Neutral
 1:57 la predicción guerra contra Rusia.,-0.5994,Negative,0.0,Neutral,-0.4537637531757355,Negative
 "This made people cry many, many years ago. Why must it make us cry too today? Why is it still so relevant? Mankind truly never learns.",-0.5262,Negative,0.4666666666666666,Positive,-0.3426122665405273,Negative
@@ -466,7 +466,7 @@ MICHAEL JACKSON JANCOK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Legendary,0.0,Neutral,1.0,Positive,0.7853575348854065,Positive
 2022 :/,-0.34,Negative,-0.25,Negative,0.2336636185646057,Neutral
 "Україна , Маріуполь, Харьків допоможіть. Допоможіть нам !!!!",0.7627,Positive,0.0,Neutral,0.6136104464530945,Positive
-"Tenemos otras alternativas en vez de utilizar la fauna y los animales  para nuestros caprichos inútiles,tenemos energía renovables de las que si quieren podrían sacar mucho dinero si es lo que les interesa ,no como el petróleo y todo aquello que contamina al menos las anteriores nunca se e gastan pero la energías no renovables si ,asi que hay que hacer algo ,ahora solo tenemos a Michel y mucha gente que está de acuerdo ante el echo de volver a los tiempos en los que todo era bonito y estaba bien cuidado ☺️ animooo nosotros podemos evitar todo esto",0.9741,Positive,0.0322916666666666,Neutral,-0.6302223205566406,Negative
+"Tenemos otras alternativas en vez de utilizar la fauna y los animales  para nuestros caprichos inútiles,tenemos energía renovables de las que si quieren podrían sacar mucho dinero si es lo que les interesa ,no como el petróleo y todo aquello que contamina al menos las anteriores nunca se e gastan pero la energías no renovables si ,asi que hay que hacer algo ,ahora solo tenemos a Michel y mucha gente que está de acuerdo ante el echo de volver a los tiempos en los que todo era bonito y estaba bien cuidado ☺️ animooo nosotros podemos evitar todo esto",0.9741,Positive,0.0322916666666666,Positive,-0.6302223205566406,Negative
 "Liebe den Song 
 Der ist mega gut ..",0.9001,Positive,0.5111111111111111,Positive,0.7405731081962585,Positive
 He knows that...,0.0,Neutral,0.0,Neutral,0.3374853730201721,Positive
@@ -475,11 +475,11 @@ He knows that...,0.0,Neutral,0.0,Neutral,0.3374853730201721,Positive
 The best cover I've heard of this song was aranged by Sam Robson: https://www.youtube.com/watch?v=n2hVgU3PjhU,0.6369,Positive,1.0,Positive,0.7864906191825867,Positive
 i miss Michal Jackson🥹✌️,-0.1531,Negative,0.0,Neutral,0.3931540250778198,Positive
 "I don't think people really understand how powerful this message is.
-RIP KING MICHAEL",0.4703,Positive,0.25,Neutral,-0.455083966255188,Negative
+RIP KING MICHAEL",0.4703,Positive,0.25,Positive,-0.455083966255188,Negative
 asta a el grifo más fuerte se le escapa unas gotas 🥃😢,-0.0516,Negative,-0.2,Negative,-0.5072606205940247,Negative
 "This song says everything.
 It makes me so emotional.  A masterpiece.",0.7565,Positive,0.0,Neutral,0.9001628756523132,Positive
-"This song makes me think of Ukraine, and their fight with Russia, why can't man live in peace with each other?.",0.2263,Positive,0.0056818181818181,Neutral,0.474492609500885,Positive
+"This song makes me think of Ukraine, and their fight with Russia, why can't man live in peace with each other?.",0.2263,Positive,0.0056818181818181,Positive,0.474492609500885,Positive
 This makes me cry 😭,-0.7351,Negative,0.0,Neutral,0.5507599115371704,Positive
 1,0.0,Neutral,0.0,Neutral,0.42043337225914,Positive
 ...  Notre Terre #savetheplanet,0.0,Neutral,0.0,Neutral,0.3321819603443146,Positive
@@ -496,12 +496,12 @@ mirza eppolum kalikkunundi...nazriya amma ayo..
 Ee vrithikketta newsu kettu weight on 🌎 avakee",0.0,Neutral,0.0,Neutral,-0.4162259101867676,Negative
 It should be common human/people...not man,0.0,Neutral,-0.3,Negative,-0.3365692794322967,Negative
 Because you people are not accepting the TRUTH even now..truth is always BITTER,-0.8032,Negative,-0.1,Negative,-0.3839388191699981,Negative
-If you are not crying after realising the Earth's condition because of only you = humans...then consult a psychiatrist,0.3724,Positive,0.05,Neutral,-0.2133571058511734,Negative
+If you are not crying after realising the Earth's condition because of only you = humans...then consult a psychiatrist,0.3724,Positive,0.05,Positive,-0.2133571058511734,Negative
 This song gives me goosebumps. It is sooo beautiful.,0.5994,Positive,0.85,Positive,0.6171466708183289,Positive
 Legendary,0.0,Neutral,1.0,Positive,0.7853575348854065,Positive
 Люблю)😘,0.7906,Positive,0.0,Neutral,0.5729976892471313,Positive
 Leggenda  straordinaria..🌍🌎🌏♥♥♥🙏,0.9274,Positive,0.3333333333333333,Positive,0.8112492561340332,Positive
-faites de bonnes actions selon ses idées au moins,0.4404,Positive,0.1999999999999999,Neutral,0.4610267579555511,Positive
+faites de bonnes actions selon ses idées au moins,0.4404,Positive,0.1999999999999999,Positive,0.4610267579555511,Positive
 "commercial NON MERCI
 j aime Michael Jackson
 J AIME PAS LE PROFIT SUR SON NOM!!!!!",-0.7307,Negative,0.5,Positive,-0.4334704577922821,Negative
@@ -524,7 +524,7 @@ Hope you have a nice warm night! 🌙
 
 *PSS:* I'M 16 MONTHS CLEAN and still struggling to do my best to be after all the loneliness and being bullied for my autism. I also have witnessed a strange Mexican Man tonight that was doing a Catholic Pose I think near by a street and felt weirded out and asked if he was okay as he seemed to be on drugs.
 
-Sun. April 24th. 2022 @ 11:37pm.",0.6739,Positive,0.1990196078431372,Neutral,0.2577396929264068,Neutral
+Sun. April 24th. 2022 @ 11:37pm.",0.6739,Positive,0.1990196078431372,Positive,0.2577396929264068,Neutral
 "Nephew ala niece aanu
 Her name is AVNI
 meaning 🌎
@@ -541,7 +541,7 @@ Te extraño Michael💖,0.7003,Positive,0.0,Neutral,-0.348788857460022,Negative
 24/04/ 2022 RIP King of pop 😭,-0.4767,Negative,0.0,Neutral,-0.5082957744598389,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 We miss you I hope you are in a beautiful place ❤️ You will always be the King 💐,0.7351,Positive,0.85,Positive,0.6535166501998901,Positive
-I sent this video to various Islamic Facebook pages.  I would love to send it to Vladimir Putin.,0.6369,Positive,0.25,Neutral,-0.5221325159072876,Negative
+I sent this video to various Islamic Facebook pages.  I would love to send it to Vladimir Putin.,0.6369,Positive,0.25,Positive,-0.5221325159072876,Negative
 Prayers requested multi languages,0.0,Neutral,0.0,Neutral,0.3667316734790802,Positive
 Rooftop's quarter third quarters lasted,0.0,Neutral,0.0,Neutral,-0.3532104790210724,Negative
 Seeds,0.0,Neutral,0.0,Neutral,0.2874697744846344,Neutral
@@ -551,10 +551,10 @@ Yesss. Top gun Augusta university graduation party soon Sunday morning,0.2732,Po
 "политиканы, у вас есть вторая планета?",0.0,Neutral,0.0,Neutral,-0.3850429058074951,Negative
 Он восстанавливает наш серый мир. ДА БУДЕТ ТАК!!!! ¡,0.5216,Positive,0.0,Neutral,0.7841426134109497,Positive
 gives me shivering ❤️❤️ it’s 2022,0.0,Neutral,0.0,Neutral,0.256532609462738,Neutral
-Viva maicol jackson,0.0,Neutral,0.0431818181818181,Neutral,0.5266353487968445,Positive
-Never fails to make me cry.,-0.1945,Negative,0.25,Neutral,0.5271203517913818,Positive
+Viva maicol jackson,0.0,Neutral,0.0431818181818181,Positive,0.5266353487968445,Positive
+Never fails to make me cry.,-0.1945,Negative,0.25,Positive,0.5271203517913818,Positive
 "Love how he can express himself this music, all true, sends shivers up my spine.. peace love respect 🙏 💕",0.9723,Positive,0.45,Positive,0.8954281210899353,Positive
-Michael Jackson still alive in my heart 🥺💗,0.9136,Positive,0.1,Neutral,0.6784704327583313,Positive
+Michael Jackson still alive in my heart 🥺💗,0.9136,Positive,0.1,Positive,0.6784704327583313,Positive
 "Sempre choro com esse clip
  Dá-me uma dor no peito, nem sei se ele, Michael sofria com esta música,  mas eu sinto como se a terra estivesse fugindo., sumindo do nosso alcance! Como se fosse o fim da humanidade! 😢😢",-0.8953,Negative,0.0,Neutral,-0.3999492228031158,Negative
 :(,-0.4404,Negative,-0.75,Negative,0.2481449097394943,Neutral
@@ -576,13 +576,13 @@ I use to dream
 I used to glance beyond the stars
 Now i dont know where we are
 Although i know
-We drifted far!!!",0.5229,Positive,0.298828125,Neutral,0.4969765841960907,Positive
+We drifted far!!!",0.5229,Positive,0.298828125,Positive,0.4969765841960907,Positive
 "Feel the song....🎧🎧🎧...
 My favorite song😍💕",0.8834,Positive,0.5,Positive,0.8553454279899597,Positive
 I am here today and Forever because i love this song.,0.6369,Positive,0.5,Positive,0.8735147714614868,Positive
 ❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 No war,0.4847,Positive,0.0,Neutral,-0.571196973323822,Negative
-Saludos desde Ecuador aquí seguimos escuchandote Michael Jackson siempre estarás en nuestros corazones de todos tus seguidores ah nivel mundial hoy domingo 24 de abril del 2022 escuchando uno de tus clásico en esta época de Pandemia mundial que ya está pasando poco ah poco Dios permita y vengas tiempos mejores AMÉN 🙇🏾‍♂️,0.9255,Positive,0.15625,Neutral,0.3710758686065674,Positive
+Saludos desde Ecuador aquí seguimos escuchandote Michael Jackson siempre estarás en nuestros corazones de todos tus seguidores ah nivel mundial hoy domingo 24 de abril del 2022 escuchando uno de tus clásico en esta época de Pandemia mundial que ya está pasando poco ah poco Dios permita y vengas tiempos mejores AMÉN 🙇🏾‍♂️,0.9255,Positive,0.15625,Positive,0.3710758686065674,Positive
 El rey del pop 👑❤,0.6369,Positive,0.0,Neutral,0.7052955627441406,Positive
 "respect Michael Jackson, he always sings about peace, but until now, until he left us the world has no peace",-0.1217,Negative,0.0,Neutral,0.3728225529193878,Positive
 3:05 chills,0.0,Neutral,0.0,Neutral,0.2943517565727234,Neutral
@@ -594,18 +594,18 @@ Yes il a tout compris  c là 3 guere mondial  il a était  assassiné  lah irahm
 🌍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 The best Michael Jackson song. Period.,0.6369,Positive,1.0,Positive,0.7657780051231384,Positive
 "Most powerful song ever Bar none. It is impossible not to cry through the entire video. 
-Earth decaying,wars going on,hatred all around,MJ put it all in the song. Here we are,seeing it all before our very eyes,just like the video,his lyrics like a prophecy.",0.8728,Positive,0.0666666666666666,Neutral,-0.6941535472869873,Negative
+Earth decaying,wars going on,hatred all around,MJ put it all in the song. Here we are,seeing it all before our very eyes,just like the video,his lyrics like a prophecy.",0.8728,Positive,0.0666666666666666,Positive,-0.6941535472869873,Negative
 The best song ever,0.6369,Positive,1.0,Positive,0.9543907642364502,Positive
 De verdad  es una hermosa canción  apocalíptica y un gran himno deberíamos compartir para quienes no la conocen,0.7239,Positive,0.825,Positive,0.7922644019126892,Positive
 A climate activist set himself on fire on Earth day in front of the Supreme Court. The US media decided to lie and say they didn't know what his motives were.,0.296,Positive,0.0,Neutral,-0.4928679168224334,Negative
-Every earth day I listen to this specific song more than anything,0.0,Neutral,0.25,Neutral,0.7247769236564636,Positive
+Every earth day I listen to this specific song more than anything,0.0,Neutral,0.25,Positive,0.7247769236564636,Positive
 We should take care of our earth our home,0.4939,Positive,0.0,Neutral,0.4852741360664367,Positive
 Imagine is a earth Day music,0.0,Neutral,0.0,Neutral,0.4152881801128387,Positive
 We need much more people like Michael 🥺 Miss you angel 💔,0.507,Positive,0.5,Positive,0.3374814093112945,Positive
 Who is here for Earth day 2022 and forever.. MJ is Magic 👑👑👑,0.0,Neutral,0.5,Positive,0.7288002371788025,Positive
 here we go again.  same ole shit.,-0.5574,Negative,-0.1,Negative,-0.3242591023445129,Negative
 J l'adore ❤️ Michael Jackson c'est le roi 👄👄👄👄🤩🤩🤩,0.6369,Positive,0.5,Positive,0.7750743627548218,Positive
-the jesus of new world,0.0,Neutral,0.1363636363636363,Neutral,0.4673259258270263,Positive
+the jesus of new world,0.0,Neutral,0.1363636363636363,Positive,0.4673259258270263,Positive
 "Well, who will say that WW3💥🔥 may start THIS YEAR in 2022 (which will look like the events in Michael's vid) and we may not be able to see 2023?",-0.0772,Negative,0.5,Positive,0.3266744315624237,Neutral
 Que bonito🥰🥰🥰💖💖💖💖,0.9944,Positive,0.85,Positive,0.2432734668254852,Neutral
 "This is weird, So Michael Jackson died on June 25 2009 but this music video was made in OCTOBER 3 2009!",-0.4721,Negative,-0.625,Negative,-0.3218817710876465,Negative
@@ -620,10 +620,10 @@ So, in the next decade, the majority of the Boomers will be gone, and it is in m
 
 PS Ironically, the Baby Boomer invented the internet so, we did something right that will help the world!
 
-Live and enjoy life!!",0.9664,Positive,0.0905393217893218,Neutral,0.6039963364601135,Positive
+Live and enjoy life!!",0.9664,Positive,0.0905393217893218,Positive,0.6039963364601135,Positive
 👍👍👍🥰😇,0.8834,Positive,0.0,Neutral,0.3085779249668121,Neutral
 The storm that Europe  brought accross this world is evil u would think. They would just say sorry an tell the truth how they kill for lands. Just say sorry thats all we want we are n the last days  and they are willi g to die for lies,-0.8402,Negative,-0.5,Negative,-0.734817624092102,Negative
-Très sensible,0.0,Neutral,0.13,Neutral,0.5278611779212952,Positive
+Très sensible,0.0,Neutral,0.13,Positive,0.5278611779212952,Positive
 "End the U.N., the WHO & THE NWO & all of the destruction of the nations will stop.",-0.7096,Negative,0.0,Neutral,0.4624923765659332,Positive
 2022 now..... What have we done? We are still on the road towards doom almost at the point of no return...,-0.5994,Negative,0.0,Neutral,-0.4793015420436859,Negative
 "Michael Jackson dejó la barra muy alta, para que otro artista lo superé.",0.2023,Positive,0.33,Positive,-0.4405283629894256,Negative
@@ -632,18 +632,18 @@ Grande Maikel as sido único,0.6249,Positive,0.5875,Positive,0.3156787157058716,
 RIP THE KING ⭐🎶🙏🦁🔥✊🌎❤⭐⭐⭐,0.4215,Positive,0.0,Neutral,0.3385553359985351,Positive
 Michael Jackson said smelly jelly,0.0,Neutral,0.0,Neutral,-0.3781154155731201,Negative
 earth day,0.0,Neutral,0.0,Neutral,0.3277584910392761,Neutral
-Mother fuckers sleep on this song. It's a stealthy classic,-0.6124,Negative,0.1666666666666666,Neutral,-0.4625113010406494,Negative
+Mother fuckers sleep on this song. It's a stealthy classic,-0.6124,Negative,0.1666666666666666,Positive,-0.4625113010406494,Negative
 Нет лучшего,-0.3412,Negative,-0.25,Negative,-0.4242900907993316,Negative
 This EARTH❤️ isnt made for humans👎,0.0,Neutral,0.0,Neutral,-0.2827612161636352,Negative
 23 del 2022,0.0,Neutral,0.0,Neutral,0.2424459904432296,Neutral
-Wow never heard this song till today. 🥺,0.5859,Positive,0.1,Neutral,0.4354185760021209,Positive
-And they try say that someone who has there heart in a place like this could touch children when he cares so much what I say to them people get te fuk,0.8658,Positive,0.2,Neutral,-0.349197655916214,Negative
+Wow never heard this song till today. 🥺,0.5859,Positive,0.1,Positive,0.4354185760021209,Positive
+And they try say that someone who has there heart in a place like this could touch children when he cares so much what I say to them people get te fuk,0.8658,Positive,0.2,Positive,-0.349197655916214,Negative
 There Nothing Here To Death There’s About Your Life,0.4847,Positive,0.0,Neutral,-0.3965949118137359,Negative
 Nothing to gane here it's just death for tree's .And survival for animals.,-0.7701,Negative,0.0,Neutral,-0.4596811830997467,Negative
-"Mankind greatly needs to self sustain and stop this bull:!#&* we are doing on this living earth. And we say us humans are intelligent. The rest of the world suffers thanks to this great intelligence we humans have, and don't know how to apply it, to safe guard the earth and all life on it to the next golden age. Thanks to the greedy evil cooperations that want to control everything and everyone.",0.8172,Positive,0.22,Neutral,0.4483878314495086,Positive
+"Mankind greatly needs to self sustain and stop this bull:!#&* we are doing on this living earth. And we say us humans are intelligent. The rest of the world suffers thanks to this great intelligence we humans have, and don't know how to apply it, to safe guard the earth and all life on it to the next golden age. Thanks to the greedy evil cooperations that want to control everything and everyone.",0.8172,Positive,0.22,Positive,0.4483878314495086,Positive
 Er war ein Geschenk für diese Welt in Liebe ❤ und ein Genie für die Wahrheit ❤❤❤ und seine Musik konnte alles Sagen und Sehen  !!!,0.9819,Positive,0.9765625,Positive,0.7580676674842834,Positive
 I am crying after watching this song old is gold 😭,-0.7351,Negative,-0.05,Negative,0.4824376106262207,Positive
-I never get tired of this if I had wings I’d fly to you tell you I love you my angel 😘💋♥️💞🙏,0.967,Positive,0.3,Neutral,0.8099904656410217,Positive
+I never get tired of this if I had wings I’d fly to you tell you I love you my angel 😘💋♥️💞🙏,0.967,Positive,0.3,Positive,0.8099904656410217,Positive
 Esto le está pasando a la tierra....,0.0,Neutral,0.0,Neutral,-0.3231278955936432,Negative
 Here to stay,0.0,Neutral,0.0,Neutral,0.4196843206882477,Positive
 2022🎀,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -652,7 +652,7 @@ What an insane world is this my gyys,-0.4019,Negative,-1.0,Negative,0.5750725269
 2010 to 2020💕,0.6486,Positive,0.0,Neutral,0.2966968417167663,Neutral
 WHO will be there in 2023,0.0,Neutral,0.0,Neutral,0.3267922103404999,Neutral
 ©04232022,0.0,Neutral,0.0,Neutral,0.3010639548301697,Neutral
-2:40 I feel what happened and that earth is almost done and we’re all working on making humans feel safe but Ukraine 🇺🇦 wars suffering and death theres nothing to be laughing about to be honest cause we are humans and humans are unique in all different ways but it’s so sad to see what’s happening in Ukraine 🇺🇦 This song means a lot so appreciate the time and everything he took of of his LIFE👉🏿🥀👉🏿❤️👉🏿🖤,-0.8122,Negative,0.195,Neutral,-0.288483589887619,Negative
+2:40 I feel what happened and that earth is almost done and we’re all working on making humans feel safe but Ukraine 🇺🇦 wars suffering and death theres nothing to be laughing about to be honest cause we are humans and humans are unique in all different ways but it’s so sad to see what’s happening in Ukraine 🇺🇦 This song means a lot so appreciate the time and everything he took of of his LIFE👉🏿🥀👉🏿❤️👉🏿🖤,-0.8122,Negative,0.195,Positive,-0.288483589887619,Negative
 Forever Micheal 👉🏿❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🤝🥀🖤🖤🖤🖤😞👈🏿👈🏿😙👈🏿👉🏿😖👈🏿😭😭😭,0.9201,Positive,0.0,Neutral,0.6815171241760254,Positive
 I miss this angel so much I hated from him to leave this world June 25 2009 😭😭😭😭,-0.9563,Negative,-0.9,Negative,-0.7829698324203491,Negative
 Him he to,0.0,Neutral,0.0,Neutral,0.2904824018478393,Neutral
@@ -666,8 +666,8 @@ Preciosísimo vídeo con un mensaje que las personas no deben olvidar nunca.,0.6
 "He knew this will be,,,
 Russia and Ukraine
 R i p @king on pop,,
-You alive in our mind,, even if we can't see you for eyes but all that's possible for our mind, rest in paradise 😢😢",-0.1779,Negative,0.05,Neutral,0.4573871195316314,Positive
-Deus queira que essa não seja a realidade das próximas gerações. Pois estão destruindo o planeta,-0.3612,Negative,0.0166666666666666,Neutral,-0.3620395362377167,Negative
+You alive in our mind,, even if we can't see you for eyes but all that's possible for our mind, rest in paradise 😢😢",-0.1779,Negative,0.05,Positive,0.4573871195316314,Positive
+Deus queira que essa não seja a realidade das próximas gerações. Pois estão destruindo o planeta,-0.3612,Negative,0.0166666666666666,Positive,-0.3620395362377167,Negative
 "I'm watching this again in 2022,,, I'll never forget you Mr Michael Jackson ❤️❤️❤️❤️",0.1695,Positive,0.0,Neutral,0.6661116480827332,Positive
 Yesterday 22. of april was Internatiol Earth Day.. And MJ was the perfect song for it.,0.5719,Positive,0.5,Positive,0.60745769739151,Positive
 MJ IS THE KING OF POP KING OF DANCE KING OF MUSIC,0.0,Neutral,0.0,Neutral,0.7117334604263306,Positive
@@ -692,7 +692,7 @@ Hope you have a nice warm night! 🌙
 
 *Oh yes! HAPPY LATE 🌎 DAY!!!*
 
-Fri. April 22th. 2022 @ 11:44pm.",0.9578,Positive,0.179938126566416,Neutral,0.470010370016098,Positive
+Fri. April 22th. 2022 @ 11:44pm.",0.9578,Positive,0.179938126566416,Positive,0.470010370016098,Positive
 Humans have done a lot of stupid things,-0.5267,Negative,-0.7999999999999999,Negative,-0.5606741309165955,Negative
 "We should help our planet, welst some people want to go to mars and I think that's running away, we should help our planet",0.6908,Positive,0.0,Neutral,0.322558730840683,Neutral
 22 de abril el día dónde recuerdo a este genio,0.0,Neutral,0.0,Neutral,0.7048172354698181,Positive
@@ -706,10 +706,10 @@ Viernes 22/ abril /2022 🏞️ 🌍,0.0,Neutral,0.0,Neutral,-0.5214618444442749
 "I remember being a child listening to my  Father who was born in Haiti play Michael Jackson, Bob Marley, Luther Vandross & rest Haitian music.. born in the United States now 36 I read a post that said we never left! that’s clear after all these years... in my own life.. 
 
 
-*Michael will continue to touch millions*",0.5119,Positive,0.2333333333333333,Neutral,0.6303747892379761,Positive
-Nunca me cansaré de esta grandiosa canción!!!,0.8117,Positive,0.3,Neutral,0.889607310295105,Positive
+*Michael will continue to touch millions*",0.5119,Positive,0.2333333333333333,Positive,0.6303747892379761,Positive
+Nunca me cansaré de esta grandiosa canción!!!,0.8117,Positive,0.3,Positive,0.889607310295105,Positive
 "Incomparável, insubstituível, MJ rocks. Eterno, imortal. O melhor clip always.",0.7351,Positive,0.7,Positive,0.7471166849136353,Positive
-This song is still powerful & relatable to this day,0.4215,Positive,0.3,Neutral,0.6970246434211731,Positive
+This song is still powerful & relatable to this day,0.4215,Positive,0.3,Positive,0.6970246434211731,Positive
 Happy Earth Day 2022 🌎,0.5719,Positive,0.8,Positive,0.6585147976875305,Positive
 Michael the best ever!!!,0.7249,Positive,1.0,Positive,0.9073394536972046,Positive
 "Esta es la canción perfecta para reflexionar en él dia de la tierra❤reafirmemos nuestro compromiso por cuidar nuestro hogar ya que todos somos habitantes del mismo y le debemos mucho, literalmente la vida🦋",0.9287,Positive,1.0,Positive,0.8030058741569519,Positive
@@ -737,7 +737,7 @@ At least once in their life.
 🌏 Happy Earth Day 4/22/22 🌎,0.5719,Positive,0.8,Positive,0.5676271915435791,Positive
 Happy Earth Day!!!,0.6784,Positive,1.0,Positive,0.7520326972007751,Positive
 🌳🌎HAPPY EARTH DAY🌎🌳,0.0,Neutral,0.0,Neutral,0.3618012070655823,Positive
-He certainly understood god and ALL his glory we ALL ready had him ??? One love to ALL xxx,0.9353,Positive,0.3047619047619047,Neutral,0.7490935921669006,Positive
+He certainly understood god and ALL his glory we ALL ready had him ??? One love to ALL xxx,0.9353,Positive,0.3047619047619047,Positive,0.7490935921669006,Positive
 Happy earth day 🌎 🌱,0.5719,Positive,0.8,Positive,0.6273508667945862,Positive
 WHO'S HERE ON EARTH DAY?🌎,0.0,Neutral,0.0,Neutral,-0.2455901801586151,Negative
 1:57 this reminds me of how Russia vs Ukraine war happened.,-0.5994,Negative,0.0,Neutral,0.4257802367210388,Positive
@@ -745,24 +745,24 @@ Perfect for Earth Day! 🌎🌍🌏🌐,0.6114,Positive,1.0,Positive,0.856234073
 What's the point of watching the video if we don't become aware?☹️,0.2584,Positive,0.0,Neutral,0.2449344396591186,Neutral
 Mi profe de zumba siempre ponía esta canción todos los años en esta fecha cuando estirabamos.  <3333,0.34,Positive,-0.05,Negative,0.4624741673469543,Positive
 My #1 favorite Artist ever!! ❤❤,0.9183,Positive,0.78125,Positive,0.9749327301979064,Positive
-Power pistons x-raycers hot wheels comentários 179 mil,0.0,Neutral,0.25,Neutral,0.4123189151287079,Positive
+Power pistons x-raycers hot wheels comentários 179 mil,0.0,Neutral,0.25,Positive,0.4123189151287079,Positive
 Bruh who's else is listening to this song on earth day 2022,0.0,Neutral,0.0,Neutral,-0.4143812954425812,Negative
 this number is catharsis.  this is not what the earth deserves,0.0772,Positive,0.0,Neutral,-0.7367421388626099,Negative
 Happy Earth Day! Beautiful song!!!,0.8679,Positive,1.0,Positive,0.8376344442367554,Positive
 This song will always have a place in my heart,0.6369,Positive,0.0,Neutral,0.7171746492385864,Positive
 Play this in russia,0.34,Positive,0.0,Neutral,0.4669845700263977,Positive
 Happy Earth Day. Honor to   Ukraine to save them. Michael!! Safe the Ukraine!! Happy Earth Day. Rip MJ.,0.9576,Positive,0.8604166666666666,Positive,0.7375887036323547,Positive
-this song makes me anxious. i love this tho,0.4939,Positive,0.125,Neutral,0.8423823118209839,Positive
+this song makes me anxious. i love this tho,0.4939,Positive,0.125,Positive,0.8423823118209839,Positive
 Karlovac city.,0.0,Neutral,0.0,Neutral,0.4162612855434418,Positive
 ésta canción dice mucho 🌏❤️,0.0,Neutral,0.0,Neutral,0.4366304874420166,Positive
 ❤️❤️❤️🌟🌞🌟🌞,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 We all love you ❤️❤️❤️❤️❤️❤️❤️,0.6369,Positive,0.5,Positive,0.9142821431159972,Positive
-escuchen a los cientificos!!!!!! el mundo se esta acabando cuidemos el planeta. Esta cancion tenia toda la razon,0.6562,Positive,0.2857142857142857,Neutral,0.6002663969993591,Positive
+escuchen a los cientificos!!!!!! el mundo se esta acabando cuidemos el planeta. Esta cancion tenia toda la razon,0.6562,Positive,0.2857142857142857,Positive,0.6002663969993591,Positive
 We all miss you Michael Jackson,-0.1531,Negative,0.0,Neutral,0.2801896929740906,Neutral
 Is beautiful 🌎,0.5994,Positive,0.85,Positive,0.7183216214179993,Positive
 "Powerful. 
 
-I miss you Michael 🥺😭",-0.2263,Negative,0.3,Neutral,0.6736320853233337,Positive
+I miss you Michael 🥺😭",-0.2263,Negative,0.3,Positive,0.6736320853233337,Positive
 Whose still here in 3000,0.0,Neutral,0.0,Neutral,0.3690295815467834,Positive
 One of his greatest!,0.6696,Positive,1.0,Positive,0.9392154216766356,Positive
 🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦💙💛💙💛💙💛💙,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -776,7 +776,7 @@ It's a good mensage.,0.4404,Positive,0.7,Positive,0.3395640552043915,Positive
 this song for Ukraine,0.0,Neutral,0.0,Neutral,0.4536331593990326,Positive
 Earthday 2022❤✌Love you MJ,0.6369,Positive,0.0,Neutral,0.3934114873409271,Positive
 Człowiek to największy szkodnik na świece !!,0.0,Neutral,0.0,Neutral,0.8735095858573914,Positive
-Similar song BE AS ONE - THE SAME OLD WAY (live improv),0.0,Neutral,0.059090909090909,Neutral,0.2602568864822387,Neutral
+Similar song BE AS ONE - THE SAME OLD WAY (live improv),0.0,Neutral,0.059090909090909,Positive,0.2602568864822387,Neutral
 Michael Jackson cared & did a lot;  they still ignore the message. Truly sad. Peace& love,0.8316,Positive,0.0,Neutral,-0.5107977390289307,Negative
 "Earth Song
 Song by Michael Jackson
@@ -894,7 +894,7 @@ Ooh-ooh-ooh-ooh-ooh",-0.9871,Negative,-0.0273504273504273,Negative,0.28577801585
 Anyone else here for earth day? 🌎,0.0,Neutral,0.0,Neutral,0.2865605056285858,Neutral
 Happy earth day,0.5719,Positive,0.8,Positive,0.5934653878211975,Positive
 Earth day 🌎♥️!!,0.6988,Positive,0.0,Neutral,0.5233330726623535,Positive
-"Hoy es el dia de la tierra y en pleno 2022 aun hay guerras y desastre , Michael nos dejo este mensaje hermoso , solo que cuando salio no quisieron escucharlo y prohibieron esta hermosa canción , solo tenemos un hogar y tenemos que cuidarlo 💚",0.8035,Positive,0.2833333333333333,Neutral,0.5621843338012695,Positive
+"Hoy es el dia de la tierra y en pleno 2022 aun hay guerras y desastre , Michael nos dejo este mensaje hermoso , solo que cuando salio no quisieron escucharlo y prohibieron esta hermosa canción , solo tenemos un hogar y tenemos que cuidarlo 💚",0.8035,Positive,0.2833333333333333,Positive,0.5621843338012695,Positive
 My childhood MJ I remember this was Christmas Day No1 on top of the pops 👌🏼,0.7865,Positive,0.5,Positive,0.7036651968955994,Positive
 "Happy Earht Day 🌎🌍🌏. 
 This is one of the best songs of the King 👑",0.836,Positive,0.9,Positive,0.8493690490722656,Positive
@@ -906,16 +906,16 @@ Listening on earth day 2022.   Michael stays with us.,0.0,Neutral,0.0,Neutral,0.
 Happy earth day 2022🌍",0.5719,Positive,0.8,Positive,0.6679219007492065,Positive
 Miss you,-0.1531,Negative,0.0,Neutral,-0.413879781961441,Negative
 Earth day,0.0,Neutral,0.0,Neutral,0.3277584910392761,Neutral
-There's a clear message in the song,0.3818,Positive,0.1,Neutral,0.3509519398212433,Positive
+There's a clear message in the song,0.3818,Positive,0.1,Positive,0.3509519398212433,Positive
 chills,0.0,Neutral,0.0,Neutral,-0.2648105025291443,Negative
 🌍❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song trigger different emotions within me. Wow... just wow,0.8225,Positive,0.0666666666666666,Neutral,0.7605294585227966,Positive
+This song trigger different emotions within me. Wow... just wow,0.8225,Positive,0.0666666666666666,Positive,0.7605294585227966,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-"Понятно, что леса снимали в Амазонии , а пустыни в Африке. Но посыл понятен. Если не остановятся, будет безжизненная Африка",0.7834,Positive,0.1,Neutral,0.5003111958503723,Positive
+"Понятно, что леса снимали в Амазонии , а пустыни в Африке. Но посыл понятен. Если не остановятся, будет безжизненная Африка",0.7834,Positive,0.1,Positive,0.5003111958503723,Positive
 "It's Earth Day, listen to MJ song ""Earth Song"".",0.0,Neutral,0.0,Neutral,0.2927804887294769,Neutral
-happy earth day everyone I started a new thing today where I have to watch this at least once every earth day I got chills multiple times listening and watching this what an amazing song rest easy Michael 💔😭,0.8555,Positive,0.2782828282828283,Neutral,0.8384010195732117,Positive
+happy earth day everyone I started a new thing today where I have to watch this at least once every earth day I got chills multiple times listening and watching this what an amazing song rest easy Michael 💔😭,0.8555,Positive,0.2782828282828283,Positive,0.8384010195732117,Positive
 Cuidemos a nuestra madre tierra 🌎 Feliz día Madre tierra,0.7845,Positive,0.8,Positive,0.6588870286941528,Positive
-WE LOVE YOU MICHAEL FROM DOWN BELOW!!!,0.7249,Positive,0.0980902777777777,Neutral,0.9240427613258362,Positive
+WE LOVE YOU MICHAEL FROM DOWN BELOW!!!,0.7249,Positive,0.0980902777777777,Positive,0.9240427613258362,Positive
 happy earth day💜,0.836,Positive,0.8,Positive,0.6652786135673523,Positive
 the best in the world for me forever. El mejor del mundo para mí por siempre,0.8555,Positive,1.0,Positive,0.9499654173851012,Positive
 In Memory of Ukraine,0.0,Neutral,0.0,Neutral,0.5510439276695251,Positive
@@ -937,7 +937,7 @@ Earth Day 2022 ❤️,0.0,Neutral,0.0,Neutral,0.3606823086738586,Positive
 Happy Earth Day 2022,0.5719,Positive,0.8,Positive,0.6453123092651367,Positive
 Happy earth day 🌎 2022,0.5719,Positive,0.8,Positive,0.6641263961791992,Positive
 🙏❤️🌻 love you Michael always and forever in my heart  🙏🙏🌻🌻❤️❤️,0.8555,Positive,0.5,Positive,0.912759244441986,Positive
-Such a meaningful song anytime  Any day any year,0.3182,Positive,0.25,Neutral,0.8364776968955994,Positive
+Such a meaningful song anytime  Any day any year,0.3182,Positive,0.25,Positive,0.8364776968955994,Positive
 Earth Day,0.0,Neutral,0.0,Neutral,0.3277584910392761,Neutral
 Who’s here today 2022,0.0,Neutral,0.0,Neutral,0.5251440405845642,Positive
 It's Earth Day 🌍🌳 2022,0.0,Neutral,0.0,Neutral,0.4172745048999786,Positive
@@ -959,7 +959,7 @@ Happy Earth Day,0.5719,Positive,0.8,Positive,0.5934653878211975,Positive
 I listend it in school today,0.0,Neutral,0.0,Neutral,0.4757256805896759,Positive
 "Ukraine 🇺🇦 Russia 🇷🇺 
 😥",0.3291,Positive,0.0,Neutral,-0.2314262986183166,Negative
-Sempre attuale bellissima struggente,0.5994,Positive,0.2833333333333333,Neutral,0.8195026516914368,Positive
+Sempre attuale bellissima struggente,0.5994,Positive,0.2833333333333333,Positive,0.8195026516914368,Positive
 "Непревзойдённый Майкл!!! Красивый, талантливый. Детская чистая душа.",0.8367,Positive,0.6035714285714286,Positive,0.8931127786636353,Positive
 "Майкл, для большая честь быть твоей поклонницей, буду любить тебя вечно ❤️💋💓💋💓💓💋💋",0.9922,Positive,0.5,Positive,0.7159757018089294,Positive
 Happy Earth Day!!! 🌍,0.6784,Positive,1.0,Positive,0.7451516389846802,Positive
@@ -974,7 +974,7 @@ Ohh that melodiyaa,0.0,Neutral,0.0,Neutral,0.3163972795009613,Neutral
 How could we work to prevent destruction of  rainforests?🥲,-0.5574,Negative,0.0,Neutral,0.3319855034351349,Positive
 "Ya que es día de la tierra, recordemos este himno del 1995, han pasado 27 años desde entonces y vamos de mal en peor. Grande Michael!",-0.784,Negative,-0.3666666666666666,Negative,0.7596659064292908,Positive
 Today is Earth Day....Let's keep a moment of silence.....🌍🌎🌏,0.0,Neutral,0.0,Neutral,0.5609884858131409,Positive
-Today is Earth day and I want this to be the earth anthem. Literally I sang this song whole day in school,0.0772,Positive,0.2,Neutral,0.764396071434021,Positive
+Today is Earth day and I want this to be the earth anthem. Literally I sang this song whole day in school,0.0772,Positive,0.2,Positive,0.764396071434021,Positive
 Happy? #EarthDay,0.5719,Positive,0.8,Positive,0.2311160564422607,Neutral
 "Bez tak Tě Michael nechali zabít, kdo rozumí, ví kdo. Je mi z toho všeho smutno.",-0.8316,Negative,-0.5,Negative,-0.4699894189834595,Negative
 Michael jackson is angel 😇 💖 and the greatest of all time,0.9274,Positive,1.0,Positive,0.9159755110740662,Positive
@@ -1004,7 +1004,7 @@ Happy Earth Day,0.5719,Positive,0.8,Positive,0.5934653878211975,Positive
 Michael Jackson is a true legend never death even in their hearts and his voice lives with us ♥ ️,0.9376,Positive,0.675,Positive,0.8093446493148804,Positive
 2022....still masterpiece,0.6249,Positive,0.0,Neutral,0.6465775370597839,Positive
 #Voicepower,0.0,Neutral,0.0,Neutral,0.4302008152008056,Positive
-"who’s crying ? powerful images and song, even more poignant today!",-0.1511,Negative,0.15,Neutral,0.7606832385063171,Positive
+"who’s crying ? powerful images and song, even more poignant today!",-0.1511,Negative,0.15,Positive,0.7606832385063171,Positive
 He is a legend....    Thnks to God I witnessed his songs.. ❤❤❤❤,0.9633,Positive,0.0,Neutral,0.6637088060379028,Positive
 To day is a day of earth,0.0,Neutral,0.0,Neutral,0.4698675274848938,Positive
 "Caraca! espetacular! amazing! Eterno MJ., hoje e o dia da terra e vim aqui relembrar o poder que esse clip tem em nos fazer refletir sobre a terra e o mal que causamos sobre ela.",0.5067,Positive,0.7500000000000001,Positive,0.9286209344863892,Positive
@@ -1022,12 +1022,12 @@ Earth Day 2022,0.0,Neutral,0.0,Neutral,0.3332907855510711,Positive
 It is not a happy day for the earth. There is only pain surrounding us. Only destruction on life,-0.8749,Negative,-0.1333333333333333,Negative,-0.4646648168563843,Negative
 "please don't destroy nature, don't consume in excess, don't throw trash on the ground, just make a difference.",0.631,Positive,-0.2,Negative,-0.5485726594924927,Negative
 Happy earth 🌍 day everyone make a better world 😭,0.5423,Positive,0.65,Positive,0.7231864929199219,Positive
-#PrayersforUkraine 🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾 within this song it speaks of War. We saw the War Tank within it!!! Powerful and the song and video Still Speaks Today 4-22-2022,-0.783,Negative,0.3,Neutral,0.6438295245170593,Positive
+#PrayersforUkraine 🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾 within this song it speaks of War. We saw the War Tank within it!!! Powerful and the song and video Still Speaks Today 4-22-2022,-0.783,Negative,0.3,Positive,0.6438295245170593,Positive
 🌍#EarthSong #EarthdayEveryday 🌍Earth Song is one of my favorite video and songs from the Late Great Michael Jackson 🌍 but like many others I have a lot of favorite MJ songs. His Legacy Lives On!!!!!,0.918,Positive,0.5,Positive,0.5090393424034119,Positive
 Happy #EarthDay please remember this song when ever you don't care about the planet you live on,0.5223,Positive,0.4681818181818182,Positive,0.6776415705680847,Positive
 LOVE HIM SO MUCH ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,0.9945,Positive,0.35,Positive,0.8670341372489929,Positive
-I can't stop crying watching this please save earth we only have 1 earth happy earth day! ❤🌎,0.9526,Positive,0.2666666666666666,Neutral,0.4430055618286133,Positive
-Das fing is really that that Something like walking Gangnam Style erst mal Views,0.3612,Positive,0.2,Neutral,-0.3585351705551147,Negative
+I can't stop crying watching this please save earth we only have 1 earth happy earth day! ❤🌎,0.9526,Positive,0.2666666666666666,Positive,0.4430055618286133,Positive
+Das fing is really that that Something like walking Gangnam Style erst mal Views,0.3612,Positive,0.2,Positive,-0.3585351705551147,Negative
 My friend told me that today is earth day and I was like I have listen to mj's Earth  Song❤️❤️.Happy Earth day to everyone 🌎🌍,0.6908,Positive,0.0,Neutral,0.7325554490089417,Positive
 "🌎 Today it's Earth Day, so let's join to hear this anthem 🌎",0.3566,Positive,0.0,Neutral,0.5551244616508484,Positive
 "Today is Earth Day, let's keep sharing this song!!! 🌎🌍🌏",0.5684,Positive,0.0,Neutral,0.6717989444732666,Positive
@@ -1047,7 +1047,7 @@ Once a king always a king 🔥✨,-0.0258,Neutral,0.0,Neutral,0.6021503210067749
 está canción de hace años hoy en día sigue igual y todavía no lo podemos ver....,0.0,Neutral,0.0,Neutral,0.5354402661323547,Positive
 HAPPY EARTH 🌍 DAY! 🥲,0.6932,Positive,1.0,Positive,0.746297299861908,Positive
 😢💔,-0.25,Negative,0.0,Neutral,0.3085779249668121,Neutral
-"On Earth day, what else than Eart song?!! I'm so graetful to live here!!🐢🦚🦩🦕🦋🐛🌍💚",0.8816,Positive,0.1363636363636363,Neutral,0.7689259052276611,Positive
+"On Earth day, what else than Eart song?!! I'm so graetful to live here!!🐢🦚🦩🦕🦋🐛🌍💚",0.8816,Positive,0.1363636363636363,Positive,0.7689259052276611,Positive
 BTS is nothing,0.0,Neutral,0.0,Neutral,-0.461043506860733,Negative
 MJ ❤️❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.2707640826702118,Neutral
 "Earth Day and nothing has changes!!! 

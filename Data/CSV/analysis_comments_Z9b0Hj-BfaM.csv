@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Me encanta !!,0.6988,Positive,0.78125,Positive,0.8407928347587585,Positive
-Sakinleşmek için geldim sakinleşip gideceğim😉😆,0.7096,Positive,0.0722222222222222,Neutral,-0.5114122629165649,Negative
+Sakinleşmek için geldim sakinleşip gideceğim😉😆,0.7096,Positive,0.0722222222222222,Positive,-0.5114122629165649,Negative
 "Jimin  × Ha Sung Woon
 WITH YOU 
 THE BEST OST",0.8091,Positive,1.0,Positive,0.7625027298927307,Positive
@@ -19,7 +19,7 @@ Tão linda voz de jimin  junto ao Sung woon .... Canção tão linda .,0.8802,Po
 들어도 들어도 왜~
 처음 듣는것같은지 ~
 그냥 목소리가  치유된다는  말들이
-맞는것 같아요~",0.4329,Positive,0.2952380952380952,Neutral,0.3071646094322204,Neutral
+맞는것 같아요~",0.4329,Positive,0.2952380952380952,Positive,0.3071646094322204,Neutral
 "지미니 목소리 오늘처럼
 바람살랑 구름가득한  날
 들으니 더~ 더 ~ㅠㅠ",0.3612,Positive,0.5,Positive,-0.3355305194854736,Negative
@@ -28,7 +28,7 @@ Tão linda voz de jimin  junto ao Sung woon .... Canção tão linda .,0.8802,Po
 Could listen to this song again and again",0.988,Positive,0.675,Positive,0.699902355670929,Positive
 "정말 너무 좋아요 
 슬픈데 따뜻한 기분이 드는데,
-음색도 둘의 목소리도 너무 좋지 않나 ㅠㅠ",0.8425,Positive,0.25,Neutral,0.5221315026283264,Positive
+음색도 둘의 목소리도 너무 좋지 않나 ㅠㅠ",0.8425,Positive,0.25,Positive,0.5221315026283264,Positive
 This is really a perfect combination of both vocal,0.6096,Positive,1.0,Positive,0.8289299607276917,Positive
 its jimin feat sungwoon..please lets also appreciate sungwoon's voice/vocals too,0.4019,Positive,0.0,Neutral,0.3456371426582336,Positive
 요즘에 진짜 잘 듣고있어요 좋은 ost 내준 지민오빠 성운오빠 감사합니당!,0.8585,Positive,0.5375,Positive,0.4465053081512451,Positive
@@ -50,11 +50,11 @@ thanks Sung-Woon and Jimin.",0.7672,Positive,-0.2333333333333333,Negative,0.5917
 дорога к 10м,0.0,Neutral,0.0,Neutral,0.4217495620250702,Positive
 So cool,0.3804,Positive,0.35,Positive,0.67906254529953,Positive
 Jimin,0.0,Neutral,0.0,Neutral,0.2740837931632995,Neutral
-2:56 to last line I'm really melted by Jimin's heavenly voice😍😍😍💜💜💜,0.979,Positive,0.1,Neutral,-0.4158214926719665,Negative
+2:56 to last line I'm really melted by Jimin's heavenly voice😍😍😍💜💜💜,0.979,Positive,0.1,Positive,-0.4158214926719665,Negative
 9m,0.0,Neutral,0.0,Neutral,0.3000504970550537,Neutral
 صوت جيمين 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3503083288669586,Positive
 切ないのにあたたかい,0.1027,Positive,-0.0499999999999999,Negative,0.3649384081363678,Positive
-mesmerizing....,0.0,Neutral,0.3,Neutral,0.4117407202720642,Positive
+mesmerizing....,0.0,Neutral,0.3,Positive,0.4117407202720642,Positive
 Sin duda la voz de Jimin es la de un angel...,0.4019,Positive,0.0,Neutral,0.2641589939594269,Neutral
 성운아ㅜㅜㅜ 목소리 녹는다녹아ㅠㅠㅠㅠㅠ,0.0,Neutral,0.0,Neutral,-0.4880733788013458,Negative
 تجننن أصواتهم تلامس القلب 🎶💜,0.6369,Positive,0.0,Neutral,0.4605304300785064,Positive
@@ -62,13 +62,13 @@ I'm listening Sungwoon for the 1st time and his voice really took away my heart.
 Jimin,0.0,Neutral,0.0,Neutral,0.2740837931632995,Neutral
 "Jimin  X ha sung woon suara kalian lembut bet.
 Emot love purple, emot bunga matahari,
-Suaranya adem banget,",0.8622,Positive,0.3166666666666666,Neutral,-0.3542263507843017,Negative
-Wow 👏,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+Suaranya adem banget,",0.8622,Positive,0.3166666666666666,Positive,-0.3542263507843017,Negative
+Wow 👏,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 ohhh my god jiminnnnn!!!!! I can't describe you!!.💜🥺😩😭💜,0.816,Positive,0.0,Neutral,-0.7377329468727112,Negative
 I Promise I'll Never Leave Your Love ; 😍😍,0.6224,Positive,0.5,Positive,0.6772871017456055,Positive
 💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 jimin's soft voice make me a perfect day,0.5719,Positive,0.55,Positive,0.7278412580490112,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Jimin 💜,0.6369,Positive,0.0,Neutral,0.3609654009342193,Positive
 They both just nailed it🌚💞💞💞💞 i can listen this on loop without getting bored,0.9639,Positive,-0.5,Negative,0.4030258059501648,Positive
 Everything,0.0,Neutral,0.0,Neutral,0.5032996535301208,Positive
@@ -77,12 +77,12 @@ Everything,0.0,Neutral,0.0,Neutral,0.5032996535301208,Positive
 جيمين اخخ😓😓,-0.5267,Negative,0.0,Neutral,0.2936576604843139,Neutral
 목소리가 아주 녹네요💜💜👍👍,0.8646,Positive,0.0,Neutral,0.4144932329654693,Positive
 💜💜💜💜💜,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
-지민이 끝음 처리하는 것 좀 봐요...너무 예쁘다,0.6269,Positive,0.25,Neutral,0.4572183489799499,Positive
+지민이 끝음 처리하는 것 좀 봐요...너무 예쁘다,0.6269,Positive,0.25,Positive,0.4572183489799499,Positive
 We love you Jimin,0.6369,Positive,0.5,Positive,0.8004896640777588,Positive
 ❤️💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💜🔮,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 With you,0.0,Neutral,0.0,Neutral,0.4392923414707184,Positive
-"even if you listen 100 times, the feelings are alys new..",0.0,Neutral,0.1363636363636363,Neutral,0.6422767639160156,Positive
+"even if you listen 100 times, the feelings are alys new..",0.0,Neutral,0.1363636363636363,Positive,0.6422767639160156,Positive
 الاغنيه إدمان وربي,0.0,Neutral,0.0,Neutral,0.2891435623168945,Neutral
 so beautiful song,0.6361,Positive,0.85,Positive,0.8064171671867371,Positive
 10M soon fighting,-0.3612,Negative,0.0,Neutral,0.440895676612854,Positive
@@ -106,12 +106,12 @@ Extremely in love with this song,0.6682,Positive,0.5,Positive,0.8155515789985657
 can we get this 9M soon,0.0,Neutral,0.0,Neutral,0.4312684237957001,Positive
 It’s one masterpiece,0.6249,Positive,0.0,Neutral,0.8107070326805115,Positive
 JIMIN 💙,0.6369,Positive,0.0,Neutral,0.3609654009342193,Positive
-Jimin and Ha Sung Won both have great voices. Thank you for your hard work. Thank you 🌸💜,0.9584,Positive,0.2541666666666666,Neutral,0.7944639921188354,Positive
+Jimin and Ha Sung Won both have great voices. Thank you for your hard work. Thank you 🌸💜,0.9584,Positive,0.2541666666666666,Positive,0.7944639921188354,Positive
 Jimin thank you for being our artist we love you so much,0.7717,Positive,0.35,Positive,0.8416521549224854,Positive
 Jimin I love you,0.6369,Positive,0.5,Positive,0.7629115581512451,Positive
 Beautiful song and a great feeling for those who listen to it,0.8591,Positive,0.825,Positive,0.6840095520019531,Positive
 I’m in love with jimin’s voice and his accent,0.6369,Positive,0.5,Positive,0.5700965523719788,Positive
-"as much as i'm glad for all the appreciation and support jimin (my BTS bias since 2014) is receiving, i hope everyone can also show the same amount of love to sungwoon (my hotshot bias while they were active...) as well! they are close friends, and i imagine it wouldn't feel great if one receives most of the attention for something both of them worked hard on together :/",0.9468,Positive,0.1989583333333333,Neutral,0.6312708258628845,Positive
+"as much as i'm glad for all the appreciation and support jimin (my BTS bias since 2014) is receiving, i hope everyone can also show the same amount of love to sungwoon (my hotshot bias while they were active...) as well! they are close friends, and i imagine it wouldn't feel great if one receives most of the attention for something both of them worked hard on together :/",0.9468,Positive,0.1989583333333333,Positive,0.6312708258628845,Positive
 "뮤비 
 스포티파이
 스밍 스밍",0.0,Neutral,0.0,Neutral,0.2773513197898865,Neutral
@@ -125,7 +125,7 @@ Jiminshiiii,0.4404,Positive,0.7,Positive,0.4383178651332855,Positive
 I'm nothing without your love,0.4122,Positive,0.5,Positive,0.3335230350494385,Positive
 This song is lit🔥🔥😍😍Jimin and ha sungwoon r so beautiful and they blend so good wooow❤️❤️❤️😍😍.. I'm addicted 😜,0.9603,Positive,0.3833333333333333,Positive,0.7562556266784668,Positive
 I have been hearing this song on loop,0.0,Neutral,0.0,Neutral,-0.2448707520961761,Negative
-JIMIN em rất nhớ anh,-0.1531,Negative,0.2,Neutral,0.3115413784980774,Neutral
+JIMIN em rất nhớ anh,-0.1531,Negative,0.2,Positive,0.3115413784980774,Neutral
 Cdhuriesjdjfjfid,0.0,Neutral,0.0,Neutral,0.245395079255104,Neutral
 Love Jimin love Sungwoon ❤️,0.8555,Positive,0.5,Positive,0.6514988541603088,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
@@ -133,44 +133,44 @@ So proud of them,0.5256,Positive,0.8,Positive,0.8336499929428101,Positive
 What a beautiful song,0.5994,Positive,0.85,Positive,0.8229455947875977,Positive
 Just like the stars shining bright,0.6597,Positive,0.7000000000000001,Positive,0.5803843140602112,Positive
 목소리가  너무좋아요,0.5777,Positive,0.7,Positive,0.3418087661266327,Positive
-I wanna stay near you....,0.0,Neutral,0.1,Neutral,0.3156141638755798,Neutral
+I wanna stay near you....,0.0,Neutral,0.1,Positive,0.3156141638755798,Neutral
 With you makes me cry,-0.4767,Negative,0.0,Neutral,0.3911519944667816,Positive
 The song sounds so nice and beautiful 😍 really both the singers did a great job💜 Borahae,0.9642,Positive,0.6125,Positive,0.6711218357086182,Positive
 I miss jimin,-0.1531,Negative,0.0,Neutral,0.3120353519916534,Neutral
 Sungwoon’s voice always giving me goosebumps. So sweet and tingling my heart. Perfect for kdramas.,0.9345,Positive,0.675,Positive,0.8537531495094299,Positive
-Sigamos apoyando,0.4404,Positive,0.25,Neutral,0.3316161930561065,Positive
+Sigamos apoyando,0.4404,Positive,0.25,Positive,0.3316161930561065,Positive
 I can't stop listening to this song Jimin's voice puts the biggest smile on my face but the lyrics and video make me cry my emotions are all over the place with this  but I love it.,0.5919,Positive,0.4,Positive,0.6114262342453003,Positive
 giọng em bé jm của tớ ngọt ngào quá đi huhuhu,0.5949,Positive,0.35,Positive,-0.4117572605609894,Negative
 The angel voice 💜💜💜,0.9274,Positive,0.0,Neutral,0.4382437169551849,Positive
-With you came right into my heart,0.6369,Positive,0.2857142857142857,Neutral,0.6569865345954895,Positive
+With you came right into my heart,0.6369,Positive,0.2857142857142857,Positive,0.6569865345954895,Positive
 "This song is so beautiful 
 ~♪With You♡",0.7177,Positive,0.85,Positive,0.8227877020835876,Positive
-I wanna stay near you,0.0,Neutral,0.1,Neutral,0.4050823450088501,Positive
+I wanna stay near you,0.0,Neutral,0.1,Positive,0.4050823450088501,Positive
 JIMIN and JUNGKOOK 👏👏👏💜💜💜,0.9274,Positive,0.0,Neutral,0.3344989717006683,Positive
 With you~♡~,0.0,Neutral,0.0,Neutral,0.5885685086250305,Positive
-2:39 tam burda kalbim 🤍,0.6369,Positive,0.2857142857142857,Neutral,-0.3406651318073272,Negative
+2:39 tam burda kalbim 🤍,0.6369,Positive,0.2857142857142857,Positive,-0.3406651318073272,Negative
 Tek başına sahilde dalga sesleri eşliğinde gün batımında yürüyüş yaparken dinlemelik... Deneyeceğim...,-0.25,Negative,0.4,Positive,-0.2525611221790313,Negative
 ♡ & ♡ forever and ever and ever,0.0,Neutral,0.0,Neutral,0.8309810161590576,Positive
-Jimin'in sesi cidden huzur...,0.5413,Positive,0.25,Neutral,-0.3804197907447815,Negative
-세상에 단하나뿐인 지민이~정말이지 목소리 넘 좋아😭눈물이다나네.지민아~~고마워,0.1423,Positive,0.1,Neutral,-0.338275134563446,Negative
+Jimin'in sesi cidden huzur...,0.5413,Positive,0.25,Positive,-0.3804197907447815,Negative
+세상에 단하나뿐인 지민이~정말이지 목소리 넘 좋아😭눈물이다나네.지민아~~고마워,0.1423,Positive,0.1,Positive,-0.338275134563446,Negative
 8M ♡,0.0,Neutral,0.0,Neutral,0.5828185081481934,Positive
 ♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.2831399440765381,Neutral
 "Jimin × Ha Sung Woon 
        WITH YOU
 Now that I have this song, I can sing it together. I always hear your voice in my ears. I love your voice so much I want to call it a dream. I'm so addicted. BORAHAE
 이제 이 노래가 있으니 함께 부를 수 있어요. 내 귀에는 항상 당신의 목소리가 들립니다. 당신의 목소리가 너무 좋아서 꿈이라고 부르고 싶습니다. 나는 너무 중독되어 있습니다.
-지민아... 사랑해...",0.9529,Positive,0.0999999999999999,Neutral,0.635174572467804,Positive
+지민아... 사랑해...",0.9529,Positive,0.0999999999999999,Positive,0.635174572467804,Positive
 Une ost incroyable,0.0,Neutral,0.9,Positive,0.7706992626190186,Positive
 들어도 들어도 너무 좋다,0.4927,Positive,0.7,Positive,0.4831021428108215,Positive
 Just wooooow! This is yet another masterpiece. I simply love how how their voices blend together in this song. I love it,0.9299,Positive,0.5,Positive,0.9241307973861694,Positive
 Morning~~,0.0,Neutral,0.0,Neutral,0.3038952946662903,Neutral
 "지민은 자기 노래 홍보도 안하고. 너무 궁금하다 
 슈가나 뷔가 적극적으로 홍보하는거에 비해 너무 조용하다. 
-나서서 뭔가 해 주면 좋겠다. 나대지 않아서 젤 좋아하긴 하지만 그래도 지금은 조금 자신을 보여줬으면한다.",0.737,Positive,0.0548611111111111,Neutral,0.4740654528141022,Positive
+나서서 뭔가 해 주면 좋겠다. 나대지 않아서 젤 좋아하긴 하지만 그래도 지금은 조금 자신을 보여줬으면한다.",0.737,Positive,0.0548611111111111,Positive,0.4740654528141022,Positive
 "자꾸 듣고 싶은 치유의
 노래",0.0772,Positive,0.0,Neutral,0.4980044960975647,Positive
 خیلی عالی و دوست داشتنی عاشقتم جیمین ❤💜,0.9711,Positive,0.5499999999999999,Positive,0.7533077597618103,Positive
-"Simplemente mí día no está completo sin está canción :') La amo demasiado, es una joya",0.3607,Positive,0.2666666666666666,Neutral,-0.3084450662136078,Negative
+"Simplemente mí día no está completo sin está canción :') La amo demasiado, es una joya",0.3607,Positive,0.2666666666666666,Positive,-0.3084450662136078,Negative
 "Peaceful, lovely…🥰
 Many blessings for you guys!",0.9359,Positive,0.4375,Positive,0.8651341199874878,Positive
 지민이 무슨 생각하면서 이 노랠 불렀을지 너무 궁금하다,0.0,Neutral,0.0,Neutral,-0.3774598240852356,Negative
@@ -194,7 +194,7 @@ I love u Jimin,0.6369,Positive,0.5,Positive,0.7236015796661377,Positive
 Amo mucho,0.6369,Positive,0.5,Positive,0.6249130368232727,Positive
 Jimin suara mu enak sekali,0.5777,Positive,0.7,Positive,0.3426521122455597,Positive
 😢💙💛💙,0.8885,Positive,0.0,Neutral,0.3085779249668121,Neutral
-드라마도 지미니 목소리도 너무좋아요,0.4201,Positive,0.2,Neutral,0.3403318226337433,Positive
+드라마도 지미니 목소리도 너무좋아요,0.4201,Positive,0.2,Positive,0.3403318226337433,Positive
 8.3050222,0.0,Neutral,0.0,Neutral,0.2721017897129059,Neutral
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 지민이 목소리 너무 좋아 감정이 풍부하게 담겨있음 여기가 천국인가😇,0.8232,Positive,0.5249999999999999,Positive,0.40594482421875,Positive
@@ -220,21 +220,21 @@ Anh còn muốn tôi điên cuồng vì anh thêm bao lâu nữa đâyy 😩🤟
 지민 늘 응원해요!,0.4574,Positive,0.0,Neutral,0.5855395793914795,Positive
 Jimin y Ha Sung Woon hermosa mezcla de voces... canción divina que enamora,0.9337,Positive,0.675,Positive,0.7589086890220642,Positive
 is this drama heartbreaking? like why am i crying?,-0.6072,Negative,-0.2,Negative,-0.5683749318122864,Negative
-Just wow,0.5859,Positive,0.1,Neutral,0.6649276614189148,Positive
+Just wow,0.5859,Positive,0.1,Positive,0.6649276614189148,Positive
 "우리지민,성운님 친구분
 힐링보이스 감성천재네요
 with you",0.5719,Positive,0.0,Neutral,0.6432482600212097,Positive
 In love with Jimin’s voice,0.6369,Positive,0.5,Positive,0.5303292870521545,Positive
 💜💜💜💜💜💜💜💜💜💜💜💜💜,0.9957,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Do not worry, you are not the only one addicted to this song. I'm listening to it all the time, with you.
-This is so awesome.",0.8247,Positive,0.1999999999999999,Neutral,0.9190698862075806,Positive
+This is so awesome.",0.8247,Positive,0.1999999999999999,Positive,0.9190698862075806,Positive
 Estaba ansiosa pero esta canción me curo,-0.128,Negative,-0.25,Negative,-0.3647074997425079,Negative
 i love you jimin-ssiiiiii,0.6369,Positive,0.5,Positive,0.8072513937950134,Positive
 Amo tanto está canción ♡,0.6369,Positive,0.35,Positive,0.7262263894081116,Positive
-"Suka bangat sumpah,",0.1317,Positive,0.2,Neutral,0.3574910759925842,Positive
+"Suka bangat sumpah,",0.1317,Positive,0.2,Positive,0.3574910759925842,Positive
 Sweet!,0.5093,Positive,0.4375,Positive,0.6441998481750488,Positive
 La voz de Jimin es tan hermosa<3,0.8469,Positive,0.925,Positive,0.7049856781959534,Positive
-So warm...Jimin voice alway make me feel sweet and deep...,0.4588,Positive,0.175,Neutral,0.3783119618892669,Positive
+So warm...Jimin voice alway make me feel sweet and deep...,0.4588,Positive,0.175,Positive,0.3783119618892669,Positive
 Me encanta mi amorcito jimin💜💜💜💜💜💜,0.9878,Positive,0.5,Positive,0.8196678161621094,Positive
 The whiplash after watching That That then head over to With you.,0.0,Neutral,0.0,Neutral,-0.2815374135971069,Negative
 가사를 다 외우고 있어요. 하지만 계속 듣겠습니다. 그들의 목소리는 웅장하고 매력적입니다. 그들은 OST의 왕이다.,0.9109,Positive,0.85,Positive,-0.3578556180000305,Negative
@@ -253,28 +253,28 @@ Todo en esta canción me gusta,0.3612,Positive,0.0,Neutral,0.4858037233352661,Po
 "El primer OST de mi bebé, estoy tan orgullosaaaaaaa",0.4767,Positive,0.525,Positive,0.7641659379005432,Positive
 "eu amo tanto essa música, ela me traz tanta paz e conforto, as vozes do jimin e sungwoon se encaixam tão bem! Uma verdadeira obra de arte! 😩🤲🏻🗯️💗",0.9591,Positive,0.3675,Positive,0.8430401086807251,Positive
 "La voz de Jimin es perfecta, el es muy talentoso y lindo. <33",0.8899,Positive,0.8033333333333333,Positive,0.7644798159599304,Positive
-"Me encanta mucho esta canción, su voz es muy angelical de Jimin 🥰😍💜",0.9623,Positive,0.3,Neutral,0.7962651252746582,Positive
-Apoyando desde Perú ✨😍💜🥰💜,0.9747,Positive,0.25,Neutral,0.4610131978988647,Positive
+"Me encanta mucho esta canción, su voz es muy angelical de Jimin 🥰😍💜",0.9623,Positive,0.3,Positive,0.7962651252746582,Positive
+Apoyando desde Perú ✨😍💜🥰💜,0.9747,Positive,0.25,Positive,0.4610131978988647,Positive
 🥰💜😍😍💜🇵🇪💜💜,0.9796,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Cantan muy bien,0.3384,Positive,0.2,Neutral,0.5714549422264099,Positive
+Cantan muy bien,0.3384,Positive,0.2,Positive,0.5714549422264099,Positive
 "너무 멋진 ost 네요. 지민과 하성운 두사람의 목소리와도 너무 잘 어울리고, 드라마의 내용과도 딱입니다. 많이 듣게 되겠어요.",0.875,Positive,0.45,Positive,0.471146672964096,Positive
 8.320,0.0,Neutral,0.0,Neutral,0.2156574875116348,Neutral
 "really jimin has a pure and beautiful voice, it is a unique and deep melody that takes you into a world full of pure beauty. I love this piece. 💗",0.9571,Positive,0.3379464285714286,Positive,0.891395628452301,Positive
 💜💜💜💜,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "NO PUEDO DEJAR DE ESCUCHAR ESTÁ CANCIÓN, ES GENIAL🙇‍♀️",0.8054,Positive,0.0,Neutral,-0.3209961950778961,Negative
-"그거 알아? 나는 이 노래를 좋아했고, 나를 울게 했지만, 여전히 지민에게 네가 온 모든 것에 대해 고마워, 우리는 너를 사랑해, 이 노래는 내가 나쁘고 슬플 때 나의 안전한 장소야, 고마워, 정말, 사랑해 지민.",0.936,Positive,0.15,Neutral,0.5207209587097168,Positive
+"그거 알아? 나는 이 노래를 좋아했고, 나를 울게 했지만, 여전히 지민에게 네가 온 모든 것에 대해 고마워, 우리는 너를 사랑해, 이 노래는 내가 나쁘고 슬플 때 나의 안전한 장소야, 고마워, 정말, 사랑해 지민.",0.936,Positive,0.15,Positive,0.5207209587097168,Positive
 let's increase the views everyone Stream WITH YOU!💜 8.3M in 7days!,0.7955,Positive,0.0,Neutral,0.734807014465332,Positive
 "No paro de escuchar esta canción, la voz de Jimin es tan cálido, dulce y me hace sentir tan bien... Estoy tan orgullosa de él, es un chico tan talentoso, bello e increíble persona♡",0.9771,Positive,0.575,Positive,0.8755283951759338,Positive
 "La voz de Jimin es tan dulce, puedo sentir como derrite mi corazón ♡",0.8429,Positive,0.35,Positive,0.7127776145935059,Positive
 "Jimin's voice amaze me, he have an angelic voice that is so addictive 🖤",0.8387,Positive,0.0,Neutral,0.5042313933372498,Positive
-"Every time i hear this song, am falling in love with her harder !",0.5983,Positive,0.1875,Neutral,0.8071255683898926,Positive
+"Every time i hear this song, am falling in love with her harder !",0.5983,Positive,0.1875,Positive,0.8071255683898926,Positive
 Jiminie,0.0,Neutral,0.0,Neutral,0.2929488718509674,Neutral
 "Gran colaboración! Los dos conectaron re bien :"")",0.7773,Positive,0.6,Positive,0.6823261976242065,Positive
 "La voz de Jimin me abraza el alma...no sé como explicarlo pero lo admiro. Te amamos, Jimin",0.899,Positive,0.5,Positive,0.4407267570495605,Positive
 "😭😭😭😭 tutto ciò che fa Jimin è geniale e bellissimo, assolutamente perfetto!!!!! 😭😭😭😭😭 i miei sentimenti vincono 🤧",-0.9114,Negative,0.8875,Positive,0.9493703842163086,Positive
-Wow 😳 what a song. 💜💜💜 Our Mochi's voice is just like heaven ♾️♾️♾️,0.9726,Positive,0.1,Neutral,0.849226176738739,Positive
+Wow 😳 what a song. 💜💜💜 Our Mochi's voice is just like heaven ♾️♾️♾️,0.9726,Positive,0.1,Positive,0.849226176738739,Positive
 "Dear ARMYs and PJMs, keep streaming this masterpiece, let's give Jimin the best",0.9131,Positive,1.0,Positive,0.815998375415802,Positive
-Wow Jimin your voice killing me,-0.1531,Negative,0.1,Neutral,0.4168339371681213,Positive
+Wow Jimin your voice killing me,-0.1531,Negative,0.1,Positive,0.4168339371681213,Positive
 Jimin t amo,0.4019,Positive,0.0,Neutral,0.2530951499938965,Neutral
 "아무생각 없이 듣는데
 목소리가 지민?
@@ -282,7 +282,7 @@ Jimin t amo,0.4019,Positive,0.0,Neutral,0.2530951499938965,Neutral
 우리 지민이 ost도 찰떡이네
 좋은 드라마 좋은 ost
 역대급이다~^^",0.9477,Positive,0.7371428571428571,Positive,0.5033439993858337,Positive
-I wanna stay near you,0.0,Neutral,0.1,Neutral,0.4050823450088501,Positive
+I wanna stay near you,0.0,Neutral,0.1,Positive,0.4050823450088501,Positive
 "우리들의 블루스 잘보고 있습니다
 노희경 작가님
 배우분들 모두 훌륭하세요^^",0.6249,Positive,0.8,Positive,0.5798207521438599,Positive
@@ -292,7 +292,7 @@ I wanna stay near you,0.0,Neutral,0.1,Neutral,0.4050823450088501,Positive
 forever and ever,0.0,Neutral,0.0,Neutral,0.8156991004943848,Positive
 I love you guys 🥹💕,0.8591,Positive,0.5,Positive,0.8406050801277161,Positive
 "Army keeps stre4ming ""with you"" on every platform",0.0,Neutral,0.0,Neutral,0.47580286860466,Positive
-독보적인지민님별가루음색전세계가들었으면좋겠다 ~~~,0.4019,Positive,0.2,Neutral,0.4874037206172943,Positive
+독보적인지민님별가루음색전세계가들었으면좋겠다 ~~~,0.4019,Positive,0.2,Positive,0.4874037206172943,Positive
 ~.•I wanna be With You Jiminahh😫✌🏻💜♾💜•.~,0.6705,Positive,0.0,Neutral,0.3808393776416778,Positive
 시간이 갈 수록 더 좋아 질 노래..예쁘다,0.7269,Positive,0.375,Positive,0.3865500390529632,Positive
 ;? LETS KEEP STREAMING FOR JIMIN x SUNGWOON!,0.0,Neutral,0.0,Neutral,-0.4174994528293609,Negative
@@ -322,13 +322,13 @@ que bien combinan sus voces :'(,-0.2732,Negative,-1.0,Negative,0.421998500823974
 Jiminie,0.0,Neutral,0.0,Neutral,0.2929488718509674,Neutral
 Me fascina,0.4588,Positive,0.0,Neutral,0.4941937029361725,Positive
 La mejor colaboracion,0.6369,Positive,1.0,Positive,0.8393707871437073,Positive
-"Mdsss, quando ouvi a música pela primeira vez achei que fosse triste, quase chorava. Vendo o MV eu tive certeza 😭😭😭😭",-0.9383,Negative,0.0833333333333333,Neutral,-0.3779730200767517,Negative
+"Mdsss, quando ouvi a música pela primeira vez achei que fosse triste, quase chorava. Vendo o MV eu tive certeza 😭😭😭😭",-0.9383,Negative,0.0833333333333333,Positive,-0.3779730200767517,Negative
 مسرعع انتهى رمضاان.,0.0,Neutral,0.0,Neutral,-0.3936663568019867,Negative
 Su voz de Jimin! Me da paz!,0.6229,Positive,0.0,Neutral,0.5580726265907288,Positive
-"Can only sleep because of you... love u Park Jimin ,💋💜✈️",0.9042,Positive,0.25,Neutral,0.646881103515625,Positive
+"Can only sleep because of you... love u Park Jimin ,💋💜✈️",0.9042,Positive,0.25,Positive,0.646881103515625,Positive
 Pero MR. SUNSHINE TANTO TIEMPOOO SIN VERLOOOOO!,0.7712,Positive,-0.0625,Negative,0.317720502614975,Neutral
 I already heard the song I came here to watch the mv and break my heart,0.6369,Positive,0.0,Neutral,-0.3085160553455353,Negative
-Basta AAAAAAHHHHHHH amo demasiado a jimin 😢😢😢😢😢,-0.8834,Negative,0.2333333333333333,Neutral,-0.3646642863750458,Negative
+Basta AAAAAAHHHHHHH amo demasiado a jimin 😢😢😢😢😢,-0.8834,Negative,0.2333333333333333,Positive,-0.3646642863750458,Negative
 esta canción me sana el corazón,0.6369,Positive,0.0,Neutral,0.5587618350982666,Positive
 obsessed with how much both of their voices compliment eachother wow,0.7351,Positive,-0.0666666666666666,Negative,0.7511194944381714,Positive
 oh they were evil for making jimin sing those last lyrics,-0.6597,Negative,-0.5,Negative,-0.5945234894752502,Negative
@@ -346,7 +346,7 @@ This song makes me cry every time,-0.4767,Negative,0.0,Neutral,0.706593513488769
 "Forever and ever and ever...
 Only you can take my heart♥️
 
-Why do those few words feel so heavy on the heart! No words to say how beautiful this song is💜",0.9674,Positive,0.0999999999999999,Neutral,0.7183923125267029,Positive
+Why do those few words feel so heavy on the heart! No words to say how beautiful this song is💜",0.9674,Positive,0.0999999999999999,Positive,0.7183923125267029,Positive
 hola army 💜  me encanta esta canción más con esa voz de jimin 💜 wow me encanta su voz,0.9705,Positive,0.4,Positive,0.7644897699356079,Positive
 지민이 목소리에 기운얻고 출근. 아자아자~~~,0.2732,Positive,0.0,Neutral,-0.341487318277359,Negative
 😭😭😭노래가 너무 신기해,-0.5321,Negative,0.6000000000000001,Positive,0.3267665803432464,Neutral
@@ -378,7 +378,7 @@ Jimin is the best medicine in the universe!!!!,0.7482,Positive,1.0,Positive,0.93
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
 "I love listening to your voice and With You Jimin but I miss you and hope you're okay, and your silence is by choice
 Love you forever and ever and ever",0.9287,Positive,0.5,Positive,0.3568978309631347,Positive
-"We haven't even reached a million likes, keep supporting.",0.6602,Positive,0.25,Neutral,0.263943076133728,Neutral
+"We haven't even reached a million likes, keep supporting.",0.6602,Positive,0.25,Positive,0.263943076133728,Neutral
 Jimin's voice is very beautiful and a very beautiful song,0.855,Positive,1.0,Positive,0.7448194622993469,Positive
 "𝗔𝗹𝗹  LIKE THIS  𝐕𝐈𝐃𝐄𝐎  PLEASE !!!! 
 
@@ -393,14 +393,14 @@ vou assitir o dorama por causa dele,0.0,Neutral,0.0,Neutral,-0.4157404005527496,
 A llorar 😔,-0.4215,Negative,0.0,Neutral,0.5267201066017151,Positive
 Jimin's voice is so warm and comforting and makes me feel safe ♡,0.8103,Positive,0.55,Positive,0.7268028259277344,Positive
 JIMIN voice’s so warm,0.3593,Positive,0.6,Positive,0.4452920258045196,Positive
-Que bonita,0.4939,Positive,0.25,Neutral,0.389867901802063,Positive
+Que bonita,0.4939,Positive,0.25,Positive,0.389867901802063,Positive
 Aww these two friends sing together... what a lovely voices😭😭,0.1779,Positive,0.4,Positive,0.7965782880783081,Positive
 cuando escucho esta joyita me llega hasta el alma... SIGAMOS HACIENDO STREAM A ESTA PRECIOSA JOYITA.,0.8681,Positive,0.85,Positive,0.6389338374137878,Positive
 "Que bonita canción, cantan juntos muy bonito",0.8439,Positive,0.925,Positive,0.5654785633087158,Positive
 Sus voces son tan armoniosas,0.5949,Positive,0.0,Neutral,0.5124817490577698,Positive
 "Esta canción me da mucha paz, la amo",0.8271,Positive,0.5,Positive,0.6797546148300171,Positive
 Breathing deeply within me  :(,-0.4877,Negative,-0.375,Negative,0.3536261022090912,Positive
-"When we say- Park Jimin is the example of true Angelic voice, we mean IT",0.4215,Positive,0.0187499999999999,Neutral,0.2938300669193268,Neutral
+"When we say- Park Jimin is the example of true Angelic voice, we mean IT",0.4215,Positive,0.0187499999999999,Positive,0.2938300669193268,Neutral
 10M,0.0,Neutral,0.0,Neutral,0.3456287384033203,Positive
 "Чимин невероятный, замечательный! 
 Они с Сонуном так прекрасно поют, потрясающе просто
@@ -435,21 +435,21 @@ Te amo with you,0.0,Neutral,0.0,Neutral,0.3814128935337066,Positive
 With you lo mejor 👍🏻,0.0,Neutral,0.0,Neutral,0.815233051776886,Positive
 "Realmente que hermosa canción, sus voces dan tanta tranquilidad!!",0.8328,Positive,0.4541666666666666,Positive,0.8461154699325562,Positive
 Sesi çok huzur verici,0.4572,Positive,0.0,Neutral,-0.4030567705631256,Negative
-This soothes my soul... Keeps me coming back... Park Jimin I'm so glad I found you...,0.5949,Positive,0.25,Neutral,0.81373131275177,Positive
+This soothes my soul... Keeps me coming back... Park Jimin I'm so glad I found you...,0.5949,Positive,0.25,Positive,0.81373131275177,Positive
 Su voz es preciosa y tranquilizante 🥰😍💜,0.9686,Positive,0.85,Positive,0.7183066606521606,Positive
 "I just finished watching episode 8, I feel love is important to live and this OST was perfect to get my emotion while watching it thank you Jimin and Sungwoon to this song ❤️💜",0.9468,Positive,0.509090909090909,Positive,0.7710882425308228,Positive
 "La voz de Jimin me relaja,  me encanta la melodía.",0.7717,Positive,0.5,Positive,0.6639341711997986,Positive
 LA VOZ DE JIMIN AHHH ME MUERO 😻😻,0.7184,Positive,0.0,Neutral,-0.2636870443820953,Negative
 "Por dios Jimin te admiro demasiado ,estoy muy orgullosa de ti mi niño de todo lo que has logrado 💜💜💜",0.969,Positive,1.0,Positive,0.6885324120521545,Positive
 My angel with his angelical voice            ꒰⑅ᵕ༚ᵕ꒱˖♡,0.0,Neutral,0.0,Neutral,0.7125938534736633,Positive
-오늘은 너무 힘든 날이었는데 지민님의 따뜻한 목소리를 들으니 오늘 힘들었던 모든 것들이 눈 깜짝할 사이에 사라진 느낌이 들었습니다 감사합니다 지민님 사랑합니다,0.9294,Positive,0.15,Neutral,0.4278331398963928,Positive
+오늘은 너무 힘든 날이었는데 지민님의 따뜻한 목소리를 들으니 오늘 힘들었던 모든 것들이 눈 깜짝할 사이에 사라진 느낌이 들었습니다 감사합니다 지민님 사랑합니다,0.9294,Positive,0.15,Positive,0.4278331398963928,Positive
 QUE HERMO0SOOOOOOO,0.0,Neutral,0.0,Neutral,-0.3411880433559418,Negative
 Saranghae Jimin.. 💞💖,0.0,Neutral,0.0,Neutral,0.2400814741849899,Neutral
 Me encantooo!,0.6696,Positive,0.625,Positive,0.8155626058578491,Positive
 Amo esta cancion y la voz angelical de JIMIN,0.6369,Positive,0.5,Positive,0.737053394317627,Positive
 "La voz de Jimin es tan dulce y cálida, tienes una voz tan perfecta dios mío",0.8667,Positive,0.4875,Positive,0.8451365232467651,Positive
 Agregado a mi playlist,0.0,Neutral,0.0,Neutral,0.470729261636734,Positive
-Jimin wow,0.5859,Positive,0.1,Neutral,0.6518909335136414,Positive
+Jimin wow,0.5859,Positive,0.1,Positive,0.6518909335136414,Positive
 "Día 6: aún sigo llorando con esta canción jdjsksks
 Es muy hermosa. Te amo canción que me hace sentir enamorada",0.8947,Positive,0.45,Positive,0.7721789479255676,Positive
 No los dejemos caer <3,0.4404,Positive,1.0,Positive,-0.4116150140762329,Negative
@@ -473,8 +473,8 @@ I saw Ha Sungwoon and I clicked. Such a beautiful voice such a beautiful song T_
 As vozes deles! ♥️ Perfeitas! 😍,0.9097,Positive,1.0,Positive,0.8202431797981262,Positive
 Amo,0.0,Neutral,0.0,Neutral,0.4348050653934479,Positive
 8.218,0.0,Neutral,0.0,Neutral,-0.2254431545734405,Negative
-I'm addicted to this song... I'm not really a soft song person I mostly like rap and hardcore dissing and spitting bars .. but man this made me cy....,0.1901,Positive,0.0166666666666666,Neutral,0.4993831515312195,Positive
-Hermosa canción.... Me parece una declaración de amor Total.... muy suave y romántica ☑️✌🏽🌟,0.9388,Positive,0.296,Neutral,0.7490367889404297,Positive
+I'm addicted to this song... I'm not really a soft song person I mostly like rap and hardcore dissing and spitting bars .. but man this made me cy....,0.1901,Positive,0.0166666666666666,Positive,0.4993831515312195,Positive
+Hermosa canción.... Me parece una declaración de amor Total.... muy suave y romántica ☑️✌🏽🌟,0.9388,Positive,0.296,Positive,0.7490367889404297,Positive
 Lets get 10m views!!,0.0,Neutral,0.0,Neutral,0.5254053473472595,Positive
 Name song please,0.3182,Positive,0.0,Neutral,-0.3191137611865997,Negative
 que musica perfeita,0.5719,Positive,1.0,Positive,0.6965866088867188,Positive
@@ -490,12 +490,12 @@ My love,0.6369,Positive,0.5,Positive,0.7108838558197021,Positive
 Esta canción me relaja y me pone triste a la vez,-0.1531,Negative,-0.25,Negative,-0.394967257976532,Negative
 Realmente increíble ♥️,0.8615,Positive,0.6000000000000001,Positive,0.8923275470733643,Positive
 Las vocales de Jimin aaagh,0.0,Neutral,0.0,Neutral,0.2445231974124908,Neutral
-اتركوني أعيش في حنجرة جيمين ⁦ಥ‿ಥ⁩,0.0,Neutral,0.1363636363636363,Neutral,0.2703672647476196,Neutral
+اتركوني أعيش في حنجرة جيمين ⁦ಥ‿ಥ⁩,0.0,Neutral,0.1363636363636363,Positive,0.2703672647476196,Neutral
 I promise i never leave your love,-0.2311,Negative,0.5,Positive,0.6015172600746155,Positive
 Bellísimo,0.5994,Positive,0.85,Positive,0.8916499614715576,Positive
 8.2M!!,0.0,Neutral,0.0,Neutral,-0.2565497159957886,Negative
 in love,0.6369,Positive,0.5,Positive,0.608468234539032,Positive
-aún no puede entender a esas personas que soltaron tan rápido a esta joyita,0.0,Neutral,0.0729166666666666,Neutral,-0.5510992407798767,Negative
+aún no puede entender a esas personas que soltaron tan rápido a esta joyita,0.0,Neutral,0.0729166666666666,Positive,-0.5510992407798767,Negative
 Aw jimin voice 💜💜,0.8555,Positive,0.0,Neutral,0.4696340560913086,Positive
 "Omg😳😳😳 
 hermosas voces.....",0.5994,Positive,0.85,Positive,0.7461087107658386,Positive
@@ -505,7 +505,7 @@ Her words are so beautiful without the sounds,0.7177,Positive,0.85,Positive,0.58
 Nunca suelten está canción,0.2057,Positive,0.0,Neutral,0.3728739023208618,Positive
 Esta será la canción de mi boda 🤧😭la más hermosa y pura que he escuchado!♥️,0.7639,Positive,0.5214285714285715,Positive,0.832252562046051,Positive
 Ésto es arte.,0.0,Neutral,0.0,Neutral,0.5372705459594727,Positive
-En los días en los que me siento triste o ansiosa la cálida y suave voz de Jimin es un gran tranquilizante,0.2023,Positive,0.15,Neutral,0.5851877331733704,Positive
+En los días en los que me siento triste o ansiosa la cálida y suave voz de Jimin es un gran tranquilizante,0.2023,Positive,0.15,Positive,0.5851877331733704,Positive
 I love you Park Jimin!!!!,0.7482,Positive,1.0,Positive,0.8437008857727051,Positive
 "The lyrics are so beautiful and I'm love with Ha-sungwoon's voice, so beautiful",0.9449,Positive,0.7333333333333334,Positive,0.7938893437385559,Positive
 "HERMOSOOOOOO JIMIN, DISFRUTO LA CANCIÓN Y LA VOZ DE AMBOS.",0.7964,Positive,0.625,Positive,0.6247988939285278,Positive
@@ -524,7 +524,7 @@ My love 💜,0.8555,Positive,0.5,Positive,0.7858313322067261,Positive
 His voice is so warm,0.3593,Positive,0.6,Positive,0.2800776660442352,Neutral
 JIMIN I MISS YOU...,-0.1531,Negative,0.0,Neutral,0.2500633597373962,Neutral
 자꾸만 귀에 맴돌아 또 듣게 되는 별가루 꿀 보이스 지민이,0.0,Neutral,0.0,Neutral,-0.3862286508083343,Negative
-Wow Jimin I love you ⁦^_^⁩,0.8402,Positive,0.3,Neutral,0.8758989572525024,Positive
+Wow Jimin I love you ⁦^_^⁩,0.8402,Positive,0.3,Positive,0.8758989572525024,Positive
 "Jimin ah
 We miss you",-0.1531,Negative,0.0,Neutral,0.273020327091217,Neutral
 JIMIN ALL THE LOVE TO YOU♥️♥️♥️,0.9614,Positive,0.5,Positive,0.6845251321792603,Positive
@@ -533,7 +533,7 @@ JIMIN ALL THE LOVE TO YOU♥️♥️♥️,0.9614,Positive,0.5,Positive,0.68452
 Their voices are so great... i love you jimin,0.8935,Positive,0.65,Positive,0.8324020504951477,Positive
 Can't stop showing up here everyday!,0.2914,Positive,-0.25,Negative,0.5348941683769226,Positive
 "La vocal de los chicos te hace creer que todo estará bien, luego de lo malo viene algo mejor
-I wanna be with you",0.128,Positive,0.0722222222222222,Neutral,0.4341652393341064,Positive
+I wanna be with you",0.128,Positive,0.0722222222222222,Positive,0.4341652393341064,Positive
 Amo mucho la voz de jimin,0.6369,Positive,0.35,Positive,0.5936411619186401,Positive
 Such e beautiful song.Touching lyrics. Thanks JiMin for giving us a beautiful song. Love from Bangladesh.🇧🇩💕❤️🧡💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜,0.9986,Positive,0.48,Positive,0.7674025893211365,Positive
 I WANNA STAY WITH YOU~,0.0,Neutral,0.0,Neutral,0.4571278691291809,Positive
@@ -610,14 +610,14 @@ Also I feel like Ha Sung Woon lowkey sounds like Jungkook🥺
 He has such an amazing voice as well!!❤❤❤
 Love love love love this ost❤❤",0.996,Positive,0.4333333333333333,Positive,0.8493487238883972,Positive
 "💜🐣💜 Jimin, we all love you so much 💜🐣💜",0.9728,Positive,0.35,Positive,0.9007319808006288,Positive
-"La voz de jimin hace que mi corazón se calme, hace que me enamoré más de él, pero se que eso no tengo que hacer, porque después voy a sufrir cuando el se casé 🥺 quiero que sea feliz pero es muy doloroso de tan solo pensarlo",0.3506,Positive,0.1605555555555556,Neutral,0.4399001002311706,Positive
+"La voz de jimin hace que mi corazón se calme, hace que me enamoré más de él, pero se que eso no tengo que hacer, porque después voy a sufrir cuando el se casé 🥺 quiero que sea feliz pero es muy doloroso de tan solo pensarlo",0.3506,Positive,0.1605555555555556,Positive,0.4399001002311706,Positive
 Toy llorando,-0.4767,Negative,-0.2,Negative,0.3762814998626709,Positive
 별가루 음색ㅜㅜ,0.0,Neutral,0.0,Neutral,-0.2500700354576111,Negative
 I just want to stay with you.,0.0772,Positive,0.0,Neutral,0.3563636541366577,Positive
 Love this,0.6369,Positive,0.5,Positive,0.8656091690063477,Positive
 "I 💜 this song! ARMY! BTS COMEBACK on JUNE 10! to know HOW to help, follow+ask BTS fanbases from your country on TWITTER but DON'T follow individual BTS members' topics! it brings TOXIC solo stan tweets on your timeline",0.6826,Positive,0.0,Neutral,-0.3860430419445038,Negative
-"Me encanta esta canción, me gusta mucho la voz de Jimin es muy angelical 💜🥰✨✨ apoyando desde Perú 🇵🇪✨🥰💜",0.9906,Positive,0.2875,Neutral,0.7711519598960876,Positive
-Cantan muy bien 🥰💜😍🥰,0.9763,Positive,0.2,Neutral,0.6057722568511963,Positive
+"Me encanta esta canción, me gusta mucho la voz de Jimin es muy angelical 💜🥰✨✨ apoyando desde Perú 🇵🇪✨🥰💜",0.9906,Positive,0.2875,Positive,0.7711519598960876,Positive
+Cantan muy bien 🥰💜😍🥰,0.9763,Positive,0.2,Positive,0.6057722568511963,Positive
 Me encanta mucho esta canción,0.6369,Positive,0.35,Positive,0.7820020318031311,Positive
 Jimin esa canción es muy tierna y angelical la amo como a ti,0.7717,Positive,0.35,Positive,0.7077531218528748,Positive
 Jimin💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -625,12 +625,12 @@ Jimin💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Sabahtan bu yana sadece 40 bin izlenme artmış. Bu çok az değil mi,0.2732,Positive,-0.09375,Negative,-0.7170233130455017,Negative
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 "지민이 목소리는 확실히
-대중성도 있음👍",0.6705,Positive,0.3,Neutral,0.2813218235969543,Neutral
+대중성도 있음👍",0.6705,Positive,0.3,Positive,0.2813218235969543,Neutral
 Tore my heart,0.6369,Positive,0.0,Neutral,-0.5735042691230774,Negative
 Melek sesli jimin,0.0,Neutral,0.0,Neutral,0.3191380798816681,Neutral
 I never fell in love with a song as much as I did with this one.,-0.5216,Negative,0.35,Positive,0.5348107814788818,Positive
 "I 💜 this song! ARMY! BTS COMEBACK on JUNE 10! to know HOW to help, follow+ask BTS fanbases from your country on TWITTER but DON'T follow individual BTS members' topics! it brings TOXIC solo stan tweets on your timeline",0.6826,Positive,0.0,Neutral,-0.3860430419445038,Negative
-Jimin voice make me feel peaceful.. Borahae,0.4939,Positive,0.25,Neutral,0.4255516231060028,Positive
+Jimin voice make me feel peaceful.. Borahae,0.4939,Positive,0.25,Positive,0.4255516231060028,Positive
 "모두모두 행보만해지길
 지민 웨딩댄스",0.0,Neutral,0.0,Neutral,-0.5658496022224426,Negative
 "Dios amo😍 amo escuchar esta joyita
@@ -659,9 +659,9 @@ Fighting
 #Jimin  #Sungwoon #WithYou",-0.7469,Negative,0.0,Neutral,-0.2844614386558532,Negative
 Lovely song my love jimin❤️❤️❤️❤️,0.8402,Positive,0.5,Positive,0.7168932557106018,Positive
 Jimin once again hugging our souls with his beautiful and perfect voice ♡,0.886,Positive,0.925,Positive,0.8268282413482666,Positive
-LOVE YOU JIMIN  아~~ 누가 쓴 이 말 무슨 의미인지 알겠다 와 지민씨 대박,0.9304,Positive,0.321875,Neutral,-0.4231489896774292,Negative
+LOVE YOU JIMIN  아~~ 누가 쓴 이 말 무슨 의미인지 알겠다 와 지민씨 대박,0.9304,Positive,0.321875,Positive,-0.4231489896774292,Negative
 Beautiful song,0.5994,Positive,0.85,Positive,0.7006238102912903,Positive
-팝송 아닌가요 넘 좋아요~ 와 로맨틱해 지민님 목소리는 하늘에서 주셨네요,0.9303,Positive,0.2666666666666666,Neutral,-0.4697898626327514,Negative
+팝송 아닌가요 넘 좋아요~ 와 로맨틱해 지민님 목소리는 하늘에서 주셨네요,0.9303,Positive,0.2666666666666666,Positive,-0.4697898626327514,Negative
 With You,0.0,Neutral,0.0,Neutral,0.4392923414707184,Positive
 Last minute of w1 :(,-0.4404,Negative,-0.375,Negative,0.323772668838501,Neutral
 "Jimin's voice is one of the most melodious voices we have right now, it's an angelic love, it fills your spirit and comforts you, the lyrics are beautiful❤",0.9524,Positive,0.4285714285714285,Positive,0.8868170976638794,Positive
@@ -695,4 +695,4 @@ Jimin,0.0,Neutral,0.0,Neutral,0.2740837931632995,Neutral
 Tan enamorada de ti Park Jimin y está melodía ummm es el toque perfecto para amarte más,0.9243,Positive,0.625,Positive,0.8033396601676941,Positive
 Listening to this song is like I'm in a trance and being stock to it till the end of the beat. The instrumentation and vocals just wrap the song perfectly.,0.7717,Positive,1.0,Positive,0.6430467367172241,Positive
 "I 💜 this song! ARMY! BTS COMEBACK on JUNE 10! to know HOW to help, follow+ask BTS fanbases from your country on TWITTER but DON'T follow individual BTS members' topics! it brings TOXIC solo stan tweets on your timeline",0.6826,Positive,0.0,Neutral,-0.3860430419445038,Negative
-하루종일 들어도 좋다 지민이 음색 너무 매력적ㅠㅠ,0.7065,Positive,0.3249999999999999,Neutral,0.4248437881469726,Positive
+하루종일 들어도 좋다 지민이 음색 너무 매력적ㅠㅠ,0.7065,Positive,0.3249999999999999,Positive,0.4248437881469726,Positive

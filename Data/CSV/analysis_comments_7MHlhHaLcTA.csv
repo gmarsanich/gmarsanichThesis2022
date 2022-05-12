@@ -3,7 +3,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Jeongyeon💚,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "yo no sé ustedes pero yo en el coro escucho ""naeyeon me va a naelgear"" 🤣🤣 xD",0.9413,Positive,0.0,Neutral,-0.4373700618743896,Negative
-"HI ONCE, PLEASE HELP OUR CO-ONCE (YURINA) BY STREAMING HER  ""LOOK AT ME"" MV AND SUPPORTING HER SOLO DEBUT IN JAPAN🥺",0.8779,Positive,0.25,Neutral,0.370012491941452,Positive
+"HI ONCE, PLEASE HELP OUR CO-ONCE (YURINA) BY STREAMING HER  ""LOOK AT ME"" MV AND SUPPORTING HER SOLO DEBUT IN JAPAN🥺",0.8779,Positive,0.25,Positive,0.370012491941452,Positive
 "✨KOREAN MV
 -THE FEELS 250M -100K
 -SIGNAL 300M - 3M
@@ -31,9 +31,9 @@ Jeongyeon💚,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 -OFF MY FACE 10M",0.9832,Positive,0.5172727272727273,Positive,0.3813862800598144,Positive
 초초초초초초초초 다이스키,0.0,Neutral,-0.3,Negative,0.3043459951877594,Neutral
 サナ氏声低いのめちゃいい声だな、すごい,0.7089,Positive,0.5033333333333333,Positive,0.3461202979087829,Positive
-Tictoker😂の、セネガル人🇸🇳のポーズがあって笑っちゃった😂,0.4019,Positive,0.3,Neutral,0.4297569394111633,Positive
+Tictoker😂の、セネガル人🇸🇳のポーズがあって笑っちゃった😂,0.4019,Positive,0.3,Positive,0.4297569394111633,Positive
 Twice queen,0.0,Neutral,0.0,Neutral,0.3742837309837341,Positive
-Nayeon me va a nalgear jajaja no lo supero,0.5574,Positive,0.2,Neutral,-0.4823653697967529,Negative
+Nayeon me va a nalgear jajaja no lo supero,0.5574,Positive,0.2,Positive,-0.4823653697967529,Negative
 Nayeon me va a nalguear 😾,0.0,Neutral,0.0,Neutral,-0.2842482924461365,Negative
 "ツウィちゃん大好きです❤️😍
 ずっと応援しています",0.872,Positive,0.5,Positive,0.7555379867553711,Positive
@@ -50,21 +50,21 @@ Chaeyoung <3,0.4404,Positive,1.0,Positive,0.3345875442028045,Positive
 大人っぽくてかっこいい曲も素敵だけど、個人的にはこういうかわいい！！って感じの曲が大好きです⸜❤︎⸝‍,0.9627,Positive,0.4853125,Positive,0.6068930625915527,Positive
 コロナの影響で行くはずだったライブがなくなってからショックがデカすぎて長らくKPOP界隈から離れてたけどこの曲のサビをTikTokで見てMV気になって戻ってきました。やっぱり私の中ではTWICEが1番かわいいし世界一のガールズグループです！！！,0.7284,Positive,-0.0077272727272727,Negative,-0.3053141236305237,Negative
 0: 42 nayeon me va a nalguear,0.0,Neutral,0.0,Neutral,-0.5446363687515259,Negative
-日本語版の歌詞の音の乗り方が悪すぎない？日韓通訳がちゃんとできる音楽スタッフさんを雇ったほうがいいと思います。,-0.1531,Negative,0.0333333333333333,Neutral,-0.3310127258300781,Negative
+日本語版の歌詞の音の乗り方が悪すぎない？日韓通訳がちゃんとできる音楽スタッフさんを雇ったほうがいいと思います。,-0.1531,Negative,0.0333333333333333,Positive,-0.3310127258300781,Negative
 Todas las versiones suenan mega geniales 💕💕💕💕💕💕💕💕💕,0.9923,Positive,0.375,Positive,0.8704038262367249,Positive
 ✨Nayeon me va a nalguear ✨ jsjsjsjs,0.3182,Positive,0.0,Neutral,0.2601782381534576,Neutral
 589k,0.4019,Positive,0.5,Positive,0.2484590262174606,Neutral
 "7M guys, keep stre4ming.",0.0,Neutral,0.0,Neutral,0.502082347869873,Positive
 twice makes me really happy,0.6115,Positive,0.8,Positive,0.7036746740341187,Positive
-this is JUST AS AMAZINGGG wow I LOVE YOU SOOO MUCHHH TWICE ❤️❤️❤️❤️❤️❤️❤️❤️❤️,0.8668,Positive,0.3,Neutral,0.9504730701446532,Positive
-Cool  japanese -korean cool  ganda ni nayoen  at  cheayong,0.5574,Positive,0.2333333333333333,Neutral,0.3973279297351837,Positive
+this is JUST AS AMAZINGGG wow I LOVE YOU SOOO MUCHHH TWICE ❤️❤️❤️❤️❤️❤️❤️❤️❤️,0.8668,Positive,0.3,Positive,0.9504730701446532,Positive
+Cool  japanese -korean cool  ganda ni nayoen  at  cheayong,0.5574,Positive,0.2333333333333333,Positive,0.3973279297351837,Positive
 💗💗,0.8957,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Objectif :
 
 Views : 6,7M —> 7M
 Comments : 10k —> 15k
 Likes : 365k —> 400k",0.4215,Positive,0.0,Neutral,0.2695115506649017,Neutral
-YA NO PUEDO ESCUCHAR LA CANCIÓN NORMAL 💔,0.2732,Positive,0.15,Neutral,-0.3553170561790466,Negative
+YA NO PUEDO ESCUCHAR LA CANCIÓN NORMAL 💔,0.2732,Positive,0.15,Positive,-0.3553170561790466,Negative
 노래좋다,0.4404,Positive,0.7,Positive,0.3923618793487549,Positive
 "0:42 *Nayeon me va a nalguear*
 -Nayeon",0.0,Neutral,0.0,Neutral,-0.6293452978134155,Negative
@@ -78,14 +78,14 @@ p̴r̴o̴m̴o̴s̴m̴ ?,0.0,Neutral,0.0,Neutral,-0.2957451641559601,Negative
 観客席も客じゃなく
 ツゥワイスも面白い。",0.9601,Positive,0.3375,Positive,0.5246021747589111,Positive
 "2:44  
-ツウィちゃんの、最後に満面天使の笑みで、撃ち抜かれました。最強に可愛い。",0.872,Positive,0.275,Neutral,0.6755965352058411,Positive
+ツウィちゃんの、最後に満面天使の笑みで、撃ち抜かれました。最強に可愛い。",0.872,Positive,0.275,Positive,0.6755965352058411,Positive
 モモが魔法使いみたいな時の ( ¯∀¯ )ﾆﾋの口角 (   ˙💋˙   )💕,0.7964,Positive,0.0,Neutral,0.5041175484657288,Positive
 TWICEの低音好き,0.5859,Positive,-0.15,Negative,0.2867581844329834,Neutral
-1:30  JAJAJAJA,0.0,Neutral,0.2,Neutral,-0.2466202080249786,Negative
+1:30  JAJAJAJA,0.0,Neutral,0.2,Positive,-0.2466202080249786,Negative
 6M,0.0,Neutral,0.0,Neutral,0.3558794558048248,Positive
 TWICEは顔も歌も性格も全てにおいて完璧,0.5719,Positive,1.0,Positive,0.4486372768878937,Positive
 かわいいー！！,0.5962,Positive,0.9765625,Positive,0.366020143032074,Positive
-日本語版ありがとうございます、愛しています,0.7717,Positive,0.25,Neutral,0.6754754781723022,Positive
+日本語版ありがとうございます、愛しています,0.7717,Positive,0.25,Positive,0.6754754781723022,Positive
 "Idk why, but I like this more than the original (korean)😩✨",0.7714,Positive,0.4375,Positive,0.4958792626857757,Positive
 もも大優勝！,0.6588,Positive,1.0,Positive,0.7881982326507568,Positive
 Einstein is science,0.0,Neutral,0.0,Neutral,0.4454919099807739,Positive
@@ -99,15 +99,15 @@ Happy 1 Month !,0.6114,Positive,1.0,Positive,0.6137830018997192,Positive
 Me encanta Esta cancion!!! TWICE siendo los REYES de la cuarta generacion!!!,0.7482,Positive,0.48828125,Positive,0.9027897119522096,Positive
 "Auida escuche ""Nayeon me va a nalgear 😰",0.1779,Positive,0.0,Neutral,-0.3848146200180053,Negative
 YOO JEONG YEON,0.0,Neutral,0.0,Neutral,0.2726182341575622,Neutral
-This concept really suits Dahyun and Chaeyoung 💓💓💓,0.9678,Positive,0.2,Neutral,0.6666678190231323,Positive
+This concept really suits Dahyun and Chaeyoung 💓💓💓,0.9678,Positive,0.2,Positive,0.6666678190231323,Positive
 1:33,0.0,Neutral,0.0,Neutral,0.2147985845804214,Neutral
-ミナ先生好きすぎます。,0.3612,Positive,0.2,Neutral,0.546819269657135,Positive
+ミナ先生好きすぎます。,0.3612,Positive,0.2,Positive,0.546819269657135,Positive
 "前髪ありみーたんすき。
 つけ毛だっけ？？",0.466,Positive,0.0,Neutral,-0.3521678447723388,Negative
 金棒？を持ったももりんのいたずらっ子ぽい顔がすき,0.3612,Positive,-0.15,Negative,-0.3389275074005127,Negative
 "日本語ver、結構くちずさんじゃう。悩めば悩むほどマイナース
 考えすぎは大問題
-頭をかーらっぽにして",-0.7703,Negative,0.18,Neutral,0.2953047752380371,Neutral
+頭をかーらっぽにして",-0.7703,Negative,0.18,Positive,0.2953047752380371,Neutral
 sanas voice in the pre-chorus-,0.0,Neutral,0.0,Neutral,0.3027134239673614,Neutral
 симпотяжки коротконожки,0.4588,Positive,0.5,Positive,0.3505874276161194,Positive
 MINATOZAKI SANA,0.0,Neutral,0.0,Neutral,0.2911986708641052,Neutral
@@ -116,9 +116,9 @@ Go 7M,0.0,Neutral,0.0,Neutral,0.2460311502218246,Neutral
 There 1 person missing the group dancing why? I wonder? I think you know who? but why? Jeongyeon - did you injure yourself?,-0.3736,Negative,-0.2,Negative,-0.6416354775428772,Negative
 "日本語バージョン 嬉しいです。
 サナの髪色 きれい♡♡ とっても似合ってる♬︎♡",0.9136,Positive,0.6125,Positive,0.3267097175121307,Neutral
-歌詞も曲もめちゃくちゃ良くてほんと好き,0.4201,Positive,0.2,Neutral,0.3825863897800445,Positive
+歌詞も曲もめちゃくちゃ良くてほんと好き,0.4201,Positive,0.2,Positive,0.3825863897800445,Positive
 "1:33 nayeon me va a nalguiar ni madres 
-Jajajaj me mori de risa",0.4939,Positive,0.2,Neutral,-0.6221683621406555,Negative
+Jajajaj me mori de risa",0.4939,Positive,0.2,Positive,-0.6221683621406555,Negative
 mama 🥰,0.8074,Positive,0.0,Neutral,0.3819853067398071,Positive
 i love this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
 KIM DA HYUN,0.0,Neutral,0.0,Neutral,0.2768730819225311,Neutral
@@ -131,7 +131,7 @@ Italy love Twice 👍,0.6369,Positive,0.5,Positive,0.6930326819419861,Positive
 Porque dice nayeon me va a nalguear? 😭😭😭😭,-0.9081,Negative,0.0,Neutral,-0.431749552488327,Negative
 "no importa la versión ni el idioma, siempre serán buenas las canciones de Twice.",0.4265,Positive,0.7,Positive,-0.4115209281444549,Negative
 めちゃくちゃしっくりくる！！本当にありがとうTWICE だいすき,0.7332,Positive,0.35,Positive,0.3837988972663879,Positive
-SON CHAE YOUNG,0.0,Neutral,0.1,Neutral,0.2725017666816711,Neutral
+SON CHAE YOUNG,0.0,Neutral,0.1,Positive,0.2725017666816711,Neutral
 ももりんすき,0.0,Neutral,0.0,Neutral,0.2623412907123565,Neutral
 ミナめっちゃこの衣装似合う,0.6249,Positive,0.8,Positive,0.2817751467227936,Neutral
 "研究ばっかで
@@ -180,9 +180,9 @@ Why so serious?
 ココロのまま Wooah
 思いのまま What u, what u waiting for?
 
-You got a crush on me",0.8185,Positive,0.1404761904761904,Neutral,-0.5680824518203735,Negative
+You got a crush on me",0.8185,Positive,0.1404761904761904,Positive,-0.5680824518203735,Negative
 "日本語訳する人変わった？？？
-# TWICE 4前よりかなり良くなった",0.594,Positive,0.25,Neutral,-0.3383589386940002,Negative
+# TWICE 4前よりかなり良くなった",0.594,Positive,0.25,Positive,-0.3383589386940002,Negative
 *Twice⁹* 💗💗,0.8957,Positive,0.0,Neutral,-0.3345844149589538,Negative
 Road to 10M,0.0,Neutral,0.0,Neutral,0.3726048767566681,Positive
 "6172.872!
@@ -192,7 +192,7 @@ Road to 10M,0.0,Neutral,0.0,Neutral,0.3726048767566681,Positive
 😳😎Nayeon me va a nalguear🎶🎶,0.4588,Positive,0.0,Neutral,0.3683498203754425,Positive
 hh,0.0,Neutral,0.0,Neutral,0.2864297926425934,Neutral
 Nayeon me va a nalguear XD,0.6739,Positive,0.0,Neutral,-0.2547881007194519,Negative
-"Trust me, Twice only get famous after their Likey japanese version. Japanese version makes everything sounds better and I don't know why. Although...when they make a Korean version of a japanese song, it sounds more interesting as well",0.8899,Positive,0.25,Neutral,0.384956032037735,Positive
+"Trust me, Twice only get famous after their Likey japanese version. Japanese version makes everything sounds better and I don't know why. Although...when they make a Korean version of a japanese song, it sounds more interesting as well",0.8899,Positive,0.25,Positive,0.384956032037735,Positive
 TWICEって日本人メンバー以外も日本語の発音がすごく綺麗だから聴きやすい〜特にジヒョちゃん♡,0.796,Positive,0.3583333333333333,Positive,0.3619146347045898,Positive
 "AMO DEMASIADO ESTA CANCION , LOS VOCALES DE TWICE AON INCREIBLEMENTE INCREIBLES",0.8516,Positive,0.4333333333333333,Positive,-0.5724486708641052,Negative
 TWICE BEST GG,0.7506,Positive,1.0,Positive,0.5280799865722656,Positive
@@ -283,13 +283,13 @@ Don’t need no license
 Don’t try to be a genius
 Why so serious?
 ココロのまま Wooah
-思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Neutral,-0.4887992739677429,Negative
+思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Positive,-0.4887992739677429,Negative
 ミナの衣装似合いすぎててまじで惚れる🥰💚,0.967,Positive,0.4666666666666666,Positive,0.2500439584255218,Neutral
 結構前にペン卒したけどこの曲は毎日聞いてる☺️,0.6124,Positive,0.0,Neutral,-0.394723892211914,Negative
-ミナちゃんとサナちゃんの声が今までに比べてかなり低くて新しい感覚…！,-0.2481,Negative,0.1852272727272727,Neutral,0.4235598444938659,Positive
+ミナちゃんとサナちゃんの声が今までに比べてかなり低くて新しい感覚…！,-0.2481,Negative,0.1852272727272727,Positive,0.4235598444938659,Positive
 いつも、元気を、くれて、ありがとう😆💕✨,0.9337,Positive,0.0,Neutral,0.593568742275238,Positive
 いつもおうえんしてます😊これからもかわいい💜🍭TWICEでいてください🍭🍭🍭🇰🇷🇯🇵,0.9382,Positive,0.5,Positive,0.3085779249668121,Neutral
-"WEY JAJAJAJAJAJAJ PENSÉ QUE ERA PURO MAME DE ""nayeon me va a nalguear"" PERO NO JAJAJAJAJJAJAJAAJ 😭😂",-0.5993,Negative,0.2142857142857142,Neutral,-0.3627413809299469,Negative
+"WEY JAJAJAJAJAJAJ PENSÉ QUE ERA PURO MAME DE ""nayeon me va a nalguear"" PERO NO JAJAJAJAJJAJAJAAJ 😭😂",-0.5993,Negative,0.2142857142857142,Positive,-0.3627413809299469,Negative
 Esta versión merece más reconocimiento,0.4391,Positive,0.5,Positive,0.3658091425895691,Positive
 Amo esta versión de scientist,0.6369,Positive,0.5,Positive,0.628028392791748,Positive
 Xddd,0.0,Neutral,0.0,Neutral,0.2318740636110305,Neutral
@@ -370,12 +370,12 @@ Don’t need no license
 Don’t try to be a genius
 Why so serious?
 ココロのまま Wooah
-思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Neutral,-0.6689862608909607,Negative
+思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Positive,-0.6689862608909607,Negative
 So lovely!,0.6581,Positive,0.625,Positive,0.8262502551078796,Positive
 日本語曲を作ってくれてありがとうtwice,0.3612,Positive,0.0,Neutral,0.2631888687610626,Neutral
 "Twice が歌う日本語曲すごく好き。しかも、今回の曲すごく自然だから　　　　
-しっくりくる。",0.8374,Positive,0.225,Neutral,0.5058292746543884,Positive
-"Soy la única que le gusta todavía más la versión en japonés? La siento mucho más dinámica, es raro",0.5617,Positive,0.1583333333333333,Neutral,0.4327095746994018,Positive
+しっくりくる。",0.8374,Positive,0.225,Positive,0.5058292746543884,Positive
+"Soy la única que le gusta todavía más la versión en japonés? La siento mucho más dinámica, es raro",0.5617,Positive,0.1583333333333333,Positive,0.4327095746994018,Positive
 Universal Basic Income today! give money to the homeless today! i've given $3.75 to the homeless recently!,0.0,Neutral,0.0,Neutral,0.6424356698989868,Positive
 日本語上手くなりましたね。,0.4767,Positive,0.0,Neutral,0.3730793595314026,Positive
 WTF,-0.5859,Negative,-0.5,Negative,0.3218501508235931,Neutral
@@ -418,7 +418,7 @@ I thought I saw SanDara @1:22,0.0,Neutral,0.0,Neutral,-0.3215638399124145,Negati
 -GOOD PERSON 2M
 -SNOWMAN 15M
 -HAPPY MINA DAY 1M",0.9866,Positive,0.581060606060606,Positive,0.4922797381877899,Positive
-"HI ONCE, PLEASE HELP OUR CO-ONCE (YURINA) BY STREAMING HER  ""LOOK AT ME"" MV AND SUPPORTING HER SOLO DEBUT IN JAPAN🥺",0.8779,Positive,0.25,Neutral,0.370012491941452,Positive
+"HI ONCE, PLEASE HELP OUR CO-ONCE (YURINA) BY STREAMING HER  ""LOOK AT ME"" MV AND SUPPORTING HER SOLO DEBUT IN JAPAN🥺",0.8779,Positive,0.25,Positive,0.370012491941452,Positive
 歌詞の添付、お願い致します。,0.3182,Positive,0.0,Neutral,0.4684197902679443,Positive
 ILOVEYOUUU,0.0,Neutral,0.0,Neutral,0.2166009396314621,Neutral
 Happy Happy Birthday Mina !!!,0.851,Positive,0.9,Positive,0.7255278825759888,Positive
@@ -426,17 +426,17 @@ Happy Happy Birthday Mina !!!,0.851,Positive,0.9,Positive,0.7255278825759888,Pos
 my mina penguinʼs vocals here are *chef's kiss*,0.4215,Positive,0.0,Neutral,0.5241940021514893,Positive
 さーたんの低音日本語たまらん、、歌詞も最高じゃない😭😭😭😭❤️,-0.9592,Negative,0.4625,Positive,0.3066805601119995,Neutral
 日本語も完璧ですごい🥹,0.5719,Positive,0.5,Positive,0.4121553301811218,Positive
-"Mina. I will first address your musicality and your performance, because this is how I started my journey with you. I want to talk about your voice, and state that it is like honey when I hear it. It is light and airy, and it flows beautifully over every Twice track. Your falsetto is gorgeous as well. It is stunning how strongly you are able to sing your lines and you do so with much consideration of how they compliment the rest of the song. There is so much classiness and elegance to your voice, and it is a very enchanting sound when you get to hear it. You always pour so much emotion and self-expression into your songs as well. All the same, you are an awe-inspiring dancer. Similarly to your vocals, you add a classiness and a magic to your moves that makes the rest of your members stand out alongside. You really increase to the unity by representing the appeal of Twice in your movements and cooperating flawlessly with your members. You always execute each move fully and completely, but I love the looseness of your movements as well that make you appear overall more delicate. You have truly changed the face of music and the way it appeals to people in this world because of your individuality. There could never be another who does what you do and you bring so much newness to the power of music. We are so grateful to you for presenting yourself as a monumental musician and for supplying us with so much of who you are. At the same time that I love your musical side, I also love your personality as well. You are sincerely one of the most warm and healing people that I know. It can be hard to discern how someone really is when you don’t actually know them, but with you, you are naturally just a good person. I realized I began to long for that feeling because you make me feel like I can be a better person just by being around you. On top of this, you are just so humble and extremely considerate of others’ feelings. I know that your members are the people in the world who have seen these qualities in a different light. I know that all nine of you have different personalities and will continue to change as you get older, but because you have such a deep love and bond with them, this could never change the relationship that you have built. Your presence is very healing, and it is comforts those who are around you. You listen to whatever they bring to you and you are there whenever you need them to be. You are always there, and is that makes you a perfect friend, and an even better family member. You give your members the nurturing and care they need, and because of this, you have become their family. You mean the world to them and I can just tell they can’t imagine living their lives without you. You have helped them become the people that they are today. Every day we get to watch them become more sure of themselves and more vibrant. I know that they can look at the darkest of days with optimism and hope because they have you to remind them that happiness is waiting for them again. There is no better person for your members to have spent all of their time with. They’ve been with you for some of the greatest and darkest moments, as you have been for them. They could not believe in themselves without you Mina, and just by being yourself, you are somebody who they can believe in as well. No matter what happens, they know that they have somebody who will continue to be there for them and support them for the rest of their lives. You’ve trusted them enough to see the real you, and in turn, they will show you unconditional love. Your members, also your family, can always be the best versions of themselves and can accomplish anything they want because you help them to recognize that in themselves. You will forever be the reason they can live life to the fullest. I want to personally thank your family and parents for raising you into the inspirational young woman that you are today. I know that your family means the world to you, and that you’ve relied on them during some of your toughest times. I know that you will continue to realize how much your family means to you, and that you are beyond appreciative of what they’ve provided for you. I just want to state that they will always love you and support you more than anybody else in this world. If you ever feel alone, I know that you will remember that your family will always come to pick you up and make you feel like yourself again. They are prouder than words can say of you and who you’ve become. You make them proud with every step you take every days and you could never do otherwise. No matter the choices you make, they will be there behind you. Once keeps them in their hearts as you do every single day, and we are thankful to them for making the world a better place as you are. Mina, I know that I can speak on behalf of all the Once when I say that you have shown us a way of life that we likely never imagined we’d see. With everything that you’ve been through, there has been no better motivation for us to believe in ourselves and achieve our own dreams. You treat us no different than your family, and you don’t even know all of us personally. It is you who supports us, and we are going to be striving to give you back everything you’ve given us for our entire lives. For some Once, when they really feel like they have nothing and nobody, they have you. If you ever doubt your impact on us, just know that there are people who can only say they see potential in themselves because you helped them to see it. You make us feel like we are worth trying what we want and to never give up. It is obviously not easy to always share how you’re feeling, especially in the position you’re in because of your profession, but even when you were dealing with emotions that could have been confusing to you, you showed that whole side of you to us.  I hope that this shows you that will never betray you or leave you. All we want is for you to express yourself the way you need to, for however long you need to, because we care about you as a person. I hope that we’ve helped to overcome what previously or might still cause you issues, because all we want is to be everything you need. There is nothing that I could say or do that could ever represent how thankful we are for the love you’ve shown us and the life you’ve shown us we can have. You change our lives everyday and we become better people because of it. I know you’ve been through a lot, both professionally and personally, and I want to be the one to just tell you directly how proud we are of you fo doing this. I don’t know if you can ever hear this enough, but you’ve shown strength that most people can only imagine of showing. You’ve grown from your restless struggles that have tried to hold you back, but you didn’t let them. You faced them head on and it takes courage beyond description to take time off to focus on you. Every person on this Earth can learn from how you’ve taken what once ailed you, and turned it into a reason to believe in yourself and others. You are one of the most inspirational people I know, and there will never be another whose journey has quite been like yours. You will always encourage others to confront what scares them, or what troubles them, and you show them it is okay to do it. We could not be more honored to be your fan and to say our role model is you, the bravest person we know. I hope that this birthday makes all of your dreams come true and that you can do all that you’ve wanted to accomplish! I hope that you take the time today, and every day to realize what you’ve been through, how you’ve grown, and what you teach the world. You deserve to be celebrated all the time because of how generous and thoughtful you are. I hope that this day is full of memories you won’t forget, and every second is spent exactly how you want to! I hope you are surrounded by those who can fill your heart will all the love in the world, and that this goes down to be one of the greatest days you can have! Your Once are celebrating how fine of a young woman you’ve become and continue to become every day! I also hope that all the blessings you deserve come to you on this special day! Thank you for sacrificing all that you have just to make Twice come to life. Thank you for suffering through all of the pain, emotions, fear, doubts, concerns, troubles, tears, and fatigue just to bring us any content at all. All of the efforts that you exert to make somebody happy in some way are acknowledged by us at every moment. Several Once are alive and okay because of you, and I hope you realize your worth in this world and to others. I hope you continue to put your health, happiness, and safety first, because that is all your Once ever want for you. We are so proud of you and can’t wait to see how you continue to grow in the future! Please don’t overwork yourself, because you are beautiful in our eyes and will always be! We will support you and love you forever as you do us, no matter what you choose in life. I pray that you and your loved ones stay safe, and find happiness and worth in your future. Happy birthday Mina, and we adore you so much!!!!",0.9999,Positive,0.2830210263607296,Neutral,0.789972722530365,Positive
+"Mina. I will first address your musicality and your performance, because this is how I started my journey with you. I want to talk about your voice, and state that it is like honey when I hear it. It is light and airy, and it flows beautifully over every Twice track. Your falsetto is gorgeous as well. It is stunning how strongly you are able to sing your lines and you do so with much consideration of how they compliment the rest of the song. There is so much classiness and elegance to your voice, and it is a very enchanting sound when you get to hear it. You always pour so much emotion and self-expression into your songs as well. All the same, you are an awe-inspiring dancer. Similarly to your vocals, you add a classiness and a magic to your moves that makes the rest of your members stand out alongside. You really increase to the unity by representing the appeal of Twice in your movements and cooperating flawlessly with your members. You always execute each move fully and completely, but I love the looseness of your movements as well that make you appear overall more delicate. You have truly changed the face of music and the way it appeals to people in this world because of your individuality. There could never be another who does what you do and you bring so much newness to the power of music. We are so grateful to you for presenting yourself as a monumental musician and for supplying us with so much of who you are. At the same time that I love your musical side, I also love your personality as well. You are sincerely one of the most warm and healing people that I know. It can be hard to discern how someone really is when you don’t actually know them, but with you, you are naturally just a good person. I realized I began to long for that feeling because you make me feel like I can be a better person just by being around you. On top of this, you are just so humble and extremely considerate of others’ feelings. I know that your members are the people in the world who have seen these qualities in a different light. I know that all nine of you have different personalities and will continue to change as you get older, but because you have such a deep love and bond with them, this could never change the relationship that you have built. Your presence is very healing, and it is comforts those who are around you. You listen to whatever they bring to you and you are there whenever you need them to be. You are always there, and is that makes you a perfect friend, and an even better family member. You give your members the nurturing and care they need, and because of this, you have become their family. You mean the world to them and I can just tell they can’t imagine living their lives without you. You have helped them become the people that they are today. Every day we get to watch them become more sure of themselves and more vibrant. I know that they can look at the darkest of days with optimism and hope because they have you to remind them that happiness is waiting for them again. There is no better person for your members to have spent all of their time with. They’ve been with you for some of the greatest and darkest moments, as you have been for them. They could not believe in themselves without you Mina, and just by being yourself, you are somebody who they can believe in as well. No matter what happens, they know that they have somebody who will continue to be there for them and support them for the rest of their lives. You’ve trusted them enough to see the real you, and in turn, they will show you unconditional love. Your members, also your family, can always be the best versions of themselves and can accomplish anything they want because you help them to recognize that in themselves. You will forever be the reason they can live life to the fullest. I want to personally thank your family and parents for raising you into the inspirational young woman that you are today. I know that your family means the world to you, and that you’ve relied on them during some of your toughest times. I know that you will continue to realize how much your family means to you, and that you are beyond appreciative of what they’ve provided for you. I just want to state that they will always love you and support you more than anybody else in this world. If you ever feel alone, I know that you will remember that your family will always come to pick you up and make you feel like yourself again. They are prouder than words can say of you and who you’ve become. You make them proud with every step you take every days and you could never do otherwise. No matter the choices you make, they will be there behind you. Once keeps them in their hearts as you do every single day, and we are thankful to them for making the world a better place as you are. Mina, I know that I can speak on behalf of all the Once when I say that you have shown us a way of life that we likely never imagined we’d see. With everything that you’ve been through, there has been no better motivation for us to believe in ourselves and achieve our own dreams. You treat us no different than your family, and you don’t even know all of us personally. It is you who supports us, and we are going to be striving to give you back everything you’ve given us for our entire lives. For some Once, when they really feel like they have nothing and nobody, they have you. If you ever doubt your impact on us, just know that there are people who can only say they see potential in themselves because you helped them to see it. You make us feel like we are worth trying what we want and to never give up. It is obviously not easy to always share how you’re feeling, especially in the position you’re in because of your profession, but even when you were dealing with emotions that could have been confusing to you, you showed that whole side of you to us.  I hope that this shows you that will never betray you or leave you. All we want is for you to express yourself the way you need to, for however long you need to, because we care about you as a person. I hope that we’ve helped to overcome what previously or might still cause you issues, because all we want is to be everything you need. There is nothing that I could say or do that could ever represent how thankful we are for the love you’ve shown us and the life you’ve shown us we can have. You change our lives everyday and we become better people because of it. I know you’ve been through a lot, both professionally and personally, and I want to be the one to just tell you directly how proud we are of you fo doing this. I don’t know if you can ever hear this enough, but you’ve shown strength that most people can only imagine of showing. You’ve grown from your restless struggles that have tried to hold you back, but you didn’t let them. You faced them head on and it takes courage beyond description to take time off to focus on you. Every person on this Earth can learn from how you’ve taken what once ailed you, and turned it into a reason to believe in yourself and others. You are one of the most inspirational people I know, and there will never be another whose journey has quite been like yours. You will always encourage others to confront what scares them, or what troubles them, and you show them it is okay to do it. We could not be more honored to be your fan and to say our role model is you, the bravest person we know. I hope that this birthday makes all of your dreams come true and that you can do all that you’ve wanted to accomplish! I hope that you take the time today, and every day to realize what you’ve been through, how you’ve grown, and what you teach the world. You deserve to be celebrated all the time because of how generous and thoughtful you are. I hope that this day is full of memories you won’t forget, and every second is spent exactly how you want to! I hope you are surrounded by those who can fill your heart will all the love in the world, and that this goes down to be one of the greatest days you can have! Your Once are celebrating how fine of a young woman you’ve become and continue to become every day! I also hope that all the blessings you deserve come to you on this special day! Thank you for sacrificing all that you have just to make Twice come to life. Thank you for suffering through all of the pain, emotions, fear, doubts, concerns, troubles, tears, and fatigue just to bring us any content at all. All of the efforts that you exert to make somebody happy in some way are acknowledged by us at every moment. Several Once are alive and okay because of you, and I hope you realize your worth in this world and to others. I hope you continue to put your health, happiness, and safety first, because that is all your Once ever want for you. We are so proud of you and can’t wait to see how you continue to grow in the future! Please don’t overwork yourself, because you are beautiful in our eyes and will always be! We will support you and love you forever as you do us, no matter what you choose in life. I pray that you and your loved ones stay safe, and find happiness and worth in your future. Happy birthday Mina, and we adore you so much!!!!",0.9999,Positive,0.2830210263607296,Positive,0.789972722530365,Positive
 SCIENTIST,0.0,Neutral,0.0,Neutral,0.3476628065109253,Positive
 TWICE,0.0,Neutral,0.0,Neutral,-0.2542644739151001,Negative
 0:42 NAYEON ME VA NALGUEAR 😍😍,0.7184,Positive,0.0,Neutral,-0.5411108732223511,Negative
 "0:41
 ""Nayeon me va a nalgar 😁""
-Gracias Naye, yo si me dejó 😋💕",0.875,Positive,0.2,Neutral,-0.7319102883338928,Negative
+Gracias Naye, yo si me dejó 😋💕",0.875,Positive,0.2,Positive,-0.7319102883338928,Negative
 Chayeong,0.0,Neutral,0.0,Neutral,0.2631916999816894,Neutral
-Sahyo,0.0,Neutral,0.1,Neutral,0.2495743185281753,Neutral
+Sahyo,0.0,Neutral,0.1,Positive,0.2495743185281753,Neutral
 125k to 7m,0.0,Neutral,0.0,Neutral,0.3004718422889709,Neutral
-体調に気をつけてこれからも頑張ってください！ずっと応援してます！,0.8856,Positive,0.225,Neutral,0.7387470602989197,Positive
+体調に気をつけてこれからも頑張ってください！ずっと応援してます！,0.8856,Positive,0.225,Positive,0.7387470602989197,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 😘😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
 nayeon me nalguear LAS AMO TWICE🥰🥰,0.9663,Positive,0.5,Positive,-0.2558337748050689,Negative
@@ -521,7 +521,7 @@ Don’t need no license
 Don’t try to be a genius
 Why so serious?
 ココロのまま Wooah
-思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Neutral,-0.6771872639656067,Negative
+思いのまま What u, what u waiting for?",0.9678,Positive,0.1071138211382114,Positive,-0.6771872639656067,Negative
 "おいおい！
 
 
@@ -612,24 +612,24 @@ Don't need no license
 Don't try to be a genius
 Why so serious?
 心のまま Wooah
-思いのまま What you, what you waiting for",0.9836,Positive,0.1388211382113821,Neutral,-0.6625089645385742,Negative
+思いのまま What you, what you waiting for",0.9836,Positive,0.1388211382113821,Positive,-0.6625089645385742,Negative
 気分落ちてるときにこの曲聴くと気持ち軽くなる😭‼︎本当いつも応援してます♪体調に気をつけてファイティン！！,-0.3607,Negative,-0.0138888888888888,Negative,0.4658219814300537,Positive
 モモキュートすぎん？,0.4588,Positive,0.5,Positive,-0.3359523117542267,Negative
-"Gracias a Tik tok, no me puedo quitar el nayeon me va nalguear",0.4404,Positive,0.2,Neutral,-0.5624585747718811,Negative
+"Gracias a Tik tok, no me puedo quitar el nayeon me va nalguear",0.4404,Positive,0.2,Positive,-0.5624585747718811,Negative
 Lindas!,0.636,Positive,1.0,Positive,0.3935729563236236,Positive
 yo solo vine por el nayeon me va a nalguear,0.0,Neutral,0.0,Neutral,-0.5036401748657227,Negative
-NaYeOn mE vA A NaLguEar 🥵 jajaja xd,0.8126,Positive,0.2,Neutral,0.2291008234024047,Neutral
+NaYeOn mE vA A NaLguEar 🥵 jajaja xd,0.8126,Positive,0.2,Positive,0.2291008234024047,Neutral
 MY BESTGIRLS,0.0,Neutral,0.0,Neutral,0.874007523059845,Positive
 "1:33 
 Nayeon me va a nalguear",0.0,Neutral,0.0,Neutral,-0.3767694234848022,Negative
 Viene a ver si Jiyho decia Nayeon me va a naleguear jsjjs xdd,0.0,Neutral,0.0,Neutral,-0.307887464761734,Negative
-綺麗,0.4939,Positive,0.25,Neutral,0.4470128715038299,Positive
+綺麗,0.4939,Positive,0.25,Positive,0.4470128715038299,Positive
 めざましでやってたからきた,0.0,Neutral,0.0,Neutral,0.5650293827056885,Positive
 1:33 π,0.0,Neutral,0.0,Neutral,-0.3052427470684051,Negative
 YA CASI LLEGAMOS A LOS 6 MILLONES WUJUU,0.3763,Positive,0.0,Neutral,-0.5247355699539185,Negative
 Esmia,0.0,Neutral,0.0,Neutral,0.2676486074924469,Neutral
 En cualquier idioma sigue siendo muy buenaa,0.4927,Positive,0.91,Positive,0.5733679533004761,Positive
-SE LOS JURO NO PUEDO ESCUCHAR  ESTA CANCION PQ DICE NAYEON ME VA NALGUEAR😳 JAJAJA XD 🥵🤣😅,0.9278,Positive,0.2,Neutral,-0.6332520246505737,Negative
+SE LOS JURO NO PUEDO ESCUCHAR  ESTA CANCION PQ DICE NAYEON ME VA NALGUEAR😳 JAJAJA XD 🥵🤣😅,0.9278,Positive,0.2,Positive,-0.6332520246505737,Negative
 "I'm K-ONCE, but  I think Scientist Japan ver. is better than Originer ver.",0.5927,Positive,0.5,Positive,0.3637697398662567,Positive
 日本語版も作ってくれてありがとう💗😀,0.872,Positive,0.0,Neutral,0.3351194560527801,Positive
 ホントに日本語バージョン作ってくれてありがとう❣️,0.7717,Positive,0.0,Neutral,0.2545231282711029,Neutral
@@ -647,7 +647,7 @@ NAYEON ME VA A NALGEAR,0.0,Neutral,0.0,Neutral,-0.2640697360038757,Negative
 "猫なでてる時のジョンヨン氏
 ほんとにあったかい表情してる☺️",0.6659,Positive,0.6,Positive,0.2752620875835418,Neutral
 The Japanse version is amazing! 🤗💜,0.902,Positive,0.375,Positive,0.7302979230880737,Positive
-Que. Suerte tienen los ønces japoneses,0.4215,Positive,0.1666666666666666,Neutral,0.2982304096221924,Neutral
+Que. Suerte tienen los ønces japoneses,0.4215,Positive,0.1666666666666666,Positive,0.2982304096221924,Neutral
 Better make a move <3,0.7003,Positive,0.75,Positive,0.6931489109992981,Positive
 Love you queens of jpop,0.6369,Positive,0.5,Positive,0.8074021339416504,Positive
 Visit all TWICE MV,0.0,Neutral,0.0,Neutral,0.2764066159725189,Neutral
@@ -677,11 +677,11 @@ once sigamos apoyando a las chicas que ella se lo merecen !!!,0.5826,Positive,0.
 -SNOWMAN 15M",0.9867,Positive,0.584090909090909,Positive,0.5098975300788879,Positive
 "amo esta version, es buenisimaa",0.8519,Positive,0.65,Positive,0.580772876739502,Positive
 "esta version es muy buena , me encantaa",0.8251,Positive,0.705,Positive,0.7479780912399292,Positive
-Ahhh deep voices- I'm in love ahhh 😌✋,0.875,Positive,0.25,Neutral,0.5178543329238892,Positive
-sigamos apoyando alas chicas !,0.4926,Positive,0.3125,Neutral,0.3515272736549377,Positive
+Ahhh deep voices- I'm in love ahhh 😌✋,0.875,Positive,0.25,Positive,0.5178543329238892,Positive
+sigamos apoyando alas chicas !,0.4926,Positive,0.3125,Positive,0.3515272736549377,Positive
 once sigamos con el str34m,0.0,Neutral,0.0,Neutral,-0.2739331722259521,Negative
 "갠적으로 뮤비가 한국판보다 일본ver가 더 좋다
-한국ver는 문과 느낌이 너무 났음",0.4404,Positive,0.1875,Neutral,0.4767086207866668,Positive
+한국ver는 문과 느낌이 너무 났음",0.4404,Positive,0.1875,Positive,0.4767086207866668,Positive
 The best music,0.6369,Positive,1.0,Positive,0.9245617389678956,Positive
 ジョンヨンが副作用で体型が変わって悩んでるからダンスはなしで、MVで映るとこも下半身は映さないようにしてるところがめっちゃ優しい😭,-0.6976,Negative,-0.0105555555555555,Negative,0.348822683095932,Positive
 "En la cocina con 
@@ -690,7 +690,7 @@ The best music,0.6369,Positive,1.0,Positive,0.9245617389678956,Positive
 0:42 nayeong me va a nalguear🥵🥵🥵,0.0,Neutral,0.0,Neutral,-0.4240693747997284,Negative
 """Nayeon me va nalguear ""😂😂😂😂😂😂😂😂",0.969,Positive,0.0,Neutral,-0.3075707256793976,Negative
 """Nayeon me va nalguear""😂😂😂😂😂😂😂",0.9601,Positive,0.0,Neutral,-0.3075707256793976,Negative
-"No pero yo vine aquí a ver si el ""Nayeon me va a nalgear"" era real y no un edit y sí lo ha sido xd",0.8674,Positive,0.2,Neutral,-0.3601639568805694,Negative
+"No pero yo vine aquí a ver si el ""Nayeon me va a nalgear"" era real y no un edit y sí lo ha sido xd",0.8674,Positive,0.2,Positive,-0.3601639568805694,Negative
 Tzuyu deserve better,0.4404,Positive,0.5,Positive,0.3486331105232239,Positive
 حبيتت ..,0.5994,Positive,0.7,Positive,-0.2875446677207947,Negative
 CHOU TZUYU,0.0,Neutral,0.0,Neutral,0.2607221901416778,Neutral
@@ -705,17 +705,17 @@ What a great song,0.6249,Positive,0.8,Positive,0.8509725332260132,Positive
 「悩めば悩ーむーほーどにマイナス」は
 「悩めば悩ーむーほーどマイナス」か
 「悩めば悩むほーどーにマイナス」の方が自然でしょ
-何で日本人作詞家のようなスタッフがつかないんだろう",-0.8958,Negative,0.06,Neutral,0.4231041371822357,Positive
+何で日本人作詞家のようなスタッフがつかないんだろう",-0.8958,Negative,0.06,Positive,0.4231041371822357,Positive
 nayeon me va a nalguear....... NOOO ayudaa ya no escucho igual la canción 😩,0.1531,Positive,0.0,Neutral,-0.6091980934143066,Negative
-"Nayeon me va a nalguear,parece que dice eso jajaja",0.5574,Positive,0.2,Neutral,-0.3211294710636139,Negative
-"""Nayeon me va nalguear"" JAJAJA",0.6523,Positive,0.2,Neutral,-0.2563793659210205,Negative
+"Nayeon me va a nalguear,parece que dice eso jajaja",0.5574,Positive,0.2,Positive,-0.3211294710636139,Negative
+"""Nayeon me va nalguear"" JAJAJA",0.6523,Positive,0.2,Positive,-0.2563793659210205,Negative
 Love twice,0.6369,Positive,0.5,Positive,0.6500545144081116,Positive
 Momo masterclass,0.0,Neutral,0.0,Neutral,0.536529004573822,Positive
 no lo puedo escuchar igual 0:42 😫,-0.4404,Negative,0.0,Neutral,-0.6667800545692444,Negative
 esta version es muy buenaa,0.4927,Positive,0.91,Positive,0.6102257370948792,Positive
 "No les pasa que dice ""nayeon me va a nalgear duro la nalga"" 🤣",0.4215,Positive,-0.2916666666666667,Negative,-0.5281898975372314,Negative
 AYUDA PQ ESCUCHO NAYEON ME VA A NALGUEAR :(,0.1363,Positive,-0.75,Negative,-0.3893285691738128,Negative
-The Japanese version is too smooth it removes the edge that the original has.,0.3182,Positive,0.2583333333333333,Neutral,-0.4657895863056183,Negative
+The Japanese version is too smooth it removes the edge that the original has.,0.3182,Positive,0.2583333333333333,Positive,-0.4657895863056183,Negative
 Twice las quiero <3,0.7964,Positive,0.75,Positive,-0.3080199658870697,Negative
 NAYEON ME VA A NALGUEAR💗,0.7096,Positive,0.0,Neutral,0.2806598842144012,Neutral
 HIRAI MOMO,0.0,Neutral,0.0,Neutral,0.2708966135978699,Neutral
@@ -725,7 +725,7 @@ berryberryGood,0.0,Neutral,0.0,Neutral,0.2525650262832641,Neutral
 "ももりん大好き🍑💖
 みんな可愛い！！大好き🥰",0.9798,Positive,0.6588541666666666,Positive,0.8491571545600891,Positive
 "キュートな歌ですね💘
-中毒性あります🤬",0.802,Positive,0.25,Neutral,-0.6223523020744324,Negative
+中毒性あります🤬",0.802,Positive,0.25,Positive,-0.6223523020744324,Negative
 "♪考えすぎは大問題
 ♪頭を空っぽにして",-0.5423,Negative,-0.05,Negative,0.2681236863136291,Neutral
 "SIGNAL 295M
@@ -734,7 +734,7 @@ ALCOHOL FREE 220M",0.5106,Positive,0.4,Positive,0.2253825068473816,Neutral
 SCIENTIST,0.0,Neutral,0.0,Neutral,0.3476628065109253,Positive
 "DAHYUN 
 CHAEYOUNG 
-TZUYU",0.0,Neutral,0.1,Neutral,0.2698136866092682,Neutral
+TZUYU",0.0,Neutral,0.1,Positive,0.2698136866092682,Neutral
 "SANA 
 JIHYO 
 MINA",0.0,Neutral,0.0,Neutral,0.2758720219135284,Neutral
@@ -755,7 +755,7 @@ Hh,0.0,Neutral,0.0,Neutral,0.2864297926425934,Neutral
 nayeon me va a nalguear 🤗😍,0.7003,Positive,0.0,Neutral,-0.2842482924461365,Negative
 OMG Jeongyeon voice <3,0.4404,Positive,1.0,Positive,0.3055563271045685,Neutral
 TWICEあんまり知らない人とカラオケ行ったら韓国語じゃ歌いづらいから、日本語版ありがたい🎤🎶,0.4294,Positive,-0.1458333333333333,Negative,-0.289014995098114,Negative
-일본판보다 오리지날이 낫다,0.6369,Positive,0.2916666666666667,Neutral,0.4426959156990051,Positive
+일본판보다 오리지날이 낫다,0.6369,Positive,0.2916666666666667,Positive,0.4426959156990051,Positive
 """Nayeon me va a nalguear""😭✋",0.0258,Neutral,0.0,Neutral,-0.3510414361953735,Negative
 Daming TAE ah HAHAHAHAHAA,0.0,Neutral,0.0,Neutral,-0.4357025921344757,Negative
 0:41 nayeon me va a nalguear 😂😂,0.7003,Positive,0.0,Neutral,-0.5905492901802063,Negative
@@ -764,7 +764,7 @@ Daming TAE ah HAHAHAHAHAA,0.0,Neutral,0.0,Neutral,-0.4357025921344757,Negative
 0:38 Love ain't a science don't need no license Nayeon me va a Nayeon,0.7259,Positive,0.5,Positive,-0.6602787971496582,Negative
 1:37 QUE HERMOSO SE ESCUCHO ESO,0.6841,Positive,0.85,Positive,0.5405004024505615,Positive
 Momo's solo at the end in Japanese be hitting different,0.0,Neutral,0.0,Neutral,0.3549854159355163,Positive
-日本語バージョンの方が好きな珍しいパターン…！,0.4753,Positive,0.15,Neutral,0.5703330039978027,Positive
+日本語バージョンの方が好きな珍しいパターン…！,0.4753,Positive,0.15,Positive,0.5703330039978027,Positive
 PARK JIHYO,0.0,Neutral,0.0,Neutral,0.301745057106018,Neutral
 "なんかTWICEがいると頑張れる。
 これからも大好きなTWICEのままであって欲しい。！
@@ -808,17 +808,17 @@ En cualquier idioma sigue siendo un temazo <3,0.7906,Positive,0.9,Positive,0.344
 日本語のが好き,0.3612,Positive,0.0,Neutral,0.372854471206665,Positive
 いつもありがとう😊,0.8176,Positive,0.0,Neutral,0.3085779249668121,Neutral
 みんな可愛い💕,0.8074,Positive,0.5,Positive,0.713002622127533,Positive
-"Their voice in Japanese are matured,I love it♥️",0.8555,Positive,0.25,Neutral,0.7685126662254333,Positive
+"Their voice in Japanese are matured,I love it♥️",0.8555,Positive,0.25,Positive,0.7685126662254333,Positive
 みんなのことだいすきだよ。応援してます！,0.8016,Positive,0.625,Positive,0.7602792382240295,Positive
 このジヒョめっちゃ可愛いな,0.5949,Positive,0.5,Positive,0.6266578435897827,Positive
-自分としては無理に日本語バージョン作らないで欲しいな　歌詞に無理があってツライ　日本のライブで日本語で歌わないとイケナイなんて日本人は心狭くないからオリジナルだけでいいよ！と言いたいが・・,0.396,Positive,0.0675189393939394,Neutral,-0.3638483583927154,Negative
+自分としては無理に日本語バージョン作らないで欲しいな　歌詞に無理があってツライ　日本のライブで日本語で歌わないとイケナイなんて日本人は心狭くないからオリジナルだけでいいよ！と言いたいが・・,0.396,Positive,0.0675189393939394,Positive,-0.3638483583927154,Negative
 es adictiva esta versión,0.0,Neutral,0.0,Neutral,0.3416810631752014,Positive
 DIOSASS,0.0,Neutral,0.0,Neutral,0.2676795423030853,Neutral
 Nayeon me va a nalguear xddddd,0.0,Neutral,0.0,Neutral,-0.3496395945549011,Negative
 Day 15: #20 trending in Japan🇯🇵 (⏫),0.0,Neutral,0.0,Neutral,0.5859327912330627,Positive
 "for me this version seems more relaxed, it's got such a nice rhythm in their voices but its still kinda upbeat, idk if that makes sense both are really cool",0.7471,Positive,0.3625,Positive,0.69205641746521,Positive
 AMOOO!,0.6696,Positive,0.625,Positive,0.3439677357673645,Positive
-i always thought this would sound better in japanese,0.4404,Positive,0.3,Neutral,0.3267800807952881,Neutral
+i always thought this would sound better in japanese,0.4404,Positive,0.3,Positive,0.3267800807952881,Neutral
 "Creo que me gusta más que la original, las amo",0.8505,Positive,0.4583333333333333,Positive,0.535963237285614,Positive
 Mina,0.0,Neutral,0.0,Neutral,0.2556707859039306,Neutral
 "Stream I Can't Stop Me, Cry For Me, Alcohol Free and Scientist japanese version of the song. It sounds really good just like the original song and it's not weird to my ears. TWICE's music is indeed the best.",0.9624,Positive,0.4541666666666666,Positive,0.6460225582122803,Positive
@@ -865,7 +865,7 @@ TWICE =) LOVE =),0.9068,Positive,0.5,Positive,0.6751878261566162,Positive
 In espanish say nayeon me va a nalgear,0.0,Neutral,0.0,Neutral,-0.4452579319477081,Negative
 "re turviOOoOoO el ""nayeon me va a nalgear""",0.0,Neutral,0.0,Neutral,-0.449000209569931,Negative
 Nayeon me va a nalguear 😭👊,-0.4767,Negative,0.0,Neutral,-0.2842482924461365,Negative
-SCIENTIST EN JAPONES AMOOO,0.6369,Positive,0.25,Neutral,0.2375701516866684,Neutral
+SCIENTIST EN JAPONES AMOOO,0.6369,Positive,0.25,Positive,0.2375701516866684,Neutral
 0:42 se escucha que Nayeon dice - Nayeon me va a nalguear xD,0.5859,Positive,0.0,Neutral,-0.6144535541534424,Negative
 멜로디가 너무 좋아요 이 버전이 좋아요 <3,0.9062,Positive,0.6666666666666666,Positive,0.4154784977436065,Positive
 再生回数もうちょい買わないと,0.0772,Positive,0.0,Neutral,-0.3397048115730285,Negative
@@ -884,17 +884,17 @@ Díganme que no soy la única que escucha ‘ Nayeon me va a nayear ‘,0.0,Neut
 TWICEっていつも元気くれる…😭💕,0.6486,Positive,0.0,Neutral,0.6483992338180542,Positive
 nayeon me va nalguear,0.0,Neutral,0.0,Neutral,-0.2898078560829162,Negative
 ya no la escucho igual,0.0,Neutral,0.0,Neutral,-0.5177114009857178,Negative
-komennya dipenuhi dengan bahasa jepang,0.0,Neutral,0.2,Neutral,0.2654638290405273,Neutral
+komennya dipenuhi dengan bahasa jepang,0.0,Neutral,0.2,Positive,0.2654638290405273,Neutral
 Nayeon a quien vas a nalguear ayuda,0.4019,Positive,0.0,Neutral,0.2725296914577484,Neutral
 Go go 6M,0.0,Neutral,0.0,Neutral,-0.2474173754453659,Negative
-10M before new MV,0.0,Neutral,0.1363636363636363,Neutral,0.2417217195034027,Neutral
+10M before new MV,0.0,Neutral,0.1363636363636363,Positive,0.2417217195034027,Neutral
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 Te amo,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
 Jp ver were best,0.7184,Positive,1.0,Positive,0.2918661832809448,Neutral
 NAYEON ME VA A NALGUEAAAAAR,0.0,Neutral,0.0,Neutral,-0.2788498997688293,Negative
 WE LOVE YOU TWICE,0.6369,Positive,0.5,Positive,0.8009675145149231,Positive
 La voz de Momo en Japonés wtf,-0.5859,Negative,-0.25,Negative,0.3206571042537689,Neutral
-ahora la versión en español >:),0.1027,Positive,0.25,Neutral,0.3698234558105469,Positive
+ahora la versión en español >:),0.1027,Positive,0.25,Positive,0.3698234558105469,Positive
 """Nayeon Me va a nalguear"" 🙏😈",0.4588,Positive,0.0,Neutral,-0.3510414361953735,Negative
 Japanese ver is the best,0.6369,Positive,0.5,Positive,0.7525278925895691,Positive
 Sana,0.0,Neutral,0.0,Neutral,0.3112448751926422,Neutral
@@ -905,14 +905,14 @@ Vi amo.",0.6369,Positive,0.5,Positive,0.2472094595432281,Neutral
 nayeon me va nalguear,0.0,Neutral,0.0,Neutral,-0.2898078560829162,Negative
 "Me gusta más esta versión japonesa, se siente mas natural y más orgánico <3",0.8852,Positive,0.4333333333333333,Positive,0.7918593287467957,Positive
 どんどん日本語うまなってる…🥺,0.7003,Positive,0.3333333333333333,Positive,0.2998802065849304,Neutral
-ミナの声めっちゃ好き,0.4201,Positive,0.2,Neutral,0.478724330663681,Positive
+ミナの声めっちゃ好き,0.4201,Positive,0.2,Positive,0.478724330663681,Positive
 YAS QUEENS,0.0,Neutral,0.0,Neutral,0.309743195772171,Neutral
 cheerful   beautiful   twıce   9   girls   I love 💙❤😍😍😘😘😉😉🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🤟🤟🤟🤟🤟🤟🤟🤟🤟👍,0.9856,Positive,0.5833333333333334,Positive,0.8987018465995789,Positive
 私はいつまでもトワイスを応援します✊‼️,0.4019,Positive,0.0,Neutral,0.6457814574241638,Positive
 日本語最高です！！,0.7249,Positive,0.5,Positive,0.6862883567810059,Positive
 "今回のコンセプトがち好きです！
 日本語にしても結局さいこう",0.4199,Positive,0.0,Neutral,0.5286813378334045,Positive
-This Japanese version sounds especially natural for Japanese!!,0.5231,Positive,0.0666666666666666,Neutral,0.4559144973754883,Positive
+This Japanese version sounds especially natural for Japanese!!,0.5231,Positive,0.0666666666666666,Positive,0.4559144973754883,Positive
 💕𝐓𝐖𝐈𝐂𝐄🍭,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 1:44 ここが噂のサナさん分身場面か,0.0,Neutral,0.0,Neutral,-0.2636244893074035,Negative
 "5.09M
@@ -920,7 +920,7 @@ Welcome 5M!",0.5093,Positive,1.0,Positive,0.7196567058563232,Positive
 "It's weird to listen to kpop and understand the lyrics. I'm just used to like, not understanding a thing and just jam to it regardless.",0.2023,Positive,-0.5,Negative,-0.4425256848335266,Negative
 so true,0.4754,Positive,0.35,Positive,0.6672887802124023,Positive
 綺麗な,0.5994,Positive,0.85,Positive,0.506944477558136,Positive
-なんでジョンヨンあんまり出てこないの？？,0.0,Neutral,0.2,Neutral,-0.3372349143028259,Negative
+なんでジョンヨンあんまり出てこないの？？,0.0,Neutral,0.2,Positive,-0.3372349143028259,Negative
 Hb,0.0,Neutral,0.0,Neutral,0.2652819454669952,Neutral
 シワ,0.0,Neutral,0.0,Neutral,0.2550554573535919,Neutral
 ナヨン,0.0,Neutral,0.0,Neutral,0.2532664835453033,Neutral
@@ -939,17 +939,17 @@ TWICE,0.0,Neutral,0.0,Neutral,-0.2542644739151001,Negative
 TWICEが存在しているこの時代に生きられていることに感謝だわ…,0.3612,Positive,0.0,Neutral,0.4450958371162414,Positive
 私はそれを2回愛しています!! 😻,0.8309,Positive,0.78125,Positive,0.834969162940979,Positive
 selamat atas 5M,0.5994,Positive,0.0,Neutral,-0.4648031890392303,Negative
-Love the Japanese Version of this song!,0.6696,Positive,0.25,Neutral,0.7601791024208069,Positive
+Love the Japanese Version of this song!,0.6696,Positive,0.25,Positive,0.7601791024208069,Positive
 Japanese Version is just so great! I don't know why people only listen to the korean versions when this exists!,0.7799,Positive,0.3333333333333333,Positive,0.7039074897766113,Positive
 hermosas,0.5994,Positive,0.85,Positive,0.619800329208374,Positive
 "I have a weakness for the JP versions, are always awesome",0.5904,Positive,1.0,Positive,0.5434449911117554,Positive
 5M!!!,0.0,Neutral,0.0,Neutral,-0.3811299204826355,Negative
-Nayeon me va a nalguear JAJAJAJAJA,0.0,Neutral,0.2,Neutral,0.2738269567489624,Neutral
+Nayeon me va a nalguear JAJAJAJAJA,0.0,Neutral,0.2,Positive,0.2738269567489624,Neutral
 Nayeon me va a nalguear HELP LA ESCUCHO ASÍ JAJAJAJAJSJASJAKSJ,0.7695,Positive,0.0,Neutral,0.3021277487277984,Neutral
 Now the will release ICSM Japanese ver 👀👀👀,0.0,Neutral,0.0,Neutral,-0.3182699680328369,Negative
 Lindas.,0.5994,Positive,0.85,Positive,0.2760063409805298,Neutral
 "今までの日本語verで一番自然で聴きやすい気がする
-もちろん今までのものもめちゃくちゃ良いけど、、！",0.6393,Positive,0.3011904761904762,Neutral,0.4476678073406219,Positive
+もちろん今までのものもめちゃくちゃ良いけど、、！",0.6393,Positive,0.3011904761904762,Positive,0.4476678073406219,Positive
 "作詞：畑亜貴
 作曲：Joey Carbone、Erik Lidbom
 編曲：鶴澤夢人、長戸大幸
@@ -957,7 +957,7 @@ Lindas.,0.5994,Positive,0.85,Positive,0.2760063409805298,Neutral
 という組み合わせでやってほしかったりする。",0.0772,Positive,0.0,Neutral,0.3562583327293396,Positive
 Happy 5M !!!!!,0.7067,Positive,1.0,Positive,0.7888278961181641,Positive
 por culpa de tiktok no la escucho igual :'v,0.0,Neutral,0.0,Neutral,-0.5725154280662537,Negative
-"hi I hope you are doing fine. I make music but it's really tough to have visibility when you're little, but I do my best to make my art known. I invite you to discover my beats and if you are not disappointed, do not hesitate to subscribe and share with your friends. Peace ;)",0.9808,Positive,0.2442129629629629,Neutral,0.5106972455978394,Positive
+"hi I hope you are doing fine. I make music but it's really tough to have visibility when you're little, but I do my best to make my art known. I invite you to discover my beats and if you are not disappointed, do not hesitate to subscribe and share with your friends. Peace ;)",0.9808,Positive,0.2442129629629629,Positive,0.5106972455978394,Positive
 go go 10M,0.0,Neutral,0.0,Neutral,-0.2775921821594238,Negative
 Nayeon me va a nalguear jsjjssn,0.0,Neutral,0.0,Neutral,-0.2831151485443115,Negative
 唉……臺灣市場比較小，都沒聽過韓團唱國語……,-0.2732,Negative,-0.325,Negative,-0.3180790245532989,Negative
@@ -1000,14 +1000,14 @@ Nayeon me va a nalguear o Nayeon viva Nayeon
 
 
 
-XD",0.6739,Positive,0.0431818181818181,Neutral,-0.6373300552368164,Negative
+XD",0.6739,Positive,0.0431818181818181,Positive,-0.6373300552368164,Negative
 TWICE,0.0,Neutral,0.0,Neutral,-0.2542644739151001,Negative
 "1:32 Nayeon no nalfuees a nadie
 contexto: parece ke dice Nayeon me va a nalguear",0.0,Neutral,0.0,Neutral,-0.7176294326782227,Negative
 TWICEに千円チャーシュー❤️,0.0,Neutral,0.0,Neutral,-0.4118843376636505,Negative
 500万おめでとう！,0.636,Positive,0.0,Neutral,0.568117618560791,Positive
 한국어곡과 비교하면 일본어곡은 날카로운 칼이나 각진 모서리 느낌을 준다,0.3612,Positive,-0.0833333333333333,Negative,0.4104526937007904,Positive
-Totally new vibe,0.0,Neutral,0.1363636363636363,Neutral,0.7038677930831909,Positive
+Totally new vibe,0.0,Neutral,0.1363636363636363,Positive,0.7038677930831909,Positive
 みんな日本語上手くなっていくの感動しすぎて泣く😭,0.1757,Positive,0.5,Positive,0.2942079901695251,Neutral
 "[Verse 1: Mina, Jeongyeon, Chaeyoung]
 研究ばっかで
@@ -1093,27 +1093,27 @@ You better move
 What you- Baby
 What you- Baby
 (What's the vibe? You, you ain't a science, what)
-(You ain't a)",0.9584,Positive,0.1005555555555555,Neutral,-0.5590102672576904,Negative
-JYPの本気翻訳来た!!!😍今までの日本語訳で1番自然だし良い〜!,0.7691,Positive,0.0147916666666666,Neutral,0.6160992980003357,Positive
+(You ain't a)",0.9584,Positive,0.1005555555555555,Positive,-0.5590102672576904,Negative
+JYPの本気翻訳来た!!!😍今までの日本語訳で1番自然だし良い〜!,0.7691,Positive,0.0147916666666666,Positive,0.6160992980003357,Positive
 "ほんとに毎回毎回ダンスが
 そろっててすごってなる
 そして、安定の可愛さ",0.7964,Positive,0.4,Positive,0.4933481514453888,Positive
 "4.98M
 Fighting 5M!",-0.4199,Negative,0.0,Neutral,0.4514661729335785,Positive
 悩めば悩むほ～どに、マイナス！,-0.3595,Negative,-0.125,Negative,0.463732898235321,Positive
-日本語バージョンもしっかり可愛い😍,0.7184,Positive,0.25,Neutral,0.3804458677768707,Positive
+日本語バージョンもしっかり可愛い😍,0.7184,Positive,0.25,Positive,0.3804458677768707,Positive
 なんかいっぱいいて可愛い💗,0.836,Positive,0.425,Positive,0.4676232933998108,Positive
 サナちゃん歌声変わった？,0.0,Neutral,0.0,Neutral,-0.3254690766334533,Negative
 こんな先生が良い！,0.4926,Positive,0.4375,Positive,0.627490222454071,Positive
 日本語訳大正解すぎる……,0.0,Neutral,0.0,Neutral,0.4389755129814148,Positive
 Twice always come with something special and unique ❤,0.7845,Positive,0.3660714285714286,Positive,0.704196035861969,Positive
 Road to 5M,0.0,Neutral,0.0,Neutral,0.3458983898162842,Positive
-この曲は大好きで、飽きることがありません。,0.7654,Positive,0.0499999999999999,Neutral,0.5628288388252258,Positive
+この曲は大好きで、飽きることがありません。,0.7654,Positive,0.0499999999999999,Positive,0.5628288388252258,Positive
 10M views let’s go let’s go!!,0.0,Neutral,0.0,Neutral,-0.5536800622940063,Negative
-考えすぎるけん否定された気しかせんのやけど、これが大問題なんやろね,-0.631,Negative,0.1,Neutral,-0.3678215742111206,Negative
+考えすぎるけん否定された気しかせんのやけど、これが大問題なんやろね,-0.631,Negative,0.1,Positive,-0.3678215742111206,Negative
 My minari is so beautiful and handsome,0.8575,Positive,0.675,Positive,0.8996773958206177,Positive
 "日本語版も最高😆
-体調に気をつけて、元気やってほしい😊",0.9403,Positive,0.225,Neutral,0.6360952854156494,Positive
+体調に気をつけて、元気やってほしい😊",0.9403,Positive,0.225,Positive,0.6360952854156494,Positive
 "0:42 
 ""Nayeon me va a nalgiar""
 🥺",0.0,Neutral,0.0,Neutral,-0.5209336280822754,Negative
@@ -1125,7 +1125,7 @@ Twice= as patroas do Japão 😎,0.4588,Positive,0.0,Neutral,0.276874303817749,N
 大好きな曲ですね❗ずいぶん好き好きです大好き💕ですよ❗大好き💓♥️❤️,0.9883,Positive,0.6,Positive,0.6901113390922546,Positive
 ビジュがもんげーです🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Nooo bueno primero que nada amooo la versión japonesa 
-Segundo gracias a tiktok ya no la escucho igual :"") ahora escucho ""Nayeon me va a nalguear"" 😭 bueno en fin muy bonita la versión japonesa 😙",0.9536,Positive,0.21625,Neutral,-0.3536312878131866,Negative
+Segundo gracias a tiktok ya no la escucho igual :"") ahora escucho ""Nayeon me va a nalguear"" 😭 bueno en fin muy bonita la versión japonesa 😙",0.9536,Positive,0.21625,Positive,-0.3536312878131866,Negative
 "1:32
 Jihyo: NAYEON ME VA A NALGUEAR",0.0,Neutral,0.0,Neutral,-0.3955122232437134,Negative
 """nayeon bêbada"" 😣😣",-0.34,Negative,-0.5,Negative,0.2683313190937042,Neutral
@@ -1156,15 +1156,15 @@ Chaeyoung being the cutest frankenstein I've ever seen,0.5859,Positive,0.0,Neutr
 "HIT AFTER HIT🎯
 KNOCK KNOCK 300M, SIGNAL 300M, ONE MORE TIME 100M, FANCY 500M, CHEER UP 500M, CRY FOR ME 2 100M👩‍🔬👩‍🔬",0.0516,Positive,0.5,Positive,-0.5435906052589417,Negative
 "SERIOUSLY, PH ONCE AND OTHER ONCE AROUND THE WORLD SHOULD MAKE ALL MV TRENDING IN TIKTOK🔥🔥",-0.7378,Negative,-0.2291666666666666,Negative,-0.2810130715370178,Negative
-"WE ALSO NEED AF, SCIENTIST, FEEL SPECIAL, FANCY AND OTHER MV IN ENGLISH VERSION🔥",0.2577,Positive,0.0773809523809523,Neutral,0.6469107270240784,Positive
+"WE ALSO NEED AF, SCIENTIST, FEEL SPECIAL, FANCY AND OTHER MV IN ENGLISH VERSION🔥",0.2577,Positive,0.0773809523809523,Positive,0.6469107270240784,Positive
 5M go,0.0,Neutral,0.0,Neutral,0.4398112893104553,Positive
 love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 TWICE💕,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 i love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 I think all in by skz and this song will be the only japanese versions of kpop i will ever like.,0.3612,Positive,0.0,Neutral,0.3742366731166839,Positive
 みなのマノバン感ある笑,0.5106,Positive,0.8,Positive,0.4830081760883331,Positive
-MV好きやけどサムネで毎回笑ってまう,0.7684,Positive,0.3,Neutral,0.4777222573757171,Positive
-すっごい可愛い❤️、ももちゃんとさなちゃんとみなちゃんは日本人だけど、他のみんなは外国人なのに、日本語いえててすごい！この歌めっちゃ好きになりました。,0.9067,Positive,0.32,Neutral,0.7290889024734497,Positive
+MV好きやけどサムネで毎回笑ってまう,0.7684,Positive,0.3,Positive,0.4777222573757171,Positive
+すっごい可愛い❤️、ももちゃんとさなちゃんとみなちゃんは日本人だけど、他のみんなは外国人なのに、日本語いえててすごい！この歌めっちゃ好きになりました。,0.9067,Positive,0.32,Positive,0.7290889024734497,Positive
 💗💗💗,0.9493,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "💐💐❤❤🌹🌹
  TWICE",0.8555,Positive,0.0,Neutral,-0.277264267206192,Negative
@@ -1175,29 +1175,29 @@ SCIENTIST sounds amazing in both versions! Can't wait for the English version as
 "1:33
 Jihyo: nAyEon mE vA a nAlGueAr dUr0 🥵🤑",0.0,Neutral,0.0,Neutral,-0.4057736098766327,Negative
 NaYEon me vA A naLGuEAr 🤙😖todo por ver tik tok :v,0.4939,Positive,0.0,Neutral,-0.3566157519817352,Negative
-Gracias a tik tok ya no escucho la letra igual /llora,-0.25,Negative,0.1,Neutral,-0.6380260586738586,Negative
+Gracias a tik tok ya no escucho la letra igual /llora,-0.25,Negative,0.1,Positive,-0.6380260586738586,Negative
 "ナチュラルメイク素敵です(*´ω｀*)
 ダヒョンさん、大好き(*'▽'*)♪",0.9287,Positive,0.42,Positive,0.5971700549125671,Positive
-めっちゃ好き🥰🥰🥰,0.9775,Positive,0.2,Neutral,0.5510987043380737,Positive
+めっちゃ好き🥰🥰🥰,0.9775,Positive,0.2,Positive,0.5510987043380737,Positive
 Sana's deep voice😫,-0.4404,Negative,0.0,Neutral,0.249903455376625,Neutral
 Nayeon me va nalguear ICONIC,0.0,Neutral,0.5,Positive,0.6435956954956055,Positive
 NAYEON ME VA A NALGUEAR,0.0,Neutral,0.0,Neutral,-0.2848543226718902,Negative
-"0:51 ""Cocoro no mamá... Omo hoy no mama"" JAJAJAJAJ Dios, por culpa de Tiktok ya escucho otra cosa",-0.0258,Neutral,0.2,Neutral,-0.6846016645431519,Negative
+"0:51 ""Cocoro no mamá... Omo hoy no mama"" JAJAJAJAJ Dios, por culpa de Tiktok ya escucho otra cosa",-0.0258,Neutral,0.2,Positive,-0.6846016645431519,Negative
 みんなか，可愛い😍❤️💕,0.8834,Positive,0.5,Positive,0.6285083293914795,Positive
 "1:33 ""Nayeon me va a nalgear"" JAJZJAKSKAKAK no volveré a escuchar esa parte igual.",0.0,Neutral,0.0,Neutral,-0.5418065786361694,Negative
-"I feel the bass more strong in this version, than the Korean version.",0.5563,Positive,0.261111111111111,Neutral,0.3448694348335266,Positive
+"I feel the bass more strong in this version, than the Korean version.",0.5563,Positive,0.261111111111111,Positive,0.3448694348335266,Positive
 love aint a science naeon me va nalguear xd sjsjsjjsjjs,0.8402,Positive,0.5,Positive,0.2592993676662445,Neutral
-They’re so pretty,0.5413,Positive,0.25,Neutral,0.506721019744873,Positive
+They’re so pretty,0.5413,Positive,0.25,Positive,0.506721019744873,Positive
 Tudo,0.0,Neutral,0.0,Neutral,0.4420288503170013,Positive
 Ggh,0.0,Neutral,0.0,Neutral,0.252976655960083,Neutral
 "Como lo entiende la gente normal:
 
-Como lo entienden los latinos por culpa de un pinchi tik tok: nayeon me va a nalguear 🙃🤙🏻",0.4939,Positive,0.15,Neutral,0.2828574478626251,Neutral
+Como lo entienden los latinos por culpa de un pinchi tik tok: nayeon me va a nalguear 🙃🤙🏻",0.4939,Positive,0.15,Positive,0.2828574478626251,Neutral
 1:33 nayeon me va a nalguear xddddd,0.0,Neutral,0.0,Neutral,-0.4345616698265075,Negative
 al quien que escucha nayeon me va a nalguear en el segundo 42?,0.0,Neutral,0.0,Neutral,-0.4773900806903839,Negative
 サインコサインが最高裁って聞こえるの自分だけ？？,0.6298,Positive,0.0,Neutral,-0.4852149188518524,Negative
 🥺❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-1:32  あなたの笑顔は癒しです。,0.3612,Positive,0.3,Neutral,0.5234315395355225,Positive
+1:32  あなたの笑顔は癒しです。,0.3612,Positive,0.3,Positive,0.5234315395355225,Positive
 IM NA YEON,0.0,Neutral,0.0,Neutral,0.2900400757789612,Neutral
 Hagan uno en español 🤧😭,-0.4767,Negative,0.0,Neutral,-0.3503656685352325,Negative
 AAAAAAAAAAAAAA,0.0,Neutral,0.0,Neutral,-0.4444420337677002,Negative
@@ -1212,13 +1212,13 @@ Queens of jpop,0.0,Neutral,0.0,Neutral,0.3547106981277466,Positive
 TWICE最近推し始めたけどもっと早く推しとけばよかったって後悔してる,-0.5719,Negative,0.0,Neutral,-0.340658962726593,Negative
 Stream dear once,0.3818,Positive,0.0,Neutral,0.3914247155189514,Positive
 2:12のモモの表情が好きすぎる！！！,0.5673,Positive,0.6103515625,Positive,0.5344918966293335,Positive
-Tzuyu's smile 😩💘,0.6808,Positive,0.3,Neutral,0.3410660326480865,Positive
+Tzuyu's smile 😩💘,0.6808,Positive,0.3,Positive,0.3410660326480865,Positive
 Let's 5m,0.0,Neutral,0.0,Neutral,0.2995442748069763,Neutral
 Chayeong,0.0,Neutral,0.0,Neutral,0.2631916999816894,Neutral
 Sana barbie of kpop,0.0,Neutral,0.0,Neutral,0.237452819943428,Neutral
 Nayeon me va a nalguear 🥰,0.8074,Positive,0.0,Neutral,-0.2842482924461365,Negative
-Scientistは、恋を叶えるためには理論なんて必要なくて心の思うままにしたらいいっていう曲だけど、恋愛以外にも、この世にあるものは数学みたいに必ず正解があるってわけじゃないから人生考えすぎは駄目だっていう風にも捉えきれるよね。,0.875,Positive,0.2125,Neutral,0.2575203478336334,Neutral
-日语版更好听了,0.4404,Positive,0.25,Neutral,0.5027422904968262,Positive
+Scientistは、恋を叶えるためには理論なんて必要なくて心の思うままにしたらいいっていう曲だけど、恋愛以外にも、この世にあるものは数学みたいに必ず正解があるってわけじゃないから人生考えすぎは駄目だっていう風にも捉えきれるよね。,0.875,Positive,0.2125,Positive,0.2575203478336334,Neutral
+日语版更好听了,0.4404,Positive,0.25,Positive,0.5027422904968262,Positive
 افضل بهواي من النسخه الكورية,0.4404,Positive,0.5,Positive,0.5815137624740601,Positive
 ردوا على تعليقي,0.0,Neutral,0.0,Neutral,-0.3377761244773865,Negative
 this is better than korean ver,0.4404,Positive,0.5,Positive,0.4407420456409454,Positive
@@ -1298,9 +1298,9 @@ Don’t need no license
 Don’t try to be a genius
 Why so serious?
 ココロのまま Wooah
-思いのまま What u, what u waiting for?",0.9601,Positive,0.0997863247863247,Neutral,-0.6906622052192688,Negative
-SCIENTISTのミナの低音が大好きだったんだけど、日本語verだとサナもバチバチに低音でめっちゃ好き,0.7642,Positive,0.12,Neutral,0.3941119313240051,Positive
-日本語の歌詞すごいなんかナチュラルになったね,0.5009,Positive,0.05,Neutral,-0.2585901916027069,Negative
+思いのまま What u, what u waiting for?",0.9601,Positive,0.0997863247863247,Positive,-0.6906622052192688,Negative
+SCIENTISTのミナの低音が大好きだったんだけど、日本語verだとサナもバチバチに低音でめっちゃ好き,0.7642,Positive,0.12,Positive,0.3941119313240051,Positive
+日本語の歌詞すごいなんかナチュラルになったね,0.5009,Positive,0.05,Positive,-0.2585901916027069,Negative
 "Хорошая работа хвалю. Сохранение уровня?
 Россия 🇷🇺 Урал.",0.7003,Positive,0.7,Positive,0.4462195038795471,Positive
 韓国語版よりねっちょり聴こえる,0.4404,Positive,0.5,Positive,0.2525858879089355,Neutral
@@ -1310,13 +1310,13 @@ SCIENTISTのミナの低音が大好きだったんだけど、日本語verだ�
 annemarie天才,0.0,Neutral,0.0,Neutral,0.5938868522644043,Positive
 0:41 nayeon me va a nalguear,0.0,Neutral,0.0,Neutral,-0.5727360844612122,Negative
 "0:59 how to unhear ""tae"" 😭😭😭😭😭",-0.9382,Negative,0.0,Neutral,-0.3879401981830597,Negative
-"Oh wow this is pretty good, twice never fails with Japanese songs",0.9049,Positive,0.2599999999999999,Neutral,0.5142361521720886,Positive
+"Oh wow this is pretty good, twice never fails with Japanese songs",0.9049,Positive,0.2599999999999999,Positive,0.5142361521720886,Positive
 hermosooo,0.5994,Positive,0.85,Positive,0.4637402296066284,Positive
 amo,0.0,Neutral,0.0,Neutral,0.4348050653934479,Positive
 lindas,0.5994,Positive,0.85,Positive,0.2207168489694595,Neutral
 ♥️♥️♥️🤟👍,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💗💗💗,0.9493,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I love the Japanese language.,0.6369,Positive,0.25,Neutral,0.704603910446167,Positive
+I love the Japanese language.,0.6369,Positive,0.25,Positive,0.704603910446167,Positive
 AMOO,0.0,Neutral,0.0,Neutral,0.2574185729026794,Neutral
 1:31 Jihyo: NAYEON ME VA A NALGUEAR XD,0.6739,Positive,0.0,Neutral,-0.4146693646907806,Negative
 versi japan berada di level yang berbeda,0.0,Neutral,0.0,Neutral,0.3175505697727203,Neutral
@@ -1329,13 +1329,13 @@ Ahu,0.0,Neutral,0.0,Neutral,0.3608172833919525,Positive
 0:41 nayeon me va a nalguear,0.0,Neutral,0.0,Neutral,-0.5727360844612122,Negative
 Ily,0.6597,Positive,0.0,Neutral,0.259169340133667,Neutral
 hay quá!!,0.49,Positive,0.546875,Positive,-0.2913069725036621,Negative
-ジヒョの嘘泣き上手すぎる！,-0.126,Negative,0.2249999999999999,Neutral,-0.4380724430084228,Negative
+ジヒョの嘘泣き上手すぎる！,-0.126,Negative,0.2249999999999999,Positive,-0.4380724430084228,Negative
 "Por culpa de un ramdom escucho ""nayeon me va a nalgear """,0.0,Neutral,0.0,Neutral,-0.6369264125823975,Negative
 Queens,0.0,Neutral,0.0,Neutral,0.3019631803035736,Neutral
-普通に落ち着く,0.3182,Positive,0.0981481481481481,Neutral,0.3005563616752624,Neutral
+普通に落ち着く,0.3182,Positive,0.0981481481481481,Positive,0.3005563616752624,Neutral
 Nayeon me va nalguer,0.0,Neutral,0.0,Neutral,-0.3262261152267456,Negative
 なんか今回みんなかっこいい感じの声でドキドキする！あー可愛い😍,0.8883,Positive,0.5125000000000001,Positive,0.5379724502563477,Positive
-個人的に日本語バージョンで1番聴き心地良い気がする！なんなら日本語バージョンの方が聴いてます💓,0.9311,Positive,0.2,Neutral,0.5848203897476196,Positive
+個人的に日本語バージョンで1番聴き心地良い気がする！なんなら日本語バージョンの方が聴いてます💓,0.9311,Positive,0.2,Positive,0.5848203897476196,Positive
 1:32 NAYEON ME VA A NALGUEARRRRRRRRRRRRRRRRR,0.0,Neutral,0.0,Neutral,-0.467776358127594,Negative
 "sigo escuchando: nayeon me va a nalguear, porque tik tok",0.0,Neutral,0.0,Neutral,-0.4069938361644745,Negative
 どんな言語でも、2曲はいつでもいいですよ！,0.4926,Positive,0.875,Positive,0.3564116954803467,Positive
@@ -1349,5 +1349,5 @@ Scientist عالم,0.0,Neutral,0.0,Neutral,0.6622456908226013,Positive
 0:42 nayeon me va a nalgear 😍,0.4588,Positive,0.0,Neutral,-0.5630003809928894,Negative
 A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
 モアモアでもう日本語版聴かないようにしよ…とまで思ったけど、これは良いな,0.5927,Positive,0.35,Positive,0.3625127077102661,Positive
-悩めば悩むほどマイナスのところでグッと来るの私だけ？,-0.4902,Negative,0.225,Neutral,0.2719428539276123,Neutral
+悩めば悩むほどマイナスのところでグッと来るの私だけ？,-0.4902,Negative,0.225,Positive,0.2719428539276123,Neutral
 最高です😭👏✨,0.5267,Positive,1.0,Positive,0.7139772772789001,Positive

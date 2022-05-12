@@ -1,9 +1,9 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Rei da música.,0.0,Neutral,0.0,Neutral,0.7108516097068787,Positive
-so amazing like this is mindblowing such an amazing performance no one can beat this like wow i love you so much Michael sorry you had to go way to soon so excited to meet you in heaven when its my time i love you so much rest in peace legend,0.9871,Positive,0.2575,Neutral,0.9531022906303406,Positive
+so amazing like this is mindblowing such an amazing performance no one can beat this like wow i love you so much Michael sorry you had to go way to soon so excited to meet you in heaven when its my time i love you so much rest in peace legend,0.9871,Positive,0.2575,Positive,0.9531022906303406,Positive
 "0:24 that litlle switch on the foot is what Michael was about, he hit the beat Even if he couldnt",0.0,Neutral,-0.1875,Negative,-0.396934300661087,Negative
 Is it an illusionist??,0.0,Neutral,0.0,Neutral,-0.3936057388782501,Negative
-He's lip syncing? Or did someone dub the audio over the original recording? I didn't realize he didn't actually perform the music live,0.3939,Positive,0.1704545454545454,Neutral,-0.3995718359947204,Negative
+He's lip syncing? Or did someone dub the audio over the original recording? I didn't realize he didn't actually perform the music live,0.3939,Positive,0.1704545454545454,Positive,-0.3995718359947204,Negative
 shameee he was a pedi,0.0,Neutral,0.0,Neutral,-0.5901652574539185,Negative
 A performer.,0.0,Neutral,0.0,Neutral,0.4835677146911621,Positive
 His voice is way deeper now,0.0,Neutral,0.0,Neutral,0.3380375802516937,Positive
@@ -19,7 +19,7 @@ Hard,-0.1027,Negative,-0.2916666666666667,Negative,0.3135462403297424,Neutral
 "The Rey of pop ,las bases del afrodance y la pose escénica",0.0,Neutral,0.0,Neutral,0.5294653177261353,Positive
 3:39 the best,0.6369,Positive,1.0,Positive,0.7496534585952759,Positive
 "MICHAEL JACKSON EL ÚNICO, EL ICÓNO DEL POP,  VERDADERO REY DEL POP POR SIEMPRE 🤴",0.5473,Positive,0.35,Positive,0.8659816980361938,Positive
-Wish people put this much soul into their music nowadays,0.4019,Positive,0.2,Neutral,0.6229825615882874,Positive
+Wish people put this much soul into their music nowadays,0.4019,Positive,0.2,Positive,0.6229825615882874,Positive
 I bet he tied those shoes tight!,0.0,Neutral,-0.2232142857142857,Negative,-0.2937864363193512,Negative
 "Christ, imagine being there in front of an in-prime Michael Jackson? sheesh.",0.0,Neutral,0.0,Neutral,-0.3723927736282348,Negative
 Still the greatest televised performance ever. So exciting to watch.,0.8525,Positive,0.65,Positive,0.8802550435066223,Positive
@@ -28,7 +28,7 @@ Chills.,0.0,Neutral,0.0,Neutral,-0.2581972479820251,Negative
 in 3:29 michael says hee hoo and does the moonwalk and doesan another moonwalk in 4:33,0.0,Neutral,0.0,Neutral,0.2240544855594635,Neutral
 2022 still waiting for an artist to reach the King's level ?!,0.1007,Positive,0.0,Neutral,-0.3458207845687866,Negative
 Wheww I’m crying 😩😢😢😢 God I miss this man,-0.9186,Negative,-0.2,Negative,-0.5721344351768494,Negative
-Après James BROWN il y a eu Michael JAKSON le king absolue,0.0,Neutral,0.2,Neutral,0.3842212259769439,Positive
+Après James BROWN il y a eu Michael JAKSON le king absolue,0.0,Neutral,0.2,Positive,0.3842212259769439,Positive
 Michael Jackson  >  All the musicians of this generation X 100,0.0,Neutral,0.0,Neutral,0.8732553720474243,Positive
 THERE WILL NEVER BE ANOTHER,0.0,Neutral,0.0,Neutral,-0.266339898109436,Negative
 Hapo michael jakson,0.0,Neutral,0.0,Neutral,0.2603497803211212,Neutral
@@ -73,12 +73,12 @@ He has the moves,0.0,Neutral,0.0,Neutral,0.4324714839458465,Positive
 I see Paris in him even here. I think his daughter is biologically his.,0.0,Neutral,0.0,Neutral,0.2466889321804046,Neutral
 Nah it's crazy cause bro is still remembered to this day. Bro is legit the king of pop music.,-0.4215,Negative,-0.6,Negative,0.2845050394535064,Neutral
 I still get goosebumps when I see videos like this with Michael Jackson performing and dancing.   He was electric!,0.4199,Positive,0.0,Neutral,0.5027956366539001,Positive
-"This performance is legendary, I can watch it over and over again and every time feels like first time admiring this LEGEND! Lucky are those who were privileged to see it live or in real at that time, the crucial moment for Michael's career on. There will never be not even close an artist such as he was, it's just that this level of talent is undoubtedly unreachable.",0.9168,Positive,0.2831709956709957,Neutral,0.923090934753418,Positive
+"This performance is legendary, I can watch it over and over again and every time feels like first time admiring this LEGEND! Lucky are those who were privileged to see it live or in real at that time, the crucial moment for Michael's career on. There will never be not even close an artist such as he was, it's just that this level of talent is undoubtedly unreachable.",0.9168,Positive,0.2831709956709957,Positive,0.923090934753418,Positive
 King of lip syncing,0.0,Neutral,0.0,Neutral,0.6034843921661377,Positive
 "Every time he moonwalks in this,  my face lights up...",0.0,Neutral,0.0,Neutral,0.5336563587188721,Positive
-"Well Tuffy Farmer lead singer for the NightHawks wore white Sox in 1965. And I saw a kid do the moonwalk a long time before this, but nobody could dance like this. He’s the best and Elvis.",0.891,Positive,0.3166666666666666,Neutral,0.615635335445404,Positive
+"Well Tuffy Farmer lead singer for the NightHawks wore white Sox in 1965. And I saw a kid do the moonwalk a long time before this, but nobody could dance like this. He’s the best and Elvis.",0.891,Positive,0.3166666666666666,Positive,0.615635335445404,Positive
 Legends never die,0.4847,Positive,0.0,Neutral,0.4373565018177032,Positive
-"Many don't know that Michael Jackson use to visit other children along side his age group and different styles of breaking dancing in neighborhoods watching them preform on the playground dancing and learned how to moonwalk along with pop locking, it's a Culture from the 70s -80s and took off in the late 80s on into the 90s and now well it ain't like it use to be but we still find luv in there somewhere thank GOD For HIP Hop Rythm with All Muzik Artists 2022....",0.7902,Positive,0.01875,Neutral,-0.2860716879367828,Negative
+"Many don't know that Michael Jackson use to visit other children along side his age group and different styles of breaking dancing in neighborhoods watching them preform on the playground dancing and learned how to moonwalk along with pop locking, it's a Culture from the 70s -80s and took off in the late 80s on into the 90s and now well it ain't like it use to be but we still find luv in there somewhere thank GOD For HIP Hop Rythm with All Muzik Artists 2022....",0.7902,Positive,0.01875,Positive,-0.2860716879367828,Negative
 When we were kids we thought this was amazing,0.5859,Positive,0.6000000000000001,Positive,0.5725005865097046,Positive
 "Son unos  Likeex.Uno de los mejores conciertos 💋 23:23 Hermosa eleccion de mejor 
 12:12 (elecciones ) 9.2/10 
@@ -100,7 +100,7 @@ sentadillas son unos xxlike.uno muchas y un buen ejercicio.
 
 Saludos desde la Cd.. de world 🌹😉💖 
 los mortales abian apreciado tan hermosa mujer.",0.9856,Positive,0.5514285714285714,Positive,0.519727349281311,Positive
-"What special about this, is there is people alive who were  there in this crowd, and they are out there surviving corona. You special people!",0.8588,Positive,0.3011904761904762,Neutral,0.6287649273872375,Positive
+"What special about this, is there is people alive who were  there in this crowd, and they are out there surviving corona. You special people!",0.8588,Positive,0.3011904761904762,Positive,0.6287649273872375,Positive
 I saw this performance live and remember everybody talking about it after. I was in a mall the next day and everybody was crowded around a department store TV watching it. He literally would have broken the internet 10 times over if that was a thing then..,-0.4767,Negative,-0.0878787878787878,Negative,-0.2386146634817123,Negative
 he actually cried after this performance,-0.3818,Negative,0.0,Neutral,-0.5154303312301636,Negative
 3:39 Goosebumps 😍😍🤩🤩🤩🤩,0.7184,Positive,0.0,Neutral,0.2807181775569916,Neutral
@@ -113,11 +113,11 @@ The day when he became the king 👑,0.0,Neutral,0.0,Neutral,0.4242414236068725,
 While I was doing my home works I tired to sing and dance like him just for fun few mins inn I am tired sing and dance is something very hard to do not easy as it is seen he such a legend .,-0.4765,Negative,-0.1851190476190476,Negative,0.368710994720459,Positive
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️😭😭😭😭😭😭😭🌹🌹🌹🙌🙌🙌🙏🙏🙏,-0.967,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "2022 
-This will never get old 👍",0.0,Neutral,0.1,Neutral,0.421117216348648,Positive
+This will never get old 👍",0.0,Neutral,0.1,Positive,0.421117216348648,Positive
 It 2022 how many legend are listening,0.0,Neutral,0.5,Positive,0.501773476600647,Positive
 Almost 16 million views.,0.0,Neutral,0.0,Neutral,0.2558436095714569,Neutral
 "The first time he wore the sequined rhinestone glove, first time he did the moonwalk, first time he performed this song. This is quite literally the most iconic MJ performance of all time. RIP to the King.",0.0,Neutral,0.35,Positive,0.8361191749572754,Positive
-I got to go get a haircut just because I just watched the smoothest live performance ever,0.0,Neutral,0.1363636363636363,Neutral,0.3499802350997925,Positive
+I got to go get a haircut just because I just watched the smoothest live performance ever,0.0,Neutral,0.1363636363636363,Positive,0.3499802350997925,Positive
 The Night When the King Created History 🔥✌🎶💥,0.0772,Positive,0.0,Neutral,0.4594844877719879,Positive
 "I remember the day after this.. people were asking if they saw Michael.  That's all people talked about. In the age of before YouTube, if you missed it, you missed it.",-0.5267,Negative,0.0,Neutral,0.3257479071617126,Neutral
 "Yes mr Michael Jackson doing what he does best. 
@@ -131,7 +131,7 @@ If “he never misses a beat” was a actual person…..oh wait! It is!…..Mich
 "today in 1983, what an iconic moment",0.0,Neutral,0.5,Positive,0.8652675747871399,Positive
 Lip syncing.  Grrr,-0.1027,Negative,-0.7,Negative,-0.2821013033390045,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-"This is the best performance of the best pop song ever. The drums, the bass line, the guitar, the SYNTH, the orchestra hits, the vocal, the adlibs. It gets no better. And then Mike went as hard as solo artist performing a new song can. Defy you to find fault in either. Perfection.",0.8222,Positive,0.2407828282828283,Neutral,0.93917715549469,Positive
+"This is the best performance of the best pop song ever. The drums, the bass line, the guitar, the SYNTH, the orchestra hits, the vocal, the adlibs. It gets no better. And then Mike went as hard as solo artist performing a new song can. Defy you to find fault in either. Perfection.",0.8222,Positive,0.2407828282828283,Positive,0.93917715549469,Positive
 And they try and say drake is on par with mj because of Spotify streams 😂 drake just stands there mouthing the words to his songs with a red cup in the other hand.,0.7269,Positive,-0.0625,Negative,-0.3300141096115112,Negative
 😘😘😛,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Smooth,0.0,Neutral,0.4,Positive,0.5225375294685364,Positive
@@ -151,7 +151,7 @@ I consider the Motown 25 performance to be the true music video for Billie Jean,
 The way he bows 90° after performance is legendary!",0.6689,Positive,0.6,Positive,0.8642690777778625,Positive
 Самая лучшая пара в истории: Michael Jackson and Elvis Presley.,0.6369,Positive,1.0,Positive,0.9417263269424438,Positive
 See....he looks semi normal here!! Being the black man he is..... It's the fkd up version of him I dislike! Stil.....nobody can deny his awesome talent!💯,0.6209,Positive,0.3420138888888889,Positive,-0.2775565087795257,Negative
-"I was 10 and watched it live, the moonwalk is timeless",0.0,Neutral,0.1363636363636363,Neutral,0.5154683589935303,Positive
+"I was 10 and watched it live, the moonwalk is timeless",0.0,Neutral,0.1363636363636363,Positive,0.5154683589935303,Positive
 Motown25 ❤️💚,0.6369,Positive,0.0,Neutral,0.4778256118297577,Positive
 "Felicidades, es un buen ejemplo. 
 250 sentadillas son unos LIKEEX.Uno muchas y un buen ejercicio.
@@ -163,11 +163,11 @@ los mortales abian apreciado tan hermosa mujer.,,",0.9856,Positive,0.55142857142
 RILEX JE GUYS BAGUS,0.6908,Positive,0.6,Positive,0.266869306564331,Neutral
 "Presently at 45 yrs old I was roughly 7 or 8 when I saw this for the first time and thought this was the most amazing display of entertainment in the history of mankind. 
 
-There are a lotta things I judged as a kid that the adult version of me would laugh at and disagree with but how I viewed this performance as a kid vs now isn’t one.",0.6055,Positive,0.21875,Neutral,0.4548467099666595,Positive
+There are a lotta things I judged as a kid that the adult version of me would laugh at and disagree with but how I viewed this performance as a kid vs now isn’t one.",0.6055,Positive,0.21875,Positive,0.4548467099666595,Positive
 i love michael jackson,0.6369,Positive,0.5,Positive,0.7981488108634949,Positive
 An iconic moment.,0.0,Neutral,0.5,Positive,0.818817675113678,Positive
-I Miss MJ If he was alive it would be better,0.5994,Positive,0.3,Neutral,0.4914248287677765,Positive
-As strange as he was... He had so much talent...,0.3134,Positive,0.075,Neutral,0.4540666937828064,Positive
+I Miss MJ If he was alive it would be better,0.5994,Positive,0.3,Positive,0.4914248287677765,Positive
+As strange as he was... He had so much talent...,0.3134,Positive,0.075,Positive,0.4540666937828064,Positive
 M lc.  .,0.0,Neutral,0.0,Neutral,-0.3294589519500732,Negative
 So much energy behind one performance,0.3353,Positive,-0.1,Negative,0.5220906138420105,Positive
 "Son unos XXLIKE.Uno de los mejores conciertos ❤️
@@ -177,15 +177,15 @@ Had he started bleaching here already?,0.0,Neutral,0.0,Neutral,-0.45547115802764
 And still no one compares 💖,0.6369,Positive,0.0,Neutral,-0.4042133688926697,Negative
 I remember sitting with my family watching this at the age of 4.  I knew I was watching a genius at work. In my mind I just thought I would never ever witness a moment like this ever again. I was in complete awe of him and I still am to this day. However I have come to the realisation that this performance touched millions of people around the world to be inspired. Just to add nobody really talks about 3:34 -3:39 which is the dance routine just before the moonwalk. That segment of dance is just brilliant because it makes the moonwalk look so effortless.,0.8591,Positive,0.4000000000000001,Positive,0.5791592597961426,Positive
 00:29,0.0,Neutral,0.0,Neutral,-0.2671110332012176,Negative
-Haha,0.4588,Positive,0.2,Neutral,-0.4025950729846954,Negative
-I wish he never went with all the facial surgeries. He was so handsome just how he was.,0.7793,Positive,0.25,Neutral,0.5056946873664856,Positive
+Haha,0.4588,Positive,0.2,Positive,-0.4025950729846954,Negative
+I wish he never went with all the facial surgeries. He was so handsome just how he was.,0.7793,Positive,0.25,Positive,0.5056946873664856,Positive
 2022 here,0.0,Neutral,0.0,Neutral,0.3520580232143402,Positive
 4:12 has to be one of the most iconic poses in music history,0.0,Neutral,0.5,Positive,0.6195379495620728,Positive
 Cette homme devaient avoir la vie éternel j'espère que dieu la mis prêt de lui.,0.6124,Positive,0.0,Neutral,0.4865016639232635,Positive
 Who in 2022?,0.0,Neutral,0.0,Neutral,-0.3422410190105438,Negative
 cuando la musica y el talento eran asi de simples y no estaba el regueton,0.4215,Positive,0.0,Neutral,-0.3716188669204712,Negative
 Chills watching this 😃😂,0.698,Positive,0.0,Neutral,-0.2250442653894424,Negative
-"Triste saber que ele nunca canta essa música ao vivo, está sempre no playback... vale a pena pela performance, mas queria ve-lo cantando ao vivo mais vezes, pois percebe-se que em todos os shows dele, ele usa demais o playback e poucas vezes canta de fato as músicas 😞",-0.6956,Negative,0.0954545454545454,Neutral,-0.4087862968444824,Negative
+"Triste saber que ele nunca canta essa música ao vivo, está sempre no playback... vale a pena pela performance, mas queria ve-lo cantando ao vivo mais vezes, pois percebe-se que em todos os shows dele, ele usa demais o playback e poucas vezes canta de fato as músicas 😞",-0.6956,Negative,0.0954545454545454,Positive,-0.4087862968444824,Negative
 Legends never die. R.I.P MJ,0.4847,Positive,0.0,Neutral,0.4323105812072754,Positive
 "When they let talent reign over bullshit, and the talented came out to play!!!",0.6784,Positive,1.0,Positive,-0.555539071559906,Negative
 After this… EVERY NI*******A was rocking a curl.,0.0,Neutral,0.0,Neutral,-0.6457599997520447,Negative
@@ -199,10 +199,10 @@ Moonwalk😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Childhood to adult",0.8658,Positive,0.4121212121212121,Positive,0.7366246581077576,Positive
 The one and only.  No one comes close.,-0.296,Negative,0.0,Neutral,0.5385599732398987,Positive
 Every movement so calculated dude was too great. We need to create a new word for this craft,0.7351,Positive,0.4681818181818182,Positive,-0.404923141002655,Negative
-"I remember watching this live on television, and happened to tape it on the VCR machine. I had no idea the history I was capturing.",-0.296,Negative,0.1363636363636363,Neutral,0.231095403432846,Neutral
+"I remember watching this live on television, and happened to tape it on the VCR machine. I had no idea the history I was capturing.",-0.296,Negative,0.1363636363636363,Positive,0.231095403432846,Neutral
 Michael jackson love his music hes A legend his moves are amazing still listen to his music today missed not forgotten,0.8159,Positive,0.55,Positive,0.783662736415863,Positive
-Michael was only 5 years older than me. I lived his music since he (and me) was a child. I feel so Lucky.,0.5598,Positive,0.1666666666666666,Neutral,0.636316180229187,Positive
-IMO this man was the Greatest Entertainer we've ever seen or will see. He understood how the human mind and eye is attracted and played off that. Unbelievable mind.,0.9153,Positive,0.25,Neutral,0.8714467883110046,Positive
+Michael was only 5 years older than me. I lived his music since he (and me) was a child. I feel so Lucky.,0.5598,Positive,0.1666666666666666,Positive,0.636316180229187,Positive
+IMO this man was the Greatest Entertainer we've ever seen or will see. He understood how the human mind and eye is attracted and played off that. Unbelievable mind.,0.9153,Positive,0.25,Positive,0.8714467883110046,Positive
 "'Why did he wear that big, funny glove on stage?' 
 
 'He went on, but he also had a pizza going in the oven for after.'
@@ -211,7 +211,7 @@ IMO this man was the Greatest Entertainer we've ever seen or will see. He unders
 
 'HEE-HEEEEEEEEE!'
 
-🕺🏾😜",0.4393,Positive,0.1875,Neutral,-0.3331797420978546,Negative
+🕺🏾😜",0.4393,Positive,0.1875,Positive,-0.3331797420978546,Negative
 "Fred Astaire called the, the greatest solo performance ever! 🙏🏽",0.6696,Positive,1.0,Positive,0.9250975847244264,Positive
 "Ahhhhhh… The 80s 
 When music was Great …and White people couldn’t dance.",0.6249,Positive,0.4,Positive,-0.3710339963436126,Negative
@@ -220,20 +220,20 @@ If I had to give this guy a nickname it would be the “king of pop”,0.0,Neutr
 Awesome performance from the king of pop. RIP.,0.6249,Positive,1.0,Positive,0.7906162142753601,Positive
 I wish more men would wear glitter. It looks sooooo good.,0.6808,Positive,0.6,Positive,0.4196590185165405,Positive
 the Performance that broke down racial segregation in america.,-0.4215,Negative,-0.1555555555555555,Negative,0.3841747343540191,Positive
-Unfortunately this is not live... this is playback but still good show,0.4854,Positive,0.0439393939393939,Neutral,0.4435338079929352,Positive
+Unfortunately this is not live... this is playback but still good show,0.4854,Positive,0.0439393939393939,Positive,0.4435338079929352,Positive
 Greatest performance off ALL TIMES WOW,0.8668,Positive,0.55,Positive,0.9674689769744872,Positive
 RIP MJ😭 i wish he was alive😢,-0.2263,Negative,0.0,Neutral,-0.5925742983818054,Negative
-Et tout ça en live!! ♥️♥️♥️,0.9347,Positive,0.2130681818181818,Neutral,0.687016487121582,Positive
+Et tout ça en live!! ♥️♥️♥️,0.9347,Positive,0.2130681818181818,Positive,0.687016487121582,Positive
 REST IN PEACE MICHEAL JACKSON GOD BLESS YOUR SOUL,0.8126,Positive,0.0,Neutral,0.6231228709220886,Positive
 And today we have clowns singing about butter and wannabe latin rappers called Bugs Bunny.,0.0,Neutral,0.0,Neutral,-0.2977104783058166,Negative
 still the king money nowt that guy was the king watch me ride a motorcycle no patch on him though  TRUTH HURTS  YOU HUMANS NOT LIKE IT though,-0.6861,Negative,0.0,Neutral,-0.279509425163269,Negative
 Lotta lip syncing huh,0.0,Neutral,0.0,Neutral,0.2874914109706878,Neutral
 I remember being on a bus with my highschool classmates coming from Six Flags Over Georgia when this came on the monitor they had on the bus...that was the first time I saw him moonwalk..it was wonderful.. thank you posting this video ❤️,0.7351,Positive,0.625,Positive,0.7440543174743652,Positive
-Anh ấy nhảy rất tốt,0.3384,Positive,0.2,Neutral,0.5411399006843567,Positive
-If I could dance like him I would never walk normally.,0.3612,Positive,0.15,Neutral,-0.3888865113258362,Negative
+Anh ấy nhảy rất tốt,0.3384,Positive,0.2,Positive,0.5411399006843567,Positive
+If I could dance like him I would never walk normally.,0.3612,Positive,0.15,Positive,-0.3888865113258362,Negative
 I can't believe it's 60fps 😭❤️👍👍🔥,-0.6705,Negative,0.0,Neutral,-0.3178111314773559,Negative
-R.i.P The Legend the One and Only Michael Jackson🙏🙏🙏 check this song out by Michael Jackson but i think its mostly for Dudes🤣😎 https://youtu.be/h8jYGxkJOp8,0.8519,Positive,0.25,Neutral,0.2864790856838226,Neutral
-He wasn't the first to do the moonwalk jeffrey daniels from shalamar did it on totp in 1982 he called it the back slide but mj renamed it the moonwalk,0.0,Neutral,0.125,Neutral,0.3064082860946655,Neutral
+R.i.P The Legend the One and Only Michael Jackson🙏🙏🙏 check this song out by Michael Jackson but i think its mostly for Dudes🤣😎 https://youtu.be/h8jYGxkJOp8,0.8519,Positive,0.25,Positive,0.2864790856838226,Neutral
+He wasn't the first to do the moonwalk jeffrey daniels from shalamar did it on totp in 1982 he called it the back slide but mj renamed it the moonwalk,0.0,Neutral,0.125,Positive,0.3064082860946655,Neutral
 Simply the GOAT,0.0,Neutral,0.0,Neutral,-0.375253826379776,Negative
 "An audience member:
 
@@ -250,50 +250,50 @@ Check this out : https://youtu.be/spr2mSEWbdA,0.0,Neutral,0.0,Neutral,-0.2279575
 HE Is Amazing 🤩,0.5859,Positive,0.6000000000000001,Positive,0.8107107877731323,Positive
 I see alot of Jackie Wilson snd James Brown in his movements along with the street dancing.  This was a very incredible performance.,0.0,Neutral,1.0,Positive,0.8022791147232056,Positive
 When Michael Jackson looks In the mirror he sees nothing because its just one only Michael Jackson,0.0,Neutral,0.0,Neutral,-0.3254805505275726,Negative
-"Also special that night was that the whole program brought generations together. I watched it with my mom, and our aunties, uncles, and cousins were watching together too. It was fun to see older ones relive their youth. It helped you understand them better. Then, MJ not only brought us into the present, he showed us the future. Very special.",0.8977,Positive,0.2208994708994709,Neutral,0.7282523512840271,Positive
+"Also special that night was that the whole program brought generations together. I watched it with my mom, and our aunties, uncles, and cousins were watching together too. It was fun to see older ones relive their youth. It helped you understand them better. Then, MJ not only brought us into the present, he showed us the future. Very special.",0.8977,Positive,0.2208994708994709,Positive,0.7282523512840271,Positive
 Best playback ever 👌,0.8842,Positive,1.0,Positive,0.9488781094551086,Positive
 I know what Michael Jackson did was wrong…but his music hit different at 1:17 in the morning,0.0,Neutral,0.0,Neutral,-0.3425898849964142,Negative
-I so much miss him. I so wish they hadn’t murdered him.,-0.419,Negative,0.2,Neutral,-0.4983395934104919,Negative
-"no one is talking about the camera man, Absolute Legand",-0.296,Negative,0.2,Neutral,-0.779991626739502,Negative
+I so much miss him. I so wish they hadn’t murdered him.,-0.419,Negative,0.2,Positive,-0.4983395934104919,Negative
+"no one is talking about the camera man, Absolute Legand",-0.296,Negative,0.2,Positive,-0.779991626739502,Negative
 GREAT HUMAN BEING RIP MJ........,0.6249,Positive,0.4,Positive,0.6959214806556702,Positive
 Wow!!! This is my first time to see this video. great performance! seems like this is the ground zero of MJ! This is where the greatness started. Wow! Truly a great artist.,0.9731,Positive,0.4740624999999999,Positive,0.9667320847511292,Positive
 Amazing how that 'lip synch' performance still impresses today.,0.7845,Positive,0.6000000000000001,Positive,0.8219530582427979,Positive
 "I am going to listen to this a 1,000 times",0.0,Neutral,0.0,Neutral,0.3564377427101135,Positive
-The crowd's spirit is what makes this performance even better than it possibly could be,0.5574,Positive,0.25,Neutral,0.608058750629425,Positive
-History was made right here 3:38,0.0,Neutral,0.2857142857142857,Neutral,0.5033419132232666,Positive
+The crowd's spirit is what makes this performance even better than it possibly could be,0.5574,Positive,0.25,Positive,0.608058750629425,Positive
+History was made right here 3:38,0.0,Neutral,0.2857142857142857,Positive,0.5033419132232666,Positive
 You know you're good when even the orchestra is back there clapping for you,0.4404,Positive,0.35,Positive,-0.2805604934692383,Negative
 "He was then and will forever be the most amazing singer, dancer and performer that ever lived!",0.6581,Positive,0.625,Positive,0.9633491039276124,Positive
 Something on my to do list before I die is to master this dance.,-0.5994,Negative,0.0,Neutral,0.6273369789123535,Positive
 Jeffrey Daniels taught him how to do it!,0.0,Neutral,0.0,Neutral,0.5609524250030518,Positive
-Michael Jackson in this era was equal to the power of all music artists today combined + Marvel Cinematic Universe + All famous sports people + The grace of Mother Theresa and Princess Diana + President of the US and Queen of England + all CEOs of big tech combined... And then some power still left...,0.6808,Positive,0.1,Neutral,0.5725366473197937,Positive
+Michael Jackson in this era was equal to the power of all music artists today combined + Marvel Cinematic Universe + All famous sports people + The grace of Mother Theresa and Princess Diana + President of the US and Queen of England + all CEOs of big tech combined... And then some power still left...,0.6808,Positive,0.1,Positive,0.5725366473197937,Positive
 Unmatched Charisma.... Every 5 seconds is iconic meme worthy,0.3818,Positive,0.4166666666666666,Positive,0.7477254867553711,Positive
 "this is the proof that bts is not the only good singer/dancer in that world, TAKE THAT BTS STANS",-0.3412,Negative,0.35,Positive,-0.3413287997245788,Negative
 From the greatest entertainer of all times.....MR. MICHAEL JACKSON y'all!!!✔️💯💕💋,0.9411,Positive,1.0,Positive,0.8843570947647095,Positive
 2020 estamos aí ❤,0.6369,Positive,0.0,Neutral,0.418839156627655,Positive
 3:40 - his iconic move as born,0.0,Neutral,0.5,Positive,0.6703966856002808,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-This sound exactly like the actual music on Spotify,0.3612,Positive,0.2166666666666666,Neutral,0.7388880848884583,Positive
+This sound exactly like the actual music on Spotify,0.3612,Positive,0.2166666666666666,Positive,0.7388880848884583,Positive
 Still Loving You,0.5994,Positive,0.6,Positive,0.6148675084114075,Positive
 É mágico!,0.0,Neutral,0.625,Positive,0.7929742336273193,Positive
 I feel like this should have 1 billion views,0.3612,Positive,0.0,Neutral,0.2423620969057083,Neutral
 Shit can't ever be fucked with period....,-0.0217,Neutral,-0.4,Negative,-0.8626881837844849,Negative
 3:34,0.0,Neutral,0.0,Neutral,0.3209870755672455,Neutral
-"I cried the day he died.  My girls were   11 & 9 in 2009, they love him just as much as I always did.  My oldest now lives in the NY area,  and the three of us went to see MJ musical at the Neil Simon Theatre, and it was unbelievable!! Highly recommend ❤️",0.49,Positive,0.093875,Neutral,0.9499555230140686,Positive
-Props to the crowd for clapping in sync. That seems to rarely happen these days.,0.0,Neutral,0.3,Neutral,0.412113606929779,Positive
-The day white people understood. Nobody can understate what an important cultural moment this is.,0.2023,Positive,0.1666666666666666,Neutral,0.5421838164329529,Positive
+"I cried the day he died.  My girls were   11 & 9 in 2009, they love him just as much as I always did.  My oldest now lives in the NY area,  and the three of us went to see MJ musical at the Neil Simon Theatre, and it was unbelievable!! Highly recommend ❤️",0.49,Positive,0.093875,Positive,0.9499555230140686,Positive
+Props to the crowd for clapping in sync. That seems to rarely happen these days.,0.0,Neutral,0.3,Positive,0.412113606929779,Positive
+The day white people understood. Nobody can understate what an important cultural moment this is.,0.2023,Positive,0.1666666666666666,Positive,0.5421838164329529,Positive
 Attempted to reproduce this at my 21st. Still unsure if I succeeded,0.2023,Positive,0.0,Neutral,0.3541425168514251,Positive
-He was the king at this time.  Transcended all music likes.  I was big into hard rock but still liked this and other songs.  Wow.,0.891,Positive,0.0566666666666666,Neutral,0.847396731376648,Positive
+He was the king at this time.  Transcended all music likes.  I was big into hard rock but still liked this and other songs.  Wow.,0.891,Positive,0.0566666666666666,Positive,0.847396731376648,Positive
 As good as this was..his dance routine just got better with age…,0.7003,Positive,0.6,Positive,0.5122630000114441,Positive
 This is superior MJ❤️,0.5423,Positive,0.7,Positive,0.6615943908691406,Positive
 This performance and album changed the music world 🌎 forever and separated him from the Jackson 5 and the rest of the music world. no cap.,-0.296,Negative,0.0,Neutral,0.6280708312988281,Positive
 just so amazing and incredible of his happy and smooth vibe,0.8425,Positive,0.6749999999999999,Positive,0.889180600643158,Positive
-"I remember the morning after this aired everyone in my Pacific Northwest History class tried to ""moonwalk"".. We all watched him do it but we couldn't quite figure out HOW he did it...",0.0,Neutral,0.1,Neutral,0.3314183354377746,Positive
+"I remember the morning after this aired everyone in my Pacific Northwest History class tried to ""moonwalk"".. We all watched him do it but we couldn't quite figure out HOW he did it...",0.0,Neutral,0.1,Positive,0.3314183354377746,Positive
 Moonwalks,0.0,Neutral,0.0,Neutral,0.3402642607688904,Positive
-Looking back at these videos you can literally see it in his whole demeanor and energy that he is putting his LITERAL ALL INTO THIS PERFORMANCE! We love you Michael!,0.7835,Positive,0.2916666666666667,Neutral,0.9134674072265624,Positive
+Looking back at these videos you can literally see it in his whole demeanor and energy that he is putting his LITERAL ALL INTO THIS PERFORMANCE! We love you Michael!,0.7835,Positive,0.2916666666666667,Positive,0.9134674072265624,Positive
 "Bucak cyrfgxfcf cxfey3y5435rgijgfdxdfhklb    x b,pl..çomak y42rn,nsnxxhh z",0.0,Neutral,0.0,Neutral,-0.2623131573200226,Negative
 Genius,0.0,Neutral,0.0,Neutral,0.7280226349830627,Positive
 I remember this and I was too young to give a crap.  Now holy mackerel this was sick,-0.7096,Negative,-0.4714285714285715,Negative,-0.8588021993637085,Negative
-Of course he's lip syncing but great performance none the less.,0.7684,Positive,0.3166666666666667,Neutral,0.545365035533905,Positive
+Of course he's lip syncing but great performance none the less.,0.7684,Positive,0.3166666666666667,Positive,0.545365035533905,Positive
 Always had completely dead eyes,-0.6801,Negative,-0.2,Negative,-0.4515029489994049,Negative
 "He was as big in the 80s as Elvis was in the 50s, facts",0.0,Neutral,0.0,Neutral,0.2894191145896911,Neutral
 Michael Jackson is so talented and hilarious he sings Billie Jean that makes me happy congratulations Michael Jackson so proud of you keep your head up don't forget you got this you can do it I guarantee you it's gonna work out for you I promise you and he got the moonwalk what a great crowd fantastic performance,0.9855,Positive,0.6666666666666666,Positive,0.8870387077331543,Positive
@@ -301,10 +301,10 @@ Michael is the music in his prime,0.0,Neutral,0.0,Neutral,0.4397090673446655,Pos
 I don't even know why I tear up watching... Everytime.,0.0,Neutral,0.0,Neutral,0.6035171747207642,Positive
 Ta perron como baila el vato.,0.0,Neutral,0.0,Neutral,0.3783895075321197,Positive
 In school I’m known for micheal Jackson because I can kinda dance just like him,0.3041,Positive,0.0,Neutral,0.4254249036312103,Positive
-Real showmanship right here,0.0,Neutral,0.2428571428571428,Neutral,0.6884883642196655,Positive
+Real showmanship right here,0.0,Neutral,0.2428571428571428,Positive,0.6884883642196655,Positive
 No one was cooler or sexier than MJ. Too bad he didn’t know it,-0.6908,Negative,-0.6999999999999998,Negative,-0.4523235559463501,Negative
 My childhood,0.0,Neutral,0.0,Neutral,0.4715394079685211,Positive
-When you’re already the biggest star on the planet and one performance puts you in absolute god status.,0.2732,Positive,0.2,Neutral,-0.4254485368728637,Negative
+When you’re already the biggest star on the planet and one performance puts you in absolute god status.,0.2732,Positive,0.2,Positive,-0.4254485368728637,Negative
 "One of the greatest performances of all time. Every dance move of this is amazing, not just the moonwalk.",0.8402,Positive,0.8,Positive,0.9753899574279784,Positive
 Still the best performance ever- like EVER!!,0.8065,Positive,1.0,Positive,0.91804701089859,Positive
 "Hermosa elección ❤️ likeex.Uno
@@ -327,7 +327,7 @@ de los mejores  😘
 11:24 Belleza doops
 35:23 Son unos de los mejores conciertos, no puede ir pero de tan solo verlos desde pantalla, se que estuvo sorprendente  🖤
 10:32  Hopi: ""Sweeter"" 1exg",0.9876,Positive,0.7944444444444445,Positive,0.7377498745918274,Positive
-Damn he was amazing. Just super smooth and just gives off such charisma. His moves are simple yet sleek and precise to the beat.,0.7184,Positive,0.2888888888888889,Neutral,0.837759792804718,Positive
+Damn he was amazing. Just super smooth and just gives off such charisma. His moves are simple yet sleek and precise to the beat.,0.7184,Positive,0.2888888888888889,Positive,0.837759792804718,Positive
 *THE BEST PERFORMANCE OF ALL TIME!*,0.6696,Positive,1.0,Positive,0.9644016027450562,Positive
 We should be thankful that we had Michael Jackson in our world. He is God's greatest gift,0.8957,Positive,1.0,Positive,0.8928086757659912,Positive
 I Wish There's An Animation Styles Of MJ's Performance Of Billie Jean From Motown 25th.,0.4019,Positive,0.0,Neutral,0.3005387783050537,Neutral
@@ -339,9 +339,9 @@ Michael Jackson agents applied was that Biden particular busted into our home ru
 Exquisitely performed,0.0,Neutral,1.0,Positive,0.7865276336669922,Positive
 Bro his voice is beautiful.,0.5994,Positive,0.85,Positive,0.5507946610450745,Positive
 Incrível,0.0,Neutral,0.9,Positive,-0.4288965463638305,Negative
-My mom said that after this performance it wasn’t long before a bunch of guys at her school started showing up wearing one white glove. She said it was the craziest thing she ever saw. Rly goes to show how much of an impact MJ had.,-0.0516,Negative,0.05,Neutral,0.3885983526706695,Positive
-I remember watching this on TV live. When he did the moonwalk I yelled out “What the “F” did he just do”? It was the first and last time my parents heard me say the “F” word.,0.0,Neutral,0.1287878787878787,Neutral,0.3594966232776642,Positive
-First moonwalk was Bill Bailey in 1955. James Brown did it well also. https://www.youtube.com/watch?v=y71njpDH3co,0.2732,Positive,0.25,Neutral,0.4522871971130371,Positive
+My mom said that after this performance it wasn’t long before a bunch of guys at her school started showing up wearing one white glove. She said it was the craziest thing she ever saw. Rly goes to show how much of an impact MJ had.,-0.0516,Negative,0.05,Positive,0.3885983526706695,Positive
+I remember watching this on TV live. When he did the moonwalk I yelled out “What the “F” did he just do”? It was the first and last time my parents heard me say the “F” word.,0.0,Neutral,0.1287878787878787,Positive,0.3594966232776642,Positive
+First moonwalk was Bill Bailey in 1955. James Brown did it well also. https://www.youtube.com/watch?v=y71njpDH3co,0.2732,Positive,0.25,Positive,0.4522871971130371,Positive
 MJ at his best. If only he had kept this look and not messed up his face with all that surgery.,0.738,Positive,0.5,Positive,0.4033975601196289,Positive
 Even the aliens watch his moon walk from the moon,0.0,Neutral,0.0,Neutral,0.4336626529693603,Positive
 Hes lipsyncing,0.0,Neutral,0.0,Neutral,-0.2694983184337616,Negative
@@ -349,7 +349,7 @@ Jogar fora o chapel da Lain... voltar atrás... movimento com a cintura... 25 .,
 Se liga na linguagem corporal do anjo,0.0,Neutral,0.0,Neutral,0.3291110694408417,Neutral
 What I would pay to have been at this performance,-0.1027,Negative,0.0,Neutral,0.4785454571247101,Positive
 ❤️😘😘😘❤️❤️❤️❤️❤️😘😘❤️❤️❤️,0.9186,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I really wish I was born in this era😩,0.2247,Positive,0.2,Neutral,0.3691935241222381,Positive
+I really wish I was born in this era😩,0.2247,Positive,0.2,Positive,0.3691935241222381,Positive
 Michael  Jackson  is  Dedicated,0.4588,Positive,0.0,Neutral,0.5144305229187012,Positive
 I remember this song in the barber and it just come out for the first time 1 year ago and it's my favorite song,0.4588,Positive,0.375,Positive,0.836463987827301,Positive
 No body got nothing on the king of pop but me a little,-0.1531,Negative,-0.1875,Negative,-0.3428475260734558,Negative
@@ -359,11 +359,11 @@ The moonwalk hadn’t really been seen outside the breakdancing circles. When he
 *that cheer tho…*",0.5106,Positive,0.0,Neutral,0.2667759358882904,Neutral
 "We Love You Micheal you gave us so much joy and happiness. God loves you Thank you so much !!! You did and incredible job with your soul mission. You lead the way for many. Your light still shines brightly among us and will forever. On the behalf of mankind, I loudly Thank you. Rest your soul you had a long journey here full of lessons. Just rest and have the fun you were never allowed here.",0.9824,Positive,0.4658854166666666,Positive,0.961583375930786,Positive
 now let the racist ppls cry,-0.7964,Negative,0.0,Neutral,-0.474261999130249,Negative
-That night a whole Galaxy was born with trillion of twinkling stars bowing to the master of perfection,0.5719,Positive,0.2,Neutral,0.6874887943267822,Positive
-He was born legend! He didn’t become legend that night but he was naturally a legend! I think this far human talent goes there is no beyond!,0.4168,Positive,0.075,Neutral,0.7726792097091675,Positive
+That night a whole Galaxy was born with trillion of twinkling stars bowing to the master of perfection,0.5719,Positive,0.2,Positive,0.6874887943267822,Positive
+He was born legend! He didn’t become legend that night but he was naturally a legend! I think this far human talent goes there is no beyond!,0.4168,Positive,0.075,Positive,0.7726792097091675,Positive
 bro made a song to escape childbirth,0.1779,Positive,0.0,Neutral,0.3429227471351623,Positive
 "Out of billions…. Give me one of the top 10 musical talents to have ever lived so far, give me them at their peak, now give me them on their best day. Now stick them on stage with a microphone, this is what you see here.",0.8402,Positive,0.4,Positive,0.9671370387077332,Positive
-Much better than Lebron's cross over,0.4404,Positive,0.25,Neutral,0.6779324412345886,Positive
+Much better than Lebron's cross over,0.4404,Positive,0.25,Positive,0.6779324412345886,Positive
 0:13,0.0,Neutral,0.0,Neutral,-0.4834249317646026,Negative
 "best part 3:29
 :)",0.802,Positive,0.75,Positive,0.5764570236206055,Positive
@@ -391,26 +391,26 @@ Audience are so excited to see Michael Jackson a God gift to this universe but j
 🏋️🏋️🏋️🏋️🕶️👓🕶️👓👓👓👑🧢👒🐍🐊🦖🦎🐲🌊🤱😇😇🏃🏃🏃🕶️🕶️🕶️🐍🐍🐍👓👓👓🏋️🏋️🕶️🕶️🕶️🌴🙏🙏🙏,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 3:38 this move made history,0.0,Neutral,0.0,Neutral,0.5829240083694458,Positive
 Amazing performance but it was in playback,0.34,Positive,0.6000000000000001,Positive,0.4110377430915832,Positive
-"When I see this video I wish I can go back in time and give him a hug and look deep in his face and tell him everything‘s gonna be OK. I wish I can tell him love yourself and take care of yourself everyone around the world loves you. But what does it matter if you don’t love yourself. This guy really need some real friends in his life. He would probably still be black, with no rhinoplasty and alive. Unfortunately nobody gave a fuck. All they saw was 💰💰💰",0.9011,Positive,0.0848484848484848,Neutral,-0.3263494670391083,Negative
+"When I see this video I wish I can go back in time and give him a hug and look deep in his face and tell him everything‘s gonna be OK. I wish I can tell him love yourself and take care of yourself everyone around the world loves you. But what does it matter if you don’t love yourself. This guy really need some real friends in his life. He would probably still be black, with no rhinoplasty and alive. Unfortunately nobody gave a fuck. All they saw was 💰💰💰",0.9011,Positive,0.0848484848484848,Positive,-0.3263494670391083,Negative
 😍👍😋,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"I remember watching this live and just being blown away. In my opinion, THIS was the moment that cemented MJ's place in not only music history but his place in pop culture, forever",0.0,Neutral,0.0681818181818181,Neutral,0.7547040581703186,Positive
-The exact moment he became King of Pop 👑,0.0,Neutral,0.25,Neutral,0.5656171441078186,Positive
-1:55 even the guy in the back was clapping enjoying every single moment 🙌🏾🙌🏾,0.5267,Positive,0.1428571428571428,Neutral,0.5343263745307922,Positive
+"I remember watching this live and just being blown away. In my opinion, THIS was the moment that cemented MJ's place in not only music history but his place in pop culture, forever",0.0,Neutral,0.0681818181818181,Positive,0.7547040581703186,Positive
+The exact moment he became King of Pop 👑,0.0,Neutral,0.25,Positive,0.5656171441078186,Positive
+1:55 even the guy in the back was clapping enjoying every single moment 🙌🏾🙌🏾,0.5267,Positive,0.1428571428571428,Positive,0.5343263745307922,Positive
 I am the one baby !!!\,0.0,Neutral,0.0,Neutral,0.7914205193519592,Positive
 Anyone in the crowd is still living in these days ?,0.0,Neutral,0.0,Neutral,0.3000650107860565,Neutral
-"Just an interesting note, at the end Michael wanted to be on the tips of his toes for much longer but could not hold it due to his loss of concentration. This then ruined the show in his mind, despite wowing an audience all the way through.",-0.8757,Negative,0.1916666666666666,Neutral,-0.5327006578445435,Negative
+"Just an interesting note, at the end Michael wanted to be on the tips of his toes for much longer but could not hold it due to his loss of concentration. This then ruined the show in his mind, despite wowing an audience all the way through.",-0.8757,Negative,0.1916666666666666,Positive,-0.5327006578445435,Negative
 I dont think in my lifetime it will be a second like him.,0.3612,Positive,0.0,Neutral,0.3741537630558014,Positive
 2022 love Michael jackson ... Mi forever,0.6369,Positive,0.5,Positive,0.8414350748062134,Positive
 "Pasan los años, y sigo pensando que MJ es el tipo más talentoso que ha pisado la tierra en el ámbito musical.",0.5563,Positive,0.6,Positive,0.5374835133552551,Positive
-"I would of for sure had a Lil momma moment with Michael on that stage, sorry not sorry 😩",0.4653,Positive,0.0833333333333333,Neutral,0.412470668554306,Positive
+"I would of for sure had a Lil momma moment with Michael on that stage, sorry not sorry 😩",0.4653,Positive,0.0833333333333333,Positive,0.412470668554306,Positive
 Billie Jean is not my lover HEHE,-0.4717,Negative,0.0,Neutral,-0.3733387589454651,Negative
 Literally everything about this performance is just flawless.,0.5106,Positive,1.0,Positive,-0.7085426449775696,Negative
-MJ today is 2022. My heart still crying. We miss you so much. Thank you for your music. RIP our King of Pop!,0.553,Positive,0.0249999999999999,Neutral,0.7565762400627136,Positive
+MJ today is 2022. My heart still crying. We miss you so much. Thank you for your music. RIP our King of Pop!,0.553,Positive,0.0249999999999999,Positive,0.7565762400627136,Positive
 Michael Jackson is the kind of pop,0.0,Neutral,0.6,Positive,0.2585313618183136,Neutral
 Heaven is rocking x,0.5106,Positive,0.0,Neutral,0.6287471055984497,Positive
 I saw the Bad tour in 87. Amazing.,0.0772,Positive,-0.0499999999999998,Negative,0.8135923147201538,Positive
 Too bad he isn't singing live. Oh well,-0.34,Negative,-0.2818181818181817,Negative,-0.593106210231781,Negative
-The passion of music was really in his heart,0.8158,Positive,0.2,Neutral,0.5408985614776611,Positive
+The passion of music was really in his heart,0.8158,Positive,0.2,Positive,0.5408985614776611,Positive
 Amezing 💞💞💞,0.5859,Positive,0.6000000000000001,Positive,0.346746027469635,Positive
 King of POP,0.0,Neutral,0.0,Neutral,0.614092230796814,Positive
 I literally grew up with Michael I love his music,0.6369,Positive,0.5,Positive,0.7618597745895386,Positive
@@ -431,13 +431,13 @@ Eye witness testimonies shared in the comments about the impact of this performa
 
 The following day, everybody was talking about Michael Jackson.  Everyone!  Teachers, friends, family, the news... His music was already #1 on the radio, but we'd never seen him dance.  It blew our minds. 
 
-Many years later when he passed, I was older,  not really a huge MJ fan.  The fact I shed tears for him helped me realize how deeply he impacted the generations who witnessed his ascent to fame, how he captured our collective imagination, numerous times to be honest.",0.8844,Positive,0.1377525252525252,Neutral,0.4236277937889099,Positive
+Many years later when he passed, I was older,  not really a huge MJ fan.  The fact I shed tears for him helped me realize how deeply he impacted the generations who witnessed his ascent to fame, how he captured our collective imagination, numerous times to be honest.",0.8844,Positive,0.1377525252525252,Positive,0.4236277937889099,Positive
 Idk,-0.1027,Negative,0.0,Neutral,0.2529818117618561,Neutral
 Miss MJ his music is amazing. Rip MJ,0.4939,Positive,0.6000000000000001,Positive,-0.3297219276428222,Negative
 Шикарно!!!,0.7074,Positive,1.0,Positive,-0.330333262681961,Negative
 Is it playback?,0.0,Neutral,0.0,Neutral,0.3327159583568573,Positive
 Perfeito 🥰🥰🥰,0.979,Positive,1.0,Positive,0.8193483352661133,Positive
-This is one of my favorite Michael Jackson songs. I love that bass line. Consider checking out my guitar cover of it:  https://youtu.be/p3ShVw1Rf3c,0.802,Positive,0.2833333333333333,Neutral,0.8479918241500854,Positive
+This is one of my favorite Michael Jackson songs. I love that bass line. Consider checking out my guitar cover of it:  https://youtu.be/p3ShVw1Rf3c,0.802,Positive,0.2833333333333333,Positive,0.8479918241500854,Positive
 "23:23 Hermosa elección 😘 Xxlike.Uno de los mejores conciertos ❤️
 
 
@@ -463,17 +463,17 @@ RIP LEGEND. I absolutely love that there are no phones recording just people bei
 "His performance in Munich might be more impressive, but this will always be my favorite ❤️",0.7428,Positive,0.6666666666666666,Positive,0.5938732624053955,Positive
 "he was cute, sad he didnt see it",-0.0258,Neutral,0.0,Neutral,0.4441871643066406,Positive
 KING OF POP,0.0,Neutral,0.0,Neutral,0.614092230796814,Positive
-"Fred Astaire even Frank Sinatra stated that MJ was by far on top of his league, I believed Fred Astaire called MJ said he was a GOAT in the making.",0.2023,Positive,0.3,Neutral,-0.2776434123516083,Negative
-En ese nivel de modificaciones físicas era el punto óptimo. Después se convirtió en algo irreconocible,0.4588,Positive,0.175,Neutral,-0.4394212067127228,Negative
+"Fred Astaire even Frank Sinatra stated that MJ was by far on top of his league, I believed Fred Astaire called MJ said he was a GOAT in the making.",0.2023,Positive,0.3,Positive,-0.2776434123516083,Negative
+En ese nivel de modificaciones físicas era el punto óptimo. Después se convirtió en algo irreconocible,0.4588,Positive,0.175,Positive,-0.4394212067127228,Negative
 king of pop,0.0,Neutral,0.0,Neutral,0.614092230796814,Positive
 king of pop,0.0,Neutral,0.0,Neutral,0.614092230796814,Positive
 miss you terribly Mike 😢,-0.8074,Negative,-1.0,Negative,-0.6266275644302368,Negative
 Hes the greatest singer and dancer ever,0.6369,Positive,1.0,Positive,0.9328092336654664,Positive
-2:00 you can see he made ew face cause he knew the vibe was just dirty (in a good way🙄),0.0,Neutral,0.0499999999999999,Neutral,-0.3631296455860138,Negative
+2:00 you can see he made ew face cause he knew the vibe was just dirty (in a good way🙄),0.0,Neutral,0.0499999999999999,Positive,-0.3631296455860138,Negative
 How did i forget to like this video?,0.1531,Positive,0.0,Neutral,0.3237341642379761,Neutral
 We love you mj,0.6369,Positive,0.5,Positive,0.8191259503364563,Positive
 C'est ça d'avoir eu un père un peu sévère,0.0,Neutral,0.0,Neutral,0.4397151172161102,Positive
-"He did so much for so many , then they took him down. Always a legend.",0.0,Neutral,0.1814814814814814,Neutral,0.7168756723403931,Positive
+"He did so much for so many , then they took him down. Always a legend.",0.0,Neutral,0.1814814814814814,Positive,0.7168756723403931,Positive
 الله يرحمه❤ 🤍,0.8316,Positive,0.0,Neutral,0.5502960085868835,Positive
 Micheal ifeanyi Jackson 🔥🔥🔥🔥🔥🔥🔥,-0.93,Negative,0.0,Neutral,0.2806703150272369,Neutral
 3:30,0.0,Neutral,0.0,Neutral,0.3118935227394104,Neutral
@@ -481,8 +481,8 @@ ELVIS WHO,0.0,Neutral,0.0,Neutral,0.5197881460189819,Positive
 3:38,0.0,Neutral,0.0,Neutral,0.3299362957477569,Neutral
 No one moves like him.  No one.,-0.2263,Negative,0.0,Neutral,-0.7408136129379272,Negative
 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
-"And kids, this guy right here.. is the fuckin Man.",0.0,Neutral,0.2857142857142857,Neutral,0.4262495338916778,Positive
-What I wouldn’t give to be alive in this time and witness it live… Never will be another…,0.3818,Positive,0.1,Neutral,0.7379350662231445,Positive
+"And kids, this guy right here.. is the fuckin Man.",0.0,Neutral,0.2857142857142857,Positive,0.4262495338916778,Positive
+What I wouldn’t give to be alive in this time and witness it live… Never will be another…,0.3818,Positive,0.1,Positive,0.7379350662231445,Positive
 "👑👑👑👑👑👑👑👑👑👑👑
 ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ 
 📻😇😇😇😇😇♥️♥️♥️♥️♥️ 
@@ -564,8 +564,8 @@ Billie Jean is not my lover
 She is the one
 She stumbled onto the scene
 Billie Jean is not my lover
-Billie Jean is not my lover",-0.9378,Negative,0.0420304232804232,Neutral,-0.2414679229259491,Negative
-Musical History right here. Musical History,0.0,Neutral,0.0952380952380952,Neutral,0.5465200543403625,Positive
+Billie Jean is not my lover",-0.9378,Negative,0.0420304232804232,Positive,-0.2414679229259491,Negative
+Musical History right here. Musical History,0.0,Neutral,0.0952380952380952,Positive,0.5465200543403625,Positive
 Electric,0.0,Neutral,0.0,Neutral,0.3793956637382507,Positive
 The moon walk into the spin is insanely smooth 😭,-0.4767,Negative,0.4,Positive,0.2489756494760513,Neutral
 Anyone Feb 2022,0.0,Neutral,0.0,Neutral,-0.5932472348213196,Negative
@@ -580,8 +580,8 @@ Is this a playback or did he frl sing while dancing like that?,0.3612,Positive,0
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 My idol forevvvvvvvvvvvvvvveeeeeeeeerrrrrrr!!!!!!!!!! ❤❤❤❤❤❤❤❤❤❤❤❤❤,0.9959,Positive,0.0,Neutral,0.8341631293296814,Positive
 Dude was getting pretty weird already by this time...,0.3612,Positive,-0.125,Negative,-0.3867206871509552,Negative
-I love Michael ❤️ now this appears to be lip sync or along with a tracked vocal tracks. All in all. He can SING LIKE NO OTHER Michael Jackson is HISTORY,0.6705,Positive,0.28125,Neutral,0.5871595740318298,Positive
-Motown 25s biggest highlight was Micheal Jackson coming out on stage  last  doing Billy Jean he absolutely brought down the house completely with his most memorable unforgettable magical performance hes ever done on a stage set only for him and him alone it was clear who was motowns brightest star that night even the other big name entertainers actors singers were all clapping theyre hands to the irresistible Billy jean beat if i  was there I would have been doing the same thing clapping jumping up & down with excitement i would have lost my mind that night clearly an entertainer like no other in music & entertainment history hes the one true gifted blessed entertainer this world had and others will come and go but not like him he was our hailys comet he streaked across the sky and brightened  our world & now hes gone but clearly not forgotten a true icon in his own right God bless you Micheal Jackson im sure ur in heaven with the other great entertainers wowing them with ur brand of style & singing,0.9926,Positive,0.225484126984127,Neutral,0.4317720532417297,Positive
+I love Michael ❤️ now this appears to be lip sync or along with a tracked vocal tracks. All in all. He can SING LIKE NO OTHER Michael Jackson is HISTORY,0.6705,Positive,0.28125,Positive,0.5871595740318298,Positive
+Motown 25s biggest highlight was Micheal Jackson coming out on stage  last  doing Billy Jean he absolutely brought down the house completely with his most memorable unforgettable magical performance hes ever done on a stage set only for him and him alone it was clear who was motowns brightest star that night even the other big name entertainers actors singers were all clapping theyre hands to the irresistible Billy jean beat if i  was there I would have been doing the same thing clapping jumping up & down with excitement i would have lost my mind that night clearly an entertainer like no other in music & entertainment history hes the one true gifted blessed entertainer this world had and others will come and go but not like him he was our hailys comet he streaked across the sky and brightened  our world & now hes gone but clearly not forgotten a true icon in his own right God bless you Micheal Jackson im sure ur in heaven with the other great entertainers wowing them with ur brand of style & singing,0.9926,Positive,0.225484126984127,Positive,0.4317720532417297,Positive
 "A LEGEND WHO WAS FORMIDABLE AND STILL FORMIDABLE IN THE 21ST CENTURY.  A LOVELY  TALENTED  BEAUTIFUL  FAMOUS  FAMILY. R.I.P IN PLACE  MICHAEL.   SEE  U IN  THE  NEW  ORDER. 1LOVE. ""👽🇯🇲",0.9349,Positive,0.4477272727272727,Positive,0.8420829176902771,Positive
 Y’all forget the fact that this man played with little boys and that he was a sick man,-0.4215,Negative,-0.4508928571428571,Negative,-0.668317437171936,Negative
 Vine aquí porque un borrachito reto a Michael Jackson,-0.4215,Negative,-0.5,Negative,0.2695643603801727,Neutral
@@ -589,17 +589,17 @@ Le meilleur show de tout les temps,0.6369,Positive,1.0,Positive,0.90520322322845
 "The king of POP!
 He was the first black pop idol!
 Those were BIG walls HE broke down!",-0.5684,Negative,-0.0381944444444444,Negative,0.4630689024925232,Positive
-Once upon a time when we don't need a bunch of pretty boy with the autotune... One man with a great musicality was  enough to make the world crazy..,0.7096,Positive,0.1125,Neutral,0.3852620124816894,Positive
+Once upon a time when we don't need a bunch of pretty boy with the autotune... One man with a great musicality was  enough to make the world crazy..,0.7096,Positive,0.1125,Positive,0.3852620124816894,Positive
 Michael Jackson 🎗️🥀,0.0,Neutral,0.0,Neutral,0.4106233119964599,Positive
 king & legend 🤍,0.0,Neutral,0.0,Neutral,0.6638325452804565,Positive
 Fabulous show .legendary artist,0.5267,Positive,0.4,Positive,0.920634925365448,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 https://www.youtube.com/watch?v=2Mk--D69kmM&ab_channel=VictoryStudio what？,0.0,Neutral,0.0,Neutral,-0.3952672779560089,Negative
 "I was 16 when this aired, everybody and their brother planned on watching. In this MTV influenced era the Motown 25 show was a MUST SEE!  People talked about it for days later. A momentous pop culture event that jettisoned Michael's already legendary status into transcendental heights, where he will always remain.",0.0,Neutral,0.375,Positive,0.7550514340400696,Positive
 Legend!!🤘🙏,0.0,Neutral,0.0,Neutral,0.7927129864692688,Positive
 "T H E 
 K I N G",0.0,Neutral,0.0,Neutral,0.2739570140838623,Neutral
-"I was 10 years old when thus came on. I went 🤪 when I saw it. The next day at school, every boy including myself were doing every move Mike did the night before. All the girls were screaming at the mention of his name as if they were at Motown 25 the night before. And even the teachers and the principle had to talk about that phenomenal, once in a lifetime performance! 😁",0.1759,Positive,0.2416666666666666,Neutral,0.6620007753372192,Positive
+"I was 10 years old when thus came on. I went 🤪 when I saw it. The next day at school, every boy including myself were doing every move Mike did the night before. All the girls were screaming at the mention of his name as if they were at Motown 25 the night before. And even the teachers and the principle had to talk about that phenomenal, once in a lifetime performance! 😁",0.1759,Positive,0.2416666666666666,Positive,0.6620007753372192,Positive
 https://youtu.be/B4g57DAL0NI👈👈👈,0.0,Neutral,0.0,Neutral,0.2766924202442169,Neutral
 https://youtu.be/B4g57DAL0NI👈👈👈,0.0,Neutral,0.0,Neutral,0.2766924202442169,Neutral
 No he didn’t,-0.296,Negative,0.0,Neutral,-0.6394923329353333,Negative
@@ -607,13 +607,13 @@ the crowd looks so beautiful,0.7177,Positive,0.85,Positive,0.6474449038505554,Po
 "Cheat, liar and thief, shitty jacko was a copy",-0.9231,Negative,0.0,Neutral,-0.8804075121879578,Negative
 Is this Micheal jakson,0.0,Neutral,0.0,Neutral,0.232682779431343,Neutral
 Goat.,0.0,Neutral,0.0,Neutral,0.2144187539815902,Neutral
-"I didn’t even know who micheal jackson was when he died ( I was 10) but he’s so cool, I’m finally watching his performances",0.3993,Positive,0.175,Neutral,0.6382858753204346,Positive
+"I didn’t even know who micheal jackson was when he died ( I was 10) but he’s so cool, I’m finally watching his performances",0.3993,Positive,0.175,Positive,0.6382858753204346,Positive
 3:37,0.0,Neutral,0.0,Neutral,0.3349601924419403,Positive
 "Miss you, Michale...",-0.1531,Negative,0.0,Neutral,-0.3491860628128052,Negative
 Has to be the greatest mimed performance of a song of all time...,0.6369,Positive,1.0,Positive,0.8494506478309631,Positive
 I remember seeing this performance in the 80's. We were shook!,-0.1759,Negative,0.0,Neutral,-0.3683971762657165,Negative
 "I remember watching this as a kid with my family. We could not believe what we were seeing! MJ was, is, and always will be a LEGEND!!!",0.0,Neutral,0.0,Neutral,0.7417064309120178,Positive
-My parents always say to me son old is gold I was didn't care about that word but yes my parents right old is always gold,0.409,Positive,0.1619047619047618,Neutral,0.5158938765525818,Positive
+My parents always say to me son old is gold I was didn't care about that word but yes my parents right old is always gold,0.409,Positive,0.1619047619047618,Positive,0.5158938765525818,Positive
 I miss this guy 💯🤘💕❤️,0.5719,Positive,0.0,Neutral,-0.5071695446968079,Negative
 "Um dos momentos mais icônicos da música!! Michael Jackson lenda!!
 Algum brasileiro aqui??🇧🇷😍",0.6734,Positive,0.75,Positive,0.7940027713775635,Positive
@@ -621,19 +621,19 @@ He is a best for ever ❤,0.8555,Positive,1.0,Positive,0.7943878769874573,Positi
 "I love you, Mike! Always have and always will! I’m only 29 and was born in 93, but from the time I knew what music was the two artists I always loved was Michael Jackson and Tevin Campbell. As I read all the great memories everyone had while growing up in the era of Mike I can only feel a sense of sadness knowing I missed great moments this world felt back in those times.",0.9534,Positive,0.4401785714285714,Positive,0.932823896408081,Positive
 The greatest ever 👑,0.6369,Positive,1.0,Positive,0.9480198621749878,Positive
 People talk about Elvis Presley ok and Prince.but just take closed look on Michael jackson.i don't think he envy them come is just are the best come lest go Michael you are safe with God because you heart was good.Dod rise up,0.947,Positive,0.475,Positive,0.3552010357379913,Positive
-Wow I was like 8 year when I start listen this amazing man.now I am 45 I I feel love for hem.the way he was.the way he dance.the way he look.i tell you I am man 100 but you need two know the beauty of human.i love he fucked is true.,0.9524,Positive,0.2416666666666667,Neutral,0.947688639163971,Positive
-Try spinning once or twice and tell me how he can spin like 5 times straight,0.5267,Positive,0.2,Neutral,0.2956633567810058,Neutral
+Wow I was like 8 year when I start listen this amazing man.now I am 45 I I feel love for hem.the way he was.the way he dance.the way he look.i tell you I am man 100 but you need two know the beauty of human.i love he fucked is true.,0.9524,Positive,0.2416666666666667,Positive,0.947688639163971,Positive
+Try spinning once or twice and tell me how he can spin like 5 times straight,0.5267,Positive,0.2,Positive,0.2956633567810058,Neutral
 Impossível não gostar de Michael Jackson. 🕺🏾,-0.2755,Negative,-0.6666666666666666,Negative,-0.6480632424354553,Negative
 We still love you MJ...,0.6369,Positive,0.5,Positive,0.7559458017349243,Positive
 His moves are as smooth as iOS animations,0.0,Neutral,0.4,Positive,0.4414842128753662,Positive
 Fantastic,0.5574,Positive,0.4,Positive,0.8357991576194763,Positive
 Amazing performance!.....1~Luv,0.6239,Positive,0.6000000000000001,Positive,0.8360778093338013,Positive
 I remember watching this one night in 10th grade.  It's all kids talked about the next day at school.,0.0,Neutral,0.0,Neutral,0.5724995732307434,Positive
-"This is playback, right?",0.0,Neutral,0.2857142857142857,Neutral,-0.283317893743515,Negative
+"This is playback, right?",0.0,Neutral,0.2857142857142857,Positive,-0.283317893743515,Negative
 I remember seeing somewhere MJ saying Fred Astaire called him after this performance and said he “moved great” lol,0.4215,Positive,0.8,Positive,0.4492217898368835,Positive
 The 🐐!!!,0.0,Neutral,0.0,Neutral,0.5154262185096741,Positive
 Great dancer 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0.6249,Positive,0.8,Positive,0.765137255191803,Positive
-"What's so great about a guy that walks backwards and makes it look like he's walking forward? A guy that repeatedly grabs his crotch on stage? A guy that named his chimpanzee "" Bubbles"" after giving the chimpanzee a bath one day and made the chimp fart in the water, hence the name Bubbles? And then trained Bubbles to take a crap on Jackson's own toilet in his bedroom? And slept with the chimpanzee each night? There's no telling what atrocities that Michael Jackson did to Bubbles after the lights went out! And this is your hero???",0.8846,Positive,0.1395833333333333,Neutral,-0.4289409518241882,Negative
+"What's so great about a guy that walks backwards and makes it look like he's walking forward? A guy that repeatedly grabs his crotch on stage? A guy that named his chimpanzee "" Bubbles"" after giving the chimpanzee a bath one day and made the chimp fart in the water, hence the name Bubbles? And then trained Bubbles to take a crap on Jackson's own toilet in his bedroom? And slept with the chimpanzee each night? There's no telling what atrocities that Michael Jackson did to Bubbles after the lights went out! And this is your hero???",0.8846,Positive,0.1395833333333333,Positive,-0.4289409518241882,Negative
 The spinerrrrrr man,0.0,Neutral,0.0,Neutral,0.3144606947898865,Neutral
 "I am still watching…he will always be in our hearts..❤️
 
@@ -643,13 +643,13 @@ The spinerrrrrr man,0.0,Neutral,0.0,Neutral,0.3144606947898865,Neutral
              RIP MICHEAL
               1958-2009",0.6486,Positive,0.0,Neutral,0.7325092554092407,Positive
 Michael Jackson ícone,0.0,Neutral,0.0,Neutral,0.5458900928497314,Positive
-I can only imagine watching the performance live and witnessing the most iconic performance in history right before your eyes. There has never been a single performance as iconic as this still to this day. crazy . I guess this talent really only comes once in a lifetime.,0.2144,Positive,0.1389610389610389,Neutral,-0.4518387019634247,Negative
+I can only imagine watching the performance live and witnessing the most iconic performance in history right before your eyes. There has never been a single performance as iconic as this still to this day. crazy . I guess this talent really only comes once in a lifetime.,0.2144,Positive,0.1389610389610389,Positive,-0.4518387019634247,Negative
 love you!! michael,0.6988,Positive,0.78125,Positive,0.8573024272918701,Positive
 Dançava muito cantava alem da conta o melhor cantor de todos os tempos,0.6369,Positive,1.0,Positive,0.770706057548523,Positive
 I remember going to school the next day and for the rest of the year and all of trying like hell to do the moonwalk.,-0.4767,Negative,0.0,Neutral,0.3739226758480072,Positive
-Classic Michael Jackson 💯,0.0,Neutral,0.1666666666666666,Neutral,0.5476149916648865,Positive
-I’ve watched this whole video 20 times and I can’t stop,-0.296,Negative,0.2,Neutral,-0.4056644141674042,Negative
-"To this day, no one and I mean NO ONE has ever topped Michael Jackson’s legendary status. Not even Beyoncé has reached his level even though she is probably the last great performer we have left.",0.0943,Positive,0.2975,Neutral,-0.3584362864494324,Negative
+Classic Michael Jackson 💯,0.0,Neutral,0.1666666666666666,Positive,0.5476149916648865,Positive
+I’ve watched this whole video 20 times and I can’t stop,-0.296,Negative,0.2,Positive,-0.4056644141674042,Negative
+"To this day, no one and I mean NO ONE has ever topped Michael Jackson’s legendary status. Not even Beyoncé has reached his level even though she is probably the last great performer we have left.",0.0943,Positive,0.2975,Positive,-0.3584362864494324,Negative
 👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Drums : Jonathan moffett,0.0,Neutral,0.0,Neutral,0.314101904630661,Neutral
 "the speed of Michel's movements was impressive, I wonder what he would have been like if he had become a fighter",0.7506,Positive,1.0,Positive,0.5039647221565247,Positive
@@ -658,7 +658,7 @@ is it just me or is Michael taller here?,0.0,Neutral,0.0,Neutral,0.4026720821857
 I love you machel jackson,0.6369,Positive,0.5,Positive,0.8012409210205078,Positive
 "3:36 ele faz o movimento do ""bom dia"" do tik tok",0.4404,Positive,0.7,Positive,0.2961592078208923,Neutral
 And that was the night the lights went up in Pasadena!,0.0,Neutral,0.0,Neutral,0.4255963861942291,Positive
-One of the single most iconic moments of the 1980s.,0.0,Neutral,0.3095238095238095,Neutral,0.7605838179588318,Positive
+One of the single most iconic moments of the 1980s.,0.0,Neutral,0.3095238095238095,Positive,0.7605838179588318,Positive
 "And just like that,a legend is born....",0.3612,Positive,0.0,Neutral,0.6630920171737671,Positive
 "Não apenas o rei do pop, mas também Insuperável no breick dance e o número 1 em presença de palco. ""O"" verdadeiro show men de todos os tempos esse ainda é MJackson.👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻
 Ofereço essa relíquia a todos da geração 80, a qual com imenso orgulho faço parte. Abraços!🤗🇧🇷",0.9586,Positive,0.45,Positive,0.935360312461853,Positive
@@ -695,7 +695,7 @@ Ofereço essa relíquia a todos da geração 80, a qual com imenso orgulho faço
 
 🌅🌅🌷Thank you so much 🌷🌅🌅
 
-💞💞💞💞💞💞💞💞💞💞💞💞💞💞...",0.9996,Positive,0.1722222222222222,Neutral,0.4711647629737854,Positive
+💞💞💞💞💞💞💞💞💞💞💞💞💞💞...",0.9996,Positive,0.1722222222222222,Positive,0.4711647629737854,Positive
 "At 3;38 is moment of history, what we got today biber,drake ...what a shame for music and dance!",-0.5255,Negative,0.0,Neutral,0.4112778902053833,Positive
 Always super hit amazing,0.8271,Positive,0.4666666666666667,Positive,0.9070536494255066,Positive
 This performance clearly let the whole world know how much of a great star Michael Jackson was. I will always miss him and all the other wonderful things he could’ve done,0.872,Positive,0.395,Positive,0.7976410984992981,Positive
@@ -715,9 +715,9 @@ mentes pequenas dizem Billie Jean... Mentes grandes dizem BIRIGIN!,0.0,Neutral,-
 Icon,0.0,Neutral,0.0,Neutral,0.5687772631645203,Positive
 3:18,0.0,Neutral,0.0,Neutral,0.3780319392681122,Positive
 After that performance Pop Music changed forever because their King took his crown. This is the birth of MJ that we love and still admire today.,0.8074,Positive,0.5,Positive,0.7558273077011108,Positive
-I used to think this was amazing until I saw a video of Cab Calloway doing it back in the 1930's. As an added bonus he wasn't a pedo,0.8074,Positive,0.3,Neutral,0.3568760752677917,Positive
+I used to think this was amazing until I saw a video of Cab Calloway doing it back in the 1930's. As an added bonus he wasn't a pedo,0.8074,Positive,0.3,Positive,0.3568760752677917,Positive
 The best shit ever Indiana stand up,0.1531,Positive,0.4,Positive,0.9522691965103148,Positive
-"✊🏾✊🏾✊🏾✊🏾IAM SO PROUD TO BE BLACK EVERBODY BITES OFF OUR SWAGGA, STEAL OUR SHIT AND MAKE IT THERE ON...RIP MIKE",-0.349,Negative,0.1444444444444444,Neutral,0.6463053822517395,Positive
+"✊🏾✊🏾✊🏾✊🏾IAM SO PROUD TO BE BLACK EVERBODY BITES OFF OUR SWAGGA, STEAL OUR SHIT AND MAKE IT THERE ON...RIP MIKE",-0.349,Negative,0.1444444444444444,Positive,0.6463053822517395,Positive
 It’s sad that they created the narrative of him being a monster of a human being.,-0.2732,Negative,-0.25,Negative,-0.3540989756584167,Negative
 3:40,0.0,Neutral,0.0,Neutral,0.3238633573055267,Neutral
 3:41,0.0,Neutral,0.0,Neutral,0.3238143026828766,Neutral
@@ -725,15 +725,15 @@ It’s sad that they created the narrative of him being a monster of a human bei
 Could it be that he's Lip Stinking here?,-0.5267,Negative,0.0,Neutral,-0.3935455977916717,Negative
 R.I.P MJ,0.0,Neutral,0.0,Neutral,0.254742681980133,Neutral
 https://www.youtube.com/watch?v=aGYube6aDBw,0.0,Neutral,0.0,Neutral,0.2930248975753784,Neutral
-Umm.    He was NOT the first to moonwalk.,0.0,Neutral,0.25,Neutral,0.3947295546531677,Positive
-Wow the crowds claps were better at staying together than my orchestra,0.7717,Positive,0.3,Neutral,0.6804648041725159,Positive
+Umm.    He was NOT the first to moonwalk.,0.0,Neutral,0.25,Positive,0.3947295546531677,Positive
+Wow the crowds claps were better at staying together than my orchestra,0.7717,Positive,0.3,Positive,0.6804648041725159,Positive
 "I feel sorry for the cameraman in the back 
 Because he can’t rock to the music just stand there and record",-0.0772,Negative,-0.25,Negative,-0.3721585869789123,Negative
-"I love how Michael's expression is such real after he failed his dance step. He is really suffering and in 4:10 he is doing his dance step again like he wants undo his mistake .. She said I'm the one, but that mistake I have not done.",-0.5854,Negative,0.0999999999999999,Neutral,-0.3876403868198395,Negative
+"I love how Michael's expression is such real after he failed his dance step. He is really suffering and in 4:10 he is doing his dance step again like he wants undo his mistake .. She said I'm the one, but that mistake I have not done.",-0.5854,Negative,0.0999999999999999,Positive,-0.3876403868198395,Negative
 15 year old me lost my shit during this performance. Been a fan since.,-0.5574,Negative,-0.05,Negative,0.3432523906230926,Positive
 It was Charlie Chaplin who performed moonwalk before MJ,0.0,Neutral,0.0,Neutral,0.2588409185409546,Neutral
 Love you MJ ❤,0.8555,Positive,0.5,Positive,0.8479355573654175,Positive
-Watching this back in the day made millions of people SUPER FANS  😲🕴️😲,0.87,Positive,0.1666666666666666,Neutral,0.8087765574455261,Positive
+Watching this back in the day made millions of people SUPER FANS  😲🕴️😲,0.87,Positive,0.1666666666666666,Positive,0.8087765574455261,Positive
 Some call Elvis the king I disagree Michael was 100 times the Artist performer singer dancer Michael had it all RIP The one true king,0.0516,Positive,0.35,Positive,-0.3533725142478943,Negative
 He’s so smooth it’s incredible,0.0,Neutral,0.65,Positive,0.8409791588783264,Positive
 I am man.but michael jackson is beautiful man.no gay ok.is true wow everything about he I ❤ you know why because when someone is the best you can't not say no,0.9598,Positive,0.5433333333333333,Positive,0.316383421421051,Neutral
@@ -744,23 +744,23 @@ He's the king of pop rock and soul and the king of fashion,0.0,Neutral,0.0,Neutr
 LOL,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 1:11,0.0,Neutral,0.0,Neutral,-0.2176796346902847,Negative
 He's lip syncing,0.0,Neutral,0.0,Neutral,-0.3153400421142578,Negative
-This is it . HE IS STILL ALIVE AND BE READY FOR HIS RETURN 👍✨✨✨✨✨✨❤️❤️❤️❤️❤️❤️❤️✨✨✨✨💕💕💕💕💕,0.9936,Positive,0.15,Neutral,0.669098436832428,Positive
-My absolute all time favorite performances by any artist. Thank you so much for this brilliant display. I don't even care what or if you did anything to those little kids 😉,0.8112,Positive,0.3224999999999999,Neutral,0.9890708923339844,Positive
-"Don't be sad that he's gone, be happy he was here.",0.7394,Positive,0.15,Neutral,0.5660266280174255,Positive
+This is it . HE IS STILL ALIVE AND BE READY FOR HIS RETURN 👍✨✨✨✨✨✨❤️❤️❤️❤️❤️❤️❤️✨✨✨✨💕💕💕💕💕,0.9936,Positive,0.15,Positive,0.669098436832428,Positive
+My absolute all time favorite performances by any artist. Thank you so much for this brilliant display. I don't even care what or if you did anything to those little kids 😉,0.8112,Positive,0.3224999999999999,Positive,0.9890708923339844,Positive
+"Don't be sad that he's gone, be happy he was here.",0.7394,Positive,0.15,Positive,0.5660266280174255,Positive
 This is Magic,0.0,Neutral,0.5,Positive,0.7446961998939514,Positive
 how tf!? he just glides on the floor dayuuuuum,0.0,Neutral,0.0,Neutral,-0.4469431936740875,Negative
 What an icon!,0.0,Neutral,0.0,Neutral,0.910060167312622,Positive
-I don't remember this as a kid. I do remember the Thriller mini-movie debut. Was born in 79 and my sister and i were scared as hell. Lol! Hiding under a table. Still can see it vividly I couldn't imagine being one of those people to see this first solo live performance. Just wow!,-0.508,Negative,0.3272727272727272,Neutral,0.535449743270874,Positive
-I watched this on TV with my husband. We watched intently and he did the moonwalk we were like: WHAT!  So exciting. And before all the horrors and calamity.,0.3788,Positive,0.3,Neutral,0.8018233776092529,Positive
-He was so damn talented and looked so good here. Terribly missed 😢,-0.6526,Negative,0.1333333333333333,Neutral,-0.6486043930053711,Negative
+I don't remember this as a kid. I do remember the Thriller mini-movie debut. Was born in 79 and my sister and i were scared as hell. Lol! Hiding under a table. Still can see it vividly I couldn't imagine being one of those people to see this first solo live performance. Just wow!,-0.508,Negative,0.3272727272727272,Positive,0.535449743270874,Positive
+I watched this on TV with my husband. We watched intently and he did the moonwalk we were like: WHAT!  So exciting. And before all the horrors and calamity.,0.3788,Positive,0.3,Positive,0.8018233776092529,Positive
+He was so damn talented and looked so good here. Terribly missed 😢,-0.6526,Negative,0.1333333333333333,Positive,-0.6486043930053711,Negative
 The best I love Michel,0.8555,Positive,0.75,Positive,0.9228340983390808,Positive
 "Um 1st Moonwalk not even close try 1955 Bill Bailey (Aka.. Mr. bojangles)
 https://www.youtube.com/watch?v=y71njpDH3co",0.0,Neutral,0.0,Neutral,-0.4113502502441406,Negative
 "THE ONLY NON-MOTOWN SONG ALLOWED ON A MOTOWN ANNIVERSARY SHOW CASE, GENIUS, THIS SINGLE PERFORMANCE DROVE THE ALBUM THRILLER TO THE RECORD BOOKS, RIP MJ..THANKS",0.1027,Positive,-0.0357142857142857,Negative,-0.3640680313110351,Negative
 "My son is 7 years and just 'discovered' Michael Jackson on YouTube by accident. He has been so mesmerised since. Infact, I'm just streaming this song for him. He started practicing moonwalk by watching YouTube videos. He practices dancing like Michael since this discovery early this 2022. The other day he told everyone at home to address him as Mr. Jackson. Now I truly agree that Michael Jackson was indeed a legend.",0.5859,Positive,-0.0124999999999999,Negative,0.3767273426055908,Positive
 Rei é rei,0.0,Neutral,0.0,Neutral,0.5244356393814087,Positive
-Even the old orchestra geezers in the background were jamming to MJ,0.0,Neutral,0.1,Neutral,-0.4209075272083282,Negative
-short pants are now office wear. the gay was way ahead of his time,0.0,Neutral,0.2083333333333333,Neutral,-0.325630635023117,Negative
+Even the old orchestra geezers in the background were jamming to MJ,0.0,Neutral,0.1,Positive,-0.4209075272083282,Negative
+short pants are now office wear. the gay was way ahead of his time,0.0,Neutral,0.2083333333333333,Positive,-0.325630635023117,Negative
 greatest and most legendary musical moment,0.6369,Positive,0.625,Positive,0.9556815028190612,Positive
 His voice gives me chills🥶,0.0,Neutral,0.0,Neutral,0.4519904255867004,Positive
 Now that's putting on a  show. The king baby!,0.0,Neutral,0.0,Neutral,0.6261122822761536,Positive
@@ -769,12 +769,12 @@ The glove!!,0.0,Neutral,0.0,Neutral,0.3332272171974182,Positive
 Just like Hitler!",0.4199,Positive,0.0,Neutral,-0.3876489996910095,Negative
 Legendary performance 👏,0.0,Neutral,1.0,Positive,0.8097812533378601,Positive
 🔥🔥🔥🔥🔥🔥2022,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
-The First Moonwalk 3:39,0.0,Neutral,0.25,Neutral,0.2892626821994781,Neutral
+The First Moonwalk 3:39,0.0,Neutral,0.25,Positive,0.2892626821994781,Neutral
 Even though he’s lip syncing this performance is still one of the best in history,0.6369,Positive,1.0,Positive,0.5247970819473267,Positive
 No one compares to the Legend MJ!,-0.3595,Negative,0.0,Neutral,-0.4635564386844635,Negative
 I miss him,-0.1531,Negative,0.0,Neutral,-0.3798994421958923,Negative
 "3:27 this moment will be with conor countering alvarez  , nagasaki bomb , donald trump and etx",-0.4939,Negative,0.0,Neutral,0.2658584117889404,Neutral
-"era pra ter sido uma noite normal, num programa de auditório,  e então o Mundo conheceu Michael Jackson e o bilie Jean, a performance ficou gravada pra sempre e o Mundo nunca mais foi o mesmo,  salve o rei do Pop, o maior artista músical de todos os tempos .",0.6096,Positive,0.2875,Neutral,0.8642352819442749,Positive
+"era pra ter sido uma noite normal, num programa de auditório,  e então o Mundo conheceu Michael Jackson e o bilie Jean, a performance ficou gravada pra sempre e o Mundo nunca mais foi o mesmo,  salve o rei do Pop, o maior artista músical de todos os tempos .",0.6096,Positive,0.2875,Positive,0.8642352819442749,Positive
 He was the greatest pop star,0.6369,Positive,1.0,Positive,0.7315753698348999,Positive
 MJ is unique,0.0,Neutral,0.375,Positive,0.5172259211540222,Positive
 LEGEND!!!!!!!,0.0,Neutral,0.0,Neutral,0.7789031863212585,Positive
@@ -783,14 +783,14 @@ I watch this and I don't understand why people call Elvis the king?,0.0,Neutral,
 Beat that mj booom King of pop,0.0,Neutral,0.0,Neutral,0.6137805581092834,Positive
 :) 2022 (: 😤🙏,0.7351,Positive,0.5,Positive,0.3390876054763794,Positive
 Dam I didn’t know muzan could sing,0.0,Neutral,0.0,Neutral,-0.3606237471103668,Negative
-"LOL, so overrated. All that ridiculous spazzing around. And the man was a pedophile pervy the whole time.",0.2577,Positive,0.2222222222222222,Neutral,-0.768257200717926,Negative
+"LOL, so overrated. All that ridiculous spazzing around. And the man was a pedophile pervy the whole time.",0.2577,Positive,0.2222222222222222,Positive,-0.768257200717926,Negative
 go to 3:52 if you're here for the moonwalk :),0.4588,Positive,0.5,Positive,0.3268280327320099,Neutral
 Literal chills from that moonwalk in 2022❤🔥,0.4215,Positive,0.0,Neutral,-0.4378216564655304,Negative
 pink cheese green goes pooh toss,0.0,Neutral,-0.15,Negative,-0.3653604686260223,Negative
 The King of music forever and ever. God bless MICHAEL JACKSON.,0.5994,Positive,0.0,Neutral,0.9462562203407288,Positive
-"I was 13 watching this live on a black and white television with the whole family. It feels like it was yesterday, and all of the feelings of excitement I felt then, I still feel watching this today. The man had unbelievable energy everyone could feel at that exact moment across the globe!!!!!!",0.8679,Positive,0.1455618810172032,Neutral,0.7905048131942749,Positive
+"I was 13 watching this live on a black and white television with the whole family. It feels like it was yesterday, and all of the feelings of excitement I felt then, I still feel watching this today. The man had unbelievable energy everyone could feel at that exact moment across the globe!!!!!!",0.8679,Positive,0.1455618810172032,Positive,0.7905048131942749,Positive
 This is my all time best stage performance. Legend MJ ❤,0.8555,Positive,1.0,Positive,0.981857180595398,Positive
-This guy was magic. Once in ten generations.,0.0,Neutral,0.25,Neutral,0.8314602971076965,Positive
+This guy was magic. Once in ten generations.,0.0,Neutral,0.25,Positive,0.8314602971076965,Positive
 Black people are beautiful. Why did he want to look like someone else.,0.7717,Positive,0.3416666666666667,Positive,0.2551663517951965,Neutral
 He should have kept his face the way it was there.  He looked good.,0.4404,Positive,0.7,Positive,0.5190048813819885,Positive
 Imagine watching this without knowing what's about to happen,0.0,Neutral,0.0,Neutral,0.3316139280796051,Positive
@@ -818,8 +818,8 @@ The BruceLee Of Entertainment !!!,0.5684,Positive,0.0,Neutral,0.6999732255935669
 "oh man 
 
 😥",0.3291,Positive,0.0,Neutral,0.4291223287582397,Positive
-Later he said he was very pissed abt the fact he was not able to stand on his toes more than that,-0.6697,Negative,0.1125,Neutral,-0.4465763866901397,Negative
-"oh Michael que enorme talento, eras demasiado! siempre en el recuerdo",0.6588,Positive,0.325,Neutral,0.7111958265304565,Positive
+Later he said he was very pissed abt the fact he was not able to stand on his toes more than that,-0.6697,Negative,0.1125,Positive,-0.4465763866901397,Negative
+"oh Michael que enorme talento, eras demasiado! siempre en el recuerdo",0.6588,Positive,0.325,Positive,0.7111958265304565,Positive
 He liked kids..sleeping with kids not his own,0.4215,Positive,0.6,Positive,0.4486809074878692,Positive
 Never grewup,0.0,Neutral,0.0,Neutral,-0.5152435898780823,Negative
 So insecure.,-0.4754,Negative,-0.5,Negative,-0.5735735893249512,Negative

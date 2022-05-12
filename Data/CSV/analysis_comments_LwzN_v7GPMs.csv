@@ -1,15 +1,15 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-camera man did the epic job,0.0,Neutral,0.1,Neutral,0.6081210374832153,Positive
+camera man did the epic job,0.0,Neutral,0.1,Positive,0.6081210374832153,Positive
 I was like 😧 and they didn’t kiss 🤣🤣🤣,0.9022,Positive,0.0,Neutral,0.2216495722532272,Neutral
 "와 이거 사귀기 전인거면 .. 무대 끝나고 내려가면서 연애 바로 시작했을듯 
-텐션 오지네 .. ㅜㅜㅜㅜ 너무 예뻤다 정말",0.7661,Positive,0.2089285714285714,Neutral,-0.3652249574661255,Negative
+텐션 오지네 .. ㅜㅜㅜㅜ 너무 예뻤다 정말",0.7661,Positive,0.2089285714285714,Positive,-0.3652249574661255,Negative
 I miss these two. 😭❤,0.128,Positive,0.0,Neutral,-0.4023405313491821,Negative
 P,0.0,Neutral,0.0,Neutral,0.2397068440914154,Neutral
 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
 Adoro,0.6369,Positive,0.5,Positive,0.6692384481430054,Positive
 💖💖💖💖💖💖💖💖,0.994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 So sad the split,-0.5256,Negative,-0.5,Negative,-0.3919766545295715,Negative
-Its feels like wow 🤭♥️,0.9287,Positive,0.1,Neutral,0.7006195783615112,Positive
+Its feels like wow 🤭♥️,0.9287,Positive,0.1,Positive,0.7006195783615112,Positive
 Is that the same dress from the video?,0.0,Neutral,0.0,Neutral,-0.3589914739131927,Negative
 2:08 - 2:13 heavenly voices 😩,0.4404,Positive,0.0,Neutral,0.3594374060630798,Positive
 Camila Cabello has one of the best vocals on earth. She is so talented.,0.857,Positive,0.85,Positive,0.8920720815658569,Positive
@@ -38,7 +38,7 @@ on sent la tension entre les deux,-0.3182,Negative,0.0,Neutral,0.394407749176025
 Prêmio musica TV essa música sebiha,0.5423,Positive,0.0,Neutral,-0.3473575115203857,Negative
 Essa música lá,0.0,Neutral,0.0,Neutral,0.4067010879516601,Positive
 back here cuz you know 🤧🤧,0.0,Neutral,0.0,Neutral,0.3916060030460357,Positive
-I really ship Shamila 💖,0.7693,Positive,0.2,Neutral,0.4782705903053283,Positive
+I really ship Shamila 💖,0.7693,Positive,0.2,Positive,0.4782705903053283,Positive
 I have a body like her but I am tall🙄❤️,0.1901,Positive,0.0,Neutral,0.3492403030395508,Positive
 Omg !!! So cute I love them together 🥰😍💓💗💖❣💘💝,0.9958,Positive,0.5,Positive,0.8177250027656555,Positive
 his arms oh lalala!,0.0,Neutral,0.0,Neutral,0.4488967061042785,Positive
@@ -49,7 +49,7 @@ Her voice is more sweeter then ariana or lana,0.0,Neutral,0.5,Positive,0.3612954
 ☺️☺️☺️👏🏻👏🏻👏🏻,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ele desafinando no oh la la la,-0.296,Negative,0.0,Neutral,-0.6564790606498718,Negative
 The stage setting is so beautiful!! Love this!!,0.9125,Positive,0.890625,Positive,0.9279937744140624,Positive
-I love that his voice wavers ever so slightly when she touches him-,0.6369,Positive,0.1666666666666666,Neutral,0.5397360324859619,Positive
+I love that his voice wavers ever so slightly when she touches him-,0.6369,Positive,0.1666666666666666,Positive,0.5397360324859619,Positive
 *screams in Shawmila*,-0.296,Negative,0.0,Neutral,-0.2825424075126648,Negative
 This is the best video performance for this song.,0.6369,Positive,1.0,Positive,0.8189367055892944,Positive
 Gorgeous 😍,0.7906,Positive,0.7,Positive,0.8410676121711731,Positive
@@ -68,7 +68,7 @@ Nini,0.0,Neutral,0.0,Neutral,0.2627496421337127,Neutral
 💕💗💖❤🧡💚💛💙💜🤎🖤🤍🧏‍♀️🧏👫,0.9903,Positive,0.0,Neutral,0.3085779249668121,Neutral
 my heart is breaked you know🙃😭,0.2732,Positive,0.0,Neutral,-0.4970101714134216,Negative
 in every romantic situation this song play in mind,0.6249,Positive,0.0,Neutral,0.548009991645813,Positive
-first second voice crack vamosssss😂😂,0.7003,Positive,0.125,Neutral,-0.5876762270927429,Negative
+first second voice crack vamosssss😂😂,0.7003,Positive,0.125,Positive,-0.5876762270927429,Negative
 i love it when u call me seniorita I wish pretend i didn't Need Ya Every touch is oh lalala oh i should be runnin oh u keep. e coming for ya did i make it :),0.8591,Positive,0.5,Positive,0.6231789588928223,Positive
 "I""t is my birhday",0.0,Neutral,0.0,Neutral,-0.2673296630382538,Negative
 Im Sad bro,-0.4767,Negative,-0.5,Negative,-0.373067557811737,Negative
@@ -78,13 +78,13 @@ So good 💚,0.8251,Positive,0.7,Positive,0.6231406331062317,Positive
 Love this ❤️ song ❤️😍,0.802,Positive,0.5,Positive,0.8400954604148865,Positive
 I'm soo sad cuz they break they were   my favourite couple and the only couple make me believe in love,0.204,Positive,0.0,Neutral,-0.3424734473228454,Negative
 Someone get me a man like Shawn Mendes!!!! And for a girl like Camila I'm ready to become a lesbian. Their chemistry is just off the hoooooks. I know they're broken up and all but you can't deny there's chemistry there,0.7115,Positive,-0.1,Negative,-0.2221941500902176,Negative
-남자 목소리  섹시,0.5267,Positive,0.25,Neutral,0.2514972984790802,Neutral
+남자 목소리  섹시,0.5267,Positive,0.25,Positive,0.2514972984790802,Neutral
 This song 🖤😍,0.802,Positive,0.0,Neutral,0.5062264204025269,Positive
 Please dont tell me they broke up 😭😭😭,-0.8689,Negative,0.0,Neutral,-0.5867937207221985,Negative
 Im your biggest fan,0.3182,Positive,0.0,Neutral,0.8292849063873291,Positive
 😘😘😘😘👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩💖💖🌹🌹🌹🌹,0.984,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2:03,0.0,Neutral,0.0,Neutral,-0.2603120803833008,Negative
-Camila never shy but Shawn look tremble but he can control his way,-0.3138,Negative,0.25,Neutral,0.4296850860118866,Positive
+Camila never shy but Shawn look tremble but he can control his way,-0.3138,Negative,0.25,Positive,0.4296850860118866,Positive
 My guess is that Vanilla Ice Cream 🍦 (Camila Cabello) Cookie Dough 🍪 (Shawn Mendes) for The Masked Singer Season 7 as the Wildcard?👍,0.0,Neutral,0.0,Neutral,0.3110020756721496,Neutral
 I’m looking some comments after that latest news,0.0,Neutral,0.5,Positive,0.2977971732616424,Neutral
 "SENIORITA   I  LOVE  ❤  IT  WHEN  YUO  CALL  ME   DARLING    DAY  BY  DAY 
@@ -104,7 +104,7 @@ Sad that they broke up😔,-0.6808,Negative,-0.5,Negative,-0.4066726863384247,Ne
 🙂🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝💝,0.9999,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I just love that little nose love bump at the end. So adorable. So sad they split. They were such an adorable couple. I was really rooting for them.
 
-But they sped up the tempo for this performance, which just takes away from a lot of the sensuality of the song.",0.7234,Positive,0.1890625,Neutral,0.3586923778057098,Positive
+But they sped up the tempo for this performance, which just takes away from a lot of the sensuality of the song.",0.7234,Positive,0.1890625,Positive,0.3586923778057098,Positive
 How many people's are there after there breakup,0.0,Neutral,0.5,Positive,-0.334836483001709,Negative
 100!,0.0,Neutral,0.0,Neutral,0.8087823390960693,Positive
 500  👍👌👌👌👌👌👏🤳👨‍🎨👩‍🎨🤴👸🕵️‍♂️🕵️‍♀️👮‍♂️👮‍♀️,0.9829,Positive,0.0,Neutral,0.3036138117313385,Neutral
@@ -146,23 +146,23 @@ So nice good job💯👍
 2022 let's see how many people are there still listening",0.9211,Positive,0.5,Positive,0.5769400596618652,Positive
 olhando assim... parecia que ia ser pra sempre ://,0.6124,Positive,0.0,Neutral,-0.2881096601486206,Negative
 Who is here after hearing they cut !?,-0.3382,Negative,0.0,Neutral,-0.3717686235904693,Negative
-wow..... steam rising up off the stage!!!!,0.7156,Positive,0.244140625,Neutral,-0.4165607988834381,Negative
-I really getting emotional watching this that they broke up 🥺🥺,-0.2315,Negative,0.1,Neutral,0.3691231310367584,Positive
-omg his nervous hahaha his voice shaking some part but still the bomb🤩🥳,0.9246,Positive,0.2,Neutral,0.5470302700996399,Positive
+wow..... steam rising up off the stage!!!!,0.7156,Positive,0.244140625,Positive,-0.4165607988834381,Negative
+I really getting emotional watching this that they broke up 🥺🥺,-0.2315,Negative,0.1,Positive,0.3691231310367584,Positive
+omg his nervous hahaha his voice shaking some part but still the bomb🤩🥳,0.9246,Positive,0.2,Positive,0.5470302700996399,Positive
 I bet she was thinking you need a breath mint!!! You Stink!!!!!,-0.5951,Negative,0.0,Neutral,-0.4938382506370544,Negative
 This song will never be the same 😭😭😭,-0.8519,Negative,0.0,Neutral,-0.5166784524917603,Negative
 Amazing 💓😍 and you are so beautiful and amazing 💓,0.9664,Positive,0.6833333333333335,Positive,0.9538748264312744,Positive
-Shawn iyi ki ayrıldın,0.4588,Positive,0.25,Neutral,0.3105295896530151,Neutral
+Shawn iyi ki ayrıldın,0.4588,Positive,0.25,Positive,0.3105295896530151,Neutral
 I always wonder how the camera man felt being the third wheel.,0.0,Neutral,0.0,Neutral,0.2810676097869873,Neutral
 "Their break up proves no matter how strong love could be as an emotion, it'll only succeed if the people involved will be strong enough. Shawmila was everything a love story could be, and their breakup made 2021 even more sad. We'll love you forever <3",0.9723,Positive,0.3333333333333333,Positive,0.3600900173187256,Positive
 I can't believe it yet,0.0,Neutral,0.0,Neutral,-0.2615843117237091,Negative
 This did not age well....,-0.2057,Negative,0.0,Neutral,-0.4426623880863189,Negative
-This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️💕,0.91,Positive,0.1527777777777778,Neutral,0.7564324736595154,Positive
+This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️💕,0.91,Positive,0.1527777777777778,Positive,0.7564324736595154,Positive
 Broke up 😢,-0.7096,Negative,0.0,Neutral,-0.6026886105537415,Negative
 Shawn,0.0,Neutral,0.0,Neutral,0.2739136219024658,Neutral
 "Click bait
 https://youtu.be/PsK-2BFDL6c",0.0,Neutral,0.0,Neutral,0.2308418005704879,Neutral
-Lepas tgok tiktok .. lirik siti nurhaliza ngn khadijah hahaha,0.5574,Positive,0.2,Neutral,-0.2786289155483246,Negative
+Lepas tgok tiktok .. lirik siti nurhaliza ngn khadijah hahaha,0.5574,Positive,0.2,Positive,-0.2786289155483246,Negative
 You guys make nice capal,0.4215,Positive,0.6,Positive,0.390772670507431,Positive
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 bro i just realised they did the same thing in   ama’s as well . literally the beginning and ending,0.2732,Positive,0.0,Neutral,0.3294370770454407,Neutral
@@ -182,15 +182,15 @@ I can't believe they break up 💔,0.2732,Positive,0.0,Neutral,-0.29198545217514
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Shaun you do realise you have lost your soul mate😞,-0.6597,Negative,0.0,Neutral,0.4977791309356689,Positive
 Who is here after their break up?,0.0,Neutral,0.0,Neutral,0.2225422859191894,Neutral
-Camila in the back acting like they r a real REAL couple,0.3612,Positive,0.1,Neutral,0.4059507250785827,Positive
-Wow!  they need to get married,0.6239,Positive,0.1875,Neutral,0.6831860542297363,Positive
+Camila in the back acting like they r a real REAL couple,0.3612,Positive,0.1,Positive,0.4059507250785827,Positive
+Wow!  they need to get married,0.6239,Positive,0.1875,Positive,0.6831860542297363,Positive
 "this song sucks. shawn, come out of the closet!",-0.4199,Negative,-0.375,Negative,-0.8787010312080383,Negative
 Hndhebfhrhczs  d,0.0,Neutral,0.0,Neutral,-0.2906105816364288,Negative
 Это так красиво❤️🌹,0.6361,Positive,0.0,Neutral,0.4251420497894287,Positive
 So whos here after the break up✋,0.4939,Positive,0.0,Neutral,0.2572383880615234,Neutral
 Will they ever perform this song together again ?,0.0,Neutral,0.0,Neutral,0.4899782538414001,Positive
-Damn they are sooooo sweet when they sing this song live~~~,0.0772,Positive,0.2431818181818181,Neutral,0.3656984567642212,Positive
-OK BASTA USTEDES TIENEN QUE ESTAR JUNTOS 😭😭😭😭,-0.8579,Negative,0.25,Neutral,0.3743159770965576,Positive
+Damn they are sooooo sweet when they sing this song live~~~,0.0772,Positive,0.2431818181818181,Positive,0.3656984567642212,Positive
+OK BASTA USTEDES TIENEN QUE ESTAR JUNTOS 😭😭😭😭,-0.8579,Negative,0.25,Positive,0.3743159770965576,Positive
 "They never kiss, lol, don't want to give the crowd what they want, or they were saving that for afterward!",-0.5964,Negative,1.0,Positive,-0.4527693092823028,Negative
 OMG OMGGGG,0.0,Neutral,0.0,Neutral,-0.2919752597808838,Negative
 🥰🥰😍😍,0.9666,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -425,20 +425,20 @@ For ya (oh, she loves it when I call)
 For ya
 
 Ooh, I should be running
-Ooh, you keep me coming for ya",0.9987,Positive,0.2738095238095238,Neutral,0.4173183441162109,Positive
+Ooh, you keep me coming for ya",0.9987,Positive,0.2738095238095238,Positive,0.4173183441162109,Positive
 I never tied to see this video🤧💘,0.6369,Positive,0.0,Neutral,-0.4241380393505096,Negative
 Thank to the cameraman I got to experience the concert better than the audience.,0.6597,Positive,0.5,Positive,0.5281080603599548,Positive
 Lastima que se separaron porque hacían bonita pareja,-0.1779,Negative,-0.0499999999999999,Negative,-0.3267395496368408,Negative
 They broke up😭😭😭,-0.9022,Negative,0.0,Neutral,-0.6523679494857788,Negative
 They would be sooo cute,0.4588,Positive,0.5,Positive,0.501075029373169,Positive
 And they broke up 💔 😭,-0.5859,Negative,0.0,Neutral,-0.4467193782329559,Negative
-Selena Gomes música legal ropa,0.128,Positive,0.2,Neutral,0.2740014791488647,Neutral
+Selena Gomes música legal ropa,0.128,Positive,0.2,Positive,0.2740014791488647,Neutral
 Parese aqui asilegau,-0.296,Negative,0.0,Neutral,0.2884415090084076,Neutral
 Vestir 👗,0.0,Neutral,0.0,Neutral,0.3638482391834259,Positive
 Amei 💕💕 amar 💝 amanhã café,0.9716,Positive,0.6,Positive,0.3849983811378479,Positive
 I LOVE THIS SONG BUT THE VIDOE IS SO CUTE I LOVE THIS SONG!!!!!,0.9536,Positive,0.6666666666666666,Positive,0.5510594248771667,Positive
 They sing I want to have a boyfriend like Shawn Mendes😭😭💔,-0.3182,Negative,0.0,Neutral,0.3503389954566955,Positive
-This song gives me pain now. It's not anymore love song. It's more like sad song now. My heart is heavy. crying :'',-0.7314,Negative,0.0199999999999999,Neutral,-0.4387721717357635,Negative
+This song gives me pain now. It's not anymore love song. It's more like sad song now. My heart is heavy. crying :'',-0.7314,Negative,0.0199999999999999,Positive,-0.4387721717357635,Negative
 Happy 2B Spotify streams yeee🥰,0.9001,Positive,0.8,Positive,0.5822773575782776,Positive
 Não acredito que acabou 😿,-0.4767,Negative,0.0,Neutral,-0.3687067627906799,Negative
 I wish I was there,0.4019,Positive,0.0,Neutral,0.2627662122249603,Neutral
@@ -452,13 +452,13 @@ This song is for true lovers....not cheaters,-0.0258,Neutral,0.35,Positive,0.592
 Gorgesxxx,0.0,Neutral,0.0,Neutral,0.5197932720184326,Positive
 "Here after their breakup, I honestly don’t know what love is anymore.",0.802,Positive,0.55,Positive,0.2508324086666107,Neutral
 🥺🥺🥺🥺🥺😭😭😭😭😭😭,-0.9559,Negative,0.0,Neutral,0.3085779249668121,Neutral
-I want them back 😭😭😭 I really miss them 😢😢😢💔😭😢💔,-0.97,Negative,0.1,Neutral,-0.3416472673416137,Negative
+I want them back 😭😭😭 I really miss them 😢😢😢💔😭😢💔,-0.97,Negative,0.1,Positive,-0.3416472673416137,Negative
 their chemistry is their autotune,0.0,Neutral,0.0,Neutral,0.3882973194122314,Positive
 Who is here after they broke up?,-0.4215,Negative,0.0,Neutral,-0.2824974358081817,Negative
 *crying*,-0.4767,Negative,-0.2,Negative,-0.2805259227752685,Negative
-espero tanto que voltem 😭😭😭,-0.7506,Negative,0.1,Neutral,0.4327181875705719,Positive
+espero tanto que voltem 😭😭😭,-0.7506,Negative,0.1,Positive,0.4327181875705719,Positive
 😭😭😭😭😭😭😭😭 THEY ARE PERFECT,-0.9605,Negative,1.0,Positive,0.8280522227287292,Positive
-So much drama to break up so soon. 😣,0.0,Neutral,0.2,Neutral,-0.2587819397449493,Negative
+So much drama to break up so soon. 😣,0.0,Neutral,0.2,Positive,-0.2587819397449493,Negative
 "Quedara este lindo recuerdo del amor que se tenian que lindo, ahora que se separaron como sera ver este video. Quedara siempre en el corazon 😍",0.9764,Positive,0.7333333333333334,Positive,0.6131402850151062,Positive
 3:13,0.0,Neutral,0.0,Neutral,0.3628086149692535,Positive
 Algun manual para superar una ruptura ajena?,0.0,Neutral,0.0,Neutral,0.3818333446979522,Positive
@@ -601,7 +601,7 @@ Se me hace que yo les eche la sal para que terminarán porque hace unos días so
 Porque se veían tan bonitos juntos,0.5949,Positive,0.5,Positive,0.5515076518058777,Positive
 💕🥺,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 But now it's over😭😭😭,-0.9253,Negative,0.0,Neutral,0.4171550273895263,Positive
-Stop this is the most romantic thing ever 😭,-0.3197,Negative,0.25,Neutral,-0.5763269066810608,Negative
+Stop this is the most romantic thing ever 😭,-0.3197,Negative,0.25,Positive,-0.5763269066810608,Negative
 Gente é sério que eles terminaram???,-0.5632,Negative,-0.3333333333333333,Negative,-0.5329368114471436,Negative
 Who’s here after their breakup?😭,-0.4767,Negative,0.0,Neutral,-0.2444495856761932,Negative
 Deymmm i can't believe they broke up 😭😭💔,-0.4153,Negative,0.0,Neutral,-0.4643122553825378,Negative
@@ -622,7 +622,7 @@ Who is here after the break-up?💔💔,0.4939,Positive,0.0,Neutral,-0.269878089
 And now they are no longer together...,-0.296,Negative,0.0,Neutral,-0.3706685900688171,Negative
 Who is here after their breakup.... So heartbreaking 💔💔💔💔,0.3651,Positive,0.0,Neutral,0.6955609321594238,Positive
 Here we are feeling hurt  after hearing they broke up….,-0.6908,Negative,0.0,Neutral,-0.3502219319343567,Negative
-Who are here after the unexpected incident??😭😭😭,-0.8645,Negative,0.1,Neutral,-0.288887470960617,Negative
+Who are here after the unexpected incident??😭😭😭,-0.8645,Negative,0.1,Positive,-0.288887470960617,Negative
 Hurts the most. Now they broke up!,-0.7547,Negative,0.625,Positive,-0.4737982153892517,Negative
 Who is here after the breakup?,0.0,Neutral,0.0,Neutral,-0.2823864817619324,Negative
 When the perfect couple are no more a couple 🥺🤌,0.3612,Positive,0.375,Positive,0.4561451971530914,Positive
@@ -642,12 +642,12 @@ Who's watching this after their breakup?,0.0,Neutral,0.0,Neutral,-0.225255072116
 Why they broke up 😭,-0.7096,Negative,0.0,Neutral,-0.3961226940155029,Negative
 They'll be together soon. I hopeeee I miss them I can'ttttt 😩,0.0552,Positive,0.0,Neutral,0.4225949645042419,Positive
 "They broke up, and i'm here wondering what went wrong cuz they look so inloveee:(",-0.7096,Negative,-0.625,Negative,-0.4692226052284241,Negative
-"Just found out they broke up 😢, this song is gonna feel different to me now. Hopefully they both find happiness in the end even if it’s not with each other. 💜",0.6808,Positive,0.1916666666666666,Neutral,0.3706275820732116,Positive
+"Just found out they broke up 😢, this song is gonna feel different to me now. Hopefully they both find happiness in the end even if it’s not with each other. 💜",0.6808,Positive,0.1916666666666666,Positive,0.3706275820732116,Positive
 Why....💔💔💔,0.6486,Positive,0.0,Neutral,-0.3731527030467987,Negative
 Back to watch this now after read that they annouced break up,0.0,Neutral,0.0,Neutral,0.2577641904354095,Neutral
 Yo viéndolo después de que terminaron🥲🥲🥲🥲,0.0,Neutral,0.0,Neutral,0.2373095005750656,Neutral
 💔🥲,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
-Ok I wasn’t the only one waiting for them to kiss???,0.6747,Positive,0.25,Neutral,0.6597062945365906,Positive
+Ok I wasn’t the only one waiting for them to kiss???,0.6747,Positive,0.25,Positive,0.6597062945365906,Positive
 "Goddamit 💔
 They'll always have this to look back on, if they want.",0.34,Positive,0.0,Neutral,0.4701397120952606,Positive
 i just can't,0.0,Neutral,0.0,Neutral,-0.4238950610160827,Negative
@@ -663,14 +663,14 @@ they just broke up,-0.4215,Negative,0.0,Neutral,-0.4331451058387756,Negative
 Yo acá para llorar,-0.4767,Negative,0.0,Neutral,0.3562234938144684,Positive
 They broke up!,-0.4753,Negative,0.0,Neutral,-0.5569595694541931,Negative
 THEY SHOULD'VE KISS !!! 😭😭😭,-0.7679,Negative,0.0,Neutral,-0.3195123672485351,Negative
-"They broke up 🤧❤️, but they still good friends  it’s ok, pls don’t make them feel uncomfortable",0.7684,Positive,0.2333333333333333,Neutral,0.66066974401474,Positive
+"They broke up 🤧❤️, but they still good friends  it’s ok, pls don’t make them feel uncomfortable",0.7684,Positive,0.2333333333333333,Positive,0.66066974401474,Positive
 BEST DUO🔥🔥🔥,-0.0688,Negative,1.0,Positive,0.7168212532997131,Positive
 It feels even better when you know they are real life couple. I love them so much 😩,0.6929,Positive,0.35,Positive,0.8064640760421753,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 Hello and you happy,0.5719,Positive,0.8,Positive,0.7118887305259705,Positive
 😭😭❤️,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Damn ❤️❤️❤️❤️,-0.4019,Negative,0.0,Neutral,0.2940843105316162,Neutral
-I have never felt more third wheeled through a video than this video made me feel 😭😭,-0.7351,Negative,0.25,Neutral,0.4156961143016815,Positive
+I have never felt more third wheeled through a video than this video made me feel 😭😭,-0.7351,Negative,0.25,Positive,0.4156961143016815,Positive
 SHawn omg kkk.,0.0,Neutral,0.0,Neutral,0.2311542183160781,Neutral
 Keren👏👏👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Arent there like 3 other of these,-0.2755,Negative,-0.125,Negative,0.2387725263833999,Neutral
@@ -684,7 +684,7 @@ Oh ! So cute,0.632,Positive,0.5,Positive,0.517324686050415,Positive
 Ayam shoooo in LOVE!!😫🤍,0.5599,Positive,0.78125,Positive,0.6883252859115601,Positive
 "AWWW OMG THEY""RE SOO CUTE TOGETHER!!! :D",0.8007,Positive,0.7921874999999999,Positive,0.2572003901004791,Neutral
 """My song comes on on the radio or something and I'm like everything's about you. They've always been about you. She goes 'What do you mean?' I'm like 'They're all about you, like every song I've ever wrote."" ~ Shawn Mendes",0.7579,Positive,-0.3125,Negative,0.5419157147407532,Positive
-"yes, camera man ... so much chemistry , Cam guy got all.",0.4019,Positive,0.2,Neutral,0.4368106722831726,Positive
+"yes, camera man ... so much chemistry , Cam guy got all.",0.4019,Positive,0.2,Positive,0.4368106722831726,Positive
 2:08 their hearts were racing here,0.6486,Positive,0.0,Neutral,0.3377271592617035,Positive
 They really look good with each other great chemistry,0.8062,Positive,0.39375,Positive,0.6006283164024353,Positive
 She had him in the palm of her hand. Just sayin'.😉,0.4939,Positive,0.0,Neutral,-0.2992127239704132,Negative
@@ -695,15 +695,15 @@ I remember feeling just like that....real love,0.802,Positive,0.5,Positive,0.718
 💗💗💗💗
 💗💗💗💗💗
 💗💗💗💗💗💗
-💗💗💗💗💗💗💗واو😊👉🏻👈🏻",0.9994,Positive,0.1,Neutral,0.4325521290302276,Positive
+💗💗💗💗💗💗💗واو😊👉🏻👈🏻",0.9994,Positive,0.1,Positive,0.4325521290302276,Positive
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Hunmmmm the last and only kiss was like sister and brother nothing about nice kiss that should be espontáneo showing love 🤔,0.7037,Positive,0.275,Neutral,-0.3441154360771179,Negative
+Hunmmmm the last and only kiss was like sister and brother nothing about nice kiss that should be espontáneo showing love 🤔,0.7037,Positive,0.275,Positive,-0.3441154360771179,Negative
 MY GHAAAAD!!!!! THEY'RE MELTING ME TO DEATH FOR GOD'S SAKE!!!!!!!!!,-0.7243,Negative,0.0,Neutral,-0.5699635148048401,Negative
 Tequila sunrise,0.0,Neutral,0.0,Neutral,0.3547289669513702,Positive
 Shawn is a walking W,0.0,Neutral,0.0,Neutral,0.2966550290584564,Neutral
 have u ever thought about how if they get married she will be Camila Mendes and there is already a Camila Mendes so like now what lol she will probably keep Cabello tho,0.722,Positive,0.525,Positive,0.2607445120811462,Neutral
 divine,0.5574,Positive,0.0,Neutral,0.6419937014579773,Positive
-don't fall in love with a selfish person who dupes you only. he/she (mostly men) can take your breathes in sudden. i just read now on 30 oct. 2020 in newspaper that one male lover killed his lover in order to get rid off her after 2 years-old relationship. This accident took place in southern RAJASTHAN(INDIA) AT district 'CHITTORGAD' on 25 Oct. 2021 in night somewhere.,-0.7902,Negative,0.0375,Neutral,-0.3818134367465973,Negative
+don't fall in love with a selfish person who dupes you only. he/she (mostly men) can take your breathes in sudden. i just read now on 30 oct. 2020 in newspaper that one male lover killed his lover in order to get rid off her after 2 years-old relationship. This accident took place in southern RAJASTHAN(INDIA) AT district 'CHITTORGAD' on 25 Oct. 2021 in night somewhere.,-0.7902,Negative,0.0375,Positive,-0.3818134367465973,Negative
 Awesome performance Shawn Mendes I new subscriber,0.6249,Positive,0.5681818181818181,Positive,0.8081985712051392,Positive
 He's are so nervious,-0.4101,Negative,0.0,Neutral,-0.374988704919815,Negative
 I really love this performance and their eyes were filled full of love!,0.8746,Positive,0.46875,Positive,0.9297162294387816,Positive
@@ -713,7 +713,7 @@ They would make cute kids lol,0.7003,Positive,0.65,Positive,0.3832676410675049,P
 I watched it more than 10 times,0.0,Neutral,0.5,Positive,0.2815775275230407,Neutral
 Yayy the crowd says.....,0.0,Neutral,0.0,Neutral,-0.4204550087451935,Negative
 It’s like no one else in the world exists when they look at each other.. ooooh la la,0.0772,Positive,-0.125,Negative,0.3936690986156463,Positive
-Ты лучший. Но без нее. Извини,0.4466,Positive,0.25,Neutral,0.3599182665348053,Positive
+Ты лучший. Но без нее. Извини,0.4466,Positive,0.25,Positive,0.3599182665348053,Positive
 Toppppp ameiiiiii,0.0,Neutral,0.0,Neutral,0.7882369756698608,Positive
 Imagine their parents watching this,0.0,Neutral,0.0,Neutral,0.4420807659626007,Positive
 I'm not a camillizer anymore but I still comeback to this performance once in a while to remind myself of how talanted her and Shawn were instead of regretting the years I stanned her,-0.5499,Negative,0.0,Neutral,0.3925065696239471,Positive
@@ -736,7 +736,7 @@ Camila cabello sedutora 😍♥️,0.802,Positive,0.0,Neutral,0.2461259961128235
 The most beautiful and alluring stage concept I have seen till now like so so so mesmerizing it feels like Shawn and Camila are giving a performance between the stars.Plus the camera and the ideas are 💥🪄Hats off👏,0.8908,Positive,0.55,Positive,0.8472656607627869,Positive
 "Juuyuihnhhiskdjxnsndmjjjjjjjuiekdjdjdkdkdjsjdjxjxjxjxkxxlklxijdkdkdidkreiueepdikemdmsskkekkhjiiuhhhhnjnnjjh hi jzjxdjdjdkfkjffifkdipzjjjirijrjrjridiisksskdkkdksksksksksidkdslzlzhrshhehijhhehenjsdjdjjdsjsKjjkrbldz
 Xnzbbbjuyh nzjxnnznNJJJNNEDJDKDKDKDKDKODODDODOOIIHHGJDJJDD",0.0,Neutral,0.0,Neutral,-0.2632302939891815,Negative
-I hope their relationship stays forever young 🤩🤩😍,0.7096,Positive,0.1,Neutral,0.4313928484916687,Positive
+I hope their relationship stays forever young 🤩🤩😍,0.7096,Positive,0.1,Positive,0.4313928484916687,Positive
 The nose touching is sooooooooooooooooooooooooooooo cute 🥰 🥰🥰🥰🥰🥰🥰🥰🥰,0.997,Positive,0.5,Positive,0.3513670563697815,Positive
 Imagine if there were no strings attached and that all this was just for show....,-0.296,Negative,0.0,Neutral,-0.254897803068161,Negative
 Now too my fav song,0.4588,Positive,0.0,Neutral,0.5011545419692993,Positive
@@ -745,7 +745,7 @@ Onde foi esse show. Tá lindo demais,0.5994,Positive,0.85,Positive,-0.2932300567
 They are so cute💕 The nose rub at the end🥺✋💗💗❤❤❤,0.9891,Positive,0.0,Neutral,0.3573970794677734,Positive
 Couldn’t more beautiful than this 😍😍😍😍😍😍😍😍😍😍😍😍😍,0.9913,Positive,0.675,Positive,-0.2782297134399414,Negative
 "I remember the background of "" I see the light"" from TANGLED💖💖💖",0.9595,Positive,0.4,Positive,0.3169457912445068,Neutral
-Soooo romantic but soooo decent.. i just love both of them. May god bless them with lot's of love.. frm INDIA ❤️,0.9674,Positive,0.2916666666666666,Neutral,0.4940139651298523,Positive
+Soooo romantic but soooo decent.. i just love both of them. May god bless them with lot's of love.. frm INDIA ❤️,0.9674,Positive,0.2916666666666666,Positive,0.4940139651298523,Positive
 Omg!!! I watch this video 900000 times. Shawn Mendes is my favorite singer and Camila Cabello is the best latin-american singer in the all word,0.8433,Positive,0.75,Positive,0.8146820068359375,Positive
 La mejor interpretación q jamas he visto. Precioso....un espectáculo diez. Un juego entre ser dulce...sexy...deseo y las mejores voces q jamas he oido.,0.9231,Positive,0.49,Positive,0.9770737290382384,Positive
 Prachtig😍,0.7845,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -1036,38 +1036,38 @@ Lançamentos
 Shawn Mendes, Beyoncé, Ed Sheeran, Justin Bieber e mais...
 
 Natal
-Shawn Mendes, Justin Bieber, Coldplay, Imagine Dragons e mais...",0.9996,Positive,0.2603623839472896,Neutral,0.3004260659217834,Neutral
+Shawn Mendes, Justin Bieber, Coldplay, Imagine Dragons e mais...",0.9996,Positive,0.2603623839472896,Positive,0.3004260659217834,Neutral
 The height diiffrence is just the cutest thing ever,0.5859,Positive,0.0,Neutral,0.7299191951751709,Positive
 She's gonna be heartbroken when she finds out he likes dick.,-0.7003,Negative,0.0,Neutral,0.4204665422439575,Positive
 "camila voice always sound good when she sing live, shawn also, cant wait to meet them again  😍👍💥",0.5267,Positive,0.4121212121212121,Positive,0.501453697681427,Positive
 That was seriously the sexiest live performance I've ever seen. Wow!,0.5255,Positive,-0.0239898989898989,Negative,-0.6693266034126282,Negative
 Me dejaron con la boca abierta 😁,0.4588,Positive,0.0,Neutral,-0.5467405915260315,Negative
 In,0.0,Neutral,0.0,Neutral,0.3024154007434845,Neutral
-This is just hot too,0.0,Neutral,0.25,Neutral,-0.3667927980422973,Negative
+This is just hot too,0.0,Neutral,0.25,Positive,-0.3667927980422973,Negative
 1:30 1:32 1:40  you can see Shawn having  a literal heart attack,0.2732,Positive,0.0,Neutral,-0.4938458502292633,Negative
-shawn is hot i cant even.    😫,0.3412,Positive,0.25,Neutral,0.4515318274497986,Positive
+shawn is hot i cant even.    😫,0.3412,Positive,0.25,Positive,0.4515318274497986,Positive
 Ivde kanum any mallus😌,0.3818,Positive,0.0,Neutral,0.4037258923053741,Positive
 미쳤다!!!,-0.5067,Negative,-1.0,Negative,-0.606951117515564,Negative
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ı've been waiting them to kiss since the show started.,0.4215,Positive,0.0,Neutral,0.3026913702487945,Neutral
-Estos 2 son capaces de derretir el polo Norte con esta canción 🔥🔥🔥🔥🔥,-0.8126,Negative,0.2,Neutral,0.5117301344871521,Positive
+Estos 2 son capaces de derretir el polo Norte con esta canción 🔥🔥🔥🔥🔥,-0.8126,Negative,0.2,Positive,0.5117301344871521,Positive
 Muito bom o dueto.,0.4927,Positive,0.91,Positive,0.5674265027046204,Positive
 Dios bendiga este amor,0.8442,Positive,0.5,Positive,0.6797320246696472,Positive
 Can we talk about the dress? It looked like they stuck a diaper underneath the sheer layer,0.128,Positive,0.0,Neutral,-0.3834156692028045,Negative
 Holi,0.0,Neutral,0.0,Neutral,0.2595575153827667,Neutral
-They both are dating each other it makes their performance more realistic I love this song nice work,0.8055,Positive,0.3283333333333333,Neutral,0.52608323097229,Positive
+They both are dating each other it makes their performance more realistic I love this song nice work,0.8055,Positive,0.3283333333333333,Positive,0.52608323097229,Positive
 It is so cut!!!!!!!,-0.6006,Negative,0.0,Neutral,-0.3550218641757965,Negative
-Love it. Absolutely love it. Their songs are about each other duhhh,0.8655,Positive,0.09375,Neutral,0.9057002067565918,Positive
+Love it. Absolutely love it. Their songs are about each other duhhh,0.8655,Positive,0.09375,Positive,0.9057002067565918,Positive
 They both are soo Adorable 😭❤️🇮🇳🇮🇳,0.1907,Positive,0.5,Positive,0.6636719703674316,Positive
 Muy romantico,0.4576,Positive,0.0,Neutral,0.5064561367034912,Positive
 Oooo romatico 😉,0.0,Neutral,0.0,Neutral,-0.2602335512638092,Negative
 That was so goddd,0.0,Neutral,0.0,Neutral,-0.3812657594680786,Negative
-t's crazy how many people come back to this everyday. This song is legendary,-0.34,Negative,0.1399999999999999,Neutral,0.8583614230155945,Positive
+t's crazy how many people come back to this everyday. This song is legendary,-0.34,Negative,0.1399999999999999,Positive,0.8583614230155945,Positive
 this performance always calls me single in 100 different ways every time I watch it ngl,0.0,Neutral,-0.0357142857142857,Negative,0.79691481590271,Positive
 This is the most sexiest song I have ever heard.her look is so seductive love it,0.6682,Positive,0.5,Positive,0.8561795949935913,Positive
 "The lights at the background, the  chemistry between them, the way they enjoying it  😍❤️",0.7506,Positive,0.5,Positive,0.482042908668518,Positive
 😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
-That is like really being in public for 2 people in love. Amazing performance.,0.8885,Positive,0.325,Neutral,0.7432517409324646,Positive
+That is like really being in public for 2 people in love. Amazing performance.,0.8885,Positive,0.325,Positive,0.7432517409324646,Positive
 ประกาศิต​แสง​ทอง​เนื้อ​ดินเผา​เ​รามัน​จน​คน​ไม่​จำต้อง​โดน​กระทำ​ย้ำ​ยี​หัวใจ​ใคร​ก็ใด้​ช่วย​กอด​ฉ​ั​นที​,0.0258,Neutral,0.35,Positive,0.3085779249668121,Neutral
 the way camila looks at him... i love that look 🥲💜,0.8555,Positive,0.5,Positive,0.7095363140106201,Positive
 Don't miss my channel description,0.1139,Positive,0.0,Neutral,0.3688971400260925,Positive
@@ -1080,34 +1080,34 @@ shawn be like :- sweat drippin' off me before she even started touching me la la
 Love form Mandi bahauddin Pakistan,0.6369,Positive,0.5,Positive,0.5382893681526184,Positive
 Assisti milhões se vezes,0.0,Neutral,0.0,Neutral,-0.297903448343277,Negative
 Literal goose bumps,0.0,Neutral,0.0,Neutral,-0.391792744398117,Negative
-better than kpops fuck level choreography...,-0.1531,Negative,0.0499999999999999,Neutral,0.4932053983211517,Positive
+better than kpops fuck level choreography...,-0.1531,Negative,0.0499999999999999,Positive,0.4932053983211517,Positive
 Tạo ra bản hit huyền thoại mat xem biểu diễn chán nhỉ..ca sĩ nước ngoài nhãy dở nhỉ..1 bài hát vừa nghe ai cũng lắc lư cả ..chat hiểu sao mà họ vẫn cảm hứng đứng yên hát đc ta..tính ra xem lisa là No.1,0.2263,Positive,-0.0416666666666666,Negative,0.2980470061302185,Neutral
 "No se podrá nervioso shawn cuando camila, se pone en su espalda y luego baja",0.2057,Positive,-0.0777777777777777,Negative,-0.4395484328269958,Negative
 ❤❤❤,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ye he fcking🤣🤣😂😂😂🤣,0.9538,Positive,0.0,Neutral,0.2722058594226837,Neutral
-Me encanto. Que viva el Amor 🥰 ❤️❤️❤️❤️❤️,0.9468,Positive,0.321590909090909,Neutral,0.8556684255599976,Positive
+Me encanto. Que viva el Amor 🥰 ❤️❤️❤️❤️❤️,0.9468,Positive,0.321590909090909,Positive,0.8556684255599976,Positive
 Amazing performance and pellets of  light paradise around them in the night.,0.8402,Positive,0.5,Positive,0.8678742051124573,Positive
 I screameddddd ahhhhh 🤧🤧🤧🤧🤧🤩🏃‍♀️🏃‍♀️🏃‍♀️🏃‍♀️,0.0,Neutral,0.0,Neutral,-0.2779052555561065,Negative
 manifique,0.0,Neutral,0.0,Neutral,0.4656431674957275,Positive
 I feels like they are Eugene flying rider and Rapunzel.,0.3612,Positive,0.0,Neutral,0.2802138030529022,Neutral
 マジで素敵なカップルだよなぁ………,0.4754,Positive,0.6,Positive,0.7047287821769714,Positive
-"I don't listen to mainstream or pop. No insult indented. I listen to old 80s uk punk or rock, extreme drum n bass (I am a lover of squat parties, technivals and free dingey raves) but u cannot not know a few pop songs if u use social media (evn tho my insta account is blocked...! dunno why?!? NO NUDITY, NO BOGOTRY (I am feminist, bisexual and against racism, in fact apart from my late husband most of my larywnrs have been brown or black, not that it matters) , NO VIOLANCE etc... someone petty got me banned when my account was wholesome!) Anyway. I get to know tracks and sometimes even listen to a few. But this is nice. As another comment said, when a live version is better than the radio track u DID SIMETHING GOOD! coz a lot of gigs are let downs (apart from if your an obsessed fan that will faint from the shear act of being spat water on by your idol... please remember they are human and you are too  Loving and respecting a persons art is normal, being a stan isnt unless your 10). But this was gould. Good singing, beautiful people (even tho I dont care about looks) and beautiful chemistry. To me charisma and chemistry trumps over voice ability and effects. It's all about the truth in the voice and the emotions. Good performance 😊😊👍",0.9953,Positive,0.2100049407114624,Neutral,0.5162211060523987,Positive
+"I don't listen to mainstream or pop. No insult indented. I listen to old 80s uk punk or rock, extreme drum n bass (I am a lover of squat parties, technivals and free dingey raves) but u cannot not know a few pop songs if u use social media (evn tho my insta account is blocked...! dunno why?!? NO NUDITY, NO BOGOTRY (I am feminist, bisexual and against racism, in fact apart from my late husband most of my larywnrs have been brown or black, not that it matters) , NO VIOLANCE etc... someone petty got me banned when my account was wholesome!) Anyway. I get to know tracks and sometimes even listen to a few. But this is nice. As another comment said, when a live version is better than the radio track u DID SIMETHING GOOD! coz a lot of gigs are let downs (apart from if your an obsessed fan that will faint from the shear act of being spat water on by your idol... please remember they are human and you are too  Loving and respecting a persons art is normal, being a stan isnt unless your 10). But this was gould. Good singing, beautiful people (even tho I dont care about looks) and beautiful chemistry. To me charisma and chemistry trumps over voice ability and effects. It's all about the truth in the voice and the emotions. Good performance 😊😊👍",0.9953,Positive,0.2100049407114624,Positive,0.5162211060523987,Positive
 Congratulations,0.5994,Positive,0.0,Neutral,0.4884554445743561,Positive
 JUST LOVE THIS COUPLE,0.6369,Positive,0.5,Positive,0.8119291663169861,Positive
 I love you guys so much,0.6369,Positive,0.35,Positive,0.8626021146774292,Positive
 I'll stop believing in love if they ever breakup istg,0.4588,Positive,0.5,Positive,-0.3096221685409546,Negative
 Como así que hay 21 mil personas a las que no les gusta esto?😩,-0.2465,Negative,0.0,Neutral,-0.4193992018699646,Negative
-Their hug at last and shares a smile wow omg they are so cute😍😍😍🥰🥰😘😘😘❤️🤭😇🥰🥰😰😰🕺😘😘😅,0.9971,Positive,0.1333333333333333,Neutral,0.6351109743118286,Positive
+Their hug at last and shares a smile wow omg they are so cute😍😍😍🥰🥰😘😘😘❤️🤭😇🥰🥰😰😰🕺😘😘😅,0.9971,Positive,0.1333333333333333,Positive,0.6351109743118286,Positive
 Camilia and shawn great artist superb fantabulous singers omg I am their fans as singers and couples both🥰🥰🥰😁😁😍😍🤭😘😘😘😰😭😭😰😇😘💃😘😘💃😇🥰🥰🥰,0.9977,Positive,0.9,Positive,0.8761473298072815,Positive
 me encanta la canción  la voy a cantar cuando sea cantante,0.6369,Positive,0.5,Positive,0.7588195204734802,Positive
 Anyone watching this in 2021???,0.0,Neutral,0.0,Neutral,-0.7043445706367493,Negative
 Awwwwn ❤️🤗 they are so cute... God bless them,0.9023,Positive,0.5,Positive,0.6183621287345886,Positive
-this is pure gold. litterly.,0.0,Neutral,0.2142857142857142,Neutral,0.7865926027297974,Positive
-You can see Shawn is trying so hard to concentrate.  That's love guys.,0.5161,Positive,0.1041666666666666,Neutral,0.2723833918571472,Neutral
+this is pure gold. litterly.,0.0,Neutral,0.2142857142857142,Positive,0.7865926027297974,Positive
+You can see Shawn is trying so hard to concentrate.  That's love guys.,0.5161,Positive,0.1041666666666666,Positive,0.2723833918571472,Neutral
 I might use this song on my honeymoon 💕,0.6486,Positive,0.0,Neutral,0.3034772276878357,Neutral
 Camila brought all the sensuality to this- Shawn was boring- like if Camila performed this by herself we’d still be entertained but if Shawn performed by himself we’d be bored,-0.1779,Negative,-0.75,Negative,-0.3750893473625183,Negative
 That's cool,0.3182,Positive,0.35,Positive,0.4071095287799835,Positive
-This version is more romantic than the actual!!❤️,0.554,Positive,0.25,Neutral,0.4983824491500854,Positive
+This version is more romantic than the actual!!❤️,0.554,Positive,0.25,Positive,0.4983824491500854,Positive
 Incredible!!,0.0,Neutral,1.0,Positive,0.9092615842819214,Positive
 que lindos sevegutos,0.5994,Positive,0.85,Positive,-0.2984680831432342,Negative
 omg I love them so much,0.6369,Positive,0.35,Positive,0.7879888415336609,Positive
@@ -1116,7 +1116,7 @@ I love u,0.6369,Positive,0.5,Positive,0.7627245187759399,Positive
 The best couple ever,0.6369,Positive,1.0,Positive,0.949588418006897,Positive
 Man this two proves true love,0.7906,Positive,0.3833333333333333,Positive,0.6931093335151672,Positive
 I have covid and  You guys are making me feel better.,0.4404,Positive,0.5,Positive,0.2979603707790375,Neutral
-Two years later I’m still watching this and my smile is up to my ears,0.3612,Positive,0.15,Neutral,0.5329818725585938,Positive
+Two years later I’m still watching this and my smile is up to my ears,0.3612,Positive,0.15,Positive,0.5329818725585938,Positive
 I want collab of Ariana Grande and Camila! It would so good!,0.6834,Positive,0.875,Positive,0.4335160255432129,Positive
 The best couple of the world!!!,0.7249,Positive,1.0,Positive,0.9548911452293396,Positive
 Cute couple 👏👌,0.8455,Positive,0.5,Positive,0.4675455093383789,Positive
@@ -1147,15 +1147,15 @@ Caca fa,0.0,Neutral,0.0,Neutral,0.3370798528194427,Positive
 😂,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Lu luv❤😘 you have been lover 😍of my💜❤ heart broken💔🔥 was 🔥,0.9705,Positive,0.0,Neutral,0.5302115678787231,Positive
 Love from India Tamilnadu,0.6369,Positive,0.5,Positive,0.5259664058685303,Positive
-They can sing it so well on a live concert even they made some change in style,0.4101,Positive,0.1363636363636363,Neutral,0.4835090935230255,Positive
+They can sing it so well on a live concert even they made some change in style,0.4101,Positive,0.1363636363636363,Positive,0.4835090935230255,Positive
 Camila Cabello finally  found her prince charming!😍😍,0.8777,Positive,0.0,Neutral,0.7466486096382141,Positive
 Both are so good voice I love this song❤️❤️,0.8377,Positive,0.6,Positive,0.7920286059379578,Positive
-If you want to see their kiss go to their instagram you will see the whole video of them kissed each other haha,0.8271,Positive,0.0916666666666666,Neutral,-0.4038400053977966,Negative
+If you want to see their kiss go to their instagram you will see the whole video of them kissed each other haha,0.8271,Positive,0.0916666666666666,Positive,-0.4038400053977966,Negative
 "i watch this every night, this is like my therapy.",0.3612,Positive,0.0,Neutral,0.7733517289161682,Positive
 eu sempre volto pra ver essas apresentaçoes perfeitas que sacooo,0.2023,Positive,0.5,Positive,0.723555326461792,Positive
 Seeing their chemistry I'm just Smiling like an Idiot and getting Goosebumps! 😍😍😍I pray.they stay together All The Life long!,0.8953,Positive,-0.53125,Negative,0.7627243995666504,Positive
 camila is such a gay ally <3,0.4404,Positive,0.4722222222222222,Positive,0.4320845007896423,Positive
-I need the instrumental of this live version,0.0,Neutral,0.1363636363636363,Neutral,0.3531681001186371,Positive
+I need the instrumental of this live version,0.0,Neutral,0.1363636363636363,Positive,0.3531681001186371,Positive
 I feel so single watching them,0.0,Neutral,-0.0714285714285714,Negative,0.2327343970537185,Neutral
 That nose thing at the end tho goddamn if that ain't cute then idk what is,-0.6467,Negative,0.5,Positive,-0.3280885815620422,Negative
 This is kryptonite to single people (i.e. me HAHAHHA),0.0,Neutral,-0.0714285714285714,Negative,-0.6929758191108704,Negative
@@ -1188,8 +1188,8 @@ hooked onto your tongue,
 all of your kisses, tell me don’t stop. 
 🤦🏻‍♂️",0.7845,Positive,0.6,Positive,-0.5071145296096802,Negative
 my favorite music Lia i'm huge fan,0.765,Positive,0.45,Positive,0.9089497327804564,Positive
-This is absolutely enchanting,0.0,Neutral,0.2,Neutral,0.9199801683425904,Positive
-Primeira vez que assiti esse vídeo eu tava na escola 😱😪,-0.7003,Negative,0.25,Neutral,-0.3562381565570831,Negative
+This is absolutely enchanting,0.0,Neutral,0.2,Positive,0.9199801683425904,Positive
+Primeira vez que assiti esse vídeo eu tava na escola 😱😪,-0.7003,Negative,0.25,Positive,-0.3562381565570831,Negative
 "What is the name of the singer!! 
 شنو اسم المغني بلييز💜",0.0,Neutral,0.0,Neutral,-0.387776643037796,Negative
 I love this song  senorita   there were  friends  back  then now there a couple    I love you shawn and  camila,0.91,Positive,0.3333333333333333,Positive,0.8307686448097229,Positive
@@ -1203,9 +1203,9 @@ Guys wait.....did they kisss? Like actually ?,0.4329,Positive,0.0,Neutral,-0.351
 Magnifique ❤️🇨🇵🤗,0.7717,Positive,0.85,Positive,0.9234643578529358,Positive
 🤍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 2:7,0.0,Neutral,0.0,Neutral,0.2414861321449279,Neutral
-Why Camila is singing like this why she can't sing like she have sang in the real song 😭😭plz make a video where you both are singing like the real video 🙏🙏🙏,-0.5122,Negative,0.2,Neutral,-0.470208078622818,Negative
+Why Camila is singing like this why she can't sing like she have sang in the real song 😭😭plz make a video where you both are singing like the real video 🙏🙏🙏,-0.5122,Negative,0.2,Positive,-0.470208078622818,Negative
 Can we just stop and appreciate the Electric Guitar and Bass Players. Those riffs and stuff they added. Like woah,0.4588,Positive,-0.15,Negative,0.3860474526882171,Positive
-why is no one talking about the fact that they’re definitely on coke or something during this lmfao. they don’t even sound normal,0.6833,Positive,0.1833333333333333,Neutral,-0.6462080478668213,Negative
+why is no one talking about the fact that they’re definitely on coke or something during this lmfao. they don’t even sound normal,0.6833,Positive,0.1833333333333333,Positive,-0.6462080478668213,Negative
 hola soy  arlet,0.0,Neutral,0.0,Neutral,-0.2461621314287185,Negative
 Why is he referring to himself as señorita...,0.0,Neutral,0.0,Neutral,-0.4566755294799804,Negative
 Sorry but they did kiss! It’s called an Eskimo kiss 🥺,0.8197,Positive,-0.625,Negative,-0.4354589581489563,Negative
@@ -1215,10 +1215,10 @@ Are they going to break relation ship?,0.0,Neutral,0.0,Neutral,-0.51989901065826
 見てるこっちが恥ずかしくなるな〜,0.2755,Positive,0.0,Neutral,0.5232256054878235,Positive
 Ugh my heart 😭❤️,-0.1779,Negative,0.0,Neutral,-0.4680269360542297,Negative
 03:32 OMG ♥♥♥♥,0.9571,Positive,0.0,Neutral,-0.3091743588447571,Negative
-Love from Bangladesh. Your problems are lighten the fire under me to fight for the next days.,-0.3612,Negative,0.25,Neutral,0.6822181940078735,Positive
+Love from Bangladesh. Your problems are lighten the fire under me to fight for the next days.,-0.3612,Negative,0.25,Positive,0.6822181940078735,Positive
 Good Voice ❤️❤️❤️,0.4404,Positive,0.7,Positive,0.5015491843223572,Positive
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This is dramatic lol,0.4215,Positive,0.1833333333333333,Neutral,0.3852107524871826,Positive
+This is dramatic lol,0.4215,Positive,0.1833333333333333,Positive,0.3852107524871826,Positive
 They're so sweet <3,0.7559,Positive,0.675,Positive,0.4241878390312195,Positive
 adorable,0.4939,Positive,0.5,Positive,0.724342405796051,Positive
 Oh my gosh I love this song I can’t stop listening to it,0.4588,Positive,0.5,Positive,0.8708124160766602,Positive
@@ -1226,5 +1226,5 @@ Camila is if “extra” were a person lol,0.4215,Positive,0.4,Positive,0.321311
 i was waiting for the kiss 😂😂,0.8225,Positive,0.0,Neutral,0.2498645931482315,Neutral
 "When he takes a few steps back to put the guitar behind and get close to her… gosh, from then on it’s FIRE",-0.4824,Negative,-0.2,Negative,-0.3106144070625305,Negative
 Perfect couple ❤,0.836,Positive,1.0,Positive,0.8220055103302002,Positive
-Wow just wow,0.8225,Positive,0.1,Neutral,0.7440296411514282,Positive
+Wow just wow,0.8225,Positive,0.1,Positive,0.7440296411514282,Positive
 If it ain’t like this I don’t want it,0.4215,Positive,0.0,Neutral,-0.3608505725860595,Negative

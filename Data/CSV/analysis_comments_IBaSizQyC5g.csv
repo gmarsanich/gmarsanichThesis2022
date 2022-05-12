@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Wow temazo ❤️❤️❤️❤️❤️❤️,0.5859,Positive,0.1,Neutral,0.6446157097816467,Positive
+Wow temazo ❤️❤️❤️❤️❤️❤️,0.5859,Positive,0.1,Positive,0.6446157097816467,Positive
 Maluma te amomos todos tus videos son para nosotras un trofeo ❤️❤️❤️💖💖💖🏆🏆,0.9732,Positive,0.5,Positive,0.5051984786987305,Positive
 Vani💝💝💝😎💖🧡💘,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
 x d,0.0,Neutral,0.0,Neutral,0.248650923371315,Neutral
@@ -16,9 +16,9 @@ estan mirando en el 2022",0.3612,Positive,0.0,Neutral,0.5319200754165649,Positiv
 VOLVIO EL MALUMA DE ANTES,0.0,Neutral,0.0,Neutral,-0.3371126353740692,Negative
 me encanta MALUMA dejen un like si les gusta MALUMA y mas sus canciones dejen apoyo,0.8885,Positive,0.5,Positive,0.661247193813324,Positive
 1:41,0.0,Neutral,0.0,Neutral,0.2155964523553848,Neutral
-"Maluma nunca pierde el toque de hacernos sentir mejor que nunca todo el tiempi,🤩🤩🤩🤩🤩🤩🥳🥳🥳🥳🥳🥳🥳🥳🤘🤘🤘🤘🤘🤘🤘🤘👍👍👍👍👍👍👍👍👍",0.5943,Positive,0.325,Neutral,0.6778733134269714,Positive
+"Maluma nunca pierde el toque de hacernos sentir mejor que nunca todo el tiempi,🤩🤩🤩🤩🤩🤩🥳🥳🥳🥳🥳🥳🥳🥳🤘🤘🤘🤘🤘🤘🤘🤘👍👍👍👍👍👍👍👍👍",0.5943,Positive,0.325,Positive,0.6778733134269714,Positive
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤,0.9963,Positive,0.0,Neutral,0.3085779249668121,Neutral
-mi cuarto huele.. a pino colbert... jajajaaa,0.7269,Positive,0.2,Neutral,-0.2825207710266113,Negative
+mi cuarto huele.. a pino colbert... jajajaaa,0.7269,Positive,0.2,Positive,-0.2825207710266113,Negative
 Que buen video el mejor cantante que he oido de todos eres el mejor maluma 11 de la noche y aun dandole a la rumba👍👍,0.9062,Positive,0.9,Positive,0.8435276746749878,Positive
 maluma humilde 🤑,0.0,Neutral,-0.2,Negative,-0.648674726486206,Negative
 2022 quien se lo solla aún??😮‍💨,0.0,Neutral,0.0,Neutral,-0.4077954292297363,Negative
@@ -46,7 +46,7 @@ para  maro 0:37,0.0,Neutral,0.0,Neutral,-0.3122136890888214,Negative
 😍11no💘😍✌️,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💔💔💔💔💔💔💔💔💔💔💔💔,0.9595,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-2:26 el escudo del independiente Medellín está canción es más paisa que la bandeja,0.0,Neutral,0.25,Neutral,-0.3427214622497558,Negative
+2:26 el escudo del independiente Medellín está canción es más paisa que la bandeja,0.0,Neutral,0.25,Positive,-0.3427214622497558,Negative
 No me canso de ver él video,0.3412,Positive,-0.4,Negative,0.2323292642831802,Neutral
 🤗👍🏻,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Como hacerte entender que conmigo te ves peor ! ah no era así,-0.6707,Negative,-0.5,Negative,-0.5109923481941223,Negative
@@ -55,7 +55,7 @@ Si es cierto,0.4019,Positive,0.0,Neutral,0.4284450113773346,Positive
 Tengo video en mi canal de pop it,0.0,Neutral,0.0,Neutral,0.3934277296066284,Positive
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ❤️😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-0:52 smile,0.3612,Positive,0.3,Neutral,-0.4245646893978119,Negative
+0:52 smile,0.3612,Positive,0.3,Positive,-0.4245646893978119,Negative
 "Esta canción me recuerda a alguien que ya no está y que sufrió por cosas que no merecían la pena. Realmente era una persona preciosa por dentro y por fuera, pero las exigencias de los demás sobre ella le hicieron mucho daño. Era tan generosa, que sé que desde donde esté, estará enviando su brillo a quienes amaba ✨",0.8782,Positive,0.4,Positive,0.3334702551364898,Positive
 🤙🏽🤙🏽🤙🏽❤,0.93,Positive,0.0,Neutral,0.3085779249668121,Neutral
 os vídeos poderiam estar autorizados para download,0.0,Neutral,0.0,Neutral,-0.302135020494461,Negative
@@ -65,17 +65,17 @@ En qué ciudad se grabó el video ? Quiero ir a esas escaleras 😹,0.4939,Posit
 Awww,0.0,Neutral,0.4,Positive,0.2344568222761154,Neutral
 "Mi Nueva canción #YoQuiero ¿Ya te la vacilaste? Vamos👇🏼
 
-https://youtu.be/Mcyn2-w8iTY",-0.3182,Negative,0.1363636363636363,Neutral,0.3835141360759735,Positive
+https://youtu.be/Mcyn2-w8iTY",-0.3182,Negative,0.1363636363636363,Positive,0.3835141360759735,Positive
 🧐🍷 fino señores 👌🏻,0.7865,Positive,0.4166666666666667,Positive,0.4536442458629608,Positive
 hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Megustomucho🥺🥺🥺,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Las interacciones de maluma y la chica(no me sé su nombre) son muy buenas, y la cancion tiene razón, las familias de altos recursos, a huevo quieren que su hija se case con una patán millonario y no con el humilde buena onda que las va tratar bien",0.7084,Positive,0.4239285714285714,Positive,0.4338507354259491,Positive
 "Xq sentí que esto era como... 
 Maluma: el Kevin que la quiere embarazar 
-El vato rico: solo quiere a la hija para hacer negocios con el padre.",0.8225,Positive,0.1937499999999999,Neutral,-0.3093305230140686,Negative
+El vato rico: solo quiere a la hija para hacer negocios con el padre.",0.8225,Positive,0.1937499999999999,Positive,-0.3093305230140686,Negative
 Alguien del 2022,0.0,Neutral,0.0,Neutral,-0.4533490240573883,Negative
 Buen tema no dejo de escucharlo,0.5842,Positive,0.7,Positive,0.486272394657135,Positive
-Wow!! I can’t Believe it!!,0.7156,Positive,0.244140625,Neutral,0.7187974452972412,Positive
+Wow!! I can’t Believe it!!,0.7156,Positive,0.244140625,Positive,0.7187974452972412,Positive
 2 de la mañana me dice que está dispuesta........... Cómo hacerte entender que conmigo tu te ves mejor.....😍,0.8126,Positive,0.35,Positive,-0.2997605502605438,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Ermoso me gusta👌😇🥳,0.9526,Positive,0.85,Positive,0.8442554473876953,Positive
@@ -118,7 +118,7 @@ Estuve aquí por la profe de religión,0.0,Neutral,0.0,Neutral,0.325440853834152
 En el 2022,0.0,Neutral,0.0,Neutral,0.3462933003902435,Positive
 Maluma es mi eroe mi cumpleaños quiero que sea de Maluma sus canciones cuando Estoi triste es cucho sus canciones y me siento mejor 😇,0.7717,Positive,0.0,Neutral,0.423938900232315,Positive
 11 festival music 2022 Cavendish beach music festival ilha do príncipe Eduardo Canadá 7 a 9 july de 2022 local centro de eventos cavendish ilha do príncipe Eduardo no site ingressos do evento,0.7506,Positive,-0.1,Negative,0.2861476242542267,Neutral
-10 festival music 2022 primavera sound Barcelona Espanha 2 a 4 + 9 a 12 de june de 2022 local par del fórum Barcelona ingressos no site do evento,0.4939,Positive,0.2,Neutral,0.3088453412055969,Neutral
+10 festival music 2022 primavera sound Barcelona Espanha 2 a 4 + 9 a 12 de june de 2022 local par del fórum Barcelona ingressos no site do evento,0.4939,Positive,0.2,Positive,0.3088453412055969,Neutral
 9 festival music 2022 só what ?music festival Texas Estados Unidos 27 a 29 de may de 2022 local choctawstadium Arlington ingressos a partir de uss 99 no see ticket,0.7906,Positive,0.0,Neutral,-0.4764717519283294,Negative
 8 festival music 2022 coachella music arts festival Califórnia Estados Unidos 15 a 17 + 22 a 24 april 2022 local Empire polo vlub índio Califórnia ingressos a partir de uss 499 no portal do evento,0.8481,Positive,0.0,Neutral,-0.269785612821579,Negative
 7 festival music 2022 tortuga music festival florida Estados Unidos 8 a 10 de april 2022 local seabreeze blvd Fort Lauderdale ingressos a partir de 249 no site do evento,0.8481,Positive,0.0,Neutral,-0.3709266483783722,Negative
@@ -182,17 +182,17 @@ MUSIC:
 #spotify: CONTRA MI VOLUNTAD https://open.spotify.com/track/7LGsgIYXf3utDa5qDv4BNO?si=d250edf71e7b437f
 #youtube Contra mi voluntad: https://www.youtube.com/watch?v=_-j-JNYBfw0&t=91s",0.6697,Positive,-0.125,Negative,-0.4707573056221008,Negative
 🤩🤩🤩🤩,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Suban nueva canción de maluma,0.0,Neutral,0.1363636363636363,Neutral,-0.6154467463493347,Negative
+Suban nueva canción de maluma,0.0,Neutral,0.1363636363636363,Positive,-0.6154467463493347,Negative
 Cómo hacerte entender que conmigo tú te ves mejor que mi carro tú te ves mejor el cuarto huele a Christian dior Eres muy bonita pa llorar por pa llorar por él Cómo hacerte entender que conmigo tú te ves mejor,0.8841,Positive,0.365,Positive,0.6906715631484985,Positive
-Si haces más músicas Te juro que las escucho todas todas las canciones Hawai sobrio Eres muy bonita para llorar,-0.0935,Negative,0.2833333333333333,Neutral,0.270954817533493,Neutral
-esa canción jamás pasa de moda siempre la tengo en mi cabeza y o sea es algo que no sé no sé cómo explicar y sin embargo es tan hermosa o sea me enamoré de ella apenas la escuché canto y oigo todas las canciones de Maluma porque me encantó me lo más Eres mi baby,0.9336,Positive,0.3208333333333333,Neutral,0.7554436326026917,Positive
+Si haces más músicas Te juro que las escucho todas todas las canciones Hawai sobrio Eres muy bonita para llorar,-0.0935,Negative,0.2833333333333333,Positive,0.270954817533493,Neutral
+esa canción jamás pasa de moda siempre la tengo en mi cabeza y o sea es algo que no sé no sé cómo explicar y sin embargo es tan hermosa o sea me enamoré de ella apenas la escuché canto y oigo todas las canciones de Maluma porque me encantó me lo más Eres mi baby,0.9336,Positive,0.3208333333333333,Positive,0.7554436326026917,Positive
 Ese es mi baby,0.0,Neutral,0.0,Neutral,0.4806040823459625,Positive
 Nem jó zene maluma mimat mer ênekel,-0.3412,Negative,-0.35,Negative,-0.3877034187316894,Negative
 Chido🥰🥰🥰🤯🤯😈😈,0.9816,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Los indios también ven videos de Maluma 😘,0.4215,Positive,0.0,Neutral,-0.5204450488090515,Negative
 Y lo más chido es que participo en la película de Encanto,0.0,Neutral,0.0,Neutral,0.3922598958015442,Positive
 Muy buen tema...!!,0.5827,Positive,1.0,Positive,0.6322276592254639,Positive
-Megusta. hitengo unacansion quelaboiacantar María Mercedes para servirle a usted madre los bandono y mi padre jamás cumplió María Mercedes para servirle a usted estaba de angustia me regaló un cachito y me reconoció murió un reggaetón ton ton María Mercedes para servirle a usted de mi familia me encargo yo María Mercedes Ya déjalo ahí ya lo verás pero el dinero lo compró Mira qué rico que bailo yo el dinero lo compró el hombre que amo no lo tengo yo María Mercedes María Mercedes María Mercedes María Mercedes............................ sí señor,0.9292,Positive,0.2291666666666666,Neutral,-0.6515333652496338,Negative
+Megusta. hitengo unacansion quelaboiacantar María Mercedes para servirle a usted madre los bandono y mi padre jamás cumplió María Mercedes para servirle a usted estaba de angustia me regaló un cachito y me reconoció murió un reggaetón ton ton María Mercedes para servirle a usted de mi familia me encargo yo María Mercedes Ya déjalo ahí ya lo verás pero el dinero lo compró Mira qué rico que bailo yo el dinero lo compró el hombre que amo no lo tengo yo María Mercedes María Mercedes María Mercedes María Mercedes............................ sí señor,0.9292,Positive,0.2291666666666666,Positive,-0.6515333652496338,Negative
 y me ena more delamusica ❤💚💜💙La a las 11 de la noche ni me contestas y 1 de la mañana ni respuesta Cómo hacerte entender que conmigo Te ves mejor que mi carro te ves mejor Cómo hacerte entender,0.9746,Positive,0.5,Positive,-0.4783315658569336,Negative
 Me looking for English comments😆 still a great song,0.765,Positive,0.4,Positive,0.5556311011314392,Positive
 https://youtu.be/x_wJzeYPU14,0.0,Neutral,0.0,Neutral,0.2352318912744522,Neutral
@@ -205,7 +205,7 @@ Maluma el mejor ❤️🎶,0.6369,Positive,1.0,Positive,0.7528533339500427,Posit
 ❤️",0.6369,Positive,0.5,Positive,-0.5967153906822205,Negative
 "Amo este tema, me recuerda cuando me gustaba una buena amiga que su novio no la valoraba, y ella siempre la pasaba bien conmigo, nos besabamos de vacilon, pero el único que se enamoraba era Yo. Cuando me declaré ella se alejó de mí por un gran tiempo. 😄",0.9754,Positive,0.46875,Positive,0.484168142080307,Positive
 Extraño a Maluma pelón y sus buenos temas,0.3182,Positive,0.7,Positive,0.3037383556365967,Neutral
-"Jose gana a pedro, pedro ya no vale nada, tardé pero entendí",-0.2342,Negative,0.3,Neutral,-0.5238871574401855,Negative
+"Jose gana a pedro, pedro ya no vale nada, tardé pero entendí",-0.2342,Negative,0.3,Positive,-0.5238871574401855,Negative
 ✌️✌️✌️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Denada me deben un like: letra>
 
@@ -274,18 +274,18 @@ BRAYAN MARTIN,0.0,Neutral,0.0,Neutral,0.2865196466445923,Neutral
 HREMOSA,0.0,Neutral,0.0,Neutral,0.2326972633600235,Neutral
 2;44 no puede estar jugando debido a que el control esta apagado,-0.1511,Negative,0.0,Neutral,-0.5089889168739319,Negative
 eres gey,0.0,Neutral,0.4166666666666667,Positive,0.250145822763443,Neutral
-"I don't know, what's going on with you, with you, with you, you say it to me, baby so cool, so cool for looking at you, looking at you, looking at you, nothing to do with you because she asks heart that sees me so much every time of your madness that smiles, I don't know, it makes me so hard to watch a little dance with you when you want to enjoy your life and my life comes to you when you have a little relaxed fun listening to the music you like the most I'll be there, even if I don't go anywhere else, without expect from you, I don't know, what will I think of you for losing you such a good night that I waited for these hours that I need your life, baby. I had never thought of you at the dance that I knew the most, your princess life was a dream, without the reality of meeting you a pretty star moon that cast a dance light that inspired so much the cool night. For that reason I had to show you a guest dance from family or friends, to whoever knows your life or my life, the night prospers, without imagining about you that I thought I would confess a song to you, I don't know, what I expected to tell you so much to the pleasure of listening to you and meeting her one night so simple that I staged a blaze of dance, without thinking what a great dance with you would do, baby.",0.9917,Positive,0.2366666666666666,Neutral,0.6059380173683167,Positive
+"I don't know, what's going on with you, with you, with you, you say it to me, baby so cool, so cool for looking at you, looking at you, looking at you, nothing to do with you because she asks heart that sees me so much every time of your madness that smiles, I don't know, it makes me so hard to watch a little dance with you when you want to enjoy your life and my life comes to you when you have a little relaxed fun listening to the music you like the most I'll be there, even if I don't go anywhere else, without expect from you, I don't know, what will I think of you for losing you such a good night that I waited for these hours that I need your life, baby. I had never thought of you at the dance that I knew the most, your princess life was a dream, without the reality of meeting you a pretty star moon that cast a dance light that inspired so much the cool night. For that reason I had to show you a guest dance from family or friends, to whoever knows your life or my life, the night prospers, without imagining about you that I thought I would confess a song to you, I don't know, what I expected to tell you so much to the pleasure of listening to you and meeting her one night so simple that I staged a blaze of dance, without thinking what a great dance with you would do, baby.",0.9917,Positive,0.2366666666666666,Positive,0.6059380173683167,Positive
 2:50 joystick apagado,0.1779,Positive,0.0,Neutral,-0.3518740832805633,Negative
 2022 y todavia es un rolon <3,0.4404,Positive,1.0,Positive,0.2963281273841858,Neutral
 Me trague un comercial en el video,0.0,Neutral,0.0,Neutral,-0.3876686096191406,Negative
-Maluma con tantos palos de 800M de visualizaciones con canciones pegadas cada año y la gente todavía no se la da? Enserio? Maluma es un master 😎🔥,-0.1179,Negative,0.0833333333333333,Neutral,-0.3549364507198334,Negative
+Maluma con tantos palos de 800M de visualizaciones con canciones pegadas cada año y la gente todavía no se la da? Enserio? Maluma es un master 😎🔥,-0.1179,Negative,0.0833333333333333,Positive,-0.3549364507198334,Negative
 Thank you from Moldova 🇲🇩,0.3612,Positive,0.0,Neutral,0.5273506045341492,Positive
 "Не нужно ставить лайки!
 Почему в 2022 году я только услышал Вас",0.1511,Positive,0.0,Neutral,-0.5573159456253052,Negative
 A mí sí me gusta esta canción,0.3612,Positive,0.0,Neutral,0.3290987908840179,Neutral
 Llegamos a los 800 millones de vistas 😀😀😀😀😀,0.8979,Positive,0.0,Neutral,0.3043488562107086,Neutral
 Jó zene szeretem,0.6597,Positive,0.7,Positive,0.4534119963645935,Positive
-holaa amooe feliz día de los enamorados perdón x no escribiste sabes te extraño bebé   espero  verte en Rosario argentina x diooos soy criss fernandez aca esperando este es celu de emir mi hijo te amamos sabes,0.9337,Positive,0.325,Neutral,0.4537343084812164,Positive
+holaa amooe feliz día de los enamorados perdón x no escribiste sabes te extraño bebé   espero  verte en Rosario argentina x diooos soy criss fernandez aca esperando este es celu de emir mi hijo te amamos sabes,0.9337,Positive,0.325,Positive,0.4537343084812164,Positive
 Amoooo🛐,0.7506,Positive,0.5,Positive,0.3085779249668121,Neutral
 SAHBFEA,0.0,Neutral,0.0,Neutral,0.237838864326477,Neutral
 Good song maluma so sweet for you maluma 🌸🌸🌸🌸🌸🌸🌸,0.7761,Positive,0.5249999999999999,Positive,0.4978030025959015,Positive
@@ -309,7 +309,7 @@ Skswiskejduisiwwk,0.0,Neutral,0.0,Neutral,0.2293370515108108,Neutral
 esa musica es bien bonita,0.6361,Positive,1.0,Positive,0.4439247846603393,Positive
 800 millones en unos dias! Viva Maluma baaaaaaaaaaaby,0.0,Neutral,-0.0545454545454545,Negative,-0.7157405614852905,Negative
 Te amo mucho  Maluma,0.6369,Positive,0.35,Positive,-0.5221804976463318,Negative
-Haces Tres Años No escuchaba Ah mi Ídolo Y recorde Con esta Canción Tan Especial para Mi Perro solo Quiero hacer saber que te Admiro mucho 😭 El Sueño mio es Estar Grabando contigo y Que me cumplas ese sueño algún día pretty Boy dirty Boy,0.8747,Positive,0.0023809523809524,Neutral,0.7929599285125732,Positive
+Haces Tres Años No escuchaba Ah mi Ídolo Y recorde Con esta Canción Tan Especial para Mi Perro solo Quiero hacer saber que te Admiro mucho 😭 El Sueño mio es Estar Grabando contigo y Que me cumplas ese sueño algún día pretty Boy dirty Boy,0.8747,Positive,0.0023809523809524,Positive,0.7929599285125732,Positive
 Tan Bello 🔥🔥😎😎,0.7051,Positive,0.85,Positive,0.746843159198761,Positive
 Maluma baby,0.0,Neutral,0.0,Neutral,-0.4832620024681091,Negative
 🥵🥵🥵🤑😍😍😍🤩🤩,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -325,7 +325,7 @@ Eres muy bonitaa pa llorar por ellll 🍸🍻🍹😞😞🥺🥺🥺 como hacer
 5. Hawai (856 Millones)
 6. Hp (808Millones)
 7. 11PM (798 millones)",-0.2263,Negative,0.65,Positive,-0.6359798312187195,Negative
-日本人です。マルーマが大好きでよく聴いてます。声が特に好きです。,0.7902,Positive,0.1666666666666666,Neutral,0.5061383247375488,Positive
+日本人です。マルーマが大好きでよく聴いてます。声が特に好きです。,0.7902,Positive,0.1666666666666666,Positive,0.5061383247375488,Positive
 👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Yas casii ochocientos millones,0.0,Neutral,0.0,Neutral,-0.5223215818405151,Negative
 https://youtu.be/dtdXC7AOBt8,0.0,Neutral,0.0,Neutral,-0.233511134982109,Negative
@@ -334,7 +334,7 @@ https://youtu.be/dtdXC7AOBt8,0.0,Neutral,0.0,Neutral,-0.233511134982109,Negative
 https://youtu.be/dtdXC7AOBt8,0.0,Neutral,0.0,Neutral,-0.233511134982109,Negative
 https://youtu.be/dtdXC7AOBt8,0.0,Neutral,0.0,Neutral,-0.233511134982109,Negative
 "Me encantas tus canciónes, saludos desde argentina",0.7906,Positive,0.5,Positive,0.7996363043785095,Positive
-ME GUSTO MUCHO😃 ME ENCANTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO,0.0772,Positive,0.2,Neutral,0.3514969944953918,Positive
+ME GUSTO MUCHO😃 ME ENCANTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO,0.0772,Positive,0.2,Positive,0.3514969944953918,Positive
 💯💯💣,-0.4939,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Confirmen los que la seguimos escuchando en 2022🥺👌❤️,0.7297,Positive,0.0,Neutral,0.5602257251739502,Positive
 Linda,0.0,Neutral,0.0,Neutral,0.3066911995410919,Neutral
@@ -344,7 +344,7 @@ Linda,0.0,Neutral,0.0,Neutral,0.3066911995410919,Neutral
 The first 21 of the whole organization behind mind control/mental voice and people following their commands have been stealing trade secrets using it to steal whole world's money(in financial market,all businesses,and all professions) end up with all the properties;this is how they steal and own everything. They also steal money directly(from work and daily lives) against the ones who still succeeds. In the process,they committed batteries and homicides.
 
 
-*It's important to note that all of these are done using advance technology from remote.",-0.802,Negative,0.1681818181818181,Neutral,-0.2736699879169464,Negative
+*It's important to note that all of these are done using advance technology from remote.",-0.802,Negative,0.1681818181818181,Positive,-0.2736699879169464,Negative
 A Neymar le gusta el video!,0.4753,Positive,0.0,Neutral,0.4781724512577057,Positive
 Le puse esta rola a mi vieja ahora vivo en la calle tengo frío.,0.34,Positive,-0.1212121212121212,Negative,-0.5510770082473755,Negative
 2022 y sigo escuchando esta ropita diré rolita  bay 🎶💛,0.6369,Positive,0.0,Neutral,-0.3774701654911041,Negative
@@ -358,14 +358,14 @@ Buena cancion? Hay que demoatrar que sin obsenidad se puede perrear..,0.4404,Pos
 le queria moscrare a mi dua pero me dejo😭😭😭😭😭😭😭😭😭,-0.9908,Negative,0.0,Neutral,-0.3176494538784027,Negative
 🇨🇴😻😻😻,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2022? 🎶👑,0.0,Neutral,0.0,Neutral,-0.385463684797287,Negative
-"I am french ,i love maluma 🥰🔥☺️",0.9201,Positive,0.25,Neutral,0.6669646501541138,Positive
+"I am french ,i love maluma 🥰🔥☺️",0.9201,Positive,0.25,Positive,0.6669646501541138,Positive
 Letra muy básica y corriente,0.0,Neutral,-0.125,Negative,0.3132544755935669,Neutral
 soy fan de maluma,0.3182,Positive,0.0,Neutral,0.2877551913261413,Neutral
 Mencanta maluna sos el mejor nunca cambies,0.6369,Positive,1.0,Positive,0.8802021145820618,Positive
 Quien en el 2022?,0.0,Neutral,0.0,Neutral,-0.382597416639328,Negative
 Vaya temazo,0.6249,Positive,0.8,Positive,0.2886434495449066,Neutral
 Lo amo 💙💙💙💙💙☺☺,0.9864,Positive,0.5,Positive,0.5711697340011597,Positive
-"Gracias a esta canción entendí,q es verdad,soy un mujerón para estar llorando por el mamarracho ese .",0.3818,Positive,0.1166666666666666,Neutral,0.5982732176780701,Positive
+"Gracias a esta canción entendí,q es verdad,soy un mujerón para estar llorando por el mamarracho ese .",0.3818,Positive,0.1166666666666666,Positive,0.5982732176780701,Positive
 "Letra:
 Once de la noche, todavía no contesta
 Una 'e la mañana todavía y no hay respuesta
@@ -420,13 +420,13 @@ Ni tampoco tu piel
 Oh, oh, oh
 Maluma, baby
 Ba-ba-ba, ba-ba-baby",0.9947,Positive,0.335576923076923,Positive,-0.2561412155628204,Negative
-El minuto 2:10 es hermoso!!!! Nunca me canso de etsa canción,0.8163,Positive,0.3,Neutral,0.8263883590698242,Positive
+El minuto 2:10 es hermoso!!!! Nunca me canso de etsa canción,0.8163,Positive,0.3,Positive,0.8263883590698242,Positive
 🥰❤👏👏👏👏👏,0.91,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Brasileira apaixonada nessa música ❤🥰🇵🇹,0.9081,Positive,0.5,Positive,0.6019241809844971,Positive
 ¿Como hacerte entender?,0.0,Neutral,0.0,Neutral,0.4498259425163269,Positive
 This song never gets old. No matter how much I listen I never get bored.,0.1877,Positive,-0.0666666666666666,Negative,0.5422151684761047,Positive
 🦋,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Gutt,0.0,Neutral,0.2857142857142857,Neutral,0.4589487314224243,Positive
+Gutt,0.0,Neutral,0.2857142857142857,Positive,0.4589487314224243,Positive
 "Hello,From Georgia 🇬🇪",0.0,Neutral,0.0,Neutral,0.5018698573112488,Positive
 TQM MALUMA,0.0,Neutral,0.0,Neutral,-0.4150325357913971,Negative
 https://youtu.be/SRt0KAMCI4Q,0.0,Neutral,0.0,Neutral,0.2339759618043899,Neutral
@@ -435,24 +435,24 @@ Una canción bonito 😎😎,0.872,Positive,0.85,Positive,0.3869703114032745,Pos
 Super💋,0.7717,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 2022 slmlar can sıkıntıs aklıma geldi de geçiyor bile,-0.1655,Negative,0.0,Neutral,-0.3049374222755432,Negative
-"Viva BOLIVIA, hacia el mar",0.0,Neutral,0.0431818181818181,Neutral,0.6020227074623108,Positive
+"Viva BOLIVIA, hacia el mar",0.0,Neutral,0.0431818181818181,Positive,0.6020227074623108,Positive
 "Rojo, amarillo y verde",0.0,Neutral,-0.0666666666666666,Negative,0.4015666544437408,Positive
-Viva BOLIVIA,0.0,Neutral,0.0431818181818181,Neutral,0.6022791862487793,Positive
+Viva BOLIVIA,0.0,Neutral,0.0431818181818181,Positive,0.6022791862487793,Positive
 "A mí no me engañan
 A este wey le gusta la V364",0.6103,Positive,0.0,Neutral,0.3443110287189483,Positive
 Ho si soy fan de maluma papi guanchu,0.6124,Positive,0.0,Neutral,-0.5505916476249695,Negative
 Cantqba felises los cuatro4😘😘😘,0.9022,Positive,0.8,Positive,0.3100498914718628,Neutral
-Yo si soy fanatica me encanta eesde que tenia 5años,0.7579,Positive,0.3,Neutral,0.430084615945816,Positive
+Yo si soy fanatica me encanta eesde que tenia 5años,0.7579,Positive,0.3,Positive,0.430084615945816,Positive
 Hola cmo etsas,0.0,Neutral,0.0,Neutral,0.3165364861488342,Neutral
 DIÓS EN CONTROL,0.2732,Positive,0.0,Neutral,0.540948212146759,Positive
-"Meskipun aku nggak ngerti, entah kenapa aku suka banget dengarinnya",0.4201,Positive,0.2,Neutral,0.3952324390411377,Positive
+"Meskipun aku nggak ngerti, entah kenapa aku suka banget dengarinnya",0.4201,Positive,0.2,Positive,0.3952324390411377,Positive
 Atla,0.0,Neutral,0.0,Neutral,0.2634821832180023,Neutral
 Encanta,0.5719,Positive,0.0,Neutral,0.7716184258460999,Positive
 Still favourite ✨❤️,0.3182,Positive,0.0,Neutral,0.7124247550964355,Positive
 💿💿💿💿,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Sois lo mejor te adoro 😍😍🤩🤩,0.9371,Positive,0.75,Positive,0.8625765442848206,Positive
 Very nice I love you very😊🥰🥰💙💙💚💋😚,0.9938,Positive,0.64,Positive,0.8381924033164978,Positive
-"i love the clip.... so much , never get bored",0.7196,Positive,0.0666666666666666,Neutral,0.7976409196853638,Positive
+"i love the clip.... so much , never get bored",0.7196,Positive,0.0666666666666666,Positive,0.7976409196853638,Positive
 😘 для слепых)💃💃💃,0.0258,Neutral,0.0,Neutral,0.3718518316745758,Positive
 hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Dlkfkuhflglxlglf ❣️🌹,0.6369,Positive,0.0,Neutral,-0.2695084512233734,Negative
@@ -461,20 +461,20 @@ Dlkfkuhflglxlglf ❣️🌹,0.6369,Positive,0.0,Neutral,-0.2695084512233734,Nega
 Son temas que no se dejan de escuchar",0.2235,Positive,0.0,Neutral,-0.5204047560691833,Negative
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-2 años pasaron y sigo sin saber quien es la chica del video jajajaja,0.0,Neutral,0.2,Neutral,-0.2660129368305206,Negative
+2 años pasaron y sigo sin saber quien es la chica del video jajajaja,0.0,Neutral,0.2,Positive,-0.2660129368305206,Negative
 BRASIL 3 Colombia 3 103:11 tiempo extra,0.0,Neutral,0.0,Neutral,-0.3145820200443268,Negative
-Jaja eso es verdad gusto mata a plata 😁 así no tengas  plata pero si gustas va bien con los culos,0.8201,Positive,0.275,Neutral,0.4845837652683258,Positive
+Jaja eso es verdad gusto mata a plata 😁 así no tengas  plata pero si gustas va bien con los culos,0.8201,Positive,0.275,Positive,0.4845837652683258,Positive
 Alguien lo sigue escuchando en pleno 2022🔥🔥,-0.5859,Negative,0.0,Neutral,-0.3429507315158844,Negative
 En el 2022 está rola es  Tachida,0.0,Neutral,0.0,Neutral,-0.4785573482513428,Negative
 maluma papacito me encanta tus cansiones,0.6369,Positive,0.5,Positive,0.5199704766273499,Positive
 Lo máximo,0.0,Neutral,0.5,Positive,0.6322876811027527,Positive
-Once  de la noche y todavía no contesta una en la mañana y todavía no hay respuesta dulce la mañana y me dice que está dispuesta 3 de la mañana yo te tengo una propuesta cómo hacerte entender que conmigo tú te ves mejor que en mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar pa llorar por el no merece que seas fiel ni tampoco tu piel bebé cómo hacerte entender que conmigo tú te vez mejor qué mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no mereces que seas fiel ni tampoco tu piel noouuu el no va estrañarte tampoco va a pensar te dice que está ocupado en cosas más importantes la nube qué no deja ver el sol brillante no lo dejes que te apague cómo hacerte entender que conmigo tú te ves mejor que mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel cómo hacerte entender que conmigo tú te ves mejor qué mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel 11 de la noche todavía no contesta una de la mañana y todavía no hay respuesta 12 de la mañana y me dice que está dispuesta 3 de la mañana yo te tengo una propuesta cómo hacerte entender que conmigo tú te ves mejor que en mi carro te vez mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel bebé cómo hacerte entender que conmigo tú te ves mejor que en mi carro te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel nou,0.9959,Positive,0.314516129032258,Neutral,-0.277229368686676,Negative
+Once  de la noche y todavía no contesta una en la mañana y todavía no hay respuesta dulce la mañana y me dice que está dispuesta 3 de la mañana yo te tengo una propuesta cómo hacerte entender que conmigo tú te ves mejor que en mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar pa llorar por el no merece que seas fiel ni tampoco tu piel bebé cómo hacerte entender que conmigo tú te vez mejor qué mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no mereces que seas fiel ni tampoco tu piel noouuu el no va estrañarte tampoco va a pensar te dice que está ocupado en cosas más importantes la nube qué no deja ver el sol brillante no lo dejes que te apague cómo hacerte entender que conmigo tú te ves mejor que mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel cómo hacerte entender que conmigo tú te ves mejor qué mi carro tú te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel 11 de la noche todavía no contesta una de la mañana y todavía no hay respuesta 12 de la mañana y me dice que está dispuesta 3 de la mañana yo te tengo una propuesta cómo hacerte entender que conmigo tú te ves mejor que en mi carro te vez mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel bebé cómo hacerte entender que conmigo tú te ves mejor que en mi carro te ves mejor el cuarto huele a Christian dior eres muy bonita pa llorar por él no merece que seas fiel ni tampoco tu piel nou,0.9959,Positive,0.314516129032258,Positive,-0.277229368686676,Negative
 Maluma baby,0.0,Neutral,0.0,Neutral,-0.4832620024681091,Negative
 "Te amo  maluma ?
 O💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖",0.9984,Positive,0.5,Positive,-0.5887681245803833,Negative
 Quien más lo escucha está canción Ene le 2022 😎👊,0.4588,Positive,0.0,Neutral,0.5522699952125549,Positive
 HOLA COMO ESTAS UMMA HOLA COMO ESTAS UMMA HOLA nwicjsjjfjdjcjdjjjaj s63mil y,0.0,Neutral,0.0,Neutral,0.3490445017814636,Positive
-es k maluma pelon es demaciado GOD,0.4278,Positive,0.2,Neutral,-0.5279208421707153,Negative
+es k maluma pelon es demaciado GOD,0.4278,Positive,0.2,Positive,-0.5279208421707153,Negative
 0:40,0.0,Neutral,0.0,Neutral,-0.4178005456924438,Negative
 Quién en el 2022?🤙🏽,0.4939,Positive,0.0,Neutral,-0.3776606023311615,Negative
 Está es otra de mis canciones de Maluma  amo a todos los cantantes exitosos  de  las canciones más famosas,0.8402,Positive,0.5625,Positive,0.6834532618522644,Positive
@@ -487,14 +487,14 @@ The legend,0.0,Neutral,0.0,Neutral,0.466030478477478,Positive
 esta mas bueno este temaso  escucharlo un domigo en una playa,0.7906,Positive,0.65,Positive,0.5015419721603394,Positive
 Kawai,0.0,Neutral,0.0,Neutral,0.2634020149707794,Neutral
 Meencantatumucica,0.0,Neutral,0.0,Neutral,0.2440401911735534,Neutral
-"Me hace acordar a Charlie Flow de la reina del flow, o sería al revés jaja",0.4588,Positive,0.0375,Neutral,0.2994540333747864,Neutral
+"Me hace acordar a Charlie Flow de la reina del flow, o sería al revés jaja",0.4588,Positive,0.0375,Positive,0.2994540333747864,Neutral
 me gusta estas casion me encanta muchisimo 😊😊😊😊,0.9834,Positive,0.38,Positive,0.8143763542175293,Positive
 Hermosa canción de maluma*,0.5994,Positive,0.85,Positive,0.5431045293807983,Positive
 Cierto...no merece la pena llorar por alguien que no se preocupa por ti...💫,-0.3899,Negative,-0.175,Negative,-0.3452178835868835,Negative
-"El aquí le insinúa a las mujeres que sean infieles cuando están con un mal hombre , pues yo les digo y sin cantar : mejor sean honestas y sinceras , no jueguen con Candela y más si están con un hombre de cuidado .... porque por juguetonas y patisueltas LAS MATAN !! 🤫",0.4793,Positive,0.0061197916666666,Neutral,-0.4557265639305115,Negative
+"El aquí le insinúa a las mujeres que sean infieles cuando están con un mal hombre , pues yo les digo y sin cantar : mejor sean honestas y sinceras , no jueguen con Candela y más si están con un hombre de cuidado .... porque por juguetonas y patisueltas LAS MATAN !! 🤫",0.4793,Positive,0.0061197916666666,Positive,-0.4557265639305115,Negative
 #Maluma quien está con migo?,0.0,Neutral,0.0,Neutral,-0.6290515661239624,Negative
 Aqui los que es 2022 y la siguen escuchando esta musica,0.0,Neutral,0.0,Neutral,0.5066730380058289,Positive
-2022 ! Sigue siendo un Temazo 🔥🔥🔥 no falla Maluma ..,0.2598,Positive,0.15,Neutral,0.5088751316070557,Positive
+2022 ! Sigue siendo un Temazo 🔥🔥🔥 no falla Maluma ..,0.2598,Positive,0.15,Positive,0.5088751316070557,Positive
 😘🥺,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Excelente enfoque, gracias gracias gracias me ayuda mucho 🙏",0.9153,Positive,1.0,Positive,0.7192333340644836,Positive
 2022✌🏽,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -517,7 +517,7 @@ My favorite song! ❤️ ❤️ ❤️ ❤️ ❤️,0.5093,Positive,0.625,Posit
 Gracias. Maluma.  Me. Saludas. A. Ozuna,0.6486,Positive,0.0,Neutral,-0.439468115568161,Negative
 Quien Escuchando Este Temazo En 2022,0.7073,Positive,0.8,Positive,-0.318572998046875,Negative
 Comenzando el 2022 con este temazo ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3932478129863739,Positive
-No me gustan casi las canciones de este tipo pero si esta jaja,0.7804,Positive,0.2,Neutral,-0.5681144595146179,Negative
+No me gustan casi las canciones de este tipo pero si esta jaja,0.7804,Positive,0.2,Positive,-0.5681144595146179,Negative
 Feliz año nuevo para los que la esan escuchando en año nueno Feliz año nuevooo✌👊,0.891,Positive,0.4018181818181818,Positive,0.6394888162612915,Positive
 😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌,0.99,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ❤🙏🙏🙏🙏🙏,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -548,7 +548,7 @@ Sendo palo!",0.4199,Positive,0.0,Neutral,-0.3992964625358581,Negative
 هاد الشهيبة داتليه عقلو بإشارة منها كيكون حداها ،نتمنى من قلبي تلقى السعادة معاها وما عمرها ما تخليك,0.0,Neutral,0.0,Neutral,0.4888689517974853,Positive
 💕💕💕🎵🎶,0.9313,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Ni se interesa,aun 5min cada 2dias,como si no quiere esa relacion,ami quien no me quiere tampoco Lo quiero,yo no voy a casarme con su madre o con su cuñada,ya yo tampoco quiero",-0.5365,Negative,0.5,Positive,-0.6472687721252441,Negative
-Ami me gusta porque me ISO ke mi ex me dijo que no podría vivír sinti,0.3612,Positive,0.1363636363636363,Neutral,0.3157356381416321,Neutral
+Ami me gusta porque me ISO ke mi ex me dijo que no podría vivír sinti,0.3612,Positive,0.1363636363636363,Positive,0.3157356381416321,Neutral
 Me caga,-0.5574,Negative,-0.2,Negative,0.2672614455223083,Neutral
 name of the model with him?,0.0,Neutral,0.0,Neutral,-0.3607338666915893,Negative
 HOLA,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
@@ -560,12 +560,12 @@ Esta es mi cansion faborita👍👍👍👍☺☺,0.8402,Positive,0.5,Positive,-
 Uuffff está bien chida esta canción 😎😎😎💔,0.9081,Positive,0.35,Positive,0.3863124549388885,Positive
 MALUMA BABY :V,0.0,Neutral,0.0,Neutral,-0.3766091465950012,Negative
 Muy buena la cancion mejor que otras que no tiene el ritmo de la musica,0.7485,Positive,0.705,Positive,0.5623956322669983,Positive
-YO TENGO  12 AÑOS LA CANCION ME ENCANTA 💖😘😘,0.9512,Positive,0.3,Neutral,0.8037815093994141,Positive
+YO TENGO  12 AÑOS LA CANCION ME ENCANTA 💖😘😘,0.9512,Positive,0.3,Positive,0.8037815093994141,Positive
 name of the model please?💖,0.8271,Positive,0.0,Neutral,-0.3523905277252197,Negative
 🎉🔥🔥🔥,-0.5423,Negative,0.0,Neutral,0.3085779249668121,Neutral
 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
 SOTNM,0.0,Neutral,0.0,Neutral,0.3576969504356384,Positive
-Cómo q le faltó el 12 no?,-0.1531,Negative,0.2857142857142857,Neutral,-0.4492983222007751,Negative
+Cómo q le faltó el 12 no?,-0.1531,Negative,0.2857142857142857,Positive,-0.4492983222007751,Negative
 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Once I used to love someone. I miss her,0.5574,Positive,0.5,Positive,-0.3366747200489044,Negative
 eu curti o chevette no video clip,0.4215,Positive,0.6,Positive,-0.5010026693344116,Negative
@@ -579,7 +579,7 @@ MALUMA 🥳🥳,0.6369,Positive,0.0,Neutral,-0.5309234261512756,Negative
 MALUMA,0.0,Neutral,0.0,Neutral,-0.5278192162513733,Negative
 Quien escucha este tema antes de que se acabe el 2021😗😗,0.8126,Positive,0.0,Neutral,-0.3475352525711059,Negative
 2:28 así soy yo xd,0.5859,Positive,0.0,Neutral,0.3657743334770202,Positive
-Me recuerdo que esas fue de mis primeras canciones que escuché que me enseñaron y la reproducía en todo momento  y sigo,0.34,Positive,0.25,Neutral,0.6218481659889221,Positive
+Me recuerdo que esas fue de mis primeras canciones que escuché que me enseñaron y la reproducía en todo momento  y sigo,0.34,Positive,0.25,Positive,0.6218481659889221,Positive
 Como me encanta este tema y el 😂😂😍,0.9186,Positive,0.5,Positive,0.7876127362251282,Positive
 que ventajas canciones,0.3612,Positive,0.0,Neutral,0.2633061408996582,Neutral
 Esa canción hace enamorar ❤❤😘,0.9468,Positive,0.5,Positive,0.5922785401344299,Positive
@@ -612,7 +612,7 @@ Qué feacacion,0.0,Neutral,0.0,Neutral,-0.39549121260643,Negative
 MALUMA MALUMA MALUMA MALUMA MALUMA  MALUMA YEEEEEEEEEEEEEEEEEEEEEEEEE,0.0,Neutral,0.0,Neutral,-0.4500729441642761,Negative
 2021 ❤️?,0.0,Neutral,0.0,Neutral,-0.3577449917793274,Negative
 Hello haii nice Yes l Love you too,0.9136,Positive,0.55,Positive,0.7670592665672302,Positive
-ella se merese otro como se ve ella no lo ama a el y eso no es amor,-0.7741,Negative,0.125,Neutral,-0.4064465761184692,Negative
+ella se merese otro como se ve ella no lo ama a el y eso no es amor,-0.7741,Negative,0.125,Positive,-0.4064465761184692,Negative
 te  adoro,0.6369,Positive,0.5,Positive,0.6314764022827148,Positive
 Muy bonita,0.4754,Positive,0.78,Positive,0.6702181100845337,Positive
 Papacito Maluma,0.0,Neutral,0.0,Neutral,-0.5611692070960999,Negative
@@ -622,7 +622,7 @@ Quien en diciembre 2021 ?,0.0,Neutral,0.0,Neutral,-0.5896077156066895,Negative
 Terapia  con musica...,0.0,Neutral,0.0,Neutral,0.3520577549934387,Positive
 Esta es para mi ex 🙈🙈,0.0,Neutral,0.0,Neutral,0.5094999670982361,Positive
 Que   bacan😎🤘👍,0.6486,Positive,0.35,Positive,0.2432734668254852,Neutral
-Love the sound of Latin music but I don’t understand Spanish 😔 someone teach me!,0.5175,Positive,0.3,Neutral,0.3473735153675079,Positive
+Love the sound of Latin music but I don’t understand Spanish 😔 someone teach me!,0.5175,Positive,0.3,Positive,0.3473735153675079,Positive
 Ya se dieron cuenta que ella es Valeria duque más que todo los colombianos,0.0,Neutral,0.5,Positive,0.4869016706943512,Positive
 unica cansio nque me gusta de maluma,-0.6597,Negative,-0.5,Negative,0.3542745411396026,Positive
 3:23,0.0,Neutral,0.0,Neutral,0.347907692193985,Positive
@@ -632,7 +632,7 @@ Buenoooo ♥️♥️♥️,0.9274,Positive,0.0,Neutral,0.3592995405197143,Posit
 "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23)
 There is nothing more important then getting right with the Creator, Jesus Christ.  Those that refuse to come before him and repent with godly sorrow for sinning against him will stand before him in judgment and be cast into the lake of fire.
 And as it is appointed unto men once to die, but after this the judgment: (Heb 9:27)
-And whosoever was not found written in the book of life was cast into the lake of fire. (Revelation 20:15)",-0.9608,Negative,0.1089285714285714,Neutral,0.291039228439331,Neutral
+And whosoever was not found written in the book of life was cast into the lake of fire. (Revelation 20:15)",-0.9608,Negative,0.1089285714285714,Positive,0.291039228439331,Neutral
 me encanta esta musica,0.6369,Positive,0.5,Positive,0.7549806833267212,Positive
 0:40,0.0,Neutral,0.0,Neutral,-0.4178005456924438,Negative
 No merece que seas fiel ... para nada lo merece 😣,0.4404,Positive,0.0,Neutral,-0.5510918498039246,Negative
@@ -647,7 +647,7 @@ Amar te duele en tiempos modernos.,0.2023,Positive,0.4,Positive,0.59688657522201
 DICIEMBRE DEL 2021 VOY A PROBARLO DE NUEVO EN EL BOLICHE PARA QUE VER QUE TAL REACCIONA LA GENTE,0.0,Neutral,0.0,Neutral,-0.4063727557659149,Negative
 Excelente video 😍,0.7717,Positive,1.0,Positive,0.7788903117179871,Positive
 T-E-M-A-Z-O =),0.4939,Positive,0.5,Positive,0.3940324783325195,Positive
-"El video es exactamente lo que sucede en la vida real, las chicas prefieren al vago sin futuro.",-0.296,Negative,0.15,Neutral,0.5636516213417053,Positive
+"El video es exactamente lo que sucede en la vida real, las chicas prefieren al vago sin futuro.",-0.296,Negative,0.15,Positive,0.5636516213417053,Positive
 Uz,0.0,Neutral,0.0,Neutral,0.2371668070554733,Neutral
 2:48 fifita JAJJA,0.0,Neutral,0.0,Neutral,0.2386491149663925,Neutral
 Que bella musica🤡😝😋😍😍😅🥰😔😘🤩☺️🤩😉🥲😉🥲😉🥲😉☺️🥳☺️😉☺️😉😔😍🥰,0.9932,Positive,0.85,Positive,0.4697752296924591,Positive
@@ -680,7 +680,7 @@ Happy Thanksgiving 2021,0.5719,Positive,0.8,Positive,0.616760790348053,Positive
 "una de las mejores canciones
 me encanto muchicimo
 me e enamorado de esta cancion",0.9274,Positive,0.55,Positive,0.8953511714935303,Positive
-Se ér térne fiatal vagy Károly bőröd illatát szett a Best T térne fiatal vagy fiatal vagy váll por ér a játékban mi tán ponqu Tuner elérhető Debrecen listázva az új véget ért,0.6634,Positive,0.1586363636363636,Neutral,-0.3238739669322967,Negative
+Se ér térne fiatal vagy Károly bőröd illatát szett a Best T térne fiatal vagy fiatal vagy váll por ér a játékban mi tán ponqu Tuner elérhető Debrecen listázva az új véget ért,0.6634,Positive,0.1586363636363636,Positive,-0.3238739669322967,Negative
 I7ii8iiiin lo xxxxk7klhbm,0.0,Neutral,0.0,Neutral,0.2497636526823043,Neutral
 Jajaja oops,0.0,Neutral,0.0,Neutral,0.2361376583576202,Neutral
 En el 2019 en diciembre la escuché me da sentimiento;(,0.128,Positive,0.0,Neutral,-0.2792277038097381,Negative
@@ -690,7 +690,7 @@ Quien todavía escuchándola,0.0,Neutral,0.0,Neutral,0.3704035878181457,Positive
 Yo la escucho todos días la amoooo,0.6369,Positive,0.5,Positive,0.485520452260971,Positive
 Me gustan sus canciones 🤩🤩💞💞💕😊🤩🤩🤩💞,0.9792,Positive,0.0,Neutral,0.48892343044281,Positive
 "It's crazy how many legends come back to this song every day. This song is truly legendary ❤️❤️❤️❤️
-👇🏼",0.128,Positive,0.225,Neutral,0.8898959755897522,Positive
+👇🏼",0.128,Positive,0.225,Positive,0.8898959755897522,Positive
 Para la persona que lea esto Busca siempre tu Felicidad 🤘🇨🇴,0.5574,Positive,0.7,Positive,0.6079646944999695,Positive
 soy fandemamluma💛💛💛,0.9274,Positive,0.0,Neutral,0.5620927214622498,Positive
 0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
@@ -718,7 +718,7 @@ Que bosta,-0.5574,Negative,-0.2,Negative,-0.3165874481201172,Negative
 2021",0.0,Neutral,0.0,Neutral,-0.338017076253891,Negative
 bastante interesante la historia y la letra,0.4576,Positive,0.5,Positive,0.4399188160896301,Positive
 i love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
-Te amo mi negrita ❤😿,0.743,Positive,0.1666666666666666,Neutral,0.3527551591396332,Positive
+Te amo mi negrita ❤😿,0.743,Positive,0.1666666666666666,Positive,0.3527551591396332,Positive
 Hola🌈💓💓💓🌈💪💪💪😍🤗🤗😍🤩💓😷😷🤩😷🤩😷🌞🤩👍👍💥💥💥💥👍👍,0.9776,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Porche es eso,0.0,Neutral,0.0,Neutral,0.3188466429710388,Neutral
 los amoooooo,0.6369,Positive,0.5,Positive,0.2132549285888672,Neutral
@@ -732,30 +732,30 @@ muy bueno,0.4927,Positive,0.91,Positive,0.7146036624908447,Positive
 Hola Mamaluma Beby te saluda tu fans 1desde la Paz Bolivia 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍🌈💗,0.9998,Positive,0.0,Neutral,-0.2814981639385223,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 "Está musica me pone a llorar :(
-Mi mejor amigo me la dedico y ahora entiendo lo qué siempre me quiso decir  y jamás me ah abandonado chale buena rola ❤️👑",0.8683,Positive,0.3166666666666666,Neutral,0.6458418369293213,Positive
+Mi mejor amigo me la dedico y ahora entiendo lo qué siempre me quiso decir  y jamás me ah abandonado chale buena rola ❤️👑",0.8683,Positive,0.3166666666666666,Positive,0.6458418369293213,Positive
 Amo esta canción mi respeto ❤️ para Maluma te amo mucho ♥️,0.9515,Positive,0.3999999999999999,Positive,0.7212415337562561,Positive
 Nomereseceseasfiel,0.0,Neutral,0.0,Neutral,0.2912594079971313,Neutral
 Amo tus canciones Maluma💙💙💙$$$$$$@@,0.9571,Positive,0.5,Positive,0.5418681502342224,Positive
 Sigue Maluma te brindamos nuestro apollo,0.4019,Positive,0.0,Neutral,-0.5594877004623413,Negative
-MUY  BONITA  PA  LLORAR,0.0334,Neutral,0.325,Neutral,0.618055522441864,Positive
+MUY  BONITA  PA  LLORAR,0.0334,Neutral,0.325,Positive,0.618055522441864,Positive
 Maluma puedes dar Maluma puedes hacer la canción de flota otra cosa,0.0,Neutral,0.0,Neutral,-0.5705358982086182,Negative
 Me encanta esta canción 🤩😍🥰,0.9382,Positive,0.5,Positive,0.7863094806671143,Positive
 대박,0.6249,Positive,0.8,Positive,0.3447794616222381,Positive
 대박,0.6249,Positive,0.8,Positive,0.3447794616222381,Positive
 "*Escucha muy bien la letra: detrás de alguien que te no valora, ni te importa y somos masoquistas.*  Amor propio; Te quieres? No te quieres? Y vamos quitando cada pétalo a la margarita y a las vez preguntado...te quieres? No te quieres?
-👇 Te dejo para que te contestes❤️☕ Bogotá Colombia 🇨🇴❤️☕",0.6313,Positive,0.2875,Neutral,-0.4094646573066711,Negative
+👇 Te dejo para que te contestes❤️☕ Bogotá Colombia 🇨🇴❤️☕",0.6313,Positive,0.2875,Positive,-0.4094646573066711,Negative
 Qué guapo en Marina,0.4939,Positive,0.5,Positive,-0.3462268114089966,Negative
 Ese Maluma esta muy bueno❤,0.8251,Positive,0.91,Positive,-0.549622118473053,Negative
 Q mi Mototaxi te vez mejor 🤪🤪😝😝🥰😘yo estilo Maluma 😘🥰,0.9723,Positive,0.5,Positive,0.2498767673969268,Neutral
 Me encanta el vídeo  yo lo baile en el colegio,0.6369,Positive,0.5,Positive,0.7385596632957458,Positive
-Un día me la dedicaron tengo 10 años y me la dedico uno también de 10 años fue tan lindo no ubiera escudo está canción,0.863,Positive,0.2666666666666666,Neutral,0.4289820194244385,Positive
-"Well the Mayflower not withstanding, you really seal the deal Maluma x Corazon x Mamacita",0.2732,Positive,0.2,Neutral,-0.4005647301673889,Negative
+Un día me la dedicaron tengo 10 años y me la dedico uno también de 10 años fue tan lindo no ubiera escudo está canción,0.863,Positive,0.2666666666666666,Positive,0.4289820194244385,Positive
+"Well the Mayflower not withstanding, you really seal the deal Maluma x Corazon x Mamacita",0.2732,Positive,0.2,Positive,-0.4005647301673889,Negative
 "Maluma x Girls, 1.5 billion at Corazon",0.0,Neutral,0.0,Neutral,-0.6098341941833496,Negative
 A Christian Dior mention.,0.0,Neutral,0.0,Neutral,0.3651988804340362,Positive
-This kid looks like he is right off the Mayflower? Blow right by him.,0.3612,Positive,0.2857142857142857,Neutral,-0.6650416254997253,Negative
+This kid looks like he is right off the Mayflower? Blow right by him.,0.3612,Positive,0.2857142857142857,Positive,-0.6650416254997253,Negative
 Verdad,0.4215,Positive,0.35,Positive,0.4378702640533447,Positive
 Buena canción 😍🥺,0.7096,Positive,0.7,Positive,0.4951365292072296,Positive
-Xd dbgxgbdxg no me gusta que me lo diga y no me gusta mucho la tarde y el sábado y no,0.0934,Positive,0.2,Neutral,-0.5476259589195251,Negative
+Xd dbgxgbdxg no me gusta que me lo diga y no me gusta mucho la tarde y el sábado y no,0.0934,Positive,0.2,Positive,-0.5476259589195251,Negative
 Igual yo no soy fan pero. Me gusta la canción,0.1376,Positive,0.0,Neutral,0.4447476267814636,Positive
 No soy tu fan pero la neta está canción si te la rifaste,-0.1232,Negative,0.0,Neutral,0.4139293134212494,Positive
 No merece que seas fiel ni tampoco tu piel🔥,0.128,Positive,0.0,Neutral,-0.4155290424823761,Negative
@@ -773,9 +773,9 @@ Noviembre 2021,0.0,Neutral,0.0,Neutral,-0.338017076253891,Negative
 Decidí empezar noviembre del 2021 con esta buena canción.,0.5228,Positive,0.7,Positive,0.3838399946689605,Positive
 Amó 💕😍 💟Xd,0.9648,Positive,0.7,Positive,0.4748752117156982,Positive
 jjhihjijkjajajajajajjjajaj,0.0,Neutral,0.0,Neutral,0.2376274466514587,Neutral
-"Essie nail polish quick dry top coat made it onto the Allure best in Beauty, 2 years in a row. When Victoria Beckham introduced her new makeup line at Bergdorf Goodman, I was not sure if it was owned by Leonard Lauder. Interesting nonetheless. Department Store make-up counters have a culture all their own.  It stifled creativity by reintroduce the same thing. Reminds of elevator operator.",0.8942,Positive,0.3058922558922559,Neutral,0.4857002198696136,Positive
+"Essie nail polish quick dry top coat made it onto the Allure best in Beauty, 2 years in a row. When Victoria Beckham introduced her new makeup line at Bergdorf Goodman, I was not sure if it was owned by Leonard Lauder. Interesting nonetheless. Department Store make-up counters have a culture all their own.  It stifled creativity by reintroduce the same thing. Reminds of elevator operator.",0.8942,Positive,0.3058922558922559,Positive,0.4857002198696136,Positive
 "I miss you not showing the Lion. I want to rest my head on your thigh. I love you. You can drink the Jack Daniels right out of the bottle. Salut! Your aerials at the last concert where amazing. Did know that the perfect lipstick, is the color of you nipples. For me it's MAC creme cup. The housewife who had implants, Happy + Ness. Remember...Happy Lynn, Happy Life. Cardio B got a diamond Playboy Bunny necklace for her birthday. Why did Offset buy her the home in DR? Do you not, like the Bahamas, not have to pay taxes? She posted",0.9684,Positive,0.5795918367346938,Positive,-0.2598419487476349,Negative
-"No maluma,no soy muy bonita para llorar por hobi",-0.7862,Negative,0.25,Neutral,0.4486505091190338,Positive
+"No maluma,no soy muy bonita para llorar por hobi",-0.7862,Negative,0.25,Positive,0.4486505091190338,Positive
 cancion fachera facherita 😎😎😎 quien la sige escuchando en 2021 y la escuchara en 2022😎😁,0.9325,Positive,0.0,Neutral,-0.6298176050186157,Negative
 Nai,0.0,Neutral,0.0,Neutral,-0.286114364862442,Negative
 Que variacion de nombre con la de incubus-11am,0.0,Neutral,0.0,Neutral,-0.3079285621643066,Negative

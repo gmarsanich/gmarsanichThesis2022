@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Quienes la escuchan en el 2022?🩸,0.0,Neutral,0.0,Neutral,-0.3793809413909912,Negative
-Gracias Saludos la Mesa Central De un saludo José Man,0.8271,Positive,0.3,Neutral,0.3298962414264679,Neutral
+Gracias Saludos la Mesa Central De un saludo José Man,0.8271,Positive,0.3,Positive,0.3298962414264679,Neutral
 CAMILA 🎉🎉🎊🎊🎈🎈🎂🎂🎀🎀🎁🎁🎇🎇🧨🧨🎄🎄🎖️🎖️🏅🏅🥉🥉🥈🥈🥇🥇🏆🏆🏂🏂⛷️⛷️⛷️❤️❤️🧡🧡💛💛💚💚💙💙🖤🖤💜💜🖕🖕👌👌👌🤙🤞🤞✌️✌️🤘🤘🤟🤟✊✊👎👎👍👍💪💪💪💪🦷🦷🍓🍓🍉🍉🍅🍅🥥🥥🥑🥑🍇🍇🥝🥝🥝🥝🥝🥐🥐🥞🥞🌭🌭🍔🍔🌮🌮🍟🍟🥮🥮🧁🧁🎂🎂🎂🍰🍰🥧🥧🍩🍩🍫🍫🍱🍱🍾🍾🥂🥂☕☕🍸🍸🍸,0.9987,Positive,0.0,Neutral,0.2672346830368042,Neutral
 Camila 🏂🏂⛷️⛷️🎅🎅🤶🤶🤴🤴👸👸🤵🤵👰👰👰👮👮👩‍✈️👩‍✈️🧕🧕👲👲👨‍🦰👨‍🦰👩‍🦰👩‍🦰🕺🕺💃💃💐💐💐🌹🌹🥀🥀🌺🌺🌷🌷🌸🌸💮💮🏵️🏵️🌻🌻🌼🌼🌼❤️❤️🧡🧡💛💛💚💚💙💙🖤🖤💜💜🖕🖕👌👌👌🤙🤙🤞🤞✌️✌️🤘🤘🤟🤟✊✊👎👎👍👍💪💪💪🦷🦷,0.9975,Positive,0.0,Neutral,0.2672346830368042,Neutral
 "Quién lo escucha en este 2022, y DIOS lo bendiga a cada uno de ustedes y el que lee esto, Bendiciones 🔥🔥",0.7147,Positive,0.0,Neutral,0.6045703291893005,Positive
@@ -24,7 +24,7 @@ ozuna es el mejor lo amoooo,0.8555,Positive,0.75,Positive,0.6666558980941772,Pos
 2022🎧🙋‍♂️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 2022 alguien más?,0.0,Neutral,0.0,Neutral,-0.3537529706954956,Negative
 2022 me toco ami,0.0,Neutral,0.0,Neutral,0.3051714897155761,Neutral
-Aunque me quede pobre todavia te amo. Buenas noches te amo.,0.743,Positive,0.1999999999999999,Neutral,0.4772034585475921,Positive
+Aunque me quede pobre todavia te amo. Buenas noches te amo.,0.743,Positive,0.1999999999999999,Positive,0.4772034585475921,Positive
 Recuerda realizar comentarios✌️✌️✌️✌️✌️💖💖💖,0.9595,Positive,0.0,Neutral,0.5405802130699158,Positive
 Se preparó se puso linda a su amiga llamaba 🤍☠️😈,0.8934,Positive,0.35,Positive,-0.5735218524932861,Negative
 se le paró,-0.2263,Negative,0.0,Neutral,0.2890241742134094,Neutral
@@ -56,7 +56,7 @@ ALGUIEN DEL 2022? 🥺💞,0.6486,Positive,0.0,Neutral,-0.5628118515014648,Negat
 😍😍😍😍😍😘😘😘😘😻😻😻👨‍❤️‍💋‍👨👨‍❤️‍💋‍👨👨‍❤️‍💋‍👨👨‍❤️‍💋‍👨👨‍❤️‍💋‍👨👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👨‍❤️‍💋‍👨👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩👨‍❤️‍💋‍👨👩‍❤️‍💋‍👩👩‍❤️‍💋‍👩💑💑👩‍❤️‍👨👩‍❤️‍👨👨‍❤️‍👨,0.9978,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🥰🥰🥰,0.9716,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Te quiero Ozuna te amo,❤️❤️❤️",0.8555,Positive,0.5,Positive,0.6244879364967346,Positive
-Ella se preparo y tu?,0.3612,Positive,0.2,Neutral,-0.4747657179832458,Negative
+Ella se preparo y tu?,0.3612,Positive,0.2,Positive,-0.4747657179832458,Negative
 Yo el 2022,0.0,Neutral,0.0,Neutral,0.267833948135376,Neutral
 soy del 2022 y la sigo teniendo en cora,0.6369,Positive,0.0,Neutral,0.2987813055515289,Neutral
 Quien la escucha todavía  en el 2022,0.0,Neutral,0.0,Neutral,0.253180980682373,Neutral
@@ -67,7 +67,7 @@ Quien la escucha todavía  en el 2022,0.0,Neutral,0.0,Neutral,0.253180980682373,
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Quien escucha 2022😘😘,0.6808,Positive,0.0,Neutral,0.3902740776538849,Positive
 Quien lo escucha en 2022!,0.0,Neutral,0.0,Neutral,0.4596732854843139,Positive
-Los dos libros favoritos de los multimillonarios / The King Business: The Boss Player Association Mackology 2.ª edición / El filósofo filosófico presenta la filosofía de la vida en la calle / Disponible ahora en todas las plataformas de libros,0.4588,Positive,0.225,Neutral,0.5837105512619019,Positive
+Los dos libros favoritos de los multimillonarios / The King Business: The Boss Player Association Mackology 2.ª edición / El filósofo filosófico presenta la filosofía de la vida en la calle / Disponible ahora en todas las plataformas de libros,0.4588,Positive,0.225,Positive,0.5837105512619019,Positive
 Yo 🥰,0.8074,Positive,0.0,Neutral,0.368987500667572,Positive
 Me encata todas  las musicas de ozuna l0v3,0.6369,Positive,0.5,Positive,-0.3364184498786926,Negative
 Soy la niña mala amo a Axel Gabriel Vallejo García,0.1779,Positive,-0.0999999999999999,Negative,-0.5130515694618225,Negative
@@ -82,7 +82,7 @@ Aquí los que la escuchan en abril del 2022🔥🔥,-0.5859,Negative,0.0,Neutral
 "Como que hace 4 años de que salió?!??!?
 Parece que fue ayer...",0.7611,Positive,0.0,Neutral,-0.5335811376571655,Negative
 Idol mío saludos de México,0.4215,Positive,0.0,Neutral,0.7513689994812012,Positive
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 Trenmendo video 🤯,0.0,Neutral,0.0,Neutral,-0.333889752626419,Negative
 Por qué ya no saca música como antes?,0.3612,Positive,0.0,Neutral,-0.4034812748432159,Negative
 "La cancion: Se preparo
@@ -105,7 +105,7 @@ Quien la escucha en 2022 temonnn,0.0,Neutral,0.0,Neutral,-0.4364033043384552,Neg
 Quienes la escuchando en 2022🔥🔥🔥????,-0.7998,Negative,0.0,Neutral,-0.4556508660316467,Negative
 Goddddd ozuna te quedo re bien,0.4404,Positive,0.7,Positive,0.3434305489063263,Positive
 Mientras más fuerte más limpia la casa💙🔥,0.7269,Positive,0.0,Neutral,0.340878427028656,Positive
-It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.7126774191856384,Positive
+It’s this song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.7126774191856384,Positive
 sơn ca diễn cũng duyên quá chứ,0.624,Positive,0.4549999999999999,Positive,0.2679170370101928,Neutral
 Epico🤚🌞,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
 me encantan tus videos 😊❤👍👍👍💅,0.9371,Positive,0.5,Positive,0.7784990072250366,Positive
@@ -115,11 +115,11 @@ Xd,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
 De que equipo soy de ti,0.0,Neutral,0.0,Neutral,0.370408684015274,Positive
 La version de calamardo esta mejor....🤣🤣,0.8519,Positive,0.0,Neutral,0.3911654949188232,Positive
 Bendiciones mio 🙏🙏,0.5423,Positive,0.0,Neutral,0.5005271434783936,Positive
-"More views than likes, Fucking creeps 😡😡😡, Great music ozuna 🔥🔥🔥🔥🇩🇴🇩🇴🇩🇴🇩🇴",0.2415,Positive,0.2333333333333333,Neutral,0.611588180065155,Positive
+"More views than likes, Fucking creeps 😡😡😡, Great music ozuna 🔥🔥🔥🔥🇩🇴🇩🇴🇩🇴🇩🇴",0.2415,Positive,0.2333333333333333,Positive,0.611588180065155,Positive
 Quien el el 2022,0.0,Neutral,0.0,Neutral,-0.2784072160720825,Negative
 Quien la escucha en 2022???,0.0,Neutral,0.0,Neutral,-0.5275201797485352,Negative
 Que lindo es la canción 💝💝💝💝💝💝💝💝❤️😘😍,0.9925,Positive,0.5,Positive,0.4573119878768921,Positive
-ozuna en su prime es dioos,0.2732,Positive,0.25,Neutral,-0.3040996789932251,Negative
+ozuna en su prime es dioos,0.2732,Positive,0.25,Positive,-0.3040996789932251,Negative
 Quien la escucha en el 2022 😄🌏😎😎😆??,0.924,Positive,0.0,Neutral,-0.4741823375225067,Negative
 "Cảm ơn c ạ,hqua vừa nhận được thông báo là tập luôn bayh e đã đánh được r ạ,cảm ơn c nhiềuuuu❤️❤️",0.296,Positive,0.0,Neutral,-0.5100061297416687,Negative
 Quiero Q en YouTu Escriban David Neta. Canta _Rap Con Calidad 🙏,0.0772,Positive,0.0,Neutral,0.6161050796508789,Positive
@@ -127,8 +127,8 @@ Awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
 escuchar esta canción de noche  es mejor X ),0.4404,Positive,0.5,Positive,0.4608002603054046,Positive
 Bendiciones😘,0.743,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Hola momento🥰🥰🤯🤯🤩🤩,0.9393,Positive,0.0,Neutral,0.2730221152305603,Neutral
-buaa amo ste cancion >3,0.8402,Positive,0.3,Neutral,0.3583029210567474,Positive
-không cười được miếng nào luôn,-0.4449,Negative,0.3,Neutral,-0.5312365889549255,Negative
+buaa amo ste cancion >3,0.8402,Positive,0.3,Positive,0.3583029210567474,Positive
+không cười được miếng nào luôn,-0.4449,Negative,0.3,Positive,-0.5312365889549255,Negative
 Facebook,0.0,Neutral,0.0,Neutral,0.3388949930667877,Positive
 "Giọng Đức Phúc đỉnh quá đi mất. Nó kiểu mộc mạc, ko màu mè và nghe rất chân thành ấy ❤❤❤❤❤ Mong 1 ngày sẽ được ngồi ở trời Đà Lạt và nghe Phúc hát 🎵",0.9893,Positive,0.4,Positive,-0.3710704445838928,Negative
 Quien La Escucha En 2022👇🏾❤,0.6369,Positive,0.0,Neutral,0.3862582445144653,Positive
@@ -154,7 +154,7 @@ Quién sigue escuchando en abril 2022 este temazo ya volviendo a la normalidad d
 🔥🔥🔥🔥🔥❤️❤️❤️,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Con musica de Ozuna cualquier video o situacion pierde contexto,-0.3182,Negative,-0.3,Negative,-0.5765764713287354,Negative
 2022 ?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
 Quién la escucha en 2022,0.0,Neutral,0.0,Neutral,0.3191027045249939,Neutral
 AMO ESTA CANCION,0.6369,Positive,0.5,Positive,0.6954569816589355,Positive
 "This is the song that you don't hear for a while but when you hear it, it feels like magic 💫❤",0.8271,Positive,0.5,Positive,0.4698027372360229,Positive
@@ -187,12 +187,12 @@ Quienes escuchando en 2022?,0.0,Neutral,0.0,Neutral,-0.423533946275711,Negative
 Si muibien,0.0,Neutral,0.0,Neutral,0.2866552770137787,Neutral
 💘💘,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Nadie absolutamente nadie:Se me paro xd,-0.2006,Negative,-0.1,Negative,-0.8725456595420837,Negative
-A las finales se cree vivos y los pillan igual ayqe aserle lo mismo,0.3818,Positive,0.0333333333333333,Neutral,-0.3939878046512604,Negative
+A las finales se cree vivos y los pillan igual ayqe aserle lo mismo,0.3818,Positive,0.0333333333333333,Positive,-0.3939878046512604,Negative
 Quin la escucha en el 2022,0.0,Neutral,0.0,Neutral,-0.2815276086330414,Negative
 1:48 ozuna reencarnacion de m.j confirmado? 😳😳😳😳,0.0,Neutral,0.4,Positive,-0.4860486090183258,Negative
 Estamos en el 2022 por qué ya nadie la escucha ahora en el 2022,-0.296,Negative,0.0,Neutral,-0.423242449760437,Negative
 Quien en 2022??🔥🔥,-0.6322,Negative,0.0,Neutral,-0.5071874856948853,Negative
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you ❤️💕,0.9186,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
 se me paro,-0.2263,Negative,0.0,Neutral,0.2834541499614715,Neutral
 Alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
 2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
@@ -205,11 +205,11 @@ Muy buena,0.4927,Positive,0.91,Positive,0.743147611618042,Positive
 Quien la sigue escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.4002824127674103,Positive
 Mi esposo y yo se fue hace una semana de la casa una relación de 8 años y hoy voy a preparar organizarme y a beber con mis amigos porque cumplo domingo de de resurrección disfrutar mi soltería nuevamente de tantos años feliz semana santa,0.8824,Positive,0.425,Positive,0.6932123303413391,Positive
 "Tremenda rolita🔥
-2022 PRESENTE!!",-0.5044,Negative,0.1666666666666666,Neutral,0.8141449689865112,Positive
+2022 PRESENTE!!",-0.5044,Negative,0.1666666666666666,Positive,0.8141449689865112,Positive
 13345680,0.0,Neutral,0.0,Neutral,0.263855904340744,Neutral
 😀😀🤭🤭🥰😛💋,0.9661,Positive,0.0,Neutral,0.3085779249668121,Neutral
 anto,0.0,Neutral,0.0,Neutral,0.2811199724674225,Neutral
-Escuchando la nuevamente año 2022 siempre ozuna.,0.0,Neutral,0.1363636363636363,Neutral,0.4372827410697937,Positive
+Escuchando la nuevamente año 2022 siempre ozuna.,0.0,Neutral,0.1363636363636363,Positive,0.4372827410697937,Positive
 Who here in 2022🎆🎇,0.0,Neutral,0.0,Neutral,0.4168813228607178,Positive
 Ths vdo its not jst a beutifull song its true story they teach us !,-0.1625,Negative,0.64375,Positive,0.3765332400798797,Positive
 Es hermosa es música,0.5994,Positive,0.85,Positive,0.6494413614273071,Positive
@@ -257,7 +257,7 @@ Dale champán y se prende en candela, esa e' mi nena
 Hoy ella hace lo que quiera
 Se monta en su nave a quemar la carretera
 Le mete al baile con la música buena
-Dame la champán y se me prende en candela, esa e' mi nena",0.8122,Positive,0.1733333333333333,Neutral,-0.4176642596721649,Negative
+Dame la champán y se me prende en candela, esa e' mi nena",0.8122,Positive,0.1733333333333333,Positive,-0.4176642596721649,Negative
 "No puedo evitar pensar en *""se me paró""*",-0.455,Negative,0.0,Neutral,-0.3333002030849457,Negative
 🤭😮🖥😑😐😖🙁🥺😥😢😭😭😭☹️😀😀😀😄😆🥰😍😆💗🥰😘💋😆😍🥰😘😍🥰😘🔥🔥😆🥰💖,0.9987,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
@@ -274,7 +274,7 @@ Desde Venezuela",0.9062,Positive,0.85,Positive,0.6095338463783264,Positive
 Quien en 2022??,0.0,Neutral,0.0,Neutral,-0.5067848563194275,Negative
 Quien en 2022🤣,0.4939,Positive,0.0,Neutral,0.410000741481781,Positive
 Woooww me encanta esa canción quien más la escucha en el 2022🤣🤩😍,0.886,Positive,0.5,Positive,0.765831708908081,Positive
-Quién la escucha en 2022? Esta canción para mí nunca pasa de moda,0.0,Neutral,0.1,Neutral,-0.6264727115631104,Negative
+Quién la escucha en 2022? Esta canción para mí nunca pasa de moda,0.0,Neutral,0.1,Positive,-0.6264727115631104,Negative
 Quien en el 2022,0.0,Neutral,0.0,Neutral,0.2995925545692444,Neutral
 2022💗,0.7096,Positive,0.0,Neutral,0.3085779249668121,Neutral
 hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
@@ -291,7 +291,7 @@ Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
 Fuj,0.0,Neutral,0.0,Neutral,-0.2520405948162079,Negative
 Ya abril 2022 y yo escucho está melodía,0.0,Neutral,0.0,Neutral,0.41718190908432,Positive
 Quienes la estan escuchando en 2022??🔥🔥🔥🔥,-0.8385,Negative,0.0,Neutral,-0.4597628712654114,Negative
-que puta mierda :))),-0.5423,Negative,0.0499999999999999,Neutral,0.2738350629806518,Neutral
+que puta mierda :))),-0.5423,Negative,0.0499999999999999,Positive,0.2738350629806518,Neutral
 Quien escucha 2022❤️‍🔥❤️‍🔥❤️‍🔥,-0.7351,Negative,0.0,Neutral,0.3902740776538849,Positive
 Que tiempos aquellos,0.4404,Positive,0.7,Positive,0.3091433346271515,Neutral
 2022 y sigue siendo una de mis canciones favoritas 🤩🤩 está canción me recuerda cuando no abia cobid y cuando se podía salir y gosar 😙❤️❤️ sin duda mi canción favorita,0.9414,Positive,0.4666666666666666,Positive,0.7363960146903992,Positive
@@ -309,7 +309,7 @@ CAMILA 🎉🎉🎊🎊🎈🎈🎂🎂🎀🎀🎁🎁🎇🎇🧨🧨🥐🥐�
 hola.??; de los datos para;,0.0,Neutral,0.0,Neutral,-0.3404525518417358,Negative
 Así misma azuna,0.0,Neutral,0.0,Neutral,-0.3455720543861389,Negative
 Quién escucha está canción en 2022🥺,0.0,Neutral,0.0,Neutral,0.4070999026298523,Positive
-Se preparó 🙌,0.3612,Positive,0.2,Neutral,-0.2735928297042846,Negative
+Se preparó 🙌,0.3612,Positive,0.2,Positive,-0.2735928297042846,Negative
 🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🏆🥇ozuna. Eduin,0.0,Neutral,0.0,Neutral,0.2645215392112732,Neutral
 Yop,0.0,Neutral,0.0,Neutral,-0.2443156987428665,Negative
 Quién escucha en 2022,0.0,Neutral,0.0,Neutral,0.3219457566738128,Neutral
@@ -373,13 +373,13 @@ El le falló  🤍🍾🍷,-0.5106,Negative,-0.5,Negative,-0.4383912682533264,Ne
 Quien la escucha 2022,0.0,Neutral,0.0,Neutral,0.2784157395362854,Neutral
 20222,0.0,Neutral,0.0,Neutral,-0.2537340223789215,Negative
 God,0.2732,Positive,0.0,Neutral,0.5458810925483704,Positive
-🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵 esa musica es vieja,0.0,Neutral,0.1,Neutral,-0.3077199757099151,Negative
-"joder chente dejo la musica mexicana en el mejor exponente latinoamericano jamas visto, simplemente una belleza y un artyistazo",0.743,Positive,0.2,Neutral,0.87332683801651,Positive
+🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵 esa musica es vieja,0.0,Neutral,0.1,Positive,-0.3077199757099151,Negative
+"joder chente dejo la musica mexicana en el mejor exponente latinoamericano jamas visto, simplemente una belleza y un artyistazo",0.743,Positive,0.2,Positive,0.87332683801651,Positive
 2022 presente ❤️🇵🇾,0.0,Neutral,0.0,Neutral,0.5061110854148865,Positive
 TE AMO baby,0.6369,Positive,0.5,Positive,0.4786742925643921,Positive
 Buenos dias td amo,0.7964,Positive,0.6,Positive,0.4589075148105621,Positive
 Quien escucha en 2024,0.0,Neutral,0.0,Neutral,0.2949156463146209,Neutral
-Alguien más se puso feliz cuando apareció el infiel en las pantallas jajaja iluso,0.7351,Positive,0.2333333333333333,Neutral,-0.3698437511920929,Negative
+Alguien más se puso feliz cuando apareció el infiel en las pantallas jajaja iluso,0.7351,Positive,0.2333333333333333,Positive,-0.3698437511920929,Negative
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
 Dope,0.0,Neutral,0.0,Neutral,0.2477120161056518,Neutral
 Quién la escuchá en el 2022,0.0,Neutral,0.0,Neutral,0.2841423451900482,Neutral
@@ -389,16 +389,16 @@ Quien escucha esta canción en 2022,0.0,Neutral,0.0,Neutral,0.3235695958137512,N
 Alguien escuchando esto en el 2023,0.0,Neutral,0.0,Neutral,-0.3592825829982757,Negative
 Quién en 2022,0.0,Neutral,0.0,Neutral,0.3151768445968628,Neutral
 "Metías tu celular a la ducha y ponías este tema, te ponía a bailar. 🥲❤️",0.0,Neutral,0.0,Neutral,0.3291224539279938,Neutral
-Se preparó,0.3612,Positive,0.2,Neutral,-0.2710524797439575,Negative
+Se preparó,0.3612,Positive,0.2,Positive,-0.2710524797439575,Negative
 es cuchandola en 2022,0.0,Neutral,0.0,Neutral,-0.4919759929180145,Negative
-High class venganza buwaahgahah,0.0,Neutral,0.16,Neutral,0.6994106769561768,Positive
+High class venganza buwaahgahah,0.0,Neutral,0.16,Positive,0.6994106769561768,Positive
 Quien más en el 2022 ?,0.0,Neutral,0.0,Neutral,-0.2706097364425659,Negative
 2022 y de lo mejor 😩,0.4767,Positive,1.0,Positive,0.8423073291778564,Positive
 2022 do brazil,0.0,Neutral,0.0,Neutral,0.2759929001331329,Neutral
 quien en 2022❤❤,0.8555,Positive,0.0,Neutral,0.410000741481781,Positive
 🐐🐻💫,-0.2263,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Banda lo escuché y no ví la parte que dice se me paro 🤧🤧,-0.2263,Negative,0.0,Neutral,-0.4568910896778106,Negative
-Alguien vivo en el 2022?,0.3818,Positive,0.1,Neutral,-0.5527448058128357,Negative
+Alguien vivo en el 2022?,0.3818,Positive,0.1,Positive,-0.5527448058128357,Negative
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 omg el best video de mi vida una bez termine conmi parega y lla no somos pareja,0.6369,Positive,1.0,Positive,0.8376378417015076,Positive
 Aquí los que la escuchan en 2022,0.0,Neutral,0.0,Neutral,0.3084650933742523,Neutral
@@ -410,14 +410,14 @@ que ggrande ozunnanANBANJAN,0.6249,Positive,0.8,Positive,-0.2684313654899597,Neg
 💚💚💚Romania here 💚💚💚,0.9719,Positive,0.0,Neutral,0.4771271347999573,Positive
 Laostia,0.0,Neutral,0.0,Neutral,0.2681550681591034,Neutral
 Quien la escucha en el 2022:),0.4588,Positive,0.5,Positive,0.4201480448246002,Positive
-Me gusta mucho la canción 😍,0.6997,Positive,0.2,Neutral,0.464030772447586,Positive
+Me gusta mucho la canción 😍,0.6997,Positive,0.2,Positive,0.464030772447586,Positive
 🤦🤦🤦,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Q buena está canción me encanta para de Dedicársela a   mi ex .. en señar sela  a el  ex,0.7964,Positive,0.6,Positive,0.5626410841941833,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Qien la escucha en 2022?,0.0,Neutral,0.0,Neutral,-0.3367165923118591,Negative
 Me sorprende como una pequeña isla nos conquistó los corazones 🇵🇷🇵🇷🇵🇷,0.7351,Positive,-0.075,Negative,0.6374385356903076,Positive
-épico Osuna,0.0,Neutral,0.1,Neutral,0.2855799496173858,Neutral
-alto temasooo,0.0,Neutral,0.16,Neutral,0.2481977045536041,Neutral
+épico Osuna,0.0,Neutral,0.1,Positive,0.2855799496173858,Neutral
+alto temasooo,0.0,Neutral,0.16,Positive,0.2481977045536041,Neutral
 2022 sigo escuchando esta gran Cancion Ozuna😎,0.8349,Positive,0.8,Positive,0.7550930380821228,Positive
 ozuna sigo con esta canción en el 22,0.0,Neutral,0.0,Neutral,-0.3060564696788788,Negative
 Quien la escucha 2022 😄😄,0.875,Positive,0.0,Neutral,0.2843844890594482,Neutral
@@ -432,10 +432,10 @@ Videazo,0.6249,Positive,0.8,Positive,0.2922635376453399,Neutral
 Fans from tanzania🇹🇿🇹🇿🇹🇿🇹🇿,0.0,Neutral,0.0,Neutral,0.3409302830696106,Positive
 "Se me paroooo.
 una sinfonia espectacular",-0.2263,Negative,0.6,Positive,0.7843255400657654,Positive
-Recuerdo cuando salio la veia todos los dias y ahora resien la vi despues de un año y sin duda no me deja de gustar la cansion UN EXITO para mi,0.8419,Positive,0.3,Neutral,0.305795282125473,Neutral
+Recuerdo cuando salio la veia todos los dias y ahora resien la vi despues de un año y sin duda no me deja de gustar la cansion UN EXITO para mi,0.8419,Positive,0.3,Positive,0.305795282125473,Neutral
 "Fun fact: Casi todos los casos de violencia machista en jóvenes es por este tipo de música.
 Esto en mi opinión es el peor tipo de música que puedes escuchar, esto en mi opinión te lava el cerebro",-0.7096,Negative,-0.18125,Negative,-0.718482494354248,Negative
-Yo la sigo escuchando en éste momento saludos desde México 🇲🇽🎧🎶.,0.4215,Positive,0.2857142857142857,Neutral,0.5659874677658081,Positive
+Yo la sigo escuchando en éste momento saludos desde México 🇲🇽🎧🎶.,0.4215,Positive,0.2857142857142857,Positive,0.5659874677658081,Positive
 2022Y SUENA CON TODO EN EL 🚗VOLVE A ESTE RITMO Y BASEEE DE RITMO OZUNAAA SALUDOS DESDE🇦🇷✌🏻😎😎😎,0.9406,Positive,0.0,Neutral,0.4070246517658233,Positive
 👌🤢,0.7297,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Quienes las escuchan 2022 💨💨💨,0.0,Neutral,0.0,Neutral,0.394680768251419,Positive
@@ -465,13 +465,13 @@ Quien en la escucha en el 2022?,0.0,Neutral,0.0,Neutral,-0.3918755948543548,Nega
 T amo Ozuna 2017,0.6369,Positive,0.5,Positive,0.2427337020635604,Neutral
 ❤❤❤teamo muchu,0.9274,Positive,0.0,Neutral,0.2832557559013366,Neutral
 contexto???,0.0,Neutral,0.0,Neutral,-0.3734363913536072,Negative
-Cuánto tiene anos tu,0.0,Neutral,0.1,Neutral,0.5677108764648438,Positive
+Cuánto tiene anos tu,0.0,Neutral,0.1,Positive,0.5677108764648438,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Te amo mucho mi amor bello besos,0.9506,Positive,0.6166666666666667,Positive,0.6761282086372375,Positive
 Hola ozuna,0.0,Neutral,0.0,Neutral,-0.2532174289226532,Negative
 Quien la escucha 2022,0.0,Neutral,0.0,Neutral,0.2784157395362854,Neutral
 Qubien en 22.22,0.0,Neutral,0.0,Neutral,-0.2822340428829193,Negative
-Recordando momentos que marcaron con esta canción 🖖💙,0.6369,Positive,0.1,Neutral,0.616299033164978,Positive
+Recordando momentos que marcaron con esta canción 🖖💙,0.6369,Positive,0.1,Positive,0.616299033164978,Positive
 QUIEN LA ESCUCHA 2022 .,0.0,Neutral,0.0,Neutral,0.2963429689407348,Neutral
 Quien la escucha en 2022..?? 🌬,0.0,Neutral,0.0,Neutral,-0.4820390939712524,Negative
 Vamos subiendo ozu😀😉,0.3612,Positive,0.0,Neutral,0.3069707155227661,Neutral
@@ -483,7 +483,7 @@ Ozuna♥💯👌,0.8842,Positive,0.0,Neutral,0.3085779249668121,Neutral
 INCONITO,0.0,Neutral,0.0,Neutral,-0.5858692526817322,Negative
 TALK ME APPRENTIC,0.0,Neutral,0.0,Neutral,0.4251028299331665,Positive
 Sugo,0.0,Neutral,0.0,Neutral,0.284189224243164,Neutral
-Quién diría que está canción para muchos en sus tiempos es algo que lastimaba el alma y actualmente solo es un simple recuerdo y una cruda nostalgia,-0.5267,Negative,0.0673076923076923,Neutral,0.3560848534107208,Positive
+Quién diría que está canción para muchos en sus tiempos es algo que lastimaba el alma y actualmente solo es un simple recuerdo y una cruda nostalgia,-0.5267,Negative,0.0673076923076923,Positive,0.3560848534107208,Positive
 Que Dios te bendiga usuna,0.5994,Positive,0.0,Neutral,-0.3118486702442169,Negative
 HOMI,0.0,Neutral,0.0,Neutral,0.3423365652561188,Positive
 quienes aun la escuchan en 2022 y les recuerda como si fuera ayer,0.0,Neutral,0.0,Neutral,0.5605118870735168,Positive
@@ -491,8 +491,8 @@ Se monta en su nave. Y se prende en candela esa es mi nena,-0.34,Negative,0.0,Ne
 Se preparo,0.0,Neutral,0.0,Neutral,-0.2710524797439575,Negative
 Hola.  Ojalá k dios m ayuda k Ozuna me regala un corazón 🙏😭,0.8271,Positive,0.0,Neutral,0.5273342728614807,Positive
 0:39,0.0,Neutral,0.0,Neutral,-0.4140712916851043,Negative
-Cut her music contract s up and no mad musico till El ÙÑĪQÛÉ Puerto Rican grandson of the familia punishes MONITA CHICKATITA Selena Gomez ass personaly and she laughs at the CAMACHO familia,-0.4352,Negative,0.15625,Neutral,-0.4763438105583191,Negative
-"Meda ,pinchy Selena Gomez and her fuck boy Ryan or ryita stole the echo music primo ,esta El ÙÑĪQÛÉ the grandson of grandpa Louie sepulveda Louie veda , mi abwelita Anna CAMACHO RIP wanted to make sure you are aware of the bull shit tell Selena take her echo voice of Ryan off our famila music now , it's not Galen ANGEL SEPÚLVEDA ON THERE TELL ALL LATINOS AND DJ SNAKE J BEVLIN AND ALL SELENA  PUT COUNTERFEIT NON PUERTO RICAN ON ECHO ESTA PINCHY GABACHO FROM RIO LINDA RYAN , PUNISHMENT POR MAMACITA , BRING HER TO MIA",-0.913,Negative,0.0374999999999999,Neutral,-0.6247039437294006,Negative
+Cut her music contract s up and no mad musico till El ÙÑĪQÛÉ Puerto Rican grandson of the familia punishes MONITA CHICKATITA Selena Gomez ass personaly and she laughs at the CAMACHO familia,-0.4352,Negative,0.15625,Positive,-0.4763438105583191,Negative
+"Meda ,pinchy Selena Gomez and her fuck boy Ryan or ryita stole the echo music primo ,esta El ÙÑĪQÛÉ the grandson of grandpa Louie sepulveda Louie veda , mi abwelita Anna CAMACHO RIP wanted to make sure you are aware of the bull shit tell Selena take her echo voice of Ryan off our famila music now , it's not Galen ANGEL SEPÚLVEDA ON THERE TELL ALL LATINOS AND DJ SNAKE J BEVLIN AND ALL SELENA  PUT COUNTERFEIT NON PUERTO RICAN ON ECHO ESTA PINCHY GABACHO FROM RIO LINDA RYAN , PUNISHMENT POR MAMACITA , BRING HER TO MIA",-0.913,Negative,0.0374999999999999,Positive,-0.6247039437294006,Negative
 Dios Este tema lo ponia mi Mamá Que Recuerdoss!!!,0.4545,Positive,0.0,Neutral,0.5634177327156067,Positive
 "Quien la escucha en 2022 💐
 
@@ -528,7 +528,7 @@ Hola como estas ozuna mi amor,0.6369,Positive,0.5,Positive,0.6642115712165833,Po
 ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Aquí en 20222 y seguimos escuchándola,0.0,Neutral,0.0,Neutral,0.4665852189064026,Positive
 Quien escucha en 2022 🙂,0.4033,Positive,0.0,Neutral,0.3439653515815735,Positive
-めっちゃ好き,0.4201,Positive,0.2,Neutral,0.5183905363082886,Positive
+めっちゃ好き,0.4201,Positive,0.2,Positive,0.5183905363082886,Positive
 2022💖,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Estamos en el 2022 
 Próximamente 2023 
@@ -577,7 +577,7 @@ Y esta rola jamas deja de ponerse buena
 Y la palabra que jamas vamos a olvidar
 ""SE PREPARO""😁😁😉😉",0.4681,Positive,0.4499999999999999,Positive,-0.7499178051948547,Negative
 semeparo,0.0,Neutral,0.0,Neutral,0.2570562958717346,Neutral
-Jajaja yevare unos 4 teléfonos de cada año jajaja y la cansion sigue disponible Wey que pedo,0.802,Positive,0.2666666666666666,Neutral,-0.4291859269142151,Negative
+Jajaja yevare unos 4 teléfonos de cada año jajaja y la cansion sigue disponible Wey que pedo,0.802,Positive,0.2666666666666666,Positive,-0.4291859269142151,Negative
 yendo a cpillo,0.0,Neutral,0.0,Neutral,-0.2864348292350769,Negative
 Okei,0.2263,Positive,0.5,Positive,0.4879587888717651,Positive
 Amanda nos va a dejar de hablar krkqnxianzjna,-0.296,Negative,0.0,Neutral,-0.6362676620483398,Negative
@@ -589,10 +589,10 @@ pobre amanda,-0.4767,Negative,-0.4,Negative,-0.6017227172851562,Negative
 jalo al reiv,0.0,Neutral,0.0,Neutral,-0.287859559059143,Negative
 Diganq sigue pq mi yt anda todo trabado,-0.25,Negative,0.0,Neutral,-0.3609641194343567,Negative
 osuna es osito fan se ve,0.2551,Positive,-0.1875,Negative,0.2890466451644897,Neutral
-Q música soft,0.0,Neutral,0.1,Neutral,0.2847710251808166,Neutral
+Q música soft,0.0,Neutral,0.1,Positive,0.2847710251808166,Neutral
 hay q hacer rave,0.0,Neutral,0.0,Neutral,-0.311423122882843,Negative
 Ositolober solo x,0.0,Neutral,0.0,Neutral,0.2577938437461853,Neutral
-nadie me respondió algo lógico con lo de los emoyis unu,0.0,Neutral,0.25,Neutral,-0.6408350467681885,Negative
+nadie me respondió algo lógico con lo de los emoyis unu,0.0,Neutral,0.25,Positive,-0.6408350467681885,Negative
 junta d ositos lobers,0.5267,Positive,0.0,Neutral,0.261700302362442,Neutral
 pq wujin usaba un emoji de osito,0.0,Neutral,0.0,Neutral,0.2959452271461487,Neutral
 q softi mi foto,0.0,Neutral,0.0,Neutral,0.2629653215408325,Neutral
@@ -601,7 +601,7 @@ ola ya vine jjj,0.0,Neutral,0.0,Neutral,-0.4452705085277557,Negative
 Osuna hermano de wujin,0.0,Neutral,0.0,Neutral,0.2317849844694137,Neutral
 Que isso essas cenas 😳,0.0,Neutral,0.0,Neutral,0.3243304491043091,Neutral
 soy team osito,0.0,Neutral,0.0,Neutral,0.4601048231124878,Positive
-El fijado sjsnsnjssj soy teamvainaloca,0.0,Neutral,0.1,Neutral,0.4284266233444214,Positive
+El fijado sjsnsnjssj soy teamvainaloca,0.0,Neutral,0.1,Positive,0.4284266233444214,Positive
 osuna fans los más fieles,0.4927,Positive,0.5,Positive,0.529822587966919,Positive
 A música é legal ksksksksks,0.6249,Positive,0.575,Positive,-0.334159106016159,Negative
 oigan y meko?,0.0,Neutral,0.0,Neutral,-0.3325721323490143,Negative
@@ -614,7 +614,7 @@ Uy quiero estás vistas,0.0772,Positive,0.0,Neutral,0.4155958592891693,Positive
 pobre amanda,-0.4767,Negative,-0.4,Negative,-0.6017227172851562,Negative
 Esta canción !e encqnta,0.0,Neutral,0.0,Neutral,0.5596892237663269,Positive
 Escuchando en el 2023 XD,0.6739,Positive,0.0,Neutral,0.376710444688797,Positive
-Direto de Manaus Amazonas Brasil🇧🇷2022,0.2263,Positive,0.2,Neutral,0.2725340127944946,Neutral
+Direto de Manaus Amazonas Brasil🇧🇷2022,0.2263,Positive,0.2,Positive,0.2725340127944946,Neutral
 Te Almirón está canción es muy bonita  esta y todas  son muy bonitas y todas tienen algo  muy especial asea la letra 🤣👍👍👍❣️❣️💟💓💕😎😎😎😎😗🙊🙊🙉🙉🙈,0.9367,Positive,0.7077380952380953,Positive,0.6057128310203552,Positive
 alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
 En 2022🤙,0.4939,Positive,0.0,Neutral,0.4128643274307251,Positive
@@ -624,14 +624,14 @@ Quienes lá escuchan en 2022? 🔊🔥❤,0.4215,Positive,0.0,Neutral,-0.3986912
 Quien la sigue escuchando 2022 me pongo triste de q pasen los años :( 😞,-0.8442,Negative,-0.625,Negative,-0.3447425365447998,Negative
 Ozuna yo m apellido así Ozuna 🥱😳,0.3612,Positive,0.0,Neutral,-0.3808475136756897,Negative
 Yo pero el 2022,0.0,Neutral,0.0,Neutral,0.3108330965042114,Neutral
-2017 cuando  el .amor de mi vida se fue y aún la sigo escuchando 2022,0.6369,Positive,0.25,Neutral,0.6433040499687195,Positive
+2017 cuando  el .amor de mi vida se fue y aún la sigo escuchando 2022,0.6369,Positive,0.25,Positive,0.6433040499687195,Positive
 "Arrepiéntanse y crean en el Evangelio, acepten a Jesucristo como Señor y Salvador en vuestros corazones, crean en Él, Jesucristo murió por nuestros pecados, para salvarnos y darnos la vida eterna. .",0.5423,Positive,0.0,Neutral,0.7780888080596924,Positive
 "Arrepiéntanse y crean en el Evangelio, acepten a Jesucristo como Señor y Salvador en vuestros corazones, crean en Él, Jesucristo murió por nuestros pecados, para salvarnos y darnos la vida eterna. .",0.5423,Positive,0.0,Neutral,0.7780888080596924,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Esto es mejor que yonaguni lo siento bb volando remix volví ya dejen de sobrevalorar a bad bunny,-0.4767,Negative,-0.1749999999999999,Negative,0.3515257835388183,Positive
 ozuna baby,0.0,Neutral,0.0,Neutral,0.3338293433189392,Positive
 Quien en 2022,0.0,Neutral,0.0,Neutral,0.3151768445968628,Neutral
-"Estuvo re de moda cuando salio a un me acuerdo , jaja",0.4588,Positive,0.2,Neutral,-0.2590333223342895,Negative
+"Estuvo re de moda cuando salio a un me acuerdo , jaja",0.4588,Positive,0.2,Positive,-0.2590333223342895,Negative
 Quienes  la escuchan en 2022 ❤‍🔥?,-0.34,Negative,0.0,Neutral,-0.4430275559425354,Negative
 Quien la sigue escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.4002824127674103,Positive
 Bueno música 🎶 mi gusta la música 👏🏻👏🏻,0.6597,Positive,0.7,Positive,0.4671714305877685,Positive
@@ -653,11 +653,11 @@ Hami megusta está canción yo la escucho en todos los lados y en todo momento,0
 Esta canción nunca va a pasar de moda,0.0,Neutral,0.0,Neutral,-0.3475651443004608,Negative
 "Quien mas solo vino por el meme ""se me paro",-0.2263,Negative,0.0,Neutral,-0.5676640272140503,Negative
 I love him 🥹🫶🏻,0.6369,Positive,0.5,Positive,0.831838071346283,Positive
-Ozuna negrito ojo claro,0.0,Neutral,0.1166666666666666,Neutral,-0.3673102855682373,Negative
+Ozuna negrito ojo claro,0.0,Neutral,0.1166666666666666,Positive,-0.3673102855682373,Negative
 O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
 Quien la escucha  en el 2022,0.0,Neutral,0.0,Neutral,0.2841423451900482,Neutral
 Existe alguien viendo esta canción y leyendo este comentario en 2022?,0.0,Neutral,0.0,Neutral,-0.5546488165855408,Negative
 🥰🥰🥰🥰,0.9837,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Concuerdan que cuánto se estrenó este temon estabamos en nuestro mejor momento😳🖤🎶,0.8979,Positive,1.0,Positive,0.3427863419055938,Positive
 00:39,0.0,Neutral,0.0,Neutral,-0.2358481884002685,Negative
-Negrito ojo claro😍😠😳,-0.0772,Negative,0.1166666666666666,Neutral,-0.346866250038147,Negative
+Negrito ojo claro😍😠😳,-0.0772,Negative,0.1166666666666666,Positive,-0.346866250038147,Negative

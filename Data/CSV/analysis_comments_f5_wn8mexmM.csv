@@ -45,7 +45,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 I hate twice,-0.5719,Negative,-0.8,Negative,-0.4456960260868072,Negative
 "this is a genuine question, can someone please tell me who is who, im trying to become a twice fan",0.5574,Positive,0.4,Positive,-0.4500622749328613,Negative
 人気28位に上がりました！,0.5255,Positive,0.0,Neutral,0.8056780695915222,Positive
-"I'm having electricity tonight, and it's lightning straight from my heart where these QUEENS are placed.",0.7269,Positive,0.2,Neutral,0.5150941610336304,Positive
+"I'm having electricity tonight, and it's lightning straight from my heart where these QUEENS are placed.",0.7269,Positive,0.2,Positive,0.5150941610336304,Positive
 💕💕💕💕,0.9595,Positive,0.0,Neutral,0.3085779249668121,Neutral
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 I MISS THEM TT,-0.1531,Negative,0.0,Neutral,0.3766695261001587,Positive
@@ -56,7 +56,7 @@ This actually deserves a grammy nomination lets just hope that grammy notices tw
 Bangtwice Forever!!!🍭💜",0.8306,Positive,-0.2,Negative,0.6623420119285583,Positive
 "https://www.youtube.com/watch?v=KiVt98pjOEo&ab_channel=JosephJuno  
 
-If you can look this song, this is french guy with 70-80s vibes !! gl and enjoy !!",0.7696,Positive,0.3125,Neutral,0.6328650116920471,Positive
+If you can look this song, this is french guy with 70-80s vibes !! gl and enjoy !!",0.7696,Positive,0.3125,Positive,0.6328650116920471,Positive
 나는 이 노래를 사랑한다,0.6369,Positive,0.5,Positive,0.7399405837059021,Positive
 They are just perfect!,0.6114,Positive,1.0,Positive,0.9134460687637328,Positive
 Let's do what we can until the next comeback,0.0,Neutral,0.0,Neutral,0.3746804296970367,Positive
@@ -77,7 +77,7 @@ Decided to take my smashbro skill to the next level.,0.0,Neutral,0.0,Neutral,0.3
 Winid more,0.0,Neutral,0.5,Positive,0.2658231854438782,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 "259,155",0.0,Neutral,0.0,Neutral,0.2556913197040558,Neutral
-ONCE for sure TWICE's comeback won't be MAY there is no Announcement yet they usually Announce their comeback earlier than this date if they will release an EP or Single in the next month and TWICE maybe release their 2nd English Single on June & release their 11th Mini Album on August!,0.1007,Positive,0.0111607142857142,Neutral,-0.4770296812057495,Negative
+ONCE for sure TWICE's comeback won't be MAY there is no Announcement yet they usually Announce their comeback earlier than this date if they will release an EP or Single in the next month and TWICE maybe release their 2nd English Single on June & release their 11th Mini Album on August!,0.1007,Positive,0.0111607142857142,Positive,-0.4770296812057495,Negative
 twice best gg,0.7506,Positive,1.0,Positive,0.5280799865722656,Positive
 mi canción,0.0,Neutral,0.0,Neutral,0.4618414938449859,Positive
 かわいー,0.4588,Positive,0.5,Positive,0.2765185534954071,Neutral
@@ -128,7 +128,7 @@ me: twice, why?
 friend: ahh yeah yeah thanks
 
 friend (2021): bro, youve heard the feels? its 🔥
-me: dafuq? 😂, finally, you nubshit",0.9641,Positive,0.1333333333333333,Neutral,-0.4231022894382477,Negative
+me: dafuq? 😂, finally, you nubshit",0.9641,Positive,0.1333333333333333,Positive,-0.4231022894382477,Negative
 "Stream
  What is love? 700M
 TT 700M
@@ -158,8 +158,8 @@ so pro 💅,0.0,Neutral,0.0,Neutral,0.3392370045185089,Positive
 نايوني,0.0,Neutral,0.0,Neutral,-0.4232318699359894,Negative
 تزوتزو,0.0,Neutral,0.0,Neutral,0.245573952794075,Neutral
 تشينغي,0.0,Neutral,0.0,Neutral,0.2771592438220978,Neutral
-بويا بويا نو,0.0,Neutral,0.1363636363636363,Neutral,0.2629399001598358,Neutral
-سوبرناتورل كونيكشن,0.0,Neutral,0.1666666666666666,Neutral,0.2751702964305877,Neutral
+بويا بويا نو,0.0,Neutral,0.1363636363636363,Positive,0.2629399001598358,Neutral
+سوبرناتورل كونيكشن,0.0,Neutral,0.1666666666666666,Positive,0.2751702964305877,Neutral
 300 مليون مشاهدة + مليون كومنت + 6 ملايين لايك يلاااا وونسو,0.4215,Positive,0.0,Neutral,-0.4765514135360718,Negative
 The Feels is such a great song. Every song of TWICE is really so good and really a bop.,0.8477,Positive,0.425,Positive,0.8847420811653137,Positive
 Siri,0.0,Neutral,0.0,Neutral,0.2765989303588867,Neutral
@@ -177,7 +177,7 @@ Love you twice,0.6369,Positive,0.5,Positive,0.8128834962844849,Positive
 Yeahhhh,0.0,Neutral,0.0,Neutral,-0.3588377237319946,Negative
 This is goooood,0.0,Neutral,0.0,Neutral,-0.325995534658432,Negative
 "AMO ESTA CANCIÓN 
-ES MUY ADICTIVA, NO PARO DE ESCUCHARLA",0.7259,Positive,0.25,Neutral,0.7623150944709778,Positive
+ES MUY ADICTIVA, NO PARO DE ESCUCHARLA",0.7259,Positive,0.25,Positive,0.7623150944709778,Positive
 no puedo escuchar esta canción sin imaginarme a Jiafei 😭,-0.4767,Negative,0.0,Neutral,-0.543372631072998,Negative
 🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 wut??!! this is already 7months ago?,0.0,Neutral,0.0,Neutral,-0.5963727831840515,Negative
@@ -197,9 +197,9 @@ la musica perfecta,0.5719,Positive,1.0,Positive,0.8000158667564392,Positive
 best girls,0.6369,Positive,1.0,Positive,0.8934604525566101,Positive
 "I'm not a real wince But I love Twice so much Because they are cute I'm thinking of becoming a wince 🌚💅
 I don't know all their names I know sana and Nayeon Just 🤡💔
-I'm army blink medzi🌱🍒",0.9253,Positive,0.31,Neutral,0.3302260339260101,Positive
+I'm army blink medzi🌱🍒",0.9253,Positive,0.31,Positive,0.3302260339260101,Positive
 BOY I BOY I BOY I KNOW,0.0,Neutral,0.0,Neutral,0.4432129263877868,Positive
-Twice beauty is unreal they are stolen my heart everyday i love this song,0.875,Positive,0.15,Neutral,0.7717244625091553,Positive
+Twice beauty is unreal they are stolen my heart everyday i love this song,0.875,Positive,0.15,Positive,0.7717244625091553,Positive
 I love this music this music is my favorite song TWICE!,0.8172,Positive,0.5625,Positive,0.9473141431808472,Positive
 ICONIC BOP,0.0,Neutral,0.5,Positive,0.7503437995910645,Positive
 Cheer up now have 493 millions go to 500 millions,0.5106,Positive,0.0,Neutral,-0.6922018527984619,Negative
@@ -207,7 +207,7 @@ Cheer up now have 493 millions go to 500 millions,0.5106,Positive,0.0,Neutral,-0
 Vamos!",0.1669,Positive,0.625,Positive,0.4685124158859253,Positive
 I ❤️ y soooooooooooo much twice the feels is a very nice song 🎵 🎶 🎧 you are very cute and beautiful 😍 🤩 I ♥️ you so much twice,0.9568,Positive,0.536,Positive,0.6749001145362854,Positive
 أحبكم بجنون ياحبيباتي التسعة أعشقكم ياتوايس خصوصا أنتي ياجيهيو بايسي 🥰🥺,0.9485,Positive,-0.0416666666666666,Negative,0.3602697849273681,Positive
-ỏ xinh xỉu,0.5413,Positive,0.25,Neutral,-0.2702302634716034,Negative
+ỏ xinh xỉu,0.5413,Positive,0.25,Positive,-0.2702302634716034,Negative
 The groove! The Feels!,0.0,Neutral,0.0,Neutral,0.6347582340240479,Positive
 260M fighting,-0.3612,Negative,0.0,Neutral,0.357774406671524,Positive
 boy I boy I boy I know,0.0,Neutral,0.0,Neutral,0.4432129263877868,Positive
@@ -226,13 +226,13 @@ Once please Stre3m Cheer up 500M 💕,0.872,Positive,0.0,Neutral,-0.428824603557
 Why I always feel like unfair line distribution.,-0.1531,Negative,-0.5,Negative,-0.6574842929840088,Negative
 We can't deny the fact that 'TWICE looks so expensive.',0.2584,Positive,-0.5,Negative,-0.343192845582962,Negative
 TWICE members were so exquisite and their beauty is indeed unbelievable.,0.6808,Positive,0.375,Positive,0.737190306186676,Positive
-I know that love is such a funny thing,0.7964,Positive,0.25,Neutral,0.7964017391204834,Positive
+I know that love is such a funny thing,0.7964,Positive,0.25,Positive,0.7964017391204834,Positive
 Twice Forever The Best And Perfect,0.836,Positive,1.0,Positive,0.9344357252120972,Positive
 Sana,0.0,Neutral,0.0,Neutral,0.3112448751926422,Neutral
 im blink and i love this song  oh o h,0.6369,Positive,0.5,Positive,0.8348403573036194,Positive
 🙂,0.4033,Positive,0.0,Neutral,0.3085779249668121,Neutral
 مليون كومنت شباب,0.0,Neutral,0.0,Neutral,0.4568282961845398,Positive
-"Every day i listen to this song and never get bored, Amazing 💕",0.4664,Positive,0.05,Neutral,0.907432496547699,Positive
+"Every day i listen to this song and never get bored, Amazing 💕",0.4664,Positive,0.05,Positive,0.907432496547699,Positive
 Road to 300 M !,0.0,Neutral,0.0,Neutral,0.3318074941635132,Positive
 Wow this is really good song for jamming,0.7902,Positive,0.3999999999999999,Positive,0.5614362955093384,Positive
 SO I GOT MY ESSAY WRITTEN,0.0,Neutral,0.0,Neutral,0.3685928583145141,Positive
@@ -349,11 +349,11 @@ I know you feel it too
 Boy I boy I boy I know
 I know I get the feels
 Boy I boy I boy I know
-I know you feel it too",0.9984,Positive,0.2018817204301075,Neutral,-0.2805233895778656,Negative
+I know you feel it too",0.9984,Positive,0.2018817204301075,Positive,-0.2805233895778656,Negative
 love❤️‍🔥,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
 It's May 2022 Let's see Who Is Listening this ? 💜,0.6369,Positive,0.0,Neutral,-0.4263212084770202,Negative
 twice se merece más ‹3,0.0,Neutral,0.5,Positive,0.3584589660167694,Positive
-"Twice now having surpassed *100,000 sales on Hanteo in 2022 alone* became the First Female Group to reach this milestone *for the year 2022 without a comeback so far in the said year.*",-0.2263,Negative,0.1166666666666666,Neutral,-0.3475725054740906,Negative
+"Twice now having surpassed *100,000 sales on Hanteo in 2022 alone* became the First Female Group to reach this milestone *for the year 2022 without a comeback so far in the said year.*",-0.2263,Negative,0.1166666666666666,Positive,-0.3475725054740906,Negative
 STR3AM MASIVO,0.0,Neutral,0.0,Neutral,-0.4318490326404571,Negative
 Let's hit 300m,0.0,Neutral,0.0,Neutral,0.3497495949268341,Positive
 "Boy , boy you know. Know that I cant sing 😂",0.4404,Positive,0.0,Neutral,0.3367011845111847,Positive
@@ -402,10 +402,10 @@ Momoring,0.0,Neutral,0.0,Neutral,-0.2628622055053711,Negative
 I got the feels for you yeah yeah,0.5267,Positive,0.0,Neutral,0.440667062997818,Positive
 It's shy it's obvious,-0.25,Negative,-0.25,Negative,0.5610808730125427,Positive
 "「ぼやぼやぼーやの」でたどり着きました。
-YouTubeの検索機能、本当にありがとうございます。",0.3612,Positive,0.26,Neutral,0.5436776280403137,Positive
+YouTubeの検索機能、本当にありがとうございます。",0.3612,Positive,0.26,Positive,0.5436776280403137,Positive
 "eliminé mi antigua cuenta de yt y creé otra nueva, el primer video que veré será este <3",0.5994,Positive,0.3715909090909091,Positive,0.341210275888443,Positive
 "Sigo sin superar esta canción, dios es que es tan perfecta",0.7264,Positive,1.0,Positive,0.8479350805282593,Positive
-This is not the case when JYP fandoms are fighting with each other!  The current KPOP world is becoming more competitive.  JYP's fandom must join hands and support each other!,0.6094,Positive,0.1275,Neutral,0.3095790445804596,Neutral
+This is not the case when JYP fandoms are fighting with each other!  The current KPOP world is becoming more competitive.  JYP's fandom must join hands and support each other!,0.6094,Positive,0.1275,Positive,0.3095790445804596,Neutral
 QUEEN of JYP,0.0,Neutral,0.0,Neutral,0.6107369661331177,Positive
 "LE SSERAFIM will debut soon.  In particular, MIDZY and NSWER must do their best as rivals of the 4th generation.  ONCE and STAY will support MIDZY and NSWER!",0.8016,Positive,0.5833333333333334,Positive,0.4735313057899475,Positive
 Boy i boy i boy i know,0.0,Neutral,0.0,Neutral,0.4432129263877868,Positive
@@ -448,11 +448,11 @@ Mommy 🥴🫠✌️,0.0,Neutral,0.0,Neutral,0.4733203947544098,Positive
 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Wash me throughly from mine iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin is ever before me. Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest. (Psalms 51:1-4)",-0.4118,Negative,-0.1249999999999999,Negative,0.6230030059814453,Positive
 "1:21
 Guys , NAYEON HAVE STOLEN MY HEART OH YEAA",0.6037,Positive,0.0,Neutral,-0.5355687737464905,Negative
-"Twice , you have stolen my heart OH YEA! ;)",0.4926,Positive,0.25,Neutral,0.5278195142745972,Positive
+"Twice , you have stolen my heart OH YEA! ;)",0.4926,Positive,0.25,Positive,0.5278195142745972,Positive
 "Even though i don’t know how much times i have listened to this songs , but i know this will be one of those songs which gives me happiness !!
 Go 300 million :)",0.8881,Positive,0.5666666666666667,Positive,0.8388975262641907,Positive
 "Twice 2018 : “i wanna know know know know , WHAT IS LOVE?”
-Twice 2021 : “I KNOW LOVE IT IS SUCH A FUNNY THING”",0.8613,Positive,0.3125,Neutral,0.6899570226669312,Positive
+Twice 2021 : “I KNOW LOVE IT IS SUCH A FUNNY THING”",0.8613,Positive,0.3125,Positive,0.6899570226669312,Positive
 Tzuyu,0.0,Neutral,0.0,Neutral,0.2634342610836029,Neutral
 Chaeyeong,0.0,Neutral,0.0,Neutral,0.2861479222774505,Neutral
 Dahyun,0.0,Neutral,0.0,Neutral,-0.2587723433971405,Negative
@@ -500,17 +500,17 @@ sana est trop cool comme dab😍😍,0.8398,Positive,0.35,Positive,0.50731909275
 It's highly addictive 😍😍😩😩,0.4728,Positive,0.0,Neutral,0.7781038880348206,Positive
 QUEEN TWICE,0.0,Neutral,0.0,Neutral,0.4169574677944183,Positive
 "この曲めっちゃヌケる！
-動画観ながら曲に合わせて腰フってイクのが最高！ミサモとナヨンの画像見ながら!",0.5549,Positive,0.1689814814814814,Neutral,0.6326631307601929,Positive
+動画観ながら曲に合わせて腰フってイクのが最高！ミサモとナヨンの画像見ながら!",0.5549,Positive,0.1689814814814814,Positive,0.6326631307601929,Positive
 ONCE must protect TWICE from anti.,0.0772,Positive,0.0,Neutral,0.2808800041675567,Neutral
-TWICE has given young Japanese young people a dream of becoming a KPOP idol.  There are many idols who use TWICE as a role model.  I'm proud of them.,0.6249,Positive,0.325,Neutral,0.7224046587944031,Positive
-그냥 예뻐요 😩❤️,0.2732,Positive,0.25,Neutral,0.3300008475780487,Positive
+TWICE has given young Japanese young people a dream of becoming a KPOP idol.  There are many idols who use TWICE as a role model.  I'm proud of them.,0.6249,Positive,0.325,Positive,0.7224046587944031,Positive
+그냥 예뻐요 😩❤️,0.2732,Positive,0.25,Positive,0.3300008475780487,Positive
 TWICE💖✨🫶,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 we know we got the feels,0.0,Neutral,0.0,Neutral,0.3863889276981354,Positive
 twice vip in onec hearts,0.8225,Positive,0.0,Neutral,-0.2487243860960006,Negative
 boya boya boya no,-0.34,Negative,0.0,Neutral,-0.3903049528598785,Negative
 이노래는🔉 엄청좋아요😍😊🙆🙆‍♂️👍,0.9445,Positive,0.5,Positive,0.3428077399730682,Positive
 Keep Streaming oncee,0.0,Neutral,0.0,Neutral,0.2864862084388733,Neutral
-Now im imagining twice in a highschool series or musical😂😂😭,0.4019,Positive,0.16,Neutral,0.2422885149717331,Neutral
+Now im imagining twice in a highschool series or musical😂😂😭,0.4019,Positive,0.16,Positive,0.2422885149717331,Neutral
 TWICE BEST GIRLS 🌻,0.7125,Positive,1.0,Positive,0.6815879344940186,Positive
 "TWICE songs make me feel nostalgic for some reason, it feels i'm back to the 2000's-2010's",0.0,Neutral,-0.25,Negative,0.4115185141563415,Positive
 y pensar que son más jóvenes que yo,0.0,Neutral,0.0,Neutral,-0.2752233445644378,Negative
@@ -563,7 +563,7 @@ Keren,0.0,Neutral,0.0,Neutral,0.2497812956571579,Neutral
 1:05,0.0,Neutral,0.0,Neutral,-0.2733657360076904,Negative
 258M,0.0,Neutral,0.0,Neutral,0.2215492129325866,Neutral
 🥑👄🥑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-SI lo que me esperaba de twice son tan buenas que siempre brillan 💝💘🥰🤩🌹hace reventar a youtube y al mundo. 🌍,0.9747,Positive,0.3,Neutral,0.6025210022926331,Positive
+SI lo que me esperaba de twice son tan buenas que siempre brillan 💝💘🥰🤩🌹hace reventar a youtube y al mundo. 🌍,0.9747,Positive,0.3,Positive,0.6025210022926331,Positive
 ¡Wow! Vamos subiendo casi 1M al día. ¡Muy bien once!,0.8214,Positive,0.5625,Positive,0.865256130695343,Positive
 72万件のコメントまでもうすぐ！,0.0,Neutral,0.0,Neutral,0.2755356132984161,Neutral
 今日もTWICEのために働こう！,0.0,Neutral,0.0,Neutral,0.5611329078674316,Positive
@@ -608,8 +608,8 @@ Aohh anyone like good,0.6597,Positive,0.7,Positive,-0.3128149509429931,Negative
 The feels hits different every time,0.0,Neutral,0.0,Neutral,0.3039392232894897,Neutral
 Don’t worry bestie ur not the only one here in 2022,-0.4404,Negative,0.0,Neutral,-0.2744578123092651,Negative
 "I usually don't like K-pop, but these girls have caught my attention; his recent album is very good. 
-I wish all kpop groups were this authentic.",0.8262,Positive,0.29,Neutral,0.5601531267166138,Positive
-WOW I LOVE THIS SONG,0.8402,Positive,0.3,Neutral,0.9162986874580384,Positive
+I wish all kpop groups were this authentic.",0.8262,Positive,0.29,Positive,0.5601531267166138,Positive
+WOW I LOVE THIS SONG,0.8402,Positive,0.3,Positive,0.9162986874580384,Positive
 Best gg,0.7506,Positive,1.0,Positive,0.6958420276641846,Positive
 Oh okay I see now! Hi Twice!,0.3578,Positive,0.78125,Positive,0.4846866130828857,Positive
 It is beautiful  songs 🎵 😍,0.7845,Positive,0.85,Positive,0.6429729461669922,Positive
@@ -620,10 +620,10 @@ Jenyoumg is missing i feel,-0.296,Negative,-0.2,Negative,0.2959855794906616,Neut
 Celebrate era soon!! Woo 🙌,0.8118,Positive,0.0,Neutral,0.6473066210746765,Positive
 TWICE ES TAN GOD HELP,0.5859,Positive,0.0,Neutral,0.450970321893692,Positive
 *257M*,0.0,Neutral,0.0,Neutral,-0.3619835376739502,Negative
-I want another English song they are so cute,0.6329,Positive,0.25,Neutral,0.4657911658287048,Positive
+I want another English song they are so cute,0.6329,Positive,0.25,Positive,0.4657911658287048,Positive
 +1 nice 👍 great song,0.7845,Positive,0.7,Positive,0.705467700958252,Positive
 CELEBRATE,0.5719,Positive,0.0,Neutral,0.6200827360153198,Positive
-I AM NOT GONNA BATHE TILL TWICE ANNOUNCES A KOREAN COMEBACK AND IM BEING FOR REAL IM LOSING MY SANITY!,-0.4389,Negative,0.25,Neutral,-0.6290905475616455,Negative
+I AM NOT GONNA BATHE TILL TWICE ANNOUNCES A KOREAN COMEBACK AND IM BEING FOR REAL IM LOSING MY SANITY!,-0.4389,Negative,0.25,Positive,-0.6290905475616455,Negative
 🤮🤢🤮🤢🤮🤢🤮🤢🤮🤢🤮💩💩💩💩🤬🤬🤬🤬,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🤮🤮🤮🤮🤢,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "*TWICE COMEBACK 2022 (YOUTUBE GOALS)*
@@ -663,9 +663,9 @@ stream gente,0.0,Neutral,0.0,Neutral,0.2268520593643188,Neutral
 I JUS REALIZED THIS SONG IS ENTIRELY IN ENGLISH?????????,0.0,Neutral,0.0,Neutral,-0.5868484377861023,Negative
 300M,0.0,Neutral,0.0,Neutral,0.2923848032951355,Neutral
 A-R-T-E 🛐💖,0.8225,Positive,0.0,Neutral,0.2599542737007141,Neutral
-I can't bored to listen this song its touching my heart ❤️❤️ twice songs are really very powerful nobody listen it without dance right? 🤍,0.855,Positive,0.1689285714285714,Neutral,0.5411351323127747,Positive
+I can't bored to listen this song its touching my heart ❤️❤️ twice songs are really very powerful nobody listen it without dance right? 🤍,0.855,Positive,0.1689285714285714,Positive,0.5411351323127747,Positive
 "257,713",0.0,Neutral,0.0,Neutral,0.2515250146389007,Neutral
-I'm your new fan,0.3182,Positive,0.1363636363636363,Neutral,0.7039966583251953,Positive
+I'm your new fan,0.3182,Positive,0.1363636363636363,Positive,0.7039966583251953,Positive
 Jeongyeon ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.327419251203537,Neutral
 Pls they are so creative 😭,0.1723,Positive,0.5,Positive,0.6447312831878662,Positive
 """you got my attention
@@ -681,8 +681,8 @@ Likes -53lakhs
 Comments - 7.1lakh
 Song - the feels ❤",0.7906,Positive,0.0,Neutral,0.2446022629737854,Neutral
 Fine very fine,0.4391,Positive,0.4791666666666667,Positive,0.4700190126895904,Positive
-"Wow 😳😲,",0.7506,Positive,0.1,Neutral,0.6996896266937256,Positive
-Live You Twice and Jiafei,0.0,Neutral,0.1363636363636363,Neutral,0.5716808438301086,Positive
+"Wow 😳😲,",0.7506,Positive,0.1,Positive,0.6996896266937256,Positive
+Live You Twice and Jiafei,0.0,Neutral,0.1363636363636363,Positive,0.5716808438301086,Positive
 Yasss Goo Queens😍😍😍😍😍😍,0.9517,Positive,0.0,Neutral,0.3156917989253998,Neutral
 Love Twice And Jiafei And Cupcakke,0.6369,Positive,0.5,Positive,0.6501829028129578,Positive
 Queen Jiafei and Twice😘😘,0.6808,Positive,0.0,Neutral,0.4524800479412079,Positive
@@ -768,7 +768,7 @@ I know you feel it too (yeah, you are)
 Boy, I, boy, I, boy, I know (boy, I)
 I know I got the feels (one more)
 Boy, I, boy, I, boy, I know
-I know you feel it too (yeah)",0.9991,Positive,0.2063131313131313,Neutral,0.2918643355369568,Neutral
+I know you feel it too (yeah)",0.9991,Positive,0.2063131313131313,Positive,0.2918643355369568,Neutral
 Wow you have absolutely gorgeous girls called and dancing around and you have Milling is followers surprising,0.8805,Positive,0.5,Positive,0.9121962785720824,Positive
 Ily Sana 💕,0.8658,Positive,0.0,Neutral,0.3023895025253296,Neutral
 Mina,0.0,Neutral,0.0,Neutral,0.2556707859039306,Neutral
@@ -795,7 +795,7 @@ Hello I am from Kuwait 🇰🇼🇰🇼,0.0,Neutral,0.0,Neutral,0.46719449758529
 Get well soon Sana 🥺🥺,0.2732,Positive,0.0,Neutral,0.4742376804351806,Positive
 Go Jihyo go,0.0,Neutral,0.0,Neutral,0.2493741363286972,Neutral
 ke buen tema dios,0.6124,Positive,0.7,Positive,0.404972642660141,Positive
-All of their songs are catchy like wow,0.743,Positive,0.1,Neutral,0.6122061014175415,Positive
+All of their songs are catchy like wow,0.743,Positive,0.1,Positive,0.6122061014175415,Positive
 boya boya now,0.0,Neutral,0.0,Neutral,0.2315971255302429,Neutral
 "こんな毎日聴いても飽きない曲なんてないよ？！🎶
 目指せ300M ！！",0.7248,Positive,-1.0,Negative,-0.4824106991291046,Negative
@@ -803,7 +803,7 @@ boya boya now,0.0,Neutral,0.0,Neutral,0.2315971255302429,Neutral
 💜💜💜💜💜💜💜😍😍😍😍😍😍😍😍👍👍👍👍Cool,0.995,Positive,0.0,Neutral,0.3085779249668121,Neutral
 La Música es muy buena para dedicársela a tu pareja,0.4927,Positive,0.91,Positive,0.4822861850261688,Positive
 the feelsss,0.0,Neutral,0.0,Neutral,0.329721450805664,Neutral
-sana get well soon!! i miss you so much,0.2695,Positive,0.2,Neutral,0.5024858117103577,Positive
+sana get well soon!! i miss you so much,0.2695,Positive,0.2,Positive,0.5024858117103577,Positive
 Lleguemos al millón de comentarios,0.0,Neutral,0.0,Neutral,0.3005047440528869,Neutral
 AHHHHHHHH,0.0,Neutral,0.0,Neutral,0.311967521905899,Neutral
 ونس ممكن تشوفوا الايديت الي عملته لتوايس؟؟,0.0,Neutral,0.0,Neutral,-0.4018091261386871,Negative
@@ -853,10 +853,10 @@ Asiri iyi,0.0,Neutral,0.0,Neutral,0.423283040523529,Positive
 Twice Korean Comeback On June?,0.0,Neutral,0.0,Neutral,-0.4892089068889618,Negative
 Road to 258M Views,0.0,Neutral,0.0,Neutral,0.3808801770210266,Positive
 Keep streaming,0.0,Neutral,0.0,Neutral,-0.3960404992103576,Negative
-"wow this reminds me of my childhood, it really speaks out to me.",0.5859,Positive,0.15,Neutral,0.8577806949615479,Positive
+"wow this reminds me of my childhood, it really speaks out to me.",0.5859,Positive,0.15,Positive,0.8577806949615479,Positive
 1:43,0.0,Neutral,0.0,Neutral,0.2232896238565445,Neutral
 Jihyo appeared at this part 'underneath the noen lights bebe',0.0,Neutral,0.0,Neutral,-0.2767322063446045,Negative
-No very wrong boys are demon,0.1648,Positive,0.1923076923076923,Neutral,-0.3004440367221832,Negative
+No very wrong boys are demon,0.1648,Positive,0.1923076923076923,Positive,-0.3004440367221832,Negative
 dahyun's bebe,0.0,Neutral,0.0,Neutral,0.2640570998191833,Neutral
 こうや　こうや　こうや豆腐,0.0,Neutral,0.0,Neutral,0.2560217380523681,Neutral
 260M Views Soon,0.0,Neutral,0.0,Neutral,0.4464806020259857,Positive
@@ -865,7 +865,7 @@ dahyun's bebe,0.0,Neutral,0.0,Neutral,0.2640570998191833,Neutral
 awesome✨,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love you so much ❤️‍🔥❤️‍🔥.!,0.1759,Positive,0.375,Positive,0.922643780708313,Positive
 See the likes I think people are mad,-0.1027,Negative,-0.625,Negative,-0.3711265325546264,Negative
-I like Momo to much,0.3612,Positive,0.2,Neutral,0.4080570340156555,Positive
+I like Momo to much,0.3612,Positive,0.2,Positive,0.4080570340156555,Positive
 I love sana,0.6369,Positive,0.5,Positive,0.7173662185668945,Positive
 "257,179",0.0,Neutral,0.0,Neutral,0.2480851411819458,Neutral
 1B please 🥺,0.3182,Positive,0.0,Neutral,0.2588692307472229,Neutral

@@ -1,10 +1,10 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-geçrek hayat terk edilmiş hapisaneden kaç ! 1+ leyin görsn (:,-0.4003,Negative,0.25,Neutral,-0.7989253401756287,Negative
+geçrek hayat terk edilmiş hapisaneden kaç ! 1+ leyin görsn (:,-0.4003,Negative,0.25,Positive,-0.7989253401756287,Negative
 Cpkcr,0.0,Neutral,0.0,Neutral,0.2331348061561584,Neutral
 Se seni çok seviyorum,0.6369,Positive,0.35,Positive,0.3695291578769684,Positive
 Oyununda görmüştüm bugün,0.0,Neutral,-0.4,Negative,0.3657236695289612,Positive
 Senden gıcık oldum bari sen uyumaya,-0.5106,Negative,-0.5071428571428571,Negative,-0.5368101000785828,Negative
-Ecenaz neden yok o eğlenceli,-0.4023,Negative,0.3,Neutral,-0.4752077162265777,Negative
+Ecenaz neden yok o eğlenceli,-0.4023,Negative,0.3,Positive,-0.4752077162265777,Negative
 Sıla kardeşlerimde oynuyor,0.2023,Positive,0.0,Neutral,0.3111068904399872,Neutral
 Abi senin videoların çok güzel,0.5777,Positive,0.7,Positive,0.6038527488708496,Positive
 Hani kanal kapanmisdi,0.0,Neutral,-0.1,Negative,-0.4556477963924408,Negative
@@ -21,12 +21,12 @@ ghjöç.zxcvbnmöçsdfghjklşdfghjrtyhjkretghjksdfghjksdfghjkasdfghjka<sdfhjksdg
 Enesi para değiştirdi bence,0.0,Neutral,0.0,Neutral,-0.2442091852426529,Negative
 Enes abi çok güzel videolar çekiyon❤❤❤❤❤❤❤,0.9877,Positive,0.78,Positive,0.6181237697601318,Positive
 "4:01 orta parmak var ve sansürsüz
-:)",0.4588,Positive,0.25,Neutral,-0.3173746764659881,Negative
+:)",0.4588,Positive,0.25,Positive,-0.3173746764659881,Negative
 16:32,0.0,Neutral,0.0,Neutral,0.2242152988910675,Neutral
 Enes ve Alper mükemel oluyooo😁,0.7717,Positive,1.0,Positive,0.2890734672546386,Neutral
 Abi şu Ahmet ve Sıla ne kadar samimiyetsizler  bence,-0.4215,Negative,0.0,Neutral,0.2592150866985321,Neutral
 Ya hepiniz merte oynuyonuz yaa,0.2023,Positive,0.0,Neutral,-0.3224380016326904,Negative
-22:30 Rus ruleti en sevdiyim oyun❤,0.802,Positive,0.25,Neutral,0.304068922996521,Neutral
+22:30 Rus ruleti en sevdiyim oyun❤,0.802,Positive,0.25,Positive,0.304068922996521,Neutral
 20:10 abisine kıyamayıp yemek vermesi❤️,0.34,Positive,0.0,Neutral,-0.2459057718515396,Negative
 Gfhhfjf,0.0,Neutral,0.0,Neutral,0.2451748996973037,Neutral
 Turgut çıktı,0.0,Neutral,0.0,Neutral,-0.4090354144573211,Negative
@@ -34,20 +34,20 @@ arena of valor lol un çakması,0.4215,Positive,0.8,Positive,0.5519755482673645,
 Reklamda çıktıılar,0.0,Neutral,0.0,Neutral,-0.2447303980588913,Negative
 Abiiii saitama genos ohoooo,0.0,Neutral,0.0,Neutral,0.2511006593704223,Neutral
 Bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,0.0,Neutral,0.0,Neutral,0.2444309741258621,Neutral
-Eskiden alperin videosunda alper enesi eziyordu şimdi gıkını çıkaramıyo,-0.3612,Negative,0.075,Neutral,-0.4420898556709289,Negative
+Eskiden alperin videosunda alper enesi eziyordu şimdi gıkını çıkaramıyo,-0.3612,Negative,0.075,Positive,-0.4420898556709289,Negative
 Enes abi hayal mi gerçek mi yi YouTube da full bulamadim,0.25,Positive,0.35,Positive,-0.6914215683937073,Negative
 Kadircan,0.0,Neutral,0.0,Neutral,0.2301580756902694,Neutral
 Enes abi bu videonu bəyən Azərbaycandan selamlar,0.6808,Positive,0.6,Positive,-0.4396215677261352,Negative
 1 elin sesi 2 elin sesi kesin sesinisi,0.4939,Positive,0.4,Positive,-0.3187218606472015,Negative
 Slıa Ahmet  abi ikisinde maşallah tütü,0.0,Neutral,0.0,Neutral,-0.4338921010494232,Negative
-Ah be eski ekip MC mami vales baturay Mervan burak Güngör,0.0,Neutral,0.1,Neutral,-0.2764599323272705,Negative
-Bozdun be enes batur eski kalite gitmiş hiç eğlenmedim ben bunda bundan öncekiler cidden daha iyiydi ve eğlenceliydi,0.3082,Positive,0.2066666666666667,Neutral,-0.4440958499908447,Negative
+Ah be eski ekip MC mami vales baturay Mervan burak Güngör,0.0,Neutral,0.1,Positive,-0.2764599323272705,Negative
+Bozdun be enes batur eski kalite gitmiş hiç eğlenmedim ben bunda bundan öncekiler cidden daha iyiydi ve eğlenceliydi,0.3082,Positive,0.2066666666666667,Positive,-0.4440958499908447,Negative
 ödül vermedin abi,-0.431,Negative,0.0,Neutral,-0.445330262184143,Negative
 "Ali Can Dündar:Sılaya saldıran olursa Sılanı onun üstünü atarım
 Sıla Dündar:😲😳",-0.0772,Negative,0.0,Neutral,0.2389158606529235,Neutral
 ŞU VİDEO DA TEK FARK ETTİĞİM *31MİLYON*  JSJSJSJSJSJ,0.0,Neutral,0.0,Neutral,-0.3799836933612823,Negative
 Sıla abla baya savasti,-0.3182,Negative,0.0,Neutral,-0.2989000082015991,Negative
-kendi oynuyor kendi kural belirliyor egosuna milleti kullanıyor saçma,0.25,Positive,0.0499999999999999,Neutral,0.4207232892513275,Positive
+kendi oynuyor kendi kural belirliyor egosuna milleti kullanıyor saçma,0.25,Positive,0.0499999999999999,Positive,0.4207232892513275,Positive
 Sonda ahmetde 2 kez atmalıydı,-0.4215,Negative,0.0,Neutral,-0.4742067754268646,Negative
 ali bicim mesutcan amir vales bunlar favorimdi seri cöp olmus,0.0,Neutral,0.0,Neutral,0.753758430480957,Positive
 8:17 eleşdirin lan eleşdirin,0.0,Neutral,0.0,Neutral,0.2226950675249099,Neutral
@@ -57,17 +57,17 @@ ali bicim mesutcan amir vales bunlar favorimdi seri cöp olmus,0.0,Neutral,0.0,N
 Valla  bence oyun müp hatta bende  oyuna bağlıyım,-0.296,Negative,-0.39375,Negative,0.2618142962455749,Neutral
 Artık kafa atmıyorsun,0.0,Neutral,0.0,Neutral,-0.2967733442783355,Negative
 9:06 sjsjsjjssjsjsjsj,0.0,Neutral,0.0,Neutral,-0.3635994791984558,Negative
-Yeni bölüm gelicekmi,0.0,Neutral,0.1363636363636363,Neutral,0.3101073205471039,Neutral
+Yeni bölüm gelicekmi,0.0,Neutral,0.1363636363636363,Positive,0.3101073205471039,Neutral
 Abi bu videoda Ahmet’e tek benmi uyuz oldum,-0.4767,Negative,0.0,Neutral,-0.376361608505249,Negative
 abi diğer devamı gelsn,0.0,Neutral,0.5,Positive,0.3068778216838836,Neutral
 Çöp olmuş hepsi tiktokçu,0.0,Neutral,0.0,Neutral,-0.5904762148857117,Negative
 Silayla yarenin tarzi muq,0.0,Neutral,0.0,Neutral,0.3805445432662964,Positive
 04:01 peki Yaren,0.0,Neutral,0.0,Neutral,-0.4175647497177124,Negative
-13=15 cox guzel soyledin abii,0.3384,Positive,0.2,Neutral,0.5747975707054138,Positive
+13=15 cox guzel soyledin abii,0.3384,Positive,0.2,Positive,0.5747975707054138,Positive
 Abi Merte yazık oldu 😥,0.1901,Positive,-0.1,Negative,0.2740861773490906,Neutral
 "Burda sadeje alper, tosku, birde enesin egeni mi ne onlar eski tayfa baska herkes salak tik tokcukar",0.4019,Positive,0.5,Positive,-0.4126417934894562,Negative
-Abi artık şu eski kadroyla cik mervan baturay Vales fln,0.0,Neutral,0.1,Neutral,0.348721295595169,Positive
-Güzəl oyun idi.,0.5719,Positive,0.3,Neutral,0.2493974566459655,Neutral
+Abi artık şu eski kadroyla cik mervan baturay Vales fln,0.0,Neutral,0.1,Positive,0.348721295595169,Positive
+Güzəl oyun idi.,0.5719,Positive,0.3,Positive,0.2493974566459655,Neutral
 Cok güzel,0.4754,Positive,0.78,Positive,0.6769678592681885,Positive
 §,0.0,Neutral,0.0,Neutral,0.2630338370800018,Neutral
 Abi hala artık video çek ya yoksa seksenlikler kadar,0.0,Neutral,-0.05,Negative,-0.3750534951686859,Negative
@@ -80,12 +80,12 @@ Yarenin orta parmak çekmesi BJHDESRFHBGDED,0.0,Neutral,-0.05,Negative,-0.308974
 Teu4eosriwrdsgh3626363744gk benim 453565363543445444556322890sfysthshjskkdujst☺😊😊😊😊😊😊😊☺☺☺☺😮😮😮😮😮😮😮😦😦😦😦😇😇😇😇🙇😓😎😔😢😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳ueiraureutsjta@@@@^^^_______♤♤♤♤♡♡♡♡♡♡♡●●●°••••😁😁😁😁😁😇😇😇😡😡😡😡😢😢😢😢😈😈😈😈😃😃😂😂😳😳😳😍😍😍😎😎😎😎,0.9983,Positive,0.0,Neutral,0.3491216897964477,Positive
 sana hayranım enes abi,0.4767,Positive,0.0,Neutral,0.4627683162689209,Positive
 çok güzel videolar çekiyorsun,0.4927,Positive,0.91,Positive,0.6136910319328308,Positive
-Vales Mervan baturay yani eski arkadaşların olsaydı keşke,0.7251,Positive,0.1,Neutral,0.3147720694541931,Neutral
+Vales Mervan baturay yani eski arkadaşların olsaydı keşke,0.7251,Positive,0.1,Positive,0.3147720694541931,Neutral
 Mert abi en çok sewiom,0.0,Neutral,0.5,Positive,-0.2646757960319519,Negative
 18:42 de alper çıkıyo,0.0,Neutral,0.0,Neutral,-0.3510920107364654,Negative
 Toşko haksızlık yapıyor hiç adil bir oyun değildi😐,-0.6202,Negative,-0.0666666666666667,Negative,-0.6056975722312927,Negative
 Mert çok kötü gülüyor,-0.3163,Negative,-0.6999999999999998,Negative,-0.70595383644104,Negative
-Lise öğrencisiyim youtube’dan gelir kanmak için bu kadar insan içinden 8-9 kişi bile destek olsa birazda olsun moral vermiş olursunuz şimdiden destek veren her kese teşşekürler,0.7595,Positive,0.118125,Neutral,-0.5776524543762207,Negative
+Lise öğrencisiyim youtube’dan gelir kanmak için bu kadar insan içinden 8-9 kişi bile destek olsa birazda olsun moral vermiş olursunuz şimdiden destek veren her kese teşşekürler,0.7595,Positive,0.118125,Positive,-0.5776524543762207,Negative
 Ayşenur palaz mi lan benim soyumdan benim soy adımda palaz,0.0,Neutral,0.0,Neutral,-0.3815422356128692,Negative
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 Yaren abla üstündekini bershkadan mı aldın,0.2023,Positive,0.5,Positive,-0.4850808680057525,Negative
@@ -95,7 +95,7 @@ Enes abi Turgut abi ile çok benziyosunuz,0.3612,Positive,0.0,Neutral,0.24117131
 Sererddtadwdsre7jojju,0.0,Neutral,0.0,Neutral,0.2426378577947616,Neutral
 Sıla abla Geçmiş olsun yaren abla Geçmiş olsun,0.4939,Positive,0.0,Neutral,-0.3728890717029571,Negative
 Enes abi eski videolarını çok özledim 😔😞 ama eski hissi vermiyor artık Kusura bakma seni izlemeyi bıraktım sen artık tanıdığım Enes Batur değilsin,-0.7477,Negative,-0.0249999999999999,Negative,-0.3088036775588989,Negative
-Enes. Abi. Sen. Cansın. Adamsın,0.7579,Positive,0.1,Neutral,-0.2493241876363754,Negative
+Enes. Abi. Sen. Cansın. Adamsın,0.7579,Positive,0.1,Positive,-0.2493241876363754,Negative
 Telefon yuyuma  bir zaman mutlu olmaya,0.5719,Positive,0.8,Positive,-0.2973103821277618,Negative
 Ahmet abi gibi abim olsun ya çok tatlı olm,0.6997,Positive,0.35,Positive,-0.3675485253334045,Negative
 enesin boxer ı ❤️,0.0,Neutral,0.0,Neutral,0.3368420898914337,Positive
@@ -105,7 +105,7 @@ Enes              batur               daeLisin,0.0,Neutral,0.0,Neutral,0.2371858
 8HJJFFGHTFBHG MMMG M   NUBBKJMLKLOPEKRDKRKORKRM   C RK MRÖŞDİSİS2ĞIEUTURYEUTUFUTURUDJFJTJRKEJSJDKDKDJRTIGKOYT4636271OKWWIJRJRJRKEEJEJJEJRKRKRKEKEOEO2O3OK3ORKRKRORRKROIRFIFKFKFÖFLFŞFŞRŞRŞFŞŞFŞRFÇFÇFŞ8ĞÖH4HPOHP NNNNNNMMMMMMY5YYYYYYYYY,0.0,Neutral,0.0,Neutral,-0.3295927941799164,Negative
 Erffg,0.0,Neutral,0.0,Neutral,0.3498759269714355,Positive
 Alper seni tutuyotum,0.0,Neutral,0.0,Neutral,0.4738160073757171,Positive
-Orda Enesi çektiler başlarda nasıl komikti yaa ve ben sizin en çok böyle videolara bayılıyorum yani daireden son çıkan kazanırsa,0.9231,Positive,0.2541666666666667,Neutral,-0.3791802525520324,Negative
+Orda Enesi çektiler başlarda nasıl komikti yaa ve ben sizin en çok böyle videolara bayılıyorum yani daireden son çıkan kazanırsa,0.9231,Positive,0.2541666666666667,Positive,-0.3791802525520324,Negative
 18.55de alper çıkmış,0.0,Neutral,0.0,Neutral,-0.4629078209400177,Negative
 Acaba Sar başa 2 gelecekmi,0.0,Neutral,0.0,Neutral,-0.3821671903133392,Negative
 ALPER RENDE SARBAŞA 2 GELECEKMI SIZCE,0.0,Neutral,0.0,Neutral,-0.3812749087810516,Negative
@@ -123,23 +123,23 @@ Abi nolurrr devamı gelsin,0.3182,Positive,0.0,Neutral,-0.2696729004383087,Negat
 Yaren orta parmak çekiyor,0.0,Neutral,0.0,Neutral,0.3123908936977386,Neutral
 8 gelsin,0.0,Neutral,0.0,Neutral,0.215422049164772,Neutral
 Sıla çokk şirin yaa🤤🤤💞,0.8468,Positive,0.5,Positive,0.2723119556903839,Neutral
-Abi be eski gurubun bitaneydi nolur eski gurubunla vidyo çek,0.7445,Positive,0.3,Neutral,0.3000676929950714,Neutral
-UYUMLU DEĞİL ALPER ABİ HAKSIZ YERE OYUNDAN ATILDI,0.0,Neutral,0.2,Neutral,-0.643799364566803,Negative
+Abi be eski gurubun bitaneydi nolur eski gurubunla vidyo çek,0.7445,Positive,0.3,Positive,0.3000676929950714,Neutral
+UYUMLU DEĞİL ALPER ABİ HAKSIZ YERE OYUNDAN ATILDI,0.0,Neutral,0.2,Positive,-0.643799364566803,Negative
 20:16 toşko orda eleniyo,0.0,Neutral,0.0,Neutral,-0.2982981204986572,Negative
 Bence valesi car,0.0,Neutral,0.0,Neutral,0.2857110798358917,Neutral
-eski tadını vermiyo,0.0,Neutral,0.1,Neutral,0.2489062696695327,Neutral
+eski tadını vermiyo,0.0,Neutral,0.1,Positive,0.2489062696695327,Neutral
 Gerçekten izlediğim son enes batur vidyosuydu seni  9 10 yıldır takip ediyorum her vidyonda dahada sıkıcı olmaya başladı farkettimde vidyoda sen mami vales baturay mervan ve amcan turgut  olduğu için izliyomuşum ne bu yok yeren yok şey vidyoyu bakınca komple tiktokçu görüyorum hale bak,-0.3182,Negative,-0.2,Negative,-0.3582145273685455,Negative
 Jdjdhdjjc,0.0,Neutral,0.0,Neutral,0.2417036890983581,Neutral
 Çok iyi olmuş,0.4927,Positive,0.91,Positive,0.7173694372177124,Positive
 Ahmet ve sıla nın abi kardeşliği 🤎,0.0,Neutral,0.0,Neutral,0.5191958546638489,Positive
-Çok komik😄😄😄😄😄😄,0.9735,Positive,0.325,Neutral,0.3654279410839081,Positive
+Çok komik😄😄😄😄😄😄,0.9735,Positive,0.325,Positive,0.3654279410839081,Positive
 Acı çekti eli kanadı canı yandı ama kazandı hiş bir zaman pes etme!,0.4664,Positive,0.0,Neutral,-0.3253982663154602,Negative
 Abi  harikaydı,0.6249,Positive,0.8,Positive,0.2449682652950287,Neutral
 "0,5x te izleyince çok komik oluyo herkes sarhoş gibi haykırıyorum wkfkqlzmqmmz",0.0516,Positive,0.0,Neutral,-0.6884878277778625,Negative
 "Enes:tek kuralımız var
 Toşko:adam olmak
-Ben:toşko doğru dedi",0.0,Neutral,0.1428571428571428,Neutral,-0.4209849834442138,Negative
-Yaren el hareketi çektiii ilk başta ve sansürlenmedi 🤪,0.1139,Positive,0.25,Neutral,-0.375299870967865,Negative
+Ben:toşko doğru dedi",0.0,Neutral,0.1428571428571428,Positive,-0.4209849834442138,Negative
+Yaren el hareketi çektiii ilk başta ve sansürlenmedi 🤪,0.1139,Positive,0.25,Positive,-0.375299870967865,Negative
 ahmetin tiktoklarini goruyodum ama ilk defa bi videoda izledim ve asiri samimi degil mi kardesiyle asiri tatlilar,0.2762,Positive,0.3666666666666667,Positive,-0.3901671171188354,Negative
 💜❤️❤️❤️❤️💜❤️💜❤️💜❣️💜❤️,0.9803,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Çok güzel devam gelsin,0.4927,Positive,0.91,Positive,0.6918347477912903,Positive
@@ -152,7 +152,7 @@ ES SELA.,0.0,Neutral,0.0,Neutral,-0.2478197962045669,Negative
 "Enes devamı gelsin,",0.0,Neutral,0.5,Positive,0.2588089108467102,Neutral
 Enes video cok guzel kardesim,0.4754,Positive,0.78,Positive,0.5531135201454163,Positive
 Vcfb’+,0.0,Neutral,0.0,Neutral,0.3403948247432709,Positive
-Alper abi çok fazla çıktı,0.0,Neutral,0.2,Neutral,-0.4483479857444763,Negative
+Alper abi çok fazla çıktı,0.0,Neutral,0.2,Positive,-0.4483479857444763,Negative
 4:01 IHSFIOHADOUIFGHAOUG,0.0,Neutral,0.0,Neutral,-0.3248039484024048,Negative
 "ekibi topla ekibiiiiiiii vales, berk, baturay, mervan görmemiz lazımmm",0.0,Neutral,0.0,Neutral,0.3616217076778412,Positive
 Silisyum kazandı 😘😘😘💗💗,0.9716,Positive,0.0,Neutral,0.3670736253261566,Positive
@@ -161,17 +161,17 @@ Lan olm daha dün 15.3 k dı şimdi 15.6k bu ne biçim beşey lan,-0.4019,Negati
 12:41 enes ve alperin yaramazlık yapan çocuklara benzemesi,0.3612,Positive,0.0,Neutral,0.2371321618556976,Neutral
 Enes batur nimeti ezdi yazıklar olsun abonelikden cıkıldın,-0.4019,Negative,-0.1,Negative,-0.618850588798523,Negative
 10.55 de koptum,0.0,Neutral,0.0,Neutral,0.2383374869823455,Neutral
-Sıla abla kazandın diye çok mutlu oldum tırnağın kırılmıştı gerçekten üzüldüm,0.6124,Positive,0.0333333333333333,Neutral,-0.7349883317947388,Negative
+Sıla abla kazandın diye çok mutlu oldum tırnağın kırılmıştı gerçekten üzüldüm,0.6124,Positive,0.0333333333333333,Positive,-0.7349883317947388,Negative
 Yutup olmasa,0.0,Neutral,0.0,Neutral,-0.3445422649383545,Negative
 Sıloş,0.0,Neutral,0.0,Neutral,0.2265643626451492,Neutral
 5:13 video gosteriyo eda sürüşüyo o videonu nasıl izleye bilirim?,0.0,Neutral,0.0,Neutral,-0.4115430414676666,Negative
 4:00 yaren abla orta parmak,0.0,Neutral,0.0,Neutral,-0.5009528398513794,Negative
-Daireden çıkan son çıkan kazanır 8 gelsin huuuu,0.5719,Positive,0.15,Neutral,-0.4395632743835449,Negative
+Daireden çıkan son çıkan kazanır 8 gelsin huuuu,0.5719,Positive,0.15,Positive,-0.4395632743835449,Negative
 "Aman    allahım        çok      güzel olmuş ya    abicim,",0.7425,Positive,0.85,Positive,0.6935263276100159,Positive
-Sıla abla gerçekten haketti bence 💜💜💜💜💜💜,0.9803,Positive,0.2,Neutral,-0.4572140574455261,Negative
+Sıla abla gerçekten haketti bence 💜💜💜💜💜💜,0.9803,Positive,0.2,Positive,-0.4572140574455261,Negative
 Güzel oldu abi benim bir isteyim var oda seni gormek istiyorum 🥰,0.886,Positive,0.6,Positive,0.7170554399490356,Positive
 Devamı gelsin,0.0,Neutral,0.5,Positive,0.2974334955215454,Neutral
-Daireden son çıkan kazanır 8 ne zaman çıkıcak ya,0.5719,Positive,0.15,Neutral,-0.3332863450050354,Negative
+Daireden son çıkan kazanır 8 ne zaman çıkıcak ya,0.5719,Positive,0.15,Positive,-0.3332863450050354,Negative
 Neymiş turgutun  kazan kası için miş miş de gıcıklarrr,-0.6808,Negative,0.0,Neutral,-0.3521082997322082,Negative
 Eda o kadar sempatik ki cok tatli ya,0.8445,Positive,0.425,Positive,-0.3553564846515655,Negative
 0:46 ve hiç gelmedi..,0.0,Neutral,0.0,Neutral,-0.7926434874534607,Negative
@@ -201,9 +201,9 @@ Bu grup güzel,0.5994,Positive,0.85,Positive,0.5375520586967468,Positive
 sıla tebrıkler,0.5267,Positive,0.0,Neutral,-0.3359412848949432,Negative
 YouTuberler dururken aptal tiktokırlar var önceden izledğimde gülüp keyif alıyodum şimdi çok boş amk komik de değil bunlar,-0.0957,Negative,-0.0649999999999999,Negative,-0.4498130083084106,Negative
 Su ilkeleri 1 milyon yapin kurban oliyim,-0.2732,Negative,-0.075,Negative,-0.3254557847976684,Negative
-Enes abi.  Yeni. Minicravt. Cek,0.0,Neutral,0.1363636363636363,Neutral,0.2730482518672943,Neutral
+Enes abi.  Yeni. Minicravt. Cek,0.0,Neutral,0.1363636363636363,Positive,0.2730482518672943,Neutral
 20:08 Hemen Durdurun Toşkonun Suratına Bakın E:QWE:QWE:,-0.296,Negative,0.0,Neutral,-0.556001603603363,Negative
-enes baturun daireden son çıkan kazanır 7 ve katile enson yakalanan kazanır 2 bağımlılık yap tı her gün ikisini de izliyorum,0.4767,Positive,0.12,Neutral,-0.4722433686256408,Negative
+enes baturun daireden son çıkan kazanır 7 ve katile enson yakalanan kazanır 2 bağımlılık yap tı her gün ikisini de izliyorum,0.4767,Positive,0.12,Positive,-0.4722433686256408,Negative
 toşka kameraya tüvörk yapıyor,0.0,Neutral,0.0,Neutral,0.2515133619308471,Neutral
 abi bidahakine  twitch yayıncılarıyla yapppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp seni  bekliyoruz yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,0.0,Neutral,0.0,Neutral,-0.3316377103328705,Negative
 mən   adım  əli🇦🇿,0.0,Neutral,0.0,Neutral,0.4822659790515899,Positive
@@ -223,7 +223,7 @@ TOSKO KRALASIN ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.2820355296134949,Neutr
 abigülegülebioldum,0.0,Neutral,0.0,Neutral,-0.3295012712478637,Negative
 "Bu seriyi tamamen izledim 8 de gelsin 
 
-Birde tinder ama 25 kız 1 erkek gibi",0.5023,Positive,0.1,Neutral,0.3677209615707397,Positive
+Birde tinder ama 25 kız 1 erkek gibi",0.5023,Positive,0.1,Positive,0.3677209615707397,Positive
 Arena of valoru severek oynuyorum 💜💜💜,0.9618,Positive,0.5,Positive,0.2948732674121856,Neutral
 En iyi  vales 2 kere şampiyon  oldu enes batur 5.den sonra bozdu,0.7003,Positive,1.0,Positive,0.6108678579330444,Positive
 Çember buyuk olsun Abi,0.0,Neutral,0.0,Neutral,0.3400566279888153,Positive
@@ -257,11 +257,11 @@ Alper: montu enes giyince öyle gözüküyo😅😅,0.7579,Positive,0.0,Neutral,
 Abi tinder gelsiinn özlediik,-0.296,Negative,0.0,Neutral,0.3294838666915893,Neutral
 nnömnmnömnnnmjkljoplıopjokjojlkjlkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Sen eskiden şey oynamıyor muydu ncef bir de firemax,0.34,Positive,0.0,Neutral,-0.3098022639751434,Negative
-Enes Batur abi ben seni çok önceden tanıyorum ama alper'i ben,0.7783,Positive,0.225,Neutral,0.3306709229946136,Positive
+Enes Batur abi ben seni çok önceden tanıyorum ama alper'i ben,0.7783,Positive,0.225,Positive,0.3306709229946136,Positive
 Abi devamı gelsin,0.0,Neutral,0.5,Positive,0.3354906737804413,Positive
 "where is vales,Mervan,Baturay etc. omg 🤧",0.0,Neutral,0.0,Neutral,-0.2554682493209839,Negative
 Yarın doğum günüm ve hiçkimse kutlamiycak 🥺,0.3612,Positive,0.0,Neutral,0.4816160798072815,Positive
-Eski daireden son çıkan kazanır videolarından eser yok eski videolarda  video uzin oluyodu kimin elendiğini yavaş yavaş anlıyoduk ama şuan yemen yemek turu 5dk sonra eleme turu bi anda herkes eleniyo enes abi bu videoları birazdaha yavaş birazdaha tane tane göstersen daha iyi olur,0.6858,Positive,0.0736111111111111,Neutral,-0.4815278351306915,Negative
+Eski daireden son çıkan kazanır videolarından eser yok eski videolarda  video uzin oluyodu kimin elendiğini yavaş yavaş anlıyoduk ama şuan yemen yemek turu 5dk sonra eleme turu bi anda herkes eleniyo enes abi bu videoları birazdaha yavaş birazdaha tane tane göstersen daha iyi olur,0.6858,Positive,0.0736111111111111,Positive,-0.4815278351306915,Negative
 Sos,0.0,Neutral,0.0,Neutral,0.3273907601833343,Neutral
 Biz adi şeref yoksunu tayfayı bekliyoruz,0.0,Neutral,0.0,Neutral,0.2648707032203674,Neutral
 4:00 da yaranenin parmak hareketi 😂😂,0.7003,Positive,0.0,Neutral,-0.5724107027053833,Negative
@@ -282,8 +282,8 @@ Rahmetli yuvarlanmaya çok severdi,0.5994,Positive,0.7,Positive,-0.4728543758392
 Blooonbcbzffhsıufz,0.0,Neutral,0.0,Neutral,-0.403573215007782,Negative
 Çok guzel,0.4754,Positive,0.78,Positive,0.6769678592681885,Positive
 "Ahmet demir can olduğu sürece bütün video
-Arini izlerim!",0.4389,Positive,0.0999999999999999,Neutral,0.5510148406028748,Positive
-Ben nedense Enesle Edayı çok yakıştırıyorum,0.3612,Positive,0.26,Neutral,-0.3979202508926391,Negative
+Arini izlerim!",0.4389,Positive,0.0999999999999999,Positive,0.5510148406028748,Positive
+Ben nedense Enesle Edayı çok yakıştırıyorum,0.3612,Positive,0.26,Positive,-0.3979202508926391,Negative
 💋💋💋💋💋💋💋💋💋💋💋💕💕💗💗❤️💔❣️💝💖,0.9965,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Toşko hep olsun çok iyi ya,0.5777,Positive,0.7,Positive,0.4885638356208801,Positive
 Sıla manşeti vurdu patlamadı alper de patladı,0.0,Neutral,0.0,Neutral,-0.5786895751953125,Negative
@@ -294,7 +294,7 @@ Enes     abiye     layyyyyyyykkkk,0.0,Neutral,0.0,Neutral,0.2567491829395294,Neu
 güzel,0.5994,Positive,0.85,Positive,0.4694712460041046,Positive
 Yaren’in egoları çok sinir😒😒,-0.6418,Negative,0.0,Neutral,-0.2350669801235199,Negative
 Toşkoya helal be helalll,0.0,Neutral,0.0,Neutral,-0.4385598003864288,Negative
-Abi eski seni özledim eskiden minecraft pixelmon oynardın tekrar pixelmon videosu çekermisin,0.2023,Positive,0.1,Neutral,0.252250999212265,Neutral
+Abi eski seni özledim eskiden minecraft pixelmon oynardın tekrar pixelmon videosu çekermisin,0.2023,Positive,0.1,Positive,0.252250999212265,Neutral
 Hadi artık 8 gelsin nolurr,0.3182,Positive,0.0,Neutral,-0.3453616499900818,Negative
 Yare❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 4:01 yarn el hareketi çekiyor,0.4939,Positive,-0.1,Negative,-0.3305913209915161,Negative
@@ -308,22 +308,22 @@ Sıla ablayı ve ekibi çok seviyorum,0.6369,Positive,0.38,Positive,0.4959325492
 sıla çok bayılıyorum çok güzel kız maşşalla😃😄😊😇😇,0.9806,Positive,0.75,Positive,0.6579295992851257,Positive
 8 gelsin,0.0,Neutral,0.0,Neutral,0.215422049164772,Neutral
 Sıla ile ahmet çok iyi kardeşler hiç kavga etmiyolar keşke ben le abim gibi olsak biz abimle kedi köpek gibiyiz,0.7975,Positive,0.91,Positive,0.4478674829006195,Positive
-Abi daireden son çıkan kazanır 8 de Survivordaki gibi All Star yapar mısın,0.8271,Positive,0.0916666666666666,Neutral,0.5975179076194763,Positive
+Abi daireden son çıkan kazanır 8 de Survivordaki gibi All Star yapar mısın,0.8271,Positive,0.0916666666666666,Positive,0.5975179076194763,Positive
 "4:00 Aaa Yaren! Çok Ayıp..
-Niye öyle yapıyorsun hanfendi😅 Alındım, Gücendim😌😂",0.202,Positive,0.2,Neutral,-0.4583603739738464,Negative
+Niye öyle yapıyorsun hanfendi😅 Alındım, Gücendim😌😂",0.202,Positive,0.2,Positive,-0.4583603739738464,Negative
 Abi enes abi 50 bin lira borcum var verebilir misin abii,0.0,Neutral,0.0,Neutral,-0.5981784462928772,Negative
 Şansa bak adım Sıla,0.7096,Positive,0.7,Positive,0.2991915643215179,Neutral
 "Hahaaaaa
 Enes batür",0.0,Neutral,0.0,Neutral,-0.5638213753700256,Negative
-Adil bir oyun oynamadın,-0.4585,Negative,0.1499999999999999,Neutral,0.3309395611286163,Positive
+Adil bir oyun oynamadın,-0.4585,Negative,0.1499999999999999,Positive,0.3309395611286163,Positive
 "❤️ XXXTENTACION
 Aksi
 Wlekoe
 Wlelwoookxcoe
-El",0.0,Neutral,0.1,Neutral,-0.3304829001426697,Negative
+El",0.0,Neutral,0.1,Positive,-0.3304829001426697,Negative
 4:01 yarıldım gülmekten,0.1027,Positive,-0.1555555555555555,Negative,-0.5989102721214294,Negative
 5:08 müq,0.0,Neutral,0.0,Neutral,0.2599328458309173,Neutral
-Hahahaha..... hahahaahaha....hahahaahha..haha,0.0,Neutral,0.2,Neutral,-0.460577517747879,Negative
+Hahahaha..... hahahaahaha....hahahaahha..haha,0.0,Neutral,0.2,Positive,-0.460577517747879,Negative
 Tüm gayleri vidyoya toplamış,0.0,Neutral,0.0,Neutral,0.2420563250780105,Neutral
 Sıla ve heypoper kardeşli💓🛐,0.9042,Positive,0.0,Neutral,0.241911768913269,Neutral
 18:43 te alper abi çıkıyor durdurursanız görürsünüz,-0.296,Negative,0.0,Neutral,-0.5288160443305969,Negative
@@ -341,7 +341,7 @@ O 2 kizi alan ekmeğinde,0.0,Neutral,0.0,Neutral,-0.2723544239997864,Negative
 Enes abi o cellat 36 tım,0.0,Neutral,0.0,Neutral,-0.2446845024824142,Negative
 Eskiden her video da Baturay vardı şimdi tiktokırlar bence baturayın yüzüne bakarken utanman gerek baturayı unuttun yazık oldu mervanı ve valesi de unttun,-0.7351,Negative,-0.25,Negative,-0.62035071849823,Negative
 Zfruthu9h,0.0,Neutral,0.0,Neutral,-0.3481453657150268,Negative
-Gulmektenn karnima agrilar girdi yaa yenisini cekin,0.0258,Neutral,0.1363636363636363,Neutral,-0.481454998254776,Negative
+Gulmektenn karnima agrilar girdi yaa yenisini cekin,0.0258,Neutral,0.1363636363636363,Positive,-0.481454998254776,Negative
 Amcanla video çek  😀,0.3612,Positive,0.0,Neutral,0.2424253076314926,Neutral
 Enes batur küfür ediyo lar kardeşim izliyo rahatsiz oluyorum,-0.3818,Negative,-0.5,Negative,-0.587517499923706,Negative
 "Sıla'yı ve Ahmet abimi çok çok seviyorum,",0.6369,Positive,0.38,Positive,0.6119788885116577,Positive
@@ -373,10 +373,10 @@ ABİ TOŞKOYU TUTUYOM,0.0,Neutral,0.0,Neutral,0.338547796010971,Positive
 16:33 Toşkoooo,0.0,Neutral,0.0,Neutral,-0.3188740015029907,Negative
 Arkadan cemrenin sesi mi geliyooo,0.0,Neutral,0.0,Neutral,0.241056352853775,Neutral
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
-Devamı gelsin eski video ların tadında gerçekten ve çok komik ve eğlenceli  😂😂❤❤,0.9721,Positive,0.2833333333333333,Neutral,0.6299678087234497,Positive
+Devamı gelsin eski video ların tadında gerçekten ve çok komik ve eğlenceli  😂😂❤❤,0.9721,Positive,0.2833333333333333,Positive,0.6299678087234497,Positive
 Bir şey aramadı değil mi,0.0,Neutral,0.0,Neutral,-0.5321304798126221,Negative
 Enes abi Bu videoda Yaren gerizekalısı niye topuklu ayakkabı bir de beyaz pantolona gelmiş,-0.5106,Negative,-0.2133333333333333,Negative,-0.6380148530006409,Negative
-Eskisi  kadar eğlenceli degil ya,-0.4023,Negative,0.3,Neutral,-0.2697571814060211,Negative
+Eskisi  kadar eğlenceli degil ya,-0.4023,Negative,0.3,Positive,-0.2697571814060211,Negative
 20:10 sizi yerim ben,0.0,Neutral,0.0,Neutral,-0.357955664396286,Negative
 Abi hani videoda 6. Bölüm dahil bütün daireden çıkan kazanır videolarında kazananlarla oyunuycaktin bizi üzdün 😭,-0.1779,Negative,-0.15,Negative,-0.259912371635437,Negative
 "Enes  abi  .lisenin  köpeği  olmuş un. Ama  yakışıklısı
@@ -405,20 +405,20 @@ benim kazananım toşko,0.5859,Positive,0.0,Neutral,0.6290552616119385,Positive
 Gitti kızın tırnağıH,0.0,Neutral,0.0,Neutral,-0.246539756655693,Negative
 20:15 şu mücadelenin 10 da 1 ini verebilsem yeter,-0.4588,Negative,0.0,Neutral,-0.4677769839763641,Negative
 Sıla abla çok şanslı çünkü abisi onu çok seviyor,0.7778,Positive,0.3466666666666667,Positive,0.273573637008667,Neutral
-yeni videolar ekle abi,0.0,Neutral,0.1363636363636363,Neutral,0.3288283050060272,Neutral
+yeni videolar ekle abi,0.0,Neutral,0.1363636363636363,Positive,0.3288283050060272,Neutral
 BEN ZATEN SILA ABLAYI ÇOK SEVİYORUM İYİKİ O KAZANMIŞ  ENES ABİ,0.9327,Positive,0.6,Positive,0.263663500547409,Neutral
 One punch Man kim bilmiyosun sjjsjsjsj,0.0,Neutral,0.0,Neutral,-0.4099681973457336,Negative
 Mert le yaren abla sevgili,0.3818,Positive,0.0,Neutral,-0.294804036617279,Negative
-Ali biçim bu videoyu izleyip toşkoyu dövmeye gidiyo şuan,0.0,Neutral,0.2857142857142857,Neutral,0.4816529154777527,Positive
+Ali biçim bu videoyu izleyip toşkoyu dövmeye gidiyo şuan,0.0,Neutral,0.2857142857142857,Positive,0.4816529154777527,Positive
 Enes Batur izliyom reklamda da enes batur çıkıyo jshshsshhshdhdhhdjdjffj,0.0,Neutral,0.0,Neutral,-0.4461770057678222,Negative
 16:32 SHSHSHJEHEDJDHDHSKSUSJJSSJJSSJSJSJSJ,0.0,Neutral,0.0,Neutral,-0.3414116203784942,Negative
 "Abi daireden son çıkan kazanır part#8 at nolurrr
-Atmasını istiyorsanız  1+like enes abi görsün",0.6124,Positive,0.0916666666666666,Neutral,-0.2697605788707733,Negative
+Atmasını istiyorsanız  1+like enes abi görsün",0.6124,Positive,0.0916666666666666,Positive,-0.2697605788707733,Negative
 ENES ABİ kahraman firmin deki kuleyi gördüm,0.5574,Positive,0.0,Neutral,0.4055456817150116,Positive
 asılın beğeniye hayalmi gerçekmi 2 geliyo xkqmvqkfkwkdkwkdk,0.0,Neutral,0.0,Neutral,0.5380967259407043,Positive
 20:17 elenmesi lazım iki ayağımda çıkıyo,0.0,Neutral,0.0,Neutral,-0.512671172618866,Negative
 "Abi nolur dairədən son çıkan yeni bölüm
-Cek",0.0,Neutral,0.0681818181818181,Neutral,0.2607647776603699,Neutral
+Cek",0.0,Neutral,0.0681818181818181,Positive,0.2607647776603699,Neutral
 eyyyyyyyyy   ahali     enes   baturdan   abunə    almayın     o    benim   kardeşime   küfür    ediyor,0.0,Neutral,0.0,Neutral,-0.6080319881439209,Negative
 05:47 bana tam onun reklamı çıkması,0.0,Neutral,0.0,Neutral,-0.4424766302108764,Negative
 "Baturayı,Mervan’ı,valesi,harcadı şimdi sıra ecenaz ve Mert te",0.0,Neutral,-0.1,Negative,-0.275827944278717,Negative
@@ -427,15 +427,15 @@ Ahmet midir nedir acayip ayar oldum çocuğa salak salak yapmacık hareketler ne
 16:34 AA  toşko çok ayıp,-0.4767,Negative,0.0,Neutral,0.2315013706684112,Neutral
 enesboturabi,0.0,Neutral,0.0,Neutral,0.2450429946184158,Neutral
 benooyunuindirdim,0.0,Neutral,-0.4,Negative,-0.2441690415143966,Negative
-Abi yeni bölüm çeker misin? Nolurrğğ,0.3182,Positive,0.1363636363636363,Neutral,-0.2944886386394501,Negative
+Abi yeni bölüm çeker misin? Nolurrğğ,0.3182,Positive,0.1363636363636363,Positive,-0.2944886386394501,Negative
 hani allstardı,0.0,Neutral,0.0,Neutral,0.4777392446994781,Positive
 "Ahmet, Toşko varya bacını bile skr",0.0,Neutral,0.0,Neutral,-0.2787807285785675,Negative
 4:01,0.0,Neutral,0.0,Neutral,0.3242256641387939,Neutral
 Enes abi beni gör kimse görmiyor,-0.296,Negative,0.0,Neutral,0.3902627229690552,Positive
-ALLAHIN EN SEVMEDİĞİ ŞEY İSRAFDIR,0.4062,Positive,0.15,Neutral,0.7570830583572388,Positive
+ALLAHIN EN SEVMEDİĞİ ŞEY İSRAFDIR,0.4062,Positive,0.15,Positive,0.7570830583572388,Positive
 11:15,0.0,Neutral,0.0,Neutral,0.2556504607200622,Neutral
 1 milyon yapalım beğeniyi hayal mi gerçek mi 2 gelicek,0.5423,Positive,0.0,Neutral,-0.3580404818058014,Negative
-Enes batur ilk defe tek başına olmadı,0.1877,Positive,0.25,Neutral,-0.4552004039287567,Negative
+Enes batur ilk defe tek başına olmadı,0.1877,Positive,0.25,Positive,-0.4552004039287567,Negative
 Çok güzel olmuş ellerine sağlık kral.,0.4939,Positive,0.0,Neutral,0.4267532229423523,Positive
 Enes Batur şu toşkoyu videona alma bence,0.0,Neutral,0.0,Neutral,0.244496464729309,Neutral
 Alperen Jenga turunda çizgiden çıktığını fark edenler butonu,0.0,Neutral,0.0,Neutral,-0.3855254650115967,Negative
@@ -446,16 +446,16 @@ Cihanla çek,0.0,Neutral,0.0,Neutral,-0.2384140491485595,Negative
 peki yaren,0.0,Neutral,0.0,Neutral,0.2763510942459106,Neutral
 Bizamanlar herkez enes batur çok küfür ediyo diyolardı şimdi görün enes batur mu yoksa başkalarımı küfür ediyo,-0.25,Negative,0.0,Neutral,-0.5710188746452332,Negative
 Enes seni izlerken karşıma ARENA OF VALOR reklamın karşıma çıktı♡~,0.0,Neutral,0.0,Neutral,0.2867292761802673,Neutral
-Abi eski ekiple çek seriyi.,-0.34,Negative,0.1,Neutral,0.3259138166904449,Neutral
+Abi eski ekiple çek seriyi.,-0.34,Negative,0.1,Positive,0.3259138166904449,Neutral
 3 kişi 101 kg lık adamı çekemiyor,0.0,Neutral,0.0,Neutral,-0.6786738634109497,Negative
-Abi şey acı ekşi tatlı yaparmış,0.0516,Positive,0.0333333333333333,Neutral,-0.3777924180030823,Negative
-Eski ekip geri gelsin,0.0,Neutral,0.05,Neutral,-0.281043142080307,Negative
+Abi şey acı ekşi tatlı yaparmış,0.0516,Positive,0.0333333333333333,Positive,-0.3777924180030823,Negative
+Eski ekip geri gelsin,0.0,Neutral,0.05,Positive,-0.281043142080307,Negative
 Aa.   Ayhan.  abi.    Enes.   adiyle.    sizi.   atkip.      ediyorum,0.0,Neutral,0.0,Neutral,-0.4126696288585663,Negative
 Enes abi çok küfür ediyorsunuz her vidyoda,-0.0516,Negative,0.0,Neutral,-0.4830895364284515,Negative
 ALPER ABI O JENGA TURU NEYDIIIIII🤣🤣🤣,0.8625,Positive,0.0,Neutral,0.386011004447937,Positive
 Suuuuuuu,0.0,Neutral,0.0,Neutral,-0.2724379897117615,Negative
 Ya Sıla 😭,-0.4767,Negative,0.0,Neutral,0.2270541489124298,Neutral
-Eski ekip nerede... yazıklar olsun gelişme bu olamaz 10M dan sonra sarmadı video ların ama eskiden sürekli seni izlerdim şarkılarını ezberlerdim😒,-0.2617,Negative,0.1,Neutral,-0.339841216802597,Negative
+Eski ekip nerede... yazıklar olsun gelişme bu olamaz 10M dan sonra sarmadı video ların ama eskiden sürekli seni izlerdim şarkılarını ezberlerdim😒,-0.2617,Negative,0.1,Positive,-0.339841216802597,Negative
 Abi kızın 1.000 lirasını vermedin kızın tırnağı koptu yinede dayandı yazıklar olsun abi🤣,0.5719,Positive,0.0,Neutral,-0.6709008812904358,Negative
 Ahmet abi hiç üzülmemiştir çünkü kardeşi kazandı,0.7081,Positive,0.0,Neutral,-0.4041692912578583,Negative
 Bayiliyorum bu videolara,0.6369,Positive,0.5,Positive,-0.2948475182056427,Negative
@@ -468,7 +468,7 @@ Batur abi rahmetli girdin,0.0,Neutral,0.0,Neutral,-0.4660238325595855,Negative
 Amcası olmayınca olmuyor be,0.2263,Positive,0.5,Positive,0.231229081749916,Neutral
 Alper jengada nasıl çekiyo öyle ya,-0.34,Negative,0.0,Neutral,-0.2392216026782989,Negative
 Abi Ahmet abi toşkoyu çekerken iki ayağıda çizgiden cıkıyl elenmesi lazım,0.0,Neutral,0.0,Neutral,-0.3416163027286529,Negative
-Sıla ablaya çok. Üzüldüm😖,0.1761,Positive,0.2,Neutral,0.2758760154247284,Neutral
+Sıla ablaya çok. Üzüldüm😖,0.1761,Positive,0.2,Positive,0.2758760154247284,Neutral
 Demı       gelsin🙏🙏🙏,0.0,Neutral,0.0,Neutral,0.2992645502090454,Neutral
 orda iki kız allan yarram gibiydi,0.3612,Positive,0.0,Neutral,-0.3104963898658752,Negative
 zaradan aldım montu diyor biz hala lc giyoyoz amk,0.0,Neutral,0.0,Neutral,-0.7594822645187378,Negative
@@ -487,11 +487,11 @@ Abi şu tiktokçuları alma,0.0,Neutral,0.0,Neutral,0.2718334794044494,Neutral
 Enes abi sen harikasın bu videolar harika ortalama son çıkan kazanır şanslı oln,0.9413,Positive,0.4305555555555556,Positive,-0.3144028484821319,Negative
 Enes abi sen hani video atmayacktın,-0.0572,Negative,0.0,Neutral,-0.3606575727462768,Negative
 9:47 nasıl iki dakikada omzuna aldı skjek,0.0,Neutral,0.0,Neutral,-0.7713375687599182,Negative
-4:36 çok komik,0.4927,Positive,0.25,Neutral,0.2977739870548248,Neutral
+4:36 çok komik,0.4927,Positive,0.25,Positive,0.2977739870548248,Neutral
 🚕,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 A Nieto to man,0.0,Neutral,0.0,Neutral,0.4290373921394348,Positive
 Bence eda daha çok videolarda olmali,0.0,Neutral,0.5,Positive,-0.4175240695476532,Negative
-Ya abi harbi bak artık eskileri özlemeye başladık 😔,-0.0772,Negative,0.05,Neutral,0.2688684463500976,Neutral
+Ya abi harbi bak artık eskileri özlemeye başladık 😔,-0.0772,Negative,0.05,Positive,0.2688684463500976,Neutral
 "*Ve Alper abi senden beklemiyordum, böyle bir ş...... ile ortaklık yapman sana yakışmadı, bizde biliyoruz para isteğinin insanoğlunun temelinde olduğunu ama aynı zamanda bunu kontrol edebildiğini de biliyoruz, neyse uzun lafın kısası, sonsuza kadar hoşçakal...🔗💦*",0.2144,Positive,-0.0125,Negative,-0.4337431490421295,Negative
 Eren❤yaren😊😊,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Abi tindere gelsin,0.0,Neutral,0.0,Neutral,0.2729555070400238,Neutral
@@ -503,8 +503,8 @@ Alpere haksızlık yapıldı,0.0,Neutral,-0.5,Negative,-0.6994889378547668,Negat
 Betül nerede la,0.0,Neutral,0.0,Neutral,-0.2736620903015136,Negative
 Abi gülmekten öldüm 😂😂😂😂😂🤣🤣🤣🤣🤣🤣🤣🤣😅😅😅😅😅😅😄😄😄😄😄😄,0.8807,Positive,0.0,Neutral,-0.4263825118541717,Negative
 5.56 aha anime izliyomus hihihi yazdim bunu,0.0,Neutral,0.0,Neutral,-0.4113987386226654,Negative
-Vales mami baturay mervan murat sungur tekin nerde? tiktokçular hiç iyi değil eskiler komikti,0.1265,Positive,9.251858538542969e-18,Neutral,-0.2903784811496734,Negative
-Eski ekip daha guzeldi eskinin tadini vermedi ne yalan soylim özledik onlari mami vales baturay mervan abi bizim hatirimiz icin son bi kez bile olsa bi araya gelip bi video cekin konusma yapin nolur 15m hatri icin,0.0683,Positive,0.325,Neutral,-0.2600903809070587,Negative
+Vales mami baturay mervan murat sungur tekin nerde? tiktokçular hiç iyi değil eskiler komikti,0.1265,Positive,9.251858538542969e-18,Positive,-0.2903784811496734,Negative
+Eski ekip daha guzeldi eskinin tadini vermedi ne yalan soylim özledik onlari mami vales baturay mervan abi bizim hatirimiz icin son bi kez bile olsa bi araya gelip bi video cekin konusma yapin nolur 15m hatri icin,0.0683,Positive,0.325,Positive,-0.2600903809070587,Negative
 Cem oşm nerde,0.0,Neutral,0.0,Neutral,0.2311692237854004,Neutral
 hadi herkez kike butonuna çoksun ve haymi gerçekmi2 çıksınn,0.6948,Positive,0.8,Positive,-0.3483582437038421,Negative
 "Enes abi sıla ablaya çok üzüldüm yerlere düştü tırnağı kırıldı kanadı ama bileğinin gücüyle kazandı hepinizi seviyorum eda biçim,yaren,mert eren,hey poper,hey sıla,toşkun,Alper,Turgut,Ayşe Nur ve sen hepinize💘💝💖💗💓💞💕💟❣❤🧡💛💚💙💜🤎🖤🤍🤍🖤🤎💜💙💚💛💖💗💓💞💕💟❣❤🧡💝💘💌💌💘💝🧡❤❣💟💕💞💓💗💖",0.9998,Positive,-0.2,Negative,0.3554304540157318,Positive
@@ -517,25 +517,25 @@ enes batur karizmatik yakıklı,0.4939,Positive,0.5,Positive,0.4150204360485077,
 Daireyi bina sanan kardeşim sende hoş geldin,0.4588,Positive,0.3875,Positive,0.2754978537559509,Neutral
 10:56 gülme kriziiiii,0.0,Neutral,0.0,Neutral,-0.4959385991096496,Negative
 Toşko ortalığın a*ına koydu :D,0.6166,Positive,0.5,Positive,0.3130871653556824,Neutral
-abi kanalını kpatmadoğın için tşk,0.4404,Positive,0.2,Neutral,0.2316484153270721,Neutral
+abi kanalını kpatmadoğın için tşk,0.4404,Positive,0.2,Positive,0.2316484153270721,Neutral
 En son attığım vidiyoyu asla ama asla izleme🚫,0.0,Neutral,0.0,Neutral,-0.316820353269577,Negative
 18:42 alper toşkonun anlanına geçiyo ve kimse farketmiyo -_-,-0.296,Negative,0.0,Neutral,-0.3656401038169861,Negative
 dairemdensin çıkan 8 çıksın,0.0,Neutral,-0.025,Negative,-0.3932947814464569,Negative
 Eda ne alaka lan,0.0,Neutral,0.0,Neutral,-0.2768237292766571,Negative
 Abi   seni gördüğüm,0.0,Neutral,0.0,Neutral,0.479322999715805,Positive
 Yareşimi görünce anında izledim 🤭😊😝(resimdeki babam ben kızım),0.8481,Positive,0.0,Neutral,0.4735400080680847,Positive
-Bu videoda nedense aşırı güldüm TOŞKO VE MERT 😂,0.6705,Positive,0.2041666666666666,Neutral,-0.3849624991416931,Negative
+Bu videoda nedense aşırı güldüm TOŞKO VE MERT 😂,0.6705,Positive,0.2041666666666666,Positive,-0.3849624991416931,Negative
 Eskiden zorluk vardı şimdi bokluk,-0.6124,Negative,-0.2458333333333333,Negative,-0.4253471195697784,Negative
-daireden son çıkan kazanır 8 gelsin +1 leyin görsün,0.5719,Positive,0.15,Neutral,-0.441055566072464,Negative
+daireden son çıkan kazanır 8 gelsin +1 leyin görsün,0.5719,Positive,0.15,Positive,-0.441055566072464,Negative
 Enes  batur  abi   səni  düşünürdülər  miki  yə  dönüşdürdülər,0.0,Neutral,0.0,Neutral,-0.3284880220890045,Negative
 18:44 Alper sınırı gecmıs,0.0,Neutral,0.0,Neutral,-0.2794070839881897,Negative
-Eski kadroyu özledik,-0.1531,Negative,0.1,Neutral,0.3760071396827698,Positive
+Eski kadroyu özledik,-0.1531,Negative,0.1,Positive,0.3760071396827698,Positive
 1m,0.0,Neutral,0.0,Neutral,0.3873702585697174,Positive
 1M,0.0,Neutral,0.0,Neutral,0.3873702585697174,Positive
 Hep sıla kazansın,0.5859,Positive,0.8,Positive,-0.3473993837833404,Negative
 Daireden son çikan 8 geldinnn,0.0,Neutral,-0.0125,Negative,-0.2688921391963959,Negative
 vidyonun sonunda sıla abla parmağını nasıl büktü,0.0,Neutral,0.0,Neutral,-0.4824189841747284,Negative
-Yeşili tam şero,-0.5994,Negative,0.0749999999999999,Neutral,0.3090299963951111,Neutral
+Yeşili tam şero,-0.5994,Negative,0.0749999999999999,Positive,0.3090299963951111,Neutral
 eğer toşko o yemnekleri bitirmediyse ekişpten atın,0.0,Neutral,0.0,Neutral,-0.3431855142116546,Negative
 Bozdun reis,0.0,Neutral,0.0,Neutral,0.3024816215038299,Neutral
 05:00 enes batur : olur olur yeriz,0.0,Neutral,0.0,Neutral,-0.5457566380500793,Negative
@@ -554,7 +554,7 @@ Enes abi o  xo taktiğini biliyorum biz okuldayken oynuyoruz beni hiç kimse yen
 abi yaren abla çok el hareketi çekiyor,0.4939,Positive,0.0,Neutral,0.3250156342983246,Neutral
 4:01 abi bana bunu açıkla iahsjahwjwiahajwiajajajajaj,0.0,Neutral,0.0,Neutral,-0.3734161555767059,Negative
 orkunla video çeksene abicim yaaa,0.3182,Positive,0.0,Neutral,-0.3346750140190124,Negative
-hadi beyler gerçmi hayalmi 2 için,0.25,Positive,0.2,Neutral,0.2560629546642303,Neutral
+hadi beyler gerçmi hayalmi 2 için,0.25,Positive,0.2,Positive,0.2560629546642303,Neutral
 Seri gelsin reis ❤️😀,0.3612,Positive,0.0,Neutral,0.4285399615764618,Positive
 Devamı gelsin,0.0,Neutral,0.5,Positive,0.2974334955215454,Neutral
 sıla ve ahmet canla daha fazla video gelsin,0.0,Neutral,0.5,Positive,-0.2406028360128402,Negative
@@ -575,21 +575,21 @@ Toşkonun ebilsesi çık tı,0.0,Neutral,0.0,Neutral,-0.4516247808933258,Negativ
 MUHTEŞEMMM,0.5859,Positive,0.6000000000000001,Positive,-0.4529051780700683,Negative
 Bu iki kardese bayiliyorum,0.5574,Positive,0.0,Neutral,-0.2531530261039734,Negative
 Bence toşko kazanmalıydı adam çok pis mücadele etti,-0.4751,Negative,-0.6999999999999998,Negative,-0.3309375345706939,Negative
-17:12 çok class hareket ya,0.0,Neutral,0.2,Neutral,0.3039665818214416,Neutral
+17:12 çok class hareket ya,0.0,Neutral,0.2,Positive,0.3039665818214416,Neutral
 Y,0.0,Neutral,0.0,Neutral,0.3310393095016479,Positive
 Aslannnnnnnnnnnn.,0.0,Neutral,0.0,Neutral,-0.2905585467815399,Negative
 Selam,0.0,Neutral,0.0,Neutral,0.2378614395856857,Neutral
 4:00 tipe bak😁,0.4588,Positive,0.0,Neutral,0.2608517408370971,Neutral
 100000000 m olmalıydı,0.0,Neutral,0.0,Neutral,-0.4244024455547333,Negative
-Eski ekip>,0.0,Neutral,0.1,Neutral,0.2586019337177276,Neutral
+Eski ekip>,0.0,Neutral,0.1,Positive,0.2586019337177276,Neutral
 Şu yareni hiç sevmiyorum,-0.2755,Negative,-0.1666666666666666,Negative,-0.2662670314311981,Negative
 Vales Baturay  MURAT AMCA MERVAN🥺,0.0,Neutral,0.0,Neutral,0.2396217137575149,Neutral
 Yaren 4:03 orta parmakmi gösteriyor?,0.0,Neutral,0.0,Neutral,-0.3095861077308655,Negative
 Abi video artı 18 oldu y aaaaaaaaaaaaaaaâaaaaaaaaaaa,0.0,Neutral,0.0,Neutral,-0.5745735168457031,Negative
 enes abi nolur 1 tane kalp at 1 tane yorum,0.7579,Positive,0.0,Neutral,-0.4948126375675201,Negative
-Sıla abla hakketti çok iyi savaştı,0.024,Neutral,0.2,Neutral,0.4695619642734527,Positive
+Sıla abla hakketti çok iyi savaştı,0.024,Neutral,0.2,Positive,0.4695619642734527,Positive
 Abi sayı tam tutmuş,0.6124,Positive,1.0,Positive,0.3131482601165771,Neutral
-Yeni bölümü anladık enes api sjsjsjsjs,0.0,Neutral,0.1363636363636363,Neutral,0.3678789138793945,Positive
+Yeni bölümü anladık enes api sjsjsjsjs,0.0,Neutral,0.1363636363636363,Positive,0.3678789138793945,Positive
 Hehe,0.0,Neutral,0.0,Neutral,0.2750043869018554,Neutral
 Merhaba Enes Batur,0.0,Neutral,0.0,Neutral,-0.4346401989459991,Negative
 Okulda ağalarla biz,0.0,Neutral,0.0,Neutral,0.2667022347450256,Neutral
@@ -614,11 +614,11 @@ one puch man izliyon mu,0.0,Neutral,0.0,Neutral,-0.8578438758850098,Negative
 Günah krakerler düşüyor ve toplamıyosunuz,-0.5574,Negative,0.0,Neutral,-0.4005225300788879,Negative
 18:42 arper cıkıyo,0.0,Neutral,0.0,Neutral,-0.4627487659454345,Negative
 vales olsa mutlu olurdum😕,0.34,Positive,0.8,Positive,0.3691411316394806,Positive
-mc yaralı ile video istiyoozzz,-0.4019,Negative,0.2,Neutral,-0.4761068820953369,Negative
+mc yaralı ile video istiyoozzz,-0.4019,Negative,0.2,Positive,-0.4761068820953369,Negative
 Çok güzel abi.,0.5994,Positive,0.85,Positive,0.7616738677024841,Positive
 Enesde de gaylik başlamış,0.0,Neutral,0.0,Neutral,-0.3771685063838959,Negative
 Alper elenip Yaren ile mi sevgili oldu,0.6369,Positive,0.5,Positive,0.5376483798027039,Positive
-Abi eski kadro gelsin be,0.0,Neutral,0.1,Neutral,0.3266613781452179,Neutral
+Abi eski kadro gelsin be,0.0,Neutral,0.1,Positive,0.3266613781452179,Neutral
 ses kayması var,0.0,Neutral,0.4,Positive,0.2992347776889801,Neutral
 Alper seviliyor bende sevi yom,0.8442,Positive,0.6,Positive,0.32598677277565,Neutral
 Cemreyle küstüler mi,-0.25,Negative,0.0,Neutral,-0.298027366399765,Negative

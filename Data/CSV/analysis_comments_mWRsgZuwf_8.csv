@@ -2,7 +2,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 hope this get 1 bil,0.4404,Positive,0.0,Neutral,-0.4292848408222198,Negative
 This song has deep meaning.,0.0,Neutral,0.0,Neutral,0.63736492395401,Positive
 9 years later still listening,0.0,Neutral,0.0,Neutral,0.4376475214958191,Positive
-"wow i just realised this osng was released 9 years ago, it will never get old it's just a measterpize",0.5859,Positive,0.1,Neutral,0.4983231723308563,Positive
+"wow i just realised this osng was released 9 years ago, it will never get old it's just a measterpize",0.5859,Positive,0.1,Positive,0.4983231723308563,Positive
 i love this song so much its 2022 im still listening <3 <3 <3,0.9169,Positive,0.74,Positive,0.726482629776001,Positive
 this song is fire 🔥🔥👌👌,0.7241,Positive,0.0,Neutral,0.4850246608257293,Positive
 on repeat❤❤❤❤,0.9571,Positive,0.0,Neutral,0.2772875726222992,Neutral
@@ -21,7 +21,7 @@ Y
 A
 I",0.0,Neutral,0.0,Neutral,0.2685228884220123,Neutral
 this is nft music,0.0,Neutral,0.0,Neutral,0.3751550316810608,Positive
-This help me with my depression with the loss of many friends and my cat is suffering with cancer and blindness and people bully my for not getting my English right my first language is Scottish garlic so yeah and the loss of some of  my family members,-0.8843,Negative,0.2589285714285714,Neutral,0.4277842938899994,Positive
+This help me with my depression with the loss of many friends and my cat is suffering with cancer and blindness and people bully my for not getting my English right my first language is Scottish garlic so yeah and the loss of some of  my family members,-0.8843,Negative,0.2589285714285714,Positive,0.4277842938899994,Positive
 Essa música🎼me inspirava pra batalha que eu estava enfrentando em 2013.💪💚💛,0.875,Positive,0.0,Neutral,0.5290669798851013,Positive
 *This is goodest song i did listen*,0.0,Neutral,0.0,Neutral,0.4818370044231415,Positive
 Something wrong is with this,-0.4767,Negative,-0.5,Negative,-0.3317566514015198,Negative
@@ -30,21 +30,21 @@ This song will always be my fav,0.4588,Positive,0.0,Neutral,0.7187358736991882,P
 This song is so relaxing I don’t like it I love it,0.896,Positive,0.5,Positive,-0.3594033420085907,Negative
 NOSTALGIA 🔥 IM BACK IN 2022 😎✋,0.5859,Positive,0.0,Neutral,0.5592185258865356,Positive
 2022🇲🇲🇹🇭,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I cnat even listen to this song normally now,0.0,Neutral,0.15,Neutral,0.3328027725219726,Positive
+I cnat even listen to this song normally now,0.0,Neutral,0.15,Positive,0.3328027725219726,Positive
 Top 1 song,0.2023,Positive,0.5,Positive,0.8748334050178528,Positive
-Never Gets Old Been Listening To The Song Since 2018 Its Solid,0.1531,Positive,0.05,Neutral,0.5363508462905884,Positive
-Tip: Listen this on low volume and instantly make it full when music rises.,-0.2732,Negative,0.1166666666666666,Neutral,0.4640071988105774,Positive
+Never Gets Old Been Listening To The Song Since 2018 Its Solid,0.1531,Positive,0.05,Positive,0.5363508462905884,Positive
+Tip: Listen this on low volume and instantly make it full when music rises.,-0.2732,Negative,0.1166666666666666,Positive,0.4640071988105774,Positive
 FAVE,0.4404,Positive,0.0,Neutral,0.3664391338825226,Positive
-This is more like an emotional song 😭😭😭😭,-0.8291,Negative,0.25,Neutral,0.3227613270282745,Neutral
+This is more like an emotional song 😭😭😭😭,-0.8291,Negative,0.25,Positive,0.3227613270282745,Neutral
 Who's here before 1 billion views?,0.0,Neutral,0.0,Neutral,-0.370016872882843,Negative
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-First I see this song I cryed,-0.3818,Negative,0.25,Neutral,-0.296612799167633,Negative
+First I see this song I cryed,-0.3818,Negative,0.25,Positive,-0.296612799167633,Negative
 😃 this is the best song it evaer get old,0.7717,Positive,0.55,Positive,0.8125799894332886,Positive
 "When the blood goes stale, you will remember to keep it simple and honest and...
 
 Demons hide... A base value can be found if nothing else? ""What value is this in me to the devil to claim it's pedigree?""
 
-It's what you make, when you follow the right shepherd. Someone in YouTube just pointed me at seeing a lense that Elon musk is a shepherd with a pay to win scheme. What value is enlightenment on brilliance? Does musk know? Will you pay him to find out? With the powers that be, provide? You will find it is fate if you follow pay-to-win.",0.8327,Positive,0.0642857142857142,Neutral,-0.3596016466617584,Negative
+It's what you make, when you follow the right shepherd. Someone in YouTube just pointed me at seeing a lense that Elon musk is a shepherd with a pay to win scheme. What value is enlightenment on brilliance? Does musk know? Will you pay him to find out? With the powers that be, provide? You will find it is fate if you follow pay-to-win.",0.8327,Positive,0.0642857142857142,Positive,-0.3596016466617584,Negative
 rest in peace tyler,0.5423,Positive,0.0,Neutral,0.4376013576984405,Positive
 This song would make a fire song to play on beat saber,0.0,Neutral,0.0,Neutral,-0.2671155631542206,Negative
 I went bowling and heard this song play,0.34,Positive,0.0,Neutral,0.4861052930355072,Positive
@@ -132,8 +132,8 @@ It's where my demons hide
 It's where my demons hide",-0.9635,Negative,-0.1900462962962962,Negative,0.3183125853538513,Neutral
 8 years… from 2013 this song will never be forgotten,0.1695,Positive,0.0,Neutral,0.608047366142273,Positive
 j adore,0.6369,Positive,0.5,Positive,0.6893429160118103,Positive
-old but gold,0.0,Neutral,0.1,Neutral,0.3316058814525604,Positive
-I love how people still love this song I think this will be one of those that sticks forever (at least for me it will along with radioactive).,0.8555,Positive,0.2333333333333333,Neutral,0.7716487050056458,Positive
+old but gold,0.0,Neutral,0.1,Positive,0.3316058814525604,Positive
+I love how people still love this song I think this will be one of those that sticks forever (at least for me it will along with radioactive).,0.8555,Positive,0.2333333333333333,Positive,0.7716487050056458,Positive
 I love this song so much I will listen to it forever,0.6369,Positive,0.35,Positive,0.8726727962493896,Positive
 😍😍😍🥰❤,0.9661,Positive,0.0,Neutral,0.3085779249668121,Neutral
 It will be 1B soon.,0.0,Neutral,0.0,Neutral,0.3614887297153473,Positive
@@ -141,9 +141,9 @@ April 2022 more goosebumps 🙌,0.0,Neutral,0.5,Positive,-0.436749130487442,Nega
 "its 2014, late evening, rain drizzling and a pleasant climate. me and my friends have gathered at my friend's place with our ipads. we create a minecraft world and join via lan. we play with absolutely  zero track of time until someone accidentally looks for the time. 
 
 Am saying all this because this song reminds me of all those memories. i feel truly happy that ive experienced such a thing.",0.946,Positive,0.3722222222222222,Positive,0.7209003567695618,Positive
-The demons hide inside the Jehovah's Witnesses and Latter-day Saints. No wonder there's LOVELOUD in Utah. So much discrimination and demons in the church.,-0.4404,Negative,0.2,Neutral,0.3173806369304657,Neutral
+The demons hide inside the Jehovah's Witnesses and Latter-day Saints. No wonder there's LOVELOUD in Utah. So much discrimination and demons in the church.,-0.4404,Negative,0.2,Positive,0.3173806369304657,Neutral
 Masterpiece ❤️,0.6249,Positive,0.0,Neutral,0.8407883644104004,Positive
-Old is gold,0.0,Neutral,0.1,Neutral,0.3714399933815002,Positive
+Old is gold,0.0,Neutral,0.1,Positive,0.3714399933815002,Positive
 кингдам кам,0.0,Neutral,-0.1666666666666666,Negative,0.2780646383762359,Neutral
 love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 PES 2015.❤️❤️🔥🔥,-0.5859,Negative,0.0,Neutral,0.250234305858612,Neutral
@@ -155,14 +155,14 @@ One my most fav,0.5095,Positive,0.5,Positive,0.8092701435089111,Positive
 THIS WILL NEVER DIE ITS MY FAV,0.7308,Positive,0.0,Neutral,0.6734000444412231,Positive
 I'm from Viet Nam and i still listening it ❤❤❤,0.9274,Positive,0.0,Neutral,0.3884285986423492,Positive
 ITS APRIL 2022 LETS LE WHO ARE STILL LISTENING IN THIS LEGENDARY SONG,0.0,Neutral,1.0,Positive,0.4986366331577301,Positive
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-first beat intro..hits you hard...never get enought of it,0.0,Neutral,0.125,Neutral,-0.237704336643219,Negative
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+first beat intro..hits you hard...never get enought of it,0.0,Neutral,0.125,Positive,-0.237704336643219,Negative
 "Harika, çok güzel 😍https://youtu.be/7LlaRZmkpcE",0.9113,Positive,0.825,Positive,0.389806717634201,Positive
 its whre my demods hide,-0.1779,Negative,0.0,Neutral,-0.5315212607383728,Negative
 This gives me chills,0.0,Neutral,0.0,Neutral,0.253000408411026,Neutral
 Está canción la escuche recién en una peli y desde ahí no puedo parar de escucharla🎵🎶,0.2235,Positive,0.0,Neutral,0.5091902017593384,Positive
 Who’s watching this in 2022,0.0,Neutral,0.0,Neutral,0.4021620154380798,Positive
-old roblox player 🙂🥺,0.4033,Positive,0.1,Neutral,0.3802509009838104,Positive
+old roblox player 🙂🥺,0.4033,Positive,0.1,Positive,0.3802509009838104,Positive
 Hall of Fame 💋💂🌍😂🤐,0.8225,Positive,0.0,Neutral,0.7321740984916687,Positive
 This song is masterpiece and give motivation to go forward,0.7579,Positive,0.0,Neutral,0.7361295819282532,Positive
 This Masterpiece song's  never gone🤘,0.6249,Positive,0.0,Neutral,0.7238167524337769,Positive
@@ -190,9 +190,9 @@ Can anyone please tell me the name of the song they're singing at the end of the
 Did anyone notice that that army one was cricketer shimron hetamayer,0.0,Neutral,0.0,Neutral,-0.5138716697692871,Negative
 Don't worry we are listen to this song in 2022.👍👍,0.3412,Positive,0.0,Neutral,0.5667087435722351,Positive
 I was 12 when this came out it’s still a bop 😭😭,-0.7351,Negative,0.0,Neutral,0.2453298866748809,Neutral
-Rest in peace Tyler. Your family and friends misses you so much. I lost my dad to cancer as well.,-0.0422,Neutral,0.2,Neutral,0.6484969854354858,Positive
+Rest in peace Tyler. Your family and friends misses you so much. I lost my dad to cancer as well.,-0.0422,Neutral,0.2,Positive,0.6484969854354858,Positive
 you guys are my favorite singers in the world ever! this is also my favorite song!!!!!!!!!!!!!!!!!!!!!!,0.8002,Positive,0.8125,Positive,0.9616102576255798,Positive
-So fitting for those that deals with a mental illness!,-0.4574,Negative,0.1875,Neutral,0.5486729741096497,Positive
+So fitting for those that deals with a mental illness!,-0.4574,Negative,0.1875,Positive,0.5486729741096497,Positive
 This is not a masterpiece it a legend,-0.5096,Negative,0.0,Neutral,-0.3429085910320282,Negative
 This song makes me angry for football 🏈,-0.5106,Negative,-0.5,Negative,0.3091759085655212,Neutral
 This band doesn't realize what the internet has turned their song into.,0.0,Neutral,0.0,Neutral,-0.5091862082481384,Negative
@@ -205,18 +205,18 @@ Song del final?,0.0,Neutral,0.0,Neutral,0.2897117435932159,Neutral
 This song reminds me of my bad times,-0.5423,Negative,-0.6999999999999998,Negative,0.5406904816627502,Positive
 this song is one of my favorites〽,0.4215,Positive,0.0,Neutral,0.8567717671394348,Positive
 1:34 Том Круз до того как стал известен,0.0,Neutral,0.5,Positive,-0.3359628915786743,Negative
-It’s still alive,0.3818,Positive,0.1,Neutral,0.3967067301273346,Positive
-Wow  cool,0.7269,Positive,0.2249999999999999,Neutral,0.7820494174957275,Positive
+It’s still alive,0.3818,Positive,0.1,Positive,0.3967067301273346,Positive
+Wow  cool,0.7269,Positive,0.2249999999999999,Positive,0.7820494174957275,Positive
 We can't leave this song from our memory,0.0382,Neutral,0.0,Neutral,-0.3352984488010406,Negative
 Vocês são os maiores oooooooooooo,0.6369,Positive,1.0,Positive,-0.239197164773941,Negative
 มาจาก...ติ๊กต๊อก...ครับ,0.0,Neutral,0.0,Neutral,0.2611289322376251,Neutral
 Damn. Legendary Song.,-0.4019,Negative,1.0,Positive,0.8227185606956482,Positive
 Nunca sabes lo que hay detrás de cada persona ❤,0.6369,Positive,-0.4,Negative,0.4639715850353241,Positive
-I cant unhear the kingcome meme even when watching the normal video,0.0,Neutral,0.15,Neutral,-0.4184359312057495,Negative
-Its 2022 and we still watch this never gets old (this is cool!!),0.4374,Positive,0.3234375,Neutral,0.7253304123878479,Positive
+I cant unhear the kingcome meme even when watching the normal video,0.0,Neutral,0.15,Positive,-0.4184359312057495,Negative
+Its 2022 and we still watch this never gets old (this is cool!!),0.4374,Positive,0.3234375,Positive,0.7253304123878479,Positive
 This is my kingdom come,0.0,Neutral,0.0,Neutral,0.7987015843391418,Positive
 "O cara magro me lembra, um pouco se olha no espenho é pensa na vida...",0.0,Neutral,-0.1875,Negative,0.481935054063797,Positive
-Agan otra musica nueva,0.0,Neutral,0.1363636363636363,Neutral,0.275869220495224,Neutral
+Agan otra musica nueva,0.0,Neutral,0.1363636363636363,Positive,0.275869220495224,Neutral
 Desde el 2013,0.0,Neutral,0.0,Neutral,0.3547692894935608,Positive
 La de Beliver me encanto también,0.5994,Positive,0.7,Positive,0.758967399597168,Positive
 Me encanto le doy un 100,0.6369,Positive,0.5,Positive,0.8173933029174805,Positive
@@ -232,7 +232,7 @@ I love imagine dragons they make me go from💔 to♥ just being honest😊,0.96
 "Let's say it is ""my song"" <3",0.4404,Positive,1.0,Positive,0.2937981486320495,Neutral
 Alguien sabe como se llama la canción de al final del video por favor?,0.3182,Positive,0.0,Neutral,-0.4620557427406311,Negative
 0:51 yo cuando estoy solo en casa:,-0.25,Negative,0.0,Neutral,-0.5180562734603882,Negative
-This music video is getting never old beacause its steel so good,0.5777,Positive,0.3249999999999999,Neutral,0.5595149397850037,Positive
+This music video is getting never old beacause its steel so good,0.5777,Positive,0.3249999999999999,Positive,0.5595149397850037,Positive
 Everytime I listen to a music……I always come to YouTube to watch the videos and read comments of people who also appreciate my kind of music,0.4019,Positive,0.6,Positive,0.5785852074623108,Positive
 this song is legendary!,0.0,Neutral,1.0,Positive,0.8501582741737366,Positive
 algm sabe o nome da musica q toca no final do videos?,0.25,Positive,0.0,Neutral,-0.3994111120700836,Negative
@@ -243,7 +243,7 @@ simplemente perfecta,0.5719,Positive,1.0,Positive,0.908624529838562,Positive
 This song never gets old. <3,-0.3412,Negative,0.55,Positive,0.2959122955799103,Neutral
 What is that song in last video clip,0.0,Neutral,0.0,Neutral,-0.29462930560112,Negative
 this song is legend NEVER DIE,0.5702,Positive,0.0,Neutral,0.5511487722396851,Positive
-This song never gets old,0.0,Neutral,0.1,Neutral,0.4263049066066742,Positive
+This song never gets old,0.0,Neutral,0.1,Positive,0.4263049066066742,Positive
 Tyler Robinson ❤️,0.0,Neutral,0.0,Neutral,0.3012581467628479,Neutral
 Pes 2015 ❤️,0.0,Neutral,0.0,Neutral,0.2502080500125885,Neutral
 one of the best song of all time.,0.6369,Positive,1.0,Positive,0.9616567492485046,Positive
@@ -268,7 +268,7 @@ its too dirty,-0.4404,Negative,-0.6,Negative,-0.4951674938201904,Negative
 "мечтала попасть на ваш концерт в Санкт-Петербурге в июне. у меня жесткая депрессия и последний ваш альбом дает надежду... Я раньше вас очень любила. А когда покупала билет на концерт в прошлом году - я даже не слышала последний альбом, если честно. Начала слушать и просто хорошие песни.
 А потом горсть таблеток ежедневно и я нахожу свое отражение в каждой строчке. Когда делаешь вид, что все нормально, а хочется спрятаться. Когда таблетки ""играют"" не так, как задумал доктор...
 я понимаю, почему вы не сможете приехать в Россию в этом году. Я надеюсь, что когда-нибудь я смогу найти работу, чтобы покинуть эту страну. Если я еще буду жива. 
-Вы один из смыслов держаться. Я не любитель концертов. Но ваш в моем обязательном списке что необходимо сделать в жизни",0.7357,Positive,0.3076666666666666,Neutral,-0.2863910794258117,Negative
+Вы один из смыслов держаться. Я не любитель концертов. Но ваш в моем обязательном списке что необходимо сделать в жизни",0.7357,Positive,0.3076666666666666,Positive,-0.2863910794258117,Negative
 What is the song at the end,0.0,Neutral,0.0,Neutral,0.266381174325943,Neutral
 Sei fala so um pouco de ingles,0.0,Neutral,-0.0625,Negative,-0.3585438728332519,Negative
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
@@ -281,7 +281,7 @@ Dude Almost 1Billion Views,0.0,Neutral,0.0,Neutral,-0.3666455447673797,Negative
 someone remind me with like again 😘,0.6486,Positive,0.0,Neutral,0.4253190755844116,Positive
 A melhoooorrrr do mundooooo 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻,0.0,Neutral,0.0,Neutral,0.5407454371452332,Positive
 Ахуено ебать❤❤❤❤,0.8957,Positive,-0.4,Negative,0.2454949617385864,Neutral
-WOW. I used to listen to this as a child but I never understood the lyrics but years later I can totally get all this song,0.415,Positive,0.0333333333333333,Neutral,0.7630308270454407,Positive
+WOW. I used to listen to this as a child but I never understood the lyrics but years later I can totally get all this song,0.415,Positive,0.0333333333333333,Positive,0.7630308270454407,Positive
 Legendary song 💖💖💖💖💖💖,0.9894,Positive,1.0,Positive,0.7944394946098328,Positive
 🤍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ngl this song hits hard,-0.1027,Negative,-0.2916666666666667,Negative,0.2525995671749115,Neutral
@@ -297,7 +297,7 @@ https://youtu.be/w6ji9dggBco",0.0,Neutral,0.0,Neutral,0.354765921831131,Positive
 https://youtu.be/w6ji9dggBco,0.0,Neutral,0.0,Neutral,-0.2246980369091034,Negative
 "Don't Lose Hope 
 God Will Save Us ☮️ 🙏",0.6945,Positive,0.0,Neutral,0.5905632376670837,Positive
-"""Finding a old song is like finding a good old friend""",0.8225,Positive,0.3,Neutral,0.3262955546379089,Neutral
+"""Finding a old song is like finding a good old friend""",0.8225,Positive,0.3,Positive,0.3262955546379089,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Never stop loving this song 😍,0.1882,Positive,0.6,Positive,0.6790683269500732,Positive
 Stilll listening to this masterpiece 🎧......!!!,0.7751,Positive,0.0,Neutral,0.7155227065086365,Positive
@@ -306,7 +306,7 @@ I'll come back to this after 20 years,0.0,Neutral,0.0,Neutral,0.5665562748908997
 OMG how they did video editing,0.0,Neutral,0.0,Neutral,0.4079476594924927,Positive
 T H I S  I S  M Y  K I N G D O M  C U M,0.0,Neutral,0.0,Neutral,0.2459021657705307,Neutral
 Nhà vợ anh lộc thật tuyệt vời. Mọi người thật tình cảm với nhau 😍,0.9038,Positive,0.4583333333333333,Positive,0.6620412468910217,Positive
-20th April Lets See How Many Legends Are Watching This.😃,0.4357,Positive,0.25,Neutral,0.6579803824424744,Positive
+20th April Lets See How Many Legends Are Watching This.😃,0.4357,Positive,0.25,Positive,0.6579803824424744,Positive
 I just saying this song I the only one I listen to when I'm in the pick black of sadness. It always help me when I'm down! I listen to it on repeat all day,-0.126,Negative,-0.1203703703703703,Negative,0.6950279474258423,Positive
 Cum,0.0,Neutral,0.0,Neutral,0.2766412496566772,Neutral
 Shice of time..,0.0,Neutral,0.0,Neutral,-0.272554874420166,Negative
@@ -314,12 +314,12 @@ Time is so irrelevetated.. come to a turn to 1222..,0.0,Neutral,0.0,Neutral,-0.4
 يجمال الاغنيه حيل جميله 🥺🤍,0.8074,Positive,0.85,Positive,0.506248414516449,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 Tem copirite???,0.0,Neutral,0.0,Neutral,-0.4379809200763702,Negative
-"No matter whats he singing, this never gets old..",-0.0191,Neutral,0.1,Neutral,-0.2561071515083313,Negative
-"Encouraging song, powerful music 🎶",0.7351,Positive,0.3,Neutral,0.7265949249267578,Positive
+"No matter whats he singing, this never gets old..",-0.0191,Neutral,0.1,Positive,-0.2561071515083313,Negative
+"Encouraging song, powerful music 🎶",0.7351,Positive,0.3,Positive,0.7265949249267578,Positive
 3:20 what is name of the song?,0.0,Neutral,0.0,Neutral,0.3146126866340637,Neutral
-Still after 8 years this song feels like new,0.3612,Positive,0.1363636363636363,Neutral,0.4235172569751739,Positive
+Still after 8 years this song feels like new,0.3612,Positive,0.1363636363636363,Positive,0.4235172569751739,Positive
 I'm here because of the cvm meme,0.0,Neutral,0.0,Neutral,0.3283107578754425,Neutral
-It's 2077 and still listening. This will never get old.,0.0,Neutral,0.1,Neutral,0.329316109418869,Neutral
+It's 2077 and still listening. This will never get old.,0.0,Neutral,0.1,Positive,0.329316109418869,Neutral
 "it's been over 6 years since the first day I heard this song and whenever I heard it, it stimulates me to continute chasing after my dream of 6 years ago. Hope that in the next 6 years, I can be the one that I always dreaming of. Kinda legendary song that always inspires many generations",0.8316,Positive,0.4375,Positive,0.6264821887016296,Positive
 "this my kingdom come 
 
@@ -328,9 +328,9 @@ its where my semen hide
 its cocc inside",-0.1779,Negative,0.0,Neutral,0.387275755405426,Positive
 it is 2022 people are still watching like and comment,0.3612,Positive,0.0,Neutral,-0.2511675357818603,Negative
 In 2022 I hear wrong words💀,-0.4767,Negative,-0.5,Negative,-0.6118246912956238,Negative
-"for fuck's sake can someone come up with something original and not "" tHIs wILL NeVer dIE! "" OR "" tHis WiLL nEvEr gEt oLd!! """,0.7447,Positive,0.075,Neutral,-0.5255904793739319,Negative
+"for fuck's sake can someone come up with something original and not "" tHIs wILL NeVer dIE! "" OR "" tHis WiLL nEvEr gEt oLd!! """,0.7447,Positive,0.075,Positive,-0.5255904793739319,Negative
 *THIS WILL NEVER DIE*,0.4847,Positive,0.0,Neutral,0.4610575735569,Positive
-bạn tấm giả gái đẹp quá,0.4939,Positive,0.25,Neutral,0.4618652462959289,Positive
+bạn tấm giả gái đẹp quá,0.4939,Positive,0.25,Positive,0.4618652462959289,Positive
 Anjir slow bangget 😘😘😘,0.8126,Positive,-0.39,Negative,-0.3805963099002838,Negative
 imagine dragons only release masterpiece,0.6249,Positive,0.0,Neutral,0.4539595544338226,Positive
 I know everyone has their own pain and suffering. But do you believe it? that everything will pass Thank you for this song that never gets old ✌🏻🤍,0.6542,Positive,0.35,Positive,0.4302432835102081,Positive
@@ -343,14 +343,14 @@ R.I.P Tyler Robinson he's always our master legend and he always will be 🖤�
 what is the name of the song at the end,0.0,Neutral,0.0,Neutral,0.2730944454669952,Neutral
 "No way, i just miss this days",-0.4215,Negative,0.0,Neutral,-0.4228409826755523,Negative
 ❤❤❤,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song never get old,0.0,Neutral,0.1,Neutral,0.4848779737949371,Positive
+This song never get old,0.0,Neutral,0.1,Positive,0.4848779737949371,Positive
 I love this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
-I actually played this at my brother's funeral because it was his favorite song he was only 14 it reminds me of him,0.4404,Positive,0.1666666666666666,Neutral,0.5226464867591858,Positive
+I actually played this at my brother's funeral because it was his favorite song he was only 14 it reminds me of him,0.4404,Positive,0.1666666666666666,Positive,0.5226464867591858,Positive
 "Demon's,narcissicm,homelessness,lost,hurt,love,God,pain.",0.0,Neutral,0.0,Neutral,-0.4518340528011322,Negative
 "Que música linda, mas sempre tive curiosidade de saber quem são essas pessoas que aparecem na plateia e tem suas histórias contadas",0.6597,Positive,0.375,Positive,0.3592927455902099,Positive
 this is my come,0.0,Neutral,0.0,Neutral,0.7554567456245422,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
-1 year before I was born the real is old song,0.0,Neutral,0.15,Neutral,0.2719871699810028,Neutral
+1 year before I was born the real is old song,0.0,Neutral,0.15,Positive,0.2719871699810028,Neutral
 TH,0.0,Neutral,0.0,Neutral,0.2571329474449157,Neutral
 Days Of Michi 💋❤,0.7906,Positive,0.0,Neutral,0.3597459495067596,Positive
 I from Indonesia 🇮🇩,0.0,Neutral,0.0,Neutral,0.2480635344982147,Neutral
@@ -363,7 +363,7 @@ This song will never die,0.4847,Positive,0.0,Neutral,0.4859113991260528,Positive
 1 Mês [dia 18],0.0,Neutral,0.0,Neutral,-0.4105614423751831,Negative
 SES TRISTE  BEAUCOUQ,-0.4767,Negative,-0.15,Negative,0.2603462934494018,Neutral
 It’s bean 8 years damn,-0.4019,Negative,0.0,Neutral,0.2410971522331237,Neutral
-KEYS TO D DMON STRENGHT IS THAT ALL DMONKEYS SAYIN THAT THEY R ALL THAT FORN FEEDIN US TO D OTHERS FORMS OF LIFE BECAUSE THEY R GETING EATEN ALIVE AN MADE A DEAL LYING AN SAYIN ALL THEM FORMS IS DMON WEN IN TRUTH THEY TRAPPED THEMSELVES! NO FORM OF LIFE RESPECTS NO 1 OTHER THAN THIER ORIGINAL FACE ORL ALL LIFE IS LIKE THAT BECAUSE I'M 1 OF THEM BECAUSE I ONLY WORSHIP Mi ORIGINAL FACE THATS Y I KNOW SO!,0.7954,Positive,0.1260416666666666,Neutral,-0.5823367834091187,Negative
+KEYS TO D DMON STRENGHT IS THAT ALL DMONKEYS SAYIN THAT THEY R ALL THAT FORN FEEDIN US TO D OTHERS FORMS OF LIFE BECAUSE THEY R GETING EATEN ALIVE AN MADE A DEAL LYING AN SAYIN ALL THEM FORMS IS DMON WEN IN TRUTH THEY TRAPPED THEMSELVES! NO FORM OF LIFE RESPECTS NO 1 OTHER THAN THIER ORIGINAL FACE ORL ALL LIFE IS LIKE THAT BECAUSE I'M 1 OF THEM BECAUSE I ONLY WORSHIP Mi ORIGINAL FACE THATS Y I KNOW SO!,0.7954,Positive,0.1260416666666666,Positive,-0.5823367834091187,Negative
 Kingdom cum,0.0,Neutral,0.0,Neutral,0.3207130432128906,Neutral
 "It’s were Matt demons hide 
 Always turn back on this moment (hope I ain’t crazy 😜)",0.5,Positive,-0.3,Negative,0.3294399380683899,Neutral
@@ -459,9 +459,9 @@ Don't get too close
 It's dark inside
 It's where my demons hide
 It's where my demons hide",-0.9635,Negative,-0.1900462962962962,Negative,0.3183125853538513,Neutral
-When I first hear this song I cried,-0.3818,Negative,0.25,Neutral,-0.3627255260944366,Negative
+When I first hear this song I cried,-0.3818,Negative,0.25,Positive,-0.3627255260944366,Negative
 Needs a billion views,0.0,Neutral,0.0,Neutral,-0.3197367787361145,Negative
-When I was 2 years old I listened to this song it's eight years later and I listen to imagine dragons every day,0.0,Neutral,0.05,Neutral,0.4937537014484405,Positive
+When I was 2 years old I listened to this song it's eight years later and I listen to imagine dragons every day,0.0,Neutral,0.05,Positive,0.4937537014484405,Positive
 Ketiga aku sedih dan ingin bangkit kembali aku mengingat,-0.4215,Negative,-0.1666666666666666,Negative,-0.5759701728820801,Negative
 Quá tuyệt....,0.6249,Positive,0.8,Positive,-0.3316641747951507,Negative
 "980,011,895",0.0,Neutral,0.0,Neutral,-0.3012982904911041,Negative
@@ -471,13 +471,13 @@ let's hit a billion views,0.0,Neutral,0.0,Neutral,0.3815924227237701,Positive
 Masterpiece,0.6249,Positive,0.0,Neutral,0.8278747200965881,Positive
 Kiến thức thú vị và bổ ích của soi sáng,0.6808,Positive,0.4,Positive,0.439559131860733,Positive
 "Chúc VkCk thầy Mạnh khoẻ hp, để tiếp raa video nhaa thầy :v",0.6808,Positive,0.7,Positive,0.2808107435703277,Neutral
-And that is exactly why Jesus Christ Came.,0.0,Neutral,0.25,Neutral,0.6330997943878174,Positive
+And that is exactly why Jesus Christ Came.,0.0,Neutral,0.25,Positive,0.6330997943878174,Positive
 It's 979.978.620 wiew,0.0,Neutral,0.0,Neutral,-0.3599082231521606,Negative
 "1:53 imagine being at your 50th attempt to beat Elden Ring final boss, and almost done when a random drunk man comes in and makes you die....",-0.743,Negative,-0.3333333333333333,Negative,-0.2984301745891571,Negative
 "what a beautifull song once again and tyler my friend, you will always be remembered with your courage and bravery in the battle against the never ending curse called cancer you courage will never be forgotten and we will keep it going forever and ever and ever! R.I.P. Tyler Robinson!",0.872,Positive,0.0,Neutral,0.9152035117149352,Positive
 Nice my first word was radioactive,0.4215,Positive,0.425,Positive,0.5152302980422974,Positive
 Beautyfol,0.5994,Positive,0.85,Positive,0.5032097697257996,Positive
-"Просто пишу сам для себя сегодня конец воскресенья время 01:44 18.04.22 , скоро лето , я так сильно его жду ещё немного и оно наступит , пишут для себя в будущем чтобы прочитать свой комментарий и осознать что адская школа закончилась и началось лето , я лето жду невероятно сильно , я очень много пишу всяких комментариев, а теперь я иду спать поскольку завтра в шкилу в 8:50 и завтра алгебра 😞 , но радует меня одно скоро лето 🤩",-0.0258,Neutral,0.2625,Neutral,0.534002959728241,Positive
+"Просто пишу сам для себя сегодня конец воскресенья время 01:44 18.04.22 , скоро лето , я так сильно его жду ещё немного и оно наступит , пишут для себя в будущем чтобы прочитать свой комментарий и осознать что адская школа закончилась и началось лето , я лето жду невероятно сильно , я очень много пишу всяких комментариев, а теперь я иду спать поскольку завтра в шкилу в 8:50 и завтра алгебра 😞 , но радует меня одно скоро лето 🤩",-0.0258,Neutral,0.2625,Positive,0.534002959728241,Positive
 2:43 is so good,0.5777,Positive,0.7,Positive,0.5364492535591125,Positive
 road to 1 billion,0.0,Neutral,0.0,Neutral,0.3062829673290252,Neutral
 I’m leaving a commet here because this song is so good and will never die 2022,0.7837,Positive,0.7,Positive,0.747603178024292,Positive
@@ -488,9 +488,9 @@ this song was made when i was born and still im lisining to this song,0.0,Neutra
 "it's been ten years already, how is that possible?",0.0,Neutral,0.0,Neutral,0.2476729601621627,Neutral
 Alguém sabe o nome da msc que passou no final ?,0.0,Neutral,0.0,Neutral,-0.3523501455783844,Negative
 "While you still have your demon inside you, you'll always come back to this song",0.0,Neutral,0.0,Neutral,0.4335032701492309,Positive
-It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Neutral,0.5807878971099854,Positive
+It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Positive,0.5807878971099854,Positive
 What's the song they're singing at the end,0.0,Neutral,0.0,Neutral,0.2649957239627838,Neutral
-This song is so great but people kept making it innapropiate : (( 0:48,0.4803,Positive,0.025,Neutral,0.2904990613460541,Neutral
+This song is so great but people kept making it innapropiate : (( 0:48,0.4803,Positive,0.025,Positive,0.2904990613460541,Neutral
 This song made me always emotional and I feel something inside me,0.1531,Positive,0.0,Neutral,0.7878586053848267,Positive
 Enjoy the seas lads,0.4939,Positive,0.4,Positive,0.4232859313488006,Positive
 When earth die this song have to be play everywhere,-0.3612,Negative,0.0,Neutral,0.5210054516792297,Positive
@@ -498,11 +498,11 @@ Demons I possess can't be beat,0.0,Neutral,0.0,Neutral,0.5607106685638428,Positi
 0:50,0.0,Neutral,0.0,Neutral,-0.4160228371620178,Negative
 😥so deep,0.3291,Positive,0.0,Neutral,0.2719819843769073,Neutral
 This is my kingdom ...😂,0.4404,Positive,0.0,Neutral,0.7764497399330139,Positive
-Ola imagin dragons puede benir a Chicoloapan si? Los espero x el kumple de una amiga les mando los detayes por mesinyer gracias,0.6808,Positive,0.2,Neutral,-0.4445773065090179,Negative
+Ola imagin dragons puede benir a Chicoloapan si? Los espero x el kumple de una amiga les mando los detayes por mesinyer gracias,0.6808,Positive,0.2,Positive,-0.4445773065090179,Negative
 Who are still listing to God lvl song in 2022,0.2732,Positive,0.0,Neutral,0.4199272692203522,Positive
 Somebody know the song in the end?,0.0,Neutral,0.0,Neutral,-0.298640102148056,Negative
-My first singer among every singer.,0.0,Neutral,0.25,Neutral,0.8036208748817444,Positive
-Thanks you are my favourite singer.,0.4404,Positive,0.2,Neutral,0.8431423902511597,Positive
+My first singer among every singer.,0.0,Neutral,0.25,Positive,0.8036208748817444,Positive
+Thanks you are my favourite singer.,0.4404,Positive,0.2,Positive,0.8431423902511597,Positive
 I may bow to you,0.0,Neutral,0.0,Neutral,0.3094216883182525,Neutral
 u r saying your demon keys d monkeys that said they r trying to posses us! the face we  onborn born on we selves an childrnz on d trees and treets planet we walk on ert!,0.0,Neutral,0.0,Neutral,-0.4868061244487762,Negative
 @HSGS Art Club yêu CLB <3,0.765,Positive,1.0,Positive,0.2904753684997558,Neutral
@@ -510,9 +510,9 @@ O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
 Say what you want about imagine dragons… this song is timeless,0.0772,Positive,0.0,Neutral,0.4736522138118744,Positive
 """ Don't  get too close, it's  dark inside, it's  where my demons hide"" 
 ❤❤❤💕 i understand these lines so well😭😭😭",0.8854,Positive,-0.15,Negative,0.4245828688144684,Positive
-I remember hearing this song in Daniel Kim's Pop Danthology 2013.... so much nostalgia.,0.0,Neutral,0.2,Neutral,0.651415228843689,Positive
+I remember hearing this song in Daniel Kim's Pop Danthology 2013.... so much nostalgia.,0.0,Neutral,0.2,Positive,0.651415228843689,Positive
 April 2022 and still listent this masterpiece,0.7073,Positive,0.0,Neutral,0.7783694863319397,Positive
-"Eu escuto esse som na minha cabeça, esse ritmo essa letra. Finalmente encontrei a origem desse som. Imaginedragons",0.0,Neutral,0.2666666666666666,Neutral,0.5680491328239441,Positive
+"Eu escuto esse som na minha cabeça, esse ritmo essa letra. Finalmente encontrei a origem desse som. Imaginedragons",0.0,Neutral,0.2666666666666666,Positive,0.5680491328239441,Positive
 1 billion?,0.0,Neutral,0.0,Neutral,-0.5243201851844788,Negative
 Who else is here from PES 2015?,0.0,Neutral,0.0,Neutral,-0.4465890526771545,Negative
 This song 🎵 is a healing to be,0.0,Neutral,0.0,Neutral,0.6790385842323303,Positive
@@ -532,12 +532,12 @@ This video is so close to 1B views,0.0,Neutral,0.0,Neutral,-0.6749506592750549,N
 Hlw,0.0,Neutral,0.0,Neutral,0.2527608871459961,Neutral
 very touching fr fr,0.0,Neutral,0.65,Positive,0.4342343211174011,Positive
 I FEEL BAD FROM THE GIRL WHO HIS HUSBUND DIED THE TEARS HE IS SO LONELY,-0.905,Negative,-0.3999999999999999,Negative,-0.5454939007759094,Negative
-"Just came back from their live concert. Cleanest concert ever. No profanity. No sexual contents. Nothing inappropriate. Take your kids to see them. My daughters said, and I quote: this is wonderful. This is amazing.",0.8013,Positive,0.2972727272727272,Neutral,0.95315420627594,Positive
+"Just came back from their live concert. Cleanest concert ever. No profanity. No sexual contents. Nothing inappropriate. Take your kids to see them. My daughters said, and I quote: this is wonderful. This is amazing.",0.8013,Positive,0.2972727272727272,Positive,0.95315420627594,Positive
 Who is watching in April 2022 they are legends,0.0,Neutral,0.0,Neutral,0.560854434967041,Positive
 🖐👌,0.8531,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I'm going to see a concert on August 9 I'm so excited you guys are my greatest band ever.,0.8083,Positive,0.6875,Positive,0.7358550429344177,Positive
-Este cantante a envejecido pero sigue traendonos buenasas musicas,0.5927,Positive,0.3,Neutral,0.3970946967601776,Positive
-Thanks,0.4404,Positive,0.2,Neutral,0.5065225958824158,Positive
+Este cantante a envejecido pero sigue traendonos buenasas musicas,0.5927,Positive,0.3,Positive,0.3970946967601776,Positive
+Thanks,0.4404,Positive,0.2,Positive,0.5065225958824158,Positive
 Como se llama la canción que ponen como homenaje?,0.34,Positive,0.0,Neutral,0.2784527838230133,Neutral
 Absolutely amazing,0.624,Positive,0.6000000000000001,Positive,0.9458380937576294,Positive
 "This song is too emotional 🥲
@@ -548,21 +548,21 @@ POV:Its 2050 this song still aint forgoten,0.1695,Positive,0.0,Neutral,-0.446499
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Hehe,0.0,Neutral,0.0,Neutral,0.2750043869018554,Neutral
 Help please the Ukraine 🇺🇦🇺🇦🇺🇦🇺🇦☮🕊☮🕊☮🕊🕊🕊☮☮☮☮,0.9826,Positive,0.0,Neutral,0.395113080739975,Positive
-You never know what someone is going through. One small nice thing can make someone’s day,0.4215,Positive,0.175,Neutral,0.2677038609981537,Neutral
-One of the highly responsible songs for where Imagine Dragons are right now..,0.3804,Positive,0.2428571428571428,Neutral,0.8152830004692078,Positive
-"We live, love, laugh..",0.8316,Positive,0.3121212121212121,Neutral,0.7153236269950867,Positive
+You never know what someone is going through. One small nice thing can make someone’s day,0.4215,Positive,0.175,Positive,0.2677038609981537,Neutral
+One of the highly responsible songs for where Imagine Dragons are right now..,0.3804,Positive,0.2428571428571428,Positive,0.8152830004692078,Positive
+"We live, love, laugh..",0.8316,Positive,0.3121212121212121,Positive,0.7153236269950867,Positive
 I'm a new fan and got addicted to this then realised it's 8 years old-,0.3182,Positive,-0.0545454545454545,Negative,0.3848640024662018,Positive
 Anyone still remember when the song was still innocent. lol,0.6369,Positive,0.65,Positive,-0.5212939977645874,Negative
 music beautiful,0.5994,Positive,0.85,Positive,0.5894532203674316,Positive
 "I'm leaving this comment here so after a month or a year when someone likes it, I get reminded of this song .",0.4215,Positive,0.0,Neutral,-0.2861951887607574,Negative
 siraa,0.0,Neutral,0.0,Neutral,0.2672116458415985,Neutral
 "Almost 1 billion people watched this videos… such an amazing song 👌
-goosebumps",0.873,Positive,0.3,Neutral,0.8540300726890564,Positive
+goosebumps",0.873,Positive,0.3,Positive,0.8540300726890564,Positive
 😢,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
 It's wait wait!!!,0.0,Neutral,0.0,Neutral,-0.4431520998477936,Negative
 imagine disliking this it is literally so iconic,-0.3182,Negative,0.5,Positive,-0.5334808826446533,Negative
 It heals my anger,-0.5719,Negative,-0.7,Negative,0.2123674601316452,Neutral
-The words in this song hurts me but I need listened them... I'm a creep but what I can do? Just (try) live with my demons!,-0.3274,Negative,0.1704545454545454,Neutral,-0.3595682382583618,Negative
+The words in this song hurts me but I need listened them... I'm a creep but what I can do? Just (try) live with my demons!,-0.3274,Negative,0.1704545454545454,Positive,-0.3595682382583618,Negative
 Such a beautiful song man,0.5994,Positive,0.425,Positive,0.8433483242988586,Positive
 Esta cancion es inmortal!!!,0.4359,Positive,0.0,Neutral,0.7450169920921326,Positive
 "Lyrics:
@@ -637,7 +637,7 @@ THIS SONG WILL NEvEr dIe,0.4847,Positive,0.0,Neutral,0.4859113991260528,Positive
 Who hear again2022 are legends👍,0.0,Neutral,0.0,Neutral,0.562123715877533,Positive
 This song will never die!,0.5327,Positive,0.0,Neutral,0.6531890034675598,Positive
 Hell yeah,-0.5267,Negative,0.0,Neutral,0.3499020636081695,Positive
-It's april of 2022 let's see how much legends are listening the song😎,0.4588,Positive,0.2,Neutral,0.2785690128803253,Neutral
+It's april of 2022 let's see how much legends are listening the song😎,0.4588,Positive,0.2,Positive,0.2785690128803253,Neutral
 Eres como un hermano,0.3612,Positive,0.0,Neutral,0.4180450737476349,Positive
 Its my fav song i want it never die!,0.7742,Positive,0.0,Neutral,0.6843581199645996,Positive
 Finally I found the song that some yt shorts have,0.0,Neutral,0.0,Neutral,0.4121446013450622,Positive
@@ -654,7 +654,7 @@ Grande musica,0.0,Neutral,0.0,Neutral,0.6190351247787476,Positive
 Name of last song?,0.0,Neutral,0.0,Neutral,-0.3668976128101349,Negative
 "Whoever looks at 2022,he is hero",0.5574,Positive,0.0,Neutral,0.6440442800521851,Positive
 We as people have to get this song to 1B views,0.0,Neutral,0.0,Neutral,0.326747864484787,Neutral
-This will never gets Old.... Listening in April 2022 but this is a Generations Song... This song will feel the same if anybody listing it after 100 years in 2023... Its relative to everyone...,0.0,Neutral,0.0333333333333333,Neutral,-0.2874345183372497,Negative
+This will never gets Old.... Listening in April 2022 but this is a Generations Song... This song will feel the same if anybody listing it after 100 years in 2023... Its relative to everyone...,0.0,Neutral,0.0333333333333333,Positive,-0.2874345183372497,Negative
 Its 2022 now,0.0,Neutral,0.0,Neutral,0.2980271875858307,Neutral
 "Who else came back for nostalgia? Like, seriously. This guy was apart of us at least once.",0.2023,Positive,-0.2111111111111111,Negative,-0.6443705558776855,Negative
 This song is demonicly good-,0.4404,Positive,0.7,Positive,0.4022915959358215,Positive
@@ -676,15 +676,15 @@ This is my kingdom coom,0.0,Neutral,0.0,Neutral,0.7058098316192627,Positive
 Imagine dragons coldplay still legendary❤,0.6369,Positive,0.0,Neutral,0.3982479870319366,Positive
 Semangat terus bang 😭😭,-0.6705,Negative,0.0,Neutral,0.4005618989467621,Positive
 Anyone in 2022?,0.0,Neutral,0.0,Neutral,-0.5751007199287415,Negative
-During 2021 this would be the funny sex joke song,0.6249,Positive,0.25,Neutral,0.2461315393447876,Neutral
+During 2021 this would be the funny sex joke song,0.6249,Positive,0.25,Positive,0.2461315393447876,Neutral
 Man imagine dragons songs just get better everytime you listen to them,0.4404,Positive,0.5,Positive,0.3045934736728668,Neutral
 💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞,0.997,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Para mi yo del futuro:
 Está canción siempre se va a significar mucho para mí, no importa las cosas que te pasen, vas a ver qué seguirás siempre adelante
 No importa las veces que caigas, siempre vas a encontrar la forma de levantarte.
-Ánimos <3",0.7052,Positive,0.296875,Neutral,0.6315751075744629,Positive
+Ánimos <3",0.7052,Positive,0.296875,Positive,0.6315751075744629,Positive
 this music make me crying😢:),-0.7351,Negative,0.5,Positive,0.6918895840644836,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 "Me: do you like imagine dragons
 friend: yes, I love them!!!
 Me:... Imagine dragging these balls across your face",0.9257,Positive,0.9765625,Positive,0.8299824595451355,Positive
@@ -701,12 +701,12 @@ I cry every time I listen to this song Thank you Imagine Dragon ...,-0.1531,Nega
 This is the best song i have ever seen by imagine dragons,0.6369,Positive,1.0,Positive,0.9313216805458068,Positive
 "Nobody:
 Comments: This song will never get old
-lets see how many people are watching this masterpiece in 2022",0.7073,Positive,0.3,Neutral,-0.4857723712921142,Negative
+lets see how many people are watching this masterpiece in 2022",0.7073,Positive,0.3,Positive,-0.4857723712921142,Negative
 No matter what we breed we still are made of seed,-0.0191,Neutral,0.0,Neutral,0.330949455499649,Positive
-"No matter what we breed, we still are made of seed, such inspring words, so true no cap no lie.",0.4501,Positive,0.175,Neutral,-0.3686564266681671,Negative
+"No matter what we breed, we still are made of seed, such inspring words, so true no cap no lie.",0.4501,Positive,0.175,Positive,-0.3686564266681671,Negative
 Have you guys watched the song demons x jar of hearts  Not yet,0.6486,Positive,0.0,Neutral,-0.2924856543540954,Negative
 This is Kingdom come.,0.0,Neutral,0.0,Neutral,0.7067088484764099,Positive
-10k viewers are mins hahaha,0.5574,Positive,0.2,Neutral,-0.4892718493938446,Negative
+10k viewers are mins hahaha,0.5574,Positive,0.2,Positive,-0.4892718493938446,Negative
 #мысвоихнебросаем,0.0382,Neutral,0.0,Neutral,-0.4861490726470947,Negative
 This song makes me get myslef back when i learned something bad when im 9 ;),-0.3818,Negative,-0.1499999999999999,Negative,0.4431008100509643,Positive
 "Memes aside, the positivity and inspiration that this song gives is just insane",0.6124,Positive,-1.0,Negative,-0.6147459745407104,Negative
@@ -714,7 +714,7 @@ Once you start listening Imagine Dragons song then you can't stop yourself to pl
 This is Nostaligia remember when this song. Was popular and it was put with every minecraft animation etc. Hope you all great heavens,0.91,Positive,0.7,Positive,0.8097394108772278,Positive
 This is my cu,0.0,Neutral,0.0,Neutral,0.741687536239624,Positive
 dis song is the coolest !,0.0,Neutral,0.0,Neutral,0.8276698589324951,Positive
-CLASSIC,0.0,Neutral,0.1666666666666666,Neutral,0.6114762425422668,Positive
+CLASSIC,0.0,Neutral,0.1666666666666666,Positive,0.6114762425422668,Positive
 "obby be like
 2:42",0.3612,Positive,0.0,Neutral,-0.2950890362262726,Negative
 "no, this song is not good",-0.3412,Negative,-0.35,Negative,-0.7688019275665283,Negative
@@ -728,7 +728,7 @@ i listened to the other version too much now this sound weird,-0.1779,Negative,-
 Congrats in advance for 1 billion views,0.5267,Positive,0.0,Neutral,0.4424529671669006,Positive
 "2:53 pm ( afternoon) 970 million views,april 11,2022,day 1",0.0,Neutral,0.0,Neutral,-0.4745697975158691,Negative
 To the future generations DO NOT LET this song die !!! ❤️❤️🙏🙏,-0.6981,Negative,0.0,Neutral,-0.5097705721855164,Negative
-It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Neutral,0.5807878971099854,Positive
+It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Positive,0.5807878971099854,Positive
 "It’s 2022, let’s see how many legends are listening to this masterpiece❤",0.8772,Positive,0.5,Positive,0.4551951885223388,Positive
 stop saying who still listening to this we will never stop listening to this,-0.0803,Negative,0.0,Neutral,-0.6982041001319885,Negative
 These lyrics are something else. Serious stuff.,-0.0772,Negative,-0.3333333333333333,Negative,-0.5409270524978638,Negative
@@ -748,7 +748,7 @@ This is my kingdom come,0.0,Neutral,0.0,Neutral,0.7987015843391418,Positive
 This is my kingdom cu-,0.0,Neutral,0.0,Neutral,0.7629931569099426,Positive
 i- am litterally crying,-0.4767,Negative,-0.2,Negative,-0.3741207420825958,Negative
 1:10 i still hear it's *СОCК* inside,0.0,Neutral,0.0,Neutral,-0.3427221477031708,Negative
-"All memes aside, this is a golden masterpiece.",0.6249,Positive,0.3,Neutral,0.893710196018219,Positive
+"All memes aside, this is a golden masterpiece.",0.6249,Positive,0.3,Positive,0.893710196018219,Positive
 Why it's not getting 1b views,0.0,Neutral,0.0,Neutral,-0.4638431370258331,Negative
 lâu lắm rồi và bây giờ là 2022 mà vẫn hay =),0.7269,Positive,0.3833333333333333,Positive,-0.235745832324028,Negative
 "Hey, nice mullet",0.4215,Positive,0.6,Positive,0.4563482999801636,Positive
@@ -838,27 +838,27 @@ I love this song Im still listing to it even in 2022,0.6369,Positive,0.5,Positiv
 Imagine Dragons never gon´t let the rock died.,-0.5574,Negative,0.0,Neutral,-0.4696841239929199,Negative
 Claim your here before a Billion views ticket,0.0,Neutral,0.0,Neutral,-0.418993592262268,Negative
 "Just imagine how many people come here every day, song is really legendry!! l can't get this song out of my head, love this song",0.8427,Positive,0.4375,Positive,0.8663153648376465,Positive
-its 2022 and still listening this will never get old,0.0,Neutral,0.1,Neutral,0.535356879234314,Positive
+its 2022 and still listening this will never get old,0.0,Neutral,0.1,Positive,0.535356879234314,Positive
 🧡❤💜💙,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"I don't know why, but this song makes me cry every time I listen to it. Maybe it's because I relate to its message. Maybe it's because it's just that powerful.",-0.1154,Negative,0.3,Neutral,-0.3405807316303253,Negative
-this will never get old,0.0,Neutral,0.1,Neutral,0.5140286684036255,Positive
+"I don't know why, but this song makes me cry every time I listen to it. Maybe it's because I relate to its message. Maybe it's because it's just that powerful.",-0.1154,Negative,0.3,Positive,-0.3405807316303253,Negative
+this will never get old,0.0,Neutral,0.1,Positive,0.5140286684036255,Positive
 Dieses Lied zeigt einem alle seine Erinnerungen und guten Taten. Dieses Lied ist echt ein Meisterwerk und bleibt auch immer legendär 👍👏☝️,0.8062,Positive,0.6333333333333333,Positive,0.8789697885513306,Positive
 1Billion soon💖🔥,0.6124,Positive,0.0,Neutral,-0.3186664581298828,Negative
-The shitpost took us so hard we can't unhear anymore the original way it was sang,0.1113,Positive,0.0416666666666666,Neutral,-0.3532040417194366,Negative
+The shitpost took us so hard we can't unhear anymore the original way it was sang,0.1113,Positive,0.0416666666666666,Positive,-0.3532040417194366,Negative
 "8yrs ago, this is the best song! Stucked in my mind forever",0.5411,Positive,1.0,Positive,0.9442545175552368,Positive
-"I'm crying 😭 9 years ago! Love this song, forever 💖",0.69,Positive,0.125,Neutral,0.931824266910553,Positive
+"I'm crying 😭 9 years ago! Love this song, forever 💖",0.69,Positive,0.125,Positive,0.931824266910553,Positive
 Face book is betr,0.4404,Positive,0.5,Positive,0.3608656227588653,Positive
 "If you're not from tiktok, then u are definitely a LEGEND",0.4019,Positive,0.0,Neutral,0.6643354296684265,Positive
 Patta,0.0,Neutral,0.0,Neutral,0.255690187215805,Neutral
 "Depois de anos escuto essa música dnv, uma das mais lindas, ouvir isso com o sol nascendo dirigindo o seu carro em uma vista linda deve ser lindo dms.",0.9184,Positive,0.7625000000000001,Positive,0.3054981529712677,Neutral
 respect,0.4767,Positive,0.0,Neutral,0.4987001419067383,Positive
-"April , 2022 and Listening. Its like Old Wine. The more it gets old , its hits more differently.",0.3612,Positive,0.24,Neutral,0.3471793234348297,Positive
+"April , 2022 and Listening. Its like Old Wine. The more it gets old , its hits more differently.",0.3612,Positive,0.24,Positive,0.3471793234348297,Positive
 Hans Gruber And Syndrome Are The Literal Tyrants!,0.0,Neutral,0.0,Neutral,-0.4155019521713257,Negative
 https://youtu.be/V0QXj4vS2xo,0.0,Neutral,0.0,Neutral,-0.2374096512794494,Negative
-Aged like a fine wine,0.5106,Positive,0.1583333333333333,Neutral,0.395380437374115,Positive
+Aged like a fine wine,0.5106,Positive,0.1583333333333333,Positive,0.395380437374115,Positive
 I love this song because ang Pogi ko ❤️❤️,0.6369,Positive,0.5,Positive,0.7898427844047546,Positive
 I feel old since this 8 years old edit: and I'm 12 too lol,0.4215,Positive,0.3333333333333333,Positive,-0.3225518763065338,Negative
-"8 years old , and it feels like just yesterday. This will never get old.",0.3612,Positive,0.1,Neutral,0.510981023311615,Positive
+"8 years old , and it feels like just yesterday. This will never get old.",0.3612,Positive,0.1,Positive,0.510981023311615,Positive
 esta musica me recuerda al meme del tipo q el galon de agua se le sale pareciendo cum XDD,0.3612,Positive,0.0,Neutral,0.30510014295578,Neutral
 It's 2022 I will never forget this legendary song,0.1695,Positive,1.0,Positive,0.7093018293380737,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
@@ -870,7 +870,7 @@ I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 
 love that part-",0.6369,Positive,0.5,Positive,0.6455930471420288,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
-"I’m leaving this comment cause I want to remember always this song, sometimes I’m depressed, feeling lonely and with no purpose in this life, but for some reason this song remembers me that my life someday would be better.",0.1901,Positive,0.2,Neutral,0.3528593480587005,Positive
+"I’m leaving this comment cause I want to remember always this song, sometimes I’m depressed, feeling lonely and with no purpose in this life, but for some reason this song remembers me that my life someday would be better.",0.1901,Positive,0.2,Positive,0.3528593480587005,Positive
 i will never forget this song,0.1695,Positive,0.0,Neutral,0.5189903378486633,Positive
 "in 2020 till now, I see a lot of people using this song and making videos with negative elements, why is this song included in such a video?",-0.5719,Negative,-0.15,Negative,-0.4512709975242615,Negative
 "When the days are cold
@@ -939,7 +939,7 @@ It's where my demons hide
 It's where my demons hide",-0.9635,Negative,-0.1900462962962962,Negative,0.3183125853538513,Neutral
 Best song of 2022!,0.6696,Positive,1.0,Positive,0.9311479926109314,Positive
 It has became my favourite song,0.0,Neutral,0.0,Neutral,0.718872606754303,Positive
-I first heard this song back 2017 it's always on Minecraft edit on FB,0.0,Neutral,0.125,Neutral,0.2634929716587066,Neutral
+I first heard this song back 2017 it's always on Minecraft edit on FB,0.0,Neutral,0.125,Positive,0.2634929716587066,Neutral
 Ohhh its been 8 years ago this song and i remember this song when i was teen my bro always music like this... and i thought the title was This is my kingdom 😂😂😂,0.8807,Positive,0.0,Neutral,0.3011853694915771,Neutral
 "8 лет, а остаётся так же классным треком",0.6249,Positive,0.45,Positive,0.4702024459838867,Positive
 sampai jm brapa bang,0.0,Neutral,0.0,Neutral,-0.4647098779678345,Negative
@@ -951,10 +951,10 @@ Still one of the best song's 🙌,0.6369,Positive,1.0,Positive,0.67061847448349,
 Sussy song,0.0,Neutral,0.0,Neutral,0.3304905593395233,Positive
 Woooooo,0.0,Neutral,0.0,Neutral,0.2493610382080078,Neutral
 These people are all part of the Freemasons!!,0.0,Neutral,0.0,Neutral,0.4884441494941711,Positive
-ALMOST 1B VIEWS WOW :O,0.483,Positive,0.075,Neutral,-0.2945910990238189,Negative
+ALMOST 1B VIEWS WOW :O,0.483,Positive,0.075,Positive,-0.2945910990238189,Negative
 Best song.,0.6369,Positive,1.0,Positive,0.8777269721031189,Positive
 This song has onother meaning now😳,0.0,Neutral,0.0,Neutral,0.2492413073778152,Neutral
-"in 2013, 10 year old me listened to this song cuz it sounds good. but now it hits different when i actually get the meaning behind the lyrics.",0.2382,Positive,0.0799999999999999,Neutral,0.4377333521842956,Positive
+"in 2013, 10 year old me listened to this song cuz it sounds good. but now it hits different when i actually get the meaning behind the lyrics.",0.2382,Positive,0.0799999999999999,Positive,0.4377333521842956,Positive
 "Me acuerdo de  días de verano ,en los que dolía el alma tener que esperar a que pasen las vacaciones para poder volver a verla, era una eternidad., Antes quería que pasarán los días para verla ahora quiero q regresen.😭😭",-0.7717,Negative,0.0,Neutral,-0.3393122553825378,Negative
 "Lyrics: This is my kingdom come 
 Memes: This is my kingdom cum",0.0,Neutral,0.0,Neutral,0.4259610772132873,Positive
@@ -984,7 +984,7 @@ Who comes here from Instagram to listen this entire song? 😂❤,0.7964,Positiv
 "Nhữg người thật là chất phát như lộc sẽ luôn gặp đc may mắn trong cs,Điển hình như nhà vk lộc đố,Bố mẹ vk lộc và các thành viên trong nhà thật là hiền lành ấm áp và tốt tính.",0.9273,Positive,0.5249999999999999,Positive,0.4095392823219299,Positive
 0:45 this what u came for?,0.0,Neutral,0.0,Neutral,-0.447854220867157,Negative
 Og fans are watching in 2022,0.0,Neutral,0.0,Neutral,0.3692091405391693,Positive
-Ya no puedo escuchar esta canción de forma normal desde el this is my kingdom c u m xD,0.5859,Positive,0.15,Neutral,-0.4526887238025665,Negative
+Ya no puedo escuchar esta canción de forma normal desde el this is my kingdom c u m xD,0.5859,Positive,0.15,Positive,-0.4526887238025665,Negative
 Came here because my friend said I like you then sent a lyric from this song and said I like you was from the song-??!!,0.846,Positive,0.390625,Positive,-0.4380154013633728,Negative
 esta canción nunca morirá,0.4847,Positive,0.0,Neutral,0.551730751991272,Positive
 Who listens 2022,0.0,Neutral,0.0,Neutral,0.3138379752635956,Neutral

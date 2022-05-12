@@ -3,17 +3,17 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Army's : we don't need permission to love BTS 💜 
 BTS army forever 💜",0.9274,Positive,0.5,Positive,0.507196843624115,Positive
 479mln,0.0,Neutral,0.0,Neutral,-0.2889373898506164,Negative
-"BTS will release their New ALBUM on June 10,2022. Stay tuned.",0.0,Neutral,0.1363636363636363,Neutral,0.4967109262943268,Positive
+"BTS will release their New ALBUM on June 10,2022. Stay tuned.",0.0,Neutral,0.1363636363636363,Positive,0.4967109262943268,Positive
 My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 i love you guys so much,0.6369,Positive,0.35,Positive,0.8626021146774292,Positive
 YOONGI MARRY ME,0.0,Neutral,0.0,Neutral,0.3743135035037994,Positive
 🤩,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Dance <3,0.4404,Positive,1.0,Positive,0.3037699162960052,Neutral
-İnsan azıcık durur ben siz varken gitmeye utaniyorum ayıp olur diye ama siz hemen gidiyorsunuz cin miyim lan ben neyse ne yapıyorsanız yapın umurumda değil,-0.7912,Negative,0.0491071428571428,Neutral,-0.689696729183197,Negative
+İnsan azıcık durur ben siz varken gitmeye utaniyorum ayıp olur diye ama siz hemen gidiyorsunuz cin miyim lan ben neyse ne yapıyorsanız yapın umurumda değil,-0.7912,Negative,0.0491071428571428,Positive,-0.689696729183197,Negative
 "Niye kimse akutagawa ve atsushiyi konuşmuyor? Tabi insanlarin tercihlerine bir şey diyemem ama artık dazai, chuuyaya tapan, abartanlari görmek sinirimi bozuyor",-0.296,Negative,0.0,Neutral,-0.4164297878742218,Negative
 bb,0.0,Neutral,0.0,Neutral,0.2918814122676849,Neutral
 Aşık aşık,0.8555,Positive,0.5,Positive,0.3964088857173919,Positive
-Akugawat demekten asıl ismini unuttum,0.0,Neutral,0.2,Neutral,-0.4416556060314178,Negative
+Akugawat demekten asıl ismini unuttum,0.0,Neutral,0.2,Positive,-0.4416556060314178,Negative
 "OCtugawa
 Akugawat😔😔😔",0.2263,Positive,0.0,Neutral,0.3208365440368652,Neutral
 Biraz da atsushiyi abartalim lütfen MUKEMMEL adam,0.7297,Positive,1.0,Positive,0.3203034996986389,Neutral
@@ -31,7 +31,7 @@ Dazai iyi karakter değil bsd'de kimse masum degil de neyse sadece birkaç böl�
 Kaldığın evdeki insanlar sana yardımcı olamaz mı?onlara anlatırsan belkide yardımcı olabilirler,0.6597,Positive,0.0,Neutral,0.3075572848320007,Neutral
 Dazai iyi karakter diyenler ne yaşıyor,0.4404,Positive,0.4181818181818181,Positive,0.330320656299591,Positive
 Haa kankamın evinde kalmıştım bir gece,0.6369,Positive,1.0,Positive,-0.3154431581497192,Negative
-Pembe saçlı tae ppsini çok sevdim spmm attı ağlicam 😿,-0.3102,Negative,0.0666666666666666,Neutral,0.5112006068229675,Positive
+Pembe saçlı tae ppsini çok sevdim spmm attı ağlicam 😿,-0.3102,Negative,0.0666666666666666,Positive,0.5112006068229675,Positive
 Daha önce Hiç başkasının evinde kalmadım acaba nasıl,0.0,Neutral,0.0,Neutral,0.3096510469913482,Neutral
 I like the ending part !,0.4199,Positive,0.0,Neutral,0.6077728271484375,Positive
 ALOOOO,0.0,Neutral,0.0,Neutral,0.3239673972129822,Neutral
@@ -63,14 +63,14 @@ CREO EN EL RAP POTENTE DE SUGA.
 CREO EN EL RAP Y EL BAILE DE  KIM NAMJOON (RM).",0.9153,Positive,0.4599999999999999,Positive,0.7195069789886475,Positive
 "'PERMISSION TO DANCE'  ES PRECIOSA. LET GO ARMYS, VAMOS POR 500 MILLONES PARA PERMISSION TO DANCE' VAMOS POR NUESTROS REYES : BTS!!!",0.7586,Positive,1.0,Positive,0.6930283904075623,Positive
 Akugawat ne lan,0.0,Neutral,0.0,Neutral,-0.2775514721870422,Negative
-Ppmdeki editin gerçek olabilmesi için nerelere başvurmalıyın?,0.0,Neutral,0.2,Neutral,-0.4138950407505035,Negative
+Ppmdeki editin gerçek olabilmesi için nerelere başvurmalıyın?,0.0,Neutral,0.2,Positive,-0.4138950407505035,Negative
 Hayır tabiki de sevdiğin birisine destek olmak kötü değil sen beni yanlış anladın,0.2942,Positive,0.4249999999999999,Positive,0.3200239837169647,Neutral
 Love bts,0.6369,Positive,0.5,Positive,0.68889981508255,Positive
 O şeker iğrençti midem bulanıyor,-0.5267,Negative,-1.0,Negative,-0.3785132765769958,Negative
 Off akugawat sen her şeyin en iyisini hak ediyorsun aşk kuşum,0.8555,Positive,0.75,Positive,-0.3074875473976135,Negative
 "Gerçi yanlış bir şey yapmasanda kötü oluyorsun genelde
 Yasandı 👊",-0.2373,Negative,-0.5999999999999999,Negative,-0.5261695384979248,Negative
-"Bende aileme bayılmiyorum hatta neredeyse çoğu üyesini sevmiyorum ama yapacak bir şey yok sadece kendi kendine ayakta durabilecek ana gelene kadar sabretmelisin başına neler geldiğini bilmiyorum yine de kaçmak çözüm değil ve korkma lütfen bir şeyler uydur tabii başkasının sana korkma demesi kolay ama böyle anlarda yapabileceğin en mantıklı şey korkmamak, bir şeyler uydurmak öbür türlüsü zor",-0.0323,Neutral,0.0515151515151515,Neutral,-0.6044163107872009,Negative
+"Bende aileme bayılmiyorum hatta neredeyse çoğu üyesini sevmiyorum ama yapacak bir şey yok sadece kendi kendine ayakta durabilecek ana gelene kadar sabretmelisin başına neler geldiğini bilmiyorum yine de kaçmak çözüm değil ve korkma lütfen bir şeyler uydur tabii başkasının sana korkma demesi kolay ama böyle anlarda yapabileceğin en mantıklı şey korkmamak, bir şeyler uydurmak öbür türlüsü zor",-0.0323,Neutral,0.0515151515151515,Positive,-0.6044163107872009,Negative
 Kızmamaları için eve gitmezdim geç saatlere kadar,0.3875,Positive,-0.625,Negative,-0.3936125934123993,Negative
 Çocukken neler yapardım off,0.0,Neutral,0.0,Neutral,-0.2954838871955871,Negative
 Yanlış bir şey mi yaptın yoksa,-0.4767,Negative,-0.5,Negative,-0.3958764672279358,Negative
@@ -94,13 +94,13 @@ Ay aY aY iM yOur lİttLe buTtErFlY,0.0,Neutral,0.0,Neutral,0.4433579742908478,Po
 This song is wonderful 🤩♥️,0.836,Positive,1.0,Positive,0.7731004357337952,Positive
 "YoU'rE mY dOg
 -dazai",0.0,Neutral,0.0,Neutral,0.3232766389846802,Neutral
-Vay anasini,0.5859,Positive,0.1,Neutral,0.255414068698883,Neutral
+Vay anasini,0.5859,Positive,0.1,Positive,0.255414068698883,Neutral
 Harbi seviyor olabilir miyim,0.6369,Positive,0.5,Positive,0.3569376170635223,Positive
 Sevmediğim karakteri cizmece sevmediğim karaktere düşmece sevmediğim karakterinin resimlerine bakmaca,-0.4973,Negative,0.0,Neutral,-0.3906396925449371,Negative
 Çuya,0.0,Neutral,0.0,Neutral,0.2500887513160705,Neutral
 Dazay,0.0,Neutral,0.0,Neutral,0.2760593891143799,Neutral
 Akugawat,0.0,Neutral,0.0,Neutral,0.2444831430912017,Neutral
-Çok komik akutagawa diyor,0.4927,Positive,0.325,Neutral,0.2425423562526703,Neutral
+Çok komik akutagawa diyor,0.4927,Positive,0.325,Positive,0.2425423562526703,Neutral
 Atsushinin en çok dediği kelimenin OCtuGAwA olduğuna yemin edebiliyorum ama kanıtlayamam,-0.0258,Neutral,0.5,Positive,0.3016307950019836,Neutral
 "Road To 50M .. 
 Complete 1B Soon.. 
@@ -138,10 +138,10 @@ You are crazy boyss,-0.34,Negative,-0.6,Negative,0.4329089224338531,Positive
 Of aklıma dazai'in chuuya sen benim köpeğimsin demesi geliyor ciddi olamiyorum,0.0572,Positive,-0.3333333333333333,Negative,-0.4992879033088684,Negative
 Permission to dance,0.0,Neutral,0.0,Neutral,0.2915257215499878,Neutral
 "Köpekleri severim😔🤍
-Bu arada yanlış anlama sövmek istwmedim",0.6757,Positive,0.09375,Neutral,0.2742769718170166,Neutral
-Yapma bunu ileride nasıl olacağını bilemeyiz neden direkt benden bir şey olmaz diye düşünüyorsun?,0.0,Neutral,0.05,Neutral,0.2622931599617004,Neutral
+Bu arada yanlış anlama sövmek istwmedim",0.6757,Positive,0.09375,Positive,0.2742769718170166,Neutral
+Yapma bunu ileride nasıl olacağını bilemeyiz neden direkt benden bir şey olmaz diye düşünüyorsun?,0.0,Neutral,0.05,Positive,0.2622931599617004,Neutral
 Akutagawaya çok aşığım,0.6682,Positive,0.5,Positive,-0.2775057852268219,Negative
-PTD TE AMO DEMASIADO TE ADORO MUCHO GRACIAS BTS,0.8966,Positive,0.3,Neutral,0.6443811655044556,Positive
+PTD TE AMO DEMASIADO TE ADORO MUCHO GRACIAS BTS,0.8966,Positive,0.3,Positive,0.6443811655044556,Positive
 "Searching for a man all across japan just to find, to find my samurai someone who is strong a still a little shy yes i need my samurai",0.6142,Positive,-0.0847222222222222,Negative,0.3757383823394775,Positive
 Cuz we don't need permission to dance,0.0,Neutral,0.0,Neutral,0.2237581312656402,Neutral
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
@@ -152,7 +152,7 @@ Que bosta de música ruim como essas meninas gostam disso suas doentea,-0.6801,N
 Bentar... Kok Jungkook kayak j***t🗿,0.3612,Positive,0.0,Neutral,-0.371958315372467,Negative
 "Cause when we fall we know how to land 
           ~ Jimin 🥺",0.0,Neutral,0.0,Neutral,0.2527344524860382,Neutral
-"Amén para que PTD ON STAGE haya aún, amo esta canción jamás me cansaré de escucharla",0.7654,Positive,0.0499999999999999,Neutral,0.5532019138336182,Positive
+"Amén para que PTD ON STAGE haya aún, amo esta canción jamás me cansaré de escucharla",0.7654,Positive,0.0499999999999999,Positive,0.5532019138336182,Positive
 20.7 mio more to 500 mio,0.0,Neutral,0.5,Positive,-0.5407826900482178,Negative
 soon 480 mio,0.0,Neutral,0.0,Neutral,-0.2799719870090484,Negative
 479.321 mio,0.0,Neutral,0.0,Neutral,-0.4919838607311249,Negative
@@ -174,16 +174,16 @@ KEEP STR3AMING DYNAMITE....LETS MAKE IT THE FASTEST KPOP GROUP MV TO REACH 2B,0.
 jungkook 😂😂😂,0.8271,Positive,0.0,Neutral,0.2920693457126617,Neutral
 Don't need permission to love that,0.6369,Positive,0.5,Positive,0.439514547586441,Positive
 "LETS MAKE SURE OUR VI3WS COUNT...SEARCH MV MANUALLY,  WATCH ENTIRE MV FROM BEGINNING TO END ON NORMAL SPEED,  DON'T LOOP, REPEAT, REFRESH,  OR USE AUTOPLAY, DON'T SKIP THE ADS , VOLUME AT LEAST 50%, QUALITY 480P OR HIGHER,  WATCH 3 OR 4 OTHER MVS IN BETWEEN ( at least 15 minutes before you return to your main focus MV,  have a mix of mvs, not just same 3/4, watch non BTS MV occasionally), LIKE AND COMMENT ( don't spam), DON'T OPEN MULTIPLE TABS,  DON'T CLEAR SEARCH HISTORY OR WATCH HISTORY,  IF USING MULTIPLE DEVICES AT THE SAME TIME USE A DIFFERENT ACCOUNT FOR EACH DEVICE 
-WHEN ITS A NEW RELEASE DON'T USE YT PLAYLISTS WITHIN THE FIRST 24HRS ( best not to use playlists at all)",0.861,Positive,0.0962121212121212,Neutral,-0.2697527408599853,Negative
+WHEN ITS A NEW RELEASE DON'T USE YT PLAYLISTS WITHIN THE FIRST 24HRS ( best not to use playlists at all)",0.861,Positive,0.0962121212121212,Positive,-0.2697527408599853,Negative
 not my fav but love yall,0.7236,Positive,0.5,Positive,0.4968262910842895,Positive
 Stream to reach 500 million views!!,0.1739,Positive,0.0,Neutral,0.5061841607093811,Positive
 Omg i love bts <333,0.6369,Positive,0.5,Positive,0.7013728618621826,Positive
-VAMOS ARMY LLEGEMOS AL BILLON SE QUE NOSOTRA PODEMOS VAMOS LLEGUEMOS MAS ALTO CON ESTA CANCION NO NECECITAS PERMISO PARA BAILAR,0.0,Neutral,0.25,Neutral,-0.4846499860286712,Negative
+VAMOS ARMY LLEGEMOS AL BILLON SE QUE NOSOTRA PODEMOS VAMOS LLEGUEMOS MAS ALTO CON ESTA CANCION NO NECECITAS PERMISO PARA BAILAR,0.0,Neutral,0.25,Positive,-0.4846499860286712,Negative
 500 M trước 11 tháng !! Điều đó không khó đối với các Armys !! Cố lên ⬆️,0.7634,Positive,0.4119791666666667,Positive,-0.4443979561328888,Negative
 Eid Mubarak BTS 💜💜😍😍 Eid Mubarak BTS 💜💜🤭🥰🥰,0.9915,Positive,0.0,Neutral,0.4472963213920593,Positive
 Ptd é surrrealmente bom!!,0.6892,Positive,1.0,Positive,0.2886255085468292,Neutral
 Permission To Dance fazendo 500M !♡! Vamos ARMYs.,0.0,Neutral,0.0,Neutral,0.5871076583862305,Positive
-amo lo que esta canción le ase a mi mal humor amo que me agá sentir feliz y lista para bailar encerio es la mejor canción para el mal humor,0.9022,Positive,0.1583333333333333,Neutral,0.5084430575370789,Positive
+amo lo que esta canción le ase a mi mal humor amo que me agá sentir feliz y lista para bailar encerio es la mejor canción para el mal humor,0.9022,Positive,0.1583333333333333,Positive,0.5084430575370789,Positive
 "국보급으로 잘생기고 멋있고 귀엽고 섹시하고
 착하고 이쁘고  모든것이  완벽한 우리 방탄소년단 오라버니들 너무 좋고 완벽해요❤",0.9773,Positive,0.49,Positive,0.5835083723068237,Positive
 군대 잘 갔다오셔야 되요!,0.3382,Positive,0.0,Neutral,0.4790169894695282,Positive
@@ -194,7 +194,7 @@ This was 9 months ago?!? I remember waking up at 6 in the morning to hear the so
 Kalbim acıyor,0.2732,Positive,0.0,Neutral,0.3481002449989319,Positive
 Gerci dogru babaminda dedigi gibi ben bir mankafayım,0.1779,Positive,0.35,Positive,-0.2907935976982116,Negative
 Bunlari niye buraya yaziyorsam mal gibi,0.0,Neutral,0.0,Neutral,-0.5459666848182678,Negative
-Hic bir sey mutlu etmiyor artik her seyden sogudum,-0.4585,Negative,0.1,Neutral,-0.5718157887458801,Negative
+Hic bir sey mutlu etmiyor artik her seyden sogudum,-0.4585,Negative,0.1,Positive,-0.5718157887458801,Negative
 Keske dogmasaydim,0.4019,Positive,0.0,Neutral,0.3455274403095245,Positive
 Niye dogdum ki?,0.0,Neutral,0.0,Neutral,-0.4638687074184418,Negative
 Onlar yuzunden her sey,0.0,Neutral,0.0,Neutral,-0.3096510171890259,Negative
@@ -252,7 +252,7 @@ Permission To Dance 479.2M vi3ws!!,0.0,Neutral,0.0,Neutral,-0.3557423651218414,N
 Bts son  lo más lindo que  me a pasado en la vida,0.6361,Positive,0.675,Positive,0.7759098410606384,Positive
 Sayang niye gittin 😿,-0.4767,Negative,0.0,Neutral,-0.328546941280365,Negative
 a mimir,0.0,Neutral,0.0,Neutral,0.3894031643867492,Positive
-"I get excited when I hear this song, it gives me positive energy",0.7964,Positive,0.3011363636363636,Neutral,0.4215656816959381,Positive
+"I get excited when I hear this song, it gives me positive energy",0.7964,Positive,0.3011363636363636,Positive,0.4215656816959381,Positive
 Söylentilere göre köyde bir şey var hayvan veya insan kılığına giriyormuş adı neydi Bi dakka,-0.25,Negative,0.0,Neutral,-0.6457809209823608,Negative
 Köy Çok güzel hayatımda bir iki kez gittim,0.6361,Positive,1.0,Positive,0.6190344095230103,Positive
 "Nugget okul yanıyor
@@ -263,7 +263,7 @@ Nugget : yansın",-0.34,Negative,0.0,Neutral,-0.2409417033195495,Negative
 Eid mubarak guys✨💜💜,0.8934,Positive,0.0,Neutral,0.3650068640708923,Positive
 슈가 사랑해 사랑해,0.8555,Positive,0.5,Positive,0.6527280807495117,Positive
 ARMY FIGTHTING VAMOS POR EL MEDIO DE LOS MIL MILLONES VAMOS QUE SI PODEMOS ESTA JOYA CON BUTTER TIENEN QUE LLEGAR A LOS MIL MILLONES,0.1217,Positive,0.0,Neutral,-0.4402968287467956,Negative
-Permission to Dance is so positive and uplifting.  Thank you BTS 💜,0.9065,Positive,0.2272727272727272,Neutral,0.8088958859443665,Positive
+Permission to Dance is so positive and uplifting.  Thank you BTS 💜,0.9065,Positive,0.2272727272727272,Positive,0.8088958859443665,Positive
 الئ الان اسمعه 😫🖤,0.3182,Positive,0.0,Neutral,0.2572494447231293,Neutral
 PTD,0.0,Neutral,0.0,Neutral,0.2582035362720489,Neutral
 ..,0.0,Neutral,0.0,Neutral,0.2459548264741897,Neutral
@@ -277,9 +277,9 @@ You say you love me then🤍 you wanna be my friend? I give you all my loving gi
 "Annie: sevdiğimi kesiyorum
 Mikasa: sevdiğimi kesiyorum😳🤔😔",0.7964,Positive,-0.0499999999999999,Negative,0.2831693589687347,Neutral
 OFYA,0.0,Neutral,0.0,Neutral,0.2534922361373901,Neutral
-OF İLK ANİME İZLEDİGİM ZAMANLARİ COK OZLUYORUM GUNDE 23 BOLUM İZLERDİM GECE YARİSİ TOKYO GHOUL İZLEYİP UYUMAMA MUCADELESİ VERİRDİM KAKEGURUİ İZLERKEN HEYECANDAN GEBERİRDİM GUNDE 1 SEZON BİTİRİRDİM HİC SPOİLER YEMEZDİM AMA SİMDİ BİRKAC BOLUM İZLEMEK BİLE SİKABİLİYOR ESKİ HEYECAN YOK KAHRETSİN,0.6037,Positive,0.3125,Neutral,-0.2658678293228149,Negative
+OF İLK ANİME İZLEDİGİM ZAMANLARİ COK OZLUYORUM GUNDE 23 BOLUM İZLERDİM GECE YARİSİ TOKYO GHOUL İZLEYİP UYUMAMA MUCADELESİ VERİRDİM KAKEGURUİ İZLERKEN HEYECANDAN GEBERİRDİM GUNDE 1 SEZON BİTİRİRDİM HİC SPOİLER YEMEZDİM AMA SİMDİ BİRKAC BOLUM İZLEMEK BİLE SİKABİLİYOR ESKİ HEYECAN YOK KAHRETSİN,0.6037,Positive,0.3125,Positive,-0.2658678293228149,Negative
 Let's go 480M,0.0,Neutral,0.0,Neutral,0.3205536603927612,Neutral
-Wow this song,0.5859,Positive,0.1,Neutral,0.8419125080108643,Positive
+Wow this song,0.5859,Positive,0.1,Positive,0.8419125080108643,Positive
 My angels BTS ♡,0.0,Neutral,0.0,Neutral,0.6403933763504028,Positive
 내 마음속에 방탄v,0.6369,Positive,0.0,Neutral,0.3937512040138244,Positive
 I love 방탄방탄v,0.6369,Positive,0.5,Positive,0.7723070383071899,Positive
@@ -298,7 +298,7 @@ dna idol,0.0,Neutral,0.0,Neutral,0.4805174767971039,Positive
 "آرمي كثفوا ستريم و كثروا تعليقات بالعربي :¬)
 لوڨ يوووووووو",0.6369,Positive,0.5,Positive,-0.3070909380912781,Negative
 LoVE BTS 🤤💞💞💕💗❤️💋💋,0.9828,Positive,0.5,Positive,0.7533164620399475,Positive
-Can’t believe it will be a year in 3 months time goes by so fast,0.0,Neutral,0.2,Neutral,-0.3263517916202545,Negative
+Can’t believe it will be a year in 3 months time goes by so fast,0.0,Neutral,0.2,Positive,-0.3263517916202545,Negative
 I love BTSIT's the best,0.8555,Positive,0.75,Positive,0.9186277985572816,Positive
 ❤❤❤,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜,0.9996,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -317,9 +317,9 @@ Kokonun şizofren olmasına çok üzülüyorum,-0.1513,Negative,-0.5,Negative,-0
 Nakyum>>,0.0,Neutral,0.0,Neutral,0.2742303311824798,Neutral
 "Ezaten akane yüzünden seviyor hatta akaneye benzettiği için opmuştu🤨
 Kusura bakma haklılar",0.4767,Positive,0.4428571428571428,Positive,-0.5202452540397644,Negative
-Bu tür fandom şeyleriyle ilgilenmediğim için mutluyum,0.1882,Positive,0.325,Neutral,-0.299105703830719,Negative
+Bu tür fandom şeyleriyle ilgilenmediğim için mutluyum,0.1882,Positive,0.325,Positive,-0.299105703830719,Negative
 Hoşgeldin arzeba,0.4588,Positive,0.8,Positive,0.267864316701889,Neutral
-Abi önceden sakuranin ne kadar güçlü olduğunu bilmeden sakura demon slayer'i alamaz diyordum zort yani,-0.5236,Negative,0.0708333333333333,Neutral,-0.3368997871875763,Negative
+Abi önceden sakuranin ne kadar güçlü olduğunu bilmeden sakura demon slayer'i alamaz diyordum zort yani,-0.5236,Negative,0.0708333333333333,Positive,-0.3368997871875763,Negative
 Sakura>demon slayer,0.0,Neutral,0.0,Neutral,0.3122958838939667,Neutral
 Ben mikey vs eren görmüştüm birçok kez💀,0.0,Neutral,0.5,Positive,0.4213024079799652,Positive
 Maske yasağı kalktı🤨🤔🤡💀😳💀🥳😊🤗😙😜😙😭🤨🤡😡😔😧😥🥵👈😏☠️☠️💍😏👉😔💨😭😜,0.714,Positive,0.0,Neutral,-0.2802326083183288,Negative
@@ -342,7 +342,7 @@ So if you're lonely no need to show me if you're lonely come be lonely with me,-
 Rody profilin bwhshs👌,0.7297,Positive,0.0,Neutral,0.3724215626716614,Positive
 سلام ❤,0.6369,Positive,0.0,Neutral,0.4999597072601318,Positive
 Vücudu için fazla uğraşmadım ama saçı için çok uğraştım,-0.1159,Negative,-0.2916666666666667,Negative,-0.3229582607746124,Negative
-اوه المغرب قرب ياذن اظن بروح,0.1779,Positive,0.1,Neutral,-0.4664923250675201,Negative
+اوه المغرب قرب ياذن اظن بروح,0.1779,Positive,0.1,Positive,-0.4664923250675201,Negative
 Birisi nickimi söyleyince ciddi kalamiyorum,0.0572,Positive,-0.3333333333333333,Negative,-0.4041604995727539,Negative
 ALOOOO,0.0,Neutral,0.0,Neutral,0.3239673972129822,Neutral
 "This song is fun, I like it the most.",0.7003,Positive,0.4,Positive,0.4757983088493347,Positive
@@ -352,7 +352,7 @@ I am hungry,0.0,Neutral,0.0,Neutral,0.3274318277835846,Neutral
 "zortlattinknk
 Your drawing is beautiful",0.5994,Positive,0.85,Positive,0.6323172450065613,Positive
 Elimden geldiğince benzetmeye çalıştım😵,0.6369,Positive,1.0,Positive,0.2439476102590561,Neutral
-İlk Kazutora cizimim bok gibiydi,-0.5574,Negative,0.0249999999999999,Neutral,0.2492091357707977,Neutral
+İlk Kazutora cizimim bok gibiydi,-0.5574,Negative,0.0249999999999999,Positive,0.2492091357707977,Neutral
 يبدو انني مملة 🙂,0.1045,Positive,-1.0,Negative,0.3714336454868316,Positive
 간헐천이 더 낫다. 🤣🤣🤣🤣🤣🤣🥱🥱🥱🥱🥱🥱🖕🖕🖕🖕🖕🖕,0.9578,Positive,0.5,Positive,0.4001938700675964,Positive
 O sensin sanıyordum ben,0.0,Neutral,0.0,Neutral,-0.2974057793617248,Negative
@@ -383,11 +383,11 @@ Nasılsın = how are you,0.0,Neutral,0.0,Neutral,0.705705463886261,Positive
 Seni seviyorum = l love you,0.9081,Positive,0.5,Positive,0.6359221935272217,Positive
 pls,0.0772,Positive,0.0,Neutral,0.2611573338508606,Neutral
 Can you learn me some Turkish words🙂,0.4033,Positive,0.0,Neutral,0.2632608711719513,Neutral
-yaşlandım,0.0,Neutral,0.1,Neutral,-0.3091248273849487,Negative
-you are older than me🙂,0.4033,Positive,0.1666666666666666,Neutral,0.2674829661846161,Neutral
+yaşlandım,0.0,Neutral,0.1,Positive,-0.3091248273849487,Negative
+you are older than me🙂,0.4033,Positive,0.1666666666666666,Positive,0.2674829661846161,Neutral
 i am 14 🙂,0.4033,Positive,0.0,Neutral,0.2691724598407745,Neutral
 Permiso para bailar concedido,0.25,Positive,0.0,Neutral,0.3406730592250824,Positive
-how old are you,0.0,Neutral,0.1,Neutral,-0.2589686512947082,Negative
+how old are you,0.0,Neutral,0.1,Positive,-0.2589686512947082,Negative
 Happy Eid,0.5719,Positive,0.8,Positive,0.645326554775238,Positive
 Hava çok güzel bugün,0.5994,Positive,0.85,Positive,0.4683672785758972,Positive
 alxedra 🎤,0.0,Neutral,0.0,Neutral,0.3160302937030792,Neutral
@@ -417,7 +417,7 @@ Yani kabuslarıma giren hanakoymuş,-0.25,Negative,0.0,Neutral,-0.45834016799926
 Şimdi hanako aslında karabasanmış ve onu rahatsız edersen seni cehenneme götürürmüş-,-0.8074,Negative,0.0,Neutral,-0.3561627268791199,Negative
 Mezarımın içinde klima da olsun,-0.3818,Negative,0.0,Neutral,0.281494528055191,Neutral
 hay you,0.0,Neutral,0.0,Neutral,0.276715338230133,Neutral
-Listos para el nuevo Comeback (22/06/10),0.3612,Positive,0.1681818181818181,Neutral,0.3218848705291748,Neutral
+Listos para el nuevo Comeback (22/06/10),0.3612,Positive,0.1681818181818181,Positive,0.3218848705291748,Neutral
 ...,0.0,Neutral,0.0,Neutral,0.2558442652225494,Neutral
 /:,-0.3182,Negative,0.0,Neutral,0.2502752542495727,Neutral
 1 saat olmuş,0.0,Neutral,0.0,Neutral,-0.6049385070800781,Negative
@@ -426,9 +426,9 @@ this song will make you feel to dance,0.0,Neutral,0.0,Neutral,0.5618185997009277
 Danananana~~,0.0,Neutral,0.0,Neutral,0.2957911789417267,Neutral
 "500 million Soon , let's go💫",-0.2263,Negative,0.0,Neutral,0.371596097946167,Positive
 500M For our boys,0.0,Neutral,0.0,Neutral,0.5817625522613525,Positive
-I can't live without them 😭😭😭😭,-0.7748,Negative,0.1363636363636363,Neutral,-0.2978855073451996,Negative
+I can't live without them 😭😭😭😭,-0.7748,Negative,0.1363636363636363,Positive,-0.2978855073451996,Negative
 That That i likee,0.0,Neutral,0.0,Neutral,0.3878748416900635,Positive
-Thank you for giving me reasons to smile in my shitty life,0.4215,Positive,0.3,Neutral,0.6361930966377258,Positive
+Thank you for giving me reasons to smile in my shitty life,0.4215,Positive,0.3,Positive,0.6361930966377258,Positive
 Eu amo essa musica só isso mesmo.,0.6369,Positive,0.5,Positive,0.2728192806243896,Neutral
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Permission To Dance 474.1M Views!! And Counting!!,0.0,Neutral,0.0,Neutral,-0.679401159286499,Negative
@@ -443,7 +443,7 @@ Gidim çok işim var 😔,0.0772,Positive,0.0,Neutral,0.5041168332099915,Positiv
 치,0.0,Neutral,0.0,Neutral,0.2543738186359405,Neutral
 chiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,0.0,Neutral,0.0,Neutral,0.255143404006958,Neutral
 Mahito ya sovüyodum en son,0.0,Neutral,0.0,Neutral,0.3402551412582397,Positive
-rambut nya rm nyeterong banget,0.0,Neutral,0.2,Neutral,-0.6322388648986816,Negative
+rambut nya rm nyeterong banget,0.0,Neutral,0.2,Positive,-0.6322388648986816,Negative
 Mqntappp,0.0,Neutral,0.0,Neutral,0.2248842716217041,Neutral
 💜💜💜💜💜💜💜,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ppdeki nakyum gibiyim,0.3612,Positive,0.0,Neutral,0.3018130660057068,Neutral
@@ -451,13 +451,13 @@ Uykum var,0.0,Neutral,0.0,Neutral,0.2436542361974716,Neutral
 Gal cho kawaii asobitai kawaii ko ga ii gal cho nomu suki shake your booty oh yeah buri buri,0.2812,Positive,0.6,Positive,0.2460299879312515,Neutral
 💜💜💜💜💜💜💜,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💜💜💜💜💜💜,0.9803,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Seni seviyorum ama yuuji benim sarı çizgim aşma lan burayı,0.3818,Positive,0.1666666666666666,Neutral,0.3269692659378052,Neutral
+Seni seviyorum ama yuuji benim sarı çizgim aşma lan burayı,0.3818,Positive,0.1666666666666666,Positive,0.3269692659378052,Neutral
 awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
 Mahito seni dovrm bak,0.0,Neutral,0.0,Neutral,0.2396834939718246,Neutral
 3:38,0.0,Neutral,0.0,Neutral,0.3299362957477569,Neutral
 1:16 Jung Hoseok Marry Me🤒😫💜💜💜💣🔥✨💥,0.7096,Positive,0.0,Neutral,0.4111585617065429,Positive
 We don't need to worry cuz when we fall we know how to land! 😉,0.4015,Positive,0.0,Neutral,0.5507932901382446,Positive
-"*BTS will comeback with releasing another new album on June 10th, 2022 !!!*",0.0,Neutral,0.2663352272727272,Neutral,-0.3521017730236053,Negative
+"*BTS will comeback with releasing another new album on June 10th, 2022 !!!*",0.0,Neutral,0.2663352272727272,Positive,-0.3521017730236053,Negative
 이연주는매우좋고노래의리듬이매우좋습나.ARMY로서감사합니다.💜,0.9241,Positive,0.91,Positive,-0.4355415999889374,Negative
 "jnil
 lhmgg ❤❤",0.8555,Positive,0.0,Neutral,0.2320241332054138,Neutral
@@ -471,7 +471,7 @@ Kız her zaman küçük olmalı erkekten diye bir algı var,0.0,Neutral,0.0,Neut
 Bizimkilerin arasında hep 5/6 yaş fark var,0.0,Neutral,0.0,Neutral,0.2378964573144912,Neutral
 而內,0.0,Neutral,0.0,Neutral,0.3207675218582153,Neutral
 Bir Japon arkadaş hayal et sesi animelrdeki gibi 👁️👄👁️,0.6908,Positive,0.0,Neutral,0.3159250319004059,Neutral
-2-3 yaştan bir şey olmaz da 4 yaş ve üstü pedofiliye giriyor💀💀💀,0.0,Neutral,0.05,Neutral,-0.4126304686069488,Negative
+2-3 yaştan bir şey olmaz da 4 yaş ve üstü pedofiliye giriyor💀💀💀,0.0,Neutral,0.05,Positive,-0.4126304686069488,Negative
 Klavyeyi değiştirmeyi unutmuşum pardon usowjso,-0.0772,Negative,-0.5,Negative,-0.2898922264575958,Negative
 Benim konuşma tarzıma bir şey oluyor,-0.4767,Negative,-0.5,Negative,0.3764662146568298,Positive
 "まじ最高
@@ -513,15 +513,15 @@ Vvvvvvvv,0.0,Neutral,0.0,Neutral,0.2475780248641967,Neutral
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 Aq spm,0.0,Neutral,0.0,Neutral,0.2536457777023315,Neutral
-Hii i love Jaykay OMG IM REALLY CRYING HOWWW IF I MEET HIM IN REAL AHH! IM GOING LYING,-0.7256,Negative,0.1833333333333333,Neutral,-0.3864246010780334,Negative
-I can't believe I seen them in this concert in Vegas! Feels emotional now watching this mv afterwards. Did not expect this era to be this special to me. 🥺🥲🤧🧡,0.8488,Positive,0.1785714285714285,Neutral,0.6261229515075684,Positive
+Hii i love Jaykay OMG IM REALLY CRYING HOWWW IF I MEET HIM IN REAL AHH! IM GOING LYING,-0.7256,Negative,0.1833333333333333,Positive,-0.3864246010780334,Negative
+I can't believe I seen them in this concert in Vegas! Feels emotional now watching this mv afterwards. Did not expect this era to be this special to me. 🥺🥲🤧🧡,0.8488,Positive,0.1785714285714285,Positive,0.6261229515075684,Positive
 BTS,0.0,Neutral,0.0,Neutral,0.3629164099693298,Positive
 ..,0.0,Neutral,0.0,Neutral,0.2459548264741897,Neutral
 Love you always BTS.. please forgive me.. i am sorry.. my problem is i trust things as soon as heard.. i am trying to change myself.. i am sorry,0.8225,Positive,-0.1666666666666666,Negative,-0.3208715617656708,Negative
-"This year in new era lets even trend the practice videos too and hit 1 billion fastly , let's go armies",0.0,Neutral,0.1681818181818181,Neutral,0.5804885029792786,Positive
+"This year in new era lets even trend the practice videos too and hit 1 billion fastly , let's go armies",0.0,Neutral,0.1681818181818181,Positive,0.5804885029792786,Positive
 This song is so healing!💛💛,0.8737,Positive,0.0,Neutral,0.8338667750358582,Positive
 Yesss we don't need permission to dance💃,0.0,Neutral,0.0,Neutral,-0.4343484938144684,Negative
-🎉 congrats 🎉Dynmite become BTS first ever MV to surpass 1.4B veiws on you tube 💜💜💜💜💜,0.9846,Positive,0.25,Neutral,0.5639452338218689,Positive
+🎉 congrats 🎉Dynmite become BTS first ever MV to surpass 1.4B veiws on you tube 💜💜💜💜💜,0.9846,Positive,0.25,Positive,0.5639452338218689,Positive
 V cut,-0.2732,Negative,0.0,Neutral,0.2473269551992416,Neutral
 Stream that that and with you!!!,0.0,Neutral,0.0,Neutral,0.5454277396202087,Positive
 this song is healing me,0.0,Neutral,0.0,Neutral,0.7098144292831421,Positive
@@ -535,9 +535,9 @@ Amazing 😃,0.743,Positive,0.6000000000000001,Positive,0.8492814898490906,Posit
 "Before this, DOPE 1theK. After this, I NEED U 1theK. Let's do it!",0.0,Neutral,0.0,Neutral,0.4523099362850189,Positive
 "Their choreography here reminds me of a HIGH SCHOOL MUSICAL routine. But this song is really catchy and danceable.
 
-The Philippines, 1 May 2022; 4:14 pm (478,924,197 views)",0.0,Neutral,0.12,Neutral,0.3398688435554504,Positive
+The Philippines, 1 May 2022; 4:14 pm (478,924,197 views)",0.0,Neutral,0.12,Positive,0.3398688435554504,Positive
 İyki Varsinizz💜,0.6369,Positive,0.0,Neutral,0.3175216019153595,Neutral
-Summer is hot: Keep water for the animal on the roof of your garden,0.0,Neutral,0.25,Neutral,0.382030189037323,Positive
+Summer is hot: Keep water for the animal on the roof of your garden,0.0,Neutral,0.25,Positive,0.382030189037323,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 🥰🥰🥰🇹🇭,0.9559,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "after a hectic and a stressful day, listening to PTD feels like heaven. their voice can make anyone happy and fresh, really magical.",0.8176,Positive,0.5333333333333333,Positive,0.7590363025665283,Positive
@@ -548,7 +548,7 @@ Trying to be chill but the song made me to dance😍,0.6124,Positive,0.0,Neutral
 I am not a fan but I think I can stan them because of j hope🥰🥰,0.9783,Positive,0.0,Neutral,0.3974093794822693,Positive
 "Get ready for their new album on FRIDAY, June 10th 2022
 
-The official pre-order links might drop in a few days…just stay tune ;)",0.3182,Positive,0.096590909090909,Neutral,0.4247180223464966,Positive
+The official pre-order links might drop in a few days…just stay tune ;)",0.3182,Positive,0.096590909090909,Positive,0.4247180223464966,Positive
 Bts paved the way,0.0,Neutral,0.0,Neutral,0.4912850558757782,Positive
 Bts legends i love you guys,0.6369,Positive,0.5,Positive,0.8097957968711853,Positive
 "Don't worry. You're not the only one who still Listening to this masterpiece in May 2022, I'm still watching this, and I'll always be 💜",0.9096,Positive,0.0,Neutral,0.6790103316307068,Positive
@@ -560,7 +560,7 @@ Bts legends i love you guys,0.6369,Positive,0.5,Positive,0.8097957968711853,Posi
 -koko",0.7845,Positive,0.5,Positive,0.4050227999687195,Positive
 vengo aquí a ser feliz un momento :__3,0.5719,Positive,0.8,Positive,0.638801634311676,Positive
 ❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
-그녀는 너무 아름다워 나는 그녀에게 중독된다,0.7177,Positive,0.2249999999999999,Neutral,-0.4023623168468475,Negative
+그녀는 너무 아름다워 나는 그녀에게 중독된다,0.7177,Positive,0.2249999999999999,Positive,-0.4023623168468475,Negative
 Iloved this video so much more than butter❤,0.6369,Positive,0.5,Positive,0.6328732371330261,Positive
 Amazing bts,0.5859,Positive,0.6000000000000001,Positive,0.8425961136817932,Positive
 դուք իմ կյանքի իմաստն եք տղաներ 👍👏💜❤️🔮🥰,0.91,Positive,0.0,Neutral,0.6376315355300903,Positive
@@ -573,12 +573,12 @@ Omg amazing bts,0.5859,Positive,0.6000000000000001,Positive,0.7954851984977722,P
 Cause we Don't need permission to dance...😌💜,0.7783,Positive,0.0,Neutral,-0.382216215133667,Negative
 I come back here every day 🤠,0.0,Neutral,0.0,Neutral,0.7095345258712769,Positive
 Açım,0.0,Neutral,0.0,Neutral,0.4545331299304962,Positive
-Sıcak bir şeyler içeceğine söz vermeni bekliyorum - _-,0.3182,Positive,0.25,Neutral,0.2705959677696228,Neutral
+Sıcak bir şeyler içeceğine söz vermeni bekliyorum - _-,0.3182,Positive,0.25,Positive,0.2705959677696228,Neutral
 masakit dito mo maintindihan ung mga nagcocomments,-0.4767,Negative,0.0,Neutral,-0.4855017364025116,Negative
 Love song 💜💜💜,0.9571,Positive,0.5,Positive,0.5934082865715027,Positive
-Obayana esprisi hiç komik değil ırkçılık resmen,0.4745,Positive,0.25,Neutral,0.3240601718425751,Neutral
+Obayana esprisi hiç komik değil ırkçılık resmen,0.4745,Positive,0.25,Positive,0.3240601718425751,Neutral
 💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Dünki şu ilk iki şarkıyı beğendin mi?,0.3612,Positive,0.25,Neutral,0.3172960877418518,Neutral
+Dünki şu ilk iki şarkıyı beğendin mi?,0.3612,Positive,0.25,Positive,0.3172960877418518,Neutral
 Next- Save me,0.4939,Positive,0.0,Neutral,-0.346605896949768,Negative
 💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Let’s rank BTS’s English trilogy 
@@ -591,10 +591,10 @@ Soğuk algınlığı mı?,0.0,Neutral,-0.6,Negative,-0.3253912627696991,Negative
 Noldu neyin var?,-0.4767,Negative,-0.5,Negative,-0.4597968757152557,Negative
 Spk oluyorum arada xgxyjdukod,0.0,Neutral,0.0,Neutral,0.2479772716760635,Neutral
 Memati usta,0.0,Neutral,0.0,Neutral,0.3180070221424103,Neutral
-Çok sıcak,0.0,Neutral,0.25,Neutral,-0.3611166775226593,Negative
+Çok sıcak,0.0,Neutral,0.25,Positive,-0.3611166775226593,Negative
 Mithat Aslanım ✨,0.3182,Positive,0.0,Neutral,0.3226507008075714,Neutral
 Gittin mi,0.0,Neutral,0.0,Neutral,0.2739320993423462,Neutral
-O geldi O. o,-0.2023,Negative,0.05,Neutral,-0.3440675437450409,Negative
+O geldi O. o,-0.2023,Negative,0.05,Positive,-0.3440675437450409,Negative
 Gal cho kawaii asobitai kawaii ko ga ii gal cho nomu suki shake your booty oh yeah buri buri,0.2812,Positive,0.6,Positive,0.2460299879312515,Neutral
 Permission to Dance,0.0,Neutral,0.0,Neutral,0.2915257215499878,Neutral
 🐈🔫,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -616,17 +616,17 @@ Ben kimseyi shipleyemiyorum☹️,0.2584,Positive,0.0,Neutral,0.3319792449474334
 Bir shipe bağlanmamak gerek aslında sonra manyak gibi her gün her dakika fanartlarina bakıyorsun 13 saat shipin için aptal insanlarla tartışıyorsun ve shipin olmayınca kriz geçiriyorsun,-0.8885,Negative,-0.3999999999999999,Negative,-0.6049830913543701,Negative
 Yaptığım shipler yüzünden ana bacı küfür yiyorum😵🥰💍💍,0.6597,Positive,0.0,Neutral,-0.3822757005691528,Negative
 Ne güzel uyuyordum,0.2732,Positive,0.0,Neutral,-0.3932690322399139,Negative
-Niye erken uyandım şimdi,0.0,Neutral,0.1,Neutral,0.261146992444992,Neutral
+Niye erken uyandım şimdi,0.0,Neutral,0.1,Positive,0.261146992444992,Neutral
 Saat 6 da uyandım buraya bir şey yazmaya üşendim,-0.3612,Negative,-0.25,Negative,-0.6253530979156494,Negative
 Günaydın,0.4404,Positive,0.7,Positive,0.2523614466190338,Neutral
-L live you BTS 💖,0.8788,Positive,0.1363636363636363,Neutral,0.5324376821517944,Positive
-Öğrenirim onunla kendimi direnenler yaşar,0.0,Neutral,0.1363636363636363,Neutral,0.257489800453186,Neutral
+L live you BTS 💖,0.8788,Positive,0.1363636363636363,Positive,0.5324376821517944,Positive
+Öğrenirim onunla kendimi direnenler yaşar,0.0,Neutral,0.1363636363636363,Positive,0.257489800453186,Neutral
 Öyle kolaysa gel başımdan kaldır at sevdanı,0.7964,Positive,0.4666666666666667,Positive,0.2552295923233032,Neutral
 🥰💍,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Salak salak rüyalar görüyorum,-0.1779,Negative,-0.7999999999999999,Negative,-0.264903575181961,Negative
 💕🥰😍💜💜💜💜,0.9866,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Günlük hayattaki insanlara anime karakterlerinin isimleri ile sesleniyorum farkında olmadan,0.0,Neutral,0.0,Neutral,0.2826507985591888,Neutral
-Bir animeyi bitirince dayanamayıp hemen mangasina başlayan tek ben olamam değil mi?,0.0,Neutral,0.1428571428571428,Neutral,-0.4002106785774231,Negative
+Bir animeyi bitirince dayanamayıp hemen mangasina başlayan tek ben olamam değil mi?,0.0,Neutral,0.1428571428571428,Positive,-0.4002106785774231,Negative
 Günaydın,0.4404,Positive,0.7,Positive,0.2523614466190338,Neutral
 💜💜💜,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Permission to dance,0.0,Neutral,0.0,Neutral,0.2915257215499878,Neutral
@@ -651,7 +651,7 @@ Ffhhjh,0.0,Neutral,0.0,Neutral,-0.2770720720291137,Negative
 Armyy vamos a Butter antes del año tiene que llegar al billón:),0.0258,Neutral,0.5,Positive,0.2719146311283111,Neutral
 Armysss están ? ***That that i like that** vallan a ver al rey suga,0.3612,Positive,0.0,Neutral,0.2542903423309326,Neutral
 "Permission To Dance by BTS 
-Getting close ready to 500M vi3ws in YouTube!!",0.4738,Positive,0.3125,Neutral,0.3295162916183471,Neutral
+Getting close ready to 500M vi3ws in YouTube!!",0.4738,Positive,0.3125,Positive,0.3295162916183471,Neutral
 149,0.0,Neutral,0.0,Neutral,0.2736608684062958,Neutral
 BTS,0.0,Neutral,0.0,Neutral,0.3629164099693298,Positive
 me encan lod bts,0.0,Neutral,0.0,Neutral,0.4004671573638916,Positive
@@ -664,7 +664,7 @@ Animo!!!",0.6458,Positive,0.0,Neutral,0.2447400987148285,Neutral
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
 "Let's get this to 500M
 Army Fighting 💜",0.4019,Positive,0.0,Neutral,0.4467479288578033,Positive
-Ve basaramadim cok guzel👍🏻,-0.6342,Negative,0.2,Neutral,0.7081968188285828,Positive
+Ve basaramadim cok guzel👍🏻,-0.6342,Negative,0.2,Positive,0.7081968188285828,Positive
 Q asco,0.0,Neutral,0.0,Neutral,0.2665202021598816,Neutral
 "We don't permission to dance~
 Can't stop listening to this song!",0.2914,Positive,0.0,Neutral,-0.7072738409042358,Negative

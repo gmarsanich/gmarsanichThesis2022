@@ -1,13 +1,13 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 The great Indian Mahaan,0.6249,Positive,0.8,Positive,0.7691133618354797,Positive
 2:12 his medical bills gonna be pretty dam expensive,0.4939,Positive,-0.0833333333333333,Negative,-0.4679279029369354,Negative
-That submission is as deadly as them making the delta virus even more deadly.,0.0,Neutral,0.0333333333333333,Neutral,0.3498262465000152,Positive
-Next U.S champion I can see it now if booking is right,0.5994,Positive,0.1428571428571428,Neutral,0.4336673021316528,Positive
+That submission is as deadly as them making the delta virus even more deadly.,0.0,Neutral,0.0333333333333333,Positive,0.3498262465000152,Positive
+Next U.S champion I can see it now if booking is right,0.5994,Positive,0.1428571428571428,Positive,0.4336673021316528,Positive
 I hate this guy  with Passion,-0.1779,Negative,-0.8,Negative,-0.6274403929710388,Negative
 Veer Mahaan G.O.A.T,0.0,Neutral,0.0,Neutral,0.2478530406951904,Neutral
 "Tattoo on his chest centre says 'maa' = mother 
 On his right bicpes 'ram' the lord Rama
-Jai shree ram🚩",0.0,Neutral,0.2857142857142857,Neutral,-0.3279627859592438,Negative
+Jai shree ram🚩",0.0,Neutral,0.2857142857142857,Positive,-0.3279627859592438,Negative
 Congratulations Veer Mahan,0.5994,Positive,0.0,Neutral,0.3881517946720123,Positive
 My hero,0.5574,Positive,0.0,Neutral,0.8131011128425598,Positive
 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -16,15 +16,15 @@ Power of Indian deshi ghee,0.0,Neutral,0.0,Neutral,0.4763100743293762,Positive
 *Love from India* 🇮🇳,0.6369,Positive,0.5,Positive,0.5220145583152771,Positive
 Desi GhEe ka poWer INDIAN,0.0,Neutral,0.0,Neutral,0.5548511147499084,Positive
 I'm Indian,0.0,Neutral,0.0,Neutral,-0.2703085243701935,Negative
-Wow ...Love you veer sir,0.8402,Positive,0.1,Neutral,0.8350934386253357,Positive
+Wow ...Love you veer sir,0.8402,Positive,0.1,Positive,0.8350934386253357,Positive
 wwe need this type of players . Veer mahan took to old memory of wwe game.,0.0,Neutral,-0.15,Negative,-0.409715473651886,Negative
 If Veer doesn't end up in a shampoo commercial... he should sue WWE..,0.0,Neutral,0.0,Neutral,-0.5489357709884644,Negative
 Good.veer.reselar.shera.punjab,0.0,Neutral,0.0,Neutral,0.495294451713562,Positive
-Very denger,0.0,Neutral,0.2,Neutral,-0.3969485461711883,Negative
+Very denger,0.0,Neutral,0.2,Positive,-0.3969485461711883,Negative
 Thanks veer mahan 😊 love from india 🥰,0.9657,Positive,0.35,Positive,0.6730162501335144,Positive
 veer mahan remember the name. hi is from india.,0.0,Neutral,0.0,Neutral,-0.441595584154129,Negative
 Veer Mahan,0.0,Neutral,0.0,Neutral,-0.4635928571224212,Negative
-He looks like real Lion 🦁😎,0.6705,Positive,0.2,Neutral,0.3174523711204529,Neutral
+He looks like real Lion 🦁😎,0.6705,Positive,0.2,Positive,0.3174523711204529,Neutral
 Jai Shree Ram Ji Ki 😘🥀🙏🏻🙏🏻😍😍🚩🚩🚩🚩🚩🚩,0.0,Neutral,0.0,Neutral,0.3209134042263031,Neutral
 Love from India ❤️💖🇮🇳🇮🇳,0.7506,Positive,0.5,Positive,0.6086652874946594,Positive
 That's fiersom by Veer Mahaan The Destroyer,-0.4588,Negative,0.0,Neutral,0.2598790526390075,Neutral
@@ -34,7 +34,7 @@ He is looking like Braun strowman 🙂🙂🙂,0.8632,Positive,0.0,Neutral,-0.28
 Hindustani Sher sab per Bhari khali ka naam Roshan karo Veer mahan,0.0,Neutral,0.4,Positive,-0.2968991100788116,Negative
 Jai shree ram,0.0,Neutral,0.0,Neutral,0.2306047827005386,Neutral
 ultra veer match,0.0,Neutral,0.0,Neutral,0.5025389194488525,Positive
-Veer ain’t gon make it far mark my words,0.0,Neutral,0.1,Neutral,0.2295498698949813,Neutral
+Veer ain’t gon make it far mark my words,0.0,Neutral,0.1,Positive,0.2295498698949813,Neutral
 I don't know why but the image of Mahakal is being seen in Veer mahan to me.,0.0,Neutral,0.0,Neutral,0.4013713002204895,Positive
 Veer Mahan jindabad I am fan,0.3182,Positive,0.0,Neutral,0.3387713432312011,Positive
 Veer Mahan Punjab I am Punjab,0.0,Neutral,0.0,Neutral,0.4607739448547363,Positive
@@ -43,7 +43,7 @@ Veer Mahaan 🇮🇳💪🔥,0.0,Neutral,0.0,Neutral,0.3467690348625183,Positive
 Proud to be a sanatan warrior,0.4767,Positive,0.8,Positive,0.6901389956474304,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 @Veer Mahan....thoda insaniyat to bache ke rakho bhai....,0.0,Neutral,0.0,Neutral,-0.6243041157722473,Negative
-This is the real look of India.....Proud to be an Indian. The power of the Lord Shiva. Har Har Mahadev,0.0,Neutral,0.2,Neutral,0.7888066172599792,Positive
+This is the real look of India.....Proud to be an Indian. The power of the Lord Shiva. Har Har Mahadev,0.0,Neutral,0.2,Positive,0.7888066172599792,Positive
 "FINALLY A TRUE HEEL!!!!!!!!!
 MEGATRON APPROVED 🤘!!!!!!!!!",0.8494,Positive,1.0,Positive,0.8991436958312988,Positive
 He will rule ❤❤🔥🔥🔥,0.4939,Positive,0.0,Neutral,0.5524097681045532,Positive
@@ -59,10 +59,10 @@ WWE :
 
 .Even though scripted, it's like the worst script giving to mahaan in every match.",-0.0516,Negative,-1.0,Negative,-0.6476134061813354,Negative
 "I don't know why, but i like Veer Mahaan",0.5023,Positive,0.0,Neutral,0.4487272202968597,Positive
-Bro too much built up for new character in WWE how many of u know that is fake,-0.4767,Negative,0.0840909090909091,Neutral,-0.5034119486808777,Negative
-Fantastic dahad dekhkar to koi bhi dar jaega maja a Gaya sar thank u aise hi karte raho ham aapke sath Hain pura duniya aapke sath,0.8402,Positive,0.3,Neutral,0.7836359143257141,Positive
+Bro too much built up for new character in WWE how many of u know that is fake,-0.4767,Negative,0.0840909090909091,Positive,-0.5034119486808777,Negative
+Fantastic dahad dekhkar to koi bhi dar jaega maja a Gaya sar thank u aise hi karte raho ham aapke sath Hain pura duniya aapke sath,0.8402,Positive,0.3,Positive,0.7836359143257141,Positive
 🔥🇮🇳👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-He has the complete south Indian tamilian look.,0.0,Neutral,0.1,Neutral,0.4644938111305237,Positive
+He has the complete south Indian tamilian look.,0.0,Neutral,0.1,Positive,0.4644938111305237,Positive
 MAHAAN 🔥🔥❤️,-0.5859,Negative,0.0,Neutral,0.6869534850120544,Positive
 veer mahan india tiger,0.0,Neutral,0.0,Neutral,0.4855788052082062,Positive
 He just wont stop coming now,0.2235,Positive,0.0,Neutral,-0.4671504199504852,Negative
@@ -75,8 +75,8 @@ That submission move can literally break someone's neck,0.0,Neutral,0.0,Neutral,
 Om namah shivay we boycot khan's movies,-0.3182,Negative,0.0,Neutral,-0.4691694974899292,Negative
 👹😡🤬,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 That jobber reminds me of Ryback for some reason. Feed him more.,0.0,Neutral,0.5,Positive,0.4582193195819855,Positive
-"Well nothing changes. First WWE shows his brutality, how cruel he is, and at last they will make veer Maham comedian just like great Khali, Jinder Mahal 😀😀😀😀😀",0.9186,Positive,0.0125,Neutral,0.2304782420396804,Neutral
-"How pathetic,and they have the stupidity to play tuff on beating up a nobody .pathetic wwe,these type matches are always a Disney win.",-0.5267,Negative,0.1,Neutral,-0.880040168762207,Negative
+"Well nothing changes. First WWE shows his brutality, how cruel he is, and at last they will make veer Maham comedian just like great Khali, Jinder Mahal 😀😀😀😀😀",0.9186,Positive,0.0125,Positive,0.2304782420396804,Neutral
+"How pathetic,and they have the stupidity to play tuff on beating up a nobody .pathetic wwe,these type matches are always a Disney win.",-0.5267,Negative,0.1,Positive,-0.880040168762207,Negative
 Proud to be a India,0.4767,Positive,0.8,Positive,0.7178853750228882,Positive
 Veer shows up for a fight !!  This is fantastic .  Well done wwe .  The wait was well worth it . 🔥🔥,0.4374,Positive,0.35,Positive,0.8601502180099487,Positive
 mustafa ali is handsome and better than veer,0.7269,Positive,0.5,Positive,0.6774894595146179,Positive
@@ -91,14 +91,14 @@ Never heard of him until tonight just going through Youtube because I stopped wa
 Veer ❤️🙏,0.0,Neutral,0.0,Neutral,0.3030112087726593,Neutral
 "I must admit, Veer mahan finishing move is quite effective..
 It can take out best of the wrestlers",0.8553,Positive,0.8,Positive,0.5302593111991882,Positive
-Wow they gave him an opponent that doesnt fight back!! lol  😅😂,0.8637,Positive,0.3,Neutral,-0.5736894607543945,Negative
+Wow they gave him an opponent that doesnt fight back!! lol  😅😂,0.8637,Positive,0.3,Positive,-0.5736894607543945,Negative
 एक भारतीय reseller ऐसा नहीं करना chayie,0.0,Neutral,0.0,Neutral,-0.7178975939750671,Negative
 Is that Tim the tap man,0.0,Neutral,0.0,Neutral,0.2453975230455398,Neutral
 Is that Tim the tat man,0.0,Neutral,0.0,Neutral,-0.2877033650875091,Negative
-Sam smother is one of the best wrestlers i have ever since even better then stone cold,0.6486,Positive,0.3,Neutral,0.9006709456443787,Positive
-"I already like this guy tbh, and the theme song is better than half the locker room's, barring Roman's and Lashley's. Hope he legit gets the build up he needs.",0.8074,Positive,0.1666666666666666,Neutral,0.5574526190757751,Positive
+Sam smother is one of the best wrestlers i have ever since even better then stone cold,0.6486,Positive,0.3,Positive,0.9006709456443787,Positive
+"I already like this guy tbh, and the theme song is better than half the locker room's, barring Roman's and Lashley's. Hope he legit gets the build up he needs.",0.8074,Positive,0.1666666666666666,Positive,0.5574526190757751,Positive
 Sala bandar ja,0.0,Neutral,0.0,Neutral,0.2672079503536224,Neutral
-This is a very loud Indian player.,0.0,Neutral,0.13,Neutral,0.3767238259315491,Positive
+This is a very loud Indian player.,0.0,Neutral,0.13,Positive,0.3767238259315491,Positive
 झोला भी हवा में है 😜😜😜😜,0.0,Neutral,0.0,Neutral,0.2593986093997955,Neutral
 Why this veer mahal choose the smallest wrestler as his opponent??,0.0,Neutral,0.0,Neutral,-0.4273135662078857,Negative
 I thought Veer Mahan still coming to Raw,0.0,Neutral,-0.2307692307692307,Negative,0.4023028314113617,Positive
@@ -136,11 +136,11 @@ Har har Mahadev",0.5423,Positive,0.0,Neutral,0.763897180557251,Positive
 The clothesline should be his finisher,0.0,Neutral,0.0,Neutral,0.376379907131195,Positive
 Love you veer mahan ........ Love from India 🥰🥰,0.975,Positive,0.5,Positive,0.8090976476669312,Positive
 He's done.,0.0,Neutral,0.0,Neutral,0.4287219941616058,Positive
-He has to hook the arm with his leg to complete the hold.,0.0,Neutral,0.1,Neutral,0.372587114572525,Positive
+He has to hook the arm with his leg to complete the hold.,0.0,Neutral,0.1,Positive,0.372587114572525,Positive
 Welldone veer Mahan rinku singh up waley ko,0.0,Neutral,0.0,Neutral,0.3907297849655151,Positive
 Good luck veer lol from INDIA 🇮🇳जय हिंद,0.8271,Positive,0.75,Positive,0.3539592325687408,Positive
 "THANK-YOU SO MUCH. to................
-                        🗽WWE Compeny 🗽👉FOR  🤝 ❤SUPPORTIN❤ 🤝  OUR😎INDIAN😎 WRESTLER 🔥🔥🔥VEER MAHAN🔥🔥🔥🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 ❤❤❤❤❤love form india❤❤❤❤❤",0.9925,Positive,0.2,Neutral,0.6931851506233215,Positive
+                        🗽WWE Compeny 🗽👉FOR  🤝 ❤SUPPORTIN❤ 🤝  OUR😎INDIAN😎 WRESTLER 🔥🔥🔥VEER MAHAN🔥🔥🔥🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏 ❤❤❤❤❤love form india❤❤❤❤❤",0.9925,Positive,0.2,Positive,0.6931851506233215,Positive
 "Indian bhai fukre na bno,koi aisto wda player aaye fer ldi os naal jhag kdda dega 😂😂😂",0.0,Neutral,0.0,Neutral,-0.3684914410114288,Negative
 WWE GIVE A BIG PUSh OUR 🔥🔥🔥🔥🔥VEER MAHAN🔥🔥🔥🔥 RENDY ORTON VS VEER MAHAN. FIGHT.👊👊👊👊👊👊👊👊👊👊,-0.9614,Negative,0.0,Neutral,0.5723257064819336,Positive
 omg!,0.0,Neutral,0.0,Neutral,-0.2535422742366791,Negative
@@ -153,18 +153,18 @@ Veer Mahan 🙏🙏🙏🙏,0.0,Neutral,0.0,Neutral,-0.4550388753414154,Negative
 Justice for Sam smothers,0.128,Positive,0.0,Neutral,0.2714834809303283,Neutral
 Aghori Baba,0.0,Neutral,0.0,Neutral,0.2417313307523727,Neutral
 Now some one else,0.0,Neutral,0.0,Neutral,0.3121342957019806,Neutral
-Wow!! Big Show lost a lot of height.,0.4738,Positive,0.078125,Neutral,-0.4884411692619324,Negative
-He' s Firts WWE Title MATCH would be a squash Then Running for the 24/7 Champion,0.5994,Positive,0.25,Neutral,-0.3298544883728027,Negative
+Wow!! Big Show lost a lot of height.,0.4738,Positive,0.078125,Positive,-0.4884411692619324,Negative
+He' s Firts WWE Title MATCH would be a squash Then Running for the 24/7 Champion,0.5994,Positive,0.25,Positive,-0.3298544883728027,Negative
 Rajput boy ♥️,0.6369,Positive,1.0,Positive,0.3419511616230011,Positive
 I love this guy already,0.6369,Positive,0.5,Positive,0.8397189974784851,Positive
 We stand VEERRRRRR!!!!,0.0,Neutral,0.0,Neutral,0.3313279151916504,Positive
 Mite be a force in the WWE sooner than you think,0.0,Neutral,0.0,Neutral,0.3123110830783844,Neutral
 Looks like he's lost some pounds in the week !,0.126,Positive,0.0,Neutral,0.3638529181480407,Positive
-A new russev 🤔,0.0,Neutral,0.1363636363636363,Neutral,0.540604293346405,Positive
-As long as they don't team him up with Jinder then he should be great....unless they start to push Jinder and him like they are pushing the bloodline which if done right can be a great fued could be as good as The early NWO black and white vs Wolfpack,0.8591,Positive,0.2384353741496598,Neutral,0.4058117568492889,Positive
+A new russev 🤔,0.0,Neutral,0.1363636363636363,Positive,0.540604293346405,Positive
+As long as they don't team him up with Jinder then he should be great....unless they start to push Jinder and him like they are pushing the bloodline which if done right can be a great fued could be as good as The early NWO black and white vs Wolfpack,0.8591,Positive,0.2384353741496598,Positive,0.4058117568492889,Positive
 put him with a stronger man,0.3818,Positive,0.0,Neutral,0.246087297797203,Neutral
-Now Wwe is fully loaded with jokers.... But this guy Veer Mahan will be just an exceptional to this.... By seeing his energy & aggression... No wonder he will be a star in future only if wwe doesnt ruin with his skills....,0.2865,Positive,0.2222222222222222,Neutral,0.6763112545013428,Positive
-After all of that hype they build around him I expected something more creative than typical monster heel squash local talents push,0.7346,Positive,0.1466666666666666,Neutral,0.4339556694030761,Positive
+Now Wwe is fully loaded with jokers.... But this guy Veer Mahan will be just an exceptional to this.... By seeing his energy & aggression... No wonder he will be a star in future only if wwe doesnt ruin with his skills....,0.2865,Positive,0.2222222222222222,Positive,0.6763112545013428,Positive
+After all of that hype they build around him I expected something more creative than typical monster heel squash local talents push,0.7346,Positive,0.1466666666666666,Positive,0.4339556694030761,Positive
 Off brand Rusev,0.0,Neutral,0.0,Neutral,-0.5834121704101562,Negative
 Is that Ryback’s younger brother?,0.0,Neutral,0.0,Neutral,0.3257622718811035,Neutral
 "Thank You Veer Thank You Veer 
@@ -181,14 +181,14 @@ Next match should be veer Mahan and Lashley vs omos and mvp.,0.0,Neutral,0.0,Neu
 "I want to see him fight vs Omos, or maybe vs Roman Reigns...",-0.3182,Negative,0.0,Neutral,0.2678866982460022,Neutral
 Veer “Future endeavors” Mahaan,0.0,Neutral,0.0,Neutral,0.3986225426197052,Positive
 Release this dude,0.0,Neutral,0.0,Neutral,-0.4015551805496216,Negative
-"Come on man I know they trying to build this guy up, and make him look good but let him wrestle are real wrestler than wrestling these weak guys to make him look good 😂😂😂",0.926,Positive,0.3062499999999999,Neutral,0.2562136352062225,Neutral
+"Come on man I know they trying to build this guy up, and make him look good but let him wrestle are real wrestler than wrestling these weak guys to make him look good 😂😂😂",0.926,Positive,0.3062499999999999,Positive,0.2562136352062225,Neutral
 Veer is actually a thread lol,0.4215,Positive,0.4,Positive,-0.3636757135391235,Negative
 👍🏻🥇💥,0.1531,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "भारतीयांना आकर्षित करण्यासाठी 
 पण सर्वांना माहित आहे की हे केवळ नकली खेळ आहे",-0.5267,Negative,-0.45,Negative,0.4023539423942566,Positive
 Smothers will be pulling this video out when his kids don't believe he wrestled in the wwe,-0.4404,Negative,0.0,Neutral,-0.26286181807518,Negative
-great Acivement in🇮🇳 Reslr wwe raw 😱😱,-0.7579,Negative,0.2846153846153846,Neutral,0.7770286202430725,Positive
-"Edger to see a real match of Veer, may be against boby Lashley",0.0,Neutral,0.2,Neutral,0.265667200088501,Neutral
+great Acivement in🇮🇳 Reslr wwe raw 😱😱,-0.7579,Negative,0.2846153846153846,Positive,0.7770286202430725,Positive
+"Edger to see a real match of Veer, may be against boby Lashley",0.0,Neutral,0.2,Positive,0.265667200088501,Neutral
 Mahaan india want universal and wwe championship,0.4939,Positive,0.0,Neutral,0.5826759338378906,Positive
 F   E   A   R   V   EE  R,0.0,Neutral,0.0,Neutral,-0.2520725727081299,Negative
 India 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳,0.0,Neutral,0.0,Neutral,0.2761535346508026,Neutral
@@ -213,32 +213,32 @@ Veer mahan चमक्कता hua sitara,0.0,Neutral,0.0,Neutral,0.2511938512
 Just use the lariat. Drop that lame submission move!,-0.636,Negative,-0.625,Negative,-0.5286455154418945,Negative
 Proud to sanatani... Har Har Mahadev 🕉️🙏🚩,0.4767,Positive,0.8,Positive,0.7097108960151672,Positive
 After note diserve an Indian. I don't like it .,-0.2755,Negative,0.0,Neutral,-0.5006291270256042,Negative
-"See a little potential, but u know what WWE do to this kind of guys 3 months of dominating then either chasing 24/7 championship or join catering group till another budget cut",0.296,Positive,0.1374999999999999,Neutral,0.2969755530357361,Neutral
-veer Mahaan win the match victory dominated every single local competitor superstars,0.5859,Positive,0.2428571428571428,Neutral,0.7317241430282593,Positive
+"See a little potential, but u know what WWE do to this kind of guys 3 months of dominating then either chasing 24/7 championship or join catering group till another budget cut",0.296,Positive,0.1374999999999999,Positive,0.2969755530357361,Neutral
+veer Mahaan win the match victory dominated every single local competitor superstars,0.5859,Positive,0.2428571428571428,Positive,0.7317241430282593,Positive
 Oh yay we have rusev 2.0,0.5267,Positive,0.0,Neutral,-0.3388245105743408,Negative
 I am pride if you beer Mahaan Sir,0.34,Positive,0.0,Neutral,0.4506053924560547,Positive
 Romain should watch his back veer is coming and soon will arrive,0.0,Neutral,0.0,Neutral,0.3431634604930877,Positive
 Veer  💪💪💪,0.0,Neutral,0.0,Neutral,0.3030112087726593,Neutral
-Chutiya lag raha hai pura,0.0,Neutral,0.1,Neutral,-0.3451902568340301,Negative
+Chutiya lag raha hai pura,0.0,Neutral,0.1,Positive,-0.3451902568340301,Negative
 Next rusev is back,0.0,Neutral,0.0,Neutral,-0.2972809374332428,Negative
 Veer mahan from India jai hind,0.0,Neutral,0.0,Neutral,0.420992910861969,Positive
 Veer!!! Veer!!! Veer!!! Fear Veer 🔥👊,-0.7762,Negative,0.0,Neutral,-0.4754158556461334,Negative
 I actually like Veer a lot,0.3612,Positive,0.0,Neutral,0.4601908922195434,Positive
 2:11 you know how wwe scripted...,0.0,Neutral,0.0,Neutral,-0.3412512838840484,Negative
-"Veer is the Real Deal,,",0.0,Neutral,0.2,Neutral,0.4895357489585876,Positive
-वीर महान ने पूरे भारत और सनातन संस्कृति का मान बढ़ाया है। जय श्री राम,0.34,Positive,0.0287878787878787,Neutral,0.7493425011634827,Positive
+"Veer is the Real Deal,,",0.0,Neutral,0.2,Positive,0.4895357489585876,Positive
+वीर महान ने पूरे भारत और सनातन संस्कृति का मान बढ़ाया है। जय श्री राम,0.34,Positive,0.0287878787878787,Positive,0.7493425011634827,Positive
 "I think he is the next Kane.... Man who looks like lion and has the best clothesline move..... And has a movie on him🙂
 All the best Veer",0.9275,Positive,0.6666666666666666,Positive,0.5823028683662415,Positive
 "180 switch to his real life personality. He is such a humble, down to earth guy in reality.",0.0,Neutral,-0.0388888888888888,Negative,0.2392340749502182,Neutral
 I want become wrestler. I am from Malaysia,0.0772,Positive,0.0,Neutral,0.3695564568042755,Positive
 ( Veer mahan vs Brock Lesnar ) wwe except me please indian see is a one match.,0.3182,Positive,0.0,Neutral,-0.4909670054912567,Negative
 His american citizen now and former american base ball player,0.0,Neutral,0.0,Neutral,0.3920559287071228,Positive
-You should watch Million Dollar Arm it's about Veer and how he made it to Major League Baseball. He played for the Pirates.,0.34,Positive,0.0625,Neutral,0.3398924767971039,Positive
+You should watch Million Dollar Arm it's about Veer and how he made it to Major League Baseball. He played for the Pirates.,0.34,Positive,0.0625,Positive,0.3398924767971039,Positive
 Veer,0.0,Neutral,0.0,Neutral,0.2386054843664169,Neutral
 Beast 🔥,-0.34,Negative,0.0,Neutral,0.5109581351280212,Positive
 This arrogant veer deserve it when he got some from drew mcintyre.,-0.4939,Negative,0.0,Neutral,0.4714507460594177,Positive
 veer mahan best (Indian),0.6369,Positive,1.0,Positive,0.7448374629020691,Positive
-"Sheamus, Brock, good luck trying to take down Veer Mahaan.",0.7096,Positive,0.2722222222222222,Neutral,0.2573327124118805,Neutral
+"Sheamus, Brock, good luck trying to take down Veer Mahaan.",0.7096,Positive,0.2722222222222222,Positive,0.2573327124118805,Neutral
 Veer is good athlete but gimmick 👎👎,0.2382,Positive,0.7,Positive,0.4610878527164459,Positive
 Veer Mahaan 🔥🔥🤗,0.0,Neutral,0.0,Neutral,0.3467690348625183,Positive
 Keep it up ....veer,0.0,Neutral,0.0,Neutral,-0.2681740820407867,Negative
@@ -246,13 +246,13 @@ ngl he looks terrifying,-0.5719,Negative,-1.0,Negative,0.504729688167572,Positiv
 veer better than jinder mahal,0.4404,Positive,0.5,Positive,0.610103189945221,Positive
 Okay sure but we gotta stop these user created wrestlers fighting Veer,-0.3506,Negative,0.5,Positive,0.6572991609573364,Positive
 Imagine if Veer confronts Roman Reigns and delivers the million dollar closeline... Oh man the crowd would go nuts,-0.4939,Negative,0.0,Neutral,-0.4149690270423889,Negative
-Ryback lost alot of muscle coming back from retirement. He seems different last time i saw him back. Glad got to see the return of ryback.,0.1779,Positive,0.1,Neutral,-0.2666240036487579,Negative
+Ryback lost alot of muscle coming back from retirement. He seems different last time i saw him back. Glad got to see the return of ryback.,0.1779,Positive,0.1,Positive,-0.2666240036487579,Negative
 Hindustan ka Sher ❤️,0.0,Neutral,0.0,Neutral,0.2205415666103363,Neutral
 "Veer Mahan  vs  ??????
 Do you want to see",0.3094,Positive,0.0,Neutral,-0.3786367177963257,Negative
-"Right now he is going on the same path as Lars Sullivan right after his raw debut, i just hope veer doesn't disappear like Lars after a few weeks of Push.",0.3519,Positive,0.0281318681318681,Neutral,0.3736308515071869,Positive
+"Right now he is going on the same path as Lars Sullivan right after his raw debut, i just hope veer doesn't disappear like Lars after a few weeks of Push.",0.3519,Positive,0.0281318681318681,Positive,0.3736308515071869,Positive
 ❤🙏🇮🇳🚩,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-this guy is awesome the barbarian energy I STRIKE FEAR IN THE HEART! hahaha i want more of this  monster!!!,0.9008,Positive,0.325390625,Neutral,0.922462284564972,Positive
+this guy is awesome the barbarian energy I STRIKE FEAR IN THE HEART! hahaha i want more of this  monster!!!,0.9008,Positive,0.325390625,Positive,0.922462284564972,Positive
 Sam Smothers literally got smothered 👀,-0.5859,Negative,0.0,Neutral,-0.6993022561073303,Negative
 Veer mahaan  is psychotic,0.0,Neutral,-0.5,Negative,-0.4573559463024139,Negative
 Let’s go Bharat 🇮🇳,0.0,Neutral,0.0,Neutral,0.3124949634075165,Neutral
@@ -265,7 +265,7 @@ I would like to see this guy vs drew mcyintyre,0.3612,Positive,0.0,Neutral,0.281
 Bro veer is gonna be such a good heel,0.4404,Positive,0.35,Positive,0.4511110186576843,Positive
 🚩🙏🇮🇳,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I am indian,0.0,Neutral,0.0,Neutral,0.4476585984230041,Positive
-Veer is a young WWE star and he's doing good but he should be careful from being ban very soon if he continues to disobey referees always,-0.4678,Negative,0.2249999999999999,Neutral,0.4727934598922729,Positive
+Veer is a young WWE star and he's doing good but he should be careful from being ban very soon if he continues to disobey referees always,-0.4678,Negative,0.2249999999999999,Positive,0.4727934598922729,Positive
 veer is asshoul big stioped,0.0,Neutral,0.0,Neutral,-0.3101531565189361,Negative
 "Sorry but how can this guy be taken seriously with a rip of finisher of wat rusev used to have, it looks even worse 🤔,",-0.7469,Negative,-0.4111111111111111,Negative,-0.4639690220355987,Negative
 "Honestly, the guy looks goofy",0.4588,Positive,0.55,Positive,-0.3149868547916412,Negative
@@ -273,16 +273,16 @@ someone have to stop this punk,-0.296,Negative,0.0,Neutral,-0.5672287940979004,N
 "I feel like later in the future, he might become a good guy like the great khali as first he was scary and then became goofy lol this guy might have a different tone compared to the great khali",0.9403,Positive,0.3349999999999999,Positive,0.4655044078826904,Positive
 And yet Drew McIntyre knocked him out with one claymore,0.0,Neutral,0.0,Neutral,-0.3091568052768707,Negative
 WWE,0.0,Neutral,0.0,Neutral,0.3307135105133056,Positive
-Es que le ponen a puro luchador pendejo por que no le ponen uno que le haga batalla Cómo por ejemplo Román o brock lesnar,-0.25,Negative,0.2142857142857142,Neutral,-0.4906964600086212,Negative
+Es que le ponen a puro luchador pendejo por que no le ponen uno que le haga batalla Cómo por ejemplo Román o brock lesnar,-0.25,Negative,0.2142857142857142,Positive,-0.4906964600086212,Negative
 Veer Mahaan is a unique and untouchable character in WWE history,0.0,Neutral,0.375,Positive,0.5154610872268677,Positive
-How much y’all want to bet that next Monday veer is coming for mustafa Ali,0.0772,Positive,0.1,Neutral,-0.3368380069732666,Negative
+How much y’all want to bet that next Monday veer is coming for mustafa Ali,0.0772,Positive,0.1,Positive,-0.3368380069732666,Negative
 Mcintyre is enough for him,0.0,Neutral,0.0,Neutral,0.307675689458847,Neutral
 what the name of the submission of veer if someone know please?.!,0.3802,Positive,0.0,Neutral,-0.4787909388542175,Negative
 Veer Mahaan Theme Is A Bop,0.0,Neutral,0.0,Neutral,0.2902839481830597,Neutral
 I see him more as a babyface when the time is right. Get him over as a heel first though.,0.0,Neutral,0.3452380952380952,Positive,0.6118482947349548,Positive
 Indiana árabe 🇮🇪🇬🇫🇮🇪🇸🇦🇸🇦campion,0.0,Neutral,0.0,Neutral,0.239483043551445,Neutral
 Ryback 😂😂😂😂,0.891,Positive,0.0,Neutral,0.2472017109394073,Neutral
-He's such a unique character and hopefully he gets to the highest levels. His eyes alone is something to be terrified for!,-0.5562,Negative,0.234375,Neutral,0.843580961227417,Positive
+He's such a unique character and hopefully he gets to the highest levels. His eyes alone is something to be terrified for!,-0.5562,Negative,0.234375,Positive,0.843580961227417,Positive
 "He has no look this is just a stunt to put him in a spotlight 😂.. 
 Fighting local competitors to make name... When he meets guys like Roman, Drew, Bobby, omos, Aj, seth, owen then we will know ... Besides WWE is all scripted bro",0.1779,Positive,0.0,Neutral,0.2693517506122589,Neutral
 Veer is looked like a monster.,0.3612,Positive,0.0,Neutral,-0.443485677242279,Negative
@@ -291,7 +291,7 @@ I'm expecting the Iranian Hulk too show up soon lol,0.4215,Positive,0.8,Positive
 Sam Smothers is Rybacks younger brother.,-0.4404,Negative,0.0,Neutral,0.3728083968162536,Positive
 😂,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Sam Smothers lol,-0.0258,Neutral,0.8,Positive,0.2235064208507537,Neutral
-Veer killed Smother's Winning Streak/Push.,-0.2732,Negative,0.15,Neutral,0.5144228935241699,Positive
+Veer killed Smother's Winning Streak/Push.,-0.2732,Negative,0.15,Positive,0.5144228935241699,Positive
 "Is that Ryback's Son, who's Also Goldberg's Grandson?",0.0,Neutral,0.0,Neutral,0.3227958679199219,Neutral
 🤦🏾‍♂️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 No one told me Ryback was back in WWE and was facing Veer Mahan.,-0.296,Negative,0.0,Neutral,-0.3583387434482574,Negative
@@ -299,11 +299,11 @@ Is he suppose to be intimidating then ?,-0.4404,Negative,0.0,Neutral,0.341989606
 RYBACK IS BACK!,0.0,Neutral,0.0,Neutral,0.3327802717685699,Positive
 VEER IS AWESOME!!!,0.7163,Positive,1.0,Positive,0.7375421524047852,Positive
 This he is bad im not  except im from India he is India but you winning after go way,0.5187,Positive,-0.0999999999999999,Negative,-0.7059577703475952,Negative
-A few more jobbers to beat up and then under the bus he goes,0.0,Neutral,0.15,Neutral,0.3392851948738098,Positive
+A few more jobbers to beat up and then under the bus he goes,0.0,Neutral,0.15,Positive,0.3392851948738098,Positive
 Great... impressive,0.8126,Positive,0.9,Positive,0.7791640758514404,Positive
 Veer is a scary aggressive competitor,-0.5859,Negative,-0.5,Negative,0.3918891847133636,Positive
 But that guy to fight someone his size,-0.5267,Negative,0.0,Neutral,0.3584336936473846,Positive
-"it's always the same. these new ""Superstars"" are ""fighting"" against no names to show their strenght but when they face better opponents they suck",-0.3291,Negative,0.2121212121212121,Neutral,-0.4234938621520996,Negative
+"it's always the same. these new ""Superstars"" are ""fighting"" against no names to show their strenght but when they face better opponents they suck",-0.3291,Negative,0.2121212121212121,Positive,-0.4234938621520996,Negative
 John Cena Vs Veer will happen,0.0,Neutral,0.0,Neutral,-0.2598946988582611,Negative
 Love from india,0.6369,Positive,0.5,Positive,0.5484558939933777,Positive
 I like this dude. Cant even lie.,0.3612,Positive,0.0,Neutral,0.6207998991012573,Positive
@@ -317,7 +317,7 @@ Veer cındırdır. Dəmir yumruq ona dəyəndə yumşalacaq...,0.0,Neutral,0.0,N
 Kind of remind me of rusev,0.0,Neutral,0.6,Positive,0.4187999367713928,Positive
 Fear Veer sounds good,-0.0772,Negative,0.7,Positive,0.470884621143341,Positive
 Vier should face wrestler's then see how bad he really is,-0.5423,Negative,-0.2499999999999999,Negative,-0.4312287271022796,Negative
-Veer is becoming more dangerous,-0.5256,Negative,0.1166666666666666,Neutral,-0.4227238297462463,Negative
+Veer is becoming more dangerous,-0.5256,Negative,0.1166666666666666,Positive,-0.4227238297462463,Negative
 Why did they take Rusevs moveset and install into Bollywood Umaga?,0.0,Neutral,0.0,Neutral,-0.4176700115203857,Negative
 Good selling from Smothers!,0.0,Neutral,0.875,Positive,0.4906680285930633,Positive
 I want Veer vs Drew round 2,0.0772,Positive,-0.2,Negative,-0.2426416128873825,Negative
@@ -328,30 +328,30 @@ of  the local jobbers. he should be in a fund with the miz or balor,0.0,Neutral,
 "The entrance, titantron design and the way he's booked
 
 Looked like another Khali",0.3612,Positive,0.0,Neutral,-0.31287881731987,Negative
-Veer has so much upside one thing WWE doing correct keep building his star,0.0,Neutral,0.2,Neutral,-0.4496973752975464,Negative
+Veer has so much upside one thing WWE doing correct keep building his star,0.0,Neutral,0.2,Positive,-0.4496973752975464,Negative
 0:46,0.0,Neutral,0.0,Neutral,-0.4217539131641388,Negative
 Still think he and Omas would make a great tag team. They'd just decimate the competition. Colossal Connection 2.0.,0.6249,Positive,0.55,Positive,0.3126814365386963,Neutral
 Beer 🍺🍻 Mahaan.,0.0,Neutral,0.0,Neutral,0.4128284156322479,Positive
 what happens if we do veer vs gunther lol,0.4215,Positive,0.8,Positive,-0.2781084179878235,Negative
 Indus cher,0.0,Neutral,0.0,Neutral,0.2391487658023834,Neutral
-I hate to say it like this but he reminds me of a prime Iron Sheik only that the Sheik was a little more charismatic,-0.1531,Negative,0.0024999999999999,Neutral,0.4810501337051391,Positive
+I hate to say it like this but he reminds me of a prime Iron Sheik only that the Sheik was a little more charismatic,-0.1531,Negative,0.0024999999999999,Positive,0.4810501337051391,Positive
 He reminds me of umaga,0.0,Neutral,0.0,Neutral,0.3702993094921112,Positive
 We will see him dancing with R-Truth in one year,0.0,Neutral,0.0,Neutral,0.4497354030609131,Positive
 My god he really is destructive! He’s as dangerous as Lars Sullivan,-0.7629,Negative,-0.675,Negative,-0.8990991115570068,Negative
 Mahaan,0.0,Neutral,0.0,Neutral,0.6104059219360352,Positive
-"If you don't notice, his entry was like entering The Village Cali completely, and this is a repetition of the scenario, as well as a recurring scenario of control and then inactivity!",0.5983,Positive,0.125,Neutral,-0.4391821920871734,Negative
+"If you don't notice, his entry was like entering The Village Cali completely, and this is a repetition of the scenario, as well as a recurring scenario of control and then inactivity!",0.5983,Positive,0.125,Positive,-0.4391821920871734,Negative
 veer is so dominated,0.0,Neutral,0.0,Neutral,-0.2840201258659363,Negative
-Kinda difficult to cover how much the crowd despises this character upon his intro. Months of build-up for a few meh squash matches. WWE dropping the ball on making worthy rivalries with their talented roster. RK-Bro is probably the best gimmick they've come up with in this Era.,0.7089,Positive,0.2555555555555555,Neutral,0.630628764629364,Positive
+Kinda difficult to cover how much the crowd despises this character upon his intro. Months of build-up for a few meh squash matches. WWE dropping the ball on making worthy rivalries with their talented roster. RK-Bro is probably the best gimmick they've come up with in this Era.,0.7089,Positive,0.2555555555555555,Positive,0.630628764629364,Positive
 No one cares,-0.569,Negative,0.0,Neutral,-0.5980377793312073,Negative
 Awesome video,0.6249,Positive,1.0,Positive,0.7933568358421326,Positive
 Keep doing this wwe an we have a star in our hands,0.0,Neutral,0.0,Neutral,0.4178597629070282,Positive
 Braun need to come back n y he fighting people we don’t even know that pointless hate when they do that part,-0.7351,Negative,-0.35,Negative,-0.5140745043754578,Negative
 SEND VEER,0.0,Neutral,0.0,Neutral,0.2907672524452209,Neutral
-"Someone tell me... is WWE booking this guy as a good guy or bad guy? I mean, he kinda does good guy stuff and bad guy stuff. lol. he fist pumped Randy on the show than sent that poor dude to the hospital like 10 mins later.",-0.0717,Negative,0.0109375,Neutral,-0.5006827116012573,Negative
+"Someone tell me... is WWE booking this guy as a good guy or bad guy? I mean, he kinda does good guy stuff and bad guy stuff. lol. he fist pumped Randy on the show than sent that poor dude to the hospital like 10 mins later.",-0.0717,Negative,0.0109375,Positive,-0.5006827116012573,Negative
 "I want to see Veer mahan with OMOS 
 A great match",0.6597,Positive,0.8,Positive,0.583519458770752,Positive
 THE🦁LION,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Veer vs big show or Kane or even brock lesnar would love to see them matches.,0.6369,Positive,0.25,Neutral,0.3411178886890411,Positive
+Veer vs big show or Kane or even brock lesnar would love to see them matches.,0.6369,Positive,0.25,Positive,0.3411178886890411,Positive
 😂😂,0.7003,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Veer,0.0,Neutral,0.0,Neutral,0.2386054843664169,Neutral
 wow what a monster is Veer Mahaan he can beat roman reigns i think for the undisputed championship is he does he will destroy roman reigns also and i think will Veer Mahaan to do that,0.4939,Positive,-0.05,Negative,0.5666654706001282,Positive
@@ -369,22 +369,22 @@ The Lion's Jaw looks like it could devastate just anyone man enough to step in t
 Που τους βρίσκετε αυτούς τους αντιπάλους του Ινδού; κατάντησε γελοιο,-0.3612,Negative,-0.3333333333333333,Negative,0.4213827550411224,Positive
 "He’s not suitable to be shown as a monster 
 He looks funny",0.4404,Positive,-0.0125,Negative,-0.33548304438591,Negative
-Veer Mahaan is a real beast 😂😂😂😂😂😂😂,0.9601,Positive,0.2,Neutral,0.6483741402626038,Positive
+Veer Mahaan is a real beast 😂😂😂😂😂😂😂,0.9601,Positive,0.2,Positive,0.6483741402626038,Positive
 "Man Veer and Walter are gonna have the longest ""jobbers squashing"" contest ever",0.0,Neutral,0.0,Neutral,0.2634313106536865,Neutral
-This man is dying right before our eyes ctfu this is overkill,0.0,Neutral,0.2857142857142857,Neutral,-0.7824503779411316,Negative
+This man is dying right before our eyes ctfu this is overkill,0.0,Neutral,0.2857142857142857,Positive,-0.7824503779411316,Negative
 Intimidating.,-0.4404,Negative,0.0,Neutral,0.4471243321895599,Positive
 Veer Mahaan control yourself,0.0,Neutral,0.0,Neutral,0.5483365058898926,Positive
 Nobody remember when Drew squashed him,0.0,Neutral,0.0,Neutral,-0.2767076194286346,Negative
 "The crazy thing that several years ago, he was a Pittsburgh Pirate minor league pitcher throwing 95 mph from India.",-0.34,Negative,-0.2166666666666666,Negative,0.3943429291248321,Positive
-Dont fumble the ball with veer this guy could be on roman teir as a great rival or evenbagainsy cody he is a monster that you desperatly need,0.3612,Positive,0.1,Neutral,-0.5243740081787109,Negative
+Dont fumble the ball with veer this guy could be on roman teir as a great rival or evenbagainsy cody he is a monster that you desperatly need,0.3612,Positive,0.1,Positive,-0.5243740081787109,Negative
 Am.tired of this 3rd class beared shop  mcmahon  lost mind.,-0.3182,Negative,0.0,Neutral,-0.6503841876983643,Negative
 Contra OMOS a ver si es tan bueno,0.5777,Positive,0.7,Positive,0.2632071673870086,Neutral
-Having new talent go against local competition doesn't make them look better,0.6908,Positive,0.2121212121212121,Neutral,0.3573513925075531,Positive
+Having new talent go against local competition doesn't make them look better,0.6908,Positive,0.2121212121212121,Positive,0.3573513925075531,Positive
 You know who should come back and fight veer ryback or Jon moxley,-0.3818,Negative,0.0,Neutral,0.2363326847553253,Neutral
 "He’s a future champion in WWE, and no Umaga treatment on him.",0.4019,Positive,0.0,Neutral,0.3394335806369781,Positive
-"I love jobber squashes. Get people some wins on tv. Midcard guys especially in wwe lose on tv constantly, and then we're expected to want to buy the network to see if they'll win or not. It's dumb. I want to see a fight between 2 winners",0.9265,Positive,0.1607142857142857,Neutral,-0.4426095187664032,Negative
-Its all fun and games until veer meet the fiend,0.5106,Positive,0.3,Neutral,0.3979527354240417,Positive
-Veer song i think is too soft for his fierce gimmick,0.0,Neutral,0.1,Neutral,0.4099318981170654,Positive
+"I love jobber squashes. Get people some wins on tv. Midcard guys especially in wwe lose on tv constantly, and then we're expected to want to buy the network to see if they'll win or not. It's dumb. I want to see a fight between 2 winners",0.9265,Positive,0.1607142857142857,Positive,-0.4426095187664032,Negative
+Its all fun and games until veer meet the fiend,0.5106,Positive,0.3,Positive,0.3979527354240417,Positive
+Veer song i think is too soft for his fierce gimmick,0.0,Neutral,0.1,Positive,0.4099318981170654,Positive
 Veer Mahan vs Drew McIntyre please,0.3182,Positive,0.0,Neutral,0.2336066663265228,Neutral
 "sok"" jago nih bareo ini dia eee .. kong gaga jo ngana",0.5106,Positive,0.7,Positive,-0.4168276488780975,Negative
 "The next umaga hopefully
@@ -392,7 +392,7 @@ And before you know it veer vs reigns",0.4019,Positive,0.0,Neutral,0.30558747053
 so boring,-0.3804,Negative,-1.0,Negative,-0.5319200754165649,Negative
 Just wait at Wreslemaina we will see Veeeerrr Maaahhhaannn Vs Roman Reigns For the Titles at Wreslemaina,0.0,Neutral,0.0,Neutral,-0.3650628328323364,Negative
 "Veer will need another finisher becoz submission doesn't work on Top guys like kevin,seth,styles,drew, etc",0.2283,Positive,0.5,Positive,-0.4404813051223755,Negative
-"A dominant heel with a submission that’s hard enough to break your jaw, Veer is definitely on a roll in his own right.",0.3182,Positive,0.1188095238095237,Neutral,0.4422149062156677,Positive
+"A dominant heel with a submission that’s hard enough to break your jaw, Veer is definitely on a roll in his own right.",0.3182,Positive,0.1188095238095237,Positive,0.4422149062156677,Positive
 I hope they don't put Veer in the title picture.,0.4404,Positive,0.0,Neutral,0.3485367894172668,Positive
 "Veer does have Charisma and can wrestle better than jinder ,shanky or great khali that's why he should definitely be pushed right to get attraction from india",0.9136,Positive,0.3964285714285714,Positive,0.4641175866127014,Positive
 poor sam smothers 😢😢😢😢💔,-0.946,Negative,-0.4,Negative,-0.5742508172988892,Negative
@@ -418,11 +418,11 @@ poor sam smothers 😢😢😢😢💔,-0.946,Negative,-0.4,Negative,-0.57425081
 
 
 
-GABLE STEVENSON",0.4215,Positive,0.175,Neutral,0.2977791130542755,Neutral
+GABLE STEVENSON",0.4215,Positive,0.175,Positive,0.2977791130542755,Neutral
 I hate this matches against local jobbers,-0.5719,Negative,-0.4,Negative,-0.791946530342102,Negative
 Is that Timthetatman?,0.0,Neutral,0.0,Neutral,-0.3494062423706054,Negative
 Need Gable Stevenson to feud with veer,-0.34,Negative,0.0,Neutral,0.2954970598220825,Neutral
-Veer's theme is pretty cool,0.6705,Positive,0.3,Neutral,0.4438903629779815,Positive
+Veer's theme is pretty cool,0.6705,Positive,0.3,Positive,0.4438903629779815,Positive
 He moves his mouth like the mechanical characters at Chuck E Cheese,0.3612,Positive,0.0,Neutral,0.3737851679325104,Positive
 Sam Smothers is going to show up on AEW dark this week 😂😂😂,0.7003,Positive,-0.15,Negative,0.3743533492088318,Positive
 Veer??? Your boring ..why not WWE make him Vs Braun,-0.4291,Negative,-1.0,Negative,-0.6175198554992676,Negative
@@ -431,26 +431,26 @@ Bruh this dude is skinny fat and walks with INVISIBLE LAT SYNDROME. he just does
 I hope WWE don't buried VEER.,0.4404,Positive,0.0,Neutral,-0.446063369512558,Negative
 How long is Veer going to be competing against local talent? I think Veer has potential but he cant keep doing this forever,0.2263,Positive,-0.0166666666666666,Negative,0.2830229699611664,Neutral
 verr maahan arrested comming soon,0.25,Positive,0.8,Positive,-0.4781850576400757,Negative
-I have signed a contract that the vaan is ready to be difficult and hurt more,-0.5267,Negative,0.0666666666666666,Neutral,0.2447704672813415,Neutral
-the next one will not be easy I want it difficult but real,-0.3189,Negative,0.0333333333333333,Neutral,0.4748627543449402,Positive
+I have signed a contract that the vaan is ready to be difficult and hurt more,-0.5267,Negative,0.0666666666666666,Positive,0.2447704672813415,Neutral
+the next one will not be easy I want it difficult but real,-0.3189,Negative,0.0333333333333333,Positive,0.4748627543449402,Positive
 Van is tiny balls testicles,0.0,Neutral,0.0,Neutral,-0.3652723133563995,Negative
-just  fraking  way.not  super star.just  smaller  wrestler.not  lion.just  woolf😆😆😆,0.886,Positive,0.1666666666666666,Neutral,-0.4666903018951416,Negative
+just  fraking  way.not  super star.just  smaller  wrestler.not  lion.just  woolf😆😆😆,0.886,Positive,0.1666666666666666,Positive,-0.4666903018951416,Negative
 "Once veer has come, you can't stop him from coming again.",0.2235,Positive,0.0,Neutral,0.2891145944595337,Neutral
 😴😴😴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 finally indian tech support has been promoted,0.6705,Positive,0.0,Neutral,0.58327716588974,Positive
 Veer in this heel persona reminds me of Bruiser Brody and I’m here for it 🔥,-0.34,Negative,0.0,Neutral,0.6365475654602051,Positive
-Wonder who is Veer first rivalry going to be with,0.0,Neutral,0.25,Neutral,0.4215347468852997,Positive
-Lol wtf! Who is sam smother? I think he is the underrated wrestler for showing the power of veer mahan,-0.6239,Negative,0.0875,Neutral,0.3838278949260711,Positive
+Wonder who is Veer first rivalry going to be with,0.0,Neutral,0.25,Positive,0.4215347468852997,Positive
+Lol wtf! Who is sam smother? I think he is the underrated wrestler for showing the power of veer mahan,-0.6239,Negative,0.0875,Positive,0.3838278949260711,Positive
 Veer is the incarnation of a man who didn't get his order,0.0,Neutral,0.0,Neutral,-0.3890383243560791,Negative
 "I was really skeptical at first, but I'm liking it. Veer is here",0.4124,Positive,-0.125,Negative,0.510964572429657,Positive
 Should call his submission the 'Lions Jaw' or 'Lions Clench',0.0,Neutral,0.0,Neutral,-0.3368658125400543,Negative
 "ok this guy really is not that impressive, move on",-0.1285,Negative,0.4666666666666666,Positive,0.7505239844322205,Positive
-Worth the wait,0.2263,Positive,0.3,Neutral,0.4547224044799804,Positive
+Worth the wait,0.2263,Positive,0.3,Positive,0.4547224044799804,Positive
 Veer looks brutal in the ring,-0.6249,Negative,-0.875,Negative,0.2169468253850937,Neutral
 Get Gen Gunther,0.0,Neutral,0.0,Neutral,0.4786899089813232,Positive
 "Veer mahaan vs omas, please Mr McMahon Book it ! 😍😍😍😍😍",0.9485,Positive,0.0,Neutral,0.4991177916526794,Positive
 🤮🤢,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Hey its the new rusev  i see,0.0,Neutral,0.1363636363636363,Neutral,0.5421673059463501,Positive
+Hey its the new rusev  i see,0.0,Neutral,0.1363636363636363,Positive,0.5421673059463501,Positive
 Veer mahan is god,0.2732,Positive,0.0,Neutral,0.5613775253295898,Positive
 That jobber kinda reminds me of the big guy ryback,0.0,Neutral,0.0,Neutral,0.4808986186981201,Positive
 Veer reminds me of braun strowman,0.0,Neutral,0.0,Neutral,0.3758006989955902,Positive
@@ -461,15 +461,15 @@ Veer is now showering the WWE Universe with his come 😁,0.4588,Positive,0.0,Ne
 Give him an opponent like Omas and see what happens.Fake Dominance....,0.5106,Positive,0.0,Neutral,-0.7162706255912781,Negative
 "Of I've seen this before Veer will probably be undefeated for months just beating up local competitors, trying to injure them.",-0.4588,Negative,0.0,Neutral,-0.4072505533695221,Negative
 Cringe afff,0.0,Neutral,0.0,Neutral,-0.3997924327850342,Negative
-"It's great that WWE are hiring new talent, especially after releasing so many wrestlers the past couple of years, yeah they're first matches are against Veer but I look forward to their futures in the WWE...",0.6187,Positive,0.2393939393939394,Neutral,0.440066248178482,Positive
-"the new face of India, after Khali & Jinder, Veer is going to be next champion",0.5994,Positive,0.0681818181818181,Neutral,0.6069411039352417,Positive
+"It's great that WWE are hiring new talent, especially after releasing so many wrestlers the past couple of years, yeah they're first matches are against Veer but I look forward to their futures in the WWE...",0.6187,Positive,0.2393939393939394,Positive,0.440066248178482,Positive
+"the new face of India, after Khali & Jinder, Veer is going to be next champion",0.5994,Positive,0.0681818181818181,Positive,0.6069411039352417,Positive
 "Fear Veer? More like, fire Veer. So boring man",-0.6887,Negative,-0.25,Negative,-0.5975744128227234,Negative
 This Veer Gimmick is absolutely horrible.. he doesn’t look impressive against jobbers and his finishing move is very boring. He won’t make it if wwe continues to book him this way. The fans have no reaction to this guy.,-0.647,Negative,-0.3333333333333333,Negative,-0.7971368432044983,Negative
-Veer from be a drew and main event people joober to a unstoppable force kind of hard to buy that but they want to you to buy it 🤷🏽‍♂️ ok then,0.3619,Positive,0.2437499999999999,Neutral,0.3425013422966003,Positive
+Veer from be a drew and main event people joober to a unstoppable force kind of hard to buy that but they want to you to buy it 🤷🏽‍♂️ ok then,0.3619,Positive,0.2437499999999999,Positive,0.3425013422966003,Positive
 "Boring, the joke is over...",-0.0258,Neutral,-1.0,Negative,-0.5150516629219055,Negative
 "Sam Smothers, what a name...",-0.4404,Negative,0.0,Neutral,0.2944080233573913,Neutral
 Default CYO Wrestler Sam Smothers.,-0.4404,Negative,0.0,Neutral,-0.4533194303512573,Negative
-After becoming a meme he actually got something to him a destructive superstar he just need some paper view wins.,-0.0772,Negative,0.0375,Neutral,-0.4649397730827331,Negative
+After becoming a meme he actually got something to him a destructive superstar he just need some paper view wins.,-0.0772,Negative,0.0375,Positive,-0.4649397730827331,Negative
 I want a rivalry between veer and Mustapha Ali,0.0772,Positive,0.0,Neutral,0.3110266923904419,Neutral
 Get veer out of here and wwe,0.0,Neutral,0.0,Neutral,-0.6033605933189392,Negative
 Sam Smother my favorite superstar,0.0516,Positive,0.5,Positive,0.9011862874031068,Positive
@@ -485,21 +485,21 @@ Shame TimTheTatMan couldn't win,-0.7329,Negative,0.8,Positive,-0.759446859359741
 
 
 “to fight local competitors”",-0.4389,Negative,0.0,Neutral,0.5076398849487305,Positive
-😂 my new favorite Disney princess is Veer .,0.7096,Positive,0.3181818181818182,Neutral,0.8177502751350403,Positive
+😂 my new favorite Disney princess is Veer .,0.7096,Positive,0.3181818181818182,Positive,0.8177502751350403,Positive
 Veer is just like larr sullivan,0.3612,Positive,0.0,Neutral,0.3312896192073822,Positive
 "Starts to get boring… give him an opponent, not any Roadies anymore to build him up.",0.0,Neutral,0.0,Neutral,-0.5435256361961365,Negative
 I think this is what Vince wanted jinder to be. But jinder wasn't Intimidating enough,0.4782,Positive,0.0,Neutral,0.3885758817195892,Positive
 Just another Brotus Clay failure get him off.,-0.5106,Negative,-0.3166666666666667,Negative,-0.6939218044281006,Negative
-"ngl, if veer fought omos it will be a fun match.",0.25,Positive,0.3,Neutral,0.3756961822509765,Positive
+"ngl, if veer fought omos it will be a fun match.",0.25,Positive,0.3,Positive,0.3756961822509765,Positive
 veer mahaan should be disqualified for being aggressive to that local competitor,-0.5267,Negative,0.0,Neutral,-0.3733538091182709,Negative
-potential in Veer that's for sure but potential doesn't always lead to success. His true test comes when he has an actual competive match then we will have a better idea of how good he is or can be.,0.959,Positive,0.2937499999999999,Neutral,0.6148262619972229,Positive
+potential in Veer that's for sure but potential doesn't always lead to success. His true test comes when he has an actual competive match then we will have a better idea of how good he is or can be.,0.959,Positive,0.2937499999999999,Positive,0.6148262619972229,Positive
 E：You are about to receive retribution🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬！Breathless diarrhea cramps geniculate herpes zoster（Rinku Singh Rajput）。😠😠😠😠😠😠😠😠😠😠,-0.9861,Negative,0.0,Neutral,-0.5030122399330139,Negative
-WWE IS REAL,0.0,Neutral,0.2,Neutral,0.6082739233970642,Positive
+WWE IS REAL,0.0,Neutral,0.2,Positive,0.6082739233970642,Positive
 India doti  tera bap see panga liya,-0.4939,Negative,0.0,Neutral,-0.3144208788871765,Negative
-Jinder Mahal would be a really good manager for Veer Mahaan. It would make Mahaan look more dominate and serious,0.2111,Positive,0.2888888888888889,Neutral,0.4022643566131592,Positive
+Jinder Mahal would be a really good manager for Veer Mahaan. It would make Mahaan look more dominate and serious,0.2111,Positive,0.2888888888888889,Positive,0.4022643566131592,Positive
 Veer is totally 💪💪,0.0,Neutral,0.0,Neutral,0.3062942028045654,Neutral
 It just how ryback would beat on jobbers😂,0.4404,Positive,0.0,Neutral,0.4152754545211792,Positive
-Seen this gimmick too many times. They should have made the moveset different from Rusev so it didn't  feel the same. If there was another gimmick in between the two it would be fine but there wasn't.,0.1027,Positive,0.2291666666666666,Neutral,-0.5195654034614563,Negative
+Seen this gimmick too many times. They should have made the moveset different from Rusev so it didn't  feel the same. If there was another gimmick in between the two it would be fine but there wasn't.,0.1027,Positive,0.2291666666666666,Positive,-0.5195654034614563,Negative
 Ram ram gi 🙏🏼,0.0,Neutral,0.0,Neutral,0.2669747173786163,Neutral
 He might be the best Indian Wrestler since Khali,0.6369,Positive,1.0,Positive,0.3623214364051819,Positive
 Veer is coming!!!,0.0,Neutral,0.0,Neutral,0.2877195477485657,Neutral
@@ -511,7 +511,7 @@ He will be in the Midcard soon losing to everybody,-0.3818,Negative,0.0,Neutral,
 He got potential for sure",0.8316,Positive,0.5,Positive,0.3739361763000488,Positive
 sam looks like joey mercury,0.3612,Positive,0.0,Neutral,0.2960471212863922,Neutral
 Veer you are out of your control,0.0,Neutral,0.0,Neutral,-0.3496925830841064,Negative
-Personally I'd bring back the refs able to revurse fission,0.0,Neutral,0.1666666666666666,Neutral,0.346717357635498,Positive
+Personally I'd bring back the refs able to revurse fission,0.0,Neutral,0.1666666666666666,Positive,0.346717357635498,Positive
 VEER looks legit!!,0.0,Neutral,0.0,Neutral,0.3808583617210388,Positive
 Is it Sa Smothers or Sam Smothered?,-0.5859,Negative,0.0,Neutral,-0.4760259389877319,Negative
 Poor Sam Smothers needs ambulance,-0.7184,Negative,-0.4,Negative,-0.4123873710632324,Negative
@@ -523,24 +523,24 @@ I hope Gary Heck and Sam Smothers become a team and go for the tag titles! Futur
 I’m loving these squash matches ❤️ the jobbers are equally amazing 🔥..,0.743,Positive,0.6000000000000001,Positive,0.8793544769287109,Positive
 "Sam Smothers, future AEW Dark Wrestlers",-0.4404,Negative,-0.075,Negative,0.3218735158443451,Neutral
 Any relation to Tracy?,0.0,Neutral,0.0,Neutral,-0.418546050786972,Negative
-i think Veer is one of the few people that can actually make squash matches looks interesting,0.4019,Positive,0.0999999999999999,Neutral,0.4233165681362152,Positive
+i think Veer is one of the few people that can actually make squash matches looks interesting,0.4019,Positive,0.0999999999999999,Positive,0.4233165681362152,Positive
 this Sam guy will be AEW's TBS Champion in 5 years,0.5994,Positive,0.0,Neutral,0.7612584233283997,Positive
 "Great match
 Congrats to Winner
 Veer Mahaan finally het chance to show what he can do in the ring 
 Great Submission move...",0.9545,Positive,0.5333333333333333,Positive,0.7371506690979004,Positive
-Leave the man alone with the hard matches do one with Eliases brother that will be better for him,0.0772,Positive,0.1041666666666666,Neutral,-0.3271559178829193,Negative
+Leave the man alone with the hard matches do one with Eliases brother that will be better for him,0.0772,Positive,0.1041666666666666,Positive,-0.3271559178829193,Negative
 the crowd is so dead,-0.7573,Negative,-0.2,Negative,-0.6356397867202759,Negative
 "In 5 months, Veer will be running around chasing the 24/7",0.0,Neutral,0.0,Neutral,0.2111302018165588,Neutral
 Boo! 👎,0.0,Neutral,0.0,Neutral,-0.3711898326873779,Negative
 マハーン強！,0.5562,Positive,0.5416666666666666,Positive,0.618615984916687,Positive
 Veer we need more Veer,0.0,Neutral,0.5,Positive,0.3185919523239136,Neutral
-"No matter whatsoever it is, his section is entertaining. His maneuver should be called Lion Lock. This Indian guy should be promoted to further extent IC or US title level.",0.6834,Positive,0.25,Neutral,0.4614809155464172,Positive
+"No matter whatsoever it is, his section is entertaining. His maneuver should be called Lion Lock. This Indian guy should be promoted to further extent IC or US title level.",0.6834,Positive,0.25,Positive,0.4614809155464172,Positive
 Sucks,-0.3612,Negative,-0.3,Negative,-0.7136605381965637,Negative
 Zzzzzzz,0.0,Neutral,0.0,Neutral,0.2666524648666382,Neutral
 Is that smaller version of big show getting molled by Veer,0.0,Neutral,0.0,Neutral,-0.4170772433280945,Negative
-Just a few more weeks before he starts chasing the 24/7…,0.0,Neutral,0.15,Neutral,-0.3568370044231415,Negative
-"As I'm  always watching WWE Main Event for the past months finding Veer, at 0:01, I can hear Kevin Patrick voice saying ""We are delighted to have your company for.... MAIN EVENT!""",0.5562,Positive,0.20625,Neutral,0.4101622402667999,Positive
+Just a few more weeks before he starts chasing the 24/7…,0.0,Neutral,0.15,Positive,-0.3568370044231415,Negative
+"As I'm  always watching WWE Main Event for the past months finding Veer, at 0:01, I can hear Kevin Patrick voice saying ""We are delighted to have your company for.... MAIN EVENT!""",0.5562,Positive,0.20625,Positive,0.4101622402667999,Positive
 Sam Smothers looks a lot like that Gary Heck guy who got beaten by Mahaan on Main Event. :P,-0.1197,Negative,0.4583333333333333,Positive,0.3200065791606903,Neutral
 how about Bobby Lashley vs Veer,0.0,Neutral,0.0,Neutral,0.30003622174263,Neutral
 Veer Mahaan gives me the ruthless aggression vibe with his brutality. WWE is full jokers now that makes this guy unique.,-0.7351,Negative,-0.0916666666666666,Negative,0.6797567009925842,Positive
@@ -555,15 +555,15 @@ I can’t deal with Indian Rusev using that stupid finisher. Give Indian Rusev a
 It’s gonna be 30 matches till he faces someone in wwe,0.0,Neutral,0.0,Neutral,-0.3018019795417785,Negative
 🤣🤣🤣🤣🤣🤣,0.9595,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Sam smothers is going to be a star in a few years watch,-0.4404,Negative,-0.2,Negative,0.3919189572334289,Positive
-I'm pretty certain veer turned up with jinder mahal and shanky  they we're getting  beats veer left the ring after being kicked in the gut he rolled out the ring,0.6486,Positive,0.1547619047619047,Neutral,0.397741824388504,Positive
+I'm pretty certain veer turned up with jinder mahal and shanky  they we're getting  beats veer left the ring after being kicked in the gut he rolled out the ring,0.6486,Positive,0.1547619047619047,Positive,0.397741824388504,Positive
 "He has so much potential, i hope WWE don't do this for too long, or fans will get bored at him. He should be in a real feud at this moment. By i mean ""real feud"", its not with Dominic 😅",-0.6261,Negative,-0.0770833333333333,Negative,-0.3859969973564148,Negative
-"""Fear Veer"" Love it. Hes got the look, the moves, and the voice. He reminds me of the superstars from back in the day. Keep it up Veer. Can't wait to see you against some stronger talent soon.",0.7506,Positive,0.25,Neutral,0.7813550233840942,Positive
-He really Smothered  him,-0.2944,Negative,0.2,Neutral,-0.5302547812461853,Negative
-I hope he has more to offer than just being a monster cause that will get old fast.,0.4404,Positive,0.2666666666666666,Neutral,0.4208142161369324,Positive
+"""Fear Veer"" Love it. Hes got the look, the moves, and the voice. He reminds me of the superstars from back in the day. Keep it up Veer. Can't wait to see you against some stronger talent soon.",0.7506,Positive,0.25,Positive,0.7813550233840942,Positive
+He really Smothered  him,-0.2944,Negative,0.2,Positive,-0.5302547812461853,Negative
+I hope he has more to offer than just being a monster cause that will get old fast.,0.4404,Positive,0.2666666666666666,Positive,0.4208142161369324,Positive
 They put him against weak people who are not even on the roster smh 🤦‍♂️,-0.6369,Negative,-0.375,Negative,-0.2688617706298828,Negative
-Reminds me too much of a Vladimir Kozlov. Plus Veer’s move set seems so uninspired. Needs to be more unique.,0.0,Neutral,0.14375,Neutral,-0.5371494293212891,Negative
+Reminds me too much of a Vladimir Kozlov. Plus Veer’s move set seems so uninspired. Needs to be more unique.,0.0,Neutral,0.14375,Positive,-0.5371494293212891,Negative
 "Good to see a beast just destroying people.  
-   But it'll be interesting to see where he's at 6months+ from now. I'd probably say he could go after the  United States championship, but guys like Theory, Ciampa, Ali, Elias, etc will be hovering around that belt for the immediate future.",0.9325,Positive,0.25,Neutral,0.4530815780162811,Positive
+   But it'll be interesting to see where he's at 6months+ from now. I'd probably say he could go after the  United States championship, but guys like Theory, Ciampa, Ali, Elias, etc will be hovering around that belt for the immediate future.",0.9325,Positive,0.25,Positive,0.4530815780162811,Positive
 Veer should be coming…after a title,0.0,Neutral,0.0,Neutral,0.2949187457561493,Neutral
 The he walks is so cringey,0.0,Neutral,0.0,Neutral,-0.4424559772014618,Negative
 Humiiii,0.0,Neutral,0.0,Neutral,-0.4108372330665588,Negative
@@ -572,7 +572,7 @@ Soo wwe just let's this dude mess ppl up like who's gonna stop this animal js,-0
 Dont spam submission 😂😂😂,0.8693,Positive,0.0,Neutral,-0.34483602643013,Negative
 "Seems like Sam Smothers got ""Smothered""",-0.3182,Negative,0.0,Neutral,0.3949559926986694,Positive
 "He need more moves... and stop with Camel Clutch variation finisher :
-(Original Sheik, Iron Sheik, Sabu, Jinder Mahal, Rusev, Him and many other...)",-0.0422,Neutral,0.1,Neutral,-0.3438842594623565,Negative
+(Original Sheik, Iron Sheik, Sabu, Jinder Mahal, Rusev, Him and many other...)",-0.0422,Neutral,0.1,Positive,-0.3438842594623565,Negative
 I  like this aggression form veer  🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.5680864453315735,Positive
 Veer MAHAAN 💪 THE DESTROYER,-0.5766,Negative,0.0,Neutral,0.4316987693309784,Positive
 Veer again destroying a local competitor... He just crushed them...,-0.7506,Negative,-0.1,Negative,-0.6467140913009644,Negative
@@ -590,21 +590,21 @@ I approve. good job so far,0.4404,Positive,0.3999999999999999,Positive,0.4810360
 damn veer is coming all over the place,-0.4019,Negative,0.0,Neutral,-0.4700056910514831,Negative
 Awesome Squash Match/Attack Tonight!!🙌🙌😎😎🐐🐐🙏🙏🔥🔥,0.7835,Positive,1.0,Positive,0.8710848689079285,Positive
 Lion vs mouse lol...,0.4215,Positive,0.8,Positive,-0.2179398089647293,Negative
-How do u always make such funny and good videos Dyym,0.7003,Positive,0.3166666666666666,Neutral,0.7007359266281128,Positive
+How do u always make such funny and good videos Dyym,0.7003,Positive,0.3166666666666666,Positive,0.7007359266281128,Positive
 He always make me laugh or makes me enjoy the rest of the day 1FaG,0.7783,Positive,0.35,Positive,0.4499625265598297,Positive
-"GOLDBERG IS THE ORIGINAL LION, GOLDBERG COULD BREAK THIS GUY IN HALF",0.3182,Positive,0.1041666666666666,Neutral,-0.3175770938396454,Negative
+"GOLDBERG IS THE ORIGINAL LION, GOLDBERG COULD BREAK THIS GUY IN HALF",0.3182,Positive,0.1041666666666666,Positive,-0.3175770938396454,Negative
 this guy can beat hook in seconds,0.0,Neutral,0.0,Neutral,0.465404748916626,Positive
 "i think he needs a manager, he have similarity of umaga. (this is my only opinion)",0.0,Neutral,0.0,Neutral,0.3446994721889496,Positive
 I like how Sam Smothers is a local talent but took a few seconds for him to tap out.,0.1779,Positive,-0.1,Negative,0.4473347961902618,Positive
 so？,0.0,Neutral,0.0,Neutral,0.4162435233592987,Positive
 FEAR VEER!,-0.5411,Negative,0.0,Neutral,-0.3478535711765289,Negative
 VEER! VEER! VEER! VEER!,0.0,Neutral,0.0,Neutral,0.341115653514862,Positive
-"damn,these comment section have some sarcastic insults to an underrated guy who can work better and much more realistic heel than khali :DD",-0.2263,Negative,0.3166666666666667,Neutral,0.3253625035285949,Neutral
+"damn,these comment section have some sarcastic insults to an underrated guy who can work better and much more realistic heel than khali :DD",-0.2263,Negative,0.3166666666666667,Positive,0.3253625035285949,Neutral
 Fear the Veer,-0.4939,Negative,0.0,Neutral,-0.3384280204772949,Negative
 so is it Stan or Sam?!,0.0,Neutral,0.0,Neutral,0.3249874711036682,Neutral
 VEER MAHAAN,0.8271,Positive,0.75,Positive,-0.4026648104190826,Negative
 man went from a baseball player to WWE real quick,0.0,Neutral,0.5,Positive,0.5867447257041931,Positive
-I won't lie. The guy definitely has a unique look that the WWE is desperately missing more of.,-0.2732,Negative,0.16875,Neutral,0.3365974128246307,Positive
+I won't lie. The guy definitely has a unique look that the WWE is desperately missing more of.,-0.2732,Negative,0.16875,Positive,0.3365974128246307,Positive
 This veer is dominate,-0.128,Negative,0.0,Neutral,0.7496541738510132,Positive
 Goldberg gostou muito disso,0.4754,Positive,0.6,Positive,-0.3759177029132843,Negative
 I dont like this guy,-0.2755,Negative,0.0,Neutral,-0.4519915580749511,Negative
@@ -612,10 +612,10 @@ Good Afternoon Po To You All WWE The Manager Want See Challenger Roman empire Re
 Veer Mahaan vs Vince Mcmahon 😆,0.3612,Positive,0.0,Neutral,0.2481900453567505,Neutral
 Rusev Day Veer Day,0.0,Neutral,0.0,Neutral,-0.3632998466491699,Negative
 "WWE trademark, a big useless guy who will be jobber fodder in a few months.",-0.4215,Negative,-0.2333333333333333,Negative,-0.7549541592597961,Negative
-Veer is an absolute animal!,0.0,Neutral,0.25,Neutral,0.8646829724311829,Positive
+Veer is an absolute animal!,0.0,Neutral,0.25,Positive,0.8646829724311829,Positive
 The lion,0.0,Neutral,0.0,Neutral,0.2912657856941223,Neutral
 Veer Looks like he'd be a perfect addition to The Bloodline.,0.7351,Positive,1.0,Positive,0.411433458328247,Positive
-"I actually think Veer is doing fine with these squash matches at the moment. I hope eventually he gets to branch out from WWE's classic ""foreign menace"" gimmick (complete with Camel Clutch variation) we've seen from Rusev, Iron Sheik, Muhammad Hassan, etc.",0.128,Positive,0.1116666666666666,Neutral,0.533209502696991,Positive
+"I actually think Veer is doing fine with these squash matches at the moment. I hope eventually he gets to branch out from WWE's classic ""foreign menace"" gimmick (complete with Camel Clutch variation) we've seen from Rusev, Iron Sheik, Muhammad Hassan, etc.",0.128,Positive,0.1116666666666666,Positive,0.533209502696991,Positive
 My two eyes isn't the same anymore after Veer fist bump with Randy Orton.,0.0,Neutral,0.0,Neutral,-0.3767605125904083,Negative
 Mahaan vs Butch,0.0,Neutral,0.0,Neutral,0.2353652566671371,Neutral
 Veer is better than Jinder and Khali combined Veer is nice only should get better,0.8225,Positive,0.4,Positive,0.4224745035171509,Positive
@@ -624,13 +624,13 @@ his beard looks fake,-0.4767,Negative,-0.5,Negative,-0.5981578826904297,Negative
 Sam Smothers has been smothered by Veer's coming,-0.5859,Negative,0.0,Neutral,-0.2935928702354431,Negative
 Who can stop Veer Mahaan?,-0.296,Negative,0.0,Neutral,-0.3404114544391632,Negative
 Luckily Sam didn't get smothered.,0.608,Positive,0.3333333333333333,Positive,0.5205904841423035,Positive
-"Honestly, I thought Veer was just not much interesting, but his submission move is too terrifying. I think it is good for supporting him to be the better role.",0.7827,Positive,0.1333333333333333,Neutral,0.5729897618293762,Positive
+"Honestly, I thought Veer was just not much interesting, but his submission move is too terrifying. I think it is good for supporting him to be the better role.",0.7827,Positive,0.1333333333333333,Positive,0.5729897618293762,Positive
 "That clothesline was called The Million Dollar Arm, a shout out to Veer's reputation in baseball sport when he was younger",0.0,Neutral,0.0,Neutral,-0.4055912494659424,Negative
 fear the veer!,-0.5411,Negative,0.0,Neutral,-0.2934124171733856,Negative
 Come on enough already,0.0,Neutral,0.0,Neutral,0.3137500286102295,Neutral
 Respect Veer,0.4767,Positive,0.0,Neutral,0.3999227583408355,Positive
 "They done this local squash match before with Braun, Ryback rusev then when they start losing they become a running gag",-0.6124,Negative,0.0,Neutral,0.3027291595935821,Neutral
-I cared more about veer when he was stil coming to raw,0.4215,Positive,0.1346153846153846,Neutral,-0.3891594111919403,Negative
+I cared more about veer when he was stil coming to raw,0.4215,Positive,0.1346153846153846,Positive,-0.3891594111919403,Negative
 😅😅😅😂😂😂😂😂😂,0.9716,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Veer should have taken out Orton tonight.,0.0,Neutral,0.0,Neutral,-0.2936847805976867,Negative
 "veer squashing jobbers on RAW
@@ -640,7 +640,7 @@ I'm looking forward for an inter-brand match between them two. just like Batista
 I love Veer. Dominant performance,0.6369,Positive,0.5,Positive,0.7315559983253479,Positive
 Veer should go after the US championship or Intercontinental,0.4404,Positive,0.0,Neutral,0.2880610227584839,Neutral
 He's already faced this guy,0.0,Neutral,0.0,Neutral,-0.2687516510486603,Negative
-"I don't want to go on a rant, but I place blame on Adam Pearce for this bastards arrival. He took out the Mysterios and innocent competitors.  This guy needs to be fined or something. He wins the match, yet the cabrón puts that clutch in 2 more times after the match. For what? No real reason.",-0.734,Negative,0.3,Neutral,-0.3732482194900512,Negative
+"I don't want to go on a rant, but I place blame on Adam Pearce for this bastards arrival. He took out the Mysterios and innocent competitors.  This guy needs to be fined or something. He wins the match, yet the cabrón puts that clutch in 2 more times after the match. For what? No real reason.",-0.734,Negative,0.3,Positive,-0.3732482194900512,Negative
 I want to see GUNTHER vs Veer just from the way Veer is booked rn.,0.0772,Positive,0.0,Neutral,0.258519560098648,Neutral
 "veer is actually lacking in size, its no wonder why they made the mysterios job to him and now this guy, its to present him to look like a big beast.",0.0772,Positive,0.0,Neutral,-0.4088119864463806,Negative
 India is garbage,0.0,Neutral,0.0,Neutral,-0.908187448978424,Negative

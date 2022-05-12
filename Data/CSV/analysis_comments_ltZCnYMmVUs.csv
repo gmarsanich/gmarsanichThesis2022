@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-"u are THE best youtuber as u say make the impossible, possible",0.6369,Positive,0.1111111111111111,Neutral,0.8719270825386047,Positive
+"u are THE best youtuber as u say make the impossible, possible",0.6369,Positive,0.1111111111111111,Positive,0.8719270825386047,Positive
 "One of the best thing about dude is that he
 
 never takes credit for himself when he archives
@@ -13,7 +13,7 @@ Is sick,-0.5106,Negative,-0.7142857142857143,Negative,-0.5103771090507507,Negati
 I think u should watch it I've watched the first episode and it was good but ima watch the new episodes,0.2382,Positive,0.3621212121212121,Positive,0.4163491725921631,Positive
 Your toxic I am not subing,0.0,Neutral,0.0,Neutral,-0.6932900547981262,Negative
 "Yo Tg, I have the most hardest challenge, You will have to pickaxe the opponent before attacking. Can u make the impossible possible this time???",-0.4518,Negative,-0.0555555555555555,Negative,-0.3085820376873016,Negative
-"The moon knight show on disney plus is soo different and is freaking amaizing, is my second favorite marvel series",0.7783,Positive,0.275,Neutral,0.6068398356437683,Positive
+"The moon knight show on disney plus is soo different and is freaking amaizing, is my second favorite marvel series",0.7783,Positive,0.275,Positive,0.6068398356437683,Positive
 Yes you should watch it,0.4019,Positive,0.0,Neutral,0.4286735355854034,Positive
 Am spiderman,0.0,Neutral,0.0,Neutral,0.4341573715209961,Positive
 "Yes you should watch moon knight, one of my favorite shows 10/10",0.6908,Positive,0.5,Positive,0.9322478175163268,Positive
@@ -35,7 +35,7 @@ Moonlight is a good show you should watch it,0.4404,Positive,0.7,Positive,0.5229
 Yes it's a good show,0.6808,Positive,0.7,Positive,0.4205676019191742,Positive
 I love your videos,0.6369,Positive,0.5,Positive,0.8285005688667297,Positive
 best show i have ever seen. you should watch it,0.6369,Positive,1.0,Positive,0.9653542637825012,Positive
-You should definitely watch it the action and  the show is good,0.6808,Positive,0.2666666666666666,Neutral,0.5393762588500977,Positive
+You should definitely watch it the action and  the show is good,0.6808,Positive,0.2666666666666666,Positive,0.5393762588500977,Positive
 Like spike 💪,0.3612,Positive,0.0,Neutral,0.4169922173023224,Positive
 I'v watched moonknight. It's rlly good and the best episode so far is episode 2.,0.8122,Positive,0.6,Positive,0.5215228199958801,Positive
 I bought moon night using your code!,0.0,Neutral,0.0,Neutral,0.6645095944404602,Positive
@@ -57,11 +57,11 @@ Yes you should watch it is pretty good,0.8316,Positive,0.475,Positive,0.49012461
 Yes is awesome,0.7783,Positive,1.0,Positive,0.8192181587219238,Positive
 No,-0.296,Negative,0.0,Neutral,-0.531922459602356,Negative
 You should watch it,0.0,Neutral,0.0,Neutral,0.3107419908046722,Neutral
-"Tg, win a game with rocket launchers only, just prove you can do it, though i know you can!",0.6239,Positive,0.1333333333333333,Neutral,0.3289883732795715,Neutral
+"Tg, win a game with rocket launchers only, just prove you can do it, though i know you can!",0.6239,Positive,0.1333333333333333,Positive,0.3289883732795715,Neutral
 How do you get that glider,0.0,Neutral,0.0,Neutral,0.521183967590332,Positive
 You should watch the moonlight,0.0,Neutral,0.0,Neutral,0.2848210334777832,Neutral
 Black-38-special,0.0,Neutral,0.0,Neutral,0.3994375467300415,Positive
-Typical gamer I triple dog dare u to make a video and get 5 wins in solo or duos no build u prolly can do it but I still wanna see,0.1901,Positive,0.0666666666666666,Neutral,0.330069899559021,Positive
+Typical gamer I triple dog dare u to make a video and get 5 wins in solo or duos no build u prolly can do it but I still wanna see,0.1901,Positive,0.0666666666666666,Positive,0.330069899559021,Positive
 What is that glider,0.0,Neutral,0.0,Neutral,0.3614919781684875,Positive
 I did it before him and won twice in a row,0.5719,Positive,0.0,Neutral,0.2830433249473572,Neutral
 Bro had a private uav,0.0,Neutral,0.0,Neutral,0.2634550929069519,Neutral
@@ -76,7 +76,7 @@ Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Tg I have a Chanel called Jollygamer playz but no subscribers,-0.0387,Neutral,0.0,Neutral,-0.4388412833213806,Negative
 yes i did watch the moon night show its a really good show,0.7089,Positive,0.7,Positive,0.442263662815094,Positive
 Watch moon night,0.0,Neutral,0.0,Neutral,0.2990838289260864,Neutral
-Definitely watch moonknight it is very epic!!,0.508,Positive,0.1015625,Neutral,0.7651242017745972,Positive
+Definitely watch moonknight it is very epic!!,0.508,Positive,0.1015625,Positive,0.7651242017745972,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Moon knight is one of the best shows!,0.6696,Positive,1.0,Positive,0.9104793071746826,Positive
 yes watcvh it,0.4019,Positive,0.0,Neutral,0.2753118574619293,Neutral
@@ -104,7 +104,7 @@ Yes you should watch it it is so good,0.7537,Positive,0.7,Positive,0.62915289402
 You should do that skin and doing gray weapons only in duos,-0.4404,Negative,0.0,Neutral,0.2689194083213806,Neutral
 no do not watch the show,-0.296,Negative,0.0,Neutral,-0.5341904759407043,Negative
 Can't you use the getpack it ain't a weapon,0.2235,Positive,0.0,Neutral,-0.569854199886322,Negative
-Yes you should a new episode comes out wendsday,0.4019,Positive,0.1363636363636363,Neutral,0.365209698677063,Positive
+Yes you should a new episode comes out wendsday,0.4019,Positive,0.1363636363636363,Positive,0.365209698677063,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Yes andra,0.4019,Positive,0.0,Neutral,0.268572062253952,Neutral
 imagine i dont play fortnite but i enjoy watching andre play😁😁😁😁,0.9747,Positive,0.4,Positive,0.452204555273056,Positive
@@ -119,7 +119,7 @@ YES,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Yes. Very good show!,0.7339,Positive,1.0,Positive,0.6567042469978333,Positive
 8:36 the buildings falling down be going with the beat,-0.1531,Negative,-0.1555555555555555,Negative,-0.2898097336292267,Negative
 Yes u should watch moon knight,0.4019,Positive,0.0,Neutral,0.4524860382080078,Positive
-You can use a Mythic gold and Silver weapons since both of his colors are white and gold! It looks better with the moon 🌙 back bling that we got for Halloween in the Item Shop last year and All Star Contrail 🌟 in Chapter 1 Season 3 because he can control the Moon and Stars in the sky!,0.0,Neutral,0.125,Neutral,0.4360400438308716,Positive
+You can use a Mythic gold and Silver weapons since both of his colors are white and gold! It looks better with the moon 🌙 back bling that we got for Halloween in the Item Shop last year and All Star Contrail 🌟 in Chapter 1 Season 3 because he can control the Moon and Stars in the sky!,0.0,Neutral,0.125,Positive,0.4360400438308716,Positive
 I dont know why you didnt watch it yet,0.0,Neutral,0.0,Neutral,0.305123507976532,Neutral
 Bruh my moon knight challenge idea was better come on gotta read discord more; still a banger vid,0.128,Positive,0.5,Positive,-0.4331602752208709,Negative
 watch it its amazing,0.5859,Positive,0.6000000000000001,Positive,0.7629880309104919,Positive
@@ -127,7 +127,7 @@ Yes you should watch the series it is so good,0.7537,Positive,0.7,Positive,0.606
 Subscribe to tipicalgamer,0.0,Neutral,0.0,Neutral,0.2871833443641662,Neutral
 I think they  made that skin because of  Ramadan,0.0,Neutral,0.0,Neutral,0.2230769693851471,Neutral
 Was short for his pickaxe. Felt sad. But got him ✌,0.5023,Positive,-0.25,Negative,0.5474771857261658,Positive
-watch it on live please,0.3182,Positive,0.1363636363636363,Neutral,0.4457256197929382,Positive
+watch it on live please,0.3182,Positive,0.1363636363636363,Positive,0.4457256197929382,Positive
 What would you want back rift to go or bogie bomb,-0.4404,Negative,0.0,Neutral,-0.5595153570175171,Negative
 The show is probably the best Marvel show ever,0.7906,Positive,1.0,Positive,0.7338976860046387,Positive
 Guys I think everyone knows this but the ranger shotgun looks and sounds like the combat shotty just more OP,0.0387,Neutral,0.5,Positive,0.3971231281757355,Positive
@@ -141,7 +141,7 @@ Yea u should watch it good 👍,0.4404,Positive,0.7,Positive,0.4094109535217285,
 They were trying to 1v1 at 7:40,0.0,Neutral,0.0,Neutral,-0.4605080783367157,Negative
 Yes watch it 👍 but the first few episodes are naff (not that good) but it gets Realy better :),0.7643,Positive,0.35,Positive,0.5200057625770569,Positive
 Moon knight is so good,0.5777,Positive,0.7,Positive,0.5645889043807983,Positive
-The ending of ep.4 was funny,0.4404,Positive,0.25,Neutral,0.3601083755493164,Positive
+The ending of ep.4 was funny,0.4404,Positive,0.25,Positive,0.3601083755493164,Positive
 summen the suit,0.0,Neutral,0.0,Neutral,0.5947312116622925,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 yes!!,0.508,Positive,0.0,Neutral,0.4731802642345428,Positive
@@ -155,12 +155,12 @@ He be one shot,0.0,Neutral,0.0,Neutral,-0.9355151653289796,Negative
 I need v-bucks to get the skin😭😭😭,-0.8519,Negative,0.0,Neutral,0.3999197483062744,Positive
 I liked it it is blowing me up,0.4215,Positive,0.6,Positive,0.5580929517745972,Positive
 I dont like Fortnite but i love Moon Knight both the show and comics so i watched 3 minutes of Forntite,0.7387,Positive,0.5,Positive,0.3455922901630401,Positive
-U really should watch Moon Knight i think you would like it,0.3612,Positive,0.2,Neutral,0.4014628827571869,Positive
+U really should watch Moon Knight i think you would like it,0.3612,Positive,0.2,Positive,0.4014628827571869,Positive
 ive finished it its really good so watch it,0.4927,Positive,0.7,Positive,0.5242376327514648,Positive
 "You should watch it 
-tg I think you”ll like it it’s a cool movie on Disney+ you should do this one more time beacause he only attacks at night I think I forgot",0.2263,Positive,0.2833333333333333,Neutral,0.3237622678279876,Neutral
+tg I think you”ll like it it’s a cool movie on Disney+ you should do this one more time beacause he only attacks at night I think I forgot",0.2263,Positive,0.2833333333333333,Positive,0.3237622678279876,Neutral
 "Everybody:has the best guns in the game
-Tg:has all grey weapons but still wins",0.7783,Positive,0.2124999999999999,Neutral,0.4160818457603454,Positive
+Tg:has all grey weapons but still wins",0.7783,Positive,0.2124999999999999,Positive,0.4160818457603454,Positive
 I’ve done that flying glitch before. My brother showed it to me,0.0,Neutral,0.0,Neutral,0.5018573999404907,Positive
 Watch the series it’s great,0.6249,Positive,0.8,Positive,0.7146883606910706,Positive
 It’s buttercake berries,0.0,Neutral,0.0,Neutral,0.282990425825119,Neutral
@@ -175,13 +175,13 @@ yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 P.s forgot other guy name",0.1206,Positive,-0.125,Negative,0.4974991679191589,Positive
 Yes you should 👍,0.4019,Positive,0.0,Neutral,0.5420131087303162,Positive
 yes is the best marvel movie ever,0.8658,Positive,1.0,Positive,0.9201561212539672,Positive
-"The show is really good so far, I highly recommend watching it because it is amazing. Yet it is a little hard to follow the story at first",0.8651,Positive,0.1901190476190476,Neutral,0.7772444486618042,Positive
+"The show is really good so far, I highly recommend watching it because it is amazing. Yet it is a little hard to follow the story at first",0.8651,Positive,0.1901190476190476,Positive,0.7772444486618042,Positive
 I have to so there is not going to be a long episode,0.0,Neutral,-0.05,Negative,0.4912354052066803,Positive
 I have,0.0,Neutral,0.0,Neutral,0.446274846792221,Positive
 CLICK THE BELL,0.0,Neutral,0.0,Neutral,0.3639092147350311,Positive
 yes moon kight,0.4019,Positive,0.0,Neutral,0.4152675867080688,Positive
 Moon night is so good u should watch it and yes it is on Disney plus,0.7537,Positive,0.7,Positive,0.6401963233947754,Positive
-It's just how he edits like like where he had 99 crown wins then he had 100 like he's the best player in this whole entire game,0.9371,Positive,0.22,Neutral,0.7218592762947083,Positive
+It's just how he edits like like where he had 99 crown wins then he had 100 like he's the best player in this whole entire game,0.9371,Positive,0.22,Positive,0.7218592762947083,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 can you gift me tg i need vbucks my user is dino buns,0.4404,Positive,0.0,Neutral,0.3498702943325043,Positive
 I have no vbucks I used it on the battle pass,-0.5859,Negative,0.0,Neutral,0.282768964767456,Neutral
@@ -200,19 +200,19 @@ soothing,0.3182,Positive,0.0,Neutral,0.3940690755844116,Positive
 Noooooooooo,0.0,Neutral,0.0,Neutral,-0.3413818478584289,Negative
 Tg is op op op op op op op op op op op op op op op op op op op op op op op op!,0.0,Neutral,0.0,Neutral,0.3449522256851196,Positive
 You probley will not see this comment aney way,0.0,Neutral,0.0,Neutral,-0.5655104517936707,Negative
-Please win a game with dubble revolver,0.7269,Positive,0.1333333333333333,Neutral,-0.4717466831207275,Negative
+Please win a game with dubble revolver,0.7269,Positive,0.1333333333333333,Positive,-0.4717466831207275,Negative
 Yo since dubble pump is gone we can use dubble revolver,0.0,Neutral,0.0,Neutral,0.2805863618850708,Neutral
 YES,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 aim bot 5 :16 s,0.0,Neutral,0.0,Neutral,0.3896284997463226,Positive
 Can you please do a challenge with one of every weapon,0.1027,Positive,0.0,Neutral,0.2953889071941376,Neutral
 I seen it on disney+,0.0,Neutral,0.0,Neutral,0.4584401845932007,Positive
 Yes you should watch it,0.4019,Positive,0.0,Neutral,0.4286735355854034,Positive
-"Yes, andre you should watch it this serie is blowing me out, it's really psychedelic.",0.4019,Positive,0.2,Neutral,0.6235887408256531,Positive
+"Yes, andre you should watch it this serie is blowing me out, it's really psychedelic.",0.4019,Positive,0.2,Positive,0.6235887408256531,Positive
 TG PLAYS WATCH THE MOON KNIGHT SHOW,0.25,Positive,0.0,Neutral,0.4140897691249847,Positive
 bro when tg here vs everyone he gets like a lot if kills because he really good and better than faze Jarvis and ninja.,0.6549,Positive,0.6,Positive,0.3841174244880676,Positive
 go ahead,0.0,Neutral,0.0,Neutral,0.3554620146751404,Positive
 tg aka the best fortnite god clapping everyone 😂,0.8481,Positive,1.0,Positive,0.8573861122131348,Positive
-Your the best you are amazing I love your videos I see them everyday!!!!!!!!!!!!!,0.9368,Positive,0.275,Neutral,0.9682955741882324,Positive
+Your the best you are amazing I love your videos I see them everyday!!!!!!!!!!!!!,0.9368,Positive,0.275,Positive,0.9682955741882324,Positive
 "If anyone is down to play, let me know!",0.4003,Positive,-0.1944444444444444,Negative,0.3091257512569427,Neutral
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Tg  is the best at Fortnite I love your videos,0.8555,Positive,0.75,Positive,0.8599749207496643,Positive
@@ -236,11 +236,11 @@ I used the code,0.0,Neutral,0.0,Neutral,0.2475154399871826,Neutral
 yOU SHOULD DEFINITLY WATCH THE SHOW!!!,0.6496,Positive,0.0,Neutral,0.5527417063713074,Positive
 Hi tg my name is dereck and I’ve been watching u for 3 Years now so I’m a og,0.0,Neutral,0.0,Neutral,0.305979311466217,Neutral
 How do u get so many views no youtubers with ur subs gets this much veiws,-0.3535,Negative,0.35,Positive,-0.3335572183132171,Negative
-i want epic to make a arcane skin because that would be awsome (arcane league of legends show),0.0772,Positive,0.1,Neutral,0.2495308667421341,Neutral
-How much v bux is it,0.0,Neutral,0.2,Neutral,-0.32139852643013,Negative
+i want epic to make a arcane skin because that would be awsome (arcane league of legends show),0.0772,Positive,0.1,Positive,0.2495308667421341,Neutral
+How much v bux is it,0.0,Neutral,0.2,Positive,-0.32139852643013,Negative
 definetly should watch it tg,0.4019,Positive,0.0,Neutral,0.3479749858379364,Positive
 Can you gift me,0.4404,Positive,0.0,Neutral,0.4287277162075043,Positive
-Oki we were in the same game and you killed me lol,-0.4019,Negative,0.0499999999999999,Neutral,0.6162312626838684,Positive
+Oki we were in the same game and you killed me lol,-0.4019,Negative,0.0499999999999999,Positive,0.6162312626838684,Positive
 Yes you should watch Moon Knight,0.4019,Positive,0.0,Neutral,0.4275376200675964,Positive
 keep up the good work tg,0.4404,Positive,0.7,Positive,0.2621272504329681,Neutral
 I was  gonna buy it but I bought ALTO I loved him and moon knight,0.7469,Positive,0.7,Positive,0.3424429297447204,Positive
@@ -265,14 +265,14 @@ Glad moon night is helping us on this war,-0.1091,Negative,0.5,Positive,0.643010
 i whached it the mer theres a hamen,0.0,Neutral,0.0,Neutral,-0.5395712852478027,Negative
 can you friend me Thegamercat585 you inspired me to be a fortnite youtuber,0.7506,Positive,0.0,Neutral,0.4743090867996216,Positive
 I have a movie moonNight,0.0,Neutral,0.0,Neutral,0.3512060940265655,Positive
-Hey Tg did you die to fresh yesterday,-0.3818,Negative,0.3,Neutral,0.3195949792861938,Neutral
+Hey Tg did you die to fresh yesterday,-0.3818,Negative,0.3,Positive,0.3195949792861938,Neutral
 You can u Pi I love ur vids,0.6369,Positive,0.5,Positive,0.7667217254638672,Positive
 Moonknight was very good if you like marvel and action and some story then watch moonknight,0.8173,Positive,0.505,Positive,0.5118165612220764,Positive
 the moon knight show is 16+ also you ar the best person in the  universe,0.6369,Positive,1.0,Positive,0.7077383399009705,Positive
 my name is fuer2a,0.0,Neutral,0.0,Neutral,0.2715101540088653,Neutral
 why not use typical gamer code he is awesome,0.6249,Positive,0.4166666666666667,Positive,0.7040263414382935,Positive
 YOU SHOULD WATCH IT,0.0,Neutral,0.0,Neutral,0.3107419908046722,Neutral
-Moon night is do good and interesting new episodes every wed. Btw does any one thing episode 4 was kinda weird not gonna lie,0.6361,Positive,0.2090909090909091,Neutral,0.5577003359794617,Positive
+Moon night is do good and interesting new episodes every wed. Btw does any one thing episode 4 was kinda weird not gonna lie,0.6361,Positive,0.2090909090909091,Positive,0.5577003359794617,Positive
 Watch moon night,0.0,Neutral,0.0,Neutral,0.2990838289260864,Neutral
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 You should watch it,0.0,Neutral,0.0,Neutral,0.3107419908046722,Neutral
@@ -294,13 +294,13 @@ watch moon knight,0.0,Neutral,0.0,Neutral,0.3109562695026397,Neutral
 TJ behavior cares by fortnite name,0.4588,Positive,0.0,Neutral,0.2751971781253814,Neutral
 moonknight is such a good show,0.4404,Positive,0.35,Positive,0.5329592227935791,Positive
 TG you are the best  But my YouTube are,0.3818,Positive,1.0,Positive,0.4360709190368652,Positive
-Washington new Batman movie it is so f****** cool,0.3774,Positive,0.2431818181818181,Neutral,0.572388231754303,Positive
+Washington new Batman movie it is so f****** cool,0.3774,Positive,0.2431818181818181,Positive,0.572388231754303,Positive
 yeah its realy good,0.659,Positive,0.7,Positive,0.4424760639667511,Positive
 I like you tyipcal gamer,0.3612,Positive,-0.1666666666666666,Negative,0.4919593334197998,Positive
 You should definatly watch the Moon Knight show.,0.0,Neutral,0.0,Neutral,0.271603375673294,Neutral
-hi a really big fan I've want to be friended on fortnite bye you  your a graet guy caring to your watchers keep up good work hope we meet in fortnite i will send you my user in the your vid tomorrow if you want to expect it really want the moonlight a the grey only challenge was awsome bye from your fan,0.9536,Positive,0.1699999999999999,Neutral,0.2740018665790558,Neutral
+hi a really big fan I've want to be friended on fortnite bye you  your a graet guy caring to your watchers keep up good work hope we meet in fortnite i will send you my user in the your vid tomorrow if you want to expect it really want the moonlight a the grey only challenge was awsome bye from your fan,0.9536,Positive,0.1699999999999999,Positive,0.2740018665790558,Neutral
 Yea he’s the best,0.6369,Positive,1.0,Positive,0.6829321980476379,Positive
-Moon is my favourite right now I love the action and adventure combined you should most definitely watch it,0.8588,Positive,0.2771428571428571,Neutral,0.7879660725593567,Positive
+Moon is my favourite right now I love the action and adventure combined you should most definitely watch it,0.8588,Positive,0.2771428571428571,Positive,0.7879660725593567,Positive
 the show is sooo good,0.4404,Positive,0.7,Positive,0.4257514476776123,Positive
 ya i did,0.0,Neutral,0.0,Neutral,0.2662941217422485,Neutral
 Yes you showed because it is 4 episods,0.4019,Positive,0.0,Neutral,-0.2572426199913025,Negative
@@ -315,7 +315,7 @@ Are you gonna play Star Wars,-0.296,Negative,0.0,Neutral,0.2240887433290481,Neut
 You should watch moon night on disney+ good story line👍,0.4404,Positive,0.7,Positive,0.5128693580627441,Positive
 Yesssssssssssssss,0.0,Neutral,0.0,Neutral,-0.3214862048625946,Negative
 Yes you should watch it now,0.4019,Positive,0.0,Neutral,0.4949929118156433,Positive
-My first vid of watching TG was when  he did this rainbow chicken 😂😂😂 good ole days,0.891,Positive,0.1166666666666666,Neutral,0.4213387370109558,Positive
+My first vid of watching TG was when  he did this rainbow chicken 😂😂😂 good ole days,0.891,Positive,0.1166666666666666,Positive,0.4213387370109558,Positive
 At 3:16 he has 69 shield😂😂,0.7003,Positive,0.0,Neutral,-0.5018553733825684,Negative
 You should watch it is good,0.4404,Positive,0.7,Positive,0.4756074845790863,Positive
 Yes you should watch it,0.4019,Positive,0.0,Neutral,0.4286735355854034,Positive
@@ -367,7 +367,7 @@ Love ur videos💞💞❣,0.9584,Positive,0.5,Positive,0.7569079399108887,Positi
 yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 I have the same skin:D,0.0,Neutral,0.0,Neutral,0.3070719242095947,Neutral
 I want this skin if you want to give it to me that will made my day  🙂 my username : very-farad0,0.5118,Positive,0.0,Neutral,0.221028059720993,Neutral
-Been watching TG for about 2-3 years now and he just boosts my confidence up to play fortnite and get kills and wins,0.802,Positive,0.3,Neutral,0.6820502877235413,Positive
+Been watching TG for about 2-3 years now and he just boosts my confidence up to play fortnite and get kills and wins,0.802,Positive,0.3,Positive,0.6820502877235413,Positive
 "Tg: 9:50 my aim is so bad right now 
 Me: we’ll mine every day, i don’t wanna talk about it",-0.6696,Negative,-0.207142857142857,Negative,-0.5506579875946045,Negative
 Watch moon night,0.0,Neutral,0.0,Neutral,0.2990838289260864,Neutral
@@ -381,7 +381,7 @@ Moon night is so good,0.5777,Positive,0.7,Positive,0.5632374286651611,Positive
 "I'm really sad they removed the spidey mythic from the game, if they only bring it back but make them something else, like a grabatron idk a name but u get it",0.1163,Positive,-0.225,Negative,-0.4132730364799499,Negative
 It is very good,0.4927,Positive,0.91,Positive,0.4637863636016845,Positive
 Hope everybody is having a good day God bless,0.8658,Positive,0.7,Positive,0.4886577129364013,Positive
-So live stream,0.0,Neutral,0.1363636363636363,Neutral,0.3361394107341766,Positive
+So live stream,0.0,Neutral,0.1363636363636363,Positive,0.3361394107341766,Positive
 Yes you should because it is good it lest I love it,0.8689,Positive,0.6,Positive,0.4796804785728454,Positive
 Love you,0.6369,Positive,0.5,Positive,0.8381887674331665,Positive
 Moonight is on disney plus,0.0,Neutral,0.0,Neutral,0.3123267889022827,Neutral
@@ -400,7 +400,7 @@ should watch it",0.4404,Positive,0.7,Positive,0.4891455769538879,Positive
 Keep up the good work,0.4404,Positive,0.7,Positive,0.2573175430297851,Neutral
 Could I be on your next vid plz,0.0772,Positive,0.0,Neutral,0.2930015325546264,Neutral
 can't wait for episode five of moon night,0.0,Neutral,0.0,Neutral,0.3546817600727081,Positive
-that Wu-Tang glider is sick. i am fairly new to this game so it's cool seeing everything i missed but sad i can't get most of it lol,-0.2536,Negative,0.024582560296846,Neutral,0.4926650524139404,Positive
+that Wu-Tang glider is sick. i am fairly new to this game so it's cool seeing everything i missed but sad i can't get most of it lol,-0.2536,Negative,0.024582560296846,Positive,0.4926650524139404,Positive
 can someone pls gift me the moon knight pls,0.5423,Positive,0.0,Neutral,0.3635047078132629,Positive
 well done on #3 trending on gaming u deserve it,0.2732,Positive,0.0,Neutral,0.7591486573219299,Positive
 moon knight is good very good,0.7264,Positive,0.8049999999999999,Positive,0.5251246094703674,Positive
@@ -428,7 +428,7 @@ You should watch moonight before you play as the character again,0.34,Positive,0
 Yeah wach moon knight,0.296,Positive,0.0,Neutral,0.2843838036060333,Neutral
 thank you for listening tg you the goat fr,0.3612,Positive,0.0,Neutral,0.5036301016807556,Positive
 Ye plz watch it is is great,0.6597,Positive,0.8,Positive,0.6814384460449219,Positive
-All my friends are flexing on me with the new skins😭😭😭,-0.7351,Negative,0.1363636363636363,Neutral,0.7113407254219055,Positive
+All my friends are flexing on me with the new skins😭😭😭,-0.7351,Negative,0.1363636363636363,Positive,0.7113407254219055,Positive
 i thought kolomb berries were valted,0.0,Neutral,0.0,Neutral,-0.4105446934700012,Negative
 "You should watch MoonKnight it,it can be complicated at times but it’s really interesting",0.611,Positive,0.0,Neutral,0.5979273915290833,Positive
 Can you give me a coon in Fortnite I want this car ALTO my name is ranBabyYoda,0.0772,Positive,0.0,Neutral,0.4274387955665588,Positive
@@ -453,7 +453,7 @@ They should have made his glider his cape that shapes like a moon,0.3612,Positiv
 Moon knight is a good season on Disney +,0.4404,Positive,0.7,Positive,0.57371985912323,Positive
 WATCH MOONIGHT PLZZZZ YOU WILL LOVE IT,0.6369,Positive,0.5,Positive,0.6778988838195801,Positive
 does anyone care to take some time out of there day and watch my video i uploaded? I would like to know if i should keep uploading or not.,0.6908,Positive,0.0,Neutral,-0.3146045804023742,Negative
-Bots may say but you never fail to disappoint mw,0.7692,Positive,0.25,Neutral,0.346198707818985,Positive
+Bots may say but you never fail to disappoint mw,0.7692,Positive,0.25,Positive,0.346198707818985,Positive
 yes you should watch it.,0.4019,Positive,0.0,Neutral,0.4462339282035827,Positive
 You should go revolver only challenge,0.0772,Positive,0.0,Neutral,0.2513857781887054,Neutral
 You should do a tank only challenge,0.0772,Positive,0.0,Neutral,0.2603480815887451,Neutral
@@ -465,18 +465,18 @@ Yah you should watch it,0.0,Neutral,0.0,Neutral,0.3666021525859833,Positive
 Yes bro it’s so good,0.7537,Positive,0.7,Positive,0.5813822150230408,Positive
 I got that skin,0.0,Neutral,0.0,Neutral,0.3309043645858764,Positive
 Aeejkk a,0.0,Neutral,0.0,Neutral,0.2866703271865845,Neutral
-Would've been cool if it was grey and gold or grey and mythic since he has those gold Cresent moon blades,0.4019,Positive,0.0833333333333333,Neutral,0.3179461061954498,Neutral
+Would've been cool if it was grey and gold or grey and mythic since he has those gold Cresent moon blades,0.4019,Positive,0.0833333333333333,Positive,0.3179461061954498,Neutral
 Yes watch Moon night,0.4019,Positive,0.0,Neutral,0.4208389520645141,Positive
-Can you realy give me moon kniht skin,0.0,Neutral,0.2,Neutral,-0.2624580264091491,Negative
+Can you realy give me moon kniht skin,0.0,Neutral,0.2,Positive,-0.2624580264091491,Negative
 You should watch it,0.0,Neutral,0.0,Neutral,0.3107419908046722,Neutral
 U could use legendary wepons cuz moon knights crescent darts are yellow,-0.4404,Negative,0.5,Positive,0.2552248239517212,Neutral
 I forgot to use ur code :v,0.0,Neutral,0.0,Neutral,-0.3240639865398407,Negative
 you should watch it \,0.0,Neutral,0.0,Neutral,0.3479653298854828,Positive
-"I have been watching TG for a few months and I must say, he is the best Fortnite YouTuber EVER. He posts every day, his videos are so creative and thanks to him, I unlocked the Prowler Skin, so once again, thanks Typical Gamer",0.9357,Positive,0.2555555555555555,Neutral,0.8934884071350098,Positive
+"I have been watching TG for a few months and I must say, he is the best Fortnite YouTuber EVER. He posts every day, his videos are so creative and thanks to him, I unlocked the Prowler Skin, so once again, thanks Typical Gamer",0.9357,Positive,0.2555555555555555,Positive,0.8934884071350098,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
-Great game,0.6249,Positive,0.2,Neutral,0.6704409122467041,Positive
+Great game,0.6249,Positive,0.2,Positive,0.6704409122467041,Positive
 Wonder if he would ever try a no hit challenge? Where he cant take a single hit in damage the whole game.,-0.683,Negative,-0.0904761904761904,Negative,-0.6081421971321106,Negative
-I love your vids I watch them everyday,0.6369,Positive,0.15,Neutral,0.8151350021362305,Positive
+I love your vids I watch them everyday,0.6369,Positive,0.15,Positive,0.8151350021362305,Positive
 OKAY !!,0.4968,Positive,0.78125,Positive,0.7905511856079102,Positive
 can you do the ranger shotgun challenge but the ranger shot gun should be gold only.,-0.4497,Negative,0.0,Neutral,0.3924679756164551,Positive
 Pls TG watch Moon Knight it's so lit,0.0772,Positive,0.0,Neutral,0.4744708240032196,Positive
@@ -493,15 +493,15 @@ Ranchdressen564,0.0,Neutral,0.0,Neutral,0.2727982103824615,Neutral
 I'm sorry to ask this but could you gift me the moon knight  skin?,0.5719,Positive,-0.5,Negative,0.2821694314479828,Neutral
 I watch moon Knight and I love it it is on Disney +,0.6369,Positive,0.5,Positive,0.7796099781990051,Positive
 Can you gift me,0.4404,Positive,0.0,Neutral,0.4287277162075043,Positive
-Watch it on live,0.0,Neutral,0.1363636363636363,Neutral,0.4884069263935089,Positive
-Watch it on live,0.0,Neutral,0.1363636363636363,Neutral,0.4884069263935089,Positive
+Watch it on live,0.0,Neutral,0.1363636363636363,Positive,0.4884069263935089,Positive
+Watch it on live,0.0,Neutral,0.1363636363636363,Positive,0.4884069263935089,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 I have Watch movie night and it was good I am A big marvel fan,0.7906,Positive,0.35,Positive,0.480643630027771,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Username is becate I want a battle pass gift pls pls typical gamer,0.296,Positive,-0.1666666666666666,Negative,0.2818921506404876,Neutral
 But with chugs,0.0,Neutral,0.0,Neutral,0.4876565337181091,Positive
 He was singing the duck song,0.0,Neutral,0.0,Neutral,0.2435135394334793,Neutral
-Do a next to impossible challenge in zero build for good content. P.s only use the loot that you first pick us. For example you pick up a stinger smg you can’t have a combat smg. You are stuck with the stinger. So you would have to chose your loot wisely.,0.3818,Positive,0.1638888888888889,Neutral,0.3295367658138275,Neutral
+Do a next to impossible challenge in zero build for good content. P.s only use the loot that you first pick us. For example you pick up a stinger smg you can’t have a combat smg. You are stuck with the stinger. So you would have to chose your loot wisely.,0.3818,Positive,0.1638888888888889,Positive,0.3295367658138275,Neutral
 I subscribed INSTANTLY,0.0,Neutral,0.0,Neutral,0.6904593110084534,Positive
 u should watch moon knight its a really good show,0.4927,Positive,0.7,Positive,0.4746592938899994,Positive
 please gift me the moon knight im 3J2020 PLEAAAAAASE,0.6369,Positive,0.0,Neutral,0.4162942767143249,Positive
@@ -516,18 +516,18 @@ Yes 100% watch the show tell what you think cause you might think deferent then 
 chapter 3 season 2 TG!,0.0,Neutral,0.0,Neutral,0.472623735666275,Positive
 "1:50 What are you saying? It doesn't matter to us you're just being Andre, The TypicalGamer we know and love and whatever you say is Gold my friend 🤗",0.8786,Positive,0.5,Positive,0.4046001136302948,Positive
 "Watch the moon knight show, it has plot twists in it! Even my parents friends is an actor of moon knight.",0.5255,Positive,0.0,Neutral,0.4699232876300812,Positive
-hey TG you should do a coachella randomizer challenge. gray weapons if you get: lyric. green weapons if you get: alto. blue weapons if you get: wilder. and finally purple weapons if you get: poet. do you like this idea?,-0.8316,Negative,0.0124999999999999,Neutral,0.2304606139659881,Neutral
+hey TG you should do a coachella randomizer challenge. gray weapons if you get: lyric. green weapons if you get: alto. blue weapons if you get: wilder. and finally purple weapons if you get: poet. do you like this idea?,-0.8316,Negative,0.0124999999999999,Positive,0.2304606139659881,Neutral
 Yes watch it,0.4019,Positive,0.0,Neutral,0.4635461270809173,Positive
-How doese hé have 100 wind this season and 123 Crown wins,0.8126,Positive,0.3,Neutral,0.6611681580543518,Positive
+How doese hé have 100 wind this season and 123 Crown wins,0.8126,Positive,0.3,Positive,0.6611681580543518,Positive
 La cama Videos,0.0,Neutral,0.0,Neutral,0.2893444001674652,Neutral
 Yessssssss,0.0,Neutral,0.0,Neutral,-0.3590376377105713,Negative
 "I almost won with the worst weapons, at least baf together",-0.5563,Negative,-0.65,Negative,-0.5398916006088257,Negative
 Yes moon knight is the best marvel show.,0.8658,Positive,1.0,Positive,0.8401318192481995,Positive
 You should watch the Moon Knight show I watch it and it is so good,0.5777,Positive,0.7,Positive,0.6273490786552429,Positive
-ranger shotgun is good cuz you can smg combo with it and deal heavy damage,-0.0772,Negative,0.2499999999999999,Neutral,0.4912258088588714,Positive
+ranger shotgun is good cuz you can smg combo with it and deal heavy damage,-0.0772,Negative,0.2499999999999999,Positive,0.4912258088588714,Positive
 i watched it it is awesome def watch it i liked it so much i got the skin,0.7845,Positive,0.6,Positive,0.7401856780052185,Positive
 Bro you need to watch Moon Knight,0.0,Neutral,0.0,Neutral,0.2798967361450195,Neutral
-This can’t be real. The first couple people he was fighting weren’t even shooting. The guy at 2:43. He didn’t even try to fight. How do I get this lobby?,-0.6092,Negative,0.225,Neutral,-0.7445196509361267,Negative
+This can’t be real. The first couple people he was fighting weren’t even shooting. The guy at 2:43. He didn’t even try to fight. How do I get this lobby?,-0.6092,Negative,0.225,Positive,-0.7445196509361267,Negative
 You should watch moon light it is so good.,0.5777,Positive,0.55,Positive,0.5067036747932434,Positive
 I never watched it so idk if you should watch it but what I have heard you probably should watch it,-0.1111,Negative,0.0,Neutral,0.370629608631134,Positive
 i have not won with gold wepons and you won with grey lol,0.2028,Positive,0.375,Positive,-0.360713392496109,Negative
@@ -539,7 +539,7 @@ can you gift me the moon knight skin please?,0.6369,Positive,0.0,Neutral,0.22244
 U can kill doctor slone with a tank and it will take a minute or two,-0.6908,Negative,0.0,Neutral,0.2965982258319855,Neutral
 Honestly tg moon knight show has been pretty interesting so far,0.836,Positive,0.3625,Positive,0.544955313205719,Positive
 Moonlight is where this guy has dreams but it’s not really happening and then there’s this thing where he has something in the mirror but everything that he’s doing the mirror doesn’t do something else is in the mirror and then the mirror dude that in the mirror takes over him to turn into moon night,0.2144,Positive,-0.1,Negative,0.3371409773826599,Positive
-How much is he,0.0,Neutral,0.2,Neutral,0.2521502673625946,Neutral
+How much is he,0.0,Neutral,0.2,Positive,0.2521502673625946,Neutral
 Ep 4 is Pretty bloody tho,0.0772,Positive,-0.275,Negative,0.3214749097824096,Neutral
 Yes you got to watch .it's a mazing,0.4019,Positive,0.0,Neutral,0.2354087978601455,Neutral
 YES,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
@@ -547,27 +547,27 @@ Moon Knight is pretty good,0.7269,Positive,0.475,Positive,0.5084793567657471,Pos
 Who else loves tg,0.5719,Positive,0.0,Neutral,0.4552197754383087,Positive
 Marvel copied DC,0.4215,Positive,0.0,Neutral,0.2334155440330505,Neutral
 yes watch moon night,0.4019,Positive,0.0,Neutral,0.4208389520645141,Positive
-U should watch moon knight it is  cool but also trippy so if u get confused it's  fine 👍 🙂,0.5362,Positive,0.1222222222222222,Neutral,0.5314671397209167,Positive
+U should watch moon knight it is  cool but also trippy so if u get confused it's  fine 👍 🙂,0.5362,Positive,0.1222222222222222,Positive,0.5314671397209167,Positive
 Plz upload vending machine only challenge,0.1531,Positive,0.0,Neutral,0.2391597926616668,Neutral
 heat vison look like powerler vison in the moive,0.6705,Positive,0.0,Neutral,0.2556337118148803,Neutral
 Moonknight is a MUST WATCH !! Such a great show,0.6892,Positive,0.4,Positive,0.9262651205062866,Positive
-I love when Typical Gamer says bud buddy buckaroo,0.6369,Positive,0.1666666666666666,Neutral,0.4343166351318359,Positive
+I love when Typical Gamer says bud buddy buckaroo,0.6369,Positive,0.1666666666666666,Positive,0.4343166351318359,Positive
 White,0.0,Neutral,0.0,Neutral,0.2609786689281463,Neutral
 Watch it,0.0,Neutral,0.0,Neutral,0.4453325569629669,Positive
 What is that glider,0.0,Neutral,0.0,Neutral,0.3614919781684875,Positive
 🌙,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I feel like they could have done a little bit more for the moon knight skin it felt rushed,0.3612,Positive,0.15625,Neutral,0.5574231743812561,Positive
+I feel like they could have done a little bit more for the moon knight skin it felt rushed,0.3612,Positive,0.15625,Positive,0.5574231743812561,Positive
 Watch the show it is so entertaining,0.5777,Positive,0.5,Positive,0.6575531363487244,Positive
 yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 yes ı watched ıt,0.4019,Positive,0.0,Neutral,0.4853200614452362,Positive
 He would win easily,0.7351,Positive,0.6166666666666667,Positive,0.3394303917884826,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
-I need help to get better at the game,0.6808,Positive,0.0499999999999999,Neutral,0.4390563368797302,Positive
+I need help to get better at the game,0.6808,Positive,0.0499999999999999,Positive,0.4390563368797302,Positive
 you should watch moon knight its so cool,0.4572,Positive,0.35,Positive,0.5752303004264832,Positive
 I watched the moon knight show it is good,0.4404,Positive,0.7,Positive,0.4789769053459167,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Hi everyone has your day going and your day going on tipkol gomre,0.0,Neutral,0.0,Neutral,0.4767588973045349,Positive
-I have challenge for you TG a sniper challenge only that's that only weapon you can use your videos or great I learn a lot from you but I want you do really do the impossible,0.4019,Positive,0.0666666666666666,Neutral,0.3399934768676758,Positive
+I have challenge for you TG a sniper challenge only that's that only weapon you can use your videos or great I learn a lot from you but I want you do really do the impossible,0.4019,Positive,0.0666666666666666,Positive,0.3399934768676758,Positive
 I wonder why they isn’t in pro am,0.0,Neutral,0.0,Neutral,0.3331217169761657,Positive
 thanks for the amazing content!,0.7901,Positive,0.4750000000000001,Positive,0.8138234615325928,Positive
 "yes you should watch it, it is amazing!",0.7777,Positive,0.7500000000000001,Positive,0.8670628070831299,Positive
@@ -582,12 +582,12 @@ yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 how does he have no recoil?,-0.296,Negative,0.0,Neutral,0.3918668031692505,Positive
 Yes watch the moonknight show,0.4019,Positive,0.0,Neutral,0.4707869589328766,Positive
 Mid video,0.0,Neutral,0.0,Neutral,-0.3291840255260467,Negative
-I haven’t watched it but I really think you should,0.0,Neutral,0.2,Neutral,0.3807452619075775,Positive
+I haven’t watched it but I really think you should,0.0,Neutral,0.2,Positive,0.3807452619075775,Positive
 Yes he should watch moon knight,0.4019,Positive,0.0,Neutral,0.3207820653915405,Neutral
 yes you should its sooo good,0.7537,Positive,0.7,Positive,0.3505358099937439,Positive
 You should watch it is very cool,0.3804,Positive,0.4549999999999999,Positive,0.5892955660820007,Positive
 You should watch MOON Knight it’s sooooo good,0.4404,Positive,0.7,Positive,0.4307721257209778,Positive
-"Moon knight is my favorite of any other marvel show, but it might be very confusing if you dont know much about him",0.0285,Neutral,0.04625,Neutral,0.573518693447113,Positive
+"Moon knight is my favorite of any other marvel show, but it might be very confusing if you dont know much about him",0.0285,Neutral,0.04625,Positive,0.573518693447113,Positive
 You should watch it it's so cool and he was sleeping and when he woke up and he's girlfriend call him and she said that he was not picking up her call's,0.4572,Positive,0.35,Positive,0.3457012474536896,Positive
 Yes you should definitely watch moon knight it is awesome,0.8591,Positive,0.5,Positive,0.803159236907959,Positive
 I wish I could play Fortnite with Tg,0.6249,Positive,0.0,Neutral,0.3258539736270904,Neutral
@@ -601,7 +601,7 @@ Yes you should watch moon night.,0.4019,Positive,0.0,Neutral,0.4651643931865692,
 No,-0.296,Negative,0.0,Neutral,-0.531922459602356,Negative
 I got the skin and I’m watching the show it’s so insane I love it you should definitely watch it TG,0.5679,Positive,-0.1666666666666666,Negative,0.9000056385993958,Positive
 Yes you should watch moon knight it’s a great show👍,0.7783,Positive,0.8,Positive,0.7463878393173218,Positive
-Stop gaming you do way too much Fortnite,-0.296,Negative,0.2,Neutral,-0.6215881705284119,Negative
+Stop gaming you do way too much Fortnite,-0.296,Negative,0.2,Positive,-0.6215881705284119,Negative
 Watch moon night I watch almost all your veido,0.0,Neutral,0.0,Neutral,0.5456046462059021,Positive
 yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Yes watch it,0.4019,Positive,0.0,Neutral,0.4635461270809173,Positive
@@ -617,7 +617,7 @@ One episode every wednesday,0.0,Neutral,0.0,Neutral,-0.6461975574493408,Negative
 Ya it's on Disney Plus Moon night yeah it's on there I'm going to watch it in a minute,0.296,Positive,0.0,Neutral,0.4220380485057831,Positive
 Watch moon knight!!,0.0,Neutral,0.0,Neutral,0.4790038764476776,Positive
 Moon knight show is the best,0.6369,Positive,1.0,Positive,0.7812795639038086,Positive
-TG you should watch Moon Knight it's epic,0.0,Neutral,0.1,Neutral,0.5957747101783752,Positive
+TG you should watch Moon Knight it's epic,0.0,Neutral,0.1,Positive,0.5957747101783752,Positive
 "Yes, you should watch moon Knight it's really good",0.7089,Positive,0.7,Positive,0.4629774093627929,Positive
 No,-0.296,Negative,0.0,Neutral,-0.531922459602356,Negative
 You should watch it,0.0,Neutral,0.0,Neutral,0.3107419908046722,Neutral

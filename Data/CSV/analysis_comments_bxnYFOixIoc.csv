@@ -2,14 +2,14 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 "Listening all the way from SA♥♥♥♥ ,",0.9571,Positive,0.0,Neutral,0.3846138715744018,Positive
 "I'm leaving this comment here so after a month or a year
 when someone likes it, I get reminded of this song❤️",0.4215,Positive,0.0,Neutral,-0.2782900929450989,Negative
-sahi aper gud,0.0,Neutral,0.2857142857142857,Neutral,-0.2611760795116424,Negative
+sahi aper gud,0.0,Neutral,0.2857142857142857,Positive,-0.2611760795116424,Negative
 love indian songs,0.6369,Positive,0.5,Positive,0.5580951571464539,Positive
 207M sub 🥺,0.0,Neutral,0.0,Neutral,0.2689723074436188,Neutral
 "11:02 Honey, you dropped this lover!",0.6996,Positive,0.0,Neutral,-0.4159180819988251,Negative
 I will be watching with nora super dancer,0.5994,Positive,0.3333333333333333,Positive,0.7083778977394104,Positive
 Sorry,-0.0772,Negative,-0.5,Negative,-0.5370847582817078,Negative
 Bhai maina to sarswati puja ma a gana bajaa to maja a gaya,0.6249,Positive,0.5,Positive,0.2699341177940368,Neutral
-"Right, *,,, ⭐⭐⭐⭐⭐",0.0,Neutral,0.2857142857142857,Neutral,0.3475385904312134,Positive
+"Right, *,,, ⭐⭐⭐⭐⭐",0.0,Neutral,0.2857142857142857,Positive,0.3475385904312134,Positive
 I love india,0.6369,Positive,0.5,Positive,0.7777019739151001,Positive
 😆😆😆😆😆😆😆😆😆😆😆😀😀😀😀😀😀,0.9887,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Hello legends,0.0,Neutral,0.0,Neutral,0.6172789335250854,Positive
@@ -32,7 +32,7 @@ Only the last one ☝️ is 😍😍😂😍😍😂,0.9501,Positive,0.0,Neutral
 "Ultra pro lagends are listening 👂🏻 this song on 1st February 2022😍
 Give one like 👍",0.6705,Positive,0.0,Neutral,0.5638421773910522,Positive
 1:34 You're the reason behind my smile.,0.3612,Positive,-0.05,Negative,0.4127346575260162,Positive
-This isn't Indian music but cool. especially the second one there is nothing Indy,0.4497,Positive,0.1166666666666666,Neutral,0.4345639050006866,Positive
+This isn't Indian music but cool. especially the second one there is nothing Indy,0.4497,Positive,0.1166666666666666,Positive,0.4345639050006866,Positive
 t sires op song,0.0,Neutral,0.0,Neutral,0.2984586656093597,Neutral
 These are one of my favorites😊,0.8316,Positive,0.0,Neutral,0.8289809823036194,Positive
 "Ultimate😋✨ sacrifice fabulous fantastic🤘😝🤘he.., *******†**all song 🎵🎵🎵🎵🎵🎵🎵🎵y, west he..",0.8519,Positive,0.4,Positive,0.7546101808547974,Positive
@@ -45,7 +45,7 @@ I am ultra pro legend,0.0,Neutral,0.0,Neutral,0.7221968770027161,Positive
 0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
 I just lv dis song,0.0,Neutral,0.0,Neutral,-0.4419321119785309,Negative
 O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
-good but thode jidya hi ads hai,-0.0671,Negative,0.1708333333333333,Neutral,0.5200890898704529,Positive
+good but thode jidya hi ads hai,-0.0671,Negative,0.1708333333333333,Positive,0.5200890898704529,Positive
 Very nice and very good,0.742,Positive,0.845,Positive,0.7273182272911072,Positive
 Any 👀 in 2022,0.0,Neutral,0.0,Neutral,-0.3151498436927795,Negative
 Ultra pro max legends are listening this in January 2023,0.0,Neutral,0.0,Neutral,0.5428584218025208,Positive
@@ -54,7 +54,7 @@ Love from INDIA",0.9146,Positive,0.7333333333333334,Positive,0.5564546585083008,
 Best jukebox,0.6369,Positive,1.0,Positive,0.9061129689216614,Positive
 I love you S1 feedback,0.6369,Positive,0.5,Positive,0.837961733341217,Positive
 "Atif aslam🇵🇰 and arjit singh🇮🇳 ❤❤ both are brilliant, love from 🇵🇰❤",0.9705,Positive,0.7,Positive,0.8604427576065063,Positive
-I’m Russian but I love Indian songs i really like  indian songs it pretty cool,0.9568,Positive,0.2599999999999999,Neutral,0.4495011866092682,Positive
+I’m Russian but I love Indian songs i really like  indian songs it pretty cool,0.9568,Positive,0.2599999999999999,Positive,0.4495011866092682,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 Still my favorite playlist <3,0.7096,Positive,0.75,Positive,0.6645970940589905,Positive
@@ -66,7 +66,7 @@ Who suddenly remembered this song and came here to listen,0.0,Neutral,0.0,Neutra
 "➕➕🅰🅰🅰➕➕
 🍀🍀😊😊😊🍀🍀
 📖📖🙏🙏🙏📖📖",0.9517,Positive,0.0,Neutral,0.3761328756809234,Positive
-Very positive and dancefull nation,0.5984,Positive,0.2954545454545454,Neutral,0.7632023096084595,Positive
+Very positive and dancefull nation,0.5984,Positive,0.2954545454545454,Positive,0.7632023096084595,Positive
 Ultra pro legends are watching in 2022,0.0,Neutral,0.0,Neutral,0.5988649725914001,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Jan 2022 👍🏻,0.0,Neutral,0.0,Neutral,-0.2651568055152893,Negative
@@ -86,13 +86,13 @@ if they t series song India i am from not telling you t series,0.0,Neutral,0.0,N
 Legend look after 3 year,0.0,Neutral,0.0,Neutral,-0.2557640969753265,Negative
 This song gives every Indian goosebumps 😊,0.7184,Positive,0.0,Neutral,0.7027919888496399,Positive
 "2:22 1At the bridge, you look at the scenery. A person who is looking at the secenry from upstairs is looking at you.",0.0,Neutral,0.0,Neutral,-0.2641956210136413,Negative
-13:33 Come live in my heart. It’s rent free.,0.8176,Positive,0.2681818181818182,Neutral,0.6124567985534668,Positive
+13:33 Come live in my heart. It’s rent free.,0.8176,Positive,0.2681818181818182,Positive,0.6124567985534668,Positive
 I enjoyed this in jolly mood 😂,0.8591,Positive,0.5,Positive,0.5145676136016846,Positive
 🅷🅰🅿🅿🆈 🆕 🆈🅴🅰🆁😘😘😘,0.8126,Positive,0.0,Neutral,0.3761328756809234,Positive
 Legend waching in 2022 🤩🤩,0.0,Neutral,0.0,Neutral,-0.3437760770320892,Negative
 "Who is listening in 2022 ? 
 👇",0.0,Neutral,0.0,Neutral,-0.3461268842220306,Negative
-To much pop-up ads!,0.0,Neutral,0.25,Neutral,-0.2861164212226867,Negative
+To much pop-up ads!,0.0,Neutral,0.25,Positive,-0.2861164212226867,Negative
 Ultra legend are waiting for 2022.,0.0,Neutral,0.0,Neutral,0.3294448852539062,Neutral
 1st dilbar 🥰❤️,0.0,Neutral,0.0,Neutral,0.4440860450267792,Positive
 Legend are listening this after 3 years,0.0,Neutral,0.0,Neutral,0.5381438136100769,Positive
@@ -106,7 +106,7 @@ I don't know about ultra legends but I am listening 22/12/2021,0.0,Neutral,0.0,N
 Watching in December 2021",0.6588,Positive,1.0,Positive,0.8696280717849731,Positive
 Dilbar😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Noob,-0.0516,Negative,0.0,Neutral,-0.6671278476715088,Negative
-"This is very pathetic. We loved this song collection and more than song, we have to listening to Advertisements. Dissapointed 😢😢😢",-0.8454,Negative,0.0666666666666666,Neutral,-0.918077290058136,Negative
+"This is very pathetic. We loved this song collection and more than song, we have to listening to Advertisements. Dissapointed 😢😢😢",-0.8454,Negative,0.0666666666666666,Positive,-0.918077290058136,Negative
 "Dilbar Neha Kakkar  and dwani voice I liked
 Soo cute their voice",0.3749,Positive,0.5,Positive,0.4543315470218658,Positive
 Indian dance is simply unbeatable...no comparison!❤🧡💯💯💯💯💯,0.8655,Positive,0.0,Neutral,-0.7143740057945251,Negative
@@ -117,7 +117,7 @@ Yeh kesa Aasar hai 💃💃💃👌👌👌👌👌,0.0,Neutral,0.0,Neutral,-0.2
 Alka Yagnik,0.0,Neutral,0.0,Neutral,0.2588431537151336,Neutral
 00:00,0.0,Neutral,0.0,Neutral,-0.2790062725543976,Negative
 Some songs are just copies from the original version,0.3182,Positive,0.375,Positive,0.4227377772331238,Positive
-JB MAINE DEKHA TO 20 MILLION VIEW THA AB KITNA H BTAO...TUMHARE TIME ME,0.0,Neutral,0.2,Neutral,-0.5185884833335876,Negative
+JB MAINE DEKHA TO 20 MILLION VIEW THA AB KITNA H BTAO...TUMHARE TIME ME,0.0,Neutral,0.2,Positive,-0.5185884833335876,Negative
 Legend watch at end of 2021,0.0,Neutral,0.0,Neutral,0.4821583330631256,Positive
 NICE SONGS GAYS PLEASE SABSCRIBE,0.6249,Positive,0.6,Positive,0.3807649612426758,Positive
 No. 7 song is my most fav,0.5095,Positive,0.5,Positive,0.4233185052871704,Positive
@@ -135,7 +135,7 @@ No. 7 song is my most fav,0.5095,Positive,0.5,Positive,0.4233185052871704,Positi
 ♪PATOLA► 36:15
 ♪CHHOTE CHHOTE PEG► 38:45
 ♪AASHIQ BANAYA AAPNE► 41:34
-♪KHALIBALI► 44:59",0.0,Neutral,0.16,Neutral,-0.2718324065208435,Negative
+♪KHALIBALI► 44:59",0.0,Neutral,0.16,Positive,-0.2718324065208435,Negative
 "Best song ,I share to all my friends. 😉",0.8591,Positive,1.0,Positive,0.936421513557434,Positive
 Misic🙂,0.4033,Positive,0.0,Neutral,0.3085779249668121,Neutral
 8:49 I do love you at the first sight.,0.6369,Positive,0.375,Positive,0.711263120174408,Positive
@@ -167,7 +167,7 @@ Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 $",0.0,Neutral,0.0,Neutral,-0.2876296937465668,Negative
 00:30,0.0,Neutral,0.0,Neutral,-0.2617388963699341,Negative
 Any one said any thing wrong about India just don't lestening to them India so much advanced they are produce any thing they want they in proceed Jai ho,-0.1335,Negative,-0.0499999999999999,Negative,-0.580722451210022,Negative
-Thanks again2w again2w reqw we,0.4404,Positive,0.2,Neutral,0.6480907201766968,Positive
+Thanks again2w again2w reqw we,0.4404,Positive,0.2,Positive,0.6480907201766968,Positive
 Nice collection of songs ❤️,0.4215,Positive,0.6,Positive,0.4983971416950226,Positive
 Pozdrav od Melbourne MK INDIA,0.4215,Positive,0.0,Neutral,0.3947838246822357,Positive
 Mashallah,0.0,Neutral,0.0,Neutral,-0.3317760229110718,Negative
@@ -177,7 +177,7 @@ T-Series is the best channel proud of India 😎😎🇮🇳🇮🇳🇮🇳🇮
 IS BEST songs,0.7125,Positive,1.0,Positive,0.7535155415534973,Positive
 ❤️❤️❤️T-series,0.0,Neutral,0.0,Neutral,0.3797347843647003,Positive
 the best nasihat,0.6369,Positive,1.0,Positive,0.9019097089767456,Positive
-Ultra-pro Legends are listening this masterpiece in 2022.thank you so much for 1.5k likes 😘😘😍😍,0.96,Positive,0.2,Neutral,0.8811277747154236,Positive
+Ultra-pro Legends are listening this masterpiece in 2022.thank you so much for 1.5k likes 😘😘😍😍,0.96,Positive,0.2,Positive,0.8811277747154236,Positive
 Any one in 2022?,0.0,Neutral,0.0,Neutral,-0.5939314961433411,Negative
 "Anyone here in Oct, 2021",0.0,Neutral,0.0,Neutral,-0.6230061650276184,Negative
 Anyone is listening 🎧 in Oct 27??,0.0,Neutral,0.0,Neutral,-0.7719051241874695,Negative
@@ -194,7 +194,7 @@ My favourite songs,0.0,Neutral,0.0,Neutral,0.8682894706726074,Positive
 "They are going to reach 200 million
 What is waiting for them❤❤",0.8591,Positive,0.0,Neutral,-0.3554472923278808,Negative
 ❤❤❤❤❤❤❤🥇🥇🥇🥇😊😊😊😀😀,0.9964,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Too much ad is coming,0.0,Neutral,0.2,Neutral,-0.4594932496547699,Negative
+Too much ad is coming,0.0,Neutral,0.2,Positive,-0.4594932496547699,Negative
 Anyone is listening here in October 2021,0.0,Neutral,0.0,Neutral,-0.5965020060539246,Negative
 October 12😍,0.4588,Positive,0.0,Neutral,-0.2484900653362274,Negative
 Anyone Is Listening 🎶 In OCT 2021 🤩😅,0.3612,Positive,0.0,Neutral,-0.5475441217422485,Negative
@@ -226,7 +226,7 @@ Thus is si nice song,0.5598,Positive,0.6,Positive,0.4341310858726501,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 The one and only ATIF ASLAM ❤️,0.0,Neutral,0.0,Neutral,0.5326231718063354,Positive
 Sep19.2021 😂🔥,0.0,Neutral,0.0,Neutral,-0.3432528972625732,Negative
-Sara and her sister have been married and suits her sister since she died from her death and suits her children with her children,-0.8176,Negative,0.25,Neutral,0.4652788937091827,Positive
+Sara and her sister have been married and suits her sister since she died from her death and suits her children with her children,-0.8176,Negative,0.25,Positive,0.4652788937091827,Positive
 Anyone is listening here in September 2021😍😍,0.7184,Positive,0.0,Neutral,-0.4583719372749328,Negative
 Anyone_listening_in_september_2021?🥰🥰❤️❤️,0.9393,Positive,0.0,Neutral,-0.6253873109817505,Negative
 https://youtu.be/ZTI3LVKFNmw,0.0,Neutral,0.0,Neutral,-0.2439261823892593,Negative
@@ -252,7 +252,7 @@ Maybe..
 The old I had longely died..
 
 2. Want not to wonder you that I'm not the one you love..
-That I'm not the affable",0.75,Positive,0.290625,Neutral,-0.4393051266670227,Negative
+That I'm not the affable",0.75,Positive,0.290625,Positive,-0.4393051266670227,Negative
 Anyone in September 2021?,0.0,Neutral,0.0,Neutral,-0.6951341032981873,Negative
 AFTER VERY LONG TIME I SAW SHAHID DANCE IN URVASHI SONG. iT'S REALLY GREAT TO SEE HIM DANCE SUPERBLY AS HE WAS BEFORE. I REALLY LOVE HIS DANCE  LIKE HRITHIK.,0.952,Positive,0.5587500000000001,Positive,0.6800427436828613,Positive
 https://youtu.be/wY3GGAW5W_E,0.0,Neutral,0.0,Neutral,0.2213820368051529,Neutral
@@ -267,7 +267,7 @@ Atif ❤️👌,0.7297,Positive,0.0,Neutral,0.3664562404155731,Positive
 Legends are watching in 2021,0.0,Neutral,0.0,Neutral,0.5098500847816467,Positive
 Anyone is Listening this songs in the month of  September-2021,0.0,Neutral,0.0,Neutral,-0.3874457478523254,Negative
 Anyone listening in august,0.0,Neutral,0.0,Neutral,-0.3726687133312225,Negative
-Bruh last song blew me away! It's so powerful! I very much want to watch whatever movie or show this is from now 😆,0.8063,Positive,0.2116666666666666,Neutral,0.7835201621055603,Positive
+Bruh last song blew me away! It's so powerful! I very much want to watch whatever movie or show this is from now 😆,0.8063,Positive,0.2116666666666666,Positive,0.7835201621055603,Positive
 Best,0.6369,Positive,1.0,Positive,0.7400628328323364,Positive
 👌🤘🤘🤘,0.7297,Positive,0.0,Neutral,0.3085779249668121,Neutral
 All My favourite song,0.0,Neutral,0.0,Neutral,0.8793467879295349,Positive
@@ -288,7 +288,7 @@ OH HUMSAFAR = 32:53
 PATOLA = 36:15
 CHHOTE CHHOTE PEG = 38:45
 AASHIQ BANAYA AAPNE = 41:34
-KHALIBALI = 44:59",0.0,Neutral,0.16,Neutral,-0.4417562782764435,Negative
+KHALIBALI = 44:59",0.0,Neutral,0.16,Positive,-0.4417562782764435,Negative
 I am listing in 2021 September,0.0,Neutral,0.0,Neutral,0.313393622636795,Neutral
 how many people not belive in god comment,-0.2057,Negative,0.5,Positive,-0.4094845950603485,Negative
 Super hit,0.5994,Positive,0.3333333333333333,Positive,0.8621318340301514,Positive
@@ -296,7 +296,7 @@ Me in September 2021,0.0,Neutral,0.0,Neutral,-0.2886821031570434,Negative
 anyone here listening in september 2021?😍😍❤️❤️,0.7184,Positive,0.0,Neutral,-0.6472964286804199,Negative
 Any one see this video in September 2021?,0.0,Neutral,0.0,Neutral,-0.6240993738174438,Negative
 Anyone in September 2021?,0.0,Neutral,0.0,Neutral,-0.6951341032981873,Negative
-If you are watching this song after 3 years..you are absolutely a legend❤️_____,0.0,Neutral,0.2,Neutral,-0.4448843598365783,Negative
+If you are watching this song after 3 years..you are absolutely a legend❤️_____,0.0,Neutral,0.2,Positive,-0.4448843598365783,Negative
 "DILBAR = 00:00
 BOM DIGGY DIGGY = 02:56
 MILEGI MILEGI = 06:08
@@ -313,7 +313,7 @@ CHHOTE CHHOTE PEG = 38:45
 AASHIQ BANAYA AAPNE = 41:34
 KHALIBALI = 44:59
 
-Time chapters",0.0,Neutral,0.16,Neutral,-0.2646020352840423,Negative
+Time chapters",0.0,Neutral,0.16,Positive,-0.2646020352840423,Negative
 Anyone here in September 2021??,0.0,Neutral,0.0,Neutral,-0.7523362636566162,Negative
 2021 🔥 sri lankan  ♥️,0.4215,Positive,1.0,Positive,0.4255878329277038,Positive
 "Anyone is listening in 2023.....
@@ -381,12 +381,12 @@ Yeah me,0.296,Positive,0.0,Neutral,0.3551103770732879,Positive
 Shraddha is best,0.6369,Positive,1.0,Positive,0.4562200307846069,Positive
 Kise kise ye ganna accha laga,0.4215,Positive,0.0,Neutral,-0.2816197276115417,Negative
 Aug people attendence here,0.0,Neutral,0.0,Neutral,0.3038265705108642,Neutral
-Thanks to T-Series for giving all the stuff in the single video 😀,0.7783,Positive,0.0642857142857143,Neutral,0.5608176589012146,Positive
+Thanks to T-Series for giving all the stuff in the single video 😀,0.7783,Positive,0.0642857142857143,Positive,0.5608176589012146,Positive
 "0% percent understanding
 100% enjoyment",0.5574,Positive,0.0,Neutral,0.717353343963623,Positive
 43:03,0.0,Neutral,0.0,Neutral,0.2439070045948028,Neutral
 August 2021 here,0.0,Neutral,0.0,Neutral,0.2900576293468475,Neutral
-Too much ads 😢,-0.4767,Negative,0.2,Neutral,-0.4572782814502716,Negative
+Too much ads 😢,-0.4767,Negative,0.2,Positive,-0.4572782814502716,Negative
 Anyone listening in August 2021 😃😊🙂😀😄,0.9512,Positive,0.0,Neutral,-0.5329483151435852,Negative
 I want to this movie. Wat is the title?,0.0772,Positive,0.0,Neutral,-0.3197261691093445,Negative
 Okay,0.2263,Positive,0.5,Positive,0.7916316390037537,Positive
@@ -415,14 +415,14 @@ Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Today?,0.0,Neutral,0.0,Neutral,-0.2952918112277984,Negative
 https://youtu.be/tQded929hFQ,0.0,Neutral,0.0,Neutral,-0.2287551015615463,Negative
 44:59,0.0,Neutral,0.0,Neutral,0.2223021686077118,Neutral
-Abhi nujhe bhot ganda feel ho rha tha lekin ganaa sunte hi main gaane main hi ghul gya ji v iska creator matlab gaana kaha se laye ho saare sune hu sab ka jab aapne list banaya na bro dil khush ho gya aur jitne v taklif the sab dur ho gye love you and thanks bro😍😍👍👍👍👍👍👍👍👍👍👍😊😊😊😊,0.9883,Positive,0.2583333333333333,Neutral,0.3175007402896881,Neutral
+Abhi nujhe bhot ganda feel ho rha tha lekin ganaa sunte hi main gaane main hi ghul gya ji v iska creator matlab gaana kaha se laye ho saare sune hu sab ka jab aapne list banaya na bro dil khush ho gya aur jitne v taklif the sab dur ho gye love you and thanks bro😍😍👍👍👍👍👍👍👍👍👍👍😊😊😊😊,0.9883,Positive,0.2583333333333333,Positive,0.3175007402896881,Neutral
 https://youtu.be/3YkBR8dxfDM,0.0,Neutral,0.0,Neutral,0.2306536883115768,Neutral
 best collection these all songs,0.6369,Positive,1.0,Positive,0.9316179156303406,Positive
 Ya I am,0.0,Neutral,0.0,Neutral,0.3865364491939544,Positive
 w(n0,0.0,Neutral,0.0,Neutral,0.2281412780284881,Neutral
 මේක බලන ලංකාවෙ අය මේ පැත්තට..... 👍,0.0,Neutral,0.0,Neutral,0.2624816298484802,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
-I unfortunately really enjoy some of this music but this attitude in most music videos might potentially be the reason why emancipation and women's rights haven't reached this continent yet... But what would I know...,0.0265,Neutral,0.3,Neutral,0.4859127402305603,Positive
+I unfortunately really enjoy some of this music but this attitude in most music videos might potentially be the reason why emancipation and women's rights haven't reached this continent yet... But what would I know...,0.0265,Neutral,0.3,Positive,0.4859127402305603,Positive
 I am listening song 2021,0.0,Neutral,0.0,Neutral,0.3509844541549682,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Very very very very very very very very very very very very very nice video,0.5625,Positive,0.78,Positive,0.752310574054718,Positive
@@ -436,7 +436,7 @@ Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Yes iam listening in july 2021 😍💕,0.875,Positive,0.0,Neutral,0.3524087965488434,Positive
 I am listening this in my sony sa-d 40 ... 🔥🔥❤❤,0.6808,Positive,0.0,Neutral,0.5625410079956055,Positive
 https://youtu.be/HFpRqBR0yfM,0.0,Neutral,0.0,Neutral,0.2440721094608307,Neutral
-Are bhai adds dukaan khol ke rakha hai kya pure sal Ka add ek hi bar  mein dikhao,0.0,Neutral,0.1,Neutral,-0.3343249559402466,Negative
+Are bhai adds dukaan khol ke rakha hai kya pure sal Ka add ek hi bar  mein dikhao,0.0,Neutral,0.1,Positive,-0.3343249559402466,Negative
 8:42,0.0,Neutral,0.0,Neutral,-0.2161799818277359,Negative
 25:48,0.0,Neutral,0.0,Neutral,0.2154954969882965,Neutral
 Best ❤️,0.6369,Positive,1.0,Positive,0.7168212532997131,Positive
@@ -451,14 +451,14 @@ That's because the future of 90% kids in our country is mainly a business mans.
 My questions is why these movies are not made on G.K. or anything from that we learn something new✔ 
 
 Thank you for reading this📃
-If agree so reply me (Agree).",0.9356,Positive,0.1333333333333333,Neutral,0.2290190309286117,Neutral
-It's top searched songs but this vedio has very less views 😂,0.6428,Positive,0.1416666666666666,Neutral,0.502158522605896,Positive
+If agree so reply me (Agree).",0.9356,Positive,0.1333333333333333,Positive,0.2290190309286117,Neutral
+It's top searched songs but this vedio has very less views 😂,0.6428,Positive,0.1416666666666666,Positive,0.502158522605896,Positive
 if u want earn monny follow me on instagrm    id ; bulletlover_6000,0.0772,Positive,0.0,Neutral,0.2667510509490967,Neutral
 "❤Love it!
 Just listen to this new & fantastic song:
 MY LONGING IS ONLY FOR YOU
 https://youtu.be/hDa3ggj7Iow
-👍",0.4694,Positive,0.1787878787878788,Neutral,0.7625757455825806,Positive
+👍",0.4694,Positive,0.1787878787878788,Positive,0.7625757455825806,Positive
 Lovely,0.5859,Positive,0.5,Positive,0.5615791082382202,Positive
 https://youtube.com/channel/UCa80601aYIlwTjXwu8FjKYg,0.0,Neutral,0.0,Neutral,-0.2446961551904678,Negative
 mujhe ek chiz btao tum log aesa item song kyu sunte ho? tum logo k music taste mujhe bilkul pasand nhi aya aathuh,-0.2755,Negative,0.0,Neutral,-0.4719932675361633,Negative
@@ -485,7 +485,7 @@ Shraddha Kapoor 3 songs,0.0,Neutral,0.0,Neutral,0.2848327755928039,Neutral
 Excellent✓✓✓✓✓✓❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 All three are awesome❤,0.8519,Positive,0.0,Neutral,0.2794278264045715,Neutral
 Sushant Singh Rajput sir song is best ❤️❤️👍👍,0.6369,Positive,1.0,Positive,0.5496031045913696,Positive
-"I love bollywood music, i'm from Mexico BUT now your musically and visually  you llooks and sound like US,  I don't like it, because I can get that easy on my local radio, I need new music no the same,",0.6411,Positive,0.1837121212121212,Neutral,-0.5575053691864014,Negative
+"I love bollywood music, i'm from Mexico BUT now your musically and visually  you llooks and sound like US,  I don't like it, because I can get that easy on my local radio, I need new music no the same,",0.6411,Positive,0.1837121212121212,Positive,-0.5575053691864014,Negative
 Nice songs,0.4215,Positive,0.6,Positive,0.4504111707210541,Positive
 Miss you Kd Pathak,-0.1531,Negative,0.0,Neutral,-0.3998490571975708,Negative
 Kartik aryaan fans hit like,0.3612,Positive,0.0,Neutral,0.3186097145080566,Neutral
@@ -542,9 +542,9 @@ https://youtu.be/m_G4diM0m38",0.6808,Positive,0.4343434343434343,Positive,0.6196
 Love is not madness Team tseries,0.7654,Positive,0.5,Positive,-0.2867371141910553,Negative
 "In old times in my childhood, I used to watch songs which had amazing nature views. But today's songs lacks it. Each is filmed in closed area or in city like places.
 
-Hope we'll have planted more trees in future so that we could rejoice amazing nature scenes again.",0.9615,Positive,0.2833333333333334,Neutral,-0.5046359300613403,Negative
+Hope we'll have planted more trees in future so that we could rejoice amazing nature scenes again.",0.9615,Positive,0.2833333333333334,Positive,-0.5046359300613403,Negative
 "00:00, 2:56,",0.0,Neutral,0.0,Neutral,-0.2651600539684295,Negative
-Anyone know a Bollywood song with a lot of English lyrics in high end party scene with girls wearing saree ?,0.4019,Positive,0.08,Neutral,-0.3335493206977844,Negative
+Anyone know a Bollywood song with a lot of English lyrics in high end party scene with girls wearing saree ?,0.4019,Positive,0.08,Positive,-0.3335493206977844,Negative
 😊,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 https://m.youtube.com/watch?v=FiLKzYGxsSc,0.0,Neutral,0.0,Neutral,0.2948209643363952,Neutral
 Dilbhar song 1B 🔥,-0.34,Negative,0.0,Neutral,0.2553671300411224,Neutral
@@ -559,22 +559,22 @@ I say Indian songs are the boss 😎
 
 Hindi:
 
-   main kahati hoon ki bhaarateey gaane achey hain",0.0,Neutral,0.0833333333333333,Neutral,-0.292388379573822,Negative
+   main kahati hoon ki bhaarateey gaane achey hain",0.0,Neutral,0.0833333333333333,Positive,-0.292388379573822,Negative
 ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 11:29,0.0,Neutral,0.0,Neutral,-0.2542868554592132,Negative
 Subscribe to my channel,0.0,Neutral,0.0,Neutral,0.6047644019126892,Positive
-I totally didn't liked that such songs are getting popularity,0.1254,Positive,0.1999999999999999,Neutral,-0.5048953890800476,Negative
+I totally didn't liked that such songs are getting popularity,0.1254,Positive,0.1999999999999999,Positive,-0.5048953890800476,Negative
 https://youtu.be/zeMCuLhe1BQ,0.0,Neutral,0.0,Neutral,-0.331513911485672,Negative
-Saved the best for last. Khali Bali  - Ranveer Singh. Hands Down.,0.7906,Positive,0.2814814814814815,Neutral,0.48538538813591,Positive
+Saved the best for last. Khali Bali  - Ranveer Singh. Hands Down.,0.7906,Positive,0.2814814814814815,Positive,0.48538538813591,Positive
 KHALIBALI = 44:59,-0.3612,Negative,0.0,Neutral,-0.2364926785230636,Negative
 dekhte dekhte by atif aslam 😍😍,0.0,Neutral,0.0,Neutral,0.3348855972290039,Positive
-LOVE IT..Pls make a new such collection of new songs of 2019 onwards,0.7125,Positive,0.1931818181818181,Neutral,0.8105521202087402,Positive
+LOVE IT..Pls make a new such collection of new songs of 2019 onwards,0.7125,Positive,0.1931818181818181,Positive,0.8105521202087402,Positive
 Yftyyiu,0.0,Neutral,0.0,Neutral,0.3143157064914703,Neutral
 "op bolte 
 i like this",0.3612,Positive,0.0,Neutral,0.4823083579540252,Positive
 "dilbar fans..,",0.0,Neutral,0.0,Neutral,0.2628532946109772,Neutral
 Only Here 4 Atif Aslam The living Legend with soulful voice❤#indialovesatifaslam,0.0,Neutral,0.0,Neutral,0.5018094182014465,Positive
-ivide malayalikal kurav analo...sadharana comment box full mammal aküm kanune,0.0,Neutral,0.2,Neutral,0.2482741028070449,Neutral
+ivide malayalikal kurav analo...sadharana comment box full mammal aküm kanune,0.0,Neutral,0.2,Positive,0.2482741028070449,Neutral
 All Nigerians enjoying all these hit songs gather here !!!,0.6458,Positive,0.9765625,Positive,0.8220770359039307,Positive
 😍🌷💖,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Nice all songs👉😍😍😍😍😍😍😍😍😍😍😍😍😍😍💯👈,0.9917,Positive,0.6,Positive,0.5110832452774048,Positive
@@ -592,7 +592,7 @@ S,0.0,Neutral,0.0,Neutral,0.3016796410083771,Neutral
 Nice❤❤❤💫🦋🦋,0.9382,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ?,0.0,Neutral,0.0,Neutral,-0.3614960610866546,Negative
 Hit song,0.0,Neutral,0.0,Neutral,0.4614793360233307,Positive
-Sorry it is good music 🎵🎶 I love this song thanks,0.8658,Positive,0.2249999999999999,Neutral,0.4983834624290466,Positive
+Sorry it is good music 🎵🎶 I love this song thanks,0.8658,Positive,0.2249999999999999,Positive,0.4983834624290466,Positive
 Am I only one listening on groovy and rythm??,0.0,Neutral,0.0,Neutral,-0.3240886628627777,Negative
 https://www.youtube.com/watch?v=J4TzaP4Q1uo,0.0,Neutral,0.0,Neutral,0.2986482977867126,Neutral
 "DILBAR = 00:00
@@ -609,14 +609,14 @@ OH HUMSAFAR = 32:53
 PATOLA = 36:15
 CHHOTE CHHOTE PEG = 38:45
 AASHIQ BANAYA AAPNE = 41:34
-KHALIBALI = 44:59",0.0,Neutral,0.16,Neutral,-0.3387480676174164,Negative
+KHALIBALI = 44:59",0.0,Neutral,0.16,Positive,-0.3387480676174164,Negative
 https://youtu.be/5w_YdxrD0EA,0.0,Neutral,0.0,Neutral,0.2401185482740402,Neutral
-Tooooooo much addddddddddd,0.0,Neutral,0.2,Neutral,-0.3171011209487915,Negative
+Tooooooo much addddddddddd,0.0,Neutral,0.2,Positive,-0.3171011209487915,Negative
 👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Lungi Dance,0.0,Neutral,0.0,Neutral,0.2554154694080353,Neutral
 हिला दिया,-0.1027,Negative,0.0,Neutral,-0.5498420596122742,Negative
 Hy,0.0,Neutral,0.0,Neutral,0.2691578269004822,Neutral
-Thanks  t- Series❤️❤️😄,0.8126,Positive,0.2,Neutral,0.3836739063262939,Positive
+Thanks  t- Series❤️❤️😄,0.8126,Positive,0.2,Positive,0.3836739063262939,Positive
 "Not sure what bum-deegee-deegee-bum-bum means in Hindi, but I can guess.",-0.1232,Negative,-0.25,Negative,0.5200713872909546,Positive
 My fav nora and sharaddha.,0.4588,Positive,0.0,Neutral,0.4533872008323669,Positive
 My fav all songs. Osm,0.4588,Positive,0.0,Neutral,0.6452063918113708,Positive
@@ -644,7 +644,7 @@ Sondor,0.5994,Positive,0.85,Positive,0.2655632495880127,Neutral
 ♪PATOLA► 36.15
 ♪CHHOTE CHHOTE PEG► 38.45
 ♪AASHIQ BANAYA AAPNE► 41.34
-♪KHALIBALI► 44.59",0.0,Neutral,0.16,Neutral,0.2650260627269745,Neutral
+♪KHALIBALI► 44.59",0.0,Neutral,0.16,Positive,0.2650260627269745,Neutral
 W,0.0,Neutral,0.0,Neutral,0.3924260437488556,Positive
 So nice,0.4754,Positive,0.6,Positive,0.4443694949150085,Positive
 https://youtu.be/7QniXDQhS60,0.0,Neutral,0.0,Neutral,0.2551661729812622,Neutral
@@ -697,7 +697,7 @@ Shraddha made for the cutttest bhootni everrrr :D,0.6166,Positive,1.0,Positive,0
 I luv most of thé song.,0.0,Neutral,0.5,Positive,0.3580977022647857,Positive
 In factual,0.0,Neutral,0.0,Neutral,0.2831144332885742,Neutral
 https://www.youtube.com/channel/UCx-aNSzvUOXsGIxkevBfIpw,0.0,Neutral,0.0,Neutral,-0.2563470304012298,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Guys please who are the artists at 32:55,0.3182,Positive,0.0,Neutral,-0.2653758227825165,Negative
 EVERYONE HAS RYTHYM!!!!!,0.0,Neutral,0.0,Neutral,0.4279645383358001,Positive
 Best song nice video best rajkumar Rao 🌹🌹🌹🌹☃️☃️☃️😇😇😇😇🤗🤗🤗🤗🤗,0.9884,Positive,0.8666666666666667,Positive,0.6742104291915894,Positive
@@ -724,7 +724,7 @@ Yo Yo Honey Singh,0.0,Neutral,0.0,Neutral,0.2865029275417328,Neutral
 I like this best ever,0.8176,Positive,1.0,Positive,0.7583522200584412,Positive
 17:25,0.0,Neutral,0.0,Neutral,-0.2663205862045288,Negative
 "Old is Gold song
-https://youtu.be/PL12GH5agiA",0.0,Neutral,0.1,Neutral,0.2788679599761963,Neutral
+https://youtu.be/PL12GH5agiA",0.0,Neutral,0.1,Positive,0.2788679599761963,Neutral
 ",",0.0,Neutral,0.0,Neutral,0.2591341137886047,Neutral
 Nice since songs,0.4215,Positive,0.6,Positive,0.4796403348445892,Positive
 06:08,0.0,Neutral,0.0,Neutral,-0.3864416480064392,Negative
@@ -738,9 +738,9 @@ https://youtu.be/i0lldsl-ZCc
 ""Different Worlds"" is an Indian/Australian Web Series (Comedy/Drama) which attempts to bridge the cultural and human relationship gaps in multicultural contemporary societies like Australia by coming out of the comfort zone. 
 Please like, share and subscribe our you tube channel for all the updates about the coming episodes and feel free to share your feedbacks/diversity/self discovery stories.
 Please follow our facebook page for all the updates- https://www.facebook.com/DifferentWorldsWebseries
-Instagram page- differentworlds2021",0.9501,Positive,0.1111111111111111,Neutral,0.3598217964172363,Positive
+Instagram page- differentworlds2021",0.9501,Positive,0.1111111111111111,Positive,0.3598217964172363,Positive
 https://youtu.be/XXRu129gn9Y,0.0,Neutral,0.0,Neutral,-0.2411531209945678,Negative
-TBH these search doesn't mean its the best. Mostly we r searching some songs for 💃💃💃💃 and other songs cause its 🔥🔥,0.1027,Positive,0.265625,Neutral,0.4431732892990112,Positive
+TBH these search doesn't mean its the best. Mostly we r searching some songs for 💃💃💃💃 and other songs cause its 🔥🔥,0.1027,Positive,0.265625,Positive,0.4431732892990112,Positive
 Wonderful song 9xm 🤓😍😎😊,0.926,Positive,1.0,Positive,0.8240121603012085,Positive
 Most song,0.0,Neutral,0.5,Positive,0.2844983637332916,Neutral
 Please guys I need the title for this song in 22:00,0.3182,Positive,0.0,Neutral,-0.3534012138843536,Negative
@@ -761,7 +761,7 @@ Shraddha 😍😍😍,0.8402,Positive,0.0,Neutral,0.269521415233612,Neutral
 Mm,0.0,Neutral,0.0,Neutral,0.2894232869148254,Neutral
 Dilbar 🥰😍❤🤩💖💗❣💟,0.9884,Positive,0.0,Neutral,0.2483613193035125,Neutral
 "“SUPER LIKE” currently collaborating WITH FACEBOOK, YOU TUBE & INSTRAGAM 
-Countless internet celebrities and celebrities on Facebook and YouTube cooperate with the platform, and they will spend money on the platform to increase their popularity regularly every month, so we don’t need to worry about what to do if we don’t have a task. The platform implements the membership system for the long-term stability of a group of users to help complete the platform tasks, and the business partners who cooperate with us are also assured of placing advertisements on our platform.https://oksome.in/#/register?SN=0829D3&code=58567465",0.7717,Positive,0.0866666666666666,Neutral,0.7187625169754028,Positive
+Countless internet celebrities and celebrities on Facebook and YouTube cooperate with the platform, and they will spend money on the platform to increase their popularity regularly every month, so we don’t need to worry about what to do if we don’t have a task. The platform implements the membership system for the long-term stability of a group of users to help complete the platform tasks, and the business partners who cooperate with us are also assured of placing advertisements on our platform.https://oksome.in/#/register?SN=0829D3&code=58567465",0.7717,Positive,0.0866666666666666,Positive,0.7187625169754028,Positive
 WELCOME salahl3alam,0.4404,Positive,0.7,Positive,0.5355100631713867,Positive
 #indianmomlalita,0.0,Neutral,0.0,Neutral,0.2496174424886703,Neutral
 P:-!,0.0,Neutral,0.0,Neutral,0.2192554473876953,Neutral
@@ -771,7 +771,7 @@ Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
 Nice songs,0.4215,Positive,0.6,Positive,0.4504111707210541,Positive
 Sub to pewds,0.0,Neutral,0.0,Neutral,0.3137589693069458,Neutral
 06:24 xD,0.5859,Positive,0.0,Neutral,-0.3232137858867645,Negative
-"The holistic newsprint equally suit because sugar quickly command pro a mellow congo. acidic, arrogant pendulum",-0.4939,Negative,0.1666666666666666,Neutral,-0.3048435151576996,Negative
+"The holistic newsprint equally suit because sugar quickly command pro a mellow congo. acidic, arrogant pendulum",-0.4939,Negative,0.1666666666666666,Positive,-0.3048435151576996,Negative
 Very nice gong,0.4754,Positive,0.78,Positive,0.6898812651634216,Positive
 Watch my mashup tunes. I am an understudy of M.Tech Artificial Intelligence playing guitar at my lodging room. If it's not too much trouble LIKE and SUBSCRIBE my recordings for inspiration.https://www.youtube.com/playlist?list=PL2zPjzRphREOl3rha5nfVin-R1Rvpfy74,0.8552,Positive,-0.4,Negative,0.4244222044944763,Positive
 Why not comment your favourite and one you don't like from the list!,-0.3404,Negative,0.0,Neutral,0.4146259725093841,Positive
@@ -781,4 +781,4 @@ How i went from 300lbs to 175lbs in one year https://sites.google.com/view/c1b55
 Lovely Dilber,0.5859,Positive,0.5,Positive,0.508001446723938,Positive
 Earphone me mja aa gaya,0.4939,Positive,0.4,Positive,0.3158108592033386,Neutral
 Nice songs,0.4215,Positive,0.6,Positive,0.4504111707210541,Positive
-Whats the first song name??,0.0,Neutral,0.25,Neutral,-0.3575682640075683,Negative
+Whats the first song name??,0.0,Neutral,0.25,Positive,-0.3575682640075683,Negative

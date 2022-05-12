@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 เพราะมากๆครับ,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-友達いなくても人生楽しいよ,0.1891,Positive,0.3,Neutral,0.4409016370773315,Positive
+友達いなくても人生楽しいよ,0.1891,Positive,0.3,Positive,0.4409016370773315,Positive
 "As apart of the mix 
 extrovert/introvert , I like this",0.3612,Positive,0.0,Neutral,0.494272917509079,Positive
 Soo mean friends,0.4767,Positive,-0.3125,Negative,0.3096129894256592,Neutral
@@ -8,11 +8,11 @@ Soo mean friends,0.4767,Positive,-0.3125,Negative,0.3096129894256592,Neutral
 Just play some games",0.34,Positive,0.0,Neutral,-0.2686071991920471,Negative
 Nah dude im not related to this at all,-0.1027,Negative,0.0,Neutral,-0.5936257243156433,Negative
 اجمل اغنية احببتها كثيرا انها المفضلة لدي😍😍😍😍😍😍😍😍😍😍👍👍👍👍👍👍👍👍👍,0.985,Positive,0.6375,Positive,0.8907690048217773,Positive
-"This song helps me. Because when i be at school, no one communicates or talks to me. So i always sitting alone lisening to this song with my headphones. It's always change my mood and i always don't mind my classmates what are they saying about Me. Because i sometimes get bullied at school and i don't wanna go to school because of my class and classmates. So Thank you very much for this song.",-0.3525,Negative,0.26,Neutral,0.808966338634491,Positive
-I lost all my friends few days ago and this song makes me feel better,0.5719,Positive,0.15,Neutral,0.5966153740882874,Positive
-"ohmygosh, there are czech substitles? Aaaaa, you don't see this every day. Thank you for this little nice thing, which made my day :3",0.8078,Positive,0.3041666666666666,Neutral,0.3723625838756561,Positive
+"This song helps me. Because when i be at school, no one communicates or talks to me. So i always sitting alone lisening to this song with my headphones. It's always change my mood and i always don't mind my classmates what are they saying about Me. Because i sometimes get bullied at school and i don't wanna go to school because of my class and classmates. So Thank you very much for this song.",-0.3525,Negative,0.26,Positive,0.808966338634491,Positive
+I lost all my friends few days ago and this song makes me feel better,0.5719,Positive,0.15,Positive,0.5966153740882874,Positive
+"ohmygosh, there are czech substitles? Aaaaa, you don't see this every day. Thank you for this little nice thing, which made my day :3",0.8078,Positive,0.3041666666666666,Positive,0.3723625838756561,Positive
 Ладно жизненно честно говоря,0.7506,Positive,0.3999999999999999,Positive,0.5995758771896362,Positive
-ผมชอบมากคับ,0.3612,Positive,0.26,Neutral,0.3085779249668121,Neutral
+ผมชอบมากคับ,0.3612,Positive,0.26,Positive,0.3085779249668121,Neutral
 Same song but female version pls.😇😇😇😇😇😇,0.9787,Positive,0.0,Neutral,0.3104383945465088,Neutral
 You become fckin dangerous when you realise that you can do it by yourself,-0.4767,Negative,-0.6,Negative,-0.4001442790031433,Negative
 "lyrics
@@ -119,7 +119,7 @@ No friends
 No friends
 All I need is me myself
 No friends
-I have no friends",-0.9977,Negative,0.2707175925925926,Neutral,0.2832251489162445,Neutral
+I have no friends",-0.9977,Negative,0.2707175925925926,Positive,0.2832251489162445,Neutral
 It gives us motivation and all the alone guys😁😁😊😊,0.9545,Positive,0.0,Neutral,0.478674829006195,Positive
 It's really amazing,0.624,Positive,0.6000000000000001,Positive,0.83267742395401,Positive
 "When my teacher ask me who is your best friend,,than I told him it's me sir",0.6369,Positive,1.0,Positive,0.3783700466156006,Positive
@@ -133,17 +133,17 @@ great song,0.6249,Positive,0.8,Positive,0.715724527835846,Positive
 I have no friends 😭,-0.6862,Negative,0.0,Neutral,-0.3669717609882355,Negative
 Aku suka sama subtitel nya,0.3612,Positive,0.0,Neutral,0.2918749153614044,Neutral
 I don't need frends,-0.3724,Negative,0.0,Neutral,0.2358112037181854,Neutral
-I don't really feel like listening to this considering I do have a single friend. But music bops.,0.1134,Positive,0.0642857142857143,Neutral,0.4201673865318298,Positive
+I don't really feel like listening to this considering I do have a single friend. But music bops.,0.1134,Positive,0.0642857142857143,Positive,0.4201673865318298,Positive
 *Hits hard when you lost all of them and you have online friends that you wish you could meet.*,0.4767,Positive,-0.2916666666666667,Negative,-0.3623396456241607,Negative
 Essa música tem uma vibe tão boa.,0.4404,Positive,0.35,Positive,0.6071809530258179,Positive
 "Song: I have no friends 
 Me: Yup mee too!🙄",-0.4303,Negative,0.0,Neutral,0.3202082514762878,Neutral
-I have no friends for real and i am doing great its ok to be lonley because if somthing is hard and you do it everyone can because the hardest is great,0.7137,Positive,0.3180555555555555,Neutral,0.4448134899139404,Positive
+I have no friends for real and i am doing great its ok to be lonley because if somthing is hard and you do it everyone can because the hardest is great,0.7137,Positive,0.3180555555555555,Positive,0.4448134899139404,Positive
 does this song copeyright free or not can we use this song in game play clipes,0.6908,Positive,0.0,Neutral,0.3286447525024414,Neutral
-fun fact: He says that he doesn't have friends while the girl at the back is literally gawking at him.,0.1891,Positive,0.15,Neutral,0.5906744003295898,Positive
-I can relate on this to a deep level. Many years I had no one and when I tryed to make friends it does not feel right. The song is touching on a emotional level though.,0.3612,Positive,0.2571428571428571,Neutral,0.6255127787590027,Positive
+fun fact: He says that he doesn't have friends while the girl at the back is literally gawking at him.,0.1891,Positive,0.15,Positive,0.5906744003295898,Positive
+I can relate on this to a deep level. Many years I had no one and when I tryed to make friends it does not feel right. The song is touching on a emotional level though.,0.3612,Positive,0.2571428571428571,Positive,0.6255127787590027,Positive
 Fun Fact: This has 21x more views than the Original Video,0.6808,Positive,0.3916666666666666,Positive,0.4840743541717529,Positive
-EVERY LYRIC EXPLAINES ME,0.0,Neutral,0.25,Neutral,0.564571738243103,Positive
+EVERY LYRIC EXPLAINES ME,0.0,Neutral,0.25,Positive,0.564571738243103,Positive
 "I.....I don't hate people..... I'm not a weird person.....
 I .... I just prefer to be alone
 😊😊😊😔👍👍👍",0.9629,Positive,-0.275,Negative,-0.3321139216423034,Negative
@@ -156,10 +156,10 @@ i love the song ihave a bff but cousin hehe but i love you vids,0.8968,Positive,
 
 Meanwhile my best friend fangirling too much with his favorite idols can literally say this quote literally if she found out what I thoughy. 
 
-""Bitch who am I? A ROACH?!""",0.7524,Positive,0.2697916666666666,Neutral,-0.251199722290039,Negative
+""Bitch who am I? A ROACH?!""",0.7524,Positive,0.2697916666666666,Positive,-0.251199722290039,Negative
 This going to be my theme song in college.,0.0,Neutral,0.0,Neutral,0.473046064376831,Positive
 "Nightcore Zodiac:*Post a new Vid*
-Introverts:Hmmm very relatble,btw who summoned me?!",0.0,Neutral,0.1931818181818181,Neutral,-0.3233446776866913,Negative
+Introverts:Hmmm very relatble,btw who summoned me?!",0.0,Neutral,0.1931818181818181,Positive,-0.3233446776866913,Negative
 Which anime scene used here can anyone tell...?,0.0,Neutral,0.0,Neutral,-0.227643072605133,Negative
 what is the name of this movie?,0.0,Neutral,0.0,Neutral,-0.4224320650100708,Negative
 I wish my friends did never betrayed.me but it is ok because I don't need them anyway,0.6908,Positive,0.5,Positive,0.6717140078544617,Positive
@@ -253,7 +253,7 @@ No friends
 I have no friends
 來源： LyricFind
 作詞/作曲：Alexander Clark / Brian Wang
-《No Friends》歌詞 © Songtrust Ave",-0.9976,Negative,0.2707175925925926,Neutral,0.3246780335903168,Neutral
+《No Friends》歌詞 © Songtrust Ave",-0.9976,Negative,0.2707175925925926,Positive,0.3246780335903168,Neutral
 "I found this song too late, now I changed and don't know who exactly am i 🙃",0.0,Neutral,-0.0249999999999999,Negative,-0.4034265577793121,Negative
 "No tengo amigos y no era con quien la gente simpatizaba...de hecho, siempre sentía un mural entre mí y el otro...
 
@@ -271,9 +271,9 @@ Se siente irreal.
 
 Me pregunto que hice para merecer tanta aceptación y aprecio. Igualmente estoy feliz.
 
-Si lo cuento aquí es porque bueno...No tengo amigos ¿Recuerdan? Jaja en algún lado debo expresar mi desconcierto. XD",0.989,Positive,0.3019230769230769,Neutral,0.3383127450942993,Positive
+Si lo cuento aquí es porque bueno...No tengo amigos ¿Recuerdan? Jaja en algún lado debo expresar mi desconcierto. XD",0.989,Positive,0.3019230769230769,Positive,0.3383127450942993,Positive
 never found so relatable 🙃,0.0,Neutral,0.0,Neutral,-0.5491604208946228,Negative
-"....this is my anthem....bakugo's anthem, right here, just found it.....",0.0,Neutral,0.2857142857142857,Neutral,0.6848505735397339,Positive
+"....this is my anthem....bakugo's anthem, right here, just found it.....",0.0,Neutral,0.2857142857142857,Positive,0.6848505735397339,Positive
 友達を全部失くして,0.2023,Positive,0.0,Neutral,-0.3555662930011749,Negative
 relatable,0.0,Neutral,0.0,Neutral,0.273922860622406,Neutral
 My life anthem sir 💘,0.6369,Positive,0.0,Neutral,0.7378976941108704,Positive
@@ -308,7 +308,7 @@ this is the best song for introverts like me,0.7717,Positive,1.0,Positive,0.8192
 is it from mekakucity actors?,0.0,Neutral,0.0,Neutral,-0.3626233637332916,Negative
 "I am rather be alone than forcing myself to do what they seem I need to do. Well, fuck it! My existence is just once. I'm gonna die someday so I would choose to be alone doing what I wanted to do. (Yes I vent all my anger this day. I can move like I don't care any opinion about my ways of life.)",-0.8938,Negative,-0.6,Negative,-0.4240890741348266,Negative
 💓,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
-There's too much people without friend😔,-0.431,Negative,0.2,Neutral,-0.3454075157642364,Negative
+There's too much people without friend😔,-0.431,Negative,0.2,Positive,-0.3454075157642364,Negative
 I don't have friends too,-0.3724,Negative,0.0,Neutral,-0.3236477971076965,Negative
 "I'd just like to thank Cadmium and Rosendale for this masterpiece!
 I've been without friends for 7 years and without fake friends for 4 years. And I couldn't be better 👌",0.7892,Positive,0.0,Neutral,0.8671916127204895,Positive
@@ -320,10 +320,10 @@ Disappointment,-0.5106,Negative,-0.6,Negative,-0.4969229996204376,Negative
 
 
 Yeah i just wanted to put an Oregairu citation because it fits with this song. And because it's my favourite anime by far !
-(It's why there is an AMV of Oregairu with this song.)",0.6044,Positive,0.10625,Neutral,0.4329400360584259,Positive
+(It's why there is an AMV of Oregairu with this song.)",0.6044,Positive,0.10625,Positive,0.4329400360584259,Positive
 Ya God enters now,0.2732,Positive,0.0,Neutral,0.4626832902431488,Positive
 I listen to all sad songs,-0.4767,Negative,-0.5,Negative,-0.522555410861969,Negative
-"Meh , ig everyone has that one time in life even if they have friends , they’d feel like they just aren’t there or as if they are there but too far to reach out for 😅✨",0.8402,Positive,0.1,Neutral,-0.4443133771419525,Negative
+"Meh , ig everyone has that one time in life even if they have friends , they’d feel like they just aren’t there or as if they are there but too far to reach out for 😅✨",0.8402,Positive,0.1,Positive,-0.4443133771419525,Negative
 Anime?,0.0,Neutral,0.0,Neutral,0.3294096887111664,Neutral
 ,0.0,Neutral,0.0,Neutral,0.2846148908138275,Neutral
 x,0.0,Neutral,0.0,Neutral,0.391137421131134,Positive
@@ -429,10 +429,10 @@ No friends
 No friends
 All I need is me myself
 No friends
-I have no friends",-0.9976,Negative,0.2707175925925926,Neutral,0.3246780335903168,Neutral
+I have no friends",-0.9976,Negative,0.2707175925925926,Positive,0.3246780335903168,Neutral
 I love what you hv done with the lyrics.,0.6369,Positive,0.5,Positive,0.7420210838317871,Positive
 "Everyone: **Enjoying the song**
-Me: **Creeped out cuz the girl in the back staring into my soul**",0.5267,Positive,0.25,Neutral,0.3357484936714172,Positive
+Me: **Creeped out cuz the girl in the back staring into my soul**",0.5267,Positive,0.25,Positive,0.3357484936714172,Positive
 Shrek?,0.0,Neutral,0.0,Neutral,-0.4606048762798309,Negative
 Still listeninh,0.0,Neutral,0.0,Neutral,0.3084973990917206,Neutral
 All rise for the introverts anthem 😌✋,0.7003,Positive,0.0,Neutral,0.6087810397148132,Positive
@@ -440,7 +440,7 @@ I like having no friends,-0.0139,Neutral,0.0,Neutral,0.4734786450862884,Positive
 I was searching stuff related when you have no friends...but then I found this great song,0.5683,Positive,0.4,Positive,0.6688377857208252,Positive
 My morning alarm...,-0.34,Negative,0.0,Neutral,0.4843226671218872,Positive
 This song is literally my best friend. I feel like it's made for me.,0.872,Positive,1.0,Positive,0.8487257361412048,Positive
-If you meet some Filipino there no turning back they keep talking and I love my self and I'm a Filipino,0.4588,Positive,0.25,Neutral,0.6515238285064697,Positive
+If you meet some Filipino there no turning back they keep talking and I love my self and I'm a Filipino,0.4588,Positive,0.25,Positive,0.6515238285064697,Positive
 日本語訳で”oh no”のところが「大野」になってて笑ったw,0.4588,Positive,0.35,Positive,-0.2769810557365417,Negative
 This reminds so much of what people think of me in class :),0.4588,Positive,0.35,Positive,0.7253167629241943,Positive
 💔💔💔💔💔,0.8176,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -455,7 +455,7 @@ Friends: tf
 Close friend:tf 
 Me:love me say that u love me fool me oh how you do me",0.9594,Positive,0.3333333333333333,Positive,0.2541687488555908,Neutral
 Anime name?,0.0,Neutral,0.0,Neutral,-0.2834304571151733,Negative
-"This song is my favorite! It describes my life perfectly. I never had any real friends , but I decided to stop hanging out with the fake ones and it’s honestly so much better this way. All you ever need is yourself! ❤️",0.8201,Positive,0.09,Neutral,0.9708073139190674,Positive
+"This song is my favorite! It describes my life perfectly. I never had any real friends , but I decided to stop hanging out with the fake ones and it’s honestly so much better this way. All you ever need is yourself! ❤️",0.8201,Positive,0.09,Positive,0.9708073139190674,Positive
 What is anime name,0.0,Neutral,0.0,Neutral,0.2537471055984497,Neutral
 i do have close friends but it feels like i dont have any cus i always be the one tryna keep the relationship it's tiring,0.6486,Positive,0.0,Neutral,0.3771943747997284,Positive
 :|,-0.1027,Negative,0.0,Neutral,0.2475587129592895,Neutral
@@ -486,30 +486,30 @@ Why ky heart hurt when i watched this,0.2023,Positive,0.0,Neutral,-0.48942726850
 This song means a lot to me The song represents me a lot 🙀💔,0.0,Neutral,0.0,Neutral,0.5392628908157349,Positive
 Name anime pls 🙏,0.0772,Positive,0.0,Neutral,0.2466940432786941,Neutral
 l think this song is cool 🔥🔥🔥🔥🎶🎶🎶🎶,-0.5106,Negative,0.35,Positive,0.5739613771438599,Positive
-"This Song is a Motivation for People with No Friends or The Ones Facing Fake Friends, Its Heavenly ♥",0.842,Positive,0.25,Neutral,0.5905536413192749,Positive
+"This Song is a Motivation for People with No Friends or The Ones Facing Fake Friends, Its Heavenly ♥",0.842,Positive,0.25,Positive,0.5905536413192749,Positive
 Gacha people should know this but this song is a bop,0.0,Neutral,0.0,Neutral,-0.3095388114452362,Negative
 O; nah im a introvert\extratrovert,-0.1027,Negative,0.0,Neutral,0.3005905747413635,Neutral
 such a cheerful song for such a sad topic,0.1027,Positive,-0.0249999999999999,Negative,-0.8200026154518127,Negative
 this is literally how i feel in an awesome music,0.6249,Positive,1.0,Positive,0.873551607131958,Positive
 Anime name in background,0.0,Neutral,0.0,Neutral,0.3087988793849945,Neutral
-That's true it very difficult to make good friends in high school,0.719,Positive,0.1399999999999999,Neutral,-0.3955138027667999,Negative
+That's true it very difficult to make good friends in high school,0.719,Positive,0.1399999999999999,Positive,-0.3955138027667999,Negative
 Key: F#,0.0,Neutral,0.0,Neutral,0.2688652575016022,Neutral
 I am more productive when i am alone?,-0.25,Negative,0.5,Positive,0.3988760113716125,Positive
 Which anime background it is?,0.0,Neutral,0.0,Neutral,0.2950785756111145,Neutral
 "A GAIN RANDOM IS HERE 
 I saved the song in my Nasyid Playlist.",0.7865,Positive,-0.5,Negative,0.5056682229042053,Positive
 the google translated chinese 💀,0.0,Neutral,0.0,Neutral,0.2845889925956726,Neutral
-"As a severe introvert with social anxiety who's in college 12 hours away from home, *y e a h*",-0.5106,Negative,0.0333333333333333,Neutral,-0.5419487357139587,Negative
+"As a severe introvert with social anxiety who's in college 12 hours away from home, *y e a h*",-0.5106,Negative,0.0333333333333333,Positive,-0.5419487357139587,Negative
 ❤️❤️❤️❤️❤️😭😭,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "Teacher: Write an essay on your best friend
 My mind voice: My best friend is anime, what should I do?
 Me: Thinks for 15mins and decides to go with an anime character.",0.9413,Positive,1.0,Positive,0.2485593855381012,Neutral
-Those who don't need anyone are actually connected telepathically to people living in  several dimensions of the universe to feel joyous....🙂🤡💜✍️ This is what I have felt so as per my own experience. I don't know how many of you have similar experiences....on this...,0.9002,Positive,0.22,Neutral,0.5937001705169678,Positive
+Those who don't need anyone are actually connected telepathically to people living in  several dimensions of the universe to feel joyous....🙂🤡💜✍️ This is what I have felt so as per my own experience. I don't know how many of you have similar experiences....on this...,0.9002,Positive,0.22,Positive,0.5937001705169678,Positive
 "мое эго в твоем молчит
 у меня его нет",0.0,Neutral,0.0,Neutral,-0.3753417432308197,Negative
 No friends!?!,-0.4833,Negative,0.0,Neutral,-0.5947079062461853,Negative
-mans got my whole childhood in one song,0.0,Neutral,0.2,Neutral,0.559913694858551,Positive
-Jesus Cristo te ama muito e Ele está voltando ❤️,0.5719,Positive,0.1,Neutral,0.6237192749977112,Positive
+mans got my whole childhood in one song,0.0,Neutral,0.2,Positive,0.559913694858551,Positive
+Jesus Cristo te ama muito e Ele está voltando ❤️,0.5719,Positive,0.1,Positive,0.6237192749977112,Positive
 what is anime's name?,0.0,Neutral,0.0,Neutral,-0.2463342994451522,Negative
 I have friends but there all fake so I rather have none then have fake 😥,-0.1328,Negative,-0.5,Negative,-0.4312376081943512,Negative
 What was the name of anime,0.0,Neutral,0.0,Neutral,0.3062960803508758,Neutral
@@ -521,7 +521,7 @@ Friends are fake they disturbed our life,-0.3818,Negative,-0.5,Negative,-0.73464
 """I have no friends""
 me be like: HELLO IS DIS IZUKU MIDORIYA!?🤣",0.5327,Positive,0.0,Neutral,-0.3355454206466675,Negative
 "I had no friends, copium.",-0.3724,Negative,0.0,Neutral,-0.2883777916431427,Negative
-"This is my life in a song.. no matter how many times I try, life just tries to prevent me from having any friends. Every time I try to make one, they always end up leaving me (physically or mentally) the exact year. I just want someone to lean on, but I've got no one but me..",-0.1499,Negative,0.1375,Neutral,0.6552850604057312,Positive
+"This is my life in a song.. no matter how many times I try, life just tries to prevent me from having any friends. Every time I try to make one, they always end up leaving me (physically or mentally) the exact year. I just want someone to lean on, but I've got no one but me..",-0.1499,Negative,0.1375,Positive,0.6552850604057312,Positive
 That is what my life 😁 except I have 2 friends thoughts this is R's daughter,0.7269,Positive,0.0,Neutral,0.2900638580322265,Neutral
 Lieblingslied,0.0,Neutral,0.0,Neutral,0.7158191204071045,Positive
 La verdad yo me comparo con esta canción,0.3182,Positive,0.0,Neutral,0.4049904644489288,Positive
@@ -537,8 +537,8 @@ This goes loop",-0.5023,Negative,-0.0766666666666666,Negative,-0.434624224901199
 I watched this like 500 in 2 days,0.4357,Positive,0.0,Neutral,0.2928315699100494,Neutral
 IDC if people hate me I was created for a reason not to entertain people,-0.5664,Negative,-0.8,Negative,-0.4115506112575531,Negative
 Yo does any1 know which anime is in the pic?,0.0,Neutral,0.0,Neutral,-0.358195811510086,Negative
-introverts be like: it's normal,0.3612,Positive,0.15,Neutral,0.3487963378429413,Positive
-introverts be like: it's normal,0.3612,Positive,0.15,Neutral,0.3487963378429413,Positive
+introverts be like: it's normal,0.3612,Positive,0.15,Positive,0.3487963378429413,Positive
+introverts be like: it's normal,0.3612,Positive,0.15,Positive,0.3487963378429413,Positive
 "Sometimes you it's better to have no friends than to have fake ones
 -Unknown
 
@@ -568,7 +568,7 @@ Me- Really? But I just love enjoying my own company......",0.9054,Positive,0.449
 The girl who wear a red scarf 
 Continuously stearing the boy
 Me : hey boy look i think she loves you 😅😂",0.7612,Positive,0.0,Neutral,0.3983296453952789,Positive
-After breakup or rejection few people will fall in love with this song,0.1779,Positive,0.15,Neutral,-0.2773619890213012,Negative
+After breakup or rejection few people will fall in love with this song,0.1779,Positive,0.15,Positive,-0.2773619890213012,Negative
 I like this song because i don't have no friends but that's ok,0.6279,Positive,0.5,Positive,0.5343900918960571,Positive
 I don't have a true friend... but that line hits I have no friends  that s ok I don't need them anyway... I do my best my own.,0.7719,Positive,0.6125,Positive,0.4190075397491455,Positive
 "I don't care for the people who don't care for me, because the word ""friEND"" there is END",-0.2631,Negative,0.0,Neutral,-0.4353764653205871,Negative
@@ -577,8 +577,8 @@ I love this Song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Mine is the same life,0.0,Neutral,0.0,Neutral,0.3530301451683044,Positive
 "in life we never lose friends we only learn who the true ones are
 
--unkown",0.362,Positive,0.175,Neutral,0.5432568788528442,Positive
-is no one gonna talk abt the girl at the back staring at him? dam this guy is a loner but he seems like someone has a crush on him while I have a lot of friends but no one crushing on me? dam I am jealous 😀‼️,0.6514,Positive,0.2,Neutral,-0.4195841252803802,Negative
+-unkown",0.362,Positive,0.175,Positive,0.5432568788528442,Positive
+is no one gonna talk abt the girl at the back staring at him? dam this guy is a loner but he seems like someone has a crush on him while I have a lot of friends but no one crushing on me? dam I am jealous 😀‼️,0.6514,Positive,0.2,Positive,-0.4195841252803802,Negative
 Amazing song ♥️♥️♥️♥️,0.9705,Positive,0.6000000000000001,Positive,0.8059656620025635,Positive
 Lovely 🥰 thank you for this beautiful song 🎶,0.9597,Positive,0.675,Positive,0.8287838101387024,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -586,7 +586,7 @@ I miss this damn,-0.5754,Negative,0.0,Neutral,-0.3781134784221649,Negative
 you what hurts its when u never could make a real friend for 11 years(me:(  and u get kick out and lose everything:(,-0.3818,Negative,-0.4333333333333333,Negative,-0.4203077554702759,Negative
 I luv this song sm 😍❤️,0.4588,Positive,0.0,Neutral,-0.3783409893512726,Negative
 I think this song is on my lifestyle cuz all of these thing happens in my life,0.0,Neutral,0.0,Neutral,0.6918978095054626,Positive
-Thanks for make a song like my life I mane I like to be alone,0.7096,Positive,0.2,Neutral,0.5917219519615173,Positive
+Thanks for make a song like my life I mane I like to be alone,0.7096,Positive,0.2,Positive,0.5917219519615173,Positive
 "People say I try too hard
 People say I come off really awkward
 You know I don't mean no harm
@@ -674,7 +674,7 @@ No friends
 No friends
 All I need is me myself
 No friends
-I have no friends",-0.9976,Negative,0.2707175925925926,Neutral,0.3246780335903168,Neutral
+I have no friends",-0.9976,Negative,0.2707175925925926,Positive,0.3246780335903168,Neutral
 i dont have much friends i have just few and they're introvert too,-0.3724,Negative,0.0,Neutral,0.3682971596717834,Positive
 Esta canción habla de que sin amigos podemos ser felices podemos ser nosotros mismos y es la mejor de las canciones con una letra q se identifica a muchos q no tenemos amigos 🥰🥰🥰🥰,0.9826,Positive,0.7666666666666666,Positive,0.6616264581680298,Positive
 This song is the definition of copping,0.0,Neutral,0.0,Neutral,0.264862596988678,Neutral
@@ -688,19 +688,19 @@ Only introverted people can feel this 🥺,0.0,Neutral,0.0,Neutral,0.22350619733
 I don't have friends either
 I just feel better alone without someone I have to entertain
 But school can't accept that because ''Humans are creatures that have to socialize''
-I hate how people can't accept people who are happy alone",-0.7737,Negative,0.1666666666666666,Neutral,-0.463725209236145,Negative
+I hate how people can't accept people who are happy alone",-0.7737,Negative,0.1666666666666666,Positive,-0.463725209236145,Negative
 "1 I don't know what they being normal for
 2 I don't need friends
 3 I don't need them to pass the time
 4 you don't read my mind
 5 my life is just a game 
-6 and tye last one... I'm okay everything is fine its OK to be not ok😔",0.2427,Positive,0.1944444444444444,Neutral,0.7410548329353333,Positive
+6 and tye last one... I'm okay everything is fine its OK to be not ok😔",0.2427,Positive,0.1944444444444444,Positive,0.7410548329353333,Positive
 picture anime name; kagerou project,0.0,Neutral,0.0,Neutral,0.2938357889652252,Neutral
 omagat saya merasa jadi hachiman😀,0.6124,Positive,0.0,Neutral,0.319797158241272,Neutral
 "Yeah, being an extrovert is often really hard... Ppl really dislike me sometimes",-0.3369,Negative,-0.0458333333333333,Negative,-0.4429406821727752,Negative
 I don't have friends but as long as the things called ANIME are here. I am never gonna feel alone. Anime lovers😉,0.7125,Positive,-0.05,Negative,0.3085001111030578,Neutral
 Anime?,0.0,Neutral,0.0,Neutral,0.3294096887111664,Neutral
-"Khi tôi đi một mình, ngồi một mình ở trường học, tôi chắc rằng mọi người đều nhìn vào và nghĩ tôi đang rất buồn và cô đơn=) . trời ạ mọi thứ đều ổn làm ơn đừng có cho tôi thấy mình đang bị thương hại",-0.3302,Negative,0.1633333333333333,Neutral,0.4435509145259857,Positive
+"Khi tôi đi một mình, ngồi một mình ở trường học, tôi chắc rằng mọi người đều nhìn vào và nghĩ tôi đang rất buồn và cô đơn=) . trời ạ mọi thứ đều ổn làm ơn đừng có cho tôi thấy mình đang bị thương hại",-0.3302,Negative,0.1633333333333333,Positive,0.4435509145259857,Positive
 Anyone in 2022,0.0,Neutral,0.0,Neutral,-0.3976671993732452,Negative
 What name anime ?,0.0,Neutral,0.0,Neutral,-0.3372141420841217,Negative
 "Anyone reading this comment, thanks for tapping in, and I just want to tell you that u are unique and special in your own way. Be yourself and who cares about what others say? People will like u or they will not, and why do u need someone that don’t know u as a friend anyway? Be yourself and the people who like and admire you would come eventually",0.9615,Positive,0.3830357142857142,Positive,0.7466167211532593,Positive
@@ -719,7 +719,7 @@ But that's Okay                        😌
 I Don't need them anyway 🙄😉",0.5943,Positive,0.5,Positive,0.7024908661842346,Positive
 "Translatenya keren ngab,joget mang, joget lagi gaslah. 
 And i want to say i'm introvert too :)",0.7717,Positive,0.425,Positive,-0.3025396764278412,Negative
-i have no friends in real life,-0.3724,Negative,0.2,Neutral,-0.3437041640281677,Negative
+i have no friends in real life,-0.3724,Negative,0.2,Positive,-0.3437041640281677,Negative
 "I'm here because of KagePro theme, no more.",-0.296,Negative,-0.25,Negative,0.3173409700393677,Neutral
 nghe nghiện ghê á mà cho hỏi có ai người việt không vậy,0.0,Neutral,0.0,Neutral,-0.2846722900867462,Negative
 "No friends(happy)
@@ -732,7 +732,7 @@ T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
 "There is no place for extroverts here, this is a only introverts zone.
 Who all agree.",0.0772,Positive,0.0,Neutral,-0.4480458796024322,Negative
 I just found some people in the same situation here ...that made me feel iam not alone🙂,-0.1339,Negative,0.0,Neutral,-0.414817065000534,Negative
-Mis únicos dos amigos me cambiaron y ahora se han olvidado completamente de mí,0.228,Positive,0.05,Neutral,0.574353039264679,Positive
+Mis únicos dos amigos me cambiaron y ahora se han olvidado completamente de mí,0.228,Positive,0.05,Positive,0.574353039264679,Positive
 Same her,0.0,Neutral,0.0,Neutral,0.3303589522838592,Positive
 "No tengo amigos , pero esta bien 🥰💗👍.",0.9656,Positive,0.5,Positive,0.4398346841335296,Positive
 Me: What anime is thissss????,0.0,Neutral,0.0,Neutral,-0.3707237839698791,Negative
@@ -743,14 +743,14 @@ Yang Indonesia cuma aku ya 😢😅,0.0,Neutral,0.0,Neutral,0.3785958588123321,P
 This song very fit to become Introvert anthem.,0.4201,Positive,0.52,Positive,0.6355090737342834,Positive
 ;-;,0.0,Neutral,0.0,Neutral,0.2905960083007812,Neutral
 Ahhhh go crazy go stupid,-0.7003,Negative,-0.7,Negative,-0.6807509064674377,Negative
-*I really don't have Friends 🥲*,-0.4249,Negative,0.2,Neutral,-0.4130811691284179,Negative
+*I really don't have Friends 🥲*,-0.4249,Negative,0.2,Positive,-0.4130811691284179,Negative
 "When Teacher Asks About Your Friend and You have to answer it in 5 Marks ..,
 😂😂😂",0.8979,Positive,0.0,Neutral,0.3387737870216369,Positive
 I have no friends,-0.3724,Negative,0.0,Neutral,-0.3733395636081695,Negative
 To my those friend who betrayed on me I have my brothers to entertain,0.128,Positive,0.0,Neutral,0.5993108749389648,Positive
 They guys use 0.75 speed its more cooler,0.0,Neutral,0.5,Positive,0.3356674611568451,Positive
 "Translate indo "" JOGETT MANKKK "" be like",0.3612,Positive,0.0,Neutral,-0.3001464605331421,Negative
-"Thanks to youtube algorithm, because thats we can found this gold.",0.4404,Positive,0.2,Neutral,0.6496451497077942,Positive
+"Thanks to youtube algorithm, because thats we can found this gold.",0.4404,Positive,0.2,Positive,0.6496451497077942,Positive
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 Anime name,0.0,Neutral,0.0,Neutral,0.2618934214115143,Neutral
 "This song touches my heart💖
@@ -770,7 +770,7 @@ Then I used to sit alone at front bench
 But In last of grade7th ,a girl named khushi became my friend 😊... 
 She understood my condition and we used to talk very much... Nd then In class 8th khushi told this to her some friends and they become my friend... Now, Currently I'm in class 10th and made new friends, nd yeah I am so happy now ... 🤍
 
-But, I will never ever forget that time... Nd this song also ☺🤍",0.9939,Positive,0.0779393939393939,Neutral,0.4542075395584106,Positive
+But, I will never ever forget that time... Nd this song also ☺🤍",0.9939,Positive,0.0779393939393939,Positive,0.4542075395584106,Positive
 What app do you use? or not.....?,0.0,Neutral,0.0,Neutral,-0.3649094998836517,Negative
 👍👍🖤🖤👿,0.7269,Positive,0.0,Neutral,0.3085779249668121,Neutral
 No friends gang 😏😭,-0.6862,Negative,0.0,Neutral,-0.4993472993373871,Negative
@@ -799,7 +799,7 @@ Minum vitamin b12 bro,0.296,Positive,0.0,Neutral,0.3050839006900787,Neutral
 "why friends?
 you don't need them",0.4767,Positive,0.0,Neutral,-0.2455309480428695,Negative
 I can relate with the lyrics 🥲,0.0,Neutral,0.0,Neutral,0.3895017802715301,Positive
-"The fact i doesnt care if i have a friends or not cause i already get use to being use by thos gurl out there who was using me for draw class/sains class/pj class etc and i doesnt care anymore if they doesnt wanted to become my friends anyway,why? Heh...easy,cause i already get use to being alone more then being around all thos type of friend who see me as they tool and being a useless sister who easy to get sick,my anti-body was so weak and so useless then my own sister who good at acting alot then mine :')",0.3838,Positive,0.1072916666666666,Neutral,0.2454188913106918,Neutral
+"The fact i doesnt care if i have a friends or not cause i already get use to being use by thos gurl out there who was using me for draw class/sains class/pj class etc and i doesnt care anymore if they doesnt wanted to become my friends anyway,why? Heh...easy,cause i already get use to being alone more then being around all thos type of friend who see me as they tool and being a useless sister who easy to get sick,my anti-body was so weak and so useless then my own sister who good at acting alot then mine :')",0.3838,Positive,0.1072916666666666,Positive,0.2454188913106918,Neutral
 I rali like this song,0.3612,Positive,0.0,Neutral,0.4827961325645447,Positive
 Me and my bestfriend has been bestfriends for 8 years and its over now im kinda sad but i found this song,0.7541,Positive,0.5,Positive,0.4180039167404175,Positive
 Hearing 1000 times never felt bored,0.2057,Positive,-0.5,Negative,0.354052722454071,Positive
@@ -808,13 +808,13 @@ Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
 This is a really good song for introverts people like me but it can get annoying if this is the only song you hear for like 1 weak.Not hate im just telling from experience,-0.5429,Negative,-0.225,Negative,0.4434200823307037,Positive
 i have no friends is the best my fravoite songs are me in real life and this is one of them,0.6854,Positive,0.5666666666666667,Positive,0.8925088047981262,Positive
 I am always alone I feel alone 😔😔,-0.34,Negative,0.0,Neutral,0.5846320390701294,Positive
-"Lol poor Ken, RYU! WHERE ARE YOU? Blue Fire... RYUKEN! I know I'm stupid and for your info it's terminal blonde hair and blue eyes, lol.",-0.5972,Negative,0.0428571428571428,Neutral,-0.7273828387260437,Negative
+"Lol poor Ken, RYU! WHERE ARE YOU? Blue Fire... RYUKEN! I know I'm stupid and for your info it's terminal blonde hair and blue eyes, lol.",-0.5972,Negative,0.0428571428571428,Positive,-0.7273828387260437,Negative
 Cảm ơn bạn đã cho tui một bài rất hay,0.8402,Positive,0.8,Positive,0.280795156955719,Neutral
 "When I listen to this, It reminds me of Tomioka Giyuu",0.0,Neutral,0.0,Neutral,0.2884097695350647,Neutral
 What is the name of anime in the background????,0.0,Neutral,0.0,Neutral,-0.3390962481498718,Negative
 this is a perfect song for introverted people like me who don't want any friends,0.5305,Positive,1.0,Positive,0.8161315321922302,Positive
 this song always reminds me that i could do anything without anyone and no help because i have no FRIENDS,-0.6752,Negative,0.0,Neutral,0.6546053886413574,Positive
-My new anthem,0.0,Neutral,0.1363636363636363,Neutral,0.7313618063926697,Positive
+My new anthem,0.0,Neutral,0.1363636363636363,Positive,0.7313618063926697,Positive
 Dasar luwh nolep bedebah xialan,0.0,Neutral,0.5,Positive,0.2704247236251831,Neutral
 "I saw someone doing the parody of “let her go” so I decided to do one with this song 
 
@@ -847,9 +847,9 @@ But they never really say it
 And the last thing I wanna hear is my brother’s mocking tone
 
 So I  wanna be alone
-Run away from home",-0.8346,Negative,0.0958730158730158,Neutral,-0.3933462798595428,Negative
-Let's see how many people are still listing this amazing Nightcore since a few years ago ♥️♥️♥️,0.959,Positive,0.3,Neutral,0.8218876719474792,Positive
-Ngena banget lirik nya 😅☝,0.6478,Positive,0.2,Neutral,0.3305165767669678,Positive
+Run away from home",-0.8346,Negative,0.0958730158730158,Positive,-0.3933462798595428,Negative
+Let's see how many people are still listing this amazing Nightcore since a few years ago ♥️♥️♥️,0.959,Positive,0.3,Positive,0.8218876719474792,Positive
+Ngena banget lirik nya 😅☝,0.6478,Positive,0.2,Positive,0.3305165767669678,Positive
 music favorite oyea la la la no friends,0.1144,Positive,0.5,Positive,0.6751064658164978,Positive
 Nome do anime da tumb do vídeo por favor,0.3182,Positive,0.0,Neutral,-0.3546469807624817,Negative
 "What is the thumbnail anime name?
@@ -871,7 +871,7 @@ Is this song copyright free?,0.5106,Positive,0.4,Positive,-0.6865686178207397,Ne
 Is this song dedicated to me??,0.5204,Positive,0.0,Neutral,-0.4044541120529175,Negative
 😔👍👍👍👍👏👏🙏🙏🙏,0.0772,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I'm a shut in with no friends that's why I love this song,0.3911,Positive,0.5,Positive,0.745780885219574,Positive
-This reminds me of my old friends that moved out 😭😭😭,-0.7351,Negative,0.1,Neutral,0.6022419333457947,Positive
+This reminds me of my old friends that moved out 😭😭😭,-0.7351,Negative,0.1,Positive,0.6022419333457947,Positive
 "I can relate. The worst part is not having friends, its having having but still having the feeling of not having friends. Even though I have friends it's still so relatable.",-0.1921,Negative,-1.0,Negative,0.4485946595668793,Positive
 U know u have no friends when u listening to sad nightcore songs on repeat,-0.6862,Negative,-0.5,Negative,-0.3285915851593017,Negative
 "This is not introvert's music
@@ -986,7 +986,7 @@ I have no friends
 I'd rather be alone
 No friends
 All I need is me myself no friends
-I have no friends",-0.9954,Negative,0.2746621621621621,Neutral,0.3222492635250091,Neutral
+I have no friends",-0.9954,Negative,0.2746621621621621,Positive,0.3222492635250091,Neutral
 "I hope soon I will learn to spend time alone and love myself. This is very important for those who want to enjoy solitude. And I already knew that I want it.
 (Ps. someone advise how you can enjoy loneliness and what you can do alone, thanks)",0.923,Positive,0.404,Positive,0.5330527424812317,Positive
 I have no friend too,-0.3875,Negative,0.0,Neutral,-0.3743431568145752,Negative
@@ -995,7 +995,7 @@ No Friends bor😔😔,-0.2392,Negative,0.0,Neutral,-0.5167451500892639,Negative
 "When i was 16 i used to feel lonely
 Now I'm 17 i realised it's not that important they are temporary
 As long I have me why do I need some else
-I have me, my mom, my dad, my sisters isn't it enough.",-0.4753,Negative,0.0625,Neutral,0.4587993919849396,Positive
+I have me, my mom, my dad, my sisters isn't it enough.",-0.4753,Negative,0.0625,Positive,0.4587993919849396,Positive
 I don’t need friends. They disappoint me.,0.1027,Positive,0.0,Neutral,-0.4457146525382995,Negative
 "Who is the fujoshi of heart?    
 Psdta: If i wrote it wrong i am using google translate",0.2732,Positive,-0.5,Negative,-0.5666722655296326,Negative
@@ -1030,16 +1030,16 @@ Ini akan jadi lagu kebangsaan saya di hidup saya.,0.0,Neutral,0.0,Neutral,0.6525
 Norae gae jot ta,0.0,Neutral,0.0,Neutral,0.2849824428558349,Neutral
 From which anime this picture is,0.0,Neutral,0.0,Neutral,0.2403786778450012,Neutral
 "Fellow introverts...do not be sad...there's no such words ""No friends""...we introverted will always be friends with each other...ignore those extroverted who said you're weird...you can always hang out with introverted friends",0.7957,Positive,0.0,Neutral,0.3102408647537231,Neutral
-I really loove this song so much 🖤.,0.6666,Positive,0.2,Neutral,-0.3831817209720611,Negative
+I really loove this song so much 🖤.,0.6666,Positive,0.2,Positive,-0.3831817209720611,Negative
 muhtesem,0.5719,Positive,1.0,Positive,-0.3372156918048858,Negative
 "Me too 
 That okay....",0.2263,Positive,0.5,Positive,0.6713225841522217,Positive
 The boy in the photo from what anime please?,0.3182,Positive,0.0,Neutral,0.2313220500946045,Neutral
-After reading a lot of comments i realized how blessed im am to have such a great friend we were really closed ever since i was 9(now im 14)   We were so closed back then to the point we just considered ourselves to be siblings and everytime someone asked us what our relation is we just automatically say we are siblings and its honestly funny thinking about it now how we became friend cause literally after the two of us fight we became friend(i dont specifically remember why we fight but if i have to guess it was probably because of some other kid keep saying who would win in a fight or something like that),0.9274,Positive,0.190625,Neutral,0.6487445831298828,Positive
+After reading a lot of comments i realized how blessed im am to have such a great friend we were really closed ever since i was 9(now im 14)   We were so closed back then to the point we just considered ourselves to be siblings and everytime someone asked us what our relation is we just automatically say we are siblings and its honestly funny thinking about it now how we became friend cause literally after the two of us fight we became friend(i dont specifically remember why we fight but if i have to guess it was probably because of some other kid keep saying who would win in a fight or something like that),0.9274,Positive,0.190625,Positive,0.6487445831298828,Positive
 This song is for peope like me who have no friends and are alone,-0.2626,Negative,0.0,Neutral,0.3875837922096252,Positive
 Bài này đích thị dành cho người hướng nội như mình,0.3612,Positive,0.0,Neutral,0.3208852112293243,Neutral
 the lyrics almost same like my life xD,0.7203,Positive,0.0,Neutral,0.3436869084835052,Positive
-I like it💔I also don't have friends nobody wants me😔,-0.4318,Negative,0.2,Neutral,0.4883052110671997,Positive
+I like it💔I also don't have friends nobody wants me😔,-0.4318,Negative,0.2,Positive,0.4883052110671997,Positive
 I hate it how accurately this song defines my life 😶,-0.5719,Negative,-0.1999999999999999,Negative,0.4331307709217071,Positive
 ;) its okay,0.4215,Positive,0.375,Positive,0.6611301898956299,Positive
 Im no friends Don't talk about me i'm  down 😴😞,-0.6862,Negative,-0.1555555555555555,Negative,-0.6195927262306213,Negative
@@ -1125,19 +1125,19 @@ why my editing is not as good as yours. 😥😥😥 I hope someone will watch m
 •	assassination classroom 
 
 (Ik abt 60 more but I cant write all of them xd)
-…",-0.7666,Negative,0.2671768707482993,Neutral,0.524921715259552,Positive
+…",-0.7666,Negative,0.2671768707482993,Positive,0.524921715259552,Positive
 "' no friend ,no hate'
 -me",-0.7452,Negative,0.4,Positive,-0.3627696633338928,Negative
 Whats the anime used?,0.0,Neutral,0.0,Neutral,0.253258615732193,Neutral
 Ohhhhh perfect for me 😂,0.765,Positive,1.0,Positive,0.7445674538612366,Positive
 can you share the link of that anime image?,0.296,Positive,0.0,Neutral,0.2691918909549713,Neutral
 "I have no friends but that's ok.
-This song mean to--Fair weather friends.",0.5224,Positive,0.09375,Neutral,0.707171618938446,Positive
+This song mean to--Fair weather friends.",0.5224,Positive,0.09375,Positive,0.707171618938446,Positive
 "𝑻𝒉𝒊𝒔 𝒔𝒐𝒏𝒈𝒔 𝒊𝒔 𝒔𝒐 𝒎𝒆𝒂𝒏𝒊𝒏𝒈𝒇𝒖𝒍✪✪
 𝑰𝒕 𝒓𝒆𝒑𝒓𝒆𝒔𝒆𝒏𝒕 𝒎𝒆 𝒊𝒏 𝒎𝒚 𝒓𝒆𝒂𝒍 𝒍𝒊𝒇𝒆 ☹︎☻︎☹︎
 𝑰𝒕'𝒔 𝒕𝒉𝒆 𝒕𝒓𝒖𝒕𝒉 ఌ︎ఌ︎
 𝑰 𝒉𝒂𝒗𝒆 𝒏𝒐 𝒇𝒓𝒊𝒆𝒏𝒅𝒔 😶😶😶😶😶",-0.5859,Negative,0.0,Neutral,0.4397076368331909,Positive
-I'm finally vibin with this song after betrayed by friends many times...,-0.2263,Negative,0.25,Neutral,0.6343790292739868,Positive
+I'm finally vibin with this song after betrayed by friends many times...,-0.2263,Negative,0.25,Positive,0.6343790292739868,Positive
 Facts,0.0,Neutral,0.0,Neutral,0.4877397119998932,Positive
 Been listening to it for more than a year still love it 😀,0.7717,Positive,0.5,Positive,0.8022746443748474,Positive
 Who is still listening on 2023,0.0,Neutral,0.0,Neutral,0.2545753419399261,Neutral
@@ -1243,7 +1243,7 @@ Who is still listening on 2023,0.0,Neutral,0.0,Neutral,0.2545753419399261,Neutra
 99. The moment when you read that your school is closed for the day on the news.
 100. The feeling of being loved.
 101.if 99% of people dont like you than 75m likes you
-102. the taste of chicken",0.9991,Positive,0.2233095048226626,Neutral,0.3604713082313537,Positive
+102. the taste of chicken",0.9991,Positive,0.2233095048226626,Positive,0.3604713082313537,Positive
 "x1,5",0.0,Neutral,0.0,Neutral,0.2802401185035705,Neutral
 me to 😔,0.0772,Positive,0.0,Neutral,0.3065446019172668,Neutral
 "I have no friends,but that's ok!",-0.3595,Negative,0.625,Positive,0.7520498037338257,Positive
@@ -1251,7 +1251,7 @@ me to 😔,0.0772,Positive,0.0,Neutral,0.3065446019172668,Neutral
 Ah the good old times when I was being forced to make friends but wasn't able to. 
 
 I don't like having friends. They always hurt me or leave me so like. 
-Why waste my time on them??",-0.8925,Negative,0.1599999999999999,Neutral,-0.4846779406070709,Negative
+Why waste my time on them??",-0.8925,Negative,0.1599999999999999,Positive,-0.4846779406070709,Negative
 "I have no idea who any of you are no clue what this video is but I have only one question, where do I find pants?",-0.296,Negative,0.0,Neutral,0.2799464464187622,Neutral
 Can i use this in my video?,0.0,Neutral,0.0,Neutral,0.3054440915584564,Neutral
 i have no friends but that's okay👍👌😁,0.9297,Positive,0.0,Neutral,0.3178920745849609,Neutral
@@ -1260,7 +1260,7 @@ Like :),0.6705,Positive,0.5,Positive,0.4536491632461548,Positive
 I havê some friends bit i think i AM alone,-0.1154,Negative,0.0,Neutral,0.3653410673141479,Positive
 "This song is literally my personality. Well, it wasn't always my personality. A lot of people betrayed me, even my own cousins, when I was too. All that hurt, I tried for years on end to make friends who actually cared about me... But when I finally gave up I realized that I actually enjoyed being alone. 
 
-"" You won't succeed in anything until you fail in it"" or ""You won't stand up properly until you fall down""",-0.7537,Negative,0.0634920634920635,Neutral,0.3946160078048706,Positive
+"" You won't succeed in anything until you fail in it"" or ""You won't stand up properly until you fall down""",-0.7537,Negative,0.0634920634920635,Positive,0.3946160078048706,Positive
 "Persanoly, i don't like people but i can't hate them.",0.5334,Positive,-0.8,Negative,0.3040424287319183,Neutral
 "I liked this song's tone/ sing way.. When he singing ...  🎶""I have no friends but thats okey...j don't need them...."" 🎶",0.0317,Neutral,0.6,Positive,0.4405910968780517,Positive
 "My middle school best friends are still my best friends. We always see each other, have fun, always talk to each other, and reminisce of the good old days. We’ve been friends for almost 14 years.",0.9747,Positive,0.35625,Positive,0.8355120420455933,Positive
@@ -1268,7 +1268,7 @@ Masterpiece.....,0.6249,Positive,0.0,Neutral,0.836320698261261,Positive
 "Chat: IM ALSO INTROVERTED
 Me: thinking ofc why Else would you listen to this",0.0,Neutral,0.0,Neutral,-0.3689412474632263,Negative
 5000万再生おめでとう！！！,0.7946,Positive,0.0,Neutral,0.5533928871154785,Positive
-Прям я😁😆,0.7506,Positive,0.2,Neutral,0.3118934333324432,Neutral
+Прям я😁😆,0.7506,Positive,0.2,Positive,0.3118934333324432,Neutral
 """Being ALONE is better than being with the WRONG PERSON.""
 
 - Ate Kira",-0.567,Negative,0.0,Neutral,0.3562087714672088,Positive
@@ -1276,7 +1276,7 @@ Amazing song 🎧:),0.5859,Positive,0.55,Positive,0.8381098508834839,Positive
 Alguien sabe cómo se llama el anime?,0.0,Neutral,0.0,Neutral,-0.3376535177230835,Negative
 "The worst moment is when you are lonely, having no friends, and want to have a relationship, but you are afraid that you will be judged",-0.6029,Negative,-0.5666666666666668,Negative,-0.3097154796123504,Negative
 Stinks bro my sister appreciate this song sometimes her heart gets crashed,0.7096,Positive,-0.6,Negative,0.4142923951148987,Positive
-thanks spotify,0.4404,Positive,0.2,Neutral,0.3876586258411407,Positive
+thanks spotify,0.4404,Positive,0.2,Positive,0.3876586258411407,Positive
 "I have no friends I have My baby Kittens💖
 
 
@@ -1284,7 +1284,7 @@ thanks spotify,0.4404,Positive,0.2,Neutral,0.3876586258411407,Positive
 "Why I must care no bad people likes me?
 It's reasonless, I can live without bad
 Guys.",0.8934,Positive,-0.0712121212121211,Negative,0.4421389997005462,Positive
-Every friend i had was fake they thought i was weird Too odd They didn't like me because I liked learning Then when i reached 4th Grade I met someone who Understood me then Now i have a friend group and Now Me and my first real friend are like Killua and gon tanjiro and nezuko Naruto a Samsung close and im happy i found them,0.8954,Positive,0.0976190476190476,Neutral,-0.5329658389091492,Negative
+Every friend i had was fake they thought i was weird Too odd They didn't like me because I liked learning Then when i reached 4th Grade I met someone who Understood me then Now i have a friend group and Now Me and my first real friend are like Killua and gon tanjiro and nezuko Naruto a Samsung close and im happy i found them,0.8954,Positive,0.0976190476190476,Positive,-0.5329658389091492,Negative
 "Reading these comments I feel bad now for anybody that feels like they don’t’ have friends on the Internet…
 You got me 
 Let’s be friends.",0.6369,Positive,-0.6999999999999998,Negative,-0.531369686126709,Negative
@@ -1295,38 +1295,38 @@ Anime?,0.0,Neutral,0.0,Neutral,0.3294096887111664,Neutral
 Hay quá...nó làm tôi cảm thấy bản thân mình rõ hơn,0.4404,Positive,0.5,Positive,-0.3413491547107696,Negative
 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
 """Batida daora  uwu""",0.0258,Neutral,0.0,Neutral,-0.3641333281993866,Negative
-"probably better not having friends who can take advantage of u, lie to u, talk behind ur back, if its jus u then u know everything thats happenin",0.3283,Positive,0.0333333333333333,Neutral,0.4344589114189148,Positive
-ชอบมากๆเลย💖💕,0.9293,Positive,0.26,Neutral,0.3085779249668121,Neutral
-"Siapa yg bikin Subtitlenya ini ngakak wee ""joget mhankkk""😂",0.7579,Positive,0.3,Neutral,-0.3698809146881103,Negative
-Never knew that it was possible to have a male animated character be the most popular song on the Channel. Proof that there's a glitch in the matrix,0.4754,Positive,0.275,Neutral,-0.2454608529806137,Negative
+"probably better not having friends who can take advantage of u, lie to u, talk behind ur back, if its jus u then u know everything thats happenin",0.3283,Positive,0.0333333333333333,Positive,0.4344589114189148,Positive
+ชอบมากๆเลย💖💕,0.9293,Positive,0.26,Positive,0.3085779249668121,Neutral
+"Siapa yg bikin Subtitlenya ini ngakak wee ""joget mhankkk""😂",0.7579,Positive,0.3,Positive,-0.3698809146881103,Negative
+Never knew that it was possible to have a male animated character be the most popular song on the Channel. Proof that there's a glitch in the matrix,0.4754,Positive,0.275,Positive,-0.2454608529806137,Negative
 stupid song i hear,-0.5267,Negative,-0.7999999999999999,Negative,-0.8161267042160034,Negative
 Which anime does this two belong to?,0.0,Neutral,0.0,Neutral,0.2639517784118652,Neutral
 "Mengingatkan saya waktu saya masih sendiri😄
 Saya suka lagu ini",0.7184,Positive,0.0,Neutral,0.5183756947517395,Positive
 Joget  mangkkk😂😭❤️,-0.0516,Negative,0.0,Neutral,0.2664134502410888,Neutral
 ",",0.0,Neutral,0.0,Neutral,0.2591341137886047,Neutral
-13:33 Come live in my heart. It’s rent free.,0.8176,Positive,0.2681818181818182,Neutral,0.6124567985534668,Positive
+13:33 Come live in my heart. It’s rent free.,0.8176,Positive,0.2681818181818182,Positive,0.6124567985534668,Positive
 Başka şarkı sen seç 😸,0.6705,Positive,0.0,Neutral,0.3515072166919708,Positive
-Küçük değilim sana öyle geliyor 💆,0.0,Neutral,0.125,Neutral,0.2620445787906647,Neutral
+Küçük değilim sana öyle geliyor 💆,0.0,Neutral,0.125,Positive,0.2620445787906647,Neutral
 Sen bebk ben nayn😼,0.3612,Positive,0.0,Neutral,0.3341612815856933,Positive
 Bu şarkı 😿🤚,0.0258,Neutral,0.0,Neutral,0.380816251039505,Positive
-"Annem salmıyor, geliyorum hemen:'",0.0,Neutral,0.2857142857142857,Neutral,0.5040186047554016,Positive
+"Annem salmıyor, geliyorum hemen:'",0.0,Neutral,0.2857142857142857,Positive,0.5040186047554016,Positive
 Niye bebk ben oluyorum 💆,0.0,Neutral,0.0,Neutral,-0.2770853340625763,Negative
-Bn ilk 😏,0.0,Neutral,0.25,Neutral,0.4942920207977295,Positive
+Bn ilk 😏,0.0,Neutral,0.25,Positive,0.4942920207977295,Positive
 Hıh,0.0,Neutral,0.0,Neutral,-0.3086190819740295,Negative
 "I mean, i came here to listen lolicore ended up here.
 
 I can only feel bad for the little auspie who thinks that being a social weirdo makes him look cool.
 Don't do it kids",-0.6124,Negative,-0.136111111111111,Negative,-0.2868174016475677,Negative
 Nghe hay quá đi mất,0.5777,Positive,0.7,Positive,-0.4187138080596924,Negative
-Is this real anime,0.0,Neutral,0.2,Neutral,0.5091134309768677,Positive
+Is this real anime,0.0,Neutral,0.2,Positive,0.5091134309768677,Positive
 😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Who needs one when they would rather trust what others say behind your back instead of trusting you more? And things always change from one mouth to another. Duh they can go and fck themselves up. I don't need people like that in my life.,0.598,Positive,-0.05,Negative,-0.354775995016098,Negative
 5:15 Hate has a reason for everthing but love is unreasonable.,0.6652,Positive,-0.15,Negative,-0.2728886008262634,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Wow<3,0.0,Neutral,0.0,Neutral,0.6465064883232117,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-I have no friends but it gets better in the end and I hope nightcore live for life,0.7859,Positive,0.3181818181818182,Neutral,0.3779092133045196,Positive
+I have no friends but it gets better in the end and I hope nightcore live for life,0.7859,Positive,0.3181818181818182,Positive,0.3779092133045196,Positive
 """I have no friends but l have family"" :)",0.8033,Positive,0.5,Positive,0.3838027715682983,Positive
 What's ur zodiac sign? Mine's Gemini!!!,0.0,Neutral,0.0,Neutral,-0.4571229815483093,Negative
 This song is very best,0.6697,Positive,1.0,Positive,0.757620632648468,Positive
@@ -1337,11 +1337,11 @@ I have no friends that's okay I don't need them anyway,-0.1665,Negative,0.5,Posi
 "Please support my channel
 https://youtube.com/channel/UCDNyLO_WX-OSYv-uOPuQLPQ",0.6124,Positive,0.0,Neutral,0.3411766290664673,Positive
 This is my anthem,0.0,Neutral,0.0,Neutral,0.7731617093086243,Positive
-That's right no friends.,-0.3724,Negative,0.2857142857142857,Neutral,0.3126189708709717,Neutral
+That's right no friends.,-0.3724,Negative,0.2857142857142857,Positive,0.3126189708709717,Neutral
 the wallpaper from which anime,0.0,Neutral,0.0,Neutral,0.2668672502040863,Neutral
 I have no friends 😭😭,-0.8296,Negative,0.0,Neutral,-0.3669717609882355,Negative
 I'm don't have friends and I'm so alone but I love listen in music,0.6387,Positive,0.5,Positive,0.4992836117744446,Positive
-bro time files fast,0.0,Neutral,0.2,Neutral,0.3251821398735046,Neutral
+bro time files fast,0.0,Neutral,0.2,Positive,0.3251821398735046,Neutral
 But that girl definitely have a crush on him 💙🦋,0.8573,Positive,0.0,Neutral,0.3972916305065155,Positive
 This version sounds like it's sung by Alec Benjamin,0.3612,Positive,0.0,Neutral,0.3675578534603119,Positive
 I have no friends but its okay😄😜😎,0.9157,Positive,0.0,Neutral,0.3061937987804413,Neutral
@@ -1349,11 +1349,11 @@ Nas,0.0,Neutral,0.0,Neutral,0.2759290933609009,Neutral
 "I never thought of anyone an ally or friends people are just tools to me 
 
 -Kiyotaka Ayanokoji",0.4767,Positive,0.0,Neutral,0.3892854452133178,Positive
-I amp so pissed off y i don't have friends i really need one,-0.8368,Negative,0.2,Neutral,-0.597479522228241,Negative
+I amp so pissed off y i don't have friends i really need one,-0.8368,Negative,0.2,Positive,-0.597479522228241,Negative
 I always sacrifice myself for my friends but they always disappoint me later on,-0.3612,Negative,0.0,Neutral,0.5009008049964905,Positive
 "Nursery-Grade 5 i do have friends and best friends but they are only few of them but it was fine. but in Grade 6-10 i did have a friend but only few of them cause of my changes in behavior and the why i move which put everybody away from me and those changes are worse but at the same time it was it was fine but most of the high school year they had already had a group which i don't have because prefer to be alone
 
-So basically in my entire life i had only a few friends but it was fine",0.9201,Positive,0.1273333333333333,Neutral,0.4702965021133423,Positive
+So basically in my entire life i had only a few friends but it was fine",0.9201,Positive,0.1273333333333333,Positive,0.4702965021133423,Positive
 "Someone : What's your friend name?
 Me : I have no friends.. 
 Someone : Why..?? 
@@ -1376,10 +1376,10 @@ Can't stop listening to this song,0.2235,Positive,0.0,Neutral,-0.392950475215911
 I got betrayed by my friend",-0.2023,Negative,0.0,Neutral,0.3843630850315094,Positive
 I feel the same,0.0,Neutral,0.0,Neutral,-0.3475815057754516,Negative
 "Some people are trying not be alone but they can't do this.
-Because its the way to live life alone all the time.",-0.2801,Negative,0.1363636363636363,Neutral,0.4029189050197601,Positive
+Because its the way to live life alone all the time.",-0.2801,Negative,0.1363636363636363,Positive,0.4029189050197601,Positive
 can anyone say what this anime name is ???,0.0,Neutral,0.0,Neutral,-0.5140807032585144,Negative
 Apa judul anime nya?,0.0,Neutral,0.0,Neutral,-0.2972486913204193,Negative
-"As an ARMY a perfect song for me...a song that represents the whole ""me""... Not a single word that doesn't suites  me..been searching for kinda song in mind🐸 for long time..finally found it..love it😉",0.5719,Positive,0.2964285714285714,Neutral,0.8425401449203491,Positive
+"As an ARMY a perfect song for me...a song that represents the whole ""me""... Not a single word that doesn't suites  me..been searching for kinda song in mind🐸 for long time..finally found it..love it😉",0.5719,Positive,0.2964285714285714,Positive,0.8425401449203491,Positive
 Dude this song means alot cause in class and stuff they pick on me for being me and wearing what i love 2022 is messed up the world is messed up i try with what i got i might not have as much money but dont gotta say anything,0.0516,Positive,0.35,Positive,-0.7421354651451111,Negative
 Introverts life:,0.0,Neutral,0.0,Neutral,0.481675386428833,Positive
 Woiii translate nya ngakak....hahahha,0.0,Neutral,0.0,Neutral,-0.417668342590332,Negative
@@ -1390,7 +1390,7 @@ I'd rather have friends
 thats not okay
 without friends you would be lonely
 and sad
-having bff's is better than just being alone",-0.1798,Negative,0.0133333333333333,Neutral,-0.5381263494491577,Negative
+having bff's is better than just being alone",-0.1798,Negative,0.0133333333333333,Positive,-0.5381263494491577,Negative
 continuing my nightcore phase 💀,0.0,Neutral,0.0,Neutral,0.4959804713726043,Positive
 日本ｼﾞﾝﾆｷいる？,0.0,Neutral,0.0,Neutral,-0.3955462574958801,Negative
 Good editing,0.4404,Positive,0.7,Positive,0.5288203954696655,Positive
@@ -1406,7 +1406,7 @@ I HAVE NO FRIENDS BUT THATS OK I DONT NEED THEM ANYWAY BECAUSE THEY CAN BETRAY U
 this is just like me friends just can betray u what is the use of them,0.1027,Positive,0.0,Neutral,0.6421141028404236,Positive
 What this anime names,0.0,Neutral,0.0,Neutral,0.62848299741745,Positive
 Guapo💓💓💓😘😘😍😇,0.9607,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Спустя долгое время я снова слушаю эту песню, в этой обработке она великолепна, спасибо за это🌸",0.7906,Positive,0.3166666666666666,Neutral,0.78596031665802,Positive
+"Спустя долгое время я снова слушаю эту песню, в этой обработке она великолепна, спасибо за это🌸",0.7906,Positive,0.3166666666666666,Positive,0.78596031665802,Positive
 what name anime for background pic..... please tell me,0.3182,Positive,0.0,Neutral,0.244803637266159,Neutral
 I like the edit :>,0.6808,Positive,0.5,Positive,0.4773641228675842,Positive
 Same,0.0,Neutral,0.0,Neutral,-0.2256717085838318,Negative
@@ -1414,11 +1414,11 @@ Sad fact :we came here to listen because it related in our lives,-0.4767,Negativ
 I am tired of trying to get attention. I don’t want to crack those annoying jokes anymore but I don’t want to be invisible as well. I only want someone to truly care about me.🥺,0.8898,Positive,-0.4000000000000001,Negative,-0.3867877125740051,Negative
 Not only are the lyrics great but it sounds so nice 🙂,0.9087,Positive,0.4666666666666666,Positive,0.5067610144615173,Positive
 Where is the picture from?,0.0,Neutral,0.0,Neutral,-0.4058030843734741,Negative
-Right song for me... thank you for this...,0.3612,Positive,0.2857142857142857,Neutral,0.803051769733429,Positive
+Right song for me... thank you for this...,0.3612,Positive,0.2857142857142857,Positive,0.803051769733429,Positive
 "i love dis song so much
 
 😍😍😘😘",0.944,Positive,0.35,Positive,0.8087059259414673,Positive
-"I know how sad it is to lost a friend but it is sadder that you never get that another friendly to him or is on par with him. this happened to me, I had a friend in my tuition. he and I usually laughed at each other jokes.  the funny part is that the was 5 years old than me but our mind wavelength. I was considered the most silent and proper student in the class and he was considered a hotshot and playboy. we both were good at studying. I always seem to know how he felt because at that moment I was just like him lonely but after some, we became best friends. but after his graduation, he left the city it's been 15 years now. I don't even know if he survived the pandemic but he was the best friend I ever had and I always want to be him. his name is Rajat",0.993,Positive,0.2785714285714286,Neutral,0.296251505613327,Neutral
+"I know how sad it is to lost a friend but it is sadder that you never get that another friendly to him or is on par with him. this happened to me, I had a friend in my tuition. he and I usually laughed at each other jokes.  the funny part is that the was 5 years old than me but our mind wavelength. I was considered the most silent and proper student in the class and he was considered a hotshot and playboy. we both were good at studying. I always seem to know how he felt because at that moment I was just like him lonely but after some, we became best friends. but after his graduation, he left the city it's been 15 years now. I don't even know if he survived the pandemic but he was the best friend I ever had and I always want to be him. his name is Rajat",0.993,Positive,0.2785714285714286,Positive,0.296251505613327,Neutral
 "11:02 Honey, you dropped this lover!",0.6996,Positive,0.0,Neutral,-0.4159180819988251,Negative
 I relate of this song that I dont have friends,-0.3724,Negative,0.0,Neutral,0.2787415981292724,Neutral
 I AGRRE WITH ALL COMMENTS HERE,0.3612,Positive,0.0,Neutral,-0.4332376718521118,Negative
@@ -1429,7 +1429,7 @@ Is this anime?,0.0,Neutral,0.0,Neutral,-0.2764118909835815,Negative
 I have no friends, but that's okay, I don't need them anyways, I do my best on my own",0.914,Positive,0.4654761904761905,Positive,0.6137372851371765,Positive
 "this song is amazing, it's my favorite so far <3",0.8744,Positive,0.55,Positive,0.818123996257782,Positive
 Looooooooooove😍😍😍😍😍😍😍😍😍😍😍😍,0.9872,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Totally made me feel better to be a lonely person :),0.5267,Positive,0.225,Neutral,0.6527443528175354,Positive
+Totally made me feel better to be a lonely person :),0.5267,Positive,0.225,Positive,0.6527443528175354,Positive
 What is the name of the anime,0.0,Neutral,0.0,Neutral,0.2861919701099396,Neutral
 "No stress bro, if you’ll notice, someone in ClaSSS is watching you. You’re in. 😇🐰♒️🦊😇",0.8091,Positive,0.0,Neutral,0.2374005913734436,Neutral
 This song is made for me,0.0,Neutral,0.0,Neutral,0.5533266067504883,Positive
@@ -1448,7 +1448,7 @@ which anime is this,0.0,Neutral,0.0,Neutral,0.2289957702159881,Neutral
 His voice is so handsome (＊￣︶￣＊),0.6269,Positive,0.5,Positive,0.7222315073013306,Positive
 Having no friends is better than having friends,0.534,Positive,0.5,Positive,0.3071789145469665,Neutral
 I have friends but weebs like me but we don't meet too often as we don't go out of our houses...,0.6486,Positive,0.0,Neutral,0.6428244113922119,Positive
-I saw my friends with there new friends and they keep ignoring me and pretend they didn't know me😊,0.5603,Positive,0.1363636363636363,Neutral,0.2841791212558746,Neutral
+I saw my friends with there new friends and they keep ignoring me and pretend they didn't know me😊,0.5603,Positive,0.1363636363636363,Positive,0.2841791212558746,Neutral
 "I would rather be real and have no friends than be false and have lots of fake ones.
 
 .Steve Wenthworth.",-0.6862,Negative,-0.2333333333333333,Negative,-0.3801623284816742,Negative
@@ -1481,8 +1481,8 @@ Somos muchos a q le gusta este género :),0.6705,Positive,0.5,Positive,0.5376082
      
 
 
-       No one will be alone forever. No one should give up after one heartbreak. No one should avoid others for just ‘schoolwork’. No one should focus on what others think. No one should fake a smile for others. And finally.. No one. Is alone. We’re all here together, on Earth. So the least we can do is help each other out.",0.935,Positive,0.1028852513227513,Neutral,0.2874706387519836,Neutral
-Update pet simulator x new year,0.0,Neutral,0.1363636363636363,Neutral,0.3952648043632507,Positive
+       No one will be alone forever. No one should give up after one heartbreak. No one should avoid others for just ‘schoolwork’. No one should focus on what others think. No one should fake a smile for others. And finally.. No one. Is alone. We’re all here together, on Earth. So the least we can do is help each other out.",0.935,Positive,0.1028852513227513,Positive,0.2874706387519836,Neutral
+Update pet simulator x new year,0.0,Neutral,0.1363636363636363,Positive,0.3952648043632507,Positive
 Good :),0.7096,Positive,0.6,Positive,0.4845014810562134,Positive
 As someone who' doesn't had friends from 11 years this is my favourite song,-0.3724,Negative,0.0,Neutral,0.7715437412261963,Positive
 Minha descrição:,0.0,Neutral,0.0,Neutral,0.2594660222530365,Neutral

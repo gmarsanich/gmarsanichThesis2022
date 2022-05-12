@@ -3,11 +3,11 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 São anos sem cansar ver esse homem dançar!",0.4753,Positive,1.0,Positive,-0.4515841007232666,Negative
 HA↑ey fitzgera↑d is the best.😊,0.8807,Positive,0.0,Neutral,0.7783901691436768,Positive
 Which dance form is this?,0.0,Neutral,0.0,Neutral,0.2656604349613189,Neutral
-They all look like they are having fun...the second group of guys especially ;),0.5709,Positive,0.0833333333333333,Neutral,0.4761104583740234,Positive
+They all look like they are having fun...the second group of guys especially ;),0.5709,Positive,0.0833333333333333,Positive,0.4761104583740234,Positive
 everyone is outstanding... ❤,0.8481,Positive,0.5,Positive,0.829926609992981,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Charlize f***ing murdered this dance!!,-0.717,Negative,0.0,Neutral,-0.7519640326499939,Negative
-D last girl is deadly. Love you,0.6369,Positive,0.25,Neutral,0.8143448829650879,Positive
+D last girl is deadly. Love you,0.6369,Positive,0.25,Positive,0.8143448829650879,Positive
 The middle girl on the first group is Soo unbelievable OMG I wish I could dance like her 😭😭❤️,-0.0516,Negative,0.0,Neutral,0.2857800424098968,Neutral
 Amazing Choreo with hit song Taki Taki.,0.5859,Positive,0.6000000000000001,Positive,0.7686015963554382,Positive
 TAYLOR IT'S MUCHHHH AMAZINGG,0.0,Neutral,0.0,Neutral,0.5813612937927246,Positive
@@ -16,10 +16,10 @@ So calmly finished each step.. 👍🏼👍🏼♥️♥️♥️♥️",0.9766,
 I love it♥️♥️♥️,0.9571,Positive,0.5,Positive,0.8262207508087158,Positive
 The men killed it!! dude in the center sealed the deal.,-0.7256,Negative,-0.20625,Negative,-0.4597955644130707,Negative
 💙💜💖👍,0.9413,Positive,0.0,Neutral,0.3085779249668121,Neutral
-What is the name of the girl in the middle at the first group?  She's cool,0.3182,Positive,0.1999999999999999,Neutral,0.3530573546886444,Positive
-They probably shouldn't have put Charlize first 😅🔥 #goat,0.0258,Neutral,0.25,Neutral,-0.3192530274391174,Negative
+What is the name of the girl in the middle at the first group?  She's cool,0.3182,Positive,0.1999999999999999,Positive,0.3530573546886444,Positive
+They probably shouldn't have put Charlize first 😅🔥 #goat,0.0258,Neutral,0.25,Positive,-0.3192530274391174,Negative
 Pll,0.0,Neutral,0.0,Neutral,0.2205928266048431,Neutral
-The girl in the middle for the first group rocks......,0.0,Neutral,0.125,Neutral,0.3004098236560821,Neutral
+The girl in the middle for the first group rocks......,0.0,Neutral,0.125,Positive,0.3004098236560821,Neutral
 The FPC is crazy,-0.34,Negative,-0.6,Negative,0.5360220074653625,Positive
 The middle girl is perfect,0.5719,Positive,0.5,Positive,0.5395032167434692,Positive
 Common fun fact that every one knows that is : imaging we are that guys who are doncing,0.5106,Positive,0.0,Neutral,0.448470801115036,Positive
@@ -30,23 +30,23 @@ Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 Ohhh no second group middle guy is op...!!!,-0.4724,Negative,0.0,Neutral,-0.3345474004745483,Negative
 I was for a second confused whether video is playing at 1.75x speed,-0.128,Negative,-0.2,Negative,-0.298304796218872,Negative
-Ok but the first girl in white??? DAMN! How is it even possible to have so much control on your body?!?!? She literally hit every single beat with such finesse. I-,-0.7836,Negative,0.1415816326530612,Neutral,-0.3474484086036682,Negative
-Wow the first girl in the middle was dancing like queen 🔥,0.5994,Positive,0.1166666666666666,Neutral,0.5897354483604431,Positive
-Who knows the name of first girl in the middle?😍,0.4588,Positive,0.25,Neutral,-0.2904720604419708,Negative
-Я залипла на первой девочке посередине😍😍😍😍😍,0.9186,Positive,0.25,Neutral,-0.3088291585445404,Negative
+Ok but the first girl in white??? DAMN! How is it even possible to have so much control on your body?!?!? She literally hit every single beat with such finesse. I-,-0.7836,Negative,0.1415816326530612,Positive,-0.3474484086036682,Negative
+Wow the first girl in the middle was dancing like queen 🔥,0.5994,Positive,0.1166666666666666,Positive,0.5897354483604431,Positive
+Who knows the name of first girl in the middle?😍,0.4588,Positive,0.25,Positive,-0.2904720604419708,Negative
+Я залипла на первой девочке посередине😍😍😍😍😍,0.9186,Positive,0.25,Positive,-0.3088291585445404,Negative
 LBH suka bagian cowok yg joget,0.4215,Positive,0.0,Neutral,0.2836996018886566,Neutral
 🔥🔥🔥🔥🔥🔥,-0.9081,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Moves🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "Only the first girl in white danced it as clean and detailed.,
 Watched it repeatedly since it was posted and really only watches her part😂
-She danced too good that the others’ performance look lackluster and rushed",0.8176,Positive,0.2452380952380952,Neutral,-0.4668578803539276,Negative
-Fun fact : We all are emagning us dance Infront of them,0.5106,Positive,0.3,Neutral,0.5041957497596741,Positive
+She danced too good that the others’ performance look lackluster and rushed",0.8176,Positive,0.2452380952380952,Positive,-0.4668578803539276,Negative
+Fun fact : We all are emagning us dance Infront of them,0.5106,Positive,0.3,Positive,0.5041957497596741,Positive
 "this is unbelievable 😮😮But wonderful, their dance is accurate and amazing 🤩🤩🎭🤩And continue",0.8519,Positive,0.4375,Positive,0.9070346355438232,Positive
 Kut🥰🥰❤❤😘😘😘😘🤘🤘🤘,0.9874,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "2nd group; the middle guy was like ""this is my thing""",0.3612,Positive,0.0,Neutral,0.2985192537307739,Neutral
 Charlize & Bailey DAMNNNNNNNNNNNNN,0.0,Neutral,0.0,Neutral,0.2502529919147491,Neutral
 Q,0.0,Neutral,0.0,Neutral,0.2450127899646759,Neutral
-Okay the guy standing in the front in second round was fiyaa🔥🔥🔥,-0.6486,Negative,0.0999999999999999,Neutral,0.855216383934021,Positive
+Okay the guy standing in the front in second round was fiyaa🔥🔥🔥,-0.6486,Negative,0.0999999999999999,Positive,0.855216383934021,Positive
 Hi I m  sari I want teach dance that like u tell me pls,0.4767,Positive,0.0,Neutral,0.3078131973743438,Neutral
 All danced so amazing but the first girl n boys did sooo well ...enjoyed alot to see...,0.876,Positive,0.425,Positive,0.4268723130226135,Positive
 👍👍👍 soooooooooo gud,0.0,Neutral,0.0,Neutral,0.3053366541862488,Neutral
@@ -54,22 +54,22 @@ i love ur vids,0.6369,Positive,0.5,Positive,0.7019127607345581,Positive
 TAKI TAKI,0.0,Neutral,0.0,Neutral,0.2414708882570266,Neutral
 "That girl in the middle her moves 
 Her dancing skills are very amazing
-Edit: the first one I mean",0.624,Positive,0.179375,Neutral,0.5047639608383179,Positive
+Edit: the first one I mean",0.624,Positive,0.179375,Positive,0.5047639608383179,Positive
 Look at me sitting here doing nothing and imagining am the last girl dancing,0.0,Neutral,0.0,Neutral,-0.6829373836517334,Negative
 Selena’s part is so dope ♥️,0.6682,Positive,0.0,Neutral,0.2816291451454162,Neutral
-"Very awasome, l like this dance 😘😘😘",0.9252,Positive,0.2,Neutral,0.5891878008842468,Positive
+"Very awasome, l like this dance 😘😘😘",0.9252,Positive,0.2,Positive,0.5891878008842468,Positive
 The girl in the middle she's fucking hit the beat,0.0,Neutral,-0.3,Negative,-0.3222047686576843,Negative
-The first girl in the middle forgot she 's human for a moment ❤🔥,0.4215,Positive,0.0833333333333333,Neutral,0.2465812712907791,Neutral
+The first girl in the middle forgot she 's human for a moment ❤🔥,0.4215,Positive,0.0833333333333333,Positive,0.2465812712907791,Neutral
 Bailey Everywhere LoL.. 🤣🤣🤣🤣✌️✌️✌️,0.9393,Positive,0.8,Positive,-0.3502879440784454,Negative
 "*THE CASUAL GIRLS ARE **DATEUS.UNO* 
 
 YOUTUBE: THIS ID FINE 
 SOMEONE: SAYS ''HECK'' 
 YOUTUBE: BE GONE 
-однако я люблю таких рыбаков..",0.8506,Positive,0.1388888888888888,Neutral,0.3037438094615936,Neutral
+однако я люблю таких рыбаков..",0.8506,Positive,0.1388888888888888,Positive,0.3037438094615936,Neutral
 Yes !!! The camera man is amazing !!!,0.8257,Positive,1.0,Positive,0.8527517914772034,Positive
 man is aint nobody gonna appreciate those dudes?! THEY KILLED IT.,-0.8309,Negative,-0.2,Negative,-0.7909160852432251,Negative
-charlize killed the damn beats and the song and god haley being smooth af💖,0.0772,Positive,0.1,Neutral,0.537407636642456,Positive
+charlize killed the damn beats and the song and god haley being smooth af💖,0.0772,Positive,0.1,Positive,0.537407636642456,Positive
 I can do the dance I practiced for 1year,0.0,Neutral,0.0,Neutral,0.4016492664813995,Positive
 The white guy ate!! So effortlessly. She was gangster!,0.0,Neutral,0.0,Neutral,-0.6987519860267639,Negative
 "I missed really those lovely days forever,,,,.....from my LOVER'S HAVEN",0.4364,Positive,0.35,Positive,0.4144163727760315,Positive
@@ -84,10 +84,10 @@ Boys,0.0,Neutral,0.0,Neutral,0.3807892799377441,Positive
 I can see them bro,0.0,Neutral,0.0,Neutral,0.347463309764862,Positive
 I’m so in love with Anthonyyyyy 🥺🥺,0.6682,Positive,0.5,Positive,0.7299944162368774,Positive
 Shepherd's Chapel Network !!!!!!! Pastor Murray is an Anointed Servant of GOD who teaches the Word of GOD with Authority!!!!!!!,0.7983,Positive,0.0,Neutral,0.606583833694458,Positive
-The middle girl in the first group giving me goosebumps,0.34,Positive,0.125,Neutral,0.3439091742038727,Positive
+The middle girl in the first group giving me goosebumps,0.34,Positive,0.125,Positive,0.3439091742038727,Positive
 "Just watching,imagining doing the same thing😂",0.4404,Positive,0.0,Neutral,0.3165643215179443,Neutral
 dikshaborah11@gmail.com,0.0,Neutral,0.0,Neutral,0.2567406892776489,Neutral
-How can they move sooo fast?!?? 🙉🙉,0.0,Neutral,0.25,Neutral,0.2972365319728851,Neutral
+How can they move sooo fast?!?? 🙉🙉,0.0,Neutral,0.25,Positive,0.2972365319728851,Neutral
 I'm back since 2018,0.0,Neutral,0.0,Neutral,0.2430229783058166,Neutral
 Love ❤️ it,0.6369,Positive,0.5,Positive,0.7637840509414673,Positive
 Asian girl so so !!! No good for Latin rhythms,-0.4595,Negative,-0.175,Negative,-0.4368839561939239,Negative
@@ -108,33 +108,33 @@ HELDPDPDB THE GUY IN THE MIDDLE FROM THE SECOND GRP KINDA LOOK LIKE KLAUS FROM U
 What dance style is that?,0.0,Neutral,0.0,Neutral,0.2773231863975525,Neutral
 😳😍❤👌👌👌,0.9766,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Vocês são fantásticos. Eu amei ❤️❤️,0.8176,Positive,0.55,Positive,0.8539034128189087,Positive
-"the second trio is the best, especially that guy in the middle: a little bit hooligan, but really charming",0.8238,Positive,0.2520833333333333,Neutral,0.6785612106323242,Positive
+"the second trio is the best, especially that guy in the middle: a little bit hooligan, but really charming",0.8238,Positive,0.2520833333333333,Positive,0.6785612106323242,Positive
 How could I not comment?.OMG this is serious perfection,0.5267,Positive,-0.3333333333333333,Negative,0.7838568091392517,Positive
-Alot  cheer for the first group but only the girl in the middle but wow the forth was sooooo  good the girl in yellow n black she was brave to do it on her own🌹❤,0.9738,Positive,0.2104166666666666,Neutral,0.400852233171463,Positive
+Alot  cheer for the first group but only the girl in the middle but wow the forth was sooooo  good the girl in yellow n black she was brave to do it on her own🌹❤,0.9738,Positive,0.2104166666666666,Positive,0.400852233171463,Positive
 cool....,0.3182,Positive,0.35,Positive,0.4179199635982513,Positive
-Omg I don't see this type of dance 😮 it is next level🙄 Ist is outstanding,0.6124,Positive,0.25,Neutral,0.5549895167350769,Positive
+Omg I don't see this type of dance 😮 it is next level🙄 Ist is outstanding,0.6124,Positive,0.25,Positive,0.5549895167350769,Positive
 "Okay they all rocked this too be honest 
 You all let them have the dancing vibe without being judged and without nervous feelings it lets me have the vibe already",0.7196,Positive,0.55,Positive,0.7919955253601074,Positive
 Congrats to the choreographer,0.5267,Positive,0.0,Neutral,0.2659515142440796,Neutral
 The Asian girl can dance good but not made for Latin rhythms!!!!,0.4798,Positive,0.5,Positive,0.4938517808914184,Positive
 I’m in love with the cap girl😅😜🤪,0.7717,Positive,0.5,Positive,0.6645026206970215,Positive
 😘👌💯💥💥💥💥💃💃💃💃,-0.0173,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"Galatians 2:20 ""I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me."" :)",0.9442,Positive,0.3218181818181818,Neutral,0.5932442545890808,Positive
-"Nice!  Bailey, Charlize, Taylor, Haley, and Kyndall went crazy!  By the way, I like Kyndall's unique touch on the choreography!  God bless you all!",0.8388,Positive,0.1953125,Neutral,0.6131702661514282,Positive
+"Galatians 2:20 ""I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me."" :)",0.9442,Positive,0.3218181818181818,Positive,0.5932442545890808,Positive
+"Nice!  Bailey, Charlize, Taylor, Haley, and Kyndall went crazy!  By the way, I like Kyndall's unique touch on the choreography!  God bless you all!",0.8388,Positive,0.1953125,Positive,0.6131702661514282,Positive
 1lla,0.0,Neutral,0.0,Neutral,0.2455432564020156,Neutral
 "📌B.e.S.T f'u''l'l D.a.T.i.n.G h.o.T G.i.r.L's
 —L—o—V—e—S—e—X——🆕⤵️
 ➡️ hotslut.live/885sexygirlxxxgermansex
 
-!💖🖤❤️今後は気をライブ配信の再編ありがとうです！この日のライブ配信は、かならりやばかったですね！１万人を超える人が見ていたもん（笑）やっぱり人参最高！まさかのカメラ切り忘れでやら1かしたのもドキドキでした,. 💖🖤在整個人類歷史上，強者，富人和具有狡猾特質的人捕食部落，氏族，城鎮，城市和鄉村中的弱者，無`'守和貧窮成員。然而，人類的生存意願迫使那些被拒絕，被剝奪或摧毀的基本需求的人們找到了一種生活方式，並繼續將其DNA融入不斷發展的人類社會。. 說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品市場上被忽略的部分家用蔬菜和肉類，並且學會了使用芳香的木煙（如山核桃，山核桃和豆科灌木 來調味g食物煮的時候$%$",0.9309,Positive,0.0678904428904429,Neutral,-0.3282644152641296,Negative
+!💖🖤❤️今後は気をライブ配信の再編ありがとうです！この日のライブ配信は、かならりやばかったですね！１万人を超える人が見ていたもん（笑）やっぱり人参最高！まさかのカメラ切り忘れでやら1かしたのもドキドキでした,. 💖🖤在整個人類歷史上，強者，富人和具有狡猾特質的人捕食部落，氏族，城鎮，城市和鄉村中的弱者，無`'守和貧窮成員。然而，人類的生存意願迫使那些被拒絕，被剝奪或摧毀的基本需求的人們找到了一種生活方式，並繼續將其DNA融入不斷發展的人類社會。. 說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品市場上被忽略的部分家用蔬菜和肉類，並且學會了使用芳香的木煙（如山核桃，山核桃和豆科灌木 來調味g食物煮的時候$%$",0.9309,Positive,0.0678904428904429,Positive,-0.3282644152641296,Negative
 "After watching so many different choreography of this song, in my opinion this choreography is the best, hit every point.",0.6369,Positive,0.5,Positive,0.7900055646896362,Positive
 Am I watching the best dancers dancing in this video? I had to check whether I have not increased the video speed.,0.5245,Positive,1.0,Positive,0.3570139408111572,Positive
 ♥️♥️♥️♥️♥️♥️♥️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️❤️♥️,0.9983,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love It I wish I was a good danser,0.8689,Positive,0.6,Positive,0.7856698632240295,Positive
 Come to India!!!! Loved itttt,0.7243,Positive,0.7,Positive,0.8178030848503113,Positive
-Wow what a dance 🤗🤗🤗🤗,0.9325,Positive,0.1,Neutral,0.8307753801345825,Positive
+Wow what a dance 🤗🤗🤗🤗,0.9325,Positive,0.1,Positive,0.8307753801345825,Positive
 Charlize and Anthony were the only two I was impressed with... 🤷🏻‍♀️,0.4767,Positive,0.5,Positive,0.3989321589469909,Positive
-First girl in a center looks so passionate about dancing,0.656,Positive,0.0333333333333333,Neutral,0.716526448726654,Positive
+First girl in a center looks so passionate about dancing,0.656,Positive,0.0333333333333333,Positive,0.716526448726654,Positive
 "shorturl.ca/girlshotsabll
 !🆂🅴🆇 🅿️🆁🅸🆅🅰️🆃🅴!🅽🆄🅳🅴
 !👌
@@ -142,9 +142,9 @@ First girl in a center looks so passionate about dancing,0.656,Positive,0.033333
 
 ❤️ 今後は気をライブ配信の再編ありがとうです！この日のライブ配信は、かならりやばかったですね！１万人を超える人が見ていたもん（笑）やっぱり人参最高！まさかのカメラ切り忘れでやら1かしたのもドキドキでした {-String.Spintax- | - {林檎|アプリコット|バナナ|キウイ|レモン|オレンジ|パイナップル} -} ! 🤩
 在整個人類歷史上，強者，富人和具有狡猾特質的人捕食部落，氏族，城鎮，城市和鄉村中的弱者，無`'守和貧窮成%員。然而，人類的生存意願迫使那些被拒絕，被剝奪或摧毀的基本需求的人們找到了一種生活方式，並繼續將其DNA融入不斷發展的人類社會。.  說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品市場上被忽略的部分家用蔬菜和肉類，並且學會了使用芳香的木煙
-（如山核桃 !",0.8675,Positive,0.0806687565308254,Neutral,0.2324095964431762,Neutral
-The guys in the second group were so cool,0.4572,Positive,0.175,Neutral,0.5010757446289062,Positive
-"Coming back to this video 2 years later, Charlize is still so powerful, YESSSS",0.5598,Positive,0.0999999999999999,Neutral,0.5243781805038452,Positive
+（如山核桃 !",0.8675,Positive,0.0806687565308254,Positive,0.2324095964431762,Neutral
+The guys in the second group were so cool,0.4572,Positive,0.175,Positive,0.5010757446289062,Positive
+"Coming back to this video 2 years later, Charlize is still so powerful, YESSSS",0.5598,Positive,0.0999999999999999,Positive,0.5243781805038452,Positive
 "When people say k pop dances are hard, they haven't seen Kyle Hanagami choreography.",-0.1027,Negative,-0.2916666666666667,Negative,-0.3082199394702911,Negative
 The very last girl that danced grabbed my attention and kept it!  Extremely talented!!!!!!!,0.6967,Positive,0.5,Positive,0.9099193811416626,Positive
 "ssur.cc/kissxxxzvlro
@@ -156,12 +156,12 @@ The very last girl that danced grabbed my attention and kept it!  Extremely tale
 
 Pertanto, il costante supporto informativo e propagandistico delle nostre attivita contribuisce alla preparazione e all'implementazione di ulteriori direzioni di sviluppo. A proposito, gli scenari di base del comportamento degli utenti stanno guadagnando popolarita tra alcuni segmenti della popolazione, il che significa che dovrebbero essere indicati come contendenti per il ruolo di fattori chiave.
 Solo gli imprenditori online non sono altro che la quintessenza della vittoria del marketing sulla ragione e dovrebbero essere limitati al solo modo di pensare. Un'esperienza ricca e diversificata ci dice che i test sintetici, cosi come un nuovo sguardo alle cose familiari, aprono sicuramente nuovi orizzonti per gli approcci standard..
-Sendo apenas uma parte do quadro geral, os cenarios basicos de comportamento do usuario sao ambiguos e serao motivo de chacota, embora sua propria existencia traga beneficios indiscutiveis para a sociedade. Em nossa busca por melhorar a experiencia do usuario, sentimos falta de que as conclusoes tiradas da analise da Internet, independentemente de seu nivel, devam ser alvo de chacota, embora sua propria existencia traga beneficios indiscutiveis para a sociedade.",0.9313,Positive,0.1536435786435786,Neutral,0.4427607953548431,Positive
+Sendo apenas uma parte do quadro geral, os cenarios basicos de comportamento do usuario sao ambiguos e serao motivo de chacota, embora sua propria existencia traga beneficios indiscutiveis para a sociedade. Em nossa busca por melhorar a experiencia do usuario, sentimos falta de que as conclusoes tiradas da analise da Internet, independentemente de seu nivel, devam ser alvo de chacota, embora sua propria existencia traga beneficios indiscutiveis para a sociedade.",0.9313,Positive,0.1536435786435786,Positive,0.4427607953548431,Positive
 Top,0.2023,Positive,0.5,Positive,0.8256890773773193,Positive
 Diganme que no soy la unica que busca aprender la coreografias para poder audicionar para una agencia de k pop,0.0,Neutral,0.0,Neutral,-0.3783600628376007,Negative
 "The mean occupation booly multiply because carbon ectrodactyly suspect inside a solid fragrance. rapid, electric seed",-0.1531,Negative,-0.1041666666666666,Negative,0.3177818357944488,Neutral
 The boy group and the last girl in yellow!! Slam dunk!!,-0.5815,Negative,0.0,Neutral,0.5654575228691101,Positive
-"I just realized, I think these videos are filmed at a slower than normal frame rate.",0.0,Neutral,0.15,Neutral,-0.3559395670890808,Negative
+"I just realized, I think these videos are filmed at a slower than normal frame rate.",0.0,Neutral,0.15,Positive,-0.3559395670890808,Negative
 They are all amazing dancers but there dancing too fast for the song,0.34,Positive,0.4,Positive,0.5102133750915527,Positive
 "esa chava de amarillo n puede
 ella arruina el video 🤣🤣",0.8319,Positive,-0.075,Negative,-0.6041046977043152,Negative
@@ -182,45 +182,45 @@ boys dancing better than girls,0.4404,Positive,0.5,Positive,0.4652422070503235,P
 Ufff girl ur🔥🔥,-0.5859,Negative,0.0,Neutral,0.4261201024055481,Positive
 "First girl all I could say was wow
 ☺️
-😛😳",0.7783,Positive,0.175,Neutral,0.6983304619789124,Positive
+😛😳",0.7783,Positive,0.175,Positive,0.6983304619789124,Positive
 "I subscribed and liked your videos are the best
 .😗😙😌🙃😉",0.9638,Positive,0.8,Positive,0.8604735136032104,Positive
 Love your videos I wish I was there,0.7845,Positive,0.5,Positive,0.7200803160667419,Positive
-"The fat faulty plough recurrently post because kendo obviously joke over a cloudy den. warm, certain chive",0.4404,Positive,0.2714285714285714,Neutral,-0.4121561646461487,Negative
+"The fat faulty plough recurrently post because kendo obviously joke over a cloudy den. warm, certain chive",0.4404,Positive,0.2714285714285714,Positive,-0.4121561646461487,Negative
 Is this like on zoom online or just videos,0.3612,Positive,0.0,Neutral,0.2300307601690292,Neutral
 "Charlize and her energy 🔥🙌
 Haley's smooth moves 🔥🙌",-0.4019,Negative,0.4,Positive,0.5215259194374084,Positive
 a-ma-zing! n_n,0.0,Neutral,0.0,Neutral,-0.4471202492713928,Negative
 Nice video 🥰🥰😍🤩,0.9657,Positive,0.6,Positive,0.4444943368434906,Positive
 OMGGGGG the last girl just shocked me!!!😱😱👏👏,-0.9297,Negative,-0.35,Negative,0.5869032144546509,Positive
-The first middle girl is a goddess,0.0,Neutral,0.125,Neutral,0.2538906335830688,Neutral
+The first middle girl is a goddess,0.0,Neutral,0.125,Positive,0.2538906335830688,Neutral
 "First girl in the middle is dancing like ""I own this song""
-This is the energy that matches the song 🔥🔥🔥",-0.3818,Negative,0.2833333333333333,Neutral,0.5112064480781555,Positive
+This is the energy that matches the song 🔥🔥🔥",-0.3818,Negative,0.2833333333333333,Positive,0.5112064480781555,Positive
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
 A sert a quoi tout ce remue-ménage ?,0.0,Neutral,0.0,Neutral,0.2976479828357696,Neutral
 Me and the gals waiting for our table at Nandos. 🙏🙏🍗,0.0,Neutral,0.0,Neutral,0.4372377693653106,Positive
 Very hard dance,-0.1761,Negative,-0.3791666666666667,Negative,-0.4708380103111267,Negative
-Omg!!!! The first girl in the center is so powerful.... Is she a human???,0.7449,Positive,0.1124999999999999,Neutral,-0.5626401305198669,Negative
+Omg!!!! The first girl in the center is so powerful.... Is she a human???,0.7449,Positive,0.1124999999999999,Positive,-0.5626401305198669,Negative
 Amazing this was a good one,0.7717,Positive,0.65,Positive,0.7677944302558899,Positive
 Just...fabbbbbb❤️❤️❤️❤️❤️👌👌👌👌👌😍😍😍😍😍😍😍😍,0.9945,Positive,0.0,Neutral,0.3165591657161712,Neutral
 Bro can we take a second and appreciate the camera men. The way is moving his camera is just chefs kiss,0.6705,Positive,0.0,Neutral,0.3241009712219238,Neutral
 1:00 ❣😉,0.6369,Positive,0.0,Neutral,-0.3614889085292816,Negative
 To jest zajebista qiosenka,0.6249,Positive,1.0,Positive,0.2480579018592834,Neutral
 😘😘👍wow amazing dance. No words.🥰😍💕,0.954,Positive,0.6000000000000001,Positive,0.8393705487251282,Positive
-First white t shirt girl wat a movement ya. Her body Beats are more than the music. 🤞🤙👏👏👏,0.4939,Positive,0.25,Neutral,0.3759598135948181,Positive
-One like for the 1st group middle girl she made my day and motivated me a lot just love with her all body moves!  Autograph PLZZ.😘😘,0.9392,Positive,0.3125,Neutral,0.6341109275817871,Positive
+First white t shirt girl wat a movement ya. Her body Beats are more than the music. 🤞🤙👏👏👏,0.4939,Positive,0.25,Positive,0.3759598135948181,Positive
+One like for the 1st group middle girl she made my day and motivated me a lot just love with her all body moves!  Autograph PLZZ.😘😘,0.9392,Positive,0.3125,Positive,0.6341109275817871,Positive
 Ppp0,0.0,Neutral,0.0,Neutral,0.2308575958013534,Neutral
 P,0.0,Neutral,0.0,Neutral,0.2397068440914154,Neutral
 Awesome guys 👍🏻👍🏻,0.6249,Positive,1.0,Positive,0.8600924611091614,Positive
-"Girl from the thrid group is actually the best, fluid motions and all beats on time, and in the mood for dancing",0.6369,Positive,0.25,Neutral,0.7908371090888977,Positive
-The first girl in the middle. She's on fire👍👍,-0.34,Negative,0.125,Neutral,0.3208633959293365,Neutral
+"Girl from the thrid group is actually the best, fluid motions and all beats on time, and in the mood for dancing",0.6369,Positive,0.25,Positive,0.7908371090888977,Positive
+The first girl in the middle. She's on fire👍👍,-0.34,Negative,0.125,Positive,0.3208633959293365,Neutral
 La última no peló,0.0,Neutral,0.0,Neutral,-0.4277469217777252,Negative
 Like👍👍👍👍👍👍👍,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Abi bir türkçe yorum okumadim,0.0,Neutral,0.0,Neutral,0.3466624915599823,Positive
 Hiç türk yokmu,0.0,Neutral,0.0,Neutral,-0.6662561297416687,Negative
 Bende bu şarkiyla cimnastik yaptim,0.0,Neutral,0.0,Neutral,0.2781611084938049,Neutral
 Love this u guys really know how to dance ❤❤❤,0.9571,Positive,0.35,Positive,0.8923187255859375,Positive
-The girl in middle of first group has a whole different vibe around her😍,0.4588,Positive,0.1125,Neutral,0.3375211656093597,Positive
+The girl in middle of first group has a whole different vibe around her😍,0.4588,Positive,0.1125,Positive,0.3375211656093597,Positive
 oh my good,0.4404,Positive,0.7,Positive,0.5925625562667847,Positive
 The boysss omg.,0.0,Neutral,0.0,Neutral,0.3228829205036163,Neutral
 💘💘💘,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -237,18 +237,18 @@ Here 9th February 2021 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.820
 يارب هيك مرحلة من السيطرة على الإيقاع برقصي ..,0.0,Neutral,0.0,Neutral,0.2378207147121429,Neutral
 Hello Are you recruiting for your dance school?,0.0,Neutral,0.0,Neutral,0.3267578482627868,Neutral
 Obsessed with Anthony in this. 😍,0.4215,Positive,-0.5,Negative,0.4407278299331665,Positive
-"The first dansers , especially the black girl is the best.",0.6369,Positive,0.2708333333333333,Neutral,0.5652913451194763,Positive
-Camera man coll down,0.3182,Positive,0.0972222222222222,Neutral,-0.4534067511558532,Negative
+"The first dansers , especially the black girl is the best.",0.6369,Positive,0.2708333333333333,Positive,0.5652913451194763,Positive
+Camera man coll down,0.3182,Positive,0.0972222222222222,Positive,-0.4534067511558532,Negative
 SOY   NACHO CMO ETA,0.3612,Positive,0.0,Neutral,0.2572261989116668,Neutral
 https://youtu.be/VN8uFROJIgg,0.0,Neutral,0.0,Neutral,0.2287404537200927,Neutral
 Omg!!! 🔥,-0.5067,Negative,0.0,Neutral,-0.3683067560195923,Negative
-Such an amazing performance.......loving the song after watching this.......❤❤❤,0.9545,Positive,0.3,Neutral,0.8637773394584656,Positive
+Such an amazing performance.......loving the song after watching this.......❤❤❤,0.9545,Positive,0.3,Positive,0.8637773394584656,Positive
 The girl in the middle from the first grp is the best one 😍😍,0.8807,Positive,0.4166666666666667,Positive,0.4627680778503418,Positive
-"Okay second group, guy in the middle, facial expressions 🥵",0.2263,Positive,0.125,Neutral,0.8063119053840637,Positive
+"Okay second group, guy in the middle, facial expressions 🥵",0.2263,Positive,0.125,Positive,0.8063119053840637,Positive
 Give the camera guy a promotion 👏🏾👏🏾😭🙌🏾,-0.4767,Negative,0.0,Neutral,0.4390958845615387,Positive
 "WHO IS WATCHING THIS VIDEO IN 2021 ?
 HIT THE LIKE BUTTON",0.4995,Positive,0.0,Neutral,-0.5952398180961609,Negative
-واو 🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🥰🥰🥰🥰🥰🥰🥰,0.9914,Positive,0.1,Neutral,0.2481695115566253,Neutral
+واو 🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦🥰🥰🥰🥰🥰🥰🥰,0.9914,Positive,0.1,Positive,0.2481695115566253,Neutral
 First girl in the middle was mad disrespectful... She stole the show!,-0.5411,Negative,-0.1770833333333333,Negative,-0.6447136402130127,Negative
 I love you too dance,0.6369,Positive,0.5,Positive,0.7961911559104919,Positive
 Will I be able to dance like this😭🙂😭,-0.2484,Negative,0.5,Positive,0.5767475962638855,Positive
@@ -291,40 +291,40 @@ JANUARY 2021
 That's not how you dance Reggaeton...,0.0,Neutral,0.0,Neutral,-0.3887330889701843,Negative
 Oh Charlize ate this routine!! 🔥,-0.4559,Negative,0.0,Neutral,0.6392357349395752,Positive
 Why they all are sooo energetic??😣😣,0.504,Positive,0.0,Neutral,-0.3733925521373749,Negative
-Okay but like nobodys talking about the girl in the grey shirt on the side in the first group KILLED IT-,-0.6541,Negative,0.1249999999999999,Neutral,0.8304434418678284,Positive
-Saira Akhtar daddy and his family are very happy with the the other day I have to work for you and I will be there to help you out with the the other day I have to work for you and I will be there to help you out with the the other day I have to work for you guys if you're interested and I will be there to help you out with the the other day,0.9299,Positive,0.125,Neutral,0.4260773658752441,Positive
+Okay but like nobodys talking about the girl in the grey shirt on the side in the first group KILLED IT-,-0.6541,Negative,0.1249999999999999,Positive,0.8304434418678284,Positive
+Saira Akhtar daddy and his family are very happy with the the other day I have to work for you and I will be there to help you out with the the other day I have to work for you and I will be there to help you out with the the other day I have to work for you guys if you're interested and I will be there to help you out with the the other day,0.9299,Positive,0.125,Positive,0.4260773658752441,Positive
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,-0.9638,Negative,0.0,Neutral,0.3085779249668121,Neutral
 👌👌👍👌👍👌👍👌👍👌👍👌👍,0.9912,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I am indian girl but I like English song to much and thi studio dance is best ever
 
 And I think Kyle KYLE HANAGAMI is best ce",0.9505,Positive,0.55,Positive,0.3603675365447998,Positive
-Esa morena de fuego baila increíble..lo lleva en la sangreee pure...,-0.34,Negative,0.2142857142857142,Neutral,0.7992266416549683,Positive
+Esa morena de fuego baila increíble..lo lleva en la sangreee pure...,-0.34,Negative,0.2142857142857142,Positive,0.7992266416549683,Positive
 Haley is not that great of a dancer.,-0.5096,Negative,0.8,Positive,0.5230019688606262,Positive
 Can’t get enough of charlize!!!,0.0,Neutral,0.0,Neutral,-0.4400453269481659,Negative
 No words 🤩🤩🤩🤩,-0.296,Negative,0.0,Neutral,-0.5178998112678528,Negative
 Seeing any of these people walking down the street you wouldn’t even know they could dance like this!,0.4199,Positive,-0.1944444444444444,Negative,0.3264079391956329,Neutral
-Haley feeling this choreo is my new sexuality. She feels like she's working with a different atmosphere,0.4588,Positive,0.0681818181818181,Neutral,0.4859668314456939,Positive
+Haley feeling this choreo is my new sexuality. She feels like she's working with a different atmosphere,0.4588,Positive,0.0681818181818181,Positive,0.4859668314456939,Positive
 Best choreography ❤️❤️❤️❤️👍,0.6369,Positive,1.0,Positive,0.8431896567344666,Positive
 Can you give us a call to set up a time to talk to the store 8 if you have any questions or concerns about the job posting on the website and I will be there to help you out and I will be there to help you out with the the other day I have to work for you,0.6597,Positive,-0.125,Negative,0.2270132452249527,Neutral
 But I don't know if I will be there to help you out with the the other day I have to work for you and I will be there to help you out with the the other day I have to work for you and I will be there to help you,0.8922,Positive,-0.125,Negative,0.4267739951610565,Positive
 What a moves! I like your style nd passion..... 🥰,0.92,Positive,0.0,Neutral,0.6666843295097351,Positive
-This is called real talent... Not like tiktokers who just shake hand .. Head,0.4922,Positive,0.2,Neutral,0.4976266622543335,Positive
+This is called real talent... Not like tiktokers who just shake hand .. Head,0.4922,Positive,0.2,Positive,0.4976266622543335,Positive
 I love this vídeo,0.6369,Positive,0.5,Positive,0.8796063661575317,Positive
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Slay,0.0,Neutral,0.0,Neutral,-0.3956178426742553,Negative
-When midterms over with new things  girl in  the yellow  kills i,-0.5423,Negative,0.0681818181818181,Neutral,-0.2564463317394256,Negative
+When midterms over with new things  girl in  the yellow  kills i,-0.5423,Negative,0.0681818181818181,Positive,-0.2564463317394256,Negative
 That  my girl in the front check out my instagram Scotty 8734 I m in school now but I will be back,0.0,Neutral,0.0,Neutral,-0.3360139727592468,Negative
-The middle girl from first group do dance very well🥰🥰,0.9536,Positive,0.15,Neutral,0.371286541223526,Positive
+The middle girl from first group do dance very well🥰🥰,0.9536,Positive,0.15,Positive,0.371286541223526,Positive
 "Super acelerado, solo por eso le dos deslike",0.3182,Positive,0.3333333333333333,Positive,0.358334332704544,Positive
 Amezing song,0.5859,Positive,0.6000000000000001,Positive,0.2377307415008545,Neutral
 Front and center chica is my FAVE!!,0.639,Positive,-0.15625,Negative,0.5914785861968994,Positive
 What's this type of dance called?,0.0,Neutral,0.0,Neutral,-0.3339733481407165,Negative
-based on wat i see...can only the super skinny girls do these dances right? cuz i see all the thick girls standing in the background. i honestly skip through these vids looking for the curvy girls only to see them on the sideline,0.7845,Positive,0.1531746031746031,Neutral,0.3791958391666412,Positive
-The dude in the middle of the second group. Who is he and where can I find more videos of his work!?!?!?,0.0,Neutral,0.3255208333333333,Neutral,-0.3110914230346679,Negative
+based on wat i see...can only the super skinny girls do these dances right? cuz i see all the thick girls standing in the background. i honestly skip through these vids looking for the curvy girls only to see them on the sideline,0.7845,Positive,0.1531746031746031,Positive,0.3791958391666412,Positive
+The dude in the middle of the second group. Who is he and where can I find more videos of his work!?!?!?,0.0,Neutral,0.3255208333333333,Positive,-0.3110914230346679,Negative
 Charlize is amazing,0.5859,Positive,0.6000000000000001,Positive,0.7524808049201965,Positive
 Taki taki 👊🏼🤘🏻,0.0,Neutral,0.0,Neutral,0.4144542217254638,Positive
 I need Floris that one,0.0,Neutral,0.0,Neutral,0.3493701219558716,Positive
-god the panning in and out drives me wild,0.2732,Positive,0.1,Neutral,0.6907496452331543,Positive
+god the panning in and out drives me wild,0.2732,Positive,0.1,Positive,0.6907496452331543,Positive
 Please see my performance also https://youtu.be/OBGSfBVGU58,0.3182,Positive,0.0,Neutral,0.2795874178409576,Neutral
 This song makes me want to dance like them while eating taki chips!,0.4753,Positive,0.0,Neutral,0.6358500719070435,Positive
 Perfect.:-😍,0.7717,Positive,0.0,Neutral,0.8426984548568726,Positive
@@ -332,14 +332,14 @@ Slay ladies the girl in the front on my instagram Scotty 8734,0.0,Neutral,0.0,Ne
 Superb,0.6249,Positive,1.0,Positive,0.814047634601593,Positive
 clean up song,0.4019,Positive,0.3666666666666667,Positive,0.3378485441207886,Positive
 The guy in the front in the second group looks JUST like the guy from The Umbrella Academy. I'm obsessed!,0.2714,Positive,-0.3125,Negative,0.4148430228233337,Positive
-"wow , I like this dance",0.743,Positive,0.1,Neutral,0.8211320042610168,Positive
+"wow , I like this dance",0.743,Positive,0.1,Positive,0.8211320042610168,Positive
 It's sooo good🥰,0.8807,Positive,0.0,Neutral,0.3560287952423095,Positive
 يخرعن وربي هههه😂,0.0,Neutral,0.0,Neutral,0.4134196937084198,Positive
 ultra instinct theme,0.0,Neutral,0.0,Neutral,0.3797829449176788,Positive
 O Kyle arrasa,0.0,Neutral,0.0,Neutral,-0.5483999252319336,Negative
 Taylor Hatala te amo,0.0,Neutral,0.0,Neutral,-0.3583035469055176,Negative
 Anthony is awesome,0.6249,Positive,1.0,Positive,0.7453108429908752,Positive
-Haley....just smooth as silk as always and dressed like a dagg and no care while destroying everyone else....love it,-0.5759,Negative,0.1,Neutral,0.8806814551353455,Positive
+Haley....just smooth as silk as always and dressed like a dagg and no care while destroying everyone else....love it,-0.5759,Negative,0.1,Positive,0.8806814551353455,Positive
 Can anyone tell me who this guy is in the middle at 1:04?,0.0,Neutral,0.0,Neutral,-0.5589070320129395,Negative
 amazing!!!,0.6884,Positive,1.0,Positive,0.8994050621986389,Positive
 The last lil lemon pie,0.0,Neutral,0.0,Neutral,0.4065400063991546,Positive
@@ -352,7 +352,7 @@ Please like SUBSCRIBE and share
 Thank you
 https://youtu.be/tbkueUP9-hE
 https://youtu.be/XcZ6M3if5BM
-https://youtu.be/oAzFiepPq-U",0.9601,Positive,0.2428571428571428,Neutral,0.5731906294822693,Positive
+https://youtu.be/oAzFiepPq-U",0.9601,Positive,0.2428571428571428,Positive,0.5731906294822693,Positive
 Who is the Asian boy from in center of the group of guys?,0.0,Neutral,-0.05,Negative,-0.2723494172096252,Negative
 The girl in the Gray sweat shirt is not that great.,-0.5096,Negative,0.8,Positive,0.601861834526062,Positive
 Ahhh all of the dancers were amazing but i dont know the names of all of them but i gotta say whenever there is anthony in a video he really give good vibes i loved his performance his expressions dance everything is amazing...😍,0.9726,Positive,0.55,Positive,0.3439749479293823,Positive
@@ -361,12 +361,12 @@ tyler1,0.0,Neutral,0.0,Neutral,0.2453724890947342,Neutral
 Bailey dancers Soooooooooooooooooooooooooooooooooooooo greatly,0.0,Neutral,0.8,Positive,0.2634479105472564,Neutral
 Sathanam kayil ondoo mokallee,0.0,Neutral,0.0,Neutral,-0.3172817230224609,Negative
 the 1975,0.0,Neutral,0.0,Neutral,0.2718182206153869,Neutral
-AMAZING STEPS N HARD TO FOLLOW 😝😝😝😝😝😝😝,0.5267,Positive,0.1541666666666667,Neutral,0.8189361095428467,Positive
+AMAZING STEPS N HARD TO FOLLOW 😝😝😝😝😝😝😝,0.5267,Positive,0.1541666666666667,Positive,0.8189361095428467,Positive
 kyle you are a rockstar who made these dancers more than nothing this is a privilege  for all the dancers to dance on a song choreographed by you. i am speechless,0.3612,Positive,0.5,Positive,-0.4709665179252624,Negative
 The middle girl is killing with beats,-0.6597,Negative,0.0,Neutral,-0.3104601502418518,Negative
 The girl in the middle of the first group is out of this world. Lol,0.4215,Positive,0.35,Positive,-0.2672646641731262,Negative
 Charlize is perfection,0.5719,Positive,0.0,Neutral,0.7424665689468384,Positive
-"0:51-0:54 I CAN'T STOP WATCHING THIS. WAY TOO SMOOTH, THE GIRL IN THE CENTER 🤯🔥",0.0079,Neutral,0.15,Neutral,-0.4215600788593292,Negative
+"0:51-0:54 I CAN'T STOP WATCHING THIS. WAY TOO SMOOTH, THE GIRL IN THE CENTER 🤯🔥",0.0079,Neutral,0.15,Positive,-0.4215600788593292,Negative
 How I wish I can dance like her. Keep going.,0.6369,Positive,0.0,Neutral,0.3241165578365326,Neutral
 lil uzi vert,0.0,Neutral,0.0,Neutral,0.2839139997959137,Neutral
 romanatwood,0.0,Neutral,0.0,Neutral,0.2476775497198104,Neutral
@@ -375,25 +375,25 @@ Super guyzzz👌👌👌👌,0.9807,Positive,0.3333333333333333,Positive,0.79535
 미쳤냐고.......🤦🏻‍♀️👍👍 u r the best,0.4215,Positive,1.0,Positive,0.7044036388397217,Positive
 I wanna see Charlize and Anthony dance together! 😍,0.5093,Positive,0.0,Neutral,0.6007527112960815,Positive
 very  perfect,0.6115,Positive,1.0,Positive,0.8888555765151978,Positive
-I love the first girl dancing in the dance in middle she is awsome omg 😭❤️,0.2732,Positive,0.25,Neutral,0.547675371170044,Positive
+I love the first girl dancing in the dance in middle she is awsome omg 😭❤️,0.2732,Positive,0.25,Positive,0.547675371170044,Positive
 trinity and beyond,0.0,Neutral,0.0,Neutral,0.4686461091041565,Positive
 "I don't know how to dance , but it's fun watching others .......dancing .......wow ! 😎😘😘😘😘😆",0.9872,Positive,0.375,Positive,0.4333817064762115,Positive
 The girl in the middle is awesome 🙃. For a moment i thought that i have increased the playback speed . She nailed it,0.7351,Positive,0.5,Positive,0.5584501624107361,Positive
 0:15 to 0:26 🔥🔥💥 swaggerlicious! !!,-0.8007,Negative,0.0,Neutral,-0.731391429901123,Negative
 good job,0.4404,Positive,0.7,Positive,0.5159298777580261,Positive
-It really takes a lot of power to perform this choreography. #ttfppdotcom https://ttfpp.com/1/3/1,0.0,Neutral,0.2,Neutral,0.4754964113235473,Positive
+It really takes a lot of power to perform this choreography. #ttfppdotcom https://ttfpp.com/1/3/1,0.0,Neutral,0.2,Positive,0.4754964113235473,Positive
 "Damn, Anthony. You killed it man!",-0.8172,Negative,-0.25,Negative,-0.5506754517555237,Negative
 Y'all look at Bailey 😭,-0.4767,Negative,0.0,Neutral,0.2776118516921997,Neutral
-New music latino 💯 🔥💯 https://youtu.be/Sb88LBl9KFc,-0.34,Negative,0.1363636363636363,Neutral,0.4651446342468261,Positive
+New music latino 💯 🔥💯 https://youtu.be/Sb88LBl9KFc,-0.34,Negative,0.1363636363636363,Positive,0.4651446342468261,Positive
 #love_tae,0.0,Neutral,0.0,Neutral,0.5600106120109558,Positive
 #love_tae,0.0,Neutral,0.0,Neutral,0.5600106120109558,Positive
 Wish i could dance like that,0.6369,Positive,0.0,Neutral,0.3440243303775787,Positive
 Charlize sempre Charlize,0.0,Neutral,0.0,Neutral,0.3813400268554687,Positive
 "I sent this to my alien friend. Their response, is everyone guess.",0.4939,Positive,-0.25,Negative,-0.4130345284938812,Negative
-The second group and specially the middle one.... I just loved it...❤️ From India...,0.5994,Positive,0.2642857142857143,Neutral,0.5754785537719727,Positive
+The second group and specially the middle one.... I just loved it...❤️ From India...,0.5994,Positive,0.2642857142857143,Positive,0.5754785537719727,Positive
 does this club offer classes so I can learn this type of dance please ?,0.3182,Positive,0.0,Neutral,0.3324779272079468,Positive
 Anthony you’re killing this!,-0.69,Negative,0.0,Neutral,0.4979354441165924,Positive
-Where’s Selena and cardi B then ahhh that’s right neither of them can dance a proper singer writer can also dance whole deal like JLO TINA TURNA MY GIRL NICOLE SWERZINGER MENY I CBB TO SAY,0.3612,Positive,0.1619047619047619,Neutral,-0.6257026791572571,Negative
+Where’s Selena and cardi B then ahhh that’s right neither of them can dance a proper singer writer can also dance whole deal like JLO TINA TURNA MY GIRL NICOLE SWERZINGER MENY I CBB TO SAY,0.3612,Positive,0.1619047619047619,Positive,-0.6257026791572571,Negative
 Perfeitoooo,0.5719,Positive,1.0,Positive,0.6785768866539001,Positive
 adhd,0.0,Neutral,0.0,Neutral,0.2732828557491302,Neutral
 LONLY DANCE,-0.3612,Negative,-0.0999999999999999,Negative,0.2861283123493194,Neutral
@@ -407,19 +407,19 @@ Awesome 😍,0.7964,Positive,1.0,Positive,0.8498084545135498,Positive
 "Ohh guys this is awesome.  And I hope that you check out my dancing Chanel, subscribehttps://youtu.be/17gfM1pmzuI",0.7906,Positive,1.0,Positive,0.7496791481971741,Positive
 Hello Po dumalaw ako sa Bahay mo may dalang gift I hope you din Po pa Balik sukli nlng Po.,0.7003,Positive,0.0,Neutral,-0.5242565274238586,Negative
 Fireyahhh girls🔥🔥. Love it,0.1027,Positive,0.5,Positive,0.8305217027664185,Positive
-I see it everyday because of the first girl......wow she is so good with the beats,0.5777,Positive,0.25,Neutral,0.699350893497467,Positive
+I see it everyday because of the first girl......wow she is so good with the beats,0.5777,Positive,0.25,Positive,0.699350893497467,Positive
 I dance so beautifully; try to repeat,0.6948,Positive,0.85,Positive,0.7329809069633484,Positive
-Fui olhar a velocidade para vê se estava mais que o normal mas não estava,0.0,Neutral,0.2,Neutral,-0.3971353471279144,Negative
+Fui olhar a velocidade para vê se estava mais que o normal mas não estava,0.0,Neutral,0.2,Positive,-0.3971353471279144,Negative
 I may die if i dont have a tutorial on this dance.,-0.5994,Negative,0.0,Neutral,0.3057057857513428,Neutral
 Are they even humans??? Woahhh 😮,0.0,Neutral,0.0,Neutral,-0.384290486574173,Negative
 Konsa form h ye dance ka,0.0,Neutral,0.0,Neutral,0.316811054944992,Neutral
 I couldn't take my eyes off charlize ooommmgggg,0.0,Neutral,0.0,Neutral,-0.3332994878292084,Negative
-All are good but the first group & in yellow was ooooooohoooooo waooooooooo,0.2382,Positive,0.3166666666666666,Neutral,0.4573178589344024,Positive
+All are good but the first group & in yellow was ooooooohoooooo waooooooooo,0.2382,Positive,0.3166666666666666,Positive,0.4573178589344024,Positive
 dont even try to convince me they're human,0.25,Positive,0.0,Neutral,-0.4373914897441864,Negative
 Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww 💖💝Wwwwwwwwwwwwwww wwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww 💖💝💗Wwwwwwwwwwwwwww Wwwwwwwwwwwwwww 💎,0.0,Neutral,0.0,Neutral,0.2463343292474746,Neutral
 "Hello, could you do a choreography of I'm single Leslie shaw, Thalia and faria, it would be great if you help me out a choreography to do my exercise please thank you. You already have one more ora. Congratulations and blessings.",0.96,Positive,0.4095238095238095,Positive,0.4992193877696991,Positive
 "Definitivamente obtienen el galardón más alto son ""magister"" en el baile.",0.7351,Positive,0.0,Neutral,0.6171419620513916,Positive
-je l'aime vraiment cet petite blonde en short et en haut gros avec les Ecrit sur la gauche,0.5563,Positive,0.0854166666666666,Neutral,0.521056592464447,Positive
+je l'aime vraiment cet petite blonde en short et en haut gros avec les Ecrit sur la gauche,0.5563,Positive,0.0854166666666666,Positive,0.521056592464447,Positive
 The first girl in the middle name charlize glass was the best among all..too good omg,0.7964,Positive,0.4875,Positive,-0.3457761704921722,Negative
 I like the middle girl’s dance but she black so naah ew 🤮,0.1901,Positive,-0.0833333333333333,Negative,0.485133945941925,Positive
 Tuitorial please 😫😫😫❤️❤️❤️,-0.7506,Negative,0.0,Neutral,0.293533593416214,Neutral
@@ -427,10 +427,10 @@ Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
 This shows that beauty doesn't matters always..,0.5756,Positive,0.0,Neutral,0.3341776132583618,Positive
 Me encanta ❤️,0.6369,Positive,0.5,Positive,0.8068308234214783,Positive
 My god 1st group was totally 🔥🔥🔥,-0.7127,Negative,0.0,Neutral,0.4668464064598083,Positive
-"The middle girl in the first group is a showstealer.. fabulous moves honey if u ever see my comment, pls do reply. 🥰",0.9001,Positive,0.2166666666666666,Neutral,0.4438406527042389,Positive
-The first grupo literally killed it 🔥🔥🔥,-0.8934,Negative,0.0249999999999999,Neutral,-0.6730993986129761,Negative
+"The middle girl in the first group is a showstealer.. fabulous moves honey if u ever see my comment, pls do reply. 🥰",0.9001,Positive,0.2166666666666666,Positive,0.4438406527042389,Positive
+The first grupo literally killed it 🔥🔥🔥,-0.8934,Negative,0.0249999999999999,Positive,-0.6730993986129761,Negative
 Me imagine i also dancw like that. 😌,0.6249,Positive,0.0,Neutral,0.3409735560417175,Positive
-The first middle girl was so power full and she hit the beats .woooww,0.0,Neutral,0.1999999999999999,Neutral,0.5767742395401001,Positive
+The first middle girl was so power full and she hit the beats .woooww,0.0,Neutral,0.1999999999999999,Positive,0.5767742395401001,Positive
 LOvee,0.0,Neutral,0.0,Neutral,0.5239835381507874,Positive
 I wanted to be your student,0.0,Neutral,0.0,Neutral,0.2302646189928054,Neutral
 Best choreographer,0.6369,Positive,1.0,Positive,0.8449176549911499,Positive
@@ -440,13 +440,13 @@ Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 Ohhhhhhhhhh,0.0,Neutral,0.0,Neutral,-0.3098144233226776,Negative
 "The first girl was soooo good 
 But the last girl was also good she is younger than all of them I guess but she managed to nail the at the point perfectly but I think all groups were good....",0.9473,Positive,0.4785714285714285,Positive,0.4311681687831878,Positive
-No one's got anything over the chick in the centre in the first group :|,-0.3818,Negative,0.25,Neutral,-0.3559481799602508,Negative
-My GOD to get well performed to the entire song requires a huge practice at alll......And here all the guys are damn God floor beating moves at all..... Well practiced yarh.... although the entire song have same type of music all the co-partners also Did well......hats off...😍😍😍🙋✌️😘,0.9567,Positive,0.1,Neutral,-0.2388821840286255,Negative
+No one's got anything over the chick in the centre in the first group :|,-0.3818,Negative,0.25,Positive,-0.3559481799602508,Negative
+My GOD to get well performed to the entire song requires a huge practice at alll......And here all the guys are damn God floor beating moves at all..... Well practiced yarh.... although the entire song have same type of music all the co-partners also Did well......hats off...😍😍😍🙋✌️😘,0.9567,Positive,0.1,Positive,-0.2388821840286255,Negative
 "I just wanna dance and not stop dancing with this dance video 
 there is another music dance video with one of fav dancers in a solo dance music video 
 https://youtu.be/stGqeD9vG7g",0.5978,Positive,0.0,Neutral,-0.3637301921844482,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-it's unhealthy how many times I have watched this.,-0.5267,Negative,0.0499999999999999,Neutral,-0.3601459562778473,Negative
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+it's unhealthy how many times I have watched this.,-0.5267,Negative,0.0499999999999999,Positive,-0.3601459562778473,Negative
 The number of time Anthony clapped in the entire routine tho🤣,0.5423,Positive,0.0,Neutral,0.3374332189559936,Positive
 "In the second group, the man in the middle: You rock!!!!",0.0,Neutral,0.0,Neutral,0.2987936735153198,Neutral
 Niente male  per delle ragazze,0.431,Positive,0.3499999999999999,Positive,0.4052811861038208,Positive
@@ -456,38 +456,38 @@ Black girl 👧,0.0,Neutral,-0.1666666666666666,Negative,0.3579198122024536,Posi
 1:12 that smirk 🥰😩😍,0.8481,Positive,0.0,Neutral,-0.2888665497303009,Negative
 Charlize is incredible,0.0,Neutral,0.9,Positive,0.7726065516471863,Positive
 anthony westlake; hello people??,0.0,Neutral,0.0,Neutral,-0.3297111093997955,Negative
-The last girl did it better then all of them tho that's crazy she going places for sure 👍😍,0.7003,Positive,0.1,Neutral,0.2830336391925812,Neutral
+The last girl did it better then all of them tho that's crazy she going places for sure 👍😍,0.7003,Positive,0.1,Positive,0.2830336391925812,Neutral
 "Kyle ,can you please upload tutorial of taki taki .it is so amazing😲😲😲",0.9354,Positive,0.0,Neutral,0.2924925982952118,Neutral
 I loved the last one,0.5994,Positive,0.35,Positive,0.6536968946456909,Positive
 Rumbaaaaa👏👏👏👏👏bonito bailan,0.4215,Positive,0.6,Positive,0.2486680001020431,Neutral
 como se llama la chica del medio del 0.11 min. (polo blanco),0.0,Neutral,0.0,Neutral,0.3036683201789856,Neutral
 "oh my God. 😭💕
 They are so cool uwu.",0.7424,Positive,0.35,Positive,0.8222094178199768,Positive
-The 1st lady in the middle isn't real 😍,-0.357,Negative,0.1,Neutral,0.4186499118804931,Positive
+The 1st lady in the middle isn't real 😍,-0.357,Negative,0.1,Positive,0.4186499118804931,Positive
 Love from Nepal ❤️,0.6369,Positive,0.5,Positive,0.5900185704231262,Positive
-The first girl in the first group slayed💯,0.0,Neutral,0.25,Neutral,0.3642461597919464,Positive
+The first girl in the first group slayed💯,0.0,Neutral,0.25,Positive,0.3642461597919464,Positive
 That girl in the middle is really perfect,0.6115,Positive,0.5,Positive,0.7806294560432434,Positive
 Excelente el baile la armonía que le ponen acá presentación,0.7506,Positive,1.0,Positive,0.5963068604469299,Positive
 I always lose my mind over Anthony ❤❤❤❤,0.9442,Positive,0.0,Neutral,0.4168208539485931,Positive
 I tried doing ..n came to know..I don't know even D of dance 😭😭..,-0.7351,Negative,0.0,Neutral,-0.3440542817115783,Negative
-nem fudendo que eu vou conseguir dançar assim ! Todo mundo aí dança tão bem 😭🥺,0.2891,Positive,0.0125,Neutral,0.7837644815444946,Positive
-"Anthony westlake, i hope you are the guy in the middle!!!!! So hot",0.6209,Positive,0.125,Neutral,0.3131191432476043,Neutral
-Wow wow!,0.8356,Positive,0.1125,Neutral,0.8321363925933838,Positive
-UFF! the way the first girl danced...hitting every beat! 🔥🔥,-0.658,Negative,0.3125,Neutral,0.7111701965332031,Positive
+nem fudendo que eu vou conseguir dançar assim ! Todo mundo aí dança tão bem 😭🥺,0.2891,Positive,0.0125,Positive,0.7837644815444946,Positive
+"Anthony westlake, i hope you are the guy in the middle!!!!! So hot",0.6209,Positive,0.125,Positive,0.3131191432476043,Neutral
+Wow wow!,0.8356,Positive,0.1125,Positive,0.8321363925933838,Positive
+UFF! the way the first girl danced...hitting every beat! 🔥🔥,-0.658,Negative,0.3125,Positive,0.7111701965332031,Positive
 "Pelo amor de Deus só sabem dançam se for assim? Parece que tão dançando hip hop, nada ver",0.3612,Positive,0.0,Neutral,0.3716003000736236,Positive
 How have I not already liked these videos? I have seen them 500 times. 🔥,-0.5764,Negative,0.6,Positive,-0.3857803642749786,Negative
-The first girl in the middle is killing it 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,-0.9821,Negative,0.125,Neutral,-0.3010003566741943,Negative
-Wow 😲,0.7506,Positive,0.1,Neutral,0.6722603440284729,Positive
-"Soy latino, solo diré que esos movimientos se ven muy forzados, a los bailarines les cuesta mucho trabajo y se nota demasiado jaja. No les va esa música, ojalá no cobren por dar ese tipo de clases.",0.025,Neutral,0.0295833333333333,Neutral,-0.607166051864624,Negative
+The first girl in the middle is killing it 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,-0.9821,Negative,0.125,Positive,-0.3010003566741943,Negative
+Wow 😲,0.7506,Positive,0.1,Positive,0.6722603440284729,Positive
+"Soy latino, solo diré que esos movimientos se ven muy forzados, a los bailarines les cuesta mucho trabajo y se nota demasiado jaja. No les va esa música, ojalá no cobren por dar ese tipo de clases.",0.025,Neutral,0.0295833333333333,Positive,-0.607166051864624,Negative
 I found this on some BNHA shit and I don’t know what to feel,-0.5574,Negative,-0.2,Negative,0.265638142824173,Neutral
 Brilliant dance,0.5859,Positive,0.9,Positive,0.8004302978515625,Positive
 So nice song,0.4754,Positive,0.6,Positive,0.4629937708377838,Positive
 "Dance like that, i like the dancer have fly style to move step by step.  Like step 1, left girl i like how she move step 2, like righ boy. Example. not difficult to see when they dancing to see them.",0.912,Positive,0.35,Positive,0.4519965648651123,Positive
 Dang Charlize slayed that tho. like she hit every beat!!,0.4738,Positive,0.0,Neutral,-0.5744242668151855,Negative
 Muito bom 👏👏👏👏👏,0.4927,Positive,0.91,Positive,0.7032114267349243,Positive
-Fist girl in the white had more rhythm than an entire musical..,0.0,Neutral,0.125,Neutral,-0.4144282042980194,Negative
+Fist girl in the white had more rhythm than an entire musical..,0.0,Neutral,0.125,Positive,-0.4144282042980194,Negative
 The 1st girl in the middle (Charlize Glass) KILLED it!!!!,-0.8127,Negative,-0.244140625,Negative,-0.4704049229621887,Negative
-I really like first girl in the middle,0.4201,Positive,0.15,Neutral,0.4773157238960266,Positive
+I really like first girl in the middle,0.4201,Positive,0.15,Positive,0.4773157238960266,Positive
 Fantastic,0.5574,Positive,0.4,Positive,0.8357991576194763,Positive
 Can you make dance in Hindi song?,0.0,Neutral,0.0,Neutral,0.2468657046556472,Neutral
 You guys are amazing ❤️,0.5859,Positive,0.6000000000000001,Positive,0.8493285775184631,Positive
@@ -499,8 +499,8 @@ Anthony Westlake😍😍(middle boy in the second group),0.7184,Positive,0.0,Neu
 Cool😍,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "i dont understand how so many people dont like this,its not like they can do any better.
 its probably people who have such miserable lives and wanna make other people miserable with them.",-0.7731,Negative,-0.1875,Negative,-0.5140110850334167,Negative
-The first one was💕💕,0.8625,Positive,0.25,Neutral,0.4343090057373047,Positive
-The first girl in middle  was un believable 👌👌👌👍,0.9545,Positive,0.25,Neutral,0.2624731361865997,Neutral
+The first one was💕💕,0.8625,Positive,0.25,Positive,0.4343090057373047,Positive
+The first girl in middle  was un believable 👌👌👌👍,0.9545,Positive,0.25,Positive,0.2624731361865997,Neutral
 Name of the girl in yellow dress?,0.0,Neutral,0.0,Neutral,-0.4017509520053863,Negative
 "mujer! consigo bailar la coreografia de taki taki de 1MILLION dance estudio, pero estos pasos.... ni soñando no lo conseguiria!",-0.4007,Negative,0.0,Neutral,-0.4157719910144806,Negative
 Can you do step by step tutorial on this dance please? It's so cool!!😍🥰💃🙌,0.9438,Positive,0.0,Neutral,0.7221869230270386,Positive
@@ -515,31 +515,31 @@ Anthony Westlake take all my money take it!,0.0,Neutral,0.0,Neutral,0.4488846361
 w😍w,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Class,0.0,Neutral,0.0,Neutral,0.4324474036693573,Positive
 "Is the cameraman using any video effects? The impression is that some frames are cut, giving this jarred effect in the dance, which enhances the b-boying style. Perhaps low fps video? Looking at the people around, they do seem to skip a few frames here and there.",0.1179,Positive,-0.1,Negative,0.4771624207496643,Positive
-"Does anyone know the name of the guy on the left, in the second group? I've been following his dancing and he's really good.",0.4927,Positive,0.175,Neutral,0.4745000302791595,Positive
+"Does anyone know the name of the guy on the left, in the second group? I've been following his dancing and he's really good.",0.4927,Positive,0.175,Positive,0.4745000302791595,Positive
 We need a tutorial!!!!,0.0,Neutral,0.0,Neutral,0.2821231782436371,Neutral
-Damn i keep coming back here for Anthony' s smile.  He is definitely my fav male dancer. The choreo is so gooooood woah !!!,0.7488,Positive,0.075,Neutral,-0.2475738227367401,Negative
+Damn i keep coming back here for Anthony' s smile.  He is definitely my fav male dancer. The choreo is so gooooood woah !!!,0.7488,Positive,0.075,Positive,-0.2475738227367401,Negative
 The middle girl is awesome 😎😎😎😎,0.9442,Positive,0.5,Positive,0.6467392444610596,Positive
 Who is the girl at the last??? I mean she dances so well,0.5075,Positive,-0.15625,Negative,0.371150255203247,Positive
-"Am I the only person who has watched this video more than 100 times, dreamed  about it, wake up, and watch it again only because of Charlize (the girl in white, first group), she danced literally every single beat of the song, I love it!",0.6696,Positive,0.1862244897959183,Neutral,0.7934404611587524,Positive
+"Am I the only person who has watched this video more than 100 times, dreamed  about it, wake up, and watch it again only because of Charlize (the girl in white, first group), she danced literally every single beat of the song, I love it!",0.6696,Positive,0.1862244897959183,Positive,0.7934404611587524,Positive
 Who is the girl in the middle?????,0.0,Neutral,0.0,Neutral,-0.3612030446529388,Negative
 Y6,0.0,Neutral,0.0,Neutral,0.2772569954395294,Neutral
-First girl in middle has a good control over her body..more than i have on my entire life :/,0.128,Positive,0.1399999999999999,Neutral,0.5337856411933899,Positive
-Thanks 💓🌹♥️,0.8519,Positive,0.2,Neutral,0.5359309315681458,Positive
+First girl in middle has a good control over her body..more than i have on my entire life :/,0.128,Positive,0.1399999999999999,Positive,0.5337856411933899,Positive
+Thanks 💓🌹♥️,0.8519,Positive,0.2,Positive,0.5359309315681458,Positive
 "When you didn't see Haley in the thumbnail and was sure she wouldn't be in it but she surprises you utterly right after Anthonayy finishes,, oof. Haley, you da best!",0.8777,Positive,0.5952380952380952,Positive,0.5819013118743896,Positive
 "Whoa...wait a sec...
-I didn't click 2x fast forward",0.0,Neutral,0.05,Neutral,-0.3398219347000122,Negative
-nice dancing but....latin music was made to move hips and shake ass... and only the black girl from the first group did it .,-0.34,Negative,0.1708333333333333,Neutral,0.5089221596717834,Positive
+I didn't click 2x fast forward",0.0,Neutral,0.05,Positive,-0.3398219347000122,Negative
+nice dancing but....latin music was made to move hips and shake ass... and only the black girl from the first group did it .,-0.34,Negative,0.1708333333333333,Positive,0.5089221596717834,Positive
 "This is AMAZING @Kyle Hangami! Is there a tutorial?? I want to learn, perform and tag you!",0.7768,Positive,0.9375,Positive,0.8636188507080078,Positive
 The   boy   in  the  second  group  has  great  contol  of  her  body,0.6249,Positive,0.4,Positive,0.393659770488739,Positive
 Charlize glass what can I say girl every time she kills it ❤️😍😍😍🤩,0.6705,Positive,0.0,Neutral,0.5351201295852661,Positive
-"I really liked the way they all have danced, but the boy danced in the second round in middle wearing black top was dancing with having liquid electricity in his body. Now I became a fan of him. 😃😁",0.9253,Positive,0.1222222222222222,Neutral,0.4118508100509643,Positive
+"I really liked the way they all have danced, but the boy danced in the second round in middle wearing black top was dancing with having liquid electricity in his body. Now I became a fan of him. 😃😁",0.9253,Positive,0.1222222222222222,Positive,0.4118508100509643,Positive
 The camera work is amazing !!,0.658,Positive,0.9375,Positive,0.788142740726471,Positive
 𝓣𝓱𝓮 𝓯𝓲𝓻𝓼𝓽 𝓰𝓲𝓻𝓵 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓲𝓭𝓭𝓵𝓮 𝔀𝓪𝓼 𝓷𝓸𝓽 𝓵𝓲𝓽𝓮𝓻𝓪𝓵𝓵𝔂 𝓭𝓪𝓷𝓬𝓲𝓷𝓰 𝓼𝓱𝓮 𝔀𝓪𝓼 𝓯𝓵𝓸𝓪𝓽𝓲𝓷𝓰,0.0,Neutral,0.0,Neutral,0.4689221382141113,Positive
 "Gente, essa Taylor é tudo, help",0.4019,Positive,0.0,Neutral,0.5650055408477783,Positive
 😳👏👏👏👏👏Uao excelente todos bailan demasiado bien 👏👏👏💞🇻🇪saludos 🤗🌺,0.9081,Positive,0.55,Positive,0.6839965581893921,Positive
 "Honestly, I kept focusing on how Selena was singing so freaking beautifully in Taki Taki's song more than focusing on them dancing.. . I really couldn't get over it!",0.5653,Positive,0.55,Positive,-0.3531929850578308,Negative
 "Omg da first girl frm  first grp hiting 
-Can anyone tell me her name pliz 😘😘😘😘😘😘",0.9413,Positive,0.25,Neutral,-0.4922305643558502,Negative
+Can anyone tell me her name pliz 😘😘😘😘😘😘",0.9413,Positive,0.25,Positive,-0.4922305643558502,Negative
 Haley not even trying 😐😯,0.0,Neutral,0.0,Neutral,-0.6073849201202393,Negative
 "♥️♥️😍😍⚘⚘
 요즘  넘 잘 보고있어요  
@@ -549,46 +549,46 @@ omg awesome,0.6249,Positive,1.0,Positive,0.7466607689857483,Positive
 💚,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 what a faxibility,0.0,Neutral,0.0,Neutral,0.4670878946781158,Positive
 Second group with the guy in the middle woww,0.0,Neutral,0.0,Neutral,0.28221195936203,Neutral
-"Wow, how are they so fast? I legit thought the video was playing 2x faster.",0.6808,Positive,0.15,Neutral,-0.3549772799015045,Negative
+"Wow, how are they so fast? I legit thought the video was playing 2x faster.",0.6808,Positive,0.15,Positive,-0.3549772799015045,Negative
 Camera move were dope Bro!!! Made be carried away,0.0,Neutral,0.0,Neutral,-0.6069546341896057,Negative
 0:59 the guy in the middle 👌🏼❤️,0.7297,Positive,0.0,Neutral,-0.4190890192985534,Negative
 Try using my 8D audio version https://www.youtube.com/watch?v=o7LHAgcGdx8,0.6841,Positive,0.0,Neutral,0.4097447693347931,Positive
 Try using my 8D audio version https://www.youtube.com/watch?v=o7LHAgcGdx8,0.6841,Positive,0.0,Neutral,0.4097447693347931,Positive
-je commente depuis l'Afrique précisément en côte d'ivoire. Si j'étais dans le même pays que vous je me serez inscrit à vos cours de danse.   Chapeau à la dernière fille,0.0,Neutral,0.1333333333333333,Neutral,0.2562267780303955,Neutral
+je commente depuis l'Afrique précisément en côte d'ivoire. Si j'étais dans le même pays que vous je me serez inscrit à vos cours de danse.   Chapeau à la dernière fille,0.0,Neutral,0.1333333333333333,Positive,0.2562267780303955,Neutral
 That black girl....  Is a queen......,0.0,Neutral,-0.1666666666666666,Negative,0.5901332497596741,Positive
 Nice😍😍😍,0.8957,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I always come here because of Charlie 😹,0.4404,Positive,0.0,Neutral,0.6822295188903809,Positive
 Love 1st group,0.6369,Positive,0.5,Positive,0.7029701471328735,Positive
 enpil love,0.6369,Positive,0.5,Positive,0.6724599003791809,Positive
 Bu dance 2 yilda oyrenemem,0.0,Neutral,0.0,Neutral,0.2786843776702881,Neutral
-"just watched another channel with  choreographed dancers to this song. maybe they have better PR because they're views and subscribers were a lot more than this and I definitely wasn't feeling the spirit watching them BUT, the dancers here are naturally rhythmic and the choreography better matches the song. We all know what's up is down and what's down is up in this confused world. I enjoyed this, thank you.",0.9007,Positive,0.1543209876543209,Neutral,0.4477463364601135,Positive
+"just watched another channel with  choreographed dancers to this song. maybe they have better PR because they're views and subscribers were a lot more than this and I definitely wasn't feeling the spirit watching them BUT, the dancers here are naturally rhythmic and the choreography better matches the song. We all know what's up is down and what's down is up in this confused world. I enjoyed this, thank you.",0.9007,Positive,0.1543209876543209,Positive,0.4477463364601135,Positive
 Is there a tutorial? Choreo is really great,0.659,Positive,0.8,Positive,0.3546763658523559,Positive
-okay but that middle guy from the second group got me blushing through the screen 🥺,0.1154,Positive,0.1666666666666666,Neutral,0.8274556398391724,Positive
-Ok who is the girl in second group of girls with chuks Taylors in the front who is she she is sick an beautifully done,0.3818,Positive,0.1589285714285714,Neutral,0.5648918747901917,Positive
+okay but that middle guy from the second group got me blushing through the screen 🥺,0.1154,Positive,0.1666666666666666,Positive,0.8274556398391724,Positive
+Ok who is the girl in second group of girls with chuks Taylors in the front who is she she is sick an beautifully done,0.3818,Positive,0.1589285714285714,Positive,0.5648918747901917,Positive
 "These vids make me happy, very cool.",0.7425,Positive,0.6275,Positive,0.78755784034729,Positive
-wow it's cute,0.7783,Positive,0.3,Neutral,0.6886382699012756,Positive
+wow it's cute,0.7783,Positive,0.3,Positive,0.6886382699012756,Positive
 "i watched a couple of taki taki choreo, and this one is the best so far👍👍👍👍👍",0.6369,Positive,1.0,Positive,0.8345090746879578,Positive
 The guys did they ship however the last female little girl she was on point,0.0,Neutral,-0.0625,Negative,0.3846192061901092,Positive
 Yooooooooohhhhhhh!!!! Best dance moves ever! 🥰,0.9283,Positive,1.0,Positive,0.9647120237350464,Positive
 AP ad yg terbaru..?? Klo ad d tayangkan gt..🤔🤔,0.0,Neutral,0.5,Positive,-0.305897444486618,Negative
 Is there a tutorial video for this one 😁,0.4588,Positive,0.0,Neutral,0.3049957156181335,Neutral
 Bring the fire at stage,-0.34,Negative,0.0,Neutral,0.3883384764194488,Positive
-Neta me sorprendi,0.2263,Positive,0.05,Neutral,0.4265147745609283,Positive
+Neta me sorprendi,0.2263,Positive,0.05,Positive,0.4265147745609283,Positive
 An amazing dance,0.5859,Positive,0.6000000000000001,Positive,0.8116341233253479,Positive
 An amazing dance,0.5859,Positive,0.6000000000000001,Positive,0.8116341233253479,Positive
 Wowwwwwwww  !!!!!!!!!!!    NICEEEEEE   ....................,0.0,Neutral,0.0,Neutral,0.6239001154899597,Positive
 Vocês  dançam  .muitooooo,0.0,Neutral,0.0,Neutral,0.328961044549942,Neutral
 Where are this people from they got sick moves,-0.5106,Negative,-0.7142857142857143,Negative,-0.513056218624115,Negative
-"I mean the first one at the beginning , she moves too good",0.4404,Positive,0.2125,Neutral,-0.402589738368988,Negative
+"I mean the first one at the beginning , she moves too good",0.4404,Positive,0.2125,Positive,-0.402589738368988,Negative
 The little black dances very well,0.3384,Positive,-0.0513888888888888,Negative,0.5774446725845337,Positive
-Wow !!,0.658,Positive,0.15625,Neutral,0.8093975186347961,Positive
+Wow !!,0.658,Positive,0.15625,Positive,0.8093975186347961,Positive
 I liked the first group they were good,0.6908,Positive,0.5166666666666666,Positive,0.4937065839767456,Positive
 I have to give a  thank to all the fan to support  this video,0.7579,Positive,0.0,Neutral,0.5376225113868713,Positive
 Vous bougez bien j’adore,0.743,Positive,0.5,Positive,0.6113867163658142,Positive
-last girl in yellow is soo good in the game wallah,0.5777,Positive,0.0749999999999999,Neutral,0.3595248162746429,Positive
+last girl in yellow is soo good in the game wallah,0.5777,Positive,0.0749999999999999,Positive,0.3595248162746429,Positive
 "Thanks for the works you do.
 
-https://www.youtube.com/channel/UCQHzoanJuCFD08aBV97f2Gg",0.4404,Positive,0.2,Neutral,0.5581029653549194,Positive
+https://www.youtube.com/channel/UCQHzoanJuCFD08aBV97f2Gg",0.4404,Positive,0.2,Positive,0.5581029653549194,Positive
 https://youtu.be/peis9HK_1aQ,0.0,Neutral,0.0,Neutral,0.2247905284166336,Neutral
 Ahora bailen una parte que no solo sea Selena,0.0,Neutral,0.0,Neutral,0.34041428565979,Positive
 Girl in black&white dress first one is out standing great,0.6249,Positive,0.525,Positive,0.6160183548927307,Positive
@@ -603,7 +603,7 @@ Knydall in the house yeeeeeeeeeeh 😍,0.4588,Positive,0.0,Neutral,0.27859383821
 অসাধারণ পারফরম্যান্স,0.6249,Positive,0.8,Positive,0.6013014912605286,Positive
 Wooow. 😘😘😘,0.8126,Positive,0.0,Neutral,0.2212188392877578,Neutral
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
-"I love to watch only the first and the second one .They are very expert,💖💖💋💋💋💯💯",0.9775,Positive,0.19,Neutral,0.6514678001403809,Positive
+"I love to watch only the first and the second one .They are very expert,💖💖💋💋💋💯💯",0.9775,Positive,0.19,Positive,0.6514678001403809,Positive
 Y que no quieres comprar para el va durar mucho tiempo hermanita cuídate y cuides la panadería hoja del documento,0.7108,Positive,-0.0791666666666666,Negative,-0.4575414657592773,Negative
 woman!!! who are you...goddess!!!,0.0,Neutral,0.0,Neutral,0.7397608160972595,Positive
 مجموعة 1,0.0,Neutral,0.0,Neutral,0.3055240213871002,Neutral
@@ -615,7 +615,7 @@ Much love,0.6369,Positive,0.5,Positive,0.6776458621025085,Positive
 A TAYLORRRRR,0.0,Neutral,0.0,Neutral,0.3633044958114624,Positive
 Cute,0.4588,Positive,0.5,Positive,0.4543334245681762,Positive
 Boy trio,0.0,Neutral,0.0,Neutral,0.3395620286464691,Positive
-The middle first girl has the music inside of her,0.0,Neutral,0.125,Neutral,0.3617468178272247,Positive
+The middle first girl has the music inside of her,0.0,Neutral,0.125,Positive,0.3617468178272247,Positive
 This song sounds better than in the music video,0.4404,Positive,0.5,Positive,0.2948909103870392,Neutral
 هادو تقنوها حسن من لمغاربة 🇲🇦👍,0.0,Neutral,0.0,Neutral,0.5320448875427246,Positive
 Can't take my eyes off for a second ❤️❤️❤️,0.0,Neutral,0.0,Neutral,-0.3311248123645782,Negative
@@ -625,7 +625,7 @@ it would be nice that you do dance tutorials! I love many of your choreographies
 Anice,0.0,Neutral,0.0,Neutral,0.2485372126102447,Neutral
 That's good,0.4404,Positive,0.7,Positive,0.4856771528720855,Positive
 While seeing the video I was like BOOM !The dance is insane and especially the first one middle girl,-0.126,Negative,-0.1875,Negative,-0.5443363785743713,Negative
-Wow...,0.5859,Positive,0.1,Neutral,0.6157188415527344,Positive
+Wow...,0.5859,Positive,0.1,Positive,0.6157188415527344,Positive
 I only watch 0:11 on repeat. She didn't even miss any single beat OMG 😍😍,0.7539,Positive,-0.0357142857142857,Negative,-0.3869346380233764,Negative
 Charliez is incredible!,0.0,Neutral,1.0,Positive,0.8485247492790222,Positive
 Don’t nobody ever talk to HAYLIE AGAIN .  😤,0.0,Neutral,0.0,Neutral,-0.5066559314727783,Negative
@@ -634,7 +634,7 @@ Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
 Awesome choreography😍😍,0.8779,Positive,1.0,Positive,0.8498084545135498,Positive
 Whooooi I like it,0.3612,Positive,0.0,Neutral,0.4365910589694977,Positive
 Perfect! My dream dancing with you!,0.7418,Positive,1.0,Positive,0.9425011277198792,Positive
-OMG WOW 😮😯😲,0.7983,Positive,0.1,Neutral,0.4697616100311279,Positive
+OMG WOW 😮😯😲,0.7983,Positive,0.1,Positive,0.4697616100311279,Positive
 Kyndall went off,0.0,Neutral,0.0,Neutral,-0.5463607907295227,Negative
 i always watch the dance with only one choreography kyle hanagami,0.0,Neutral,0.0,Neutral,0.3497580289840698,Positive
 "I swear, Charlize becomes the music when she dances!",-0.126,Negative,0.0,Neutral,0.5913277268409729,Positive
@@ -643,7 +643,7 @@ Uff I love it...😍❤,0.9081,Positive,0.5,Positive,0.8412022590637207,Positive
 Why Selena Gomez’s part???,0.0,Neutral,0.0,Neutral,-0.3370653390884399,Negative
 What is this type of dancing called?,0.0,Neutral,0.0,Neutral,-0.3171906173229217,Negative
 Hhhahahahahahahhahaha...where is ur butt?,0.0,Neutral,0.0,Neutral,-0.4475367367267608,Negative
-めっちゃ好きだあ,0.4201,Positive,0.2,Neutral,0.4822914898395538,Positive
+めっちゃ好きだあ,0.4201,Positive,0.2,Positive,0.4822914898395538,Positive
 Oh  my  god  they took  tje beats,0.2732,Positive,0.0,Neutral,-0.4232658743858337,Negative
 Anthony ❤️❤️,0.0,Neutral,0.0,Neutral,0.3171532750129699,Neutral
 Lisa BP 😂😂😂😂😂🌼,0.926,Positive,0.0,Neutral,0.3581194281578064,Positive
@@ -657,8 +657,8 @@ Can you post a tutorial for this dance?,0.0,Neutral,0.0,Neutral,0.27278620004653
 the little smiles and expression between the dances break me uffff,0.4228,Positive,-0.1875,Negative,-0.4632608890533447,Negative
 😍😍😍😍😍,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 super dance girls...,0.5994,Positive,0.3333333333333333,Positive,0.7233242392539978,Positive
-"if only people gave charlize this same credit when shes in groups, on the other hand charlize makes you not see the other people dancing lol.",0.8225,Positive,0.11,Neutral,-0.2653500139713287,Negative
-"I'm always amazed and blown away by Kyle's choreographies, every move is sharp as a knife and it makes me feel almost the same feeling of satisfaction as asmr videos, oh and the girl in the middle at the beginning of this video looks almost CGI with her moves, that's what i call pure natural talent, i LOVE it. ❤️🙌🏻",0.9483,Positive,0.1148809523809523,Neutral,0.8298190832138062,Positive
+"if only people gave charlize this same credit when shes in groups, on the other hand charlize makes you not see the other people dancing lol.",0.8225,Positive,0.11,Positive,-0.2653500139713287,Negative
+"I'm always amazed and blown away by Kyle's choreographies, every move is sharp as a knife and it makes me feel almost the same feeling of satisfaction as asmr videos, oh and the girl in the middle at the beginning of this video looks almost CGI with her moves, that's what i call pure natural talent, i LOVE it. ❤️🙌🏻",0.9483,Positive,0.1148809523809523,Positive,0.8298190832138062,Positive
 Holy shit....well done,0.0,Neutral,0.0,Neutral,0.6976575255393982,Positive
 Cute Guys!! They are having so much fun Nice to see Some men Dance,0.8814,Positive,0.5604166666666667,Positive,0.5835273861885071,Positive
 That first girl went hard! Wow,0.5707,Positive,-0.0048611111111111,Negative,0.3769173622131347,Positive
@@ -668,8 +668,8 @@ Last 1 is best dances. .. nices sis..,0.6369,Positive,0.5,Positive,0.56504040956
 Super bros😃🤩🤩🤪😜🤕,0.7506,Positive,0.3333333333333333,Positive,0.7953523397445679,Positive
 This one is look like 🔥,0.0258,Neutral,0.0,Neutral,0.4790638983249664,Positive
 Kyndall waoo😱 amazing,-0.25,Negative,0.6000000000000001,Positive,0.7516444325447083,Positive
-Wow from india,0.5859,Positive,0.1,Neutral,0.7049750089645386,Positive
+Wow from india,0.5859,Positive,0.1,Positive,0.7049750089645386,Positive
 I’ve been through all of the and literally Charlize is amazing. She’s golden.,0.5859,Positive,0.45,Positive,0.9172856211662292,Positive
-"When that first girl in the front dances, she commands ALL attention on her. The rest of the vid goes 144p and I only see her. 🔥🔥🔥🔥",-0.8225,Negative,0.125,Neutral,-0.367169588804245,Negative
+"When that first girl in the front dances, she commands ALL attention on her. The rest of the vid goes 144p and I only see her. 🔥🔥🔥🔥",-0.8225,Negative,0.125,Positive,-0.367169588804245,Negative
 Let us take a moment to appreciate the camera man,0.4019,Positive,0.0,Neutral,0.4094110131263733,Positive
-the last girl yellow shirt. WOW!!!!!,0.7718,Positive,0.1017252604166666,Neutral,0.7359551191329956,Positive
+the last girl yellow shirt. WOW!!!!!,0.7718,Positive,0.1017252604166666,Positive,0.7359551191329956,Positive

@@ -2,7 +2,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 """as long as I'm here no one can hurt you"" 
 Me: said no one ever?!!!!!",-0.8388,Negative,-0.152587890625,Negative,0.3682746291160583,Positive
 💚🏡,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"okay this is by far one of the best sentences i have heard in a really long time ""If I could change the way that you see yourself"" man that hits hard, if you ever had someone that hates themself for no reason other than something going on in there own head and have no way of reaching. I have had that thought many times for some of the ppl i love.",0.6808,Positive,0.3037037037037037,Neutral,0.7851685881614685,Positive
+"okay this is by far one of the best sentences i have heard in a really long time ""If I could change the way that you see yourself"" man that hits hard, if you ever had someone that hates themself for no reason other than something going on in there own head and have no way of reaching. I have had that thought many times for some of the ppl i love.",0.6808,Positive,0.3037037037037037,Positive,0.7851685881614685,Positive
 I love you billie🥰😍😘❤️♥️🖤,0.9792,Positive,0.5,Positive,0.8701996207237244,Positive
 But was it worth the price? What good is it to live for 50 years in abundance of things you never used or knew you had if you lose your soul?,0.4606,Positive,0.3787878787878787,Positive,0.3645753264427185,Positive
 my song 😔,0.0772,Positive,0.0,Neutral,0.5614539384841919,Positive
@@ -13,7 +13,7 @@ Goosebumps,0.0,Neutral,0.0,Neutral,0.2855409979820251,Neutral
 Why I am addicted to her songs?❤️,0.0,Neutral,-0.4,Negative,0.249269425868988,Neutral
 thats beautiful,0.5994,Positive,0.85,Positive,0.4775301516056061,Positive
 "Subscribe for the largest Rock playlist available on YouTube! 
- I JUST GOT DUMPED SO I HAVE A LOT OF TIME ON MY HANDS  I'm going through every rock band alphabetical order and listening to every song from every album and adding a specific songs, for the rock community to enjoy, creating the largest playlist ever made on YouTube Go Billie ellish",0.3091,Positive,0.3,Neutral,0.7985213398933411,Positive
+ I JUST GOT DUMPED SO I HAVE A LOT OF TIME ON MY HANDS  I'm going through every rock band alphabetical order and listening to every song from every album and adding a specific songs, for the rock community to enjoy, creating the largest playlist ever made on YouTube Go Billie ellish",0.3091,Positive,0.3,Positive,0.7985213398933411,Positive
 Ride or die,-0.5994,Negative,0.0,Neutral,0.2569197416305542,Neutral
 "This song reminds me of 8th grade... depressing time, but this song was like the flashlight in the dark cave I was in",0.3506,Positive,-0.375,Negative,0.3248612284660339,Neutral
 "Lyrics:
@@ -82,7 +82,7 @@ What would they say instead?
 If I knew it all then, would I do it again?
 Would I do it again?
 If they knew what they said would go straight to my head
-What would they say instead?",-0.5661,Negative,0.186739417989418,Neutral,-0.3717983663082123,Negative
+What would they say instead?",-0.5661,Negative,0.186739417989418,Positive,-0.3717983663082123,Negative
 I LOVE YOUUUU!!!!!BEAT AILISH!,0.7482,Positive,0.625,Positive,0.6909121870994568,Positive
 Every time some one likes I will listen to this masterpiece once again,0.826,Positive,0.0,Neutral,0.7821817398071289,Positive
 ❤️💛💚Billie👍✌️💚😎🌺,0.9081,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -96,12 +96,12 @@ I can’t even imagine my day without thisss song Iloveherrr sm 😩🕸,-0.2732
 
 
 Heck",0.2732,Positive,0.0,Neutral,0.3063366413116455,Neutral
-لن تشيخ هذي الاغنيه ابدا,0.0,Neutral,0.1,Neutral,0.3772260546684265,Positive
+لن تشيخ هذي الاغنيه ابدا,0.0,Neutral,0.1,Positive,0.3772260546684265,Positive
 Same,0.0,Neutral,0.0,Neutral,-0.2256717085838318,Negative
 "Escutando novamente, pra alimentar minha tristeza.",-0.4404,Negative,0.0,Neutral,0.643197238445282,Positive
 "It's my first time listening to the song with earphones and I kind of hear a man's voice in some parts, maybe it's Finneas'.",0.0,Neutral,0.425,Positive,0.5464401245117188,Positive
 "This song was released at the day my mother passed away, has a special meaning for me...",0.4019,Positive,0.3571428571428571,Positive,0.5641783475875854,Positive
-"I made a comment on this video a year ago on how shes an amazing singer wich she is but shes actually so relatable because I have a friend who thinks shes ugly and I really want her to see that in my eyes shes the most beautiful person ever and that she is not worthy of their parents divorce,im really glad to have a friend like her and ill never forget her I love you Zuledi.",0.9748,Positive,0.1783333333333333,Neutral,0.5486344695091248,Positive
+"I made a comment on this video a year ago on how shes an amazing singer wich she is but shes actually so relatable because I have a friend who thinks shes ugly and I really want her to see that in my eyes shes the most beautiful person ever and that she is not worthy of their parents divorce,im really glad to have a friend like her and ill never forget her I love you Zuledi.",0.9748,Positive,0.1783333333333333,Positive,0.5486344695091248,Positive
 "YOUR DONE YOUR DONE
 My first favorite song from BILLY JEANS billi eilish
 I have tics TIKTOK",0.4588,Positive,0.375,Positive,0.5593716502189636,Positive
@@ -115,7 +115,7 @@ Damn",-0.4019,Negative,0.0,Neutral,0.2866793572902679,Neutral
 Its not too late for me to get addicted to billie's music ❤,0.6369,Positive,-0.35,Negative,0.3500696718692779,Positive
 ❤❤❤❤❤❤❤❤🖤🖤,0.9928,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Battling anxiety it’s close to winning but I’m still fighting 😔,-0.3612,Negative,0.5,Positive,0.439583957195282,Positive
-como le gano esto a mi compa compita de colors black otorongo,0.5859,Positive,0.3166666666666667,Neutral,0.6367277503013611,Positive
+como le gano esto a mi compa compita de colors black otorongo,0.5859,Positive,0.3166666666666667,Positive,0.6367277503013611,Positive
 💔,0.2732,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Demonic music is an abomination to God. God, Jesus loves you all so much and wants you to turn away from anything evil that would distract you from Him. Time is short, Judgment on the world is approaching. Jesus Christ wants to have a relationship with you. Repentance of any and all sin (cheating, lying, adultery, sex outside of marriage, pornography, using the Lords name in vain...are all sin and must be repented of and turned away from). You may or may not believe in this, but Hell and Heaven are two REAL places. If you deny God and His goodness and turn to the ""evil one"" satan, you will find your place in Hell. you will experience Extreme torture much more intense then any torture here on earth, and for eternity (that means forever without stop). Satan uses demonic music to influence listeners. DO NOT OPEN THOSE DOORS by participating.",-0.9845,Negative,-0.048076923076923,Negative,-0.4386469423770904,Negative
 "You should have been allowed to contend for just yourself, not for your Dad, as I am impossible.",0.0516,Positive,-0.6666666666666666,Negative,-0.4999650120735168,Negative
@@ -175,11 +175,11 @@ What would they say instead?
 If I knew it all then, would I do it again?
 Would I do it again?
 If they knew what they said would go straight to my head
-What would they say instead?",-0.5661,Negative,0.1916056166056166,Neutral,-0.3348349928855896,Negative
-This song really makes me think of my brother and in the support you give me. 💛,0.7845,Positive,0.2,Neutral,0.6636854410171509,Positive
+What would they say instead?",-0.5661,Negative,0.1916056166056166,Positive,-0.3348349928855896,Negative
+This song really makes me think of my brother and in the support you give me. 💛,0.7845,Positive,0.2,Positive,0.6636854410171509,Positive
 Who is Billie Eilish?!?….Oh yes….I’ve heard your music and I DO love you! 😊,0.9031,Positive,0.625,Positive,0.7510950565338135,Positive
 I feel so strangely protective of Finneas. He is so much about what makes Billie great and their dynamic is just beautiful to witness.,0.8287,Positive,0.36,Positive,0.721429169178009,Positive
-Wow 💗💗💗,0.9661,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow 💗💗💗,0.9661,Positive,0.1,Positive,0.6722603440284729,Positive
 Why is this only the third suggested entry?,0.0,Neutral,0.0,Neutral,-0.332651674747467,Negative
 Is this GTA,0.0,Neutral,0.0,Neutral,0.4788251221179962,Positive
 So good in 2022,0.4927,Positive,0.7,Positive,0.5984999537467957,Positive
@@ -187,35 +187,35 @@ Don’t worry you’re not the only person listening to this in 2022,-0.4404,Neg
 Mmmmwaaastapyeess,0.0,Neutral,0.0,Neutral,0.2561156749725342,Neutral
 This song never ceases to bring me to tears and the video only asserts that.,-0.2263,Negative,0.0,Neutral,-0.3590370118618011,Negative
 i think this is my favorite billie song,0.4588,Positive,0.5,Positive,0.8088973164558411,Positive
-"For every 10 rubberneckers looking for the thrill when you jump, there's 1 good person jumping in behind you.",0.6597,Positive,0.1499999999999999,Neutral,0.3976070880889892,Positive
+"For every 10 rubberneckers looking for the thrill when you jump, there's 1 good person jumping in behind you.",0.6597,Positive,0.1499999999999999,Positive,0.3976070880889892,Positive
 My 1st time I love this song👌🔥🔥,0.7603,Positive,0.5,Positive,0.9086987376213074,Positive
 https://youtu.be/P-MJtn7xu0s,0.0,Neutral,0.0,Neutral,0.2338905185461044,Neutral
 "This was actually scene from a recreation of spy kids , but they scrapped the movie so billie used the scene for her music video",0.0,Neutral,0.0,Neutral,0.296390026807785,Neutral
 This is depressing emo-music. 😝,-0.3818,Negative,-0.6,Negative,-0.6969249844551086,Negative
 "I'M DYING, WHY IS THIS SO GOOD????????!!!!!!!???????!!!!!!",0.7826,Positive,1.0,Positive,-0.5425148606300354,Negative
 Movie,0.0,Neutral,0.0,Neutral,0.3260493874549866,Neutral
-Listening to this on a speaker LOUD,0.0,Neutral,0.1,Neutral,0.3749783635139465,Positive
+Listening to this on a speaker LOUD,0.0,Neutral,0.1,Positive,0.3749783635139465,Positive
 Eres hermosa,0.5994,Positive,0.85,Positive,0.6509584188461304,Positive
 "Billie: ""I tired to scream...but my head was underwater""
 My body: *chills* 
 
-I love this song!",0.3802,Positive,0.1124999999999999,Neutral,0.7318693995475769,Positive
+I love this song!",0.3802,Positive,0.1124999999999999,Positive,0.7318693995475769,Positive
 I love the song i love the song in cant stop singing  the song its in my head,0.8831,Positive,0.5,Positive,0.6534904837608337,Positive
 "how many times did you listened this song
 me: yes🤩",0.4019,Positive,0.5,Positive,0.3587424457073211,Positive
 Masterpiece,0.6249,Positive,0.0,Neutral,0.8278747200965881,Positive
 Watch this one thousand thimes,0.0,Neutral,0.0,Neutral,-0.3527712225914001,Negative
 Poor car,-0.4767,Negative,-0.4,Negative,-0.4992243647575378,Negative
-So great to speak truth to your pain. Such a relief to have this very famous person be so real and vulnerable so we see the effect of what we say as spectators and consumers of people's image. Here's hoping Kindness and Respect comes into fashion.,0.9221,Positive,0.23,Neutral,0.8392879366874695,Positive
+So great to speak truth to your pain. Such a relief to have this very famous person be so real and vulnerable so we see the effect of what we say as spectators and consumers of people's image. Here's hoping Kindness and Respect comes into fashion.,0.9221,Positive,0.23,Positive,0.8392879366874695,Positive
 Yesss i love it,0.6369,Positive,0.5,Positive,0.8147087693214417,Positive
 "Essa musica é viciante demais , n consigo parar de escutar",0.2235,Positive,0.0,Neutral,-0.4162165820598602,Negative
 When did she makes this video?? The last one I saw was a bit cartoonish lol,0.4871,Positive,0.4,Positive,-0.3118212223052978,Negative
 I still replay this clip to this day without getting bored,0.2057,Positive,-0.5,Negative,0.58563631772995,Positive
 The love of a sibling is irreplaceable,0.6369,Positive,0.5,Positive,-0.3012429773807525,Negative
 All my feelings from my past  are here,0.0,Neutral,-0.25,Negative,0.6788641214370728,Positive
-"“If they knew what they said would go straight to my head, what would they say instead?”",0.2263,Positive,0.2,Neutral,-0.3577654957771301,Negative
+"“If they knew what they said would go straight to my head, what would they say instead?”",0.2263,Positive,0.2,Positive,-0.3577654957771301,Negative
 Hayattan nefret ediyorum.,-0.5719,Negative,-0.8,Negative,-0.6161629557609558,Negative
-My heart becomes more heavy listining to this.,0.6369,Positive,0.15,Neutral,0.3436766564846039,Positive
+My heart becomes more heavy listining to this.,0.6369,Positive,0.15,Positive,0.3436766564846039,Positive
 Just If I can wash my memories about this song just to hear this again,0.0,Neutral,0.0,Neutral,0.4152655005455017,Positive
 My  song🎵 🎶,0.0,Neutral,0.0,Neutral,0.5924935340881348,Positive
 "This song came out when. It immediately became my favourite song. Now almost 2 and half years later i realize how i don't listen to it often, its painful. 
@@ -224,9 +224,9 @@ How a song can mean so much.",-0.4404,Negative,-0.1958333333333333,Negative,-0.3
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🎵🎶🎼💕❣️,0.8591,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"""cause everybody wants something from me now and i dont wanna let em down""this one hurts deep",-0.4767,Negative,0.0148148148148148,Neutral,-0.5522857904434204,Negative
+"""cause everybody wants something from me now and i dont wanna let em down""this one hurts deep",-0.4767,Negative,0.0148148148148148,Positive,-0.5522857904434204,Negative
 Everything I wanted..right here.,0.0,Neutral,0.0,Neutral,0.7948376536369324,Positive
-"I loved this song from the first time I listened to it. I've always listened to Billie Eilish and appreciate her music. So, for this reason, I wanted to dedicate a lyric video to this song. I love the meaning and her voice. It brings me chill and nostalgic/sad vibes. I always commit myself to do videos and improve them. I would like to have a positive feedback or also constructive criticism about the videos I create. The images, although they aren't owned by me but taken from the web, are often related to the song that I choose or that is requested. So, behind there's a thorough research for making the video the better possible. I hope that all my work, my passion and my commitment are appreciated. Compliments to Billie for this song that touches heart's strings. Good luck for everything! 💓💞",0.9942,Positive,0.2820247933884298,Neutral,0.6669477820396423,Positive
+"I loved this song from the first time I listened to it. I've always listened to Billie Eilish and appreciate her music. So, for this reason, I wanted to dedicate a lyric video to this song. I love the meaning and her voice. It brings me chill and nostalgic/sad vibes. I always commit myself to do videos and improve them. I would like to have a positive feedback or also constructive criticism about the videos I create. The images, although they aren't owned by me but taken from the web, are often related to the song that I choose or that is requested. So, behind there's a thorough research for making the video the better possible. I hope that all my work, my passion and my commitment are appreciated. Compliments to Billie for this song that touches heart's strings. Good luck for everything! 💓💞",0.9942,Positive,0.2820247933884298,Positive,0.6669477820396423,Positive
 "2:13 ""Hello how are you, I am under the water""",0.0,Neutral,0.0,Neutral,-0.3389431834220886,Negative
 "40 años y creo que ella ha venido a darnos fe en la buena música con originalidad en su género como una Björk, un Garbage, un Portishead, distintos géneros pero igual de interesantes y deliciosos.",0.9217,Positive,0.4599999999999999,Positive,0.6938382387161255,Positive
 Is this before she got fat?,0.0,Neutral,0.0,Neutral,-0.300042450428009,Negative
@@ -235,15 +235,15 @@ Is this before she got fat?,0.0,Neutral,0.0,Neutral,-0.300042450428009,Negative
 "I
 X",0.0,Neutral,0.0,Neutral,0.3166334629058838,Neutral
 Went on the Tiktok filter and said this song is my song 🥹,0.0,Neutral,0.0,Neutral,0.5919587016105652,Positive
-I love how worthless but welcomed these songs make me feel .. :],0.8422,Positive,0.0666666666666666,Neutral,0.651045024394989,Positive
+I love how worthless but welcomed these songs make me feel .. :],0.8422,Positive,0.0666666666666666,Positive,0.651045024394989,Positive
 m a s t e r p i e c e,0.0,Neutral,0.0,Neutral,0.2520863711833954,Neutral
 Love your songs Billie and I hope you make more songs,0.7964,Positive,0.5,Positive,0.7358139753341675,Positive
 "To become a diamond, therefore each piece of coal is pressured by the evasion of fire that would have otherwise chipped it of grit.
 
 To be perfect, should each soul be burdened by the repentance of sin that would have otherwise stripped you of faith.",-0.1779,Negative,1.0,Positive,0.3167930245399475,Neutral
-"when i heard this song for the first time, i felt so unheard. “i saw them standing right there. kinda thought they might care.” hit hard.",-0.1027,Negative,0.0813492063492063,Neutral,-0.560954213142395,Negative
+"when i heard this song for the first time, i felt so unheard. “i saw them standing right there. kinda thought they might care.” hit hard.",-0.1027,Negative,0.0813492063492063,Positive,-0.560954213142395,Negative
 This song not my usuall but deep af👌,0.8481,Positive,0.0,Neutral,0.4682222902774811,Positive
-The fact I imagined being in the back of a car at night in a city when I first heard this,0.0,Neutral,0.125,Neutral,0.406935840845108,Positive
+The fact I imagined being in the back of a car at night in a city when I first heard this,0.0,Neutral,0.125,Positive,0.406935840845108,Positive
 I swear she blinked to the beat,-0.0516,Negative,0.0,Neutral,-0.4177503883838653,Negative
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 potato,0.0,Neutral,0.0,Neutral,0.3237650096416473,Neutral
@@ -257,13 +257,13 @@ underrated song,0.0,Neutral,0.0,Neutral,0.5833965539932251,Positive
 YOUR VOICE... LOVE IT,0.6369,Positive,0.5,Positive,0.8216701745986938,Positive
 Love this song!!!,0.7249,Positive,0.9765625,Positive,0.8819599747657776,Positive
 This is relaxing to listen to this at 5am,0.4939,Positive,0.0,Neutral,0.5410102009773254,Positive
-2:57 it’s so special to me. It’s like them saying to each other “I know we are sinking but we have each other so it’s gonna be okay” and that’s why they smiled at each other. I love it,0.9387,Positive,0.2260204081632653,Neutral,0.6588150262832642,Positive
+2:57 it’s so special to me. It’s like them saying to each other “I know we are sinking but we have each other so it’s gonna be okay” and that’s why they smiled at each other. I love it,0.9387,Positive,0.2260204081632653,Positive,0.6588150262832642,Positive
 Perfekt !,0.6114,Positive,1.0,Positive,0.9230435490608216,Positive
 "Bronski Beat - ""Smalltown Boy""",0.0,Neutral,0.0,Neutral,0.2712340056896209,Neutral
-Nice song and all but who else low key wants to drive a car under water like if it was safe at least but like ik I wanna,0.8625,Positive,0.1666666666666666,Neutral,0.4015493988990783,Positive
-Nice song and all but who else low key wants to drive a car under water like if it was safe at least but like ik I wanna,0.8625,Positive,0.1666666666666666,Neutral,0.4015493988990783,Positive
+Nice song and all but who else low key wants to drive a car under water like if it was safe at least but like ik I wanna,0.8625,Positive,0.1666666666666666,Positive,0.4015493988990783,Positive
+Nice song and all but who else low key wants to drive a car under water like if it was safe at least but like ik I wanna,0.8625,Positive,0.1666666666666666,Positive,0.4015493988990783,Positive
 forever ♾️,0.0,Neutral,0.0,Neutral,0.7414987683296204,Positive
-My sister was my first bestfriend and my fierce protector..she passed away  September of 2021. I feel like half of me is gone..this song reminds me of how she was my fierce protector..now shes my guardian Angel,0.3612,Positive,0.0416666666666666,Neutral,0.5701162815093994,Positive
+My sister was my first bestfriend and my fierce protector..she passed away  September of 2021. I feel like half of me is gone..this song reminds me of how she was my fierce protector..now shes my guardian Angel,0.3612,Positive,0.0416666666666666,Positive,0.5701162815093994,Positive
 ♥️♥️♥️♥️,0.9571,Positive,0.0,Neutral,0.2824088335037231,Neutral
 forever sad this wasn't on happier than ever album,-0.7074,Negative,-0.5,Negative,-0.4825949370861053,Negative
 I forget to tell you that song is a great song in this  world 😪💛,0.8126,Positive,0.8,Positive,0.8318541049957275,Positive
@@ -279,14 +279,14 @@ April 2022. Love this song 🎵 ❤ 💕,0.9287,Positive,0.5,Positive,0.80162578
 "it must be so wonderful, to have such a loving relationship with your brother/sister.....what a biutiful song",0.8638,Positive,0.5333333333333333,Positive,0.814285397529602,Positive
 "For God so loved the world that he gave his only son that whoever believes in him shall not perish but have ever lasting life. John 3:16 
 
-Jesus died on the cross for your sins and rose again on the third day from the tomb. He loves&cares about you&has a plan for your life. He is also a healer to any problem.💛😃",0.0376,Neutral,0.2166666666666666,Neutral,0.8631715178489685,Positive
+Jesus died on the cross for your sins and rose again on the third day from the tomb. He loves&cares about you&has a plan for your life. He is also a healer to any problem.💛😃",0.0376,Neutral,0.2166666666666666,Positive,0.8631715178489685,Positive
 Beautiful song just like the singer! Love u bellie♥️♥️,0.9652,Positive,0.75,Positive,0.7972079515457153,Positive
 Terrible junk,-0.4767,Negative,-1.0,Negative,-0.9588451981544496,Negative
 Billie nunca em hipotese alguma desaponta,-0.3818,Negative,0.0,Neutral,-0.4399016499519348,Negative
 Sou viciada nesta musica😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍♥️♥️♥️👌🏻👌🏻👌🏻👌🏻,0.9975,Positive,-0.4,Negative,-0.2832725942134857,Negative
 "My favourite part is ""I tried to scream, but my head was underwater"".",-0.2144,Negative,0.0,Neutral,0.525910496711731,Positive
 https://youtu.be/h9US4VknC4g,0.0,Neutral,0.0,Neutral,-0.2307363450527191,Negative
-I admire their relationship. It’s so unique to see them treat each other more than a brother and sister.,0.7003,Positive,0.25,Neutral,0.6454792022705078,Positive
+I admire their relationship. It’s so unique to see them treat each other more than a brother and sister.,0.7003,Positive,0.25,Positive,0.6454792022705078,Positive
 y yo no twngo a nadie😢,-0.296,Negative,0.0,Neutral,-0.3797905147075653,Negative
 Si kkokoikkkijkkikkikkokokokokikokokokokokokokkkokokokkkkikokikikkoooookkikk,0.0,Neutral,0.0,Neutral,0.3076951205730438,Neutral
 zzz,-0.296,Negative,0.0,Neutral,0.2275604009628296,Neutral
@@ -303,7 +303,7 @@ Ok so I listened to this song a billion times and sang it to myself infinite tim
 I feel tired for being depressed,-0.7351,Negative,-0.4,Negative,-0.4526314735412597,Negative
 rikarda,0.0,Neutral,0.0,Neutral,0.3129855990409851,Neutral
 i got everything i wanted ?,0.0,Neutral,0.0,Neutral,0.2655496001243591,Neutral
-Para mi yo de dos años,0.0,Neutral,0.1,Neutral,0.3684735894203186,Positive
+Para mi yo de dos años,0.0,Neutral,0.1,Positive,0.3684735894203186,Positive
 Im from algerien and I love youuuuuu sow match ❤❤❤❤❤,0.9803,Positive,0.5,Positive,0.6690743565559387,Positive
 Me TOO. ✝,0.0,Neutral,0.0,Neutral,0.2871096134185791,Neutral
 Right now I’m struggling with  finding love  I can’t find the one….. i try but fail fail fail  I use this song as hope,-0.8934,Negative,-0.1428571428571428,Negative,0.4699620306491852,Positive
@@ -318,7 +318,7 @@ I love this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
 I love u,0.6369,Positive,0.5,Positive,0.7627245187759399,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 Truly art,0.4404,Positive,0.0,Neutral,0.8210356831550598,Positive
-"My Mom died suddenly and absurdly. She meant the world to me. I wish so much I would have died with her...to not go through the pain I go through for months since her death and it doesn't get better. Everyone expects me to get better but it doesn't. It's just like we were in this car together from the music video. We both died. But they buried only her, not me, just because she wasn't breathing anymore but I did. I wish I didn't because now I die every day and no one understands it...",-0.9599,Negative,0.1166666666666666,Neutral,-0.4728696346282959,Negative
+"My Mom died suddenly and absurdly. She meant the world to me. I wish so much I would have died with her...to not go through the pain I go through for months since her death and it doesn't get better. Everyone expects me to get better but it doesn't. It's just like we were in this car together from the music video. We both died. But they buried only her, not me, just because she wasn't breathing anymore but I did. I wish I didn't because now I die every day and no one understands it...",-0.9599,Negative,0.1166666666666666,Positive,-0.4728696346282959,Negative
 I'm a the only one who thinks that when Billie Eilish smiles she looks like Scarlet Johansson,0.6808,Positive,0.0,Neutral,0.2306996881961822,Neutral
 What if u just stop whining here with your depression and just fkin accept in life not all will go as u want 😉,-0.5994,Negative,0.0,Neutral,0.3272687792778015,Neutral
 my favorite song :),0.7184,Positive,0.5,Positive,0.9087097644805908,Positive
@@ -335,20 +335,20 @@ Nể e tự lực cánh sinh tự tạo hết tất cả bàn đôi bàn tay và
 it will always be my favorite song,0.4588,Positive,0.5,Positive,0.8079195618629456,Positive
 "When I was in the mental hospital my roomie played this, I had attempted suicide...it completely broke me",-0.1761,Negative,0.0,Neutral,-0.6654075384140015,Negative
 Silence mind,0.0,Neutral,0.0,Neutral,-0.3011474609375,Negative
-"For the first time I noticed that if you listen carefully, you can hear Finneas's voice in the chorus :0 cool",0.4215,Positive,0.1666666666666666,Neutral,-0.479918360710144,Negative
+"For the first time I noticed that if you listen carefully, you can hear Finneas's voice in the chorus :0 cool",0.4215,Positive,0.1666666666666666,Positive,-0.479918360710144,Negative
 "Incredible music, I can't stop listening to it, the part when hands are held shows total compliance.",0.2235,Positive,0.45,Positive,0.8805022835731506,Positive
-Swear on everything i put ve this chicks brother's more down than anyone that's ever existed.  That being said it doesn't show her getting out of the car . Must have massage therapy seats,-0.0516,Negative,0.1722222222222222,Neutral,-0.6866835355758667,Negative
+Swear on everything i put ve this chicks brother's more down than anyone that's ever existed.  That being said it doesn't show her getting out of the car . Must have massage therapy seats,-0.0516,Negative,0.1722222222222222,Positive,-0.6866835355758667,Negative
 รู้สึกจม แบบจมลงไปเลย,0.3612,Positive,0.0,Neutral,0.2479341179132461,Neutral
 "This song actually helped me survived last 2 years, I was very down and not able to think straight. I was 2nd yr college at that time and Im on the brink to commit a suicide because of too much pressure in the university.",-0.0772,Negative,-0.0074603174603174,Negative,0.5206111669540405,Positive
 "The video is also brilliant. Every beat of the song has a corresponding transition/representation in the video. Look at the lights turning on and off, the scenes changing as the beats and piano notes pass by.",0.5859,Positive,0.9,Positive,0.6078753471374512,Positive
-Love the song.....but tuhe only thing i really was rather devastated about was the fact that she just drove a Hellcat into the ocean like WHAT,0.3477,Positive,0.2333333333333333,Neutral,0.4206363558769226,Positive
+Love the song.....but tuhe only thing i really was rather devastated about was the fact that she just drove a Hellcat into the ocean like WHAT,0.3477,Positive,0.2333333333333333,Positive,0.4206363558769226,Positive
 😭❤️,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
 😘😘😘😘😘😘😘😘🥰🥰🥰🥰🥰🥰🥰🥰👍👍👍👍👍👍👍👍👌👌👌👌👌👌👌👌Bilie💓💓💓💓💓💓💓💓💓💓💓💓💓💓,0.9994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2:59 awww 🥰🥰,0.9393,Positive,0.4,Positive,-0.2971744537353515,Negative
 the word the life,0.0,Neutral,0.0,Neutral,0.4539470374584198,Positive
-يا بيلي انا تعبت من المشاكل كل لي احبهم تركوني ابي اعرف ليش ايش سويت لهم ):,0.3818,Positive,0.15,Neutral,0.431138128042221,Positive
+يا بيلي انا تعبت من المشاكل كل لي احبهم تركوني ابي اعرف ليش ايش سويت لهم ):,0.3818,Positive,0.15,Positive,0.431138128042221,Positive
 Thank you Billie,0.3612,Positive,0.0,Neutral,0.557612419128418,Positive
-This video breaks my heart 😔 I have twin sisters that struggle with suicide and I fight every second of everyday for them to live and not give up. It's the hardest thing in life to deal with. And reading the comments are so sad because so many people see comfort in going out like this. But God says THIS IS NOT THE WAY! All I can continue to do is pray and give it to God. To my twin sisters Patty & LuLu I love you both with everything I have. And We WILL grow old together 😉😘,0.9485,Positive,0.0944805194805194,Neutral,0.3794737160205841,Positive
+This video breaks my heart 😔 I have twin sisters that struggle with suicide and I fight every second of everyday for them to live and not give up. It's the hardest thing in life to deal with. And reading the comments are so sad because so many people see comfort in going out like this. But God says THIS IS NOT THE WAY! All I can continue to do is pray and give it to God. To my twin sisters Patty & LuLu I love you both with everything I have. And We WILL grow old together 😉😘,0.9485,Positive,0.0944805194805194,Positive,0.3794737160205841,Positive
 "F00D FOR TH3 SOUL ☆♡☆ 
 I L0V3 READING THIS M3SSAG3. ☆♡☆
  Y3S YOU ☆♡☆
@@ -356,10 +356,10 @@ HAV3 A BLESSED DAY ☆♡☆",0.6841,Positive,0.0,Neutral,0.815237820148468,Posi
 to many injustices  in the world!     tu  ma nen   g  i hare   u,0.0,Neutral,0.625,Positive,0.4059256911277771,Positive
 Sup,0.0,Neutral,0.0,Neutral,0.2524220943450928,Neutral
 diễn cái gì vậy chời,0.0,Neutral,0.0,Neutral,-0.2698142230510711,Negative
-She’s talented  no doubt but she needs to open her mouth and sing! Her style is gets old real fast,0.4583,Positive,0.275,Neutral,0.3712587654590606,Positive
+She’s talented  no doubt but she needs to open her mouth and sing! Her style is gets old real fast,0.4583,Positive,0.275,Positive,0.3712587654590606,Positive
 I wonder who the guy is?,0.0,Neutral,0.0,Neutral,0.2939122915267944,Neutral
 I'm sorry arwen ☹ sana makita ni nimo😭,-0.7003,Negative,-0.5,Negative,-0.6229589581489563,Negative
-"Her songs sound better in other voices, not in herself...",0.4404,Positive,0.2583333333333333,Neutral,-0.5166543126106262,Negative
+"Her songs sound better in other voices, not in herself...",0.4404,Positive,0.2583333333333333,Positive,-0.5166543126106262,Negative
 Nicolina brought me to this song and video,0.0,Neutral,0.0,Neutral,0.5069993138313293,Positive
 I love your shoes and hair,0.6369,Positive,0.5,Positive,0.7961736917495728,Positive
 "I love YOU My fevarete use best baby gal so much ciwote baby, Don't do thes pills 🥺🙏🙏🙏🙏👄👀👅👄I love YOU My best time FOR love baby💀💓💗💓💞💝",0.9927,Positive,0.6166666666666667,Positive,0.9256922006607056,Positive
@@ -368,12 +368,12 @@ I love that song really how I feel,0.6369,Positive,0.35,Positive,0.8107248544692
 "I like at the beginning, when the drum claps start, she is blinking to the rhythm.   ""Thought I could fly..."" blink blink blink...",0.3612,Positive,0.8,Positive,-0.3883487582206726,Negative
 beautiful melody with plaintive voice,0.5994,Positive,0.85,Positive,0.5226325988769531,Positive
 https://youtu.be/1AFaxYIcgOE. AZ,0.0,Neutral,0.0,Neutral,-0.2332028001546859,Negative
-This is my all-time favorite song of hers. I listen to it so much. You can feel the lyrics deep in you.,0.4588,Positive,0.2333333333333333,Neutral,0.9605939984321594,Positive
+This is my all-time favorite song of hers. I listen to it so much. You can feel the lyrics deep in you.,0.4588,Positive,0.2333333333333333,Positive,0.9605939984321594,Positive
 I had i got evrything i wanted,0.0,Neutral,0.0,Neutral,0.2796207070350647,Neutral
-my god this is for the first song i cried,-0.128,Negative,0.25,Neutral,0.4630305469036102,Positive
+my god this is for the first song i cried,-0.128,Negative,0.25,Positive,0.4630305469036102,Positive
 i love you billy,0.6369,Positive,0.5,Positive,0.8520663976669312,Positive
 this is so beautiful,0.7177,Positive,0.85,Positive,0.845035195350647,Positive
-"My mom showed me this song when I was at my lowest, this was her way of showing me everything will be ok. That I'm worthe more than I can see. It helped me get out of that dark place.",-0.3818,Negative,0.2833333333333333,Neutral,0.4652041494846344,Positive
+"My mom showed me this song when I was at my lowest, this was her way of showing me everything will be ok. That I'm worthe more than I can see. It helped me get out of that dark place.",-0.3818,Negative,0.2833333333333333,Positive,0.4652041494846344,Positive
 "te amo, billie",0.6369,Positive,0.5,Positive,0.3704526126384735,Positive
 they don't deserve you,0.0,Neutral,0.0,Neutral,-0.4891321659088135,Negative
 Perfect nose perfect face perfect body.. perfect.....,0.9413,Positive,1.0,Positive,0.9142913222312928,Positive
@@ -382,7 +382,7 @@ It’s not depressing it’s life! It’s beautiful! It’s pain! It’s love! I
 "I’m here , again",0.0,Neutral,0.0,Neutral,0.5975019931793213,Positive
 "one of the catchiest, most beautiful lyric/melody combos of all time. ""If i could chaaaAAAAaaaange the waaaaAAAAAaaaaay that you see yourself...""",0.6361,Positive,0.675,Positive,0.8919645547866821,Positive
 I love this song I love it is my favorite song now,0.9081,Positive,0.5,Positive,0.9122735261917114,Positive
-How Billie and Finneas are able to understand and interpret such complicated emotions and human conditions at such a young age is amazing to me. This song helped me face my own mortality. Thanks guys love you. ❤ 😀,0.9559,Positive,0.2,Neutral,0.8705162405967712,Positive
+How Billie and Finneas are able to understand and interpret such complicated emotions and human conditions at such a young age is amazing to me. This song helped me face my own mortality. Thanks guys love you. ❤ 😀,0.9559,Positive,0.2,Positive,0.8705162405967712,Positive
 I'm your fen Billie ❤️‍🔥❤❤❤❤❤,0.9666,Positive,0.0,Neutral,0.5290455222129822,Positive
 My 22 yr olds fav. Music connects us. Thank goodness 😌,0.8779,Positive,0.0,Neutral,0.6849833726882935,Positive
 Such a great song,0.6249,Positive,0.4,Positive,0.8767572045326233,Positive
@@ -391,14 +391,14 @@ My favorite music from him 🤞🏽‼️⚡,0.4588,Positive,0.5,Positive,0.8748
 Her brother is the only person she trusts,0.4767,Positive,0.0,Neutral,0.3057302236557007,Neutral
 "“As long as I’m here, no one can hurt you”",-0.6808,Negative,-0.05,Negative,0.7251198291778564,Positive
 BILLIE TE AMO MAS QUE MI MAMA AAAA QUE BUENA CANCIONNNNN,0.7964,Positive,0.5666666666666667,Positive,0.5148197412490845,Positive
-"I can feel all her pain, eventhough I'm no longer depressed.. 🙏🏻😭🥺💔💔💔 And it hurts so bad.. Beautiful video!!! 🙏🏻🙏🏻🙏🏻",-0.7084,Negative,0.15,Neutral,0.7237516045570374,Positive
-I cant tell yu how many times i had this same feeling in a dream that's what i love about her she is real and says real shit its raw,0.4767,Positive,0.1115384615384615,Neutral,0.5761203765869141,Positive
+"I can feel all her pain, eventhough I'm no longer depressed.. 🙏🏻😭🥺💔💔💔 And it hurts so bad.. Beautiful video!!! 🙏🏻🙏🏻🙏🏻",-0.7084,Negative,0.15,Positive,0.7237516045570374,Positive
+I cant tell yu how many times i had this same feeling in a dream that's what i love about her she is real and says real shit its raw,0.4767,Positive,0.1115384615384615,Positive,0.5761203765869141,Positive
 Shes so interesting,0.4576,Positive,0.5,Positive,0.5605170726776123,Positive
-This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.91,Positive,0.1527777777777778,Neutral,0.7564324736595154,Positive
+This song and “Clover Cage - Lost Then Found” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.91,Positive,0.1527777777777778,Positive,0.7564324736595154,Positive
 I had a dream I got everything I wanted,0.25,Positive,0.0,Neutral,0.6899148225784302,Positive
-This song is so deep mystical and magical a lot of positive and negative memories attached to it but I enjoy listening to it every time,0.6428,Positive,0.1654545454545454,Neutral,0.6157846450805664,Positive
+This song is so deep mystical and magical a lot of positive and negative memories attached to it but I enjoy listening to it every time,0.6428,Positive,0.1654545454545454,Positive,0.6157846450805664,Positive
 Minha música preferidaaaaaa 😍❤️👍🔥💥💢💯😎,0.1027,Positive,0.5,Positive,0.5801205635070801,Positive
-"a paz que essa musica transmite, acho que nenhuma outra consegue me transmitir.",0.3182,Positive,0.0625,Neutral,0.566568911075592,Positive
+"a paz que essa musica transmite, acho que nenhuma outra consegue me transmitir.",0.3182,Positive,0.0625,Positive,0.566568911075592,Positive
 Когда я принимаю душ я слушаю эту музыку,0.0,Neutral,0.0,Neutral,0.3861822783946991,Positive
 I love you 😘,0.7906,Positive,0.5,Positive,0.8701996207237244,Positive
 "I don’t really want anything, I want someone, a friend :D that will always be with me, having someone always by your side is one of the best gifts :)",0.9462,Positive,0.675,Positive,0.7392276525497437,Positive
@@ -408,7 +408,7 @@ I love you 😘,0.7906,Positive,0.5,Positive,0.8701996207237244,Positive
 "Every time i get listed to this art i believe that these words have story every one had been in🚶🏼‍♂️✨
 2022",0.3182,Positive,0.0,Neutral,0.6476114392280579,Positive
 2:50 💖✨,0.8271,Positive,0.0,Neutral,-0.2621059715747833,Negative
-"Lolling against life. I love the carefree sigh of her voice and how her lyrics are sometimes so fitting to life's problems where at times it's I am exhausted, not caring about chaos and the rush of everyday things to just sit back and let it be,",0.4888,Positive,0.0799999999999999,Neutral,0.4360219538211822,Positive
+"Lolling against life. I love the carefree sigh of her voice and how her lyrics are sometimes so fitting to life's problems where at times it's I am exhausted, not caring about chaos and the rush of everyday things to just sit back and let it be,",0.4888,Positive,0.0799999999999999,Positive,0.4360219538211822,Positive
 Somoking the green and playing this on the tv in a dark room takes you to a new universe of relaxation you feel close to heaven,0.8176,Positive,-0.0712121212121212,Negative,0.6374572515487671,Positive
 "U also searched ""but my head was underwater"" to find this,didn'tchu",0.0,Neutral,0.0,Neutral,-0.4505848288536072,Negative
 "I had a dream
@@ -528,10 +528,10 @@ Akankah aku melakukannya lagi?
 If they knew what they said would go straight to my head
 Seandainya mereka tahu apa yang mereka katakan langsung masuk ke dalam kepalaku
 What would they say instead?
-Apa yang akan mereka katakan?",-0.9584,Negative,0.1273526077097506,Neutral,-0.4349275529384613,Negative
+Apa yang akan mereka katakan?",-0.9584,Negative,0.1273526077097506,Positive,-0.4349275529384613,Negative
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,-0.9986,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Iloveyou🇵🇭,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Billie ako nalang wag please HAHAHA,0.7531,Positive,0.2,Neutral,-0.2616718411445617,Negative
+Billie ako nalang wag please HAHAHA,0.7531,Positive,0.2,Positive,-0.2616718411445617,Negative
 Mahal kita Billie,0.6369,Positive,0.5,Positive,0.3203023076057434,Neutral
 I can't believe you seen me naked!!! ay iba pala yun,0.0,Neutral,0.0,Neutral,-0.4326093196868896,Negative
 Iloveyou billie ket may Mathew kana,0.0,Neutral,0.0,Neutral,0.2635765969753265,Neutral
@@ -542,7 +542,7 @@ The Pisces vibes are strong in this song,0.5106,Positive,0.4333333333333333,Posi
 Love you Billieeilish ❤,0.8555,Positive,0.5,Positive,0.813393235206604,Positive
 adore her,0.5574,Positive,0.0,Neutral,0.6415715217590332,Positive
 "Yo nunca he tenido novia, como me gustaría tener una para escuchar esta canción los dos juntos.",0.3612,Positive,0.0,Neutral,0.4759546816349029,Positive
-this song remind me of you haha,0.4588,Positive,0.2,Neutral,0.5244244933128357,Positive
+this song remind me of you haha,0.4588,Positive,0.2,Positive,0.5244244933128357,Positive
 American idol brought me here 🥰,0.8074,Positive,0.0,Neutral,0.6738847494125366,Positive
 "KARAOKE 🎙️🎙️😁🎵👍🎙️
 I had a dream
@@ -609,8 +609,8 @@ What would they say instead?
 If I knew it all then, would I do it again?
 Would I do it again?
 If they knew what they said would go straight to my head
-What would they say instead?",-0.5661,Negative,0.186739417989418,Neutral,0.2306359112262725,Neutral
-"Yes a Dodge Challenger in the ocean, looks normal to me👍 (only car guys will get it)",0.4939,Positive,0.075,Neutral,0.2947834730148315,Neutral
+What would they say instead?",-0.5661,Negative,0.186739417989418,Positive,0.2306359112262725,Neutral
+"Yes a Dodge Challenger in the ocean, looks normal to me👍 (only car guys will get it)",0.4939,Positive,0.075,Positive,0.2947834730148315,Neutral
 "Can't you see what you have done ""crying"" unappreciated you make me. I care about you.",-0.3818,Negative,-0.2,Negative,-0.2483230233192443,Negative
 "I'm not judging anyone. I just wanted to share this with y'all. Have a Blessed Day and Night 😇👇
 
@@ -626,7 +626,7 @@ Jesus/Yeshua loves you ❤
 
 Prayer...
 YouTube: Evangelist Fernando Perez 
-YouTube: Brother Carlos Oliveira",0.8834,Positive,0.1,Neutral,0.2951892912387848,Neutral
+YouTube: Brother Carlos Oliveira",0.8834,Positive,0.1,Positive,0.2951892912387848,Neutral
 Thats a Grammy for you.,0.0,Neutral,0.0,Neutral,-0.3330827951431274,Negative
 Love 🇵🇷💜🦋2020💚💚💚💚💚walter,0.9803,Positive,0.5,Positive,0.7371776700019836,Positive
 Ben TÜRKİYE ' DEN 🇹🇷🇹🇷🇹🇷 dinliyorum. Billie eilish senin şarkılarını büyük bir zevkle dinliyorum🏅🏆🎖,0.9325,Positive,0.8,Positive,0.6534916162490845,Positive
@@ -637,7 +637,7 @@ Não consegui ver nada. Mas a música é perfeita,0.7227,Positive,1.0,Positive,0
 2:09 🥵,0.0,Neutral,0.0,Neutral,-0.3006228506565094,Negative
 This what happens when you let chicks drive,0.0,Neutral,0.0,Neutral,0.5216839909553528,Positive
 I accidently disliked this song. Maybe you seen me.,-0.4019,Negative,-0.2,Negative,-0.6100901365280151,Negative
-Everyone is suicidal at one point. If you do not then you get too happy then get suicidal. Life will hit you with depression in so many ways. It's crazy.,-0.9081,Negative,0.2333333333333333,Neutral,-0.618554949760437,Negative
+Everyone is suicidal at one point. If you do not then you get too happy then get suicidal. Life will hit you with depression in so many ways. It's crazy.,-0.9081,Negative,0.2333333333333333,Positive,-0.618554949760437,Negative
 I had a dream that they would stop playing the stupid ass song on the radio😄,-0.2023,Negative,-0.7999999999999999,Negative,-0.3661165237426758,Negative
 I used to be in a dark place. This song brings me back but now im out,0.0,Neutral,-0.075,Negative,0.2225373983383178,Neutral
 Billi save Ukrainian,0.4939,Positive,0.0,Neutral,-0.3317538201808929,Negative
@@ -647,10 +647,10 @@ Libianca?,0.0,Neutral,0.0,Neutral,-0.4297807216644287,Negative
 "Love you billie...🥺💋💋💋💋💋💔
 🇮🇶",0.9601,Positive,0.5,Positive,0.8153095841407776,Positive
 I am in love with this song 💓💓💓,0.9779,Positive,0.5,Positive,0.7236101031303406,Positive
-いい曲だけどMVが危ない。海に飛びこんじゃダメ❗,-0.4939,Negative,0.0499999999999999,Neutral,-0.3457497060298919,Negative
+いい曲だけどMVが危ない。海に飛びこんじゃダメ❗,-0.4939,Negative,0.0499999999999999,Positive,-0.3457497060298919,Negative
 MASTERPIECE!!!!!!!!!,0.7405,Positive,0.0,Neutral,0.8864849805831909,Positive
 The best music,0.6369,Positive,1.0,Positive,0.9245617389678956,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.93,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕,0.93,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
 I'll never get tired of this song,0.3412,Positive,-0.4,Negative,0.5040783882141113,Positive
 "idk but everytime I hear this song, I get emotional for no reason",-0.2732,Negative,0.0,Neutral,0.2578063905239105,Neutral
 A masterpiece no song can replace ❤️ ❤️,0.4404,Positive,0.0,Neutral,0.9022822976112366,Positive
@@ -675,9 +675,9 @@ Arzu & fuat,0.4019,Positive,0.0,Neutral,0.2677012383937835,Neutral
 ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Awesome 👏,0.6249,Positive,1.0,Positive,0.8498084545135498,Positive
 This song killg me.. So Good im now i have BPD i have psihoses im fighting... Im so fighting not to kill myself.. Im hiden nobady can see me... Im beetween..,0.4916,Positive,0.7,Positive,0.5546814799308777,Positive
-I really don't know why i keep playing this each day... got all these in my head🙃🙃🙃,0.2023,Positive,0.2,Neutral,0.3469035923480987,Positive
-"this song explains so much for my feelings thoughts for my bother, though this  is your career thanks for making this/singing it",0.128,Positive,0.2,Neutral,0.5479851961135864,Positive
-"Such a beautiful voice, a deeply empathetic sweet soul , who is Obviously an old soul.. I am entranced by such beauty. I’m honored to be here in this world during this time to hear this beautiful soul ❤️",0.9732,Positive,0.3071428571428571,Neutral,0.9215317964553832,Positive
+I really don't know why i keep playing this each day... got all these in my head🙃🙃🙃,0.2023,Positive,0.2,Positive,0.3469035923480987,Positive
+"this song explains so much for my feelings thoughts for my bother, though this  is your career thanks for making this/singing it",0.128,Positive,0.2,Positive,0.5479851961135864,Positive
+"Such a beautiful voice, a deeply empathetic sweet soul , who is Obviously an old soul.. I am entranced by such beauty. I’m honored to be here in this world during this time to hear this beautiful soul ❤️",0.9732,Positive,0.3071428571428571,Positive,0.9215317964553832,Positive
 No body cry,0.091,Positive,0.0,Neutral,-0.5472645163536072,Negative
 اغانيكِ بقلبي,0.6369,Positive,0.0,Neutral,0.382111132144928,Positive
 Anyone else find her music strangely calming?,0.128,Positive,-0.05,Negative,-0.3181048333644867,Negative
@@ -699,7 +699,7 @@ I haven't seen a good concert in a while let me know when you come to Seattle,-0
 Insane🥺💔,-0.1531,Negative,0.0,Neutral,0.3085779249668121,Neutral
 """as longs as ı'm here no one can hurt you"" <\3",-0.6808,Negative,0.0,Neutral,0.3416697680950165,Positive
 2:24 just hits different,0.0,Neutral,0.0,Neutral,-0.4113804996013641,Negative
-This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..❣️,0.9081,Positive,0.2037037037037037,Neutral,0.9103387594223022,Positive
+This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..❣️,0.9081,Positive,0.2037037037037037,Positive,0.9103387594223022,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 👏👏👏 Wonderful,0.5719,Positive,1.0,Positive,0.7874395847320557,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -707,13 +707,13 @@ This song owns me.,0.0,Neutral,0.0,Neutral,0.7989989519119263,Positive
 everything i losted.,0.0,Neutral,0.0,Neutral,-0.6708778142929077,Negative
 "Que nostalgia esta cancion, el cafe del tik tok, el 2020, extraño esas epocas.",-0.1531,Negative,-0.5,Negative,0.5196676850318909,Positive
 we gotta turn depression into pleasure just like this wonderful song,0.783,Positive,1.0,Positive,0.8244844079017639,Positive
-Thanks so much Jeremy Evan etc....lol,0.4404,Positive,0.2,Neutral,0.6126227378845215,Positive
+Thanks so much Jeremy Evan etc....lol,0.4404,Positive,0.2,Positive,0.6126227378845215,Positive
 ©,0.0,Neutral,0.0,Neutral,0.3035875856876373,Neutral
 I wish I had a brother who really loves me but they all hate me I wish them the worst,-0.7007,Negative,-0.5333333333333333,Negative,-0.6204952597618103,Negative
 "i still remember when this song released, god it doesn't even feel like it was 2020...",-0.0026,Neutral,0.0,Neutral,-0.4719571471214294,Negative
 I went through a nightmare when I was a child. I grabbed a picture of myself at that age and promised him ill protect you no matter what. Almost 50 now. I'm well protected.,0.7372,Positive,-0.5,Negative,0.7452161908149719,Positive
 I'm back got it on repeat. Excellent video and song.,0.5719,Positive,0.5,Positive,0.8153262734413147,Positive
-jaja que pedo es Zarcort,0.4588,Positive,0.2,Neutral,-0.4022175371646881,Negative
+jaja que pedo es Zarcort,0.4588,Positive,0.2,Positive,-0.4022175371646881,Negative
 ❤❤❤🚶🏼‍♂️,0.9274,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Pov: u listening to this song and scrolling down the comment's,0.0,Neutral,-0.1555555555555555,Negative,-0.4185270071029663,Negative
 "good song , good lyrics",0.7003,Positive,0.7,Positive,0.5779931545257568,Positive
@@ -723,14 +723,14 @@ I can't convey into words how cathartic both this song and video are to me.
 
 He's still with me, and I'm grateful for that...but not being able to phsyically hold his hand anymore hurts. A lot. To be honest, I still lose my breath at how sad I am sometimes.
 
-Much love to Billie & Finn. Bonds like this are rare, and not even death can end them.",0.9574,Positive,0.2777777777777778,Neutral,0.4547154903411865,Positive
+Much love to Billie & Finn. Bonds like this are rare, and not even death can end them.",0.9574,Positive,0.2777777777777778,Positive,0.4547154903411865,Positive
 Best song of hers together with YOUR POWER.,0.6369,Positive,1.0,Positive,0.9312021732330322,Positive
-Might have the early stages of lymphoma and this song is on repeat,0.0,Neutral,0.1,Neutral,-0.3244332373142242,Negative
+Might have the early stages of lymphoma and this song is on repeat,0.0,Neutral,0.1,Positive,-0.3244332373142242,Negative
 que flow tiene billie eilish,0.0,Neutral,0.0,Neutral,0.3887322247028351,Positive
 Dippin In The Whip🌊🚗,0.0,Neutral,0.0,Neutral,0.2691501379013061,Neutral
 Hi i am Brazilian 🇧🇷,0.0,Neutral,0.0,Neutral,-0.2728797793388366,Negative
 IM CRYING,-0.4767,Negative,-0.2,Negative,0.3453848659992218,Positive
-This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💗,0.9201,Positive,0.2037037037037037,Neutral,0.9103387594223022,Positive
+This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💗,0.9201,Positive,0.2037037037037037,Positive,0.9103387594223022,Positive
 💃🖤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Depressed people are angels who want to go back home..
 People always say ""I understand"" or ""I feel bad for you"", but they probably don't even know how depression feel like, how dark, sad, and how much anxiety hits..
@@ -754,27 +754,27 @@ Love u still comma,0.6369,Positive,0.5,Positive,0.6787811517715454,Positive
 I need y'all shoulder to cry on jstyles ask for forgiveness..amen should I leave to Colombia or stay,-0.5106,Negative,0.0,Neutral,-0.6209392547607422,Negative
 Billie Eilish GOD<3,0.0,Neutral,0.0,Neutral,0.2726165652275085,Neutral
 Billie Eilish GOD<3,0.0,Neutral,0.0,Neutral,0.2726165652275085,Neutral
-"The beat is simple and repetitive. Makes you focus on the lyrics and the whole story, immerse you in a whole different world. So surreal",-0.25,Negative,0.0666666666666666,Neutral,0.3110491335391998,Neutral
-"This is great. The music and the video, the whole picture. I swear this song is best enjoyed with the video, it adds so much to it. Don't get me wrong it's a good song but I feel like the video is such an important accompaniment too. It's one of those rare instances when the video isn't there just for the sake of it or just for promotion, but it's a vital part of the concept. Feels like the concept involves both visual and audio equally. The atmosphere built by the sounds used, the production, the lyrics, the singing and the imagery, the framing, the colors, the darkness, all of these things as a whole, it's a work of art. It conveys so much emotion with a lot of subtlety. It's very bleak, dark even claustrophobic at times, but somehow still very very human and comforting. It's so good. You just get the message. It's not the words, it's not the music nor the video, but all of those things combined together say something that is much easier felt than said. Amazing communicators these two. And also all the people who helped make this.",0.9883,Positive,0.1681818181818182,Neutral,0.7774572372436523,Positive
+"The beat is simple and repetitive. Makes you focus on the lyrics and the whole story, immerse you in a whole different world. So surreal",-0.25,Negative,0.0666666666666666,Positive,0.3110491335391998,Neutral
+"This is great. The music and the video, the whole picture. I swear this song is best enjoyed with the video, it adds so much to it. Don't get me wrong it's a good song but I feel like the video is such an important accompaniment too. It's one of those rare instances when the video isn't there just for the sake of it or just for promotion, but it's a vital part of the concept. Feels like the concept involves both visual and audio equally. The atmosphere built by the sounds used, the production, the lyrics, the singing and the imagery, the framing, the colors, the darkness, all of these things as a whole, it's a work of art. It conveys so much emotion with a lot of subtlety. It's very bleak, dark even claustrophobic at times, but somehow still very very human and comforting. It's so good. You just get the message. It's not the words, it's not the music nor the video, but all of those things combined together say something that is much easier felt than said. Amazing communicators these two. And also all the people who helped make this.",0.9883,Positive,0.1681818181818182,Positive,0.7774572372436523,Positive
 Today i found another masterpiece. I think only people who experience or suffer the same feeling can relate or sympathize to this song.,0.2732,Positive,0.0,Neutral,0.7806146740913391,Positive
 ASLONG AS IM HERE NO ONE CAN HURT YOU BABY,-0.6808,Negative,-0.05,Negative,-0.3624163568019867,Negative
 Actually i wrote this song many years ago...... why stealing from me? not first time artist steal..... FUCK HOLLYWOOD,-0.9029,Negative,-0.00625,Negative,-0.8336194157600403,Negative
 Vibe,0.0,Neutral,0.0,Neutral,0.4080430269241333,Positive
 Terrible music,-0.4767,Negative,-1.0,Negative,-0.8093843460083008,Negative
 Love Me sum her she is truly dope 😘💯❤️✔️,0.872,Positive,0.5,Positive,0.8681474924087524,Positive
-Keep going with ur success billie,0.5719,Positive,0.3,Neutral,0.407481700181961,Positive
+Keep going with ur success billie,0.5719,Positive,0.3,Positive,0.407481700181961,Positive
 """They don't deserve you"" they'll miss you when they fail to replace you",-0.6249,Negative,-0.5,Negative,-0.3643925786018371,Negative
-Can't wait until I die haha,-0.2263,Negative,0.2,Neutral,-0.4452057182788849,Negative
+Can't wait until I die haha,-0.2263,Negative,0.2,Positive,-0.4452057182788849,Negative
 Why I'm checking out this song is my life 😂😂😂,0.8271,Positive,0.0,Neutral,0.6540647149085999,Positive
 Kkkkkk kkk kkkkkķķkkkk,0.0,Neutral,0.0,Neutral,-0.279073417186737,Negative
 "Hi I just made a remix of this song, please go watch it, thank you:)",0.5859,Positive,0.5,Positive,0.5098466873168945,Positive
 The song I need if it’s dark on the inside and the music reminds me there is truly a bright side .thanks to my friend who spared me her time to share this great record,0.9582,Positive,0.45,Positive,0.5463647246360779,Positive
 Temazo wey,0.6249,Positive,0.8,Positive,0.2940655052661896,Neutral
 "This song really touched my heart
-It made me cry a lot for no reason",0.0422,Neutral,0.2,Neutral,0.8149117827415466,Positive
+It made me cry a lot for no reason",0.0422,Neutral,0.2,Positive,0.8149117827415466,Positive
 Listening to this in 2022,0.0,Neutral,0.0,Neutral,0.4019727110862732,Positive
-Calm twerking,0.3182,Positive,0.3,Neutral,0.5132681727409363,Positive
-0:49 try to blink your eyes along to the beat like her eyes. You can see how the camera angle switching ;),0.5267,Positive,0.25,Neutral,0.2643048763275146,Neutral
+Calm twerking,0.3182,Positive,0.3,Positive,0.5132681727409363,Positive
+0:49 try to blink your eyes along to the beat like her eyes. You can see how the camera angle switching ;),0.5267,Positive,0.25,Positive,0.2643048763275146,Neutral
 Es la mejor cancion del mundo,0.6369,Positive,1.0,Positive,0.9090217351913452,Positive
 i love the song,0.6369,Positive,0.5,Positive,0.7057780027389526,Positive
 i love this song <3,0.7964,Positive,0.75,Positive,0.8084595799446106,Positive
@@ -786,14 +786,14 @@ i love this song <3,0.7964,Positive,0.75,Positive,0.8084595799446106,Positive
 
 
 
-Edit: Not me crying over this song. 😭",0.995,Positive,0.2125,Neutral,0.5898621082305908,Positive
+Edit: Not me crying over this song. 😭",0.995,Positive,0.2125,Positive,0.5898621082305908,Positive
 Cuteee….. her smile holding finneas hand is so cute,0.8399,Positive,0.4,Positive,0.4855527877807617,Positive
 they dont deserve me,0.0,Neutral,0.0,Neutral,-0.3685877919197082,Negative
 "Salam her bir mujike 
 Salam Avərələrə
 A Y E",0.0,Neutral,0.0,Neutral,-0.3993160426616668,Negative
 She  is sharing her trauma and to release it,0.0,Neutral,0.0,Neutral,0.4015518128871918,Positive
-CADA VEZ QUE VEO Y ESCUCHO ESTA CANCION LE QUIERO DAR ME GUSTA... ME GUSTA DEMMAAAAS,0.6486,Positive,0.2,Neutral,0.4435489475727081,Positive
+CADA VEZ QUE VEO Y ESCUCHO ESTA CANCION LE QUIERO DAR ME GUSTA... ME GUSTA DEMMAAAAS,0.6486,Positive,0.2,Positive,0.4435489475727081,Positive
 Good song to heal to and to show love to those who've been hurt.,0.5719,Positive,0.6,Positive,0.5674691200256348,Positive
 I like this songs ❤️,0.3612,Positive,0.0,Neutral,0.6324459314346313,Positive
 losing interest at everything because you're sad is the worst feeling,-0.743,Negative,-0.75,Negative,-0.7597041726112366,Negative
@@ -813,7 +813,7 @@ Sad song for sad people,-0.7351,Negative,-0.5,Negative,-0.5919767618179321,Negat
 🙇‍♀️🙇‍♀️🙇‍♀️🙇‍♀️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "The line - as long as I am here , no one can hurt u.....fucking makes me cry 😵😵
 And also this line - I wanted to scream but I was under water 😶❤",-0.9032,Negative,-0.05,Negative,0.3601067364215851,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️💕,0.93,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️💕,0.93,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
 this song hits hard it reminds me of everything i had been through...,-0.1027,Negative,-0.2916666666666667,Negative,0.4380131661891937,Positive
 "I had a dream
 I got everything I wanted
@@ -876,7 +876,7 @@ Source: Musixmatch
 
 Songwriters: Billie Eilish O'connel / Finneas O' Connel
 
-everything i wanted lyrics © Universal Music Corp., Last Frontier, Drup",-0.5661,Negative,0.2027248677248677,Neutral,-0.350775808095932,Negative
+everything i wanted lyrics © Universal Music Corp., Last Frontier, Drup",-0.5661,Negative,0.2027248677248677,Positive,-0.350775808095932,Negative
 "Being rich and famous is not sinful. However, making that a primary pursuit in life is sinful. “People who long to be rich fall into temptation and are trapped by many foolish and harmful desires that plunge them into ruin and destruction” (1 Timothy 6:9, NLT). “Do not toil to acquire wealth” (Proverbs 23:4, ESV).
 
 The world would have us believe that the only way to become rich and famous is to set goals and pursue them doggedly. The Bible paints a different picture. Consider three biblical figures whose examples speak to this issue:
@@ -900,7 +900,7 @@ To be clear, it’s not wrong to have wealth. It’s the love of money that i
 
 Ecclesiastes 2:24 notes, “A person can do nothing better than to eat and drink and find satisfaction in their own toil.” But the same passage clarifies the Source of our blessings: “This too, I see, is from the hand of God, for without him, who can eat or find enjoyment?” (verses 24–25).
 
-We should not make fame and fortune a primary pursuit in life. Rather, we should make glorifying God our primary goal. We love Jesus and obey Him (John 14:15). We follow Jesus, which means we deny ourselves, take up our cross, and follow wherever He leads (Mark 8:34). Jesus blesses the meek (Matthew 5:5); being rich and famous is not usually His plan for His children in this world.",0.9994,Positive,0.2321033696033696,Neutral,-0.3365891873836517,Negative
+We should not make fame and fortune a primary pursuit in life. Rather, we should make glorifying God our primary goal. We love Jesus and obey Him (John 14:15). We follow Jesus, which means we deny ourselves, take up our cross, and follow wherever He leads (Mark 8:34). Jesus blesses the meek (Matthew 5:5); being rich and famous is not usually His plan for His children in this world.",0.9994,Positive,0.2321033696033696,Positive,-0.3365891873836517,Negative
 "Darkness and light are metaphors for evil and good. If anyone sees an angel of light, it will automatically seem to be a good being, for the correlation of evil with darkness, and of good with light, is a powerful archetype in human history. In the Bible, light is a spiritual metaphor for truth and God’s unchanging nature (James 1:17). It is repeatedly used in the Bible to help us understand that God is wholly good and truthful (1 John 1:5). When we are “in the light,” we are with Him (1 Peter 2:9). He exhorts us to join Him in the light (1 John 1:7), for giving us light was His purpose (John 12:46). Light is the place where love dwells and is comfortable (1 John 2:9-10). God has created light (Genesis 1:3), dwells in the light (1 Timothy 6:16) and puts the light in human hearts so that we can see and know Him and understand truth (2 Corinthians 4:6).
 
 So, when 2 Corinthians 11:14 tells us that “Satan disguises himself as an angel of light,” it means that Satan capitalizes on our love of the light in order to deceive. He wants us to think that he is good, truthful, loving, and powerful – all the things that God is. To portray himself as a dark, devilish being with horns would not be very appealing to the majority of people. Most people are not drawn to darkness, but to light. Therefore, Satan appears as a creature of light to draw us to himself and his lies.
@@ -909,23 +909,23 @@ How can we discern which light is of God and which light is of Satan? Our minds 
 
 Satan presents sin to us as something pleasing and beautiful to be desired, and he presents false teaching as enlightening and life-changing. Millions follow his deceptions simply because they do not know God’s truth. Isaiah 8:20-22 describes the darkness that results from ignoring the Word. The people of Israel have been seeking truth by consulting mediums, deceived by Satan’s lie. Isaiah says, “To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn. They will pass through the land, greatly distressed and hungry. And when they are hungry, they will be enraged and will speak contemptuously against their king and their God, and turn their faces upward. And they will look to the earth, but behold, distress and darkness, the gloom of anguish. And they will be thrust into thick darkness.”
 
-Darkness is a result of attempting to find truth without the Word of God. Sadly, as Isaiah says, when people do not have the “dawn,” they wander in darkness and often become angry at God, refusing to come to Him for help. This is why Satan’s masquerade as an angel of light is so effective. It turns white to black and black to white and gets us believing that God is the liar, that God is the source of darkness. Then, in our distress, we focus our hatred towards the only One who can save us.",0.9328,Positive,0.253269367448472,Neutral,0.4219173491001129,Positive
-This song is beyond powerful. It does something to me...makes me think deeper than usual when it comes to music. Wow!,0.784,Positive,0.0583333333333333,Neutral,0.4850909113883972,Positive
+Darkness is a result of attempting to find truth without the Word of God. Sadly, as Isaiah says, when people do not have the “dawn,” they wander in darkness and often become angry at God, refusing to come to Him for help. This is why Satan’s masquerade as an angel of light is so effective. It turns white to black and black to white and gets us believing that God is the liar, that God is the source of darkness. Then, in our distress, we focus our hatred towards the only One who can save us.",0.9328,Positive,0.253269367448472,Positive,0.4219173491001129,Positive
+This song is beyond powerful. It does something to me...makes me think deeper than usual when it comes to music. Wow!,0.784,Positive,0.0583333333333333,Positive,0.4850909113883972,Positive
 2023,0.0,Neutral,0.0,Neutral,0.2792379856109619,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-"I have always adored Billie, Since 2019, when I first heard about her, was when I was at my very lowest to the point I almost committed suicide, When I first heard her one of her songs, Oh boy was I speechless, I was like ""someone feels the same way as I do"", and on that day forward, I always feel like I am free when listening to her songs. Thank you Billie, I will always remember you for what you have done not only for me but all of your fans!!",0.5762,Positive,0.1833333333333333,Neutral,0.8547748327255249,Positive
+"I have always adored Billie, Since 2019, when I first heard about her, was when I was at my very lowest to the point I almost committed suicide, When I first heard her one of her songs, Oh boy was I speechless, I was like ""someone feels the same way as I do"", and on that day forward, I always feel like I am free when listening to her songs. Thank you Billie, I will always remember you for what you have done not only for me but all of your fans!!",0.5762,Positive,0.1833333333333333,Positive,0.8547748327255249,Positive
 This song is so relaxing,0.6269,Positive,0.0,Neutral,0.658722996711731,Positive
 "This song made when my parents broke up i used to listen to it every time they hurt me 
 Now im stronger alone and im so happy about how i stand by side without anyone’s help",-0.2771,Negative,0.8,Positive,0.7191397547721863,Positive
 still miss her !,-0.2244,Negative,0.0,Neutral,-0.4049690067768097,Negative
 Dont take it serious when times come . 😌,0.4257,Positive,-0.3333333333333333,Negative,-0.3778293132781982,Negative
-"man my life is falling apart lol haha. today I got offline school and theres math class teacher asked us to do page 56 then I asked my friend if my answer is same as her then teacher said if u're done go to the teacher's table then I go. didn't expect what I get, my teacher said that I'm cheating but what about my the boy in the backseat he copied all of the answer and teacher don't care. why me ? well it's not my first time I got experience like this.. I mean why ? why I have going through this all of my classmates stared at me it's so embarrassing",-0.527,Negative,0.1875,Neutral,-0.6602548956871033,Negative
+"man my life is falling apart lol haha. today I got offline school and theres math class teacher asked us to do page 56 then I asked my friend if my answer is same as her then teacher said if u're done go to the teacher's table then I go. didn't expect what I get, my teacher said that I'm cheating but what about my the boy in the backseat he copied all of the answer and teacher don't care. why me ? well it's not my first time I got experience like this.. I mean why ? why I have going through this all of my classmates stared at me it's so embarrassing",-0.527,Negative,0.1875,Positive,-0.6602548956871033,Negative
 Denle like a este comentario si alguien abla español😂🤣🤣,0.8957,Positive,0.0,Neutral,-0.2403905689716339,Negative
 🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
 put it here,0.0,Neutral,0.0,Neutral,0.4674109220504761,Positive
 bax jaja,0.0,Neutral,0.0,Neutral,0.2821564674377441,Neutral
 I want to be where you are.,0.0772,Positive,0.0,Neutral,0.4629334509372711,Positive
-I was feeling down so I decided to come here so that you whisper in my ears some and now I'm feeling quite way cool. Thanks Billie🙏🙏,0.7745,Positive,0.1314814814814814,Neutral,0.4345124065876007,Positive
+I was feeling down so I decided to come here so that you whisper in my ears some and now I'm feeling quite way cool. Thanks Billie🙏🙏,0.7745,Positive,0.1314814814814814,Positive,0.4345124065876007,Positive
 """And you (Satan, God, and Billie Eilish) say,
 'As long as I'm here,
 No one can hurt you.
@@ -952,7 +952,7 @@ With me.""
 I like to imagine it from the perspective of Satan becoming one with God.
 Finally.
 Upon dying.
-Upon ""waking up"".",0.8121,Positive,0.2166666666666666,Neutral,0.3771162331104278,Positive
+Upon ""waking up"".",0.8121,Positive,0.2166666666666666,Positive,0.3771162331104278,Positive
 "I was temporarily killed and raped during my stay at a hospital a little before this song came out. Well, this music video, anyway.
 December of 2019.",-0.8402,Negative,-0.19375,Negative,-0.6448627710342407,Negative
 A bratty le sale mejor,0.4404,Positive,0.5,Positive,0.4450246095657348,Positive
@@ -963,23 +963,23 @@ The best song ever,0.6369,Positive,1.0,Positive,0.9543907642364502,Positive
 
 Love Billie, she's my newest favorite artist of all time - she's perfect 🙌🏻🙌🏻❤️
 
-Much love from a 43 yo homemaker from Norway❤️ 🇧🇻",0.9338,Positive,0.3142857142857143,Neutral,0.8001214265823364,Positive
+Much love from a 43 yo homemaker from Norway❤️ 🇧🇻",0.9338,Positive,0.3142857142857143,Positive,0.8001214265823364,Positive
 This hits different when you're depressed...,-0.5106,Negative,0.0,Neutral,0.2633346617221832,Neutral
 yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-I'm obsessed with this song the best,0.5423,Positive,0.25,Neutral,0.8251147270202637,Positive
+I'm obsessed with this song the best,0.5423,Positive,0.25,Positive,0.8251147270202637,Positive
 это разрыв... как же классно..,0.3182,Positive,0.35,Positive,-0.3545208573341369,Negative
 I love you music🦋,0.6369,Positive,0.5,Positive,0.8701996207237244,Positive
 Believe you my brothers and my sisters ! 🥰🙏,0.8221,Positive,0.0,Neutral,0.815814197063446,Positive
 "Go back, its raining... :(",-0.4404,Negative,-0.375,Negative,-0.4716285467147827,Negative
 "I’m a 22 year old. I listen to music like Seether, Korn, and lil Wayne. This song came on the radio at a very bad time for me. I love this song, and it never fails to put me in my feelings.",0.6415,Positive,-0.0149999999999999,Negative,0.7104318737983704,Positive
-"Even without knowing what the lyrics really means, this song hit my heart. Now that I have read about the inspiration of this song, it hits me even harder. Very few people can touch me by music like she can. Thank you so much, Billie! 💔",0.9291,Positive,0.0225,Neutral,0.8714038133621216,Positive
+"Even without knowing what the lyrics really means, this song hit my heart. Now that I have read about the inspiration of this song, it hits me even harder. Very few people can touch me by music like she can. Thank you so much, Billie! 💔",0.9291,Positive,0.0225,Positive,0.8714038133621216,Positive
 This song is Masterpiece. ❤️,0.6249,Positive,0.0,Neutral,0.8061061501502991,Positive
 "Love this song, 😆🌸 love music to this , awesome!! ☀️🌺🌺",0.9484,Positive,0.6666666666666666,Positive,0.940037727355957,Positive
-I lost my older sister last year in an avalanche. She was 29. Her boyfriend saved 2 people before he got to her a moment to late. He’s a hero. She and I didn’t have much chance to be friends growing up. My dad was so angry all the time all we had to share was the fear we lived in… but since college we were finally becoming real friends in the real world. Her name is Sarah. Sarah Beth.,0.7565,Positive,0.0520833333333333,Neutral,0.5810169577598572,Positive
-"Yes she is right.  In my next life, I am not going to be nice to my gas lighter sister.  I will kick her ass when needed!  That is best if you are a polite child.  Ill tell you a secret for my kind! the Honorable nice!   We tend to have compassion for the takers who are our family.  Compassion due to Christ Consciousness. Adam and Eve bonded us but many chose and decided, didn't want to be your friend, your daughter, your etc.  If a parent, we are chasing them. it is hard when one is a parent and you love the child.   If having to chase, those have demons and do not know it. The demons are lies in their dark matter.  y they run, shout, scream, have a tantrum.  They never get any light and per demons hate the light.  If they liked the light they would not be afraid to tell the truth. We could meet our next boyfriend, girlfriend by no resolve with the one family member who use.  They dont know it but they are not protecting us by running.  Even the dad and hubby isn't protecting his wife every time, he gas lights and is bad!    the better wont and per their pain of being used.  We are the better and can designer our next life if Hell happens   Usually hell happens due to beliefs.   We want to get along with those but if they were the jealous child, they are in the bible!   They just come back bad, terrible or confused!  the kids who chose integrity always get stronger and see more. Evolution happened again and made some turn into savages and bad.  Many had great sex per Evolution. There is where erotic sex was in your bed!  it is due to Evolution.  Evolution also makes others want to live off the land.  The Homeless did but they faled at manners.   The selfish are lost per served father of lies in their unknowing.  They are lost.  They disrespect their Mothers at an early age.  That is due to their fathers that divide from an early age. if you, need to fix!  .   Some don't know but is partially planetary and most of the time we marry wrong.  We marry our parents.  We marry the dad that wasn't there. the dad that was a coward. The dad that could not deal with his guilt.  As soon as i decided to not babysit, I was free!",-0.9943,Negative,0.0660924723424723,Neutral,0.4371320307254791,Positive
+I lost my older sister last year in an avalanche. She was 29. Her boyfriend saved 2 people before he got to her a moment to late. He’s a hero. She and I didn’t have much chance to be friends growing up. My dad was so angry all the time all we had to share was the fear we lived in… but since college we were finally becoming real friends in the real world. Her name is Sarah. Sarah Beth.,0.7565,Positive,0.0520833333333333,Positive,0.5810169577598572,Positive
+"Yes she is right.  In my next life, I am not going to be nice to my gas lighter sister.  I will kick her ass when needed!  That is best if you are a polite child.  Ill tell you a secret for my kind! the Honorable nice!   We tend to have compassion for the takers who are our family.  Compassion due to Christ Consciousness. Adam and Eve bonded us but many chose and decided, didn't want to be your friend, your daughter, your etc.  If a parent, we are chasing them. it is hard when one is a parent and you love the child.   If having to chase, those have demons and do not know it. The demons are lies in their dark matter.  y they run, shout, scream, have a tantrum.  They never get any light and per demons hate the light.  If they liked the light they would not be afraid to tell the truth. We could meet our next boyfriend, girlfriend by no resolve with the one family member who use.  They dont know it but they are not protecting us by running.  Even the dad and hubby isn't protecting his wife every time, he gas lights and is bad!    the better wont and per their pain of being used.  We are the better and can designer our next life if Hell happens   Usually hell happens due to beliefs.   We want to get along with those but if they were the jealous child, they are in the bible!   They just come back bad, terrible or confused!  the kids who chose integrity always get stronger and see more. Evolution happened again and made some turn into savages and bad.  Many had great sex per Evolution. There is where erotic sex was in your bed!  it is due to Evolution.  Evolution also makes others want to live off the land.  The Homeless did but they faled at manners.   The selfish are lost per served father of lies in their unknowing.  They are lost.  They disrespect their Mothers at an early age.  That is due to their fathers that divide from an early age. if you, need to fix!  .   Some don't know but is partially planetary and most of the time we marry wrong.  We marry our parents.  We marry the dad that wasn't there. the dad that was a coward. The dad that could not deal with his guilt.  As soon as i decided to not babysit, I was free!",-0.9943,Negative,0.0660924723424723,Positive,0.4371320307254791,Positive
 I   Love    you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
-this song is one of my memories in 2020 I really like this song.,0.4201,Positive,0.2,Neutral,0.6989054083824158,Positive
+this song is one of my memories in 2020 I really like this song.,0.4201,Positive,0.2,Positive,0.6989054083824158,Positive
 "Creo que puedo volar, saltare de un puente.🍃",0.0,Neutral,0.8,Positive,-0.5604602098464966,Negative
 1:30 I can listen to that part one million times,0.0,Neutral,0.0,Neutral,-0.4314262866973877,Negative
 "I wanna end me too… 🪦
@@ -988,7 +988,7 @@ This song gives me literal goosebumps,0.0,Neutral,0.0,Neutral,0.434464693069458,
 Love is música,0.6369,Positive,0.5,Positive,0.5614490509033203,Positive
 Who's from 2022?,0.0,Neutral,0.0,Neutral,-0.321830540895462,Negative
 Wait like huh,0.3612,Positive,0.0,Neutral,-0.2701270580291748,Negative
-Head under water is exactly what I hear in my head,0.0,Neutral,0.25,Neutral,0.7596483826637268,Positive
+Head under water is exactly what I hear in my head,0.0,Neutral,0.25,Positive,0.7596483826637268,Positive
 Cars are pee rage,-0.5574,Negative,0.0,Neutral,-0.3229173719882965,Negative
 "If they had cried out to Jesus under the water I know that he would’ve split the water in half, and saved them.
  This is my GOD! Cry out to him and he will answer, but it may not be the way you expected.",-0.0837,Negative,-0.1541666666666666,Negative,0.2712675333023071,Neutral
@@ -1003,33 +1003,33 @@ My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I wanna  run a car into water,0.0,Neutral,0.0,Neutral,-0.3695920705795288,Negative
 08.03.2022💚,0.6369,Positive,0.0,Neutral,-0.3735816180706024,Negative
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Mé fascinas 💙,0.4767,Positive,0.0,Neutral,0.5939044952392578,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-"you're such a piece of love, aren't you",0.6369,Positive,0.25,Neutral,0.6280844807624817,Positive
-"''if they knew what they said would go straight to my head, what would they say instead''.....that line stings 😞",-0.296,Negative,0.2,Neutral,-0.4870865941047668,Negative
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+"you're such a piece of love, aren't you",0.6369,Positive,0.25,Positive,0.6280844807624817,Positive
+"''if they knew what they said would go straight to my head, what would they say instead''.....that line stings 😞",-0.296,Negative,0.2,Positive,-0.4870865941047668,Negative
 My heart ❤ 💙 💜 💖,0.9756,Positive,0.0,Neutral,0.6467462778091431,Positive
 """As long as im here... Noone can hurt you... "" 💔",-0.5423,Negative,-0.05,Negative,0.3630036413669586,Positive
 SILLY HUMANS ITS A DUDE,0.0258,Neutral,-0.5,Negative,-0.3708328604698181,Negative
 "💟💗 ""As long as I'm here, no one can hurt you"" 💗💟",0.9393,Positive,-0.05,Negative,0.5379748940467834,Positive
-What I love about Billie is that she writes for herself unlike other female writers who often write out of love.,0.8555,Positive,0.21875,Neutral,0.4505306184291839,Positive
+What I love about Billie is that she writes for herself unlike other female writers who often write out of love.,0.8555,Positive,0.21875,Positive,0.4505306184291839,Positive
 loreen-euphoria with same ı sware.,0.0,Neutral,0.0,Neutral,-0.2844046652317047,Negative
-Imagine having it all but still feeling empty inside. Make sure that you guys are preparing for the same things you prayed for. It's hard to manage these things when you haven't mentally or emotionally preapred yourself to recieve them. I understand everything she's saying. It's depressing and I pray that she has good people around her that showers her with flowers and the love she deserves!,0.908,Positive,0.1041666666666666,Neutral,-0.4406563639640808,Negative
+Imagine having it all but still feeling empty inside. Make sure that you guys are preparing for the same things you prayed for. It's hard to manage these things when you haven't mentally or emotionally preapred yourself to recieve them. I understand everything she's saying. It's depressing and I pray that she has good people around her that showers her with flowers and the love she deserves!,0.908,Positive,0.1041666666666666,Positive,-0.4406563639640808,Negative
 Alguien en Marzo de 2022 💚,0.6369,Positive,0.0,Neutral,-0.6796448826789856,Negative
 This is my favorite song ever.,0.4588,Positive,0.5,Positive,0.9341809749603271,Positive
 Nice song! I hope that hellcat didn’t touch any water though 😂,0.8356,Positive,0.75,Positive,0.6023551821708679,Positive
 I love You,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
-so about a suicide pact with her brother as a result of the pain from unexpected fame,-0.7322,Negative,0.1,Neutral,0.3415127098560333,Positive
+so about a suicide pact with her brother as a result of the pain from unexpected fame,-0.7322,Negative,0.1,Positive,0.3415127098560333,Positive
 This should be the song playing in a flashback after a murder in a movie.,-0.5994,Negative,0.0,Neutral,0.2767222821712494,Neutral
 I love music,0.6369,Positive,0.5,Positive,0.7280202507972717,Positive
 Lucky for my brother ❤️,0.4215,Positive,0.3333333333333333,Positive,0.6197059750556946,Positive
 Blood is thicker than water.,0.0,Neutral,0.0,Neutral,-0.4243946373462677,Negative
 Im so lonely,-0.4201,Negative,-0.0999999999999999,Negative,-0.3514657616615295,Negative
 ñ,0.0,Neutral,0.0,Neutral,-0.2178967893123626,Negative
-"Gerçekten yorgunum okuldan gel yorgun evde kavga Bi soğuk Bi sıcak aile arkadaş ortamima bile güvenemiyorum sevdiğim çocukla olaylar iyi gitmiyo iyi giden şey aradığımda gerçekten bulamıyorum hayatımda iyi bişeye dair , güçlü olamıyorum ,zorbalık vs nefes alamıyorum doldum artık hayatım nasıl düzelecek gerçekten bisey olsun hayatım düzelsin gerçekten lütfen",0.6404,Positive,0.2604166666666666,Neutral,0.4688643217086792,Positive
+"Gerçekten yorgunum okuldan gel yorgun evde kavga Bi soğuk Bi sıcak aile arkadaş ortamima bile güvenemiyorum sevdiğim çocukla olaylar iyi gitmiyo iyi giden şey aradığımda gerçekten bulamıyorum hayatımda iyi bişeye dair , güçlü olamıyorum ,zorbalık vs nefes alamıyorum doldum artık hayatım nasıl düzelecek gerçekten bisey olsun hayatım düzelsin gerçekten lütfen",0.6404,Positive,0.2604166666666666,Positive,0.4688643217086792,Positive
 "Essa é a música preferida da minha amiga, e ela me dedicou essa música. Eu amo muito ela, ela é a pessoa mais importante pra mim ❤️",0.9061,Positive,0.42,Positive,0.7104155421257019,Positive
-I had not cried listening to a song so much for years.,0.2924,Positive,0.2,Neutral,-0.3512469828128814,Negative
+I had not cried listening to a song so much for years.,0.2924,Positive,0.2,Positive,-0.3512469828128814,Negative
 "how wonderful, it's pure perfection",0.8126,Positive,0.6071428571428571,Positive,0.9244568347930908,Positive
 Dear to my heart and truthbound is this song. Gotta give it to a Pirate...,0.7783,Positive,0.0,Neutral,0.7175228595733643,Positive
 "I had a dream
@@ -1081,19 +1081,19 @@ What would they say instead?
 If I knew it all then, would I do it again?
 Would I do it again?
 If they knew what they said would go straight to my head
-What would they say instead?",-0.5661,Negative,0.2339133089133089,Neutral,-0.4085310101509094,Negative
+What would they say instead?",-0.5661,Negative,0.2339133089133089,Positive,-0.4085310101509094,Negative
 Dieses lied… mwuah,0.0,Neutral,0.0,Neutral,0.4936714172363281,Positive
 hello how are you i am under the water,0.0,Neutral,0.0,Neutral,0.3973883092403412,Positive
 This song came out when I broke up with my girlfriend she didn’t think I loved her I regret still to this day that she didn’t realize how much I truly did 💔💜🧡💛💚 I love you Nellie ♍️♐️,0.9783,Positive,0.4666666666666666,Positive,0.4444087147712707,Positive
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 her best song,0.6369,Positive,1.0,Positive,0.6678112149238586,Positive
 Great Song,0.6249,Positive,0.8,Positive,0.715724527835846,Positive
-I fighting a depression and an anxiety for a year and a half but I really want to listen to the strong lyrics in this song.. thanks Billie and Finease,0.7743,Positive,0.1666666666666666,Neutral,0.4037663340568542,Positive
-"completely unremarkable, why some obtain acclaim over and beyond the truly gifted remains, forever, a “mind-f*cking” mystery.",0.4404,Positive,0.3,Neutral,-0.2926189005374908,Negative
+I fighting a depression and an anxiety for a year and a half but I really want to listen to the strong lyrics in this song.. thanks Billie and Finease,0.7743,Positive,0.1666666666666666,Positive,0.4037663340568542,Positive
+"completely unremarkable, why some obtain acclaim over and beyond the truly gifted remains, forever, a “mind-f*cking” mystery.",0.4404,Positive,0.3,Positive,-0.2926189005374908,Negative
 This shit blows.,-0.5574,Negative,-0.2,Negative,-0.8444663882255554,Negative
 I've heard this song over 20 times and I still haven't heard it.,0.0,Neutral,0.0,Neutral,-0.3140085339546203,Negative
 My song,0.0,Neutral,0.0,Neutral,0.5522987842559814,Positive
-kalm.,0.3182,Positive,0.3,Neutral,0.2273140847682953,Neutral
+kalm.,0.3182,Positive,0.3,Positive,0.2273140847682953,Neutral
 💚,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😘🧐👋,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
@@ -1114,19 +1114,19 @@ tus.admiradores......feliz
 Navidad.y.noche.buena....mis. _respeto_ .para.todas.las.mujes.del.mundo...saludos..al.fin.del.mundo
 🈂♂♀💙",0.9382,Positive,0.35,Positive,0.5705305337905884,Positive
 احبكك,0.6369,Positive,0.5,Positive,0.6318748593330383,Positive
-you could tell they were trying not to laugh when they held hands,-0.4449,Negative,0.3,Neutral,0.2675629556179046,Neutral
+you could tell they were trying not to laugh when they held hands,-0.4449,Negative,0.3,Positive,0.2675629556179046,Neutral
 i love your billie,0.6369,Positive,0.5,Positive,0.7871116995811462,Positive
 This music tests my formidable sound system. Challenge acceptance. RIP sub woofer,0.5106,Positive,0.4,Positive,0.7751504182815552,Positive
 "Watching this as of 3,1,22",0.0,Neutral,0.0,Neutral,-0.252632200717926,Negative
 Brasileiros??,0.0,Neutral,0.0,Neutral,-0.4327447116374969,Negative
 Rest in Peace my brother Nate <3 I miss you so much .,0.7003,Positive,0.6,Positive,0.5705986618995667,Positive
 T amo,0.6369,Positive,0.5,Positive,0.2501487135887146,Neutral
-My sister died from ALS and I lost my job right after. I feel less alone when I listen to this song.,-0.7655,Negative,0.0595238095238095,Neutral,-0.4606275856494903,Negative
+My sister died from ALS and I lost my job right after. I feel less alone when I listen to this song.,-0.7655,Negative,0.0595238095238095,Positive,-0.4606275856494903,Negative
 I had a dream I got everything I wanted --- dream is thing that you can't sleep for it,0.4588,Positive,0.0,Neutral,0.5825220346450806,Positive
-"I almost jumped off a freeway overpass in 1988. I know this level of despair. I thought of my mom how I would hurt her if I did. I shudder every time I think if I did it. Now I'm married, just celebrated 25 yrs, 5 kids, 2 granddaughters, and my mom is 84 living in my back house.",-0.2023,Negative,0.1999999999999999,Neutral,-0.3914902210235595,Negative
+"I almost jumped off a freeway overpass in 1988. I know this level of despair. I thought of my mom how I would hurt her if I did. I shudder every time I think if I did it. Now I'm married, just celebrated 25 yrs, 5 kids, 2 granddaughters, and my mom is 84 living in my back house.",-0.2023,Negative,0.1999999999999999,Positive,-0.3914902210235595,Negative
 1:29,0.0,Neutral,0.0,Neutral,-0.2633306384086609,Negative
 TE AMO BILLIE EILISH,0.6369,Positive,0.5,Positive,0.2288462966680526,Neutral
-"March 1st 2022 I found this song after looking for a sad playlist on Spotify lmao but after watching the video and listening to the lyrics, I felt that shit. Powerful shit. My gf and I broke up on the 22nd of Feb. after 5 years. This song and a couple other of her songs are on replay because it just helps idk. I love this music video too from the way it starts to the ending, a masterpiece fuckin amazing. Protect Billie at all costs. And to anybody who needs to hear this, you are loved and it may be difficult right now, but there is beauty in the struggle. Have a blessed day.",0.9818,Positive,0.1327922077922078,Neutral,0.4044738113880157,Positive
+"March 1st 2022 I found this song after looking for a sad playlist on Spotify lmao but after watching the video and listening to the lyrics, I felt that shit. Powerful shit. My gf and I broke up on the 22nd of Feb. after 5 years. This song and a couple other of her songs are on replay because it just helps idk. I love this music video too from the way it starts to the ending, a masterpiece fuckin amazing. Protect Billie at all costs. And to anybody who needs to hear this, you are loved and it may be difficult right now, but there is beauty in the struggle. Have a blessed day.",0.9818,Positive,0.1327922077922078,Positive,0.4044738113880157,Positive
 OMG I LOVE IT ♥️♥️♥️♥️🥳🥳,0.9816,Positive,0.5,Positive,0.803716242313385,Positive
 2:22 R.I.P Hellcat,0.0,Neutral,0.0,Neutral,-0.2620531320571899,Negative
 2:56,0.0,Neutral,0.0,Neutral,0.2217173427343368,Neutral
@@ -1137,7 +1137,7 @@ this is one of my favourites songs ever,0.0,Neutral,0.0,Neutral,0.91733574867248
 this song calm my nerves so badly i listen to it everyday,-0.4751,Negative,-0.1999999999999999,Negative,0.5582140684127808,Positive
 My fav Billie Eilish song!!!!,0.6331,Positive,0.0,Neutral,0.4129412770271301,Positive
 I'm back,0.0,Neutral,0.0,Neutral,-0.2250124216079712,Negative
-Their stoic and empty expressions are sooooooo amazing!,0.5093,Positive,0.325,Neutral,0.7922400236129761,Positive
+Their stoic and empty expressions are sooooooo amazing!,0.5093,Positive,0.325,Positive,0.7922400236129761,Positive
 Never be a passenger in a car with a woman 'in her feelings'. 😁,0.4588,Positive,0.0,Neutral,0.2912839651107788,Neutral
 She's the most beautiful thing I have ever seen.,0.6361,Positive,0.675,Positive,0.9594348073005676,Positive
 "I had a dream
@@ -1189,19 +1189,19 @@ What would they say instead?
 If I knew it all then, would I do it again?
 Would I do it again?
 If they knew what they said would go straight to my head
-What would they say instead?",-0.5661,Negative,0.2339133089133089,Neutral,-0.4085310101509094,Negative
+What would they say instead?",-0.5661,Negative,0.2339133089133089,Positive,-0.4085310101509094,Negative
 You know this song is sad when it made me cry 3 times on the same day,-0.7351,Negative,-0.25,Negative,-0.5442905426025391,Negative
 My favorite till now.,0.4588,Positive,0.5,Positive,0.8611233234405518,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 🥰🥰,0.9393,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "i've listen to this gem for years but i can't explain why i am crying right now :..(
 i'm that weak too, but i have no one beside to call my everything
-the sound, the lyrics, the scene and her voice, i wish there was a word can do better than 'perfect'",0.3919,Positive,0.2684523809523809,Neutral,-0.4139016568660736,Negative
+the sound, the lyrics, the scene and her voice, i wish there was a word can do better than 'perfect'",0.3919,Positive,0.2684523809523809,Positive,-0.4139016568660736,Negative
 2023 and counting...,0.0,Neutral,0.0,Neutral,-0.2623466253280639,Negative
 "I'm depressed, and I'm here.... We are not alone",-0.3736,Negative,0.0,Neutral,-0.5587595701217651,Negative
 :(,-0.4404,Negative,-0.75,Negative,0.2481449097394943,Neutral
-I just don't get how it went to bad guys to this... But it the best music,0.6757,Positive,0.15,Neutral,0.5035009980201721,Positive
-This song is helping me so much right now,0.296,Positive,0.2857142857142857,Neutral,0.7666899561882019,Positive
+I just don't get how it went to bad guys to this... But it the best music,0.6757,Positive,0.15,Positive,0.5035009980201721,Positive
+This song is helping me so much right now,0.296,Positive,0.2857142857142857,Positive,0.7666899561882019,Positive
 February 2022. <3,0.4404,Positive,1.0,Positive,-0.4356108009815216,Negative
 This song so peaceful and beautiful,0.8511,Positive,0.55,Positive,0.7839820384979248,Positive
 ❤️❤️❤️❤️❤️❤️❤️❤️😍😍😍😍😍,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -1211,7 +1211,7 @@ M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
 I've been thinking about this dude a lot. Finally got into Disney,0.0,Neutral,0.0,Neutral,0.5150019526481628,Positive
 you are the reason of my life,0.0,Neutral,0.0,Neutral,0.5917106866836548,Positive
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-"the intro of ""Gravedigger"" by P.O.S is actually kind of similar to this song!!!!!!!!!!!!!!!!",0.0,Neutral,0.3,Neutral,0.3437865972518921,Positive
+"the intro of ""Gravedigger"" by P.O.S is actually kind of similar to this song!!!!!!!!!!!!!!!!",0.0,Neutral,0.3,Positive,0.3437865972518921,Positive
 "it's February an we officially hit 2 whole years on this song, let's see how many legends are returning to this song!!!!!!!!!!!!!!!!♥️♥️♥️♥️❤️❤️❤️❤️❤️",0.9636,Positive,0.35,Positive,0.5599240064620972,Positive
 🥰💟🤞,0.91,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "go  to  lord   satan   ,   he's  the  only  reason  i  did  not  kill  you  !!!!",0.7101,Positive,0.0,Neutral,0.4549047946929931,Positive

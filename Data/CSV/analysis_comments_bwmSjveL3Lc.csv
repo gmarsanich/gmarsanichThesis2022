@@ -1,10 +1,10 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 It's the best opening song ever kpop,0.6369,Positive,1.0,Positive,0.7760857343673706,Positive
-"It has been 5yrs AND GOT ""140crore"" WOW ❤️",0.6739,Positive,0.1,Neutral,0.3902921378612518,Positive
+"It has been 5yrs AND GOT ""140crore"" WOW ❤️",0.6739,Positive,0.1,Positive,0.3902921378612518,Positive
 "Blackpink ustedes son unas diosas, ojalan vuelvan a cantar💕, y ojala que algun dia las conozca💜🖤❤️💙🧡💛",0.9862,Positive,0.0,Neutral,0.2823360860347748,Neutral
-my first k-pop stan,0.0,Neutral,0.25,Neutral,0.5009671449661255,Positive
+my first k-pop stan,0.0,Neutral,0.25,Positive,0.5009671449661255,Positive
 Muito bomm cara,0.4927,Positive,0.91,Positive,0.6243935227394104,Positive
-why  you four  dosent  make new video/,0.0,Neutral,0.1363636363636363,Neutral,0.3376567959785461,Positive
+why  you four  dosent  make new video/,0.0,Neutral,0.1363636363636363,Positive,0.3376567959785461,Positive
 IM    a fannnnnnnn,0.0,Neutral,0.0,Neutral,0.242696538567543,Neutral
 Son geniales mi prima sa sabe todas sus canciones,0.6249,Positive,0.8,Positive,0.7972875237464905,Positive
 Hello 💖💖,0.9153,Positive,0.0,Neutral,0.6239954829216003,Positive
@@ -47,14 +47,14 @@ I levent blacpink,0.0,Neutral,0.0,Neutral,0.3250231146812439,Neutral
 I levent lisa,0.0,Neutral,0.0,Neutral,0.4597689211368561,Positive
 Best debut song in history...,0.6369,Positive,1.0,Positive,0.8831617832183838,Positive
 Parece que ese fue el último año que Blackpink tenia el mejor look de cabello y Jisoo sonreia más,0.8807,Positive,0.525,Positive,0.3517936468124389,Positive
-"Just wanted to come here to thank these girls for everything. If it wasn't for them, I would not be here. I got into blackpink about 2 years ago, so I'm very late, but they always made me happy and I'm forever grateful to them. Along with BTS, they pretty much introduced me to the world of K-pop and to the happiest stage of my life. I've been crying this whole morning and remembering blackpink and all the things they've achieved, even though I'm not the huge fan I once was, has really cheered me up. Thank you Rosé, thank you Jisoo, thank you Jennie and thank you Lisa. Thank you blackpink🖤💗 <3",0.995,Positive,0.2733333333333333,Neutral,0.7967349290847778,Positive
+"Just wanted to come here to thank these girls for everything. If it wasn't for them, I would not be here. I got into blackpink about 2 years ago, so I'm very late, but they always made me happy and I'm forever grateful to them. Along with BTS, they pretty much introduced me to the world of K-pop and to the happiest stage of my life. I've been crying this whole morning and remembering blackpink and all the things they've achieved, even though I'm not the huge fan I once was, has really cheered me up. Thank you Rosé, thank you Jisoo, thank you Jennie and thank you Lisa. Thank you blackpink🖤💗 <3",0.995,Positive,0.2733333333333333,Positive,0.7967349290847778,Positive
 MY TO I Love rozé,0.6369,Positive,0.5,Positive,0.7268503904342651,Positive
 احب ليزا,0.6369,Positive,0.5,Positive,0.4596153497695923,Positive
 Oo,0.0,Neutral,0.0,Neutral,0.2354756146669387,Neutral
 🤩🤩😍😍😍😍🙏🙏💖💖😍😍,0.9831,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Roseeeeeeeeeeeee😍😍😍😍😍,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I love you Black i Love tou nisso♥️,0.9274,Positive,0.2777777777777778,Neutral,0.8305259943008423,Positive
-amo esta cancion me ase sentir viva,0.7783,Positive,0.3,Neutral,0.6896448135375977,Positive
+I love you Black i Love tou nisso♥️,0.9274,Positive,0.2777777777777778,Positive,0.8305259943008423,Positive
+amo esta cancion me ase sentir viva,0.7783,Positive,0.3,Positive,0.6896448135375977,Positive
 بلك بينك أفضل إنهم الأروع,0.6369,Positive,1.0,Positive,0.5326654314994812,Positive
 1.405b 💯,0.0,Neutral,0.0,Neutral,0.2984063327312469,Neutral
 I LOVE LISA❤️🧡💛💚💙💜💖💗💓💞💕💌❣️💟💝💘♥️🥰😘😍🤩🤩🤩,0.9982,Positive,0.5,Positive,0.8423482775688171,Positive
@@ -97,17 +97,17 @@ We love you. - Turkey🇹🇷,0.6369,Positive,0.5,Positive,0.8449289798736572,Po
                                                      Türkiye🇹🇷",0.9749,Positive,0.5,Positive,0.3027915358543396,Neutral
 Boombayah reaches 1.4 billion views 🎉🎉🎉🎉,0.875,Positive,0.0,Neutral,0.4279323816299438,Positive
 I love Rose 💗💗💗💗,0.9794,Positive,0.55,Positive,0.8028287887573242,Positive
-When did you miss your new song 🌈,-0.1531,Negative,0.1363636363636363,Neutral,0.3370950818061828,Positive
-Turkey loves you very much,0.5719,Positive,0.26,Neutral,0.7090859413146973,Positive
-터키는 당신을 매우 사랑합니다,0.5719,Positive,0.26,Neutral,0.7652154564857483,Positive
+When did you miss your new song 🌈,-0.1531,Negative,0.1363636363636363,Positive,0.3370950818061828,Positive
+Turkey loves you very much,0.5719,Positive,0.26,Positive,0.7090859413146973,Positive
+터키는 당신을 매우 사랑합니다,0.5719,Positive,0.26,Positive,0.7652154564857483,Positive
 Black To The Pink,0.0,Neutral,-0.1333333333333333,Negative,-0.2276380509138107,Negative
 Jisoyaaaaa 💖💖💖,0.0,Neutral,0.0,Neutral,0.2321167439222335,Neutral
 It's april lets see how many legends are here,0.0,Neutral,0.5,Positive,0.4743179976940155,Positive
 ❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I LOVE JENNİE,0.6369,Positive,0.5,Positive,0.7454429268836975,Positive
-Blackpink song never get old and we can hear it soooooo many time,0.0,Neutral,0.3,Neutral,0.5242538452148438,Positive
+Blackpink song never get old and we can hear it soooooo many time,0.0,Neutral,0.3,Positive,0.5242538452148438,Positive
 Amo bleck pinck 💓💓💓💓💓💓💓💓💓💝,0.9885,Positive,0.0,Neutral,-0.3083494007587433,Negative
-I love black pink,0.6369,Positive,0.0777777777777777,Neutral,0.6556611657142639,Positive
+I love black pink,0.6369,Positive,0.0777777777777777,Positive,0.6556611657142639,Positive
 these 4 cheesy girls were once cousins ​​of jackie chan because their acting was bad they always acted like kids these 4 bad cousins ​​jackie chan rejected them just because they were comedy 😂👽😈🎥📽🎷👌👏🤘🎷,0.694,Positive,-0.4749999999999998,Negative,-0.5549554228782654,Negative
 I love you blackPink,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
 They are so savage in this tho(because they are queens😌),-0.3108,Negative,0.0,Neutral,0.5189272165298462,Positive
@@ -115,7 +115,7 @@ I LOVE YOU❤❤ ROSE💓💓💓💘💘💘💖💖💖❣❣❣💕💕💕,0
 I love Lisa and Jennie ❤️❤️❤️,0.6369,Positive,0.5,Positive,0.7337319850921631,Positive
 I love hamil ari ari,0.6369,Positive,0.4166666666666666,Positive,0.7453975081443787,Positive
 I love this song very much,0.6369,Positive,0.38,Positive,0.8398433327674866,Positive
-I like lisa very much,0.3612,Positive,0.26,Neutral,0.491641640663147,Positive
+I like lisa very much,0.3612,Positive,0.26,Positive,0.491641640663147,Positive
 I Love Jennie💗💍,0.8779,Positive,0.5,Positive,0.8423482775688171,Positive
 Talking Tom,0.0,Neutral,0.0,Neutral,0.2464355826377868,Neutral
 Anthony the Penguins,0.0,Neutral,0.0,Neutral,0.377858817577362,Positive
@@ -139,7 +139,7 @@ Lindas,0.5994,Positive,0.85,Positive,0.2207168489694595,Neutral
 I love rose and Lisa and jisoo and jennie,0.6369,Positive,0.55,Positive,0.6907532215118408,Positive
 blackpink in uk area😍😉😘,0.7003,Positive,0.0,Neutral,0.2765132784843445,Neutral
 jisoo i love youuuuu><,0.6369,Positive,0.5,Positive,0.6433418989181519,Positive
-it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Neutral,0.8589892387390137,Positive
+it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Positive,0.8589892387390137,Positive
 BLΛƆKPIИK in ur area💗💗,0.8957,Positive,0.0,Neutral,0.2368769496679306,Neutral
 I love blackpink^_^,0.6369,Positive,0.5,Positive,0.7406485676765442,Positive
 I love your  songs 🎵 💗,0.8779,Positive,0.5,Positive,0.8233060240745544,Positive
@@ -147,7 +147,7 @@ Here after hylt,0.0,Neutral,0.0,Neutral,0.2595201432704925,Neutral
 BOOMBAYAH 😏💗,0.0,Neutral,0.0,Neutral,0.2799845933914184,Neutral
 🥰🥰,0.9393,Positive,0.0,Neutral,0.3085779249668121,Neutral
 BLΛƆKPIИK in ur area💗💗,0.8957,Positive,0.0,Neutral,0.2368769496679306,Neutral
-it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Neutral,0.8589892387390137,Positive
+it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Positive,0.8589892387390137,Positive
 "My lips : singing along the song 
 
 My eye : seeing comments 
@@ -180,7 +180,7 @@ Me too,0.0,Neutral,0.0,Neutral,0.3579665124416351,Positive
 awful,-0.4588,Negative,-1.0,Negative,-0.9090275168418884,Negative
 Lisa ❣️❣️❣️❣️,0.9571,Positive,0.0,Neutral,0.3652496635913849,Positive
 Waiting for another iconic comeback!!! BLACKPINK PLEASE COMEBACK SOON,0.6006,Positive,0.9765625,Positive,0.5290500521659851,Positive
-Wow  ilove you  blackpink 💗 💓,0.9607,Positive,0.1,Neutral,0.7151306867599487,Positive
+Wow  ilove you  blackpink 💗 💓,0.9607,Positive,0.1,Positive,0.7151306867599487,Positive
 I love blackpink 🥰😍❤,0.9623,Positive,0.5,Positive,0.7599058151245117,Positive
 JENNIE IS LOVELY,0.5859,Positive,0.5,Positive,0.4560481607913971,Positive
 "🖤BLΛƆKPIИK💗 is powerful 💪
@@ -205,7 +205,7 @@ We love Lisa ❤,0.8555,Positive,0.5,Positive,0.7527734637260437,Positive
 jisoo bebisim,0.0,Neutral,0.0,Neutral,0.2443119436502456,Neutral
 💯,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I LOVE JENNİE ❤️🤍🖤💜💙🖤🖤🖤,0.9863,Positive,0.5,Positive,0.7832680344581604,Positive
-كم عدد محبين بلاك بنك,0.0,Neutral,0.1666666666666666,Neutral,0.5880184173583984,Positive
+كم عدد محبين بلاك بنك,0.0,Neutral,0.1666666666666666,Positive,0.5880184173583984,Positive
 나  나갈겨,0.0,Neutral,0.0,Neutral,-0.3686105906963348,Negative
 Blackpink flopped,0.0,Neutral,0.0,Neutral,-0.4702972769737243,Negative
 하루라도 빨리 퇴장할거야,0.0,Neutral,0.0,Neutral,-0.6021691560745239,Negative
@@ -216,7 +216,7 @@ I.    Love.    Jinnie.  🔥🔥🔥,-0.25,Negative,0.5,Positive,0.6067414283752
 Nadie mejorqueeyas,-0.5583,Negative,0.5,Positive,-0.3492095172405243,Negative
 I love your  songs 🎵 ❤,0.8555,Positive,0.5,Positive,0.8233060240745544,Positive
 SO COOL SONG  ! AND ALL MEMBERS SO CUTE  ♡  .I LOVE BIACKPINK  !,0.9537,Positive,0.5208333333333334,Positive,0.8706353306770325,Positive
-BLACK AND PINK ARE MY FAVORITE COLOR ❤️❤️❤️,0.5766,Positive,0.0777777777777777,Neutral,0.8584600687026978,Positive
+BLACK AND PINK ARE MY FAVORITE COLOR ❤️❤️❤️,0.5766,Positive,0.0777777777777777,Positive,0.8584600687026978,Positive
 I love Lisa and rose and lots of!,0.6696,Positive,0.625,Positive,0.8472347259521484,Positive
 I love you blackpink,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
 Here after hylt,0.0,Neutral,0.0,Neutral,0.2595201432704925,Neutral
@@ -252,14 +252,14 @@ love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 saranghe,0.0,Neutral,0.0,Neutral,0.2663952112197876,Neutral
 CONGRATULATIONS ON 1.4B VIEWS BLACKPINK!!! 💖🎉🎂,0.9394,Positive,0.0,Neutral,-0.4391913414001465,Negative
-l love black pink😍😍,0.9217,Positive,0.1666666666666666,Neutral,0.5205339789390564,Positive
+l love black pink😍😍,0.9217,Positive,0.1666666666666666,Positive,0.5205339789390564,Positive
 This song 😩❣️,0.4767,Positive,0.0,Neutral,0.5062264204025269,Positive
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 💔🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑🧑👩👩👩👩👩👩👩👩👩👩💔😓,0.1027,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love you blackpink,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love Jennie,0.6369,Positive,0.5,Positive,0.7454429268836975,Positive
-Real blink💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓,0.987,Positive,0.2,Neutral,0.5460308194160461,Positive
+Real blink💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓,0.987,Positive,0.2,Positive,0.5460308194160461,Positive
 "I love you Lisa, Rosé",0.6369,Positive,0.5,Positive,0.829129695892334,Positive
 I LOVE LISA😍,0.8374,Positive,0.5,Positive,0.8423482775688171,Positive
 Me acuerdo que con esta canción las conocí :))),0.0,Neutral,0.5,Positive,0.461731880903244,Positive
@@ -276,7 +276,7 @@ Jisoo
 Lisa
 
 I love you blackpink ♡♡♡",0.8555,Positive,0.5333333333333333,Positive,0.7499097585678101,Positive
-I.4B 뷰가 와우,0.5859,Positive,0.1,Neutral,0.2548796534538269,Neutral
+I.4B 뷰가 와우,0.5859,Positive,0.1,Positive,0.2548796534538269,Neutral
 I Love  Rosé,0.6369,Positive,0.5,Positive,0.8052741289138794,Positive
 2022 everyone?,0.0,Neutral,0.0,Neutral,-0.4839318990707397,Negative
 04781,0.0,Neutral,0.0,Neutral,0.2414776235818863,Neutral
@@ -290,7 +290,7 @@ Rosé looks fabulous as always,0.5267,Positive,0.4,Positive,0.810510516166687,Po
 Rosé on thumbnail,0.0,Neutral,0.0,Neutral,0.2801131308078766,Neutral
 I LOVE ROSE,0.6369,Positive,0.55,Positive,0.8052741289138794,Positive
 Never would have heard of blackpink if I wouldn't had a daughter. Great music and ultimate performance. Keep on going girls. Youall  are making great music!!! This clip is awesome ❤❤❤,0.9814,Positive,0.7,Positive,0.939359724521637,Positive
-at some point I saw Lisa wearing an outfit that looked like her outfit from pretty savage  like in 2:06,0.6369,Positive,0.25,Neutral,0.4235752522945404,Positive
+at some point I saw Lisa wearing an outfit that looked like her outfit from pretty savage  like in 2:06,0.6369,Positive,0.25,Positive,0.4235752522945404,Positive
 I love hamil ari ari,0.6369,Positive,0.4166666666666666,Positive,0.7453975081443787,Positive
 kangen bp :(,-0.5423,Negative,-0.75,Negative,0.2528479397296905,Neutral
 "N O N S T O P 4 D 
@@ -349,9 +349,9 @@ This is the best!!!!! 😁😁,0.9075,Positive,1.0,Positive,0.918919324874878,Po
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 BLINKS  WANT A COMEBACK >>>WE CANT WAIT MORRRRREEEEEEEEEE        PLEASE😭😭😭😭😭😭😭😭😭,-0.9806,Negative,0.0,Neutral,-0.3795071542263031,Negative
 我两个女儿喜欢的,0.3612,Positive,0.0,Neutral,0.416941374540329,Positive
-as blackpink's 'BOOMBAYAH' has 1.4B veiws let's give them 2B views till their 6th anniversary let's see if they can be the first k-pop group to get 2B veiws [no hate],-0.5719,Negative,0.325,Neutral,0.2361651062965393,Neutral
+as blackpink's 'BOOMBAYAH' has 1.4B veiws let's give them 2B views till their 6th anniversary let's see if they can be the first k-pop group to get 2B veiws [no hate],-0.5719,Negative,0.325,Positive,0.2361651062965393,Neutral
 BEST DEBUT,0.6369,Positive,1.0,Positive,0.7886868119239807,Positive
-I love black pink 💘😻,0.9081,Positive,0.0777777777777777,Neutral,0.7210577130317688,Positive
+I love black pink 💘😻,0.9081,Positive,0.0777777777777777,Positive,0.7210577130317688,Positive
 Boo,0.0,Neutral,0.0,Neutral,0.234233021736145,Neutral
 🐉☯️🐻...🌺🌺🌺🏅,0.4767,Positive,0.0,Neutral,0.2428961247205734,Neutral
 Love you and miss you,0.5574,Positive,0.5,Positive,0.8383948802947998,Positive
@@ -365,17 +365,17 @@ I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 Black pink in your area,0.0,Neutral,-0.1333333333333333,Negative,0.3185902833938598,Neutral
 trop chouette,0.3804,Positive,0.35,Positive,-0.2976440191268921,Negative
-Black Plnck love  BTS.,0.6369,Positive,0.1666666666666666,Neutral,0.6752026677131653,Positive
-Blank Plnck so pretty  ANd I love blinks🤗🤗😍,0.951,Positive,0.25,Neutral,0.7843001484870911,Positive
+Black Plnck love  BTS.,0.6369,Positive,0.1666666666666666,Positive,0.6752026677131653,Positive
+Blank Plnck so pretty  ANd I love blinks🤗🤗😍,0.951,Positive,0.25,Positive,0.7843001484870911,Positive
 "Hello, blink! please watch the clip duddudu as many times as possible! It would be fabulous if he reached 2B before June 15th! (it was released on June 15, 2018 according to my information) so for the anniversary of this sound, 2B! I think it's the best gift we can give to blackpink! Watch it 20 times a day if you have to, but please do your best! I come over you!",0.9553,Positive,0.5833333333333334,Positive,0.7397074699401855,Positive
 Black Plnck BEAUTIFUL,0.6841,Positive,0.3416666666666667,Positive,0.6982967853546143,Positive
 1.5B before Blackpink 6th anniversary,0.0,Neutral,0.0,Neutral,0.4155709147453308,Positive
 Ariana grande and Billie ellish destroyed,-0.4939,Negative,0.0,Neutral,-0.3101972937583923,Negative
 The amount of views is increasing per second..,0.0,Neutral,0.0,Neutral,0.4233749508857727,Positive
-A big brother he love blackpink ❤️,0.6369,Positive,0.25,Neutral,0.6935473084449768,Positive
+A big brother he love blackpink ❤️,0.6369,Positive,0.25,Positive,0.6935473084449768,Positive
 Yuyu,0.0,Neutral,0.0,Neutral,0.2580291628837585,Neutral
 Türk yok muğğ,-0.296,Negative,0.0,Neutral,-0.6032882332801819,Negative
-it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Neutral,0.8589892387390137,Positive
+it's crazy how many people come back to this everyday. this song is legendary,-0.34,Negative,0.1399999999999999,Positive,0.8589892387390137,Positive
 "My lips : singing along the song 
 
 My eye : seeing comments 
@@ -424,9 +424,9 @@ me: me too",-0.5423,Negative,-0.6999999999999998,Negative,-0.4858370423316955,Ne
 One of the most iconic debut songs💋,0.4215,Positive,0.5,Positive,0.8500078320503235,Positive
 220430,0.0,Neutral,0.0,Neutral,0.2423045039176941,Neutral
 Lisa's bangs don't move bruhv 😳,0.0,Neutral,0.0,Neutral,-0.6777997612953186,Negative
-"Le amo troppo, è passato tantissimo tempo dal loro debutto",0.6369,Positive,0.2166666666666666,Neutral,0.5153324007987976,Positive
+"Le amo troppo, è passato tantissimo tempo dal loro debutto",0.6369,Positive,0.2166666666666666,Positive,0.5153324007987976,Positive
 Come back 🖤💗,0.8779,Positive,0.0,Neutral,0.3468402624130249,Positive
-나는 이 노래를 정말 좋아한다.,0.4201,Positive,0.2,Neutral,0.5733921527862549,Positive
+나는 이 노래를 정말 좋아한다.,0.4201,Positive,0.2,Positive,0.5733921527862549,Positive
 Jennie is a best repair,0.6369,Positive,1.0,Positive,0.4214639067649841,Positive
 Black pink 🫶🏻,0.0,Neutral,-0.1333333333333333,Negative,0.2515770494937897,Neutral
 "Pov: this song will never get old. this song makes makes my day even better 
@@ -472,7 +472,7 @@ Disney's how to battle people,-0.3818,Negative,0.0,Neutral,0.560973584651947,Pos
 I'm so so proud of them 💗💗💗,0.9684,Positive,0.8,Positive,0.8715534806251526,Positive
 i Love u,0.6369,Positive,0.5,Positive,0.7627245187759399,Positive
 OMG,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
-I love black pink💞💫😭🔥🔥🔥,-0.1779,Negative,0.1666666666666666,Neutral,0.7530856132507324,Positive
+I love black pink💞💫😭🔥🔥🔥,-0.1779,Negative,0.1666666666666666,Positive,0.7530856132507324,Positive
 💞💞,0.8625,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Hola 😘🤘😝😝😝,0.4215,Positive,0.0,Neutral,0.2730221152305603,Neutral
 🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -480,7 +480,7 @@ Hola 😘🤘😝😝😝,0.4215,Positive,0.0,Neutral,0.2730221152305603,Neutral
 W,0.0,Neutral,0.0,Neutral,0.3924260437488556,Positive
 Oh cool,0.3182,Positive,0.35,Positive,0.6064090132713318,Positive
 Qué hermosa canción 🥰🥰🥰,0.9794,Positive,0.85,Positive,0.6773658394813538,Positive
-Black Pink is better than all K-Pop 😵‍💫💕💕💕,0.9325,Positive,0.0777777777777777,Neutral,0.6076667308807373,Positive
+Black Pink is better than all K-Pop 😵‍💫💕💕💕,0.9325,Positive,0.0777777777777777,Positive,0.6076667308807373,Positive
 BLACKPINK IS THE BEST  THIS SONG IS YEARS OLD AND ITS STILL AMAZING 😝🤟,0.8877,Positive,0.5666666666666668,Positive,0.7955609560012817,Positive
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
 I remember watching this in 2017 and all my friends learning the choreo together... lol I miss these days...,0.6486,Positive,0.8,Positive,0.5849329829216003,Positive
@@ -489,7 +489,7 @@ ZZZ,-0.296,Negative,0.0,Neutral,0.2275604009628296,Neutral
 "hi black pink i am your fan and i like all your musics its so cool, and im so happy for your 1.4 views if your channel continue to make the world big. 
 
 one kiss of the your blink:
-Maiumy",0.9364,Positive,0.1766666666666666,Neutral,0.685501754283905,Positive
+Maiumy",0.9364,Positive,0.1766666666666666,Positive,0.685501754283905,Positive
 I Just love you  muisic😽😽😽😘,0.959,Positive,0.5,Positive,0.8870705962181091,Positive
 "pour moi les Blackpink se sera toujours les meilleures chanteuse de KPOP elles  sont 73,8M d'abonnés ces vraiment incroyable❤️❤️",0.6369,Positive,0.6,Positive,0.7320517301559448,Positive
 Just Queens 👸🏼,0.0,Neutral,0.0,Neutral,0.2547692358493805,Neutral
@@ -502,8 +502,8 @@ Members' reactions with motorcycles,0.0,Neutral,0.0,Neutral,0.3485355377197265,P
 ❤🎉😊,0.9169,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I don't wanna a boy i need a men
 I like this part hehehe",0.3612,Positive,0.0,Neutral,0.6110028028488159,Positive
-I love you black pink,0.6369,Positive,0.0777777777777777,Neutral,0.8163804411888123,Positive
-This is So Iconic We all come back to listen to this everyday till today🖤💗Lisa✨Jennie✨Jisoo✨Rosé,0.7096,Positive,0.0999999999999999,Neutral,0.875323474407196,Positive
+I love you black pink,0.6369,Positive,0.0777777777777777,Positive,0.8163804411888123,Positive
+This is So Iconic We all come back to listen to this everyday till today🖤💗Lisa✨Jennie✨Jisoo✨Rosé,0.7096,Positive,0.0999999999999999,Positive,0.875323474407196,Positive
 "So cool, it's a very strong girl group~",0.734,Positive,0.4566666666666666,Positive,0.7134332656860352,Positive
 당신 지역의 블랙핑크,0.0,Neutral,0.0,Neutral,0.2146932035684585,Neutral
 🌹❤️💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -534,18 +534,18 @@ The best debut song ever!,0.6696,Positive,1.0,Positive,0.930610716342926,Positiv
 💥✨️💜💜💃💜💜✨️💥,0.93,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love u guys so much!!!!,0.7482,Positive,0.494140625,Positive,0.9002624750137329,Positive
 Blackpink in your erea...,0.0,Neutral,0.0,Neutral,0.4349831938743591,Positive
-Black Pink is the best girl group for me.,0.6369,Positive,0.2444444444444444,Neutral,0.834627091884613,Positive
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+Black Pink is the best girl group for me.,0.6369,Positive,0.2444444444444444,Positive,0.834627091884613,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 ایرانی نداریم؟,0.0,Neutral,0.0,Neutral,-0.4280155301094055,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I💖Lisa and this song is my favereat😍💖💖,0.9517,Positive,0.0,Neutral,0.7632765769958496,Positive
 Here after how you like that,0.3612,Positive,0.0,Neutral,0.4606223404407501,Positive
 Jenni cuteeee,0.0,Neutral,0.0,Neutral,0.2715285420417785,Neutral
 This is a masterpiece!!!! I never get bored and ik nobody gets bored,0.7169,Positive,-0.5,Negative,0.94983571767807,Positive
 love you so much,0.6369,Positive,0.35,Positive,0.8709437847137451,Positive
 Wow🥺🥺🥺🥺,0.5859,Positive,0.0,Neutral,0.3085779249668121,Neutral
-It's the most beautiful debut song for the most famous male and female group in the world. Thank you Black Pink for this masterpiece,0.9112,Positive,0.2604166666666667,Neutral,0.8798678517341614,Positive
-Well I'll be honest i really don't understand that who is the main RaPPer here ----- Jennie or Lisa ------ ??????,0.7476,Positive,0.3222222222222222,Neutral,-0.3690715432167053,Negative
+It's the most beautiful debut song for the most famous male and female group in the world. Thank you Black Pink for this masterpiece,0.9112,Positive,0.2604166666666667,Positive,0.8798678517341614,Positive
+Well I'll be honest i really don't understand that who is the main RaPPer here ----- Jennie or Lisa ------ ??????,0.7476,Positive,0.3222222222222222,Positive,-0.3690715432167053,Negative
 LALISAAAAAAAAA🔥🔥🔥🔥🔥🔥,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "OMG ! 
 Congratulations queens for 1.4b views for  this song 😍😍
@@ -573,7 +573,7 @@ I love rosie's and jichu's 좋아 part,0.7717,Positive,0.5,Positive,0.5844702124
 BLΛƆKPIИK IN YOUR AREA,0.0,Neutral,0.0,Neutral,0.3381278812885284,Positive
 "Please $tre@m dudu  to 2B views,and KTL, BLINK, before BTS BWL, or BTS BWL will break the recored.",0.3182,Positive,0.0,Neutral,-0.6810915470123291,Negative
 "Please $tre@m dudu  to 2B views,and KTL, BLINK, before BTS BWL, or BTS BWL will break the recored.",0.3182,Positive,0.0,Neutral,-0.6810915470123291,Negative
-One of fav first girls group,0.4588,Positive,0.25,Neutral,0.3708605170249939,Positive
+One of fav first girls group,0.4588,Positive,0.25,Positive,0.3708605170249939,Positive
 "👋🍑
 😨😨😨",-0.7506,Negative,0.0,Neutral,0.3428077399730682,Positive
 "Brooooo are you kidding?
@@ -587,13 +587,13 @@ My favorite,0.4588,Positive,0.5,Positive,0.8966953158378601,Positive
 Stream.... Blackpink songs....,0.0,Neutral,0.0,Neutral,0.320790559053421,Neutral
 Jennie rap super 🤩,0.5994,Positive,0.3333333333333333,Positive,0.6635032296180725,Positive
 You are my medicine,0.0,Neutral,0.0,Neutral,0.6402052640914917,Positive
-I love you your hard work is successited you,0.5859,Positive,0.1041666666666666,Neutral,0.8973459601402283,Positive
+I love you your hard work is successited you,0.5859,Positive,0.1041666666666666,Positive,0.8973459601402283,Positive
 "💐💐❤❤🌹🌹
 Black pink",0.8555,Positive,-0.1333333333333333,Negative,0.2420995831489563,Neutral
 Blackpink is the  hamil ari ari,0.0,Neutral,0.3333333333333333,Positive,0.2409464120864868,Neutral
 "Soon they are back up and they Uploaded Song Like old style Example Dududu song 
 :) 
-Love from India🇮🇳",0.8658,Positive,0.275,Neutral,0.397988498210907,Positive
+Love from India🇮🇳",0.8658,Positive,0.275,Positive,0.397988498210907,Positive
 Here after hamil ari ari,0.0,Neutral,0.0,Neutral,0.3003175258636474,Neutral
 Blackpink is the hamil ari ari,0.0,Neutral,0.3333333333333333,Positive,0.2409464120864868,Neutral
 yeah,0.296,Positive,0.0,Neutral,0.3035990595817566,Neutral
@@ -608,19 +608,19 @@ Happy 2022 🤟🤟🤟,0.5719,Positive,0.8,Positive,0.6699704527854919,Positive
 muito bom,0.4927,Positive,0.91,Positive,0.6459388732910156,Positive
 Lisa,0.0,Neutral,0.0,Neutral,0.3173010349273681,Neutral
 "437,515",0.0,Neutral,0.0,Neutral,0.2293789684772491,Neutral
-Batang 20's  labas na,0.0,Neutral,0.1,Neutral,0.2346885949373245,Neutral
+Batang 20's  labas na,0.0,Neutral,0.1,Positive,0.2346885949373245,Neutral
 BP necesita más apoyo y vistas 💖💕,0.9286,Positive,0.5,Positive,0.3800094723701477,Positive
-"Hola BLACKPINk tego novio es jin de BTS fue amor a primera vista yo yevava un top de color rosa pequeño y un shor corto de color negro  ,  las quiero mucho bendiciones , blackpink",0.9322,Positive,0.1592592592592592,Neutral,0.3013413250446319,Neutral
+"Hola BLACKPINk tego novio es jin de BTS fue amor a primera vista yo yevava un top de color rosa pequeño y un shor corto de color negro  ,  las quiero mucho bendiciones , blackpink",0.9322,Positive,0.1592592592592592,Positive,0.3013413250446319,Neutral
 社会のちゃんとした法律いる！,0.0,Neutral,0.0,Neutral,0.4190603792667389,Positive
 BLACKPINK IN YOUR AREA! CONGRATS ON YOUR I.4B VIEWS! 🎉 🥳 WE BLINK LOVE YOU🖤💗,0.9777,Positive,0.5,Positive,0.7883186936378479,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 "나는 그들을 사랑한다! :,디",0.6696,Positive,0.625,Positive,0.7451990842819214,Positive
 If i hadn’t discovered Lisa I would’ve never discovered blackpink,0.0,Neutral,0.0,Neutral,-0.2714788615703583,Negative
 "AAAAAAAAA- DIOS PISENME :,D",0.0,Neutral,0.0,Neutral,-0.3625324666500091,Negative
-I think they're so clever they haven't made a comeback yet so fans can watch old music videos to get that many views.,0.5949,Positive,0.2555555555555555,Neutral,0.554975152015686,Positive
+I think they're so clever they haven't made a comeback yet so fans can watch old music videos to get that many views.,0.5949,Positive,0.2555555555555555,Positive,0.554975152015686,Positive
 Nostalgiaaaa,0.0,Neutral,0.0,Neutral,0.4172328412532806,Positive
 당신을 사랑합니다 ❤️❤️❤️❤️,0.6369,Positive,0.5,Positive,0.7264668345451355,Positive
-Eu amo a black pink🥰,0.91,Positive,0.1666666666666666,Neutral,0.383407711982727,Positive
+Eu amo a black pink🥰,0.91,Positive,0.1666666666666666,Positive,0.383407711982727,Positive
 "I love you
  I love you
   I love you
@@ -884,23 +884,23 @@ Can't believe it's already 6 years since this was released. It feels so nostalgi
 I love you jenlisa ❤❤❤❤,0.9719,Positive,0.5,Positive,0.8155476450920105,Positive
 Me gusta está cancion de las blackpink,0.3612,Positive,0.0,Neutral,0.5002608299255371,Positive
 Fav song harbi müq💗🖤,0.9201,Positive,0.0,Neutral,0.2844276130199432,Neutral
-Epic SONG!💓🖤💓🖤💓,0.945,Positive,0.1,Neutral,0.7859489917755127,Positive
-hermosas quiero que sigan logrando y no paeren por los malos comentarios las amo gracias por siempre sacarme una sonrisa las amo 3 años de blink,0.9431,Positive,0.29,Neutral,0.8482120037078857,Positive
+Epic SONG!💓🖤💓🖤💓,0.945,Positive,0.1,Positive,0.7859489917755127,Positive
+hermosas quiero que sigan logrando y no paeren por los malos comentarios las amo gracias por siempre sacarme una sonrisa las amo 3 años de blink,0.9431,Positive,0.29,Positive,0.8482120037078857,Positive
 I just don't get bored no matter how much times i hear it,0.1877,Positive,-0.15,Negative,0.304217666387558,Neutral
 JINIE IS PRITTY,0.0,Neutral,0.0,Neutral,0.3467898070812225,Positive
 congratulation,0.5994,Positive,0.0,Neutral,0.4046151638031006,Positive
-really queen,0.0,Neutral,0.2,Neutral,0.8098556399345398,Positive
+really queen,0.0,Neutral,0.2,Positive,0.8098556399345398,Positive
 LOVE YOU BP,0.6369,Positive,0.5,Positive,0.8130722641944885,Positive
 Jennie rap is masterpiece,0.6249,Positive,0.0,Neutral,0.7100993394851685,Positive
 I am in India,0.0,Neutral,0.0,Neutral,0.4320409893989563,Positive
 I Love You BLACKPINK,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
-"Let's str3am D4 for 2B vi3ws  KTL to keep it as the 2nd most vi3wed next to D4, HYLT mv, debut song Boombayah and Stay.",0.0,Neutral,0.1666666666666666,Neutral,0.4234567880630493,Positive
+"Let's str3am D4 for 2B vi3ws  KTL to keep it as the 2nd most vi3wed next to D4, HYLT mv, debut song Boombayah and Stay.",0.0,Neutral,0.1666666666666666,Positive,0.4234567880630493,Positive
 "200,122",0.0,Neutral,0.0,Neutral,-0.236974835395813,Negative
 Who is army 💜💜💜,0.9274,Positive,0.0,Neutral,0.3445769250392914,Positive
 تخبل,-0.34,Negative,-0.6,Negative,-0.2366152256727218,Negative
 "My favourite colour black my best friend
-Colour  pink  black pink ☺️",0.886,Positive,0.0933333333333333,Neutral,0.8529778122901917,Positive
-congratulations black pink  for a billion  views  boombayah  it was  and will be my favorite song  we love you let go blinks to 2 b,0.9022,Positive,0.1833333333333333,Neutral,0.7873731851577759,Positive
+Colour  pink  black pink ☺️",0.886,Positive,0.0933333333333333,Positive,0.8529778122901917,Positive
+congratulations black pink  for a billion  views  boombayah  it was  and will be my favorite song  we love you let go blinks to 2 b,0.9022,Positive,0.1833333333333333,Positive,0.7873731851577759,Positive
 Boombayah finally hit 1.4 billion views! Yaas blinks!,0.0,Neutral,0.0,Neutral,-0.5178173184394836,Negative
 Dose Jennie has glasses,0.0,Neutral,0.0,Neutral,0.2744830250740051,Neutral
 Legends are here who is read this comment 😂🤣😅,0.8225,Positive,0.0,Neutral,0.4282646477222442,Positive
@@ -922,10 +922,10 @@ Lalalisa,0.0,Neutral,0.0,Neutral,0.2487448900938034,Neutral
 Lalalisa,0.0,Neutral,0.0,Neutral,0.2487448900938034,Neutral
 Wow so amazing,0.8357,Positive,0.35,Positive,0.9349426031112672,Positive
 Best debut song ever,0.6369,Positive,1.0,Positive,0.9086738228797911,Positive
-mấy chị hát  hay ghê,0.3384,Positive,0.2,Neutral,0.2963295578956604,Neutral
+mấy chị hát  hay ghê,0.3384,Positive,0.2,Positive,0.2963295578956604,Neutral
 나는 그들을 정말로 사랑한다 멋진 소녀들 😍😍,0.9419,Positive,0.75,Positive,0.7378048300743103,Positive
 The group who introduced me the kpop,0.0,Neutral,0.0,Neutral,0.5020643472671509,Positive
-우와,0.5859,Positive,0.1,Neutral,-0.2677638828754425,Negative
-Hi blackpink pls post new songs,0.0772,Positive,0.1363636363636363,Neutral,0.2739133238792419,Neutral
+우와,0.5859,Positive,0.1,Positive,-0.2677638828754425,Negative
+Hi blackpink pls post new songs,0.0772,Positive,0.1363636363636363,Positive,0.2739133238792419,Neutral
 دائما ارقصكن  بحب روزي,0.6369,Positive,0.5,Positive,0.4982513189315796,Positive
 😜😒😔😒😔😒😗😒😗😜😔😜😜😝😝😝😞😛😍😛😛😛😳😌😯😇,0.93,Positive,0.0,Neutral,0.3085779249668121,Neutral

@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-He killed this!! Man I love this guy…. He can freaking rap,-0.5696,Negative,0.09375,Neutral,0.8469772338867188,Positive
+He killed this!! Man I love this guy…. He can freaking rap,-0.5696,Negative,0.09375,Positive,0.8469772338867188,Positive
 Take my whores to the hotel room,-0.6124,Negative,0.0,Neutral,0.3548761010169983,Positive
 Come to Australia do a gig at me pub,0.0,Neutral,0.0,Neutral,0.4579030573368072,Positive
 They need to put this on Amazon music!!!,0.3769,Positive,0.0,Neutral,-0.5207204222679138,Negative
@@ -7,7 +7,7 @@ This guy is fukin good !!!!2💪💪🔥🔥🔥,-0.6671,Negative,1.0,Positive,0
 Shits dope,-0.4767,Negative,0.0,Neutral,-0.3424696922302246,Negative
 Better than the original by light years,0.6369,Positive,0.425,Positive,0.5401522517204285,Positive
 "That y,y is y",0.0,Neutral,0.0,Neutral,0.3546689748764038,Positive
-Epic !,0.0,Neutral,0.125,Neutral,0.8031706809997559,Positive
+Epic !,0.0,Neutral,0.125,Positive,0.8031706809997559,Positive
 i fucking love you merkules,0.6697,Positive,0.5,Positive,0.8143655061721802,Positive
 Only crappy thing about this....I gotta have youtube open to bang to you in the ride with this jam......><  Keep this shit up,-0.8338,Negative,-0.0666666666666666,Negative,-0.6482411026954651,Negative
 This song is f****** awesome I don't give a s***,0.6249,Positive,1.0,Positive,0.3904051780700683,Positive
@@ -18,7 +18,7 @@ I feel that if Merkules makes a song with Eminem it would hit big.,0.0,Neutral,0
 "Okay, this deserves a sub....",0.2263,Positive,0.5,Positive,0.7291625738143921,Positive
 Way fucken better than the original track !!!! GOOD SHIT,0.6876,Positive,0.4788818359375,Positive,0.4799834787845611,Positive
 please do a project with Tom Mcdonald ...,0.3182,Positive,0.0,Neutral,0.2538765668869018,Neutral
-"I swear I've watched this video 10,000+ times, it's pure quality big love from the UK Merks",0.6124,Positive,0.2380952380952381,Neutral,0.8323389887809753,Positive
+"I swear I've watched this video 10,000+ times, it's pure quality big love from the UK Merks",0.6124,Positive,0.2380952380952381,Positive,0.8323389887809753,Positive
 Legendary,0.0,Neutral,1.0,Positive,0.7853575348854065,Positive
 Definitely better than the original song🤗,0.8658,Positive,0.4375,Positive,0.755257248878479,Positive
 Merkules is the Goat 🐐,0.0,Neutral,0.0,Neutral,0.3321781754493713,Positive
@@ -34,31 +34,31 @@ Love it dawg,0.6369,Positive,0.5,Positive,0.7742176651954651,Positive
 I met your dad at store he’s extremely proud. Brockville love,0.8341,Positive,0.65,Positive,0.8648953437805176,Positive
 "2:15 - 2:23 I love that scene...Damn so funny I could make a GIF of it XD
 Sry but never saw one who make it so funny like you...Nice ""XD",0.9478,Positive,0.3333333333333333,Positive,0.6833540201187134,Positive
-OH SHIT! GET IT! 🤣🤣 LOVING IT,0.8065,Positive,0.14375,Neutral,0.8180387020111084,Positive
+OH SHIT! GET IT! 🤣🤣 LOVING IT,0.8065,Positive,0.14375,Positive,0.8180387020111084,Positive
 Budwar Made in CZ Beer,0.0,Neutral,0.0,Neutral,0.3081621527671814,Neutral
-"It's funny hearing ""from the south eating moose meat and catfish"" lol Canada is different man. Been bumping merk for years and this fool is killin the game madchild no longer holds the wheel up north man.",0.0323,Neutral,0.1625,Neutral,-0.3290222585201263,Negative
+"It's funny hearing ""from the south eating moose meat and catfish"" lol Canada is different man. Been bumping merk for years and this fool is killin the game madchild no longer holds the wheel up north man.",0.0323,Neutral,0.1625,Positive,-0.3290222585201263,Negative
 This song is about life,0.0,Neutral,0.0,Neutral,0.4863001108169555,Positive
 That shits dope,-0.4767,Negative,0.0,Neutral,-0.341837465763092,Negative
 https://youtube.com/channel/UCRhy_GxwRQ9YPYxKrt2UiSw,0.0,Neutral,0.0,Neutral,-0.2554014325141907,Negative
-Merk 100% slayed this so hard. Better than Lil Nas.,0.3209,Positive,0.1041666666666666,Neutral,-0.6704573631286621,Negative
+Merk 100% slayed this so hard. Better than Lil Nas.,0.3209,Positive,0.1041666666666666,Positive,-0.6704573631286621,Negative
 Good song,0.4404,Positive,0.7,Positive,0.5417960286140442,Positive
 Savage the man has skills,-0.4588,Negative,0.0,Neutral,0.647377610206604,Positive
 Popping that cop off with your teeth was dumb.,-0.5106,Negative,-0.375,Negative,-0.4877530336380005,Negative
-this sounds like a NIN beat.  is this the original beat from lil nas?  this really sounds like something from the Fragile.,0.7635,Positive,0.1916666666666666,Neutral,-0.4960959851741791,Negative
+this sounds like a NIN beat.  is this the original beat from lil nas?  this really sounds like something from the Fragile.,0.7635,Positive,0.1916666666666666,Positive,-0.4960959851741791,Negative
 This man said I got Hannah Montana and Billy Ray Cyrus can get it. 😂,0.4404,Positive,0.0,Neutral,0.4877697825431824,Positive
 I love him I got merkules merch,0.6369,Positive,0.5,Positive,0.8016052842140198,Positive
 I agree,0.3612,Positive,0.0,Neutral,0.2849160134792328,Neutral
 Ride horse all time . Like to see you ride with me.... Actor John red here man,0.3612,Positive,0.0,Neutral,0.7301600575447083,Positive
-You gonna want them teeth one day son 🤫 for real promise I Cringe watching you do that homie,0.3818,Positive,0.2,Neutral,-0.3928672075271606,Negative
+You gonna want them teeth one day son 🤫 for real promise I Cringe watching you do that homie,0.3818,Positive,0.2,Positive,-0.3928672075271606,Negative
 Ain’t mad atcha homie,-0.4939,Negative,-0.625,Negative,-0.5320101976394653,Negative
-'Turn my back yard into a shooting range' - In my case I 'turned my shooting range into a back yard' when I dug out 3 acres worth of dirt... now I can shoot into my range from my kitchen and if any deer are in the way well they shouldn't have been eating the peanut butter I left for the raccoons!,-0.2714,Negative,0.075,Neutral,0.4405133724212646,Positive
+'Turn my back yard into a shooting range' - In my case I 'turned my shooting range into a back yard' when I dug out 3 acres worth of dirt... now I can shoot into my range from my kitchen and if any deer are in the way well they shouldn't have been eating the peanut butter I left for the raccoons!,-0.2714,Negative,0.075,Positive,0.4405133724212646,Positive
 better then eminem in my opinion,0.4404,Positive,0.5,Positive,0.4621935784816742,Positive
 I don't know you ..but your no joke man. Great job,0.6506,Positive,0.8,Positive,0.6167214512825012,Positive
 Same,0.0,Neutral,0.0,Neutral,-0.2256717085838318,Negative
 "Sorry but I just had to point this out, he said he was raised in the south eating moose meat and catfish, but moose are from the north 😂",0.5719,Positive,-0.5,Negative,-0.3811500072479248,Negative
 I'm trying to quit smoking especially with my 1st child on the way in 2022 this song hits hard,-0.1027,Negative,-0.1458333333333333,Negative,-0.4001355469226837,Negative
 You and Jack black ??,0.0,Neutral,-0.1666666666666666,Negative,-0.3649153411388397,Negative
-Sko merk!!!! Big fan right here!!!,0.5374,Positive,0.2790178571428571,Neutral,0.6825587749481201,Positive
+Sko merk!!!! Big fan right here!!!,0.5374,Positive,0.2790178571428571,Positive,0.6825587749481201,Positive
 Good mood track,0.4404,Positive,0.7,Positive,0.5487072467803955,Positive
 "Not sure anyone realizes how savage that line was about Billy Ray Cyrus and then ""Hanna Montana"" at his ranch getting hammered. 
 
@@ -76,21 +76,21 @@ Seeing merkules dressed like a cowboy is the best shit i've seen all day lol I k
 I remember i always used to rap to this but i cant bc its been so long,0.0,Neutral,-0.05,Negative,0.3972077667713165,Positive
 "50million views, I'm sure I'm half those lol",0.6249,Positive,0.3777777777777777,Positive,0.2597381770610809,Neutral
 1:05 I love that line,0.6369,Positive,0.5,Positive,0.6357302665710449,Positive
-wow Merkules really a Canadian legend.   this song particularly shows off his skills.,0.5859,Positive,0.1555555555555555,Neutral,0.7984738945960999,Positive
+wow Merkules really a Canadian legend.   this song particularly shows off his skills.,0.5859,Positive,0.1555555555555555,Positive,0.7984738945960999,Positive
 Sending love and peace....,0.8271,Positive,0.5,Positive,0.653548002243042,Positive
 This is garbage,0.0,Neutral,0.0,Neutral,-0.952998161315918,Negative
 Actuneers are rappin now...not bad.,-0.5423,Negative,-0.6999999999999998,Negative,0.3813619315624237,Positive
 100% better version imo,0.4404,Positive,0.5,Positive,0.645544171333313,Positive
-Cheers you've been double fisted him right on brother,0.4767,Positive,0.1428571428571428,Neutral,-0.4686284065246582,Negative
+Cheers you've been double fisted him right on brother,0.4767,Positive,0.1428571428571428,Positive,-0.4686284065246582,Negative
 When are you uploading this to Spotify?,0.0,Neutral,0.0,Neutral,-0.37384694814682,Negative
-"Far as I'm concerned, this is the original",0.3182,Positive,0.2375,Neutral,0.5774175524711609,Positive
+"Far as I'm concerned, this is the original",0.3182,Positive,0.2375,Positive,0.5774175524711609,Positive
 Don't chip a tooth broski,0.0,Neutral,0.0,Neutral,-0.5768013000488281,Negative
 🔥🔥🔥🔥🔥🔥🔥,-0.93,Negative,0.0,Neutral,0.3085779249668121,Neutral
-"I mean, he's good but his voice is so pussy.",0.2382,Positive,0.1937499999999999,Neutral,0.4880145490169525,Positive
+"I mean, he's good but his voice is so pussy.",0.2382,Positive,0.1937499999999999,Positive,0.4880145490169525,Positive
 "@ 0:46 is it ""MOOSE meat and catfish"" ? OR is it ""loose meat and CABBAGE"" ??",-0.4291,Negative,-0.0769230769230769,Negative,-0.5236978530883789,Negative
 "We're just trying do this thing.
 Like a boss gotta",0.3612,Positive,0.0,Neutral,0.4973233640193939,Positive
-A little try hard but authentic and real nonetheless.,-0.0157,Neutral,0.0552083333333333,Neutral,0.655961275100708,Positive
+A little try hard but authentic and real nonetheless.,-0.0157,Neutral,0.0552083333333333,Positive,0.655961275100708,Positive
 Like a few other videos that should have been 10 thumbs up instead of just one,0.3612,Positive,-0.1625,Negative,0.2976639866828918,Neutral
 So where is way down south in Canadia,0.0,Neutral,-0.1555555555555555,Negative,0.3802523910999298,Positive
 I want this on Spotify 😭😭,-0.7096,Negative,0.0,Neutral,0.550335168838501,Positive
@@ -101,29 +101,29 @@ Better then the original ever could be,0.6369,Positive,0.4375,Positive,0.3326949
 Well from one cowboy to another Merk rep’s the hat well👊,0.4939,Positive,0.0,Neutral,0.5324846506118774,Positive
 Still killin 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.2489522993564605,Neutral
 Put this on Spotify this is so much better then the original,0.6682,Positive,0.4375,Positive,-0.3349466323852539,Negative
-Merk may not run fast but his bars got wings,0.0,Neutral,0.2,Neutral,0.3931052386760711,Positive
-Bro I like this song so myth I listen to it so much I can rap the fast parts with out the song on,0.3612,Positive,0.2,Neutral,0.5341519713401794,Positive
+Merk may not run fast but his bars got wings,0.0,Neutral,0.2,Positive,0.3931052386760711,Positive
+Bro I like this song so myth I listen to it so much I can rap the fast parts with out the song on,0.3612,Positive,0.2,Positive,0.5341519713401794,Positive
 low key cringe but b this is still fire,-0.5647,Negative,0.0,Neutral,0.2966350615024566,Neutral
 It would sound just as good if he would just slow the fuck down. I really like this but I'm kinda getting sick of all these rappers trying to be tek9,-0.5324,Negative,-0.0385487528344671,Negative,0.4512136280536651,Positive
 Farmers must like this song😅👌,0.8788,Positive,0.0,Neutral,0.6039112210273743,Positive
-Hey u know Garrett given your coming to Thanksgiving right my dad said are u,0.0,Neutral,0.2857142857142857,Neutral,0.3930732607841491,Positive
+Hey u know Garrett given your coming to Thanksgiving right my dad said are u,0.0,Neutral,0.2857142857142857,Positive,0.3930732607841491,Positive
 Bro I just remembered this song still fire tho,-0.34,Negative,0.0,Neutral,-0.3594813048839569,Negative
 Woooo... murdered that beat,-0.6597,Negative,0.0,Neutral,-0.6082713603973389,Negative
 "Commenting merk, snak, riitz, and jelly until we get a collab",0.0,Neutral,0.0,Neutral,-0.2574228644371032,Negative
 I'm sorry I didn't discover you sooner,-0.0772,Negative,-0.5,Negative,-0.3849861621856689,Negative
-I was once related to u lmao,0.5994,Positive,0.3,Neutral,0.2294115573167801,Neutral
+I was once related to u lmao,0.5994,Positive,0.3,Positive,0.2294115573167801,Neutral
 You are the best !,0.6696,Positive,1.0,Positive,0.9074450135231018,Positive
-The only one to do it right!! 100,0.0,Neutral,0.2232142857142857,Neutral,0.5527956485748291,Positive
+The only one to do it right!! 100,0.0,Neutral,0.2232142857142857,Positive,0.5527956485748291,Positive
 This song is good,0.4404,Positive,0.7,Positive,0.4647706747055053,Positive
 50 MLLI,0.0,Neutral,0.0,Neutral,-0.2181669026613235,Negative
 Much better than nas’s,0.4404,Positive,0.5,Positive,0.7275574803352356,Positive
 Merk made the song Hetero,0.0,Neutral,0.0,Neutral,-0.4369231462478637,Negative
 Dam bro u have got the flo👌👌👌👌👌👌👌,0.9912,Positive,0.0,Neutral,0.3173474073410034,Neutral
-Lil Nas:ay merkules I just dropped the new beat my man.                                   Merkules:Bro I Just Listened And I Beat That Trashy Song🤣🤣🤣,0.8625,Positive,0.1363636363636363,Neutral,-0.6976239681243896,Negative
+Lil Nas:ay merkules I just dropped the new beat my man.                                   Merkules:Bro I Just Listened And I Beat That Trashy Song🤣🤣🤣,0.8625,Positive,0.1363636363636363,Positive,-0.6976239681243896,Negative
 Bro he is the God of rappers,0.2732,Positive,0.0,Neutral,0.5083193778991699,Positive
 Watch out! Nicely done! Acoustic short here https://youtube.com/shorts/X3BIpVJ0UkE?feature=share,0.5399,Positive,0.375,Positive,0.5521603226661682,Positive
 @Eminem you got an competition,0.0,Neutral,0.0,Neutral,0.3168104290962219,Neutral
-Hwo does this have 22k this down this is good,0.4404,Positive,0.2722222222222222,Neutral,0.3306885957717895,Positive
+Hwo does this have 22k this down this is good,0.4404,Positive,0.2722222222222222,Positive,0.3306885957717895,Positive
 2021,0.0,Neutral,0.0,Neutral,0.298195868730545,Neutral
 Can't believe this is not on Spotify,0.0,Neutral,0.0,Neutral,-0.6622490882873535,Negative
 This needs to be downloadable on I tunes,0.0,Neutral,0.0,Neutral,-0.3065559267997741,Negative
@@ -138,7 +138,7 @@ Banned.vide0,0.0,Neutral,0.0,Neutral,-0.8126376271247864,Negative
 So much better than lil nas X,0.4902,Positive,0.5,Positive,0.8019327521324158,Positive
 Horse in the back and a goat in the front,0.0,Neutral,0.0,Neutral,0.2448496222496032,Neutral
 Why you covering songs by a bootie warrior ??????,0.0,Neutral,0.0,Neutral,-0.456515371799469,Negative
-Merkiles keeps his stuff real,0.0,Neutral,0.2,Neutral,0.4882571399211883,Positive
+Merkiles keeps his stuff real,0.0,Neutral,0.2,Positive,0.4882571399211883,Positive
 "I bet when that beer frothed over his hands, he knew he had this down 🔥",-0.34,Negative,-0.1555555555555555,Negative,-0.3520202934741974,Negative
 This goddamn fucker k@reacher gave  me the destructive me happens on 98$ I don't fuck you cause respect she is my family,-0.7543,Negative,-0.5,Negative,-0.8853374123573303,Negative
 When are the remixes coming back?,0.0,Neutral,0.0,Neutral,-0.3017146587371826,Negative
@@ -150,24 +150,24 @@ Oregon state university,0.0,Neutral,0.0,Neutral,0.3328142464160919,Positive
 Haaxton Latin tatroseblezsexme,0.0,Neutral,0.0,Neutral,-0.301789253950119,Negative
 You need to tour America 🇺🇸 put on your to do list. Put Salt Lake City and  Phoenix on your list,0.0,Neutral,0.0,Neutral,0.5129345655441284,Positive
 #letSDOThis,0.0,Neutral,0.0,Neutral,-0.2463250905275344,Negative
-He's more country than new country singers,0.0,Neutral,0.3181818181818182,Neutral,0.300586462020874,Neutral
+He's more country than new country singers,0.0,Neutral,0.3181818181818182,Positive,0.300586462020874,Neutral
 Sound like Kool whip,0.3612,Positive,0.4,Positive,0.246121808886528,Neutral
-Classic drip 🥶🥶🥶,0.0,Neutral,0.1666666666666666,Neutral,0.7104020714759827,Positive
+Classic drip 🥶🥶🥶,0.0,Neutral,0.1666666666666666,Positive,0.7104020714759827,Positive
 Murdered by Merk,-0.6597,Negative,0.0,Neutral,-0.5725494623184204,Negative
 22000 dislikes?  wow. This is pretty good.,0.802,Positive,0.3499999999999999,Positive,0.4827175736427307,Positive
 sign this man someone,0.0,Neutral,0.0,Neutral,-0.6565065383911133,Negative
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This is still one of my favorite songs merk!!!!!,0.6331,Positive,1.0,Positive,0.897758424282074,Positive
 Southern Canada?,0.0,Neutral,0.0,Neutral,-0.3101285398006439,Negative
-By far a way better version of this song. Keep up the bombass remixes. Been following your music for years!,0.4926,Positive,0.1999999999999999,Neutral,0.2469565719366073,Neutral
+By far a way better version of this song. Keep up the bombass remixes. Been following your music for years!,0.4926,Positive,0.1999999999999999,Positive,0.2469565719366073,Neutral
 Where u go nothing,0.0,Neutral,0.0,Neutral,-0.5268210172653198,Negative
-Would make a good Wierd Al Yankovic Jr. Not a rapper tho.,0.296,Positive,0.0999999999999999,Neutral,-0.3263649940490722,Negative
+Would make a good Wierd Al Yankovic Jr. Not a rapper tho.,0.296,Positive,0.0999999999999999,Positive,-0.3263649940490722,Negative
 I want this on Spotify,0.0772,Positive,0.0,Neutral,0.4960984587669372,Positive
 Wow this shit id kickin,0.0516,Positive,-0.05,Negative,0.7009056806564331,Positive
 "Idiots, being fat and drinking two beers make you very macho ?",0.0,Neutral,-0.3,Negative,-0.5758513808250427,Negative
 "NEW BEATS
 
-https://youtu.be/9EmrqZQ_VYk",0.0,Neutral,0.1363636363636363,Neutral,0.4684384763240814,Positive
+https://youtu.be/9EmrqZQ_VYk",0.0,Neutral,0.1363636363636363,Positive,0.4684384763240814,Positive
 "Merk, isn't mch famous in India but, I'm huge fan of his!!!! 
 
 🤩🤗🤩🤩",0.8949,Positive,0.73828125,Positive,0.4497507512569427,Positive
@@ -188,19 +188,19 @@ Wow. Legitimate skills. Impressive and funny at the same time.,0.875,Positive,0.
 Alice in chains with lryics,0.0,Neutral,0.0,Neutral,0.4252900779247284,Positive
 2021! Yea,0.0,Neutral,0.0,Neutral,0.3152469992637634,Neutral
 Jorden prince,0.0,Neutral,0.0,Neutral,0.3234053254127502,Neutral
-Right,0.0,Neutral,0.2857142857142857,Neutral,0.4051271378993988,Positive
+Right,0.0,Neutral,0.2857142857142857,Positive,0.4051271378993988,Positive
 Wow thats faaaaaasst?!!!!!!!!,0.7156,Positive,0.5960464477539062,Positive,-0.4988457560539245,Negative
 This is fire i came from tiktok never heard full song 🔥,-0.5859,Negative,0.35,Positive,-0.4990644752979278,Negative
 Love all your songs,0.6369,Positive,0.5,Positive,0.8322118520736694,Positive
 "He’s lyrically gifted, why isn’t he on the radios?",0.0,Neutral,0.5,Positive,0.3466769456863403,Positive
 Hell to the YEEEEE HAAAAAW I'm a WV resident let's goooooo f the Gov we determine our lives,-0.6808,Negative,0.0,Neutral,0.3765581250190735,Positive
 392 swap that 5.0!!!,0.0,Neutral,0.0,Neutral,-0.8661300539970398,Negative
-how does he say he grew up In the south but he in canada you cant live really anywhere else but the south of canada,0.0,Neutral,0.1681818181818181,Neutral,-0.2896539568901062,Negative
+how does he say he grew up In the south but he in canada you cant live really anywhere else but the south of canada,0.0,Neutral,0.1681818181818181,Positive,-0.2896539568901062,Negative
 Dude please do a song with jelly roll,0.3182,Positive,0.0,Neutral,-0.3319852650165558,Negative
 All you haters..with your thumbs down 👎.. don't have the courage to post a video..give MERKULES credit..geesh,-0.3875,Negative,-0.1555555555555555,Negative,-0.8451853394508362,Negative
 Can you add this to Apple Music please call,0.3182,Positive,0.0,Neutral,0.2689448297023773,Neutral
 "Love you brother , roll out!",0.6696,Positive,0.625,Positive,0.8689940571784973,Positive
-Sicuramente non so che dire pk sei così bravo che quello che volevo dire l’hai spendo di brutto,0.4663,Positive,0.1642857142857142,Neutral,-0.2668596804141998,Negative
+Sicuramente non so che dire pk sei così bravo che quello che volevo dire l’hai spendo di brutto,0.4663,Positive,0.1642857142857142,Positive,-0.2668596804141998,Negative
 Fukin up g,0.0,Neutral,0.0,Neutral,0.2220349460840225,Neutral
 Kk g,0.0,Neutral,0.0,Neutral,0.2484155595302581,Neutral
 How come I can’t find this song on iTunes?   What are the key words?,0.0,Neutral,0.0,Neutral,-0.5293154120445251,Negative
@@ -213,12 +213,12 @@ Iight merk killem,0.0,Neutral,0.0,Neutral,-0.5071507692337036,Negative
 Who's still here?,0.0,Neutral,0.0,Neutral,-0.2264904677867889,Negative
 "22,000 People forgot to turn the audio on",0.0,Neutral,0.0,Neutral,-0.5573073625564575,Negative
 This is awesome 🤣🤣🤣🤣🤣,0.9643,Positive,1.0,Positive,0.8626915216445923,Positive
-"This should have been labelled ""Murica-les old town road""",0.0,Neutral,0.1,Neutral,-0.293016254901886,Negative
+"This should have been labelled ""Murica-les old town road""",0.0,Neutral,0.1,Positive,-0.293016254901886,Negative
 I'm still impressed with how he opened that Budweiser,0.4767,Positive,1.0,Positive,0.5185583829879761,Positive
-i made a remix old town pole,0.0,Neutral,0.1,Neutral,0.3302112817764282,Positive
+i made a remix old town pole,0.0,Neutral,0.1,Positive,0.3302112817764282,Positive
 Still love dude,0.6369,Positive,0.5,Positive,0.6117196679115295,Positive
 Sponsored by Budweiser,0.0,Neutral,0.0,Neutral,0.3165319561958313,Neutral
-I live his music but when I ask my dad to turn it in he said I don't like white rappers,-0.395,Negative,0.0681818181818181,Neutral,0.3280593454837799,Neutral
+I live his music but when I ask my dad to turn it in he said I don't like white rappers,-0.395,Negative,0.0681818181818181,Positive,0.3280593454837799,Neutral
 Once a day song.,0.0,Neutral,0.0,Neutral,0.431898832321167,Positive
 Love you merk,0.6369,Positive,0.5,Positive,0.76726233959198,Positive
 I still haven't heard the original song. this is all I know & all I need!,-0.308,Negative,0.46875,Positive,0.8533605933189392,Positive
@@ -248,26 +248,26 @@ Saw a reflection in the mirror and I thought oh my-my
 I said, ""Ooh pretty girl you make me feel alright!""",-0.4505,Negative,-0.028858024691358,Negative,-0.3731464743614197,Negative
 He so good,0.4927,Positive,0.7,Positive,0.5815098881721497,Positive
 Sellout.,0.0,Neutral,0.0,Neutral,0.2350376844406128,Neutral
-Hell yeah! Cowboy up !! New fan!,-0.5053,Negative,0.1704545454545454,Neutral,0.8090360164642334,Positive
+Hell yeah! Cowboy up !! New fan!,-0.5053,Negative,0.1704545454545454,Positive,0.8090360164642334,Positive
 this is more fire then your mum,-0.4005,Negative,0.5,Positive,0.3322339951992035,Positive
 Jim like,0.3612,Positive,0.0,Neutral,0.356324166059494,Positive
 They still love Migos  hahhaha,0.6369,Positive,0.5,Positive,0.5370802283287048,Positive
 Lmao 🤣 I love bro. He 2nice with that flow.......🖤💙🖤💙🖤💙,0.9902,Positive,0.55,Positive,0.7217938303947449,Positive
 "Put it in speed 1,25 🔥",-0.34,Negative,0.0,Neutral,0.5534303784370422,Positive
 🍏❗,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-The first 2 lines sound exactly like a song I can’t think the name of. Help,0.6369,Positive,0.3,Neutral,-0.3975224494934082,Negative
+The first 2 lines sound exactly like a song I can’t think the name of. Help,0.6369,Positive,0.3,Positive,-0.3975224494934082,Negative
 I'm going to hunt some moose on the meander River,0.0,Neutral,0.0,Neutral,0.3090605735778808,Neutral
-I remember the first time I heard this guy it walk by a weed shop and the where playing this song,0.2023,Positive,0.25,Neutral,0.3687348961830139,Positive
+I remember the first time I heard this guy it walk by a weed shop and the where playing this song,0.2023,Positive,0.25,Positive,0.3687348961830139,Positive
 IN LOVE!!!!!♡♡♡,0.0,Neutral,0.0,Neutral,0.8521550893783569,Positive
 😭😭😭😭😭😭😭🤬🤬🤬🤬🤬🤬 Do not like it you should get rid of it,-0.9713,Negative,0.0,Neutral,-0.612097442150116,Negative
 Your going to have mad chipped teeth biting bottle caps off,-0.4939,Negative,-0.625,Negative,-0.62962806224823,Negative
-First time someone has looked like an infant and a 45 year old,0.3612,Positive,0.175,Neutral,-0.426222562789917,Negative
+First time someone has looked like an infant and a 45 year old,0.3612,Positive,0.175,Positive,-0.426222562789917,Negative
 makes me want to visit Canada,0.0772,Positive,0.0,Neutral,0.3942025303840637,Positive
 Keep on going with ur songs merkules never give up u gave me confidence in rapping again please don't give up keep writing 😃,0.7964,Positive,0.0,Neutral,0.3201749622821808,Neutral
 Wtf im in my jeep slammmmmmmmmmmming this shtttttttttttttttt,-0.5859,Negative,-0.5,Negative,-0.4231120347976684,Negative
 Merk always saving these beats. I started listening to him after he killed the betrayed beat,-0.8591,Negative,-0.2,Negative,0.7207111716270447,Positive
 Same here big fan,0.3182,Positive,0.0,Neutral,0.2586742341518402,Neutral
-Had to visit this track again  and blast it. After 2 years it's Just like hearing it for the first time dude!🔥🎤🎧,0.1007,Positive,0.25,Neutral,-0.2638150751590729,Negative
+Had to visit this track again  and blast it. After 2 years it's Just like hearing it for the first time dude!🔥🎤🎧,0.1007,Positive,0.25,Positive,-0.2638150751590729,Negative
 🔥🔥🔥🔥🤙,-0.6597,Negative,0.0,Neutral,0.3085779249668121,Neutral
 905 baby!!!!,0.0,Neutral,0.0,Neutral,0.3135230541229248,Neutral
 Where are the bodies Garth! I bet he can tell us in 4 stokes.,0.0,Neutral,0.0,Neutral,0.2711342275142669,Neutral
@@ -281,12 +281,12 @@ Messed how you have more hits than  pac. He was the best!!!,0.5684,Positive,0.75
 "Tell them all 4 me bro better cash me out now. Or somebody gonna pay 4 real. Fucking love ur shit bro. Serious real to real. 🤘🔥💯 they be a fukin monster to if they lived my life u want truth 💯 to tell my truth . yeah im fukin twisted, so what !!!!! If they lived my life them pussy fuks would've suked on a Barrel",0.827,Positive,-0.0388888888888888,Negative,-0.768334686756134,Negative
 Tell me one thing bro?  Y is everyone calling my baby girl Priscilla😂😂😂😹😂  🤘🔥,0.9022,Positive,0.0,Neutral,-0.5670914053916931,Negative
 Look dude i will turn into s rat if u don't stop popping tops with ur teeth 😂😂😂😂😂😂😂,0.9551,Positive,0.0,Neutral,-0.2180603742599487,Negative
-When are you coming to newzealand??,0.0,Neutral,0.1363636363636363,Neutral,-0.3519121408462524,Negative
+When are you coming to newzealand??,0.0,Neutral,0.1363636363636363,Positive,-0.3519121408462524,Negative
 Flannel undies like a baws. lmfao,0.7184,Positive,0.0,Neutral,-0.4128701686859131,Negative
 Dope this is awesome 👌,0.8816,Positive,1.0,Positive,0.7208651304244995,Positive
 love the beat and lyrics,0.6369,Positive,0.5,Positive,0.6506117582321167,Positive
 "I just bought that same sliding door handle from Rona, $79.99 Nice look Merk!",0.4753,Positive,0.375,Positive,0.5434884428977966,Positive
-Fck! This dude is scary good!,-0.2225,Negative,0.1875,Neutral,0.6125144362449646,Positive
+Fck! This dude is scary good!,-0.2225,Negative,0.1875,Positive,0.6125144362449646,Positive
 Welcome to canada eh. stop by and we treat you good lol.,0.8481,Positive,0.7666666666666666,Positive,0.5045454502105713,Positive
 Merk. Turning turds into masterpieces. Midas touch for sure.,0.7003,Positive,0.5,Positive,0.6887452006340027,Positive
 Over 2 years and still jamming to this!!!,0.0,Neutral,0.0,Neutral,-0.4859394133090973,Negative
@@ -296,12 +296,12 @@ https://youtu.be/ePwhE_n9fY0,0.0,Neutral,0.0,Neutral,-0.2388856410980224,Negativ
 If only this song was longer but still 🔥👏,-0.4767,Negative,0.0,Neutral,0.4095323979854584,Positive
 DUDE! His RAPPING is like on the same level as Eminim’s.,0.4199,Positive,0.0,Neutral,0.3056575953960418,Neutral
 So lol I have my earbuds in and jt makes the song way better because the beat literally drops,0.7178,Positive,0.65,Positive,0.4380353391170501,Positive
-Real,0.0,Neutral,0.2,Neutral,0.5187997221946716,Positive
+Real,0.0,Neutral,0.2,Positive,0.5187997221946716,Positive
 "🤯w...t...f... started off thinking this dudes voice giving me jelly roll vibes,he takes a small breath n DAAAAAAAAMN goes hard nicely💯👏👏👏",0.5994,Positive,-0.2708333333333333,Negative,-0.3910582363605499,Negative
 His rhymes makes me come back every Sunday 🤣,0.4939,Positive,0.0,Neutral,0.6326741576194763,Positive
 Love this guy so much keep the good MC coming,0.7964,Positive,0.4666666666666666,Positive,0.8366230726242065,Positive
 🚮,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Straight Version,0.2263,Positive,0.2,Neutral,0.2769545018672943,Neutral
+Straight Version,0.2263,Positive,0.2,Positive,0.2769545018672943,Neutral
 Muy buena :0,0.4927,Positive,0.91,Positive,0.5000038743019104,Positive
 🔥🤘🏼,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Still great to this day,0.6249,Positive,0.8,Positive,0.6228512525558472,Positive
@@ -316,7 +316,7 @@ He was feeling himself when he made this one...,0.128,Positive,0.0,Neutral,0.234
 Who's still listening to in 2021,0.0,Neutral,0.0,Neutral,0.4331957995891571,Positive
 Missed your mouth just a little at 2:18,-0.296,Negative,-0.1875,Negative,-0.4706438779830932,Negative
 "Upchurch old town road
-Upchurch old town road ""weed version""",0.0,Neutral,0.1,Neutral,0.2942139208316803,Neutral
+Upchurch old town road ""weed version""",0.0,Neutral,0.1,Positive,0.2942139208316803,Neutral
 Good shit but Which part of the south has moose ? Lol,0.5187,Positive,0.4333333333333333,Positive,0.4028368890285492,Positive
 lets get to that 50 million views Merkules you ROCK !,0.0,Neutral,0.0,Neutral,0.4434582889080047,Positive
 That flow is on point dam way better than the original version 👌👍,0.8842,Positive,0.4375,Positive,0.4714303910732269,Positive
@@ -325,27 +325,27 @@ Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 lol Merk and his liq during a studio sesh!,0.4753,Positive,1.0,Positive,0.461248368024826,Positive
 So fucking high! Love !,0.745,Positive,0.4125,Positive,0.927638292312622,Positive
 Sick as fuck yes merk,-0.6249,Negative,-0.5571428571428572,Negative,-0.8271271586418152,Negative
-And now this dude going sober he gone be an inspiration to everyone ahaha respect dude,0.7579,Positive,0.1,Neutral,0.7060944437980652,Positive
+And now this dude going sober he gone be an inspiration to everyone ahaha respect dude,0.7579,Positive,0.1,Positive,0.7060944437980652,Positive
 Woo hoo!! 🔥🔥🔥,-0.5696,Negative,0.0,Neutral,0.2963987588882446,Neutral
 Bro I forgot how hard this song slaps on my amps,-0.1027,Negative,-0.2916666666666667,Negative,-0.3443736732006073,Negative
-Love that head movement bro keep that shit up 😂😂,0.7506,Positive,0.15,Neutral,0.6942667961120605,Positive
+Love that head movement bro keep that shit up 😂😂,0.7506,Positive,0.15,Positive,0.6942667961120605,Positive
 Was listening to this about to light my blunt couldn’t find my lighter so I held my speakers up to the thing and what do ya know. The bars so fire it lit my blunt,-0.4795,Negative,0.4,Positive,-0.3462918996810913,Negative
 My moms friend listen to this song. I like the punk. Her friend call me punk because it makes me feel like he likes me,0.9217,Positive,0.0,Neutral,0.4042188823223114,Positive
-This is my country lesbian theme song ;),0.2263,Positive,0.25,Neutral,0.5660398602485657,Positive
+This is my country lesbian theme song ;),0.2263,Positive,0.25,Positive,0.5660398602485657,Positive
 Never usually leave a comment but bro seriously expressed with this. Mad props with your lyrical epicness. straight up new fan bro keep it real!,-0.4754,Negative,-0.0411616161616161,Negative,0.6351507902145386,Positive
 Damn he's a fuckin good rapper,0.1263,Positive,0.7,Positive,-0.3348988592624664,Negative
 This on Spotify anywhere?,0.0,Neutral,0.0,Neutral,-0.5284623503684998,Negative
 I love this song ❣️🤩 so so so so so much,0.8555,Positive,0.35,Positive,0.8559167385101318,Positive
 Is he riding his horse or driving with his horse by his side?,0.0,Neutral,0.0,Neutral,0.3096042275428772,Neutral
-I’m literally playin rec room with him right now,0.2023,Positive,0.2857142857142857,Neutral,0.451006531715393,Positive
+I’m literally playin rec room with him right now,0.2023,Positive,0.2857142857142857,Positive,0.451006531715393,Positive
 nice song man,0.4215,Positive,0.6,Positive,0.4383492469787597,Positive
-"This was 2 year's ago, golly doesn't time go fast",0.0,Neutral,0.2,Neutral,-0.3730688095092773,Negative
+"This was 2 year's ago, golly doesn't time go fast",0.0,Neutral,0.2,Positive,-0.3730688095092773,Negative
 Nice going man better than Billy Ray Cyrus,0.6908,Positive,0.55,Positive,0.4679596424102783,Positive
 https://www.youtube.com/watch?v=QohSEcHmJ3w,0.0,Neutral,0.0,Neutral,0.3039523959159851,Neutral
 🙏amen,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Epic,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
-Alright.  Well have fun with that then.  Much appreciated.,0.8658,Positive,0.25,Neutral,0.5465292930603027,Positive
-Love it only just found him,0.6369,Positive,0.25,Neutral,0.7371795177459717,Positive
+Epic,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
+Alright.  Well have fun with that then.  Much appreciated.,0.8658,Positive,0.25,Positive,0.5465292930603027,Positive
+Love it only just found him,0.6369,Positive,0.25,Positive,0.7371795177459717,Positive
 "I got Hannah Montana at my ranch gettin hammered, hahaha best line",0.8316,Positive,0.6,Positive,0.6872876286506653,Positive
 Quality cover again man!,0.0,Neutral,0.0,Neutral,0.7862392067909241,Positive
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
@@ -359,12 +359,12 @@ For me he has the best covers right now but never mind maybe you wpuld say no,-0
 all good until that lil naz x goof,0.4404,Positive,0.7,Positive,-0.2432750165462494,Negative
 "I love fast rap like this, can anyone recommend more for me? Thanks",0.9074,Positive,0.35,Positive,0.8306702375411987,Positive
 U should do sum hic hop 🤣 colab with big smo or demun jones ud kill the country scene,-0.3612,Negative,0.0,Neutral,-0.3820590078830719,Negative
-Why all white rappers rap fast?,0.0,Neutral,0.1,Neutral,0.2175387889146804,Neutral
+Why all white rappers rap fast?,0.0,Neutral,0.1,Positive,0.2175387889146804,Neutral
 Hick hop created by Tow Down- Country Rap Tunes,0.25,Positive,-0.1555555555555555,Negative,0.3180804848670959,Neutral
 Hell yeah 😜😜,-0.5267,Negative,0.0,Neutral,0.4095222055912018,Positive
 Switch to Bud Light bruh,0.0,Neutral,0.4,Positive,-0.3123427629470825,Negative
 The ending is awesome,0.6249,Positive,1.0,Positive,0.5702276229858398,Positive
-I loved this damn remix. Only thing for me would be a slowed down version to sing along too lmao!,0.7155,Positive,0.323611111111111,Neutral,0.517306387424469,Positive
+I loved this damn remix. Only thing for me would be a slowed down version to sing along too lmao!,0.7155,Positive,0.323611111111111,Positive,0.517306387424469,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 0:21,0.0,Neutral,0.0,Neutral,-0.4617278575897217,Negative
 2021 still gettin it,0.0,Neutral,0.0,Neutral,0.4525384902954101,Positive
@@ -382,20 +382,20 @@ I've always hated this song but merk just made this shit so much better,-0.6378,
 This sum bitch spittin,-0.5859,Negative,0.0,Neutral,-0.8748672604560852,Negative
 🔥🔥🔥🔥🔥🌋🌋🌋great remix I digg this version more respect...,-0.7655,Negative,0.5,Positive,0.3798502385616302,Positive
 the 21k dislikes just tryna say this shit is 87.5% gold 🤷‍♂️,-0.7876,Negative,-0.2,Negative,-0.724674642086029,Negative
-I can't get enough of this song. Thanks Merk!,0.4926,Positive,0.125,Neutral,-0.5443024039268494,Negative
+I can't get enough of this song. Thanks Merk!,0.4926,Positive,0.125,Positive,-0.5443024039268494,Negative
 YES SIR!!!! FLOWS SOOO COLD 🥶❄️ EVEN THE YETI AKA THE (ABOMINABLE SNOWMAN) WOULD BE CATCHING A COLD!!!!... KEEP IT REAL GRMY AND GUTTER... 💯 MAD!!!.... STOMP DOWN KILLERS!!!...LETS GET IT!!!🌎..COUNTRY LIFE REPRESENT!!!! CANADIAN COWBOY 🤠...OR CANADIAN HITMAN....YOUR ARE SO DOPE YOUR LYRICS GOT ME ADDICTED...YOU ARE DOPER THAN FETANAL!!!!....KEEP MERKING 'EM MERKULES.... GOD BLESS YOU BROTHER!!!!,0.7926,Positive,-0.4545305605287905,Negative,0.4646981954574585,Positive
 Warm beer fk sake,0.2263,Positive,0.6,Positive,0.4257761240005493,Positive
 🤟🏻🤟🏿🤟🏽👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Hey Pretty Girl.,0.4939,Positive,0.25,Neutral,0.4530721306800842,Positive
+Hey Pretty Girl.,0.4939,Positive,0.25,Positive,0.4530721306800842,Positive
 He's going to need a dentist soon😳 I used to know a girl who would open bottles with here teeth. She had mad tooth aches,-0.6369,Negative,-0.3125,Negative,-0.2818878591060638,Negative
 Why the stab at billy ray tho,-0.5859,Negative,0.0,Neutral,-0.4432650804519653,Negative
 Love your mixes by the way yo!!!!!!,0.7482,Positive,1.0,Positive,0.8758648633956909,Positive
 What is your “go to brew “ merk?,0.0,Neutral,0.0,Neutral,-0.2930985987186432,Negative
 Budweiser is king in the south bro,0.0,Neutral,0.0,Neutral,0.4011466205120086,Positive
 Raised in the south huh? Canadian south?,0.0,Neutral,0.0,Neutral,-0.3234001398086548,Negative
-this is hot trash lololol,0.0,Neutral,0.25,Neutral,-0.8568889498710632,Negative
+this is hot trash lololol,0.0,Neutral,0.25,Positive,-0.8568889498710632,Negative
 That a boy this Man is the Man  💯🇨🇦✊,0.0,Neutral,0.0,Neutral,0.6401124000549316,Positive
-Beat it bro really. Rep the budwiser. One day I'll be stoked to meet you,0.0,Neutral,0.2,Neutral,-0.449149340391159,Negative
+Beat it bro really. Rep the budwiser. One day I'll be stoked to meet you,0.0,Neutral,0.2,Positive,-0.449149340391159,Negative
 I like this fat guy songs. keep it up my friend including that 9 months...,0.6908,Positive,0.0,Neutral,0.6346777677536011,Positive
 Buddy you are a LEGEND,0.0,Neutral,0.0,Neutral,0.6924909353256226,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
@@ -416,10 +416,10 @@ hi there",-0.34,Negative,-0.5,Negative,-0.6216338276863098,Negative
 :)",0.872,Positive,0.6333333333333333,Positive,0.6078993082046509,Positive
 Wow you're awesome!,0.8478,Positive,0.55,Positive,0.9500009417533876,Positive
 "Guy, this is sick",-0.5106,Negative,-0.7142857142857143,Negative,-0.5729957222938538,Negative
-Yea the real thing . Up up up,0.0,Neutral,0.2,Neutral,0.4420192539691925,Positive
+Yea the real thing . Up up up,0.0,Neutral,0.2,Positive,0.4420192539691925,Positive
 Ooooooh I see u Merk spitting bars,0.0,Neutral,0.0,Neutral,-0.5007457137107849,Negative
 AMAZING,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
-You're not the real Garth Brooks 😂😂😂 1:33,0.8271,Positive,0.2,Neutral,-0.3002457916736603,Negative
+You're not the real Garth Brooks 😂😂😂 1:33,0.8271,Positive,0.2,Positive,-0.3002457916736603,Negative
 I see you Merk👀,0.0,Neutral,0.0,Neutral,0.556329071521759,Positive
 DAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNGGGGGGGGGGGGGGGGGGGGGGGGGGGGG sick,-0.5106,Negative,-0.7142857142857143,Negative,-0.438151478767395,Negative
 He Kills it!!!!! Roll on Dude!!!!,-0.6876,Negative,0.0,Neutral,-0.7837396264076233,Negative
@@ -427,7 +427,7 @@ I love listening to this song it makes me feel wants to dance iyq making videos 
 Legend,0.0,Neutral,0.0,Neutral,0.432450532913208,Positive
 Can I get this on I tunes?,0.0,Neutral,0.0,Neutral,0.2521993815898895,Neutral
 1:38 😌🔥,0.0516,Positive,0.0,Neutral,-0.258402943611145,Negative
-Absolute 🔥🔥🔥🔥🔥🔥,-0.9081,Negative,0.2,Neutral,0.8246796131134033,Positive
+Absolute 🔥🔥🔥🔥🔥🔥,-0.9081,Negative,0.2,Positive,0.8246796131134033,Positive
 Merkules is a good man ❤,0.7964,Positive,0.7,Positive,0.4534913301467895,Positive
 "MERKCULES IF ITS REALLY UR CHANNEL, U WANT A GIRL SINGER HIT ME UP 5707092738 FROM ATOWN PA I GOTZ IT N LOVE YA",0.7885,Positive,0.35,Positive,-0.391601413488388,Negative
 screw top.      love you though XD,0.8788,Positive,0.5,Positive,0.6318942904472351,Positive
@@ -438,10 +438,10 @@ You are a god of rap,0.2732,Positive,0.0,Neutral,0.5752692222595215,Positive
 Need these on Spotify Bro....,0.0,Neutral,0.0,Neutral,-0.262574702501297,Negative
 Can I actually purchase this song? It sounds amazing in the studio and love it.,0.8402,Positive,0.3666666666666667,Positive,0.8633193373680115,Positive
 good times thanx,0.4404,Positive,0.7,Positive,0.3868896663188934,Positive
-Guy ripped that hook off run wild Thutmouse,0.0,Neutral,0.1,Neutral,-0.6303842067718506,Negative
+Guy ripped that hook off run wild Thutmouse,0.0,Neutral,0.1,Positive,-0.6303842067718506,Negative
 Wow! Incredible!,0.658,Positive,0.5625,Positive,0.9524011015892028,Positive
-Can't believe i ignored this so long. Good shit.,0.0712,Positive,0.1499999999999999,Neutral,-0.2916342914104461,Negative
-This song and “Clover Cage - Ride or Die” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕💞,0.959,Positive,0.1527777777777778,Neutral,0.8229544162750244,Positive
+Can't believe i ignored this so long. Good shit.,0.0712,Positive,0.1499999999999999,Positive,-0.2916342914104461,Negative
+This song and “Clover Cage - Ride or Die” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...💕💞,0.959,Positive,0.1527777777777778,Positive,0.8229544162750244,Positive
 Dear Lil Nas X and Billy Ray...please get Effed...That is all.,0.3818,Positive,0.0,Neutral,-0.3647975325584411,Negative
 I love how you dressed for the occasion! I've told my man to get a cowboy hat 😍,0.8172,Positive,0.625,Positive,0.7935831546783447,Positive
 I'm actually disappointed with how many dislikes this has....... must be a bunch of robots 🤷‍♀️,-0.7003,Negative,-0.125,Negative,-0.5143104195594788,Negative
@@ -452,7 +452,7 @@ Well this is gay...,0.2732,Positive,0.4166666666666667,Positive,0.34024804830551
 he'll ya small town iowa,0.0,Neutral,-0.25,Negative,0.307530790567398,Neutral
 That shit bangin like tannerite,-0.2732,Negative,-0.2,Negative,-0.562670111656189,Negative
 Latinos for Trump !!!!!! 🇺🇸🇲🇽,0.0,Neutral,0.0,Neutral,-0.2619019746780395,Negative
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 This is about as good as country rap gets. Let's stop here.,0.1779,Positive,0.7,Positive,0.4033306241035461,Positive
 Yeeee,0.0,Neutral,0.0,Neutral,0.2916934788227081,Neutral
 well played. 2021. this just popped up.,0.5423,Positive,0.0,Neutral,0.2948241531848907,Neutral
@@ -534,7 +534,7 @@ Cigarette butts and moonshine
 I'm goin' redneck tonight
 I got my horse by my side
 Full tank of gas in my ride
-Yeah!",-0.7857,Negative,0.0667589355089355,Neutral,-0.5410952568054199,Negative
+Yeah!",-0.7857,Negative,0.0667589355089355,Positive,-0.5410952568054199,Negative
 Sick as fk bruv,-0.5106,Negative,-0.7142857142857143,Negative,-0.4726529717445373,Negative
 Isn’t Budweiser a twist off?,0.0,Neutral,0.0,Neutral,-0.307316243648529,Negative
 "I'm a time traveller, no-one believes me",0.0,Neutral,0.0,Neutral,-0.3794931471347809,Negative
@@ -548,12 +548,12 @@ Is this not on itunes?,0.0,Neutral,0.0,Neutral,-0.5748322606086731,Negative
 Dude lives up to his name. Murdered this,-0.6597,Negative,0.0,Neutral,-0.7351213693618774,Negative
 We need an 8d sound version of this songgggg,0.5994,Positive,0.4,Positive,0.2171063721179962,Neutral
 Is this on iTunes,0.0,Neutral,0.0,Neutral,0.3164997398853302,Neutral
-some American : bro Canada is so soft. American 2 :ikr. Canadians :,0.0,Neutral,0.0333333333333333,Neutral,-0.3696300089359283,Negative
+some American : bro Canada is so soft. American 2 :ikr. Canadians :,0.0,Neutral,0.0333333333333333,Positive,-0.3696300089359283,Negative
 what a boss,0.0,Neutral,0.0,Neutral,0.6582558155059814,Positive
 I'm so glad my friend introduced me to this guy,0.7755,Positive,0.5,Positive,0.7770251631736755,Positive
 this song is fire,-0.34,Negative,0.0,Neutral,0.488793134689331,Positive
 You makes me crazy I like you're songs,0.0258,Neutral,-0.6,Negative,0.5874701738357544,Positive
-Good shit murck...but I bet u hurt your tooth poping  the twist off bro..im just saying😂😂😂,0.5574,Positive,0.2499999999999999,Neutral,0.3669700920581817,Positive
+Good shit murck...but I bet u hurt your tooth poping  the twist off bro..im just saying😂😂😂,0.5574,Positive,0.2499999999999999,Positive,0.3669700920581817,Positive
 That face he makes when biting off them bottle caps is my spirit animal,0.1779,Positive,0.0,Neutral,0.4977279901504516,Positive
 💥💥💥💥💥💥💥💥💥💯💯💯💯,-0.9612,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Oooooooowwwwwweeeeee!!!!,0.0,Neutral,0.0,Neutral,-0.4090630710124969,Negative
@@ -561,7 +561,7 @@ WoW :D,0.8331,Positive,0.55,Positive,0.6018091440200806,Positive
 I love this song🖤🖤🖤🖤,0.9719,Positive,0.5,Positive,0.900801718235016,Positive
 Hey All from denmark... King cas 🍺👍🇩🇰 make a drop with tom macdonald 👍,-0.2732,Negative,0.0,Neutral,0.3368464112281799,Positive
 atleast 10m views is from me,0.0,Neutral,0.0,Neutral,0.3451994061470032,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 😂,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 G'day from Australia bro. Played this to my kangaroo. He is a velociraptor now,0.34,Positive,0.0,Neutral,0.5068912506103516,Positive
 Even being Canadian ur more accurate than the city boys thinkin what country is 😂 good job mate 👍,0.7003,Positive,0.5333333333333333,Positive,0.4486498832702636,Positive
@@ -579,7 +579,7 @@ The mans cold blooded,0.0,Neutral,-0.6,Negative,-0.3296190798282623,Negative
 Man ur good,0.4404,Positive,0.7,Positive,0.3507254123687744,Positive
 2021...,0.0,Neutral,0.0,Neutral,-0.274324893951416,Negative
 Do a collab with Upchurch!!!!!!,0.0,Neutral,0.0,Neutral,-0.2532851696014404,Negative
-Opens twist cap beers with his teeth... Do not mess with this man 😭,-0.2477,Negative,0.0875,Neutral,0.3851390182971954,Positive
+Opens twist cap beers with his teeth... Do not mess with this man 😭,-0.2477,Negative,0.0875,Positive,0.3851390182971954,Positive
 0:30 got me,0.0,Neutral,0.0,Neutral,-0.424793541431427,Negative
 Get it MERKULES!!!!!,0.0,Neutral,0.0,Neutral,-0.4532158672809601,Negative
 "[Chorus]
@@ -644,37 +644,37 @@ Cigarette butts and moonshine
 I'm goin' redneck tonight
 I got my horse by my side
 Full tank of gas in my ride
-Yeah!",-0.7857,Negative,0.0667589355089355,Neutral,-0.4410861432552337,Negative
+Yeah!",-0.7857,Negative,0.0667589355089355,Positive,-0.4410861432552337,Negative
 "shoed this to my controller, now its a pc",0.0,Neutral,0.0,Neutral,0.5152786374092102,Positive
-"I remember when Merk first started coming up with SDK (stompdown killaz) years and years ago, he's come a long fuckin way thats for sure, time flys man.",0.3182,Positive,0.2333333333333333,Neutral,0.3398175537586212,Positive
+"I remember when Merk first started coming up with SDK (stompdown killaz) years and years ago, he's come a long fuckin way thats for sure, time flys man.",0.3182,Positive,0.2333333333333333,Positive,0.3398175537586212,Positive
 That first 12 seconds is SOOO EPIC. I replayed it like 12 times lol,0.6486,Positive,0.3833333333333333,Positive,0.3765192627906799,Positive
-why would you bite the cap off twist top bottles? seems low IQ to me.,-0.0772,Negative,0.25,Neutral,-0.4382111728191376,Negative
+why would you bite the cap off twist top bottles? seems low IQ to me.,-0.0772,Negative,0.25,Positive,-0.4382111728191376,Negative
 “like a steakhouse i’m outback” 😂,0.4404,Positive,0.0,Neutral,0.3094369173049927,Neutral
 Hell yeah double buds to the dome!,-0.5707,Negative,0.0,Neutral,0.4500989615917206,Positive
 Love this song but there's no moose down here lol,0.5423,Positive,0.3814814814814815,Positive,0.3735655546188354,Positive
-Bro stop g!!! Your music is straight fire🔥🔥🔥,-0.8682,Negative,0.2,Neutral,-0.5086912512779236,Negative
+Bro stop g!!! Your music is straight fire🔥🔥🔥,-0.8682,Negative,0.2,Positive,-0.5086912512779236,Negative
 I’ve personally actually really really hate it but I mean the song it’s self is OK but in my personal opinion I don’t like it😒,0.6719,Positive,-0.153125,Negative,-0.4618465304374695,Negative
 Wahony,-0.5423,Negative,0.0,Neutral,-0.2958448529243469,Negative
 A Hero To Canadians. Mad reppi. Bro if u need some serious backup hit me up im bored as fuck and would love to. Be that mean entourage haha,0.4019,Positive,-0.2101190476190476,Negative,0.3924476504325866,Positive
 He is so unrated,0.0,Neutral,0.0,Neutral,-0.6601936221122742,Negative
 I love your rhymes bro,0.6369,Positive,0.5,Positive,0.6937833428382874,Positive
-Not gonna lie as somebody from the South I always laugh when he says eating moose meat and catfish as we don't have moose down here.,0.5574,Positive,0.0722222222222222,Neutral,-0.3668920695781708,Negative
+Not gonna lie as somebody from the South I always laugh when he says eating moose meat and catfish as we don't have moose down here.,0.5574,Positive,0.0722222222222222,Positive,-0.3668920695781708,Negative
 Twist off 🤔,0.0,Neutral,0.0,Neutral,-0.4737137854099273,Negative
 Fuckin love that “Yeyah “ at end,0.6697,Positive,0.5,Positive,0.6431918144226074,Positive
 Dope Voice With  no  Autotune,-0.296,Negative,0.0,Neutral,-0.2851778864860534,Negative
 YO YOU KILLIN IT. ITS LIT.,0.0,Neutral,0.0,Neutral,0.3102622628211975,Neutral
 Post this on Apple Music please lol,0.6249,Positive,0.8,Positive,0.2574560046195984,Neutral
-"lil nas x needs to revisit this- grow some balls and get back to tha real shit, not that satanic leading kids to death shit! Go Merkules, love that bone tracl!",-0.8168,Negative,0.0187499999999999,Neutral,-0.4823725819587707,Negative
-like how this song dont go old as fast of the actual song,0.3612,Positive,0.1,Neutral,0.2858582139015198,Neutral
+"lil nas x needs to revisit this- grow some balls and get back to tha real shit, not that satanic leading kids to death shit! Go Merkules, love that bone tracl!",-0.8168,Negative,0.0187499999999999,Positive,-0.4823725819587707,Negative
+like how this song dont go old as fast of the actual song,0.3612,Positive,0.1,Positive,0.2858582139015198,Neutral
 "So glad you did this beat right, Merk! Eff that lil nas x dude. You can see the bitch in that dudes eyes, like that dude would freeze the f-up if he ever went to county. Real talk.",0.358,Positive,0.3523809523809524,Positive,0.6315353512763977,Positive
 This is way better than the original all I’m saying,0.6369,Positive,0.4375,Positive,0.7103311419487,Positive
 Yeh,0.0,Neutral,0.0,Neutral,-0.2422061711549759,Negative
 Bro caught he off gard went ham on the beat,0.0,Neutral,0.0,Neutral,-0.6000956892967224,Negative
 Damn!,-0.4574,Negative,0.0,Neutral,-0.4338744580745697,Negative
 -i,0.0,Neutral,0.0,Neutral,0.2839342057704925,Neutral
-"I'm a 52 year old Applalachian who can twerk betta than most, never thought I'd hear somthing like this. Can't stop playing it. I feel vindicated.",0.6804,Positive,0.3,Neutral,-0.3747349977493286,Negative
+"I'm a 52 year old Applalachian who can twerk betta than most, never thought I'd hear somthing like this. Can't stop playing it. I feel vindicated.",0.6804,Positive,0.3,Positive,-0.3747349977493286,Negative
 I like the Remake man you did a good job I don't even lock them Old Town Road it's kind of not that good you done a good job wrapping at it and it actually seems like them out one of my favorite country rappers and don't want to see,0.8799,Positive,0.4714285714285714,Positive,0.4496602416038513,Positive
-"woah, crazy this was almost two years ago.. times been flyin man😢 i’m glad we have YT to flashback to what’s good",0.1027,Positive,0.1999999999999999,Neutral,0.3453041017055511,Positive
+"woah, crazy this was almost two years ago.. times been flyin man😢 i’m glad we have YT to flashback to what’s good",0.1027,Positive,0.1999999999999999,Positive,0.3453041017055511,Positive
 Thats good,0.4404,Positive,0.7,Positive,0.5440040230751038,Positive
 Holly shit wow,0.0516,Positive,-0.05,Negative,0.5258083343505859,Positive
 Love this wish it was longer😎😎😎,0.9423,Positive,0.5,Positive,0.8688441514968872,Positive
@@ -682,7 +682,7 @@ Love this wish it was longer😎😎😎,0.9423,Positive,0.5,Positive,0.86884415
 Dang me and my dad are in love with this song,0.6369,Positive,0.5,Positive,0.7082534432411194,Positive
 Better Belize it...Mad Me Say Respect,0.7184,Positive,0.5,Positive,0.25543874502182,Neutral
 "Moose meat and cabbage! 😂 Yis, B'Y!!😜",0.5826,Positive,0.0,Neutral,0.2799425423145294,Neutral
-I still think he is the fastest and most clear rapper besides (Eminem),0.4391,Positive,0.3,Neutral,0.6735683679580688,Positive
+I still think he is the fastest and most clear rapper besides (Eminem),0.4391,Positive,0.3,Positive,0.6735683679580688,Positive
 This is way better than the garbage all these lil whatever name so called rappers put out,0.4404,Positive,0.5,Positive,-0.918711245059967,Negative
 Still bumping this in 2021,0.0,Neutral,0.0,Neutral,0.303605705499649,Neutral
 What the fuck...,-0.5423,Negative,-0.4,Negative,-0.7418413758277893,Negative
@@ -694,7 +694,7 @@ God dame 0:32 is this fantastic start to the song,0.7469,Positive,0.4,Positive,0
 Who’s here watching in 2021🙂,0.4033,Positive,0.0,Neutral,0.4430821239948272,Positive
 تعتتتنن,-0.4939,Negative,-0.625,Negative,-0.2373274713754654,Negative
 2021 ?,0.0,Neutral,0.0,Neutral,-0.3669649362564087,Negative
-"Smokin ... you make them tunes sound even better, seriously man.",0.296,Positive,0.1888888888888888,Neutral,-0.418090671300888,Negative
+"Smokin ... you make them tunes sound even better, seriously man.",0.296,Positive,0.1888888888888888,Positive,-0.418090671300888,Negative
 Is he not signed?,0.0,Neutral,0.0,Neutral,-0.6756807565689087,Negative
 how does merc look more gangster in a in candian tux and cowboy hat..,0.0,Neutral,0.5,Positive,-0.2572038173675537,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
@@ -704,7 +704,7 @@ Best,0.6369,Positive,1.0,Positive,0.7400628328323364,Positive
 Now it's ""red""...",0.0,Neutral,0.0,Neutral,-0.290646880865097,Negative
 Can I get the lyrics pls,0.0772,Positive,0.0,Neutral,0.2571407556533813,Neutral
 To bad I can’t buy this song cuz it’s fuckin fire,-0.7346,Negative,-0.6999999999999998,Negative,-0.8689337372779846,Negative
-i wished there would be a little more fun dumb shit like this of merk. lately i can´t listen to him everyday anymore...the overall profile got a little too dark for my taste.  still love his music though !!!elf111,0.5736,Positive,0.0160511363636363,Neutral,0.526784360408783,Positive
+i wished there would be a little more fun dumb shit like this of merk. lately i can´t listen to him everyday anymore...the overall profile got a little too dark for my taste.  still love his music though !!!elf111,0.5736,Positive,0.0160511363636363,Positive,0.526784360408783,Positive
 O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
 He spiting facts bruh,0.0,Neutral,0.0,Neutral,-0.5498607158660889,Negative
 ngl this is fire,-0.34,Negative,0.0,Neutral,0.383023053407669,Positive
@@ -726,7 +726,7 @@ Still slaps,0.0,Neutral,0.0,Neutral,-0.3587982058525085,Negative
 "It’s to bad that you cannot purchase any of his remixes on
 iTunes........sure he’d make a fortune.",-0.5423,Negative,-0.6999999999999998,Negative,-0.3999606072902679,Negative
 Take the beer top with teeth umm yeah he is def not the one to be fucked up at all physically or lyrically💯💯💯,-0.34,Negative,-0.0333333333333333,Negative,-0.6739804744720459,Negative
-This never gets old!!,0.0,Neutral,0.15625,Neutral,0.3905584514141083,Positive
+This never gets old!!,0.0,Neutral,0.15625,Positive,0.3905584514141083,Positive
 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "[Chorus]
 I'm just tryna have a good time
@@ -790,7 +790,7 @@ Cigarette butts and moonshine
 I'm goin' redneck tonight
 I got my horse by my side
 Full tank of gas in my ride
-Yeah!",-0.7857,Negative,0.0667589355089355,Neutral,-0.4410861432552337,Negative
+Yeah!",-0.7857,Negative,0.0667589355089355,Positive,-0.4410861432552337,Negative
 Yo. Don't get breast implants homie.,0.0,Neutral,0.0,Neutral,-0.6623213887214661,Negative
 Merkules Killin It!!!!! Wooooo!!!! #Merkules,0.0,Neutral,0.0,Neutral,-0.7015201449394226,Negative
 this u dude lo,0.0,Neutral,0.0,Neutral,0.4424120783805847,Positive
@@ -915,19 +915,19 @@ DAMNNNN,0.0,Neutral,0.0,Neutral,-0.2744582295417785,Negative
 This dude is legit my favorite I have this on my speaker at school 24/7,0.4588,Positive,0.5,Positive,0.8472257852554321,Positive
 There’s a guy that likes this song,0.4215,Positive,0.0,Neutral,0.3528045415878296,Positive
 I'm thinking merkules and billy ray cyrus should do a song together billy ray cyrus will do the corus merkules will do the verses like this if you agree,0.6124,Positive,0.0,Neutral,0.2989934086799621,Neutral
-Enjoy that rice beer. Might be more country to hold a beer from your favorite American small town brewery. Give the love.,0.886,Positive,0.2749999999999999,Neutral,0.4757623672485351,Positive
+Enjoy that rice beer. Might be more country to hold a beer from your favorite American small town brewery. Give the love.,0.886,Positive,0.2749999999999999,Positive,0.4757623672485351,Positive
 O SHIT DUDE....,-0.5574,Negative,-0.2,Negative,-0.7434914708137512,Negative
 Dummy he does not even spit,0.0,Neutral,0.0,Neutral,-0.7882405519485474,Negative
 Who’s here in 2021,0.0,Neutral,0.0,Neutral,0.4142290353775024,Positive
 Bruh  nothing cool about  opening  a bottle with your teeth,-0.2411,Negative,0.35,Positive,-0.4907861351966858,Negative
 Love all the songs you killing it,-0.0516,Negative,0.5,Positive,0.846646249294281,Positive
 "Hey Merk, check out Gangstagrass, groove it up bruh   1 <3",0.4404,Positive,1.0,Positive,-0.3975409865379333,Negative
-Thanks g,0.4404,Positive,0.2,Neutral,0.4532003402709961,Positive
+Thanks g,0.4404,Positive,0.2,Positive,0.4532003402709961,Positive
 He’s good I’m not gonna lie,0.4404,Positive,0.7,Positive,0.4149024486541748,Positive
-My daughter loves this song she just said play the old town road but it’s cigarette butts and moonshine one!! a lot of love from me and my family from Toledo Ohio,0.8869,Positive,0.328125,Neutral,0.6255931258201599,Positive
-"i used to bite open beers and be a young beast.  enjoy your fucking youth; 41 years old will be upon you before you know it, like a tombstone mwahh hahh",0.6908,Positive,5.551115123125783e-18,Neutral,0.6669939160346985,Positive
+My daughter loves this song she just said play the old town road but it’s cigarette butts and moonshine one!! a lot of love from me and my family from Toledo Ohio,0.8869,Positive,0.328125,Positive,0.6255931258201599,Positive
+"i used to bite open beers and be a young beast.  enjoy your fucking youth; 41 years old will be upon you before you know it, like a tombstone mwahh hahh",0.6908,Positive,5.551115123125783e-18,Positive,0.6669939160346985,Positive
 who here in 2021,0.0,Neutral,0.0,Neutral,0.3664844036102295,Positive
-To the 20k dislikes.. oops not worth the time. Love you merk!,0.2792,Positive,0.2375,Neutral,-0.4376985430717468,Negative
+To the 20k dislikes.. oops not worth the time. Love you merk!,0.2792,Positive,0.2375,Positive,-0.4376985430717468,Negative
 Why can’t I find this on Apple Music or shape of u? That link dose not bring to the song. N I just can’t seem to find it at all on my apple iTunes,0.0,Neutral,0.0,Neutral,-0.5396937727928162,Negative
 Farmers R hot🔥,-0.34,Negative,0.0,Neutral,0.2825946509838104,Neutral
 Badass,0.34,Positive,0.0,Neutral,0.3908810615539551,Positive
@@ -993,16 +993,16 @@ Cigarette butts and moonshine
 I'm goin' redneck tonight
 I got my horse by my side
 Full tank of gas in my ride
-Yeah!",-0.7857,Negative,0.0667589355089355,Neutral,-0.4484189450740814,Negative
+Yeah!",-0.7857,Negative,0.0667589355089355,Positive,-0.4484189450740814,Negative
 futurebass,0.0,Neutral,0.0,Neutral,0.3765117228031158,Positive
 Come to Winnipeg bud. We will show you a good time like nobody you know.,0.6597,Positive,0.7,Positive,0.6019755005836487,Positive
 conor maynard,0.0,Neutral,0.0,Neutral,0.2794054746627807,Neutral
 Sick ass flow,-0.7783,Negative,-0.7142857142857143,Negative,0.2543089389801025,Neutral
-Plz make this a real song,0.0772,Positive,0.2,Neutral,0.6973212957382202,Positive
+Plz make this a real song,0.0772,Positive,0.2,Positive,0.6973212957382202,Positive
 Fuck yea dude killed it,-0.8402,Negative,-0.3,Negative,-0.8611615896224976,Negative
 DIY from Merkules: How to turn a fake song for the sheep into a real song for the Sheep Dogs!,-0.5255,Negative,-0.125,Negative,-0.2616809010505676,Negative
 He is not singing correctly I can't understand,0.0,Neutral,0.0,Neutral,-0.4591873586177826,Negative
-There's no moose in the south they live up north. We eat catfish though,-0.296,Negative,0.1363636363636363,Neutral,0.4860961437225342,Positive
+There's no moose in the south they live up north. We eat catfish though,-0.296,Negative,0.1363636363636363,Positive,0.4860961437225342,Positive
 Like a steakhouse I'm outback 🤣🙌,0.6908,Positive,0.0,Neutral,0.3413522839546203,Positive
 My favorite version 💛,0.802,Positive,0.5,Positive,0.8604092597961426,Positive
 i love merks music i never stop listening to it,0.7259,Positive,0.5,Positive,0.8029977679252625,Positive

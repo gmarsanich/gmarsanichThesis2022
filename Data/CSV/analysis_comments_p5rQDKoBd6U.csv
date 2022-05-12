@@ -1,5 +1,5 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-10 ABORTIONS IN 2 YEARS FOR A NEW CAR ?!? BETTTT LETS GOOOO,0.0,Neutral,0.1704545454545454,Neutral,-0.5236058235168457,Negative
+10 ABORTIONS IN 2 YEARS FOR A NEW CAR ?!? BETTTT LETS GOOOO,0.0,Neutral,0.1704545454545454,Positive,-0.5236058235168457,Negative
 I hate that I understand the my hero jokes,0.2263,Positive,-0.8,Negative,-0.351924329996109,Negative
 This is depressing,-0.3818,Negative,-0.6,Negative,-0.4876186549663543,Negative
 1 month late but u need to do a try not to laugh on one of these🤣🤣 if u see it,0.6921,Positive,0.0,Neutral,0.3374189436435699,Positive
@@ -7,20 +7,20 @@ This is depressing,-0.3818,Negative,-0.6,Negative,-0.4876186549663543,Negative
 57 seconds in to the vid and Im already going to have nightmares,0.0,Neutral,0.0,Neutral,-0.3871176540851593,Negative
 Wtf did I just watch,-0.5859,Negative,-0.5,Negative,0.3352453708648681,Positive
 8:12,0.0,Neutral,0.0,Neutral,0.2322845160961151,Neutral
-5:53 that dude is married and have kids 💀,0.0,Neutral,0.25,Neutral,0.4034379720687866,Positive
-U dont watch whole thinf bozo,0.0,Neutral,0.2,Neutral,-0.4438504874706268,Negative
+5:53 that dude is married and have kids 💀,0.0,Neutral,0.25,Positive,0.4034379720687866,Positive
+U dont watch whole thinf bozo,0.0,Neutral,0.2,Positive,-0.4438504874706268,Negative
 Sweet home Alabama,0.4588,Positive,0.35,Positive,0.5061623454093933,Positive
-This is so funny,0.5777,Positive,0.25,Neutral,0.782210111618042,Positive
-What headphone does he use? Kinda interested in not having a misformed skull😂,0.6494,Positive,0.25,Neutral,0.4639946222305298,Positive
+This is so funny,0.5777,Positive,0.25,Positive,0.782210111618042,Positive
+What headphone does he use? Kinda interested in not having a misformed skull😂,0.6494,Positive,0.25,Positive,0.4639946222305298,Positive
 "the ""wear wolf"" one 💀💀💀💀💀💀💀💀💀💀💀💀",0.0,Neutral,0.0,Neutral,-0.2596869468688965,Negative
 “Doin your mom”,0.0,Neutral,0.0,Neutral,0.4616570174694061,Positive
 I love the cut,0.4767,Positive,0.5,Positive,0.6819461584091187,Positive
 this video was extra ccwispy,0.0,Neutral,0.0,Neutral,-0.2641783952713012,Negative
 11:30 and satire,0.0,Neutral,0.0,Neutral,0.2940796315670013,Neutral
-12:51 the other day my mother told me to go in the gas station to get a check that my grandads employee left there so His name was on it So I walk and there and ask for it they Say what’s your name? And I say Hank Rose and they look at and say aren’t you a girl and I say yes and then say if every body else can say that there a boy and become a girl I can say I’m hank!,0.4574,Positive,0.2083333333333333,Neutral,0.328691303730011,Neutral
+12:51 the other day my mother told me to go in the gas station to get a check that my grandads employee left there so His name was on it So I walk and there and ask for it they Say what’s your name? And I say Hank Rose and they look at and say aren’t you a girl and I say yes and then say if every body else can say that there a boy and become a girl I can say I’m hank!,0.4574,Positive,0.2083333333333333,Positive,0.328691303730011,Neutral
 I used to play mine craft now it’s just a random app I have that I don’t use I like fnaf more,0.5994,Positive,0.0,Neutral,-0.2927798330783844,Negative
-I talk to much but 4:09 but I get called thick to much 😪 literally tho I was 63 pounds in 2021 now I’m 100 pounds ._.,0.0,Neutral,0.0333333333333333,Neutral,-0.3593377470970154,Negative
-3:02 that wasn’t what I expected but there prob not actually bro and sis lol that’s just cringe…,0.5719,Positive,0.2333333333333333,Neutral,0.5091097950935364,Positive
+I talk to much but 4:09 but I get called thick to much 😪 literally tho I was 63 pounds in 2021 now I’m 100 pounds ._.,0.0,Neutral,0.0333333333333333,Positive,-0.3593377470970154,Negative
+3:02 that wasn’t what I expected but there prob not actually bro and sis lol that’s just cringe…,0.5719,Positive,0.2333333333333333,Positive,0.5091097950935364,Positive
 2:25 the cringe level is over the top right there dude lol! Cringe,0.5983,Positive,0.5952380952380952,Positive,-0.6175149083137512,Negative
 OW OW OWWWW wolf emoji 😃 BAHAHAH,0.3612,Positive,0.0,Neutral,-0.2446746230125427,Negative
 3:00  sweet home alabama..,0.4588,Positive,0.35,Positive,0.3166208863258362,Neutral
@@ -32,12 +32,12 @@ The actual power of thumbnail,0.0,Neutral,0.0,Neutral,0.4949289858341217,Positiv
 minecraft is better than some lady looking dudes with fuckin make up on them for whole fukin day just for moving their asses and sing all the time ( they took our fukin girls),0.4404,Positive,0.35,Positive,0.3832032680511474,Positive
 "Is this man related to TMOL???? BTW, KEEP UP THE GREAT WORK!!!",0.8257,Positive,0.5,Positive,-0.3882500529289245,Negative
 crisp the hell man you down bad for dat Asian women,-0.8442,Negative,-0.1513888888888888,Negative,-0.3066199123859405,Negative
-i cant wait until tik tok gets hacked and yall woke people get blackmailed into losing everything ;),-0.5267,Negative,0.25,Neutral,-0.5413915514945984,Negative
+i cant wait until tik tok gets hacked and yall woke people get blackmailed into losing everything ;),-0.5267,Negative,0.25,Positive,-0.5413915514945984,Negative
 3:09 Sweet Home Alabama,0.4588,Positive,0.35,Positive,0.3155836164951324,Neutral
 12:10,0.0,Neutral,0.0,Neutral,0.2296748608350753,Neutral
 Who mom is this 12:10,0.0,Neutral,0.0,Neutral,0.4102640450000763,Positive
-"4:25 this motherfucker said ""ma'am"" to like a ~27 year old chick XD",0.347,Positive,0.1,Neutral,0.273978978395462,Neutral
-"Millions of years of suffering, wars and plagues? Humans have been on this planet for max 300 000 years. Dinosaur wars sound radical as fuck but dont really concerne us bro.",-0.7845,Negative,0.0666666666666666,Neutral,-0.3710396289825439,Negative
+"4:25 this motherfucker said ""ma'am"" to like a ~27 year old chick XD",0.347,Positive,0.1,Positive,0.273978978395462,Neutral
+"Millions of years of suffering, wars and plagues? Humans have been on this planet for max 300 000 years. Dinosaur wars sound radical as fuck but dont really concerne us bro.",-0.7845,Negative,0.0666666666666666,Positive,-0.3710396289825439,Negative
 Tik tok is nothing but a problem everywhere God please save our peoples from this POS,0.9151,Positive,0.0,Neutral,-0.7002443671226501,Negative
 "Mr Crispy to the guy u thought that had fake energy 
 he was pretending to be a minecraft player playing fornite for the first time
@@ -46,11 +46,11 @@ why r u only spitting fax,0.0,Neutral,0.0,Neutral,-0.4557011127471924,Negative
 11:33 it said if minecraft players played fortnite.,0.34,Positive,0.0,Neutral,-0.3578523695468902,Negative
 SUPER CRINGE I HATE THIS!,0.126,Positive,-0.3333333333333333,Negative,-0.8935089707374573,Negative
 18+,0.0,Neutral,0.0,Neutral,0.3271019756793976,Neutral
-Fuck those tiktoks I love ur videos man,0.1779,Positive,0.0499999999999999,Neutral,0.6495872735977173,Positive
+Fuck those tiktoks I love ur videos man,0.1779,Positive,0.0499999999999999,Positive,0.6495872735977173,Positive
 9:54 dude is fucking Godzilla compared to her,0.0,Neutral,-0.6,Negative,-0.5297591686248779,Negative
 "At 8:30 i paused the video.......and left a like, subscribed, and turned notifications on, closed my computer, then threw it, grabbed the bleach and flushed my eyes, Asked a doctor to completely erase the last 10 seconds of when I watched that video an proceeded with my day",0.3612,Positive,0.0,Neutral,-0.8230430483818054,Negative
 Heyyyyyy,0.0,Neutral,0.0,Neutral,-0.2225462645292282,Negative
-let's take a moment to appreciate how much beauty this man holds.,0.7579,Positive,0.2,Neutral,0.4453663527965545,Positive
+let's take a moment to appreciate how much beauty this man holds.,0.7579,Positive,0.2,Positive,0.4453663527965545,Positive
 hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Yo crispy wanna 1v1 codm some time?,0.0,Neutral,0.0,Neutral,-0.4602324068546295,Negative
 Dont look at the thumbnail if your a male,0.0,Neutral,0.0,Neutral,-0.3449462652206421,Negative
@@ -64,7 +64,7 @@ Wtf how is codm intense,-0.5423,Negative,-0.15,Negative,0.3082014620304107,Neutr
 Ah yes *kids*,0.4019,Positive,0.0,Neutral,0.3179104030132293,Neutral
 3:08 NO BLOOD NO SIN BREV!,0.5628,Positive,0.0,Neutral,-0.4379609227180481,Negative
 2:42,0.0,Neutral,0.0,Neutral,0.2481944113969802,Neutral
-2:57 a normal day in Alabama,0.0,Neutral,0.15,Neutral,0.2399321645498275,Neutral
+2:57 a normal day in Alabama,0.0,Neutral,0.15,Positive,0.2399321645498275,Neutral
 12:05 he sounds like lemongrab,0.3612,Positive,0.0,Neutral,-0.3988893628120422,Negative
 3:00 SAWEET HOME ALABAMA,0.5766,Positive,0.35,Positive,-0.2294327914714813,Negative
 11:16 is the most cringest thing I heard from a guy,0.0,Neutral,0.5,Positive,-0.696945071220398,Negative
@@ -76,7 +76,7 @@ Sus TikTok’s once again from crispy,0.0,Neutral,0.0,Neutral,0.2563928961753845
 5:48 whats the name of the song,0.0,Neutral,0.0,Neutral,0.286522626876831,Neutral
 3:00 *SWEET HOME ALABAMA*,0.5766,Positive,0.35,Positive,0.3403462171554565,Positive
 bro your voice is so FUCKING CRISPY BRO HOLY SHIT,-0.6523,Negative,-0.4,Negative,-0.8502322435379028,Negative
-"God have mercy, I don’t even know what to say..... two full grown ass adults acting’s like this, even babies don’t act like that 🥲",0.6249,Positive,0.175,Neutral,0.5328171849250793,Positive
+"God have mercy, I don’t even know what to say..... two full grown ass adults acting’s like this, even babies don’t act like that 🥲",0.6249,Positive,0.175,Positive,0.5328171849250793,Positive
 Just dimucc,0.0,Neutral,0.0,Neutral,-0.4404537975788116,Negative
 "around 5:00 idk if that mask thing was an animatronic or an actual mask that works in the wanted way. either way i will need to take medications after that one
 
@@ -92,7 +92,7 @@ sweet home alabama,0.4588,Positive,0.35,Positive,0.5061623454093933,Positive
 boomer,0.0,Neutral,0.0,Neutral,0.3915248513221741,Positive
 notie gang,0.0,Neutral,0.0,Neutral,0.2854973375797272,Neutral
 Bro when the thick Asian girl showed up my mom took my phone to see what I was watching and now she thinks I was watching some weird stuff😭,-0.5859,Negative,-0.2666666666666666,Negative,0.280974805355072,Neutral
-Bro Dimucc is funny as hell,-0.4019,Negative,0.25,Neutral,0.4506222903728485,Positive
+Bro Dimucc is funny as hell,-0.4019,Negative,0.25,Positive,0.4506222903728485,Positive
 the hair that tickless butt chickis creepy,0.0,Neutral,-0.5,Negative,-0.27722829580307,Negative
 Look at that guys sandals bro.9:05,0.0,Neutral,0.0,Neutral,-0.4223837554454803,Negative
 "8;30-8;40, im quitting the fnaf fandom. no.",0.0,Neutral,0.0,Neutral,-0.5635532736778259,Negative
@@ -108,14 +108,14 @@ I clicked because of the thumbnail  LMAOOO I NEED THERAPY,0.0,Neutral,0.0,Neutra
 SweEt HomE AlabAma,0.4588,Positive,0.35,Positive,0.5061623454093933,Positive
 Had to stop at like five minutes into the video because it felt like my brain was getting toasted,0.4215,Positive,0.0,Neutral,-0.4558295309543609,Negative
 "1:22 my dog was named fat but in Spanish, wasn’t even a nickname.",0.0,Neutral,0.0,Neutral,-0.4390784204006195,Negative
-acctually over where i live some one in the high school identified as a dog,0.0,Neutral,0.0987878787878788,Neutral,-0.3612428903579712,Negative
+acctually over where i live some one in the high school identified as a dog,0.0,Neutral,0.0987878787878788,Positive,-0.3612428903579712,Negative
 You GOTTA take the duck to the pet whisperer. The internet needs to see it,0.0,Neutral,0.0,Neutral,0.2972122728824615,Neutral
 Half of the people press this video because of the thumbnail,0.0,Neutral,-0.1666666666666666,Negative,-0.498889297246933,Negative
 3:00 ….,0.0,Neutral,0.0,Neutral,-0.3035900294780731,Negative
 Tiktok is hell for me,-0.6808,Negative,0.0,Neutral,-0.2957450747489929,Negative
 I don’t think furrys are cringe 😬,-0.34,Negative,0.0,Neutral,-0.334783524274826,Negative
 "Be honest, you clicked because of the thumbnail.",0.5106,Positive,0.6,Positive,-0.2843246161937713,Negative
-Tell me why he’s looking at the Asian girls butty caught you in  your lucky Am subscribed,0.4215,Positive,0.1666666666666666,Neutral,-0.4125397503376007,Negative
+Tell me why he’s looking at the Asian girls butty caught you in  your lucky Am subscribed,0.4215,Positive,0.1666666666666666,Positive,-0.4125397503376007,Negative
 My volume was and twenty yet my ears still bled when I clicked the video,0.0,Neutral,0.0,Neutral,-0.3861256837844848,Negative
 bruh thats the most gayest thing ever,0.0,Neutral,0.5,Positive,-0.7098696231842041,Negative
 okkkkk,0.0,Neutral,0.0,Neutral,0.3622434735298157,Positive
@@ -125,14 +125,14 @@ Cutting choc milk sad for grandma😭😭😭😭😭😭😭,-0.9758,Negative,-
 NOW THIS ONE GOT ME WHEEZING,0.0,Neutral,0.0,Neutral,-0.5305747389793396,Negative
 5:05 - 5:11 hes making refrences from anime or my hero academia @extra crispy pls gimme a shoutout,0.5994,Positive,0.0,Neutral,0.2853530943393707,Neutral
 I think it's funny how TikTok can take a mostly non-cringe anime and make it the cringiest thing on planet Earth,0.4404,Positive,0.375,Positive,0.2980984449386596,Neutral
-"okay so with 3:01, apparently that sound is a joke and it’s just a couple pretending they’re siblings, don’t worry i don’t understand it either",0.1531,Positive,0.3166666666666667,Neutral,0.7938786745071411,Positive
+"okay so with 3:01, apparently that sound is a joke and it’s just a couple pretending they’re siblings, don’t worry i don’t understand it either",0.1531,Positive,0.3166666666666667,Positive,0.7938786745071411,Positive
 THEY DARE TO RUIN BDG SIBLING SONG,-0.5859,Negative,0.0,Neutral,-0.4304999709129333,Negative
 I feel like a straw berry that's crispy,0.3612,Positive,0.0,Neutral,-0.3396756947040558,Negative
 I could smell that fart through the screen,0.0,Neutral,0.0,Neutral,0.2954655885696411,Neutral
 https://youtu.be/BGfa8jvrR4o,0.0,Neutral,0.0,Neutral,-0.221206247806549,Negative
 "i wANT to rip my eye,s out",0.0772,Positive,0.0,Neutral,-0.5360975861549377,Negative
 🫡,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-This is pure suffering to the mind and braincell destruction,-0.7783,Negative,0.2142857142857142,Neutral,0.4972391724586487,Positive
+This is pure suffering to the mind and braincell destruction,-0.7783,Negative,0.2142857142857142,Positive,0.4972391724586487,Positive
 No money,-0.296,Negative,0.0,Neutral,-0.6908731460571289,Negative
 2:25 cringe,0.0,Neutral,0.0,Neutral,-0.4354268014431,Negative
 "Me the entire time i was seeing this vid* wtf
@@ -165,24 +165,24 @@ WHAT AM I WATCHING AND WHY DID I FINISH IT,0.0,Neutral,0.0,Neutral,0.26753687858
 You do not like anime,-0.2755,Negative,0.0,Neutral,-0.3690520823001861,Negative
 So this is why I don’t have any faith in humanity-,0.4215,Positive,0.0,Neutral,-0.391469269990921,Negative
 Hes simping 🤨,0.0,Neutral,0.0,Neutral,0.3252502679824829,Neutral
-Jesus loves you so so much and he died for you so we can be forgiven and go to Heaven with God if you accept Jesus as our Lord and Savior so repent from your sins. God bless you🙏🏼,0.891,Positive,0.2,Neutral,0.8763909935951233,Positive
+Jesus loves you so so much and he died for you so we can be forgiven and go to Heaven with God if you accept Jesus as our Lord and Savior so repent from your sins. God bless you🙏🏼,0.891,Positive,0.2,Positive,0.8763909935951233,Positive
 YouTuber faking to be energetic: cocaine mode activated,0.0258,Neutral,0.5,Positive,-0.5078657865524292,Negative
 How de phak did I end up here after watching a video about Kim Jong un???,0.0,Neutral,0.0,Neutral,-0.3643679916858673,Negative
 "Say no to drugs, their not good for you. I think he’s the one with dem drugssss",-0.5583,Negative,-0.35,Negative,-0.6446526050567627,Negative
-"It’s seriously 5:50am and I’ve been up for so long just watching this kinda stuff, lmao",0.4445,Positive,0.0722222222222222,Neutral,-0.4302296936511993,Negative
+"It’s seriously 5:50am and I’ve been up for so long just watching this kinda stuff, lmao",0.4445,Positive,0.0722222222222222,Positive,-0.4302296936511993,Negative
 "There are three fanbases you must stay out of contact with NO MATTER WHAT, those are bts, dream, and my hero",0.4696,Positive,0.0,Neutral,0.2429012358188629,Neutral
 crispy your style of clothing inspires me,0.4404,Positive,0.0,Neutral,0.6197770237922668,Positive
 I caught you in 4k checkin out that asain chick don't even lie,0.0,Neutral,0.0,Neutral,-0.6379505395889282,Negative
 10:55 spit or swallow? 🤭,0.4939,Positive,0.0,Neutral,-0.42817422747612,Negative
-not positive but damn that first clip looks like the same kid with his grandma when crispy did the fashion discord a year ago,0.1593,Positive,0.0454545454545454,Neutral,0.3803846538066864,Positive
+not positive but damn that first clip looks like the same kid with his grandma when crispy did the fashion discord a year ago,0.1593,Positive,0.0454545454545454,Positive,0.3803846538066864,Positive
 Thank you for ending that last tiktok where you did or else I may have actually died,-0.2732,Negative,0.0,Neutral,0.253648579120636,Neutral
 I can not wait for tiktok to get shut down these freaks dont need a platform,-0.1027,Negative,-0.1555555555555555,Negative,-0.6328839063644409,Negative
-Bro you look exactly like my cousin,0.3612,Positive,0.25,Neutral,0.5016031861305237,Positive
+Bro you look exactly like my cousin,0.3612,Positive,0.25,Positive,0.5016031861305237,Positive
 sweet home alabama,0.4588,Positive,0.35,Positive,0.5061623454093933,Positive
 3:30 that made me want to touch some grass,0.0772,Positive,0.0,Neutral,0.37993985414505,Positive
 he lowkey looks like dylonis in trouble,-0.0516,Negative,-0.2,Negative,-0.4355283677577972,Negative
-2:16 to 2:22 is funny,0.4404,Positive,0.25,Neutral,0.3270842134952545,Neutral
-7:52 wen mai cat lookt at the video he fucking jumpt aut the windoow lol,0.4215,Positive,0.1,Neutral,-0.6156678795814514,Negative
+2:16 to 2:22 is funny,0.4404,Positive,0.25,Positive,0.3270842134952545,Neutral
+7:52 wen mai cat lookt at the video he fucking jumpt aut the windoow lol,0.4215,Positive,0.1,Positive,-0.6156678795814514,Negative
 what is this,0.0,Neutral,0.0,Neutral,0.4857033491134643,Positive
 9:30 ok here me out guys,0.296,Positive,0.5,Positive,0.2879757881164551,Neutral
 "tiktok: 
@@ -190,7 +190,7 @@ kid: kills his entire family and neighborhood for clout
 this guy: just disappointing",-0.7717,Negative,-0.3,Negative,-0.4667754769325256,Negative
 1:51,0.0,Neutral,0.0,Neutral,0.2251753062009811,Neutral
 "He earned my like the second he said ""I'm marrying myself, that's all you got at the end of the day.""",0.3612,Positive,0.0,Neutral,0.449571281671524,Positive
-Ask people if their dad is single🤣 btw I do this on the street and it's funny af.,0.7269,Positive,0.25,Neutral,0.4526043534278869,Positive
+Ask people if their dad is single🤣 btw I do this on the street and it's funny af.,0.7269,Positive,0.25,Positive,0.4526043534278869,Positive
 "1:03 no, I don't",0.0,Neutral,0.0,Neutral,-0.5873611569404602,Negative
 "when did youtubers become some sort of a religion? quote: ""I don't believe in youtubers"" - some random girl on the street",0.0,Neutral,-0.5,Negative,-0.4598284065723419,Negative
 9:00 im gonna do that wiht my girlfriend in public and see whawt people do,0.0,Neutral,0.0,Neutral,-0.4534917175769806,Negative
@@ -333,7 +333,7 @@ E
 
 
 .",0.0,Neutral,-0.1,Negative,-0.6206821203231812,Negative
-This is why ima live on an island alone with a dog when I'm older. And maybe do youtube.,-0.25,Negative,0.1515151515151515,Neutral,0.2629821002483368,Neutral
+This is why ima live on an island alone with a dog when I'm older. And maybe do youtube.,-0.25,Negative,0.1515151515151515,Positive,0.2629821002483368,Neutral
 Wtf man,-0.5859,Negative,-0.5,Negative,0.2931375801563263,Neutral
 "Now that was some ""Crispy"" Tiktok videos",0.0,Neutral,0.0,Neutral,0.3916004300117492,Positive
 The third one literally looks like a dragon look at her ear lol,0.6486,Positive,0.4,Positive,-0.4404974579811096,Negative
@@ -344,7 +344,7 @@ bro really thinks these tiktoks are real LOLOL,0.0,Neutral,0.6,Positive,-0.27129
 It's disappointing and givingnme shivers and a ton of cringe.,-0.4939,Negative,-0.6,Negative,-0.5675161480903625,Negative
 ⚜🔱〽➰,0.0,Neutral,0.0,Neutral,0.3761328756809234,Positive
 I CAUGHT YOU SMILING MANNNN 3:56,0.5766,Positive,0.0,Neutral,-0.3317040205001831,Negative
-"10:09 the way he just holds himself back from saying ""girl"" knowing full well that would get him cancelled by the angry mobs is funny. That was legit a last second save...",0.4404,Positive,0.0166666666666666,Neutral,-0.4644143283367157,Negative
+"10:09 the way he just holds himself back from saying ""girl"" knowing full well that would get him cancelled by the angry mobs is funny. That was legit a last second save...",0.4404,Positive,0.0166666666666666,Positive,-0.4644143283367157,Negative
 "7:39
 She looks like the receptionist in monsters inc",0.3612,Positive,0.0,Neutral,0.2703340947628021,Neutral
 "you look like tie from heartland, lol",0.6486,Positive,0.8,Positive,0.2780875861644745,Neutral
@@ -353,7 +353,7 @@ sorry for comment but the from the hub dont ask questions,-0.0387,Neutral,-0.5,N
 To me,0.0,Neutral,0.0,Neutral,0.4258581399917602,Positive
 You look like levi,0.3612,Positive,0.0,Neutral,0.2503103911876678,Neutral
 3:08,0.0,Neutral,0.0,Neutral,0.315617948770523,Neutral
-5:47 i was surprised,0.2263,Positive,0.1,Neutral,0.420002281665802,Positive
+5:47 i was surprised,0.2263,Positive,0.1,Positive,0.420002281665802,Positive
 Thats just a worm,0.0,Neutral,0.0,Neutral,-0.3890946507453918,Negative
 4:08 why you looking down there huh hmmmm? 📸🤨,0.0,Neutral,-0.1555555555555555,Negative,-0.2485519349575042,Negative
 lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
@@ -366,7 +366,7 @@ well some of them were okay,0.4588,Positive,0.5,Positive,0.7156115770339966,Posi
 The fortnite one is a skit. It's just a joke.,0.296,Positive,0.0,Neutral,-0.582708477973938,Negative
 crispy is a man of culture cause hes got that wet wet kwispy content my brotha,0.0,Neutral,-0.1,Negative,0.2349171042442321,Neutral
 crispy wtf are you doing?,-0.5859,Negative,-0.5,Negative,0.3553446829319,Positive
-I only found 3 clips funny and I'm already dying from watching the others this is why I don't download TikTok,0.4404,Positive,0.125,Neutral,-0.5175604224205017,Negative
+I only found 3 clips funny and I'm already dying from watching the others this is why I don't download TikTok,0.4404,Positive,0.125,Positive,-0.5175604224205017,Negative
 "crispy bro your hella positive and kind, i love youtubes like you mane fr keep going your gonna blow up!!",0.9417,Positive,0.5361742424242424,Positive,0.6168290972709656,Positive
 6:01 Dying from cringe,0.0,Neutral,0.0,Neutral,-0.5058702826499939,Negative
 His brain be dead,-0.6486,Negative,-0.2,Negative,-0.5108692049980164,Negative
@@ -375,11 +375,11 @@ Soo good,0.4404,Positive,0.7,Positive,0.4446122646331787,Positive
 5:50 😂😂😂😂😭😭😭😭😭😂🤣🤣🤣😭😭😭😭😭😭😭😭😭😭😭😭,-0.981,Negative,0.0,Neutral,0.3140413463115692,Neutral
 "8:28 it looks like dogshit, shit, dirt and rotten vegetables",-0.7783,Negative,-0.2,Negative,-0.6730649471282959,Negative
 Bro she was saying she dosnt believe in you tubers but she’s probably a cringy tik toker,0.0,Neutral,0.0,Neutral,-0.3402153253555298,Negative
-You should ask people what they think of the new colonies on mars,0.0,Neutral,0.1363636363636363,Neutral,0.2660514414310455,Neutral
+You should ask people what they think of the new colonies on mars,0.0,Neutral,0.1363636363636363,Positive,0.2660514414310455,Neutral
 "i do understand you reason, but you might not understand mine, thing You know, are not thing other know , thing You understand , are not thing other understand. that why it normal for me , but weird for you . it all about knowing. these thing are normal to them. because we all don't know the answer and know how and why the world become like this. that why you don't know thing , 
 
 please dont think i'm hate you , i'm just giving example. even The Word ( care ) and ( Don't Care ) that just you mention are also completely opposite meaning , to the person that heard you.",0.9202,Positive,-0.1785714285714285,Negative,-0.3385928273200989,Negative
-I want to die… Funny video but the tiktoks bro,0.2732,Positive,0.25,Neutral,0.3240874111652374,Neutral
+I want to die… Funny video but the tiktoks bro,0.2732,Positive,0.25,Positive,0.3240874111652374,Neutral
 I think this is good reason for me to not have the app 👍🏿,0.4404,Positive,0.7,Positive,0.3752744197845459,Positive
 1:50,0.0,Neutral,0.0,Neutral,-0.2522473633289337,Negative
 0:56,0.0,Neutral,0.0,Neutral,-0.4437722265720367,Negative
@@ -395,7 +395,7 @@ After the vid goes to fartaday,0.0,Neutral,0.0,Neutral,0.2698974609375,Neutral
 That last clip made me get up aswell,0.0,Neutral,0.0,Neutral,-0.235641598701477,Negative
 Wym I actually love dimucc at 11:45,0.6369,Positive,0.5,Positive,0.6219745874404907,Positive
 💊,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-8:21 TACO BELL *INTENSE DIARRHEA NOISES AND INTESSE GRUNTING NOISES*,0.2577,Positive,0.2,Neutral,-0.5441775918006897,Negative
+8:21 TACO BELL *INTENSE DIARRHEA NOISES AND INTESSE GRUNTING NOISES*,0.2577,Positive,0.2,Positive,-0.5441775918006897,Negative
 The thick water is for people who has difficulty drinking they drink this or else they choke just like me '-',-0.5267,Negative,-0.3,Negative,0.2984013259410858,Neutral
 0:56 same thing happen with my 4skin no joke,-0.2235,Negative,0.0,Neutral,-0.6698606014251709,Negative
 what the heck,0.0,Neutral,0.0,Neutral,0.3381523787975311,Positive
@@ -412,11 +412,11 @@ HOME SWEET ALABMA.,0.4588,Positive,0.35,Positive,0.4994065761566162,Positive
 "4:30 miss what? okay I hate living i really want to die and shit. okay. But i think ima have to pause on those plans and prove a bitch wrong by getting famous and helping people through streaming. until thats not done I aint going NOWHERE bitch. OkAY okay. okay. Lets see lets see that shit.
 
 
-5:40 exactly, kids in this time need someone to look up to i can bet you that someone has there struggles.. And bts where the people that helped me, so im sure there is a reason someone follows a creator. its because they make them laugh, they enjoy what they do, or generally other reasons. I just rather have endless possibilities of why. ^^",-0.9084,Negative,0.1588235294117647,Neutral,-0.3443054258823395,Negative
+5:40 exactly, kids in this time need someone to look up to i can bet you that someone has there struggles.. And bts where the people that helped me, so im sure there is a reason someone follows a creator. its because they make them laugh, they enjoy what they do, or generally other reasons. I just rather have endless possibilities of why. ^^",-0.9084,Negative,0.1588235294117647,Positive,-0.3443054258823395,Negative
 Some Alabama stuff,0.0,Neutral,0.0,Neutral,0.3558604419231415,Positive
 I want to poor bleach in my eyes,0.0772,Positive,0.0,Neutral,-0.3646512925624847,Negative
 ",",0.0,Neutral,0.0,Neutral,0.2591341137886047,Neutral
-pure pain,-0.5106,Negative,0.2142857142857142,Neutral,-0.3401430547237396,Negative
+pure pain,-0.5106,Negative,0.2142857142857142,Positive,-0.3401430547237396,Negative
 kill me,-0.6908,Negative,0.0,Neutral,-0.8137787580490112,Negative
 At 13:50 I thought she was talking about the building blocks of protons and neutrons quarks.,-0.2263,Negative,0.0,Neutral,-0.3533029854297638,Negative
 "Do not kill the part that is cringe, kill the part that cringes.
@@ -426,10 +426,10 @@ At 13:50 I thought she was talking about the building blocks of protons and neut
 1:13 she probably ate her relatives,0.0,Neutral,0.0,Neutral,-0.2565182745456695,Negative
 4:18 LOL,0.5473,Positive,0.8,Positive,0.2603828907012939,Neutral
 Kids? Dream's in his 20s Xd,0.5859,Positive,0.0,Neutral,0.2657177150249481,Neutral
-5:31 the vids are actually entertaining asf u should watch at least one,0.4404,Positive,0.1,Neutral,0.3445689976215362,Positive
-First,0.0,Neutral,0.25,Neutral,0.3701889812946319,Positive
-I'm Here Pretty Early,0.4939,Positive,0.175,Neutral,0.36897012591362,Positive
-I'm Here Pretty Damn Early,0.128,Positive,0.175,Neutral,0.3042565286159515,Neutral
+5:31 the vids are actually entertaining asf u should watch at least one,0.4404,Positive,0.1,Positive,0.3445689976215362,Positive
+First,0.0,Neutral,0.25,Positive,0.3701889812946319,Positive
+I'm Here Pretty Early,0.4939,Positive,0.175,Positive,0.36897012591362,Positive
+I'm Here Pretty Damn Early,0.128,Positive,0.175,Positive,0.3042565286159515,Neutral
 They were sharing saliva what do you mean. 3:00,0.4215,Positive,-0.3125,Negative,-0.3031761944293976,Negative
 They might actually be siblings 😳,0.0,Neutral,0.0,Neutral,0.4010843336582184,Positive
 🐺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -439,18 +439,18 @@ the fact that extra crispy never disapoint us.,0.0,Neutral,0.0,Neutral,0.3055457
 I shall suffer with you when you are suffering,-0.765,Negative,0.0,Neutral,0.3766801357269287,Positive
 What has the internet and our world become?,0.0,Neutral,0.0,Neutral,0.3835818171501159,Positive
 If you see this Ik your are not can u say y are your drunk,-0.34,Negative,-0.5,Negative,-0.5092681050300598,Negative
-At least the kids are touching grass 😂,0.4404,Positive,0.1,Neutral,0.2828801870346069,Neutral
+At least the kids are touching grass 😂,0.4404,Positive,0.1,Positive,0.2828801870346069,Neutral
 Intro was ppl from Alabama 🤏,0.0,Neutral,0.0,Neutral,0.2827775478363037,Neutral
 Crispy is so fine,0.3327,Positive,0.4166666666666667,Positive,0.5321760177612305,Positive
 the meow sub tik tok is completely fake she made it to prove a point that people believe anything on the internet,-0.5256,Negative,-0.5,Negative,-0.8564609885215759,Negative
 Let's take a moment to appreciate how much effort he puts into his content for us. great job,0.7783,Positive,0.5,Positive,0.5032702684402466,Positive
-Lol “kids making Minecraft videos in their basement” (crispy only being 2 years older than dream),0.5859,Positive,0.3222222222222222,Neutral,0.3583283126354217,Positive
+Lol “kids making Minecraft videos in their basement” (crispy only being 2 years older than dream),0.5859,Positive,0.3222222222222222,Positive,0.3583283126354217,Positive
 1:04 no it just hurts,-0.6486,Negative,0.0,Neutral,-0.274515837430954,Negative
 "Um hello Crispy this is my first time watching you but as i started watching you i immediatley thought that you were freedie from peaky blinders lol
 
 
 btw love your vid",0.8885,Positive,0.4125,Positive,0.3915500044822693,Positive
-hey loved your video... but i had to dislike im really sorry,-0.429,Negative,0.0999999999999999,Neutral,0.2812904119491577,Neutral
+hey loved your video... but i had to dislike im really sorry,-0.429,Negative,0.0999999999999999,Positive,0.2812904119491577,Neutral
 6:18  questioning life choices,-0.1027,Negative,0.0,Neutral,0.2445447295904159,Neutral
 5:50 lmao,0.5994,Positive,0.6,Positive,-0.2372305542230606,Negative
 2:08 lmao 🐺,0.5994,Positive,0.6,Positive,-0.2790388762950897,Negative
@@ -478,15 +478,15 @@ A fart a day keeps the haters away.,-0.4939,Negative,0.0,Neutral,0.3671697378158
 Bruhmongus this was cringe...,0.0,Neutral,0.0,Neutral,-0.5976922512054443,Negative
 6:02   Mans looking like a candy crush reject.,-0.2023,Negative,0.0,Neutral,-0.5174214839935303,Negative
 "YO CRISPY I think you're super funny, keep up these AWESOME videos, I really like the amount of effort you put into editing too!",0.9405,Positive,0.4583333333333333,Positive,0.8138379454612732,Positive
-12:50 I am SO FUCKING LUCKY to have been born in the late 2000s and to also have never used tiktok. I will be the savior of many more generations of my family to come.,0.7603,Positive,0.2583333333333333,Neutral,0.7884497046470642,Positive
+12:50 I am SO FUCKING LUCKY to have been born in the late 2000s and to also have never used tiktok. I will be the savior of many more generations of my family to come.,0.7603,Positive,0.2583333333333333,Positive,0.7884497046470642,Positive
 This generation is not ready for WW3,-0.2755,Negative,-0.1,Negative,-0.4185846447944641,Negative
-1:09 I really thought that was coming from somewhere in my house 💀,0.0,Neutral,0.2,Neutral,-0.2904528081417084,Negative
+1:09 I really thought that was coming from somewhere in my house 💀,0.0,Neutral,0.2,Positive,-0.2904528081417084,Negative
 i feel bad just for watching and somewhat like my hero now,0.2601,Positive,-0.6999999999999998,Negative,-0.3664440214633941,Negative
 9:05 WHAT THE HELL  AND WHERE IS BLEACH,-0.7456,Negative,0.0,Neutral,-0.6187255382537842,Negative
 “lay it on me mommy” 🤣,0.4939,Positive,0.0,Neutral,0.5667845606803894,Positive
 Bruh dimucc is a goat,0.0,Neutral,0.0,Neutral,-0.4759417772293091,Negative
 1:01 i made  the same face,0.0,Neutral,0.0,Neutral,-0.4980722665786743,Negative
-ask drunk people what their view on digisexuals lol,0.1027,Positive,0.15,Neutral,-0.3926163613796234,Negative
+ask drunk people what their view on digisexuals lol,0.1027,Positive,0.15,Positive,-0.3926163613796234,Negative
 Do the duck thing with the animal therapist lady would be hilarious,0.4019,Positive,0.5,Positive,0.3581220507621765,Positive
 I cringed so hard at the 9:04 mark,-0.2183,Negative,-0.2916666666666667,Negative,-0.4998101592063904,Negative
 I watch anime but these people ruin it,-0.7351,Negative,0.0,Neutral,-0.4210095107555389,Negative
@@ -508,7 +508,7 @@ Troll her she wack,0.0,Neutral,0.0,Neutral,-0.4658937454223633,Negative
 I miss ray 😢,-0.5719,Negative,0.0,Neutral,0.3163017630577087,Neutral
 His EYES at 3:00.,0.0,Neutral,0.0,Neutral,-0.4002987742424011,Negative
 What the guck that got me. Dead mf said  I hear hiM 💀,-0.6486,Negative,-0.2,Negative,0.415769875049591,Positive
-I have contracted a very rare disease called cringe but it is on its final stage soooooo I will die soon,-0.7469,Negative,0.195,Neutral,-0.358429342508316,Negative
+I have contracted a very rare disease called cringe but it is on its final stage soooooo I will die soon,-0.7469,Negative,0.195,Positive,-0.358429342508316,Negative
 ???? guy at 0:24 goes to my school lmao,0.7059,Positive,0.6,Positive,-0.5135781764984131,Negative
 Bro was geeked lmao,0.5994,Positive,0.6,Positive,-0.4366278648376465,Negative
 ayo this is a cool video,0.3182,Positive,0.35,Positive,0.5385036468505859,Positive
@@ -516,11 +516,11 @@ im probobly gonna get shit on for this but i dont get the joke at 3:56,-0.5621,N
 3:01 his fucking face 💀,0.0,Neutral,-0.6,Negative,-0.5232462286949158,Negative
 crispy why are you doing this to yourself,0.0,Neutral,0.0,Neutral,0.4332128465175628,Positive
 Ask a dr@nk peorson this; USE THE TOASTER x37,0.0,Neutral,0.0,Neutral,0.2678849101066589,Neutral
-Ask women what their female body count is and vise versa for dudes. See who you get caught out lmao,0.5994,Positive,0.3,Neutral,-0.3137328028678894,Negative
-10:09 nearly got canceled,0.0,Neutral,0.1,Neutral,-0.5879682898521423,Negative
+Ask women what their female body count is and vise versa for dudes. See who you get caught out lmao,0.5994,Positive,0.3,Positive,-0.3137328028678894,Negative
+10:09 nearly got canceled,0.0,Neutral,0.1,Positive,-0.5879682898521423,Negative
 Bruh I watch anime but imma be honest cosplays make me violently cringe,-0.1901,Negative,-0.1,Negative,-0.4456401467323303,Negative
 this was hilarious,0.4019,Positive,0.5,Positive,0.701804518699646,Positive
-I’m ngl during the abortion stuff I literally got an ad about family fun,0.5106,Positive,0.3,Neutral,-0.4338241517543793,Negative
+I’m ngl during the abortion stuff I literally got an ad about family fun,0.5106,Positive,0.3,Positive,-0.4338241517543793,Negative
 I can’t even ironically find these funny lol,0.6908,Positive,0.525,Positive,0.5047436356544495,Positive
 5:46 bro looks like he weighs 130 lmfao,0.7184,Positive,0.0,Neutral,-0.387970507144928,Negative
 8:29 that looks like my vomit lol,0.6486,Positive,0.8,Positive,-0.4885401129722595,Negative
@@ -532,14 +532,14 @@ I've watched a lot of your videos and this one's kind of be I got to be losing b
 
 
 
-If you don’t mind being mentally tortured for 9 hours",-0.0772,Negative,0.0999999999999999,Neutral,0.3081392645835876,Neutral
+If you don’t mind being mentally tortured for 9 hours",-0.0772,Negative,0.0999999999999999,Positive,0.3081392645835876,Neutral
 bro i fucking love this dude no homo,0.5095,Positive,0.5,Positive,0.6886038780212402,Positive
 I had that exact relationship it was awful.,-0.4588,Negative,-0.375,Negative,-0.7907789349555969,Negative
 LMFAOOO “God damn it white ppl can’t have nothing” 😂😂😂 this video was more funny than cringe,0.9303,Positive,0.3375,Positive,-0.3646074831485748,Negative
 "Bruh how he got 77,428 views and only 7k likes??",0.4871,Positive,0.0,Neutral,-0.5374902486801147,Negative
-Fun fact: My friend payed $10 for a commision for afartaday to cheer me up 💀💀,0.8689,Positive,0.3,Neutral,0.5247390866279602,Positive
+Fun fact: My friend payed $10 for a commision for afartaday to cheer me up 💀💀,0.8689,Positive,0.3,Positive,0.5247390866279602,Positive
 "Freaking weird kids, I hate them",-0.802,Negative,-0.65,Negative,-0.7203468680381775,Negative
-"Ask a drunk person on the street what their favorite movie is and when they answer just tell them they’re wrong and to pick a better one, and then just keep doing it after each movie they list lol",0.4939,Positive,0.16,Neutral,-0.2697263062000274,Negative
+"Ask a drunk person on the street what their favorite movie is and when they answer just tell them they’re wrong and to pick a better one, and then just keep doing it after each movie they list lol",0.4939,Positive,0.16,Positive,-0.2697263062000274,Negative
 I have lost all faith in humanity 😭,-0.3818,Negative,0.0,Neutral,0.5099321007728577,Positive
 anyone knows whos philup,0.0,Neutral,0.0,Neutral,-0.3621302247047424,Negative
 crispy i know your dream,0.25,Positive,0.0,Neutral,0.6396415829658508,Positive
@@ -549,13 +549,13 @@ my head started to ache at the last one,-0.3818,Negative,0.0,Neutral,-0.46812295
 ngl tiktok is the worst thing in the world,-0.6249,Negative,-1.0,Negative,-0.9374631643295288,Negative
 im gonna commit,0.296,Positive,0.0,Neutral,0.2227455228567123,Neutral
 "man the mha fandom needs to shrivel up and burn in the pits of hell, at least the ones who cosplay",-0.6808,Negative,-0.3,Negative,-0.3430483341217041,Negative
-The teachers really did get fired for that search it up,-0.5945,Negative,0.2,Neutral,-0.2665529549121856,Negative
+The teachers really did get fired for that search it up,-0.5945,Negative,0.2,Positive,-0.2665529549121856,Negative
 why can’t we just send like all the people on this video to concentration camps just an idea,0.3612,Positive,0.0,Neutral,-0.5213245749473572,Negative
 But he will pin this one tho,0.0,Neutral,0.0,Neutral,-0.2861689329147339,Negative
 Please go with a duck,0.3182,Positive,0.0,Neutral,-0.4241923689842224,Negative
 "Ayo cripsy you need to ask some drunk person, If you water your shower on a wednesday and its a weekend how many flavors of the rainbow can you smell with your ears.",-0.34,Negative,0.0,Neutral,-0.3515043556690216,Negative
 some of the best content out there,0.6369,Positive,1.0,Positive,0.6340846419334412,Positive
-"Hey imma say this right now, boku no hero is good but the half the freaking fanbase is so damn cringe, makes others feel like all its fans are like that",-0.4495,Negative,0.273015873015873,Neutral,-0.3743965327739715,Negative
+"Hey imma say this right now, boku no hero is good but the half the freaking fanbase is so damn cringe, makes others feel like all its fans are like that",-0.4495,Negative,0.273015873015873,Positive,-0.3743965327739715,Negative
 This generation hurts me. bro I cant take more of this,-0.4767,Negative,0.5,Positive,0.3751556575298309,Positive
 Crispy got on the wife beater under that shirt 💀👿,-0.5106,Negative,0.0,Neutral,0.3734809160232544,Positive
 I BE HERE FOR INCEST GIMME THAT DUDE,0.0,Neutral,0.0,Neutral,-0.5417239665985107,Negative
@@ -563,7 +563,7 @@ Does the Legend Reply?!,0.0,Neutral,0.0,Neutral,-0.3145790994167328,Negative
 """no parents""",0.0,Neutral,0.0,Neutral,-0.440639853477478,Negative
 thank god he didnt finish the last video,0.5574,Positive,0.0,Neutral,-0.6062267422676086,Negative
 what dog,0.0,Neutral,0.0,Neutral,0.2957243621349334,Neutral
-"That compilation made me actually vomit. Crispy, I love you and your content but I can't finish this video. Take my like but I can't watch the whole thing",0.705,Positive,0.2333333333333333,Neutral,-0.543197512626648,Negative
+"That compilation made me actually vomit. Crispy, I love you and your content but I can't finish this video. Take my like but I can't watch the whole thing",0.705,Positive,0.2333333333333333,Positive,-0.543197512626648,Negative
 nah that women trying to gatekeep that was hilarious,0.3182,Positive,0.5,Positive,-0.2811664342880249,Negative
 Tiktok is making the world go stupid damn!,-0.75,Negative,-1.0,Negative,-0.7360252141952515,Negative
 I hate myself and you for watching this,-0.5719,Negative,-0.8,Negative,-0.5618836879730225,Negative
@@ -576,14 +576,14 @@ DUDE I CANT WATCH SOMETHING THATS TOO CRINGEY AND 9:08 IS THE ONE,0.0,Neutral,0.
 All this for clout really and the last was really hard to watch thank God you ended it there .,0.4417,Positive,-0.0305555555555555,Negative,-0.3481372594833374,Negative
 Ask drunk people what's their favorite smp member,0.1531,Positive,0.0,Neutral,0.7871167659759521,Positive
 13th term abortions dont seem so bad after this video,-0.6696,Negative,-0.3499999999999999,Negative,-0.442063421010971,Negative
-Cant get over how much you look like billy russo from Punisher,-0.1027,Negative,0.2,Neutral,-0.3702066838741302,Negative
+Cant get over how much you look like billy russo from Punisher,-0.1027,Negative,0.2,Positive,-0.3702066838741302,Negative
 Jesus Christ the last clip is why I hate talking about anime to non anime watchers cause I feel like I’ll just lose all my social credit 😂 like why can’t we just have someone be normal and not be ruined by the internet,0.6862,Positive,-0.1541666666666666,Negative,-0.7232691049575806,Negative
 Compilations like these make me think that maybe we should have a nuclear war and destroy the whole world 🤷🏻,-0.7096,Negative,0.0,Neutral,0.3699203431606293,Positive
 thumbnail got me 🧱’d up,0.0,Neutral,0.0,Neutral,0.3598856627941131,Positive
 ask random drunk ppl how fast they were going,-0.34,Negative,-0.2666666666666666,Negative,-0.3018563687801361,Negative
 What was the TikTok of that last one,0.0,Neutral,0.0,Neutral,-0.2863480448722839,Negative
 12:11 aaaaayyyyooooo.... 😳😳😳,0.0,Neutral,0.0,Neutral,-0.3211600482463836,Negative
-Let's take a moment to appreciate how much effort he puts into his content for us.great job,0.4019,Positive,0.2,Neutral,0.5032702684402466,Positive
+Let's take a moment to appreciate how much effort he puts into his content for us.great job,0.4019,Positive,0.2,Positive,0.5032702684402466,Positive
 I was in the outro. Crazy,-0.34,Negative,-0.6,Negative,-0.2621491551399231,Negative
 Crispy and I have the same necklace,0.0,Neutral,0.0,Neutral,0.4078844487667084,Positive
 I hate people who ruin mha they will remain single for life,-0.8176,Negative,-0.4357142857142857,Negative,-0.4559420049190521,Negative
@@ -597,10 +597,10 @@ God I dislike deku's character he is annoying,-0.4939,Negative,-0.8,Negative,-0.
 """lay on me mommy""",0.0,Neutral,0.0,Neutral,0.339612752199173,Positive
 Everytime I see a tiktok I wonder why it still exists or ever was made. It's so stupid/cringe but we suffer with crispy,-0.6956,Negative,0.0,Neutral,-0.3882529139518738,Negative
 ask drunk people their thoughts on playstation 2 graphics,-0.34,Negative,-0.5,Negative,-0.3743813633918762,Negative
-6:10 it’s satire hahahaha,0.0,Neutral,0.2,Neutral,0.2464503496885299,Neutral
-That last girl has amazing acting skills with a nice face,0.765,Positive,0.3,Neutral,0.681125283241272,Positive
+6:10 it’s satire hahahaha,0.0,Neutral,0.2,Positive,0.2464503496885299,Neutral
+That last girl has amazing acting skills with a nice face,0.765,Positive,0.3,Positive,0.681125283241272,Positive
 question: how long have you been a girl/boy ?,0.0,Neutral,-0.05,Negative,-0.2809927761554718,Negative
-"I regret watching this, those tiktoks where absolutely vile",-0.8016,Negative,0.2,Neutral,-0.7280949950218201,Negative
+"I regret watching this, those tiktoks where absolutely vile",-0.8016,Negative,0.2,Positive,-0.7280949950218201,Negative
 "Ask them 
 Do women love when men bark",0.6369,Positive,0.5,Positive,0.2439083755016327,Neutral
 dude I regret eating while watching this,-0.4215,Negative,0.0,Neutral,-0.4822016358375549,Negative
@@ -614,13 +614,13 @@ AÑA,0.0,Neutral,0.0,Neutral,0.2526272237300873,Neutral
 "1:22
 Bitch just said ""I'm sorry but your dog thinks your fatphobic""",-0.3716,Negative,-0.5,Negative,-0.5134917497634888,Negative
 I love how everytime he uploads on both channels the background changes,0.6369,Positive,0.5,Positive,0.6493434906005859,Positive
-"Ahh finally a new upload from my favorite!! ❤️ wth with the butt hair girl, no , I wouldn’t let it get that long !! A girls booty shouldn’t be that hairy like dayyyuumm",-0.3111,Negative,0.2798295454545454,Neutral,0.3806395530700683,Positive
+"Ahh finally a new upload from my favorite!! ❤️ wth with the butt hair girl, no , I wouldn’t let it get that long !! A girls booty shouldn’t be that hairy like dayyyuumm",-0.3111,Negative,0.2798295454545454,Positive,0.3806395530700683,Positive
 Yay!,0.5707,Positive,0.0,Neutral,0.364862710237503,Positive
 i rlly love ur content plus u remind me of a youtuber called teryjaki,0.6697,Positive,0.5,Positive,0.568708062171936,Positive
 CRISPY? WHAT WAS THAT? 8:14,0.0,Neutral,0.0,Neutral,-0.4374045431613922,Negative
-Ask drunk people to do their best Peter Griffin inpresion,0.5719,Positive,0.25,Neutral,0.2182339876890182,Neutral
+Ask drunk people to do their best Peter Griffin inpresion,0.5719,Positive,0.25,Positive,0.2182339876890182,Neutral
 "So much bullshit washed over the earth in the last few years, the early 2010s were nice. :(",-0.6344,Negative,-0.0083333333333333,Negative,-0.5608903169631958,Negative
-every clip you showed is exactly why TikTok should be shut down.,0.0,Neutral,0.0472222222222222,Neutral,-0.4040379822254181,Negative
+every clip you showed is exactly why TikTok should be shut down.,0.0,Neutral,0.0472222222222222,Positive,-0.4040379822254181,Negative
 After this I wanna puke bc of these tiktoks,-0.5267,Negative,0.0,Neutral,0.2628330588340759,Neutral
 Keep Shaving that beard hopefully it will be fuller in the areas where it’s thin. Join the beard crew,0.5994,Positive,-0.4,Negative,0.3597532212734222,Positive
 Dad's back with the milk,0.0,Neutral,0.0,Neutral,0.287829726934433,Neutral
@@ -653,20 +653,20 @@ Buy the McQueen chain it’s been a year,0.0,Neutral,0.0,Neutral,0.5423308014869
 "In the first 30 seconds i was cringing, as a Russian that video hurt my soul. Like first off Russia isn’t a communist country anymore, second the accent was absolutely horrible, third the Russian stereotype for the whole vodka thing.💀",-0.7902,Negative,-0.0375,Negative,-0.7436935305595398,Negative
 hows it feel i know your ip addres,0.0,Neutral,0.0,Neutral,0.5213586688041687,Positive
 Why does the “empath” girl look like rob fucking Schneider,-0.2732,Negative,-0.6,Negative,-0.602330207824707,Negative
-"After viewing this evidence, I’ve come to the decision that yes. Thanos was right.",0.4019,Positive,0.2857142857142857,Neutral,0.3052540123462677,Neutral
+"After viewing this evidence, I’ve come to the decision that yes. Thanos was right.",0.4019,Positive,0.2857142857142857,Positive,0.3052540123462677,Neutral
 Between furries and shitty diapers I made a bad choice to play this as I ate my food,-0.6908,Negative,-0.6999999999999998,Negative,-0.2804682552814483,Negative
-Crispy talking about how people got famous by making videos in their bedrooms acting like he didn’t do the same,0.3612,Positive,0.1666666666666666,Neutral,0.3148966133594513,Neutral
+Crispy talking about how people got famous by making videos in their bedrooms acting like he didn’t do the same,0.3612,Positive,0.1666666666666666,Positive,0.3148966133594513,Neutral
 I don't know why but i found almost all of the tiktoks relatable,0.0,Neutral,0.0,Neutral,0.4403279721736908,Positive
 0:52 “she survived” you already know if that person sees it they are gonna freak out. “I identify as a elf spirit princess Unicorn alien rainbow furry bi non-binary English muffin”,-0.296,Negative,-0.125,Negative,-0.7276355028152466,Negative
 "3:00 or 2:59 they meant ""step-siblings""",0.0,Neutral,0.0,Neutral,-0.3083071708679199,Negative
-only 6k veiws so far people slackin on extra crispy,0.0,Neutral,0.0333333333333333,Neutral,-0.2979401051998138,Negative
+only 6k veiws so far people slackin on extra crispy,0.0,Neutral,0.0333333333333333,Positive,-0.2979401051998138,Negative
 lets goo another crispy video,0.0,Neutral,0.0,Neutral,0.3084051609039306,Neutral
 Ask a drunk person how much it would take for them to up to someone random and start holding their hand,0.2023,Positive,-0.2666666666666666,Negative,-0.2958542704582214,Negative
 1:43 and what do i have to be smoking for this to happen?,0.0,Neutral,0.0,Neutral,-0.3889510631561279,Negative
 Who was in Paris,0.0,Neutral,0.0,Neutral,-0.2251187711954116,Negative
 Wtf,-0.5859,Negative,-0.5,Negative,0.3218501508235931,Neutral
 Yo crispy are you asexual,0.0,Neutral,0.0,Neutral,-0.413201630115509,Negative
-"You 100% need to go back to 6th street with bbno$ and Mizkif, that would be an insane video. The hard part will be convincing Miz to go back for that kind of video lol",0.34,Positive,0.0869047619047619,Neutral,-0.5094083547592163,Negative
+"You 100% need to go back to 6th street with bbno$ and Mizkif, that would be an insane video. The hard part will be convincing Miz to go back for that kind of video lol",0.34,Positive,0.0869047619047619,Positive,-0.5094083547592163,Negative
 Ask drunk people what their favorite color of picture frame is,0.1531,Positive,0.0,Neutral,0.3061882257461548,Neutral
 Ask drunk people “What is your…” and just watch the confusion,-0.5574,Negative,-0.5,Negative,0.4272800385951996,Positive
 Bruh that boogie2298 reference killed me,-0.6705,Negative,-0.2,Negative,-0.7403925061225891,Negative
@@ -678,6 +678,6 @@ GO BAXK TO SIXTH STREET,0.0,Neutral,0.0,Neutral,-0.4002787470817566,Negative
 boo,0.0,Neutral,0.0,Neutral,0.234233021736145,Neutral
 "Ask drunk people, ""What's your favorite drug and why?""",0.1531,Positive,0.0,Neutral,0.3001028299331665,Neutral
 MHA mf make everything just shit man it was so cringe,-0.5574,Negative,-0.2,Negative,-0.7440104484558105,Negative
-… this vid started hard… and didn’t really stop. Thanks.. I guess hahaha,0.6469,Positive,0.2,Neutral,-0.3863726854324341,Negative
+… this vid started hard… and didn’t really stop. Thanks.. I guess hahaha,0.6469,Positive,0.2,Positive,-0.3863726854324341,Negative
 been waiting a bit for a vid like this,0.3612,Positive,0.0,Neutral,0.4095630347728729,Positive
 Ayeee wassupbruh,0.0,Neutral,0.0,Neutral,-0.2643336057662964,Negative

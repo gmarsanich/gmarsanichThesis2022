@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 legend.,0.0,Neutral,0.0,Neutral,0.5001567006111145,Positive
-Classic ❤️,0.0,Neutral,0.1666666666666666,Neutral,0.6648107171058655,Positive
+Classic ❤️,0.0,Neutral,0.1666666666666666,Positive,0.6648107171058655,Positive
 Priceless song still,0.0,Neutral,1.0,Positive,-0.2216878086328506,Negative
 Tôi yêu phố mai,0.6369,Positive,0.5,Positive,0.4346717298030853,Positive
 We Love's You Freddie🥰👑,0.8074,Positive,0.5,Positive,0.7254818677902222,Positive
@@ -21,14 +21,14 @@ The greatest band of our times! Prolly the best ever! This combo people see once
 from Japanese high school student❤️❤️",0.8827,Positive,0.415,Positive,0.925662875175476,Positive
 perfeição,0.5719,Positive,0.0,Neutral,0.6928519606590271,Positive
 A wee and very long masterpiece which I played in jukeboxes in greasy cafes after school in MFelt way back in the day.,0.7769,Positive,-0.0325,Negative,0.7358136177062988,Positive
-"Wow. Spoke tome, as they say, when first out.",0.5859,Positive,0.175,Neutral,0.7420597672462463,Positive
+"Wow. Spoke tome, as they say, when first out.",0.5859,Positive,0.175,Positive,0.7420597672462463,Positive
 великий великий великий....и ещё бесконечное раз великий певец и его голос,0.9565,Positive,0.5958333333333333,Positive,0.8471599221229553,Positive
-Get it cus he was gay in a time when gays were looked down upon,0.0,Neutral,0.1305555555555555,Neutral,-0.3355621993541717,Negative
-"Always has been my fav Queen song but I never watched it in video, a whole new experience",0.25,Positive,0.1681818181818181,Neutral,0.4812671244144439,Positive
+Get it cus he was gay in a time when gays were looked down upon,0.0,Neutral,0.1305555555555555,Positive,-0.3355621993541717,Negative
+"Always has been my fav Queen song but I never watched it in video, a whole new experience",0.25,Positive,0.1681818181818181,Positive,0.4812671244144439,Positive
 "Omg that freddy is a peach, wish we could freeze time at our best",0.7964,Positive,1.0,Positive,-0.2563081979751587,Negative
 "Fn crazy wonderful, happy, beautiful, I just went from feeling blue, I’m sitting here with a big smile just blown away, what a band, sexy freddie with the most amazing eyes I’ve ever w o w",0.9657,Positive,0.395,Positive,0.9489246606826782,Positive
 Ta chebere👌👌👌👌,0.9736,Positive,0.0,Neutral,0.3145887851715088,Neutral
-"Colorful wasn't the word I would use then. Everything was new and above all expectant. When this song, while I already loved Queen, came out, it all came together: Queen made short work of coquetry by stripping coquetry from the mainstream. Somebody to love is an icon, nothing can hurt icons.",0.8974,Positive,0.2727272727272727,Neutral,0.2392692118883133,Neutral
+"Colorful wasn't the word I would use then. Everything was new and above all expectant. When this song, while I already loved Queen, came out, it all came together: Queen made short work of coquetry by stripping coquetry from the mainstream. Somebody to love is an icon, nothing can hurt icons.",0.8974,Positive,0.2727272727272727,Positive,0.2392692118883133,Neutral
 All songs of Queen with Freddie together they are as One...are Masterpieces..they are everyday on my mind and heart.,0.6369,Positive,-0.2,Negative,0.8794382810592651,Positive
 Its 2022 and people still watch this is a masterpiece friedie we all love you,0.8519,Positive,0.5,Positive,0.8956245183944702,Positive
 Queen always the Best,0.6369,Positive,1.0,Positive,0.9094931483268738,Positive
@@ -36,21 +36,21 @@ Who’s here after Cinderella?,0.0,Neutral,0.0,Neutral,0.298599362373352,Neutral
 Que nazcan más Freddy Mercury que Bad Bunny por favor Diosito,-0.296,Negative,-0.0999999999999999,Negative,-0.28941810131073,Negative
 Better than Rhapsody in some way ........ !,0.4926,Positive,0.625,Positive,0.4603742957115173,Positive
 "Bị nghiện bài này từ thời Bảo Thy, ko ngờ lại có ngày được nghe idol mới trong lòng mình Đức Phúc cover lại. Cảm ơn em ĐP vì đã cover lại lắng đọng cảm xúc như vậy",0.7717,Positive,-0.0878787878787878,Negative,-0.3917026221752167,Negative
-"""every day ive tried, ive tried, ive tried, but everybody wants to put me down, they say 'im going crazy'"" this part of the song is so addicting for some reason lmao",0.5023,Positive,0.0111111111111111,Neutral,0.2979711890220642,Neutral
+"""every day ive tried, ive tried, ive tried, but everybody wants to put me down, they say 'im going crazy'"" this part of the song is so addicting for some reason lmao",0.5023,Positive,0.0111111111111111,Positive,0.2979711890220642,Neutral
 Deacon’s bass playing was underrated.,0.2023,Positive,-0.15,Negative,0.5002725720405579,Positive
 "Freddie's voice is immaculate on this one, isn't it? Absolutely stunning vocal power.",-0.3401,Negative,0.5,Positive,0.7446094155311584,Positive
-Im only 15 but i like queen when i was kid!! so was maybe 6? 7? And I still love them<3,0.8999,Positive,0.25,Neutral,0.4617578387260437,Positive
+Im only 15 but i like queen when i was kid!! so was maybe 6? 7? And I still love them<3,0.8999,Positive,0.25,Positive,0.4617578387260437,Positive
 Myself💯 can't be bothered with people I don't trust ..  fuck that🖕,0.2755,Positive,-0.4,Negative,-0.7141460180282593,Negative
-"..ëntonces estas libre...en la libertad...la compañera,la soledad,riotmica soledad con cafe party..vgivgiendop la liibertad..que tan pura y sacra...diary to day.",-0.6808,Negative,0.2142857142857142,Neutral,0.4330388307571411,Positive
-Una de las más hermosas canciones que el espíritu humano ha sido capaz de crear... Ruego porque nadie padezca el infortunio de vivir sin conocerla.,0.864,Positive,0.25,Neutral,0.8987581729888916,Positive
-Freddie had such a sweet voice. This was some touch of Aretha franklin mixed with rock. Freddie loved Aretha wish he sang with her.,0.8625,Positive,0.2624999999999999,Neutral,0.3714363276958465,Positive
+"..ëntonces estas libre...en la libertad...la compañera,la soledad,riotmica soledad con cafe party..vgivgiendop la liibertad..que tan pura y sacra...diary to day.",-0.6808,Negative,0.2142857142857142,Positive,0.4330388307571411,Positive
+Una de las más hermosas canciones que el espíritu humano ha sido capaz de crear... Ruego porque nadie padezca el infortunio de vivir sin conocerla.,0.864,Positive,0.25,Positive,0.8987581729888916,Positive
+Freddie had such a sweet voice. This was some touch of Aretha franklin mixed with rock. Freddie loved Aretha wish he sang with her.,0.8625,Positive,0.2624999999999999,Positive,0.3714363276958465,Positive
 mi tema favorito,0.4588,Positive,0.5,Positive,0.7046454548835754,Positive
 This song hits hard,-0.1027,Negative,-0.2916666666666667,Negative,0.2698320150375366,Neutral
 Freddie è spettacolare,0.0,Neutral,0.6,Positive,0.7633106708526611,Positive
 Me too <3 :'),0.7351,Positive,1.0,Positive,0.4067934453487396,Positive
 The way that these songs make you feel is indescribable,0.0,Neutral,0.0,Neutral,-0.375167042016983,Negative
 barbaro,0.0,Neutral,0.0,Neutral,-0.5535308718681335,Negative
-THANKS YOUTUBE FOR BEING THE CLOSET THING TO A TIME MACHINE THE WORLD HAS EVER SEEN SO FAR.👍👍👍,0.5622,Positive,0.2,Neutral,0.8199626803398132,Positive
+THANKS YOUTUBE FOR BEING THE CLOSET THING TO A TIME MACHINE THE WORLD HAS EVER SEEN SO FAR.👍👍👍,0.5622,Positive,0.2,Positive,0.8199626803398132,Positive
 "I'm just saying, u can't do it like that anymore",-0.2755,Negative,0.0,Neutral,-0.4271671772003174,Negative
 Lives forever u can feel all that emotion to your soul,0.0,Neutral,0.0,Neutral,0.8154504299163818,Positive
 Such a talented band 💕,0.8225,Positive,0.35,Positive,0.8136551380157471,Positive
@@ -59,14 +59,14 @@ Rip loved you singing,0.5994,Positive,0.7,Positive,0.4469530880451202,Positive
 John Deacon just a like Hakim Ziyech,0.3612,Positive,0.0,Neutral,0.4018399119377136,Positive
 I'm 14 and I stiil love qeen,0.6369,Positive,0.5,Positive,0.6476063132286072,Positive
 Hi Sammy!!☀️💙⭐️☀️,0.6988,Positive,0.0,Neutral,0.4216395020484924,Positive
-I find the guitarist hot 🥰,0.8074,Positive,0.25,Neutral,0.3826748132705688,Positive
+I find the guitarist hot 🥰,0.8074,Positive,0.25,Positive,0.3826748132705688,Positive
 Vocals and Harmonies👏👏👏,0.3182,Positive,0.0,Neutral,0.3843093514442444,Positive
-"🥰 my favorite band, and this is my fav song of theirs, wish I had been alive to go see them, long live Queen, they will capture the world forever 👑🥰👑",0.9774,Positive,0.171590909090909,Neutral,0.9329966902732848,Positive
-EPIC,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
+"🥰 my favorite band, and this is my fav song of theirs, wish I had been alive to go see them, long live Queen, they will capture the world forever 👑🥰👑",0.9774,Positive,0.171590909090909,Positive,0.9329966902732848,Positive
+EPIC,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
 Somebody to Love,0.6369,Positive,0.5,Positive,0.6765252351760864,Positive
-Pure ecstasy,0.5994,Positive,0.2142857142857142,Neutral,-0.3905558586120605,Negative
-"Ese Roger T, como toca esa bateria, epico artista!",0.3164,Positive,0.125,Neutral,0.8677294850349426,Positive
-"Grande,. Freedy. Mercuri heras único que de verdad el señor te de un poco de amor en donde quieras que estés",0.7787,Positive,0.078125,Neutral,0.3658077716827392,Positive
+Pure ecstasy,0.5994,Positive,0.2142857142857142,Positive,-0.3905558586120605,Negative
+"Ese Roger T, como toca esa bateria, epico artista!",0.3164,Positive,0.125,Positive,0.8677294850349426,Positive
+"Grande,. Freedy. Mercuri heras único que de verdad el señor te de un poco de amor en donde quieras que estés",0.7787,Positive,0.078125,Positive,0.3658077716827392,Positive
 i wish i had someone to love...,0.7845,Positive,0.5,Positive,0.2896642684936523,Neutral
 We all need somebody to Love! Such Talent! Great 🎵 🎶,0.9133,Positive,0.475,Positive,0.9629718661308287,Positive
 Meda oportunidade de participar num chow com vocês,0.4215,Positive,0.0,Neutral,0.4428645670413971,Positive
@@ -84,13 +84,13 @@ Still leaves me speechless..",0.7073,Positive,0.0,Neutral,0.5651325583457947,Pos
 The 1973 and 1991 amazing,0.5859,Positive,0.6000000000000001,Positive,0.7030836939811707,Positive
 Somebody to love bite me,0.6369,Positive,0.5,Positive,0.5228998064994812,Positive
 "This was Freddie’s fav. Mine too Freddie, mine too.❤️",0.4588,Positive,0.0,Neutral,0.7170213460922241,Positive
-Cuando la música era realmente música y la gente tenía talento,0.4215,Positive,0.2,Neutral,-0.25342857837677,Negative
+Cuando la música era realmente música y la gente tenía talento,0.4215,Positive,0.2,Positive,-0.25342857837677,Negative
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍😊😊😊😊😊😊,0.9872,Positive,0.0,Neutral,0.3085779249668121,Neutral
 That guitar solo is timeless 🤘🏽,0.0,Neutral,0.0,Neutral,-0.4397843182086944,Negative
 Queen is Awesome,0.6249,Positive,1.0,Positive,0.808759331703186,Positive
 Masterpiece so much great music  and singing. I See TH singing it RIP both my heros,0.8952,Positive,0.8,Positive,0.9336050748825072,Positive
 "Se me eriza la piel,  simplemente sublime,  magistral,  espectacular,  maravilloso.  👏👏👏👏👏👏👏",0.5719,Positive,0.65,Positive,0.9613757133483888,Positive
-Wow Freddie s vocals are out of this world... Legend ❤️,0.5859,Positive,0.1,Neutral,0.7391729950904846,Positive
+Wow Freddie s vocals are out of this world... Legend ❤️,0.5859,Positive,0.1,Positive,0.7391729950904846,Positive
 Con oírla se sienten todas la emociones coros voz de Freddy Brian may Jonh deacon yRoger Taylor son inigualables 🤟,-0.0772,Negative,0.0,Neutral,0.3633159101009369,Positive
 "piano: piano sound
 Freddie Mercury: caannnnn...
@@ -103,13 +103,13 @@ Those vocals are pretty amazing.  Lead and background.,0.7906,Positive,0.425,Pos
 Anyone who says music was better back in the day is nostalgic. This is awful. I remember hearing this in a store with my friends and in the breakdown when it’s just Freddie mercury singing acapella we just busted out laughing it was so bad,0.18,Positive,-0.3399999999999999,Negative,-0.9602603912353516,Negative
 The best song from queen ever,0.6369,Positive,1.0,Positive,0.9283974170684814,Positive
 2:08 Freddie Is Throwing Magic at Brian.  Stars.,0.0,Neutral,0.5,Positive,0.3434115350246429,Positive
-Saw Queen in their prime in Omaha. The last years of Freddies life. The ultimate professionals on stage a great show. They opened with jailhouse rock.,0.6249,Positive,0.2666666666666666,Neutral,0.7720717191696167,Positive
+Saw Queen in their prime in Omaha. The last years of Freddies life. The ultimate professionals on stage a great show. They opened with jailhouse rock.,0.6249,Positive,0.2666666666666666,Positive,0.7720717191696167,Positive
 Este es un buen recuerdo de un amigo :',0.7269,Positive,0.7,Positive,0.4383612871170044,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Soy argentino y me da gusto verlos y escucharlos ahora 💪💪💪💖💖🇦🇷,0.891,Positive,0.5,Positive,0.527431845664978,Positive
-"Aceste adevărate talente și-au făcut loc printre nemuritori ! Jos pălăria ! Părerea mea este ca Freddie chiar dacă a avut o viata scurta , a avut una bună, chiar dacă nu ușoară ! Acest mare artist a murit din cauza ca era poponar , pentru ca a luat SIDA ulterior ! Și în ziua de azi se promovează homosexualitatea... Rușii nu au făcut bine ca au invadat Ucraina , doresc pace în lume și sa nu mai existe victime , dar pana la urma asa e în război... dar măcar rusii au fost împotriva homosexualilor ! Pana la urmă e treaba lor ce fac în viata privata , dar sa se gândească totuși cum a murit Freddie Mercury ... pentru ca pot sa sfârșească ca el ! Totuși chiar și cu acest viciu , eu îl consider unul dintre cei mai mari artiști din toate timpurile !",0.607,Positive,0.2963541666666667,Neutral,0.6572253108024597,Positive
+"Aceste adevărate talente și-au făcut loc printre nemuritori ! Jos pălăria ! Părerea mea este ca Freddie chiar dacă a avut o viata scurta , a avut una bună, chiar dacă nu ușoară ! Acest mare artist a murit din cauza ca era poponar , pentru ca a luat SIDA ulterior ! Și în ziua de azi se promovează homosexualitatea... Rușii nu au făcut bine ca au invadat Ucraina , doresc pace în lume și sa nu mai existe victime , dar pana la urma asa e în război... dar măcar rusii au fost împotriva homosexualilor ! Pana la urmă e treaba lor ce fac în viata privata , dar sa se gândească totuși cum a murit Freddie Mercury ... pentru ca pot sa sfârșească ca el ! Totuși chiar și cu acest viciu , eu îl consider unul dintre cei mai mari artiști din toate timpurile !",0.607,Positive,0.2963541666666667,Positive,0.6572253108024597,Positive
 Freddie Mercury ❤️      April 2022,0.0,Neutral,0.0,Neutral,0.3187138438224792,Neutral
-I'm 14 year old but i so love this song and Queen ❤,0.9464,Positive,0.3,Neutral,0.7891567945480347,Positive
+I'm 14 year old but i so love this song and Queen ❤,0.9464,Positive,0.3,Positive,0.7891567945480347,Positive
 Geniuses 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.7814022898674011,Positive
 https://youtu.be/guu2FJGaYIQ,0.0,Neutral,0.0,Neutral,-0.2311202585697174,Negative
 "Whenever i remember that my crush will never like me back, i play this song...",-0.0798,Negative,0.0,Neutral,0.4317772388458252,Positive
@@ -120,7 +120,7 @@ I really miss that man!!!,-0.4155,Negative,0.390625,Positive,-0.6083542108535767
 💓,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Guys shhh. Freddie Mercury is singing,0.0,Neutral,0.0,Neutral,0.3572288155555725,Positive
 Alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
-some of us  are older but some of us still have our grey matter so we can still listen to our fav. songs and love them,0.9052,Positive,0.2055555555555555,Neutral,0.4585780203342438,Positive
+some of us  are older but some of us still have our grey matter so we can still listen to our fav. songs and love them,0.9052,Positive,0.2055555555555555,Positive,0.4585780203342438,Positive
 Hermosa música ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🥺,0.5994,Positive,0.85,Positive,0.7265239357948303,Positive
 Roger be cussing at that mic,0.0,Neutral,0.0,Neutral,0.3052718639373779,Neutral
 "Diz a lenda que essa será a música de encerramento durante o fim do mundo, e bom isso vai ser fantástico",0.6908,Positive,0.4,Positive,0.4928156733512878,Positive
@@ -134,10 +134,10 @@ Btw ada org Malaysia tak kt sini?",0.9042,Positive,0.36,Positive,0.6269407272338
 <3 <3 <3",0.9921,Positive,0.3899999999999999,Positive,0.6737024188041687,Positive
 This is my theme song.,0.0,Neutral,0.0,Neutral,0.5623189806938171,Positive
 "Queen: Somebody to love 
-Kira: And I took that personally",0.6369,Positive,0.25,Neutral,0.7081531882286072,Positive
+Kira: And I took that personally",0.6369,Positive,0.25,Positive,0.7081531882286072,Positive
 i'm 13 and I LOVE queen,0.7125,Positive,0.5,Positive,0.7751170992851257,Positive
 "Still can't get over my admiration to you Freddie you are very rare one in a million. How genius you are in your craft. If I can turn back the hands of time without hesitation I will turn it back. How I've wish that you're still alive you're turning 76 yrs. old this coming September 5, 2022 too young to feed us more memorable, unforgettable, and one of kind music which you and your band friends wrote or composed it. Your ability, sensivity and fashioned is inevitable until now I can't live a day not listening to your songs. I knew that the whole world were saddened of your great lost since November 24, 1991 for31 long years. FREDDIE YOU ARE THE BEST AMONG THE BEST.",0.9812,Positive,0.3633155080213904,Positive,0.5739597082138062,Positive
-For us YOU ARE STILLALIVE,0.516,Positive,0.1,Neutral,0.2903496026992798,Neutral
+For us YOU ARE STILLALIVE,0.516,Positive,0.1,Positive,0.2903496026992798,Neutral
 Atravessando gerações. Demais ❤️❤️❤️❤️ incansável Queen,0.6249,Positive,1.0,Positive,0.3041612207889557,Neutral
 Atravessando gerações. Demais ❤️❤️❤️❤️ incansável Queen,0.6249,Positive,1.0,Positive,0.3041612207889557,Neutral
 "Masterpiece, Masterclass.... Just Queen!",0.6588,Positive,0.0,Neutral,0.9385271072387696,Positive
@@ -158,13 +158,13 @@ https://youtu.be/xXSwe2-kVE8 7,0.0,Neutral,0.0,Neutral,0.2569670975208282,Neutra
 "Without Freddie, we would of never heard of Queen on a Global scale.",0.0,Neutral,0.0,Neutral,0.2972946166992187,Neutral
 Really really amaging~ Queen is still alive in our mind. We will remember the greatest   Queen forever.♥,0.9001,Positive,0.4333333333333333,Positive,0.797861635684967,Positive
 "this is not just a song, this is a drug that can make you addicted 
-20y.o me love this masterpiece",0.8772,Positive,0.0499999999999999,Neutral,0.9236149191856384,Positive
-"I know this comment  will not mean anything to anyone but when I listen to music from this band it always raises my spirits FWIW,",0.0,Neutral,0.15625,Neutral,0.3528808951377868,Positive
+20y.o me love this masterpiece",0.8772,Positive,0.0499999999999999,Positive,0.9236149191856384,Positive
+"I know this comment  will not mean anything to anyone but when I listen to music from this band it always raises my spirits FWIW,",0.0,Neutral,0.15625,Positive,0.3528808951377868,Positive
 На работе сижу слушаю,0.0,Neutral,0.0,Neutral,0.297891616821289,Neutral
 Самые хорошие,0.6697,Positive,1.0,Positive,0.8131693601608276,Positive
-"The Bohemian rhapsody movie introduced me to the Queen music and I love it, it never grows old.",0.6369,Positive,0.3,Neutral,0.7630777359008789,Positive
+"The Bohemian rhapsody movie introduced me to the Queen music and I love it, it never grows old.",0.6369,Positive,0.3,Positive,0.7630777359008789,Positive
 Unico,0.0,Neutral,0.375,Positive,0.2596557140350342,Neutral
-"These video may be auto tune now. Look it up. Freddie doesnt need it, but they did it to many other artists too. Live aid concert was auto tuned.",0.0,Neutral,0.1704545454545454,Neutral,0.2724637389183044,Neutral
+"These video may be auto tune now. Look it up. Freddie doesnt need it, but they did it to many other artists too. Live aid concert was auto tuned.",0.0,Neutral,0.1704545454545454,Positive,0.2724637389183044,Neutral
 Yes it is,0.4019,Positive,0.0,Neutral,0.3582479953765869,Positive
 Yes is it is a masterpicece,0.7783,Positive,0.0,Neutral,0.5478613972663879,Positive
 "Su Majestad Freddie Mercury  , siempre a tus pies!!❤❤❤",0.9347,Positive,0.0,Neutral,0.7338913083076477,Positive
@@ -183,7 +183,7 @@ R.I.P Roger Taylor Hawkins You will be Missed😥,0.1901,Positive,0.0,Neutral,0.
 "Rest in Peace Taylor Hawkins, fly high brother.",0.5423,Positive,0.48,Positive,0.5596127510070801,Positive
 "The thing is when you listen to a queen song, you can't quit it even if the world is ending. Not kidding.",-0.0762,Negative,0.0,Neutral,0.2335777282714843,Neutral
 Literally my fav band. (Read ma name),0.4588,Positive,0.0,Neutral,0.537334144115448,Positive
-Really art,0.0,Neutral,0.2,Neutral,0.6349561810493469,Positive
+Really art,0.0,Neutral,0.2,Positive,0.6349561810493469,Positive
 Like wtf all the musicians dropping 😭😭😭,-0.891,Negative,-0.5,Negative,-0.5778028964996338,Negative
 They had better songs,0.4404,Positive,0.5,Positive,-0.4423702657222748,Negative
 i love ever to queen,0.6369,Positive,0.5,Positive,0.8434598445892334,Positive
@@ -194,7 +194,7 @@ The most talented man in the world Freddie we love you ❤️,0.8313,Positive,0.
 RIP Taylor Hawkins,0.0,Neutral,0.0,Neutral,-0.37477508187294,Negative
 "What is this shit? This is the worst version of Somebody to Love I've ever heard, I wanted to listen to the Jefferson Airplane version. This is awful, how on earth does it come up first?",-0.8181,Negative,-0.29,Negative,-0.9793784022331238,Negative
 Si col,0.4019,Positive,0.0,Neutral,0.2807253003120422,Neutral
-Genio total y absoluto. Gracias por  existir Fredie.,0.3612,Positive,0.1,Neutral,0.9287572503089904,Positive
+Genio total y absoluto. Gracias por  existir Fredie.,0.3612,Positive,0.1,Positive,0.9287572503089904,Positive
 "I'm 22 Queen, George Michael, Michael Jackson, etc are my favourites! 🙌🙏❤️",0.0,Neutral,0.0,Neutral,0.8862987160682678,Positive
 I love this song. I love QUEEN!!!,0.8827,Positive,0.73828125,Positive,0.9320889711380004,Positive
 My god Freddie is gone 30 years 😔❤ god i love this tune !,0.9215,Positive,0.625,Positive,0.9341810941696168,Positive
@@ -206,9 +206,9 @@ This song describes the human condition.  We all want somebody to love.  Its arr
 "Sleep well, Freddie and Taylor.",0.2732,Positive,0.0,Neutral,0.4587671756744385,Positive
 I m 56. Me too. From 🇹🇷 Turkey,0.0,Neutral,0.0,Neutral,-0.3751354515552521,Negative
 Ñ,0.0,Neutral,0.0,Neutral,-0.2178967893123626,Negative
-"hi im a semi menopausle vampire alien human so im mostly intelligent too fast or too relaxed and slow like a human and im diagnosed schizoaffective and this guy committed suicide with aids because he wanted to be gay yet im still here, attempted suicide before, never again, not a harm to anyone, can anybody find me somebody to love? thanks queen i make it all as a human saying gone crazy! xoxo love yall really dont make me announce that too much, im a jew amongst all satanists too really i just know im Canadian",0.9524,Positive,0.1277777777777777,Neutral,-0.6978216171264648,Negative
+"hi im a semi menopausle vampire alien human so im mostly intelligent too fast or too relaxed and slow like a human and im diagnosed schizoaffective and this guy committed suicide with aids because he wanted to be gay yet im still here, attempted suicide before, never again, not a harm to anyone, can anybody find me somebody to love? thanks queen i make it all as a human saying gone crazy! xoxo love yall really dont make me announce that too much, im a jew amongst all satanists too really i just know im Canadian",0.9524,Positive,0.1277777777777777,Positive,-0.6978216171264648,Negative
 I hope Taylor and Freddie are belting this song out together now 🤘💔,0.6124,Positive,0.0,Neutral,0.4182924032211303,Positive
-RIP Taylor Hawkins and RIP Freddie. Still some of my favorite musicians. I hope you guys are up enjoying each other's company and making music together.,0.8519,Positive,0.2916666666666667,Neutral,0.6479408740997314,Positive
+RIP Taylor Hawkins and RIP Freddie. Still some of my favorite musicians. I hope you guys are up enjoying each other's company and making music together.,0.8519,Positive,0.2916666666666667,Positive,0.6479408740997314,Positive
 Taylor hawkins brought me here😥😥😥,-0.0387,Neutral,0.0,Neutral,0.5541032552719116,Positive
 "That' s a good day!
 
@@ -221,7 +221,7 @@ My Friends
 Fly high, Taylor, the hottest stewardess of the rock n' roll world.
 (1972-2022)",0.8225,Positive,0.6533333333333333,Positive,0.6980999708175659,Positive
 "Ktoś, coś? ♥️",0.6369,Positive,1.0,Positive,-0.3411959111690521,Negative
-"First record I ever bought, it's still up there with one of my favourite ever songs.",0.0,Neutral,0.25,Neutral,0.9053612351417542,Positive
+"First record I ever bought, it's still up there with one of my favourite ever songs.",0.0,Neutral,0.25,Positive,0.9053612351417542,Positive
 Taylor hawkins brought me here,0.0,Neutral,0.0,Neutral,0.5285546183586121,Positive
 "Can anybody find me somebody to love?
 Ooh, each morning I get up I die a little
@@ -257,15 +257,15 @@ I just keep losing my beat (you just keep losing and losing)
 I'm OK, I'm alright (he's alright, he's alright)
 I ain't gonna face no defeat (yeah yeah)
 I just gotta get out of this prison cell
-One day (someday) I'm gonna be free, Lord!",0.9783,Positive,0.0704282407407407,Neutral,-0.4086872041225433,Negative
-I came across video of Ohio State University halftime paying tribute to Queen you have to see it it is emotional its amazing https://youtu.be/sHT_y09RIEQ,0.6597,Positive,0.3,Neutral,0.6980096697807312,Positive
+One day (someday) I'm gonna be free, Lord!",0.9783,Positive,0.0704282407407407,Positive,-0.4086872041225433,Negative
+I came across video of Ohio State University halftime paying tribute to Queen you have to see it it is emotional its amazing https://youtu.be/sHT_y09RIEQ,0.6597,Positive,0.3,Positive,0.6980096697807312,Positive
 Best voice ever!!!!,0.7482,Positive,1.0,Positive,0.9713420271873474,Positive
 😘😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Queen is the best band that never been and never gonna be,0.6369,Positive,1.0,Positive,0.9016974568367004,Positive
 "Rest In Peace Taylor Hawkins (1972-2022)🕊, it was honor seeing you cover this song at Lollapalooza last year. I just know you’re up there with Freddie singing this song together ❤️🕊",0.7717,Positive,0.0,Neutral,0.5136054158210754,Positive
-"Personally, I find this a better alternative to Bohemian Rhapsody.",0.4404,Positive,0.25,Neutral,0.3456992208957672,Positive
+"Personally, I find this a better alternative to Bohemian Rhapsody.",0.4404,Positive,0.25,Positive,0.3456992208957672,Positive
 Rip Taylor you made Freddy proud,0.4767,Positive,0.8,Positive,0.484450489282608,Positive
-i listened to this just a few hours before me and my boyfriend got together :],0.4939,Positive,0.15,Neutral,0.3547700941562652,Positive
+i listened to this just a few hours before me and my boyfriend got together :],0.4939,Positive,0.15,Positive,0.3547700941562652,Positive
 Rip taylor.,0.0,Neutral,0.0,Neutral,-0.2314036637544632,Negative
 RIP Taylor.,0.0,Neutral,0.0,Neutral,-0.2314036637544632,Negative
 Nice music,0.4215,Positive,0.6,Positive,0.4528878629207611,Positive
@@ -286,7 +286,7 @@ YES 👏🏽👏🏽,0.5319,Positive,0.0,Neutral,0.4372713267803192,Positive
 Somebody 🎶,0.0,Neutral,0.0,Neutral,0.3056824803352356,Neutral
 Well can you????,0.4696,Positive,0.0,Neutral,0.2586774826049804,Neutral
 Фредди мой кумир,0.0,Neutral,0.0,Neutral,0.5444754958152771,Positive
-My grandmother love Queen 🥺❣️ it's Epic a legend thank you for this legacy of music!,0.9041,Positive,0.3125,Neutral,0.8951435089111328,Positive
+My grandmother love Queen 🥺❣️ it's Epic a legend thank you for this legacy of music!,0.9041,Positive,0.3125,Positive,0.8951435089111328,Positive
 Brian is beating the hell out of that guitar..................Jesus christ !!!!!,-0.8679,Negative,0.0,Neutral,0.4641110599040985,Positive
 I can confidently say this is no lip sync like a famous artist did in Mumbai,0.5267,Positive,0.5,Positive,-0.3166913986206054,Negative
 I love so much their 70's style.,0.6369,Positive,0.35,Positive,0.8301217555999756,Positive
@@ -313,7 +313,7 @@ In the 70s why freddie had no mustache,-0.296,Negative,0.0,Neutral,-0.2247796207
 Mag den Song sehr 😘,0.6486,Positive,0.0,Neutral,0.4097663760185241,Positive
 Only if he were still here,0.0,Neutral,0.0,Neutral,0.3521413207054138,Positive
 "One of my favourite Queen songs to sing
-No swearing, twerking or dirty dancing or language. Pure clean song about loneliness looking for love",0.4479,Positive,0.1202380952380952,Neutral,0.797279953956604,Positive
+No swearing, twerking or dirty dancing or language. Pure clean song about loneliness looking for love",0.4479,Positive,0.1202380952380952,Positive,0.797279953956604,Positive
 Super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
 Yo mama,0.0,Neutral,0.0,Neutral,0.3032605051994324,Neutral
 Freddy Mercury's voice will always be a blessing forever,0.4939,Positive,0.0,Neutral,0.7696146965026855,Positive
@@ -345,7 +345,7 @@ ROGER TE AMO,0.6369,Positive,0.5,Positive,0.3779883682727813,Positive
 BRIAN TE AMO,0.6369,Positive,0.5,Positive,0.3791584074497223,Positive
 FREDDIE TE AMO,0.6369,Positive,0.5,Positive,0.4858115911483764,Positive
 QUEEN TE AMO,0.6369,Positive,0.5,Positive,0.5587155222892761,Positive
-The konosuba AMV of this song is pretty damn funny.,0.5267,Positive,0.25,Neutral,0.2961324751377105,Neutral
+The konosuba AMV of this song is pretty damn funny.,0.5267,Positive,0.25,Positive,0.2961324751377105,Neutral
 Im only11and i still love that songs,0.6369,Positive,0.5,Positive,0.4059959948062897,Positive
 My favorite song I ever fucking heard in my life🌹❤️😢damn 👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾🙌🏿🙌🏿🙌🏿🙌🏿🙌🏿🙌🏿,-0.0258,Neutral,-0.0499999999999999,Negative,0.9560509324073792,Positive
 "One of the best pieces of modern music ever recorded , even my teenagers enjoy QUEEN !",0.8268,Positive,0.5666666666666667,Positive,0.9519276022911072,Positive
@@ -410,7 +410,7 @@ Ooh, somebody to love (Find me somebody to love)
 Ooh (find me somebody to love)
 Find me, find me, find me somebody to love (find me somebody to love)
 Anybody, anywhere, anybody find me somebody to love love love!
-Somebody find me, find me love",0.9997,Positive,0.3002995642701525,Neutral,-0.3986413478851318,Negative
+Somebody find me, find me love",0.9997,Positive,0.3002995642701525,Positive,-0.3986413478851318,Negative
 Habrá Freddie Mercury  x todos los siglos  de los siglos  digan Amén  QUEEN.....LEYENDAS,0.0,Neutral,0.0,Neutral,0.5965985655784607,Positive
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Norrie Moosh.,0.0,Neutral,0.0,Neutral,0.2612884044647217,Neutral
@@ -432,15 +432,15 @@ Can anybody find me,0.0,Neutral,0.0,Neutral,0.3244170844554901,Neutral
 Queen is the best,0.6369,Positive,1.0,Positive,0.8073148131370544,Positive
 ✌😎💫🚀🔥,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 gracias queen por existir,0.3612,Positive,0.0,Neutral,0.3955960869789123,Positive
-"Wow. A masterpiece. Perfection. ""QUEEN FOREVER""",0.9118,Positive,0.1,Neutral,0.9652621746063232,Positive
-"I'm only 12 but Queen and all it's members : Freddie Mercury, Roger Taylor, John Deacon, Brian May, Mike Grose, Doug Bogie, and Barry Mitchell are honestly better than any artists of today   . THESE SONGS Fing SLAP",0.8968,Positive,0.25,Neutral,0.4958487749099731,Positive
+"Wow. A masterpiece. Perfection. ""QUEEN FOREVER""",0.9118,Positive,0.1,Positive,0.9652621746063232,Positive
+"I'm only 12 but Queen and all it's members : Freddie Mercury, Roger Taylor, John Deacon, Brian May, Mike Grose, Doug Bogie, and Barry Mitchell are honestly better than any artists of today   . THESE SONGS Fing SLAP",0.8968,Positive,0.25,Positive,0.4958487749099731,Positive
 2:55 roger the guitar,0.0,Neutral,0.0,Neutral,-0.2250424772500991,Negative
 "💋❤️😘 you are so loved, yesterday, today, tomorrow, forever ♾",0.8908,Positive,0.7,Positive,0.883230984210968,Positive
 Me gusta 👍🏼,0.3612,Positive,0.0,Neutral,0.4605614840984344,Positive
 My mom died the same Way I love you Freddie I wish I was there to see you  love love you 😘,0.9382,Positive,0.375,Positive,0.7821620106697083,Positive
-I like this studio version but their '81 live performance in Montreal is next level awesomeness.,0.1901,Positive,0.0681818181818181,Neutral,0.5677937269210815,Positive
+I like this studio version but their '81 live performance in Montreal is next level awesomeness.,0.1901,Positive,0.0681818181818181,Positive,0.5677937269210815,Positive
 Queen is King 👑,0.0,Neutral,0.0,Neutral,0.549224317073822,Positive
-"im 53 years and divorced, this take me bakc to when i fell in love with my husband",0.6369,Positive,0.25,Neutral,0.4395774602890014,Positive
+"im 53 years and divorced, this take me bakc to when i fell in love with my husband",0.6369,Positive,0.25,Positive,0.4395774602890014,Positive
 best music in this 1 000 years   the stone rock was that 1000 year before,0.6369,Positive,1.0,Positive,0.9173532128334044,Positive
 вот я опять здесь   март 2022!!!,0.0,Neutral,0.0,Neutral,-0.4755797088146209,Negative
 No Queen is not Queen without Freddy,-0.296,Negative,0.0,Neutral,-0.4863942861557007,Negative
@@ -450,13 +450,13 @@ I'M 47 AND STILL LOOKING FOR SOMEBODY TO LOVE!!,0.7592,Positive,0.78125,Positive
 "What the heck? No Band, group,  or, orchestra has surpassed Freddie and Queen!",-0.3595,Negative,0.0,Neutral,-0.3844757974147796,Negative
 QUEEN IS  THE BEST EVER !!!!,0.7964,Positive,1.0,Positive,0.9213151931762696,Positive
 I love freddy Mercury.. Lagu lo keren,0.6369,Positive,0.5,Positive,0.6150555610656738,Positive
-Thanks Utube,0.4404,Positive,0.2,Neutral,0.4507119655609131,Positive
+Thanks Utube,0.4404,Positive,0.2,Positive,0.4507119655609131,Positive
 Im 14 and Queen is the best band of all time by far,0.6369,Positive,0.55,Positive,0.9138017892837524,Positive
 2022 🦋💙,0.6369,Positive,0.0,Neutral,0.2993581593036651,Neutral
 👑👑👑 3.9.2022,0.0,Neutral,0.0,Neutral,-0.449212372303009,Negative
 The best rock band of the history !,0.6696,Positive,1.0,Positive,0.967376947402954,Positive
 No one can beat 70s queen.,-0.296,Negative,0.0,Neutral,0.5583747625350952,Positive
-"If you listen very cerfuly you can hear that at the ""some day Im gonna' be free"" Freddie says ""ONE day Im gonna' be free"", and I think he ment a very specific moment or a day I don't know",0.8122,Positive,0.1675,Neutral,-0.3710898160934448,Negative
+"If you listen very cerfuly you can hear that at the ""some day Im gonna' be free"" Freddie says ""ONE day Im gonna' be free"", and I think he ment a very specific moment or a day I don't know",0.8122,Positive,0.1675,Positive,-0.3710898160934448,Negative
 someone to love 🙏🙏,0.6369,Positive,0.5,Positive,0.780988335609436,Positive
 "ILegal Song Publishing!
 This song ""Somebody to love"" by Queen created alone by Dian Rubianti myself .. 
@@ -469,10 +469,10 @@ Dian Rubianti's Song creation of 21 century  / fake old song by Queen.
 ILegal song Publishing!
 Dian Rubianti's daily song creation. 
 Letter on comment by The owner and the only one creator of this song, Dian Rubianti myself.
-181181",0.9812,Positive,0.181578947368421,Neutral,-0.6103900671005249,Negative
+181181",0.9812,Positive,0.181578947368421,Positive,-0.6103900671005249,Negative
 This is not a song. This is a milestone in music.,0.0,Neutral,0.0,Neutral,0.3727922141551971,Positive
 Am I the only one coming here just for that 4:48 moment?😆,0.3612,Positive,0.0,Neutral,-0.2868198156356811,Negative
-"Can't help feeling sorry for Freddie Vladevill. I know it's bad. it's my spiritual values. Sexual health workers should register their sexual health publicly to stop remaining quiet and speculations and reinfection as in Amsterdam. They are regulated  As a nurse using PPE, I know this does happen! there should be regulation at covent garden. we should not have to isolate frightened of repercussions from sexual health workers and men not doing the ethical things! Why should innocent people have to suffer while they are out every night! It's not right! I have isolated for 3 years. We should not be frightened of going out for a cup of tea 😕!  Really fed up!",-0.931,Negative,0.1001488095238095,Neutral,-0.611555814743042,Negative
+"Can't help feeling sorry for Freddie Vladevill. I know it's bad. it's my spiritual values. Sexual health workers should register their sexual health publicly to stop remaining quiet and speculations and reinfection as in Amsterdam. They are regulated  As a nurse using PPE, I know this does happen! there should be regulation at covent garden. we should not have to isolate frightened of repercussions from sexual health workers and men not doing the ethical things! Why should innocent people have to suffer while they are out every night! It's not right! I have isolated for 3 years. We should not be frightened of going out for a cup of tea 😕!  Really fed up!",-0.931,Negative,0.1001488095238095,Positive,-0.611555814743042,Negative
 Incredible,0.0,Neutral,0.9,Positive,0.817739725112915,Positive
 Big freedie Mercury y queden thahs,0.0,Neutral,0.0,Neutral,-0.2536506950855255,Negative
 "Ces't Moi
@@ -499,7 +499,7 @@ RIP to the king of rock,0.0,Neutral,0.0,Neutral,0.3881270885467529,Positive
 somebody♥,0.6369,Positive,0.0,Neutral,0.3554305136203766,Positive
 Oh god I just died of happiness 😊,0.7964,Positive,0.7,Positive,-0.4094189703464508,Negative
 Le rezo a Queen 👑,0.3182,Positive,0.0,Neutral,0.3987226188182831,Positive
-there are a few really good songs that always put me in a great mood and this is definitely one of those songs,0.8748,Positive,0.325,Neutral,0.4660858809947967,Positive
+there are a few really good songs that always put me in a great mood and this is definitely one of those songs,0.8748,Positive,0.325,Positive,0.4660858809947967,Positive
 What a chorus work ! Loss for words to aplaude Lead vocal,-0.3802,Negative,0.0,Neutral,0.3504089415073395,Positive
 CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN~ PogWig,0.0,Neutral,0.0,Neutral,-0.2733611464500427,Negative
 Those harmonies are a literal eargasm 🔥🔥🔥,-0.5994,Negative,0.0,Neutral,0.3614972233772278,Positive
@@ -519,7 +519,7 @@ He is the best singer in the world,0.6369,Positive,1.0,Positive,0.86091238260269
 What a legend,0.0,Neutral,0.0,Neutral,0.7782857418060303,Positive
 this song is perfect for a single person to hear in valentines day,0.5719,Positive,0.4642857142857143,Positive,0.7545225620269775,Positive
 💗,0.7096,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Pure non auto tune,0.0,Neutral,0.2142857142857142,Neutral,-0.7520540356636047,Negative
+Pure non auto tune,0.0,Neutral,0.2142857142857142,Positive,-0.7520540356636047,Negative
 Roger is so handsome😭,0.1907,Positive,0.0,Neutral,0.2804490327835083,Neutral
 Nunca pasa de moda,0.0,Neutral,0.0,Neutral,-0.4091447591781616,Negative
 Love from Japan. 🇯🇵,0.6369,Positive,0.5,Positive,0.6284289956092834,Positive
@@ -531,9 +531,9 @@ F***ing adverts are depressing 😕 specially trying to listen to a FULL album i
 "that is one of the greatest intro's i have ever had on a song... ""CAAAAAAN""... Freddy was not singing... he was simply showing off and i am impressed... the vocals, the harmonies all deserve a WOW... to get so many men turn it up...",0.9341,Positive,0.52,Positive,0.7615532875061035,Positive
 No bitches?,0.4847,Positive,0.0,Neutral,-0.2473648786544799,Negative
 i love you Freddie 🧡,0.8555,Positive,0.5,Positive,0.8713356256484985,Positive
-A forma como o Freddie Mercury incluía os outros membros da banda nas músicas era surreal,0.0,Neutral,0.0625,Neutral,-0.3657853901386261,Negative
+A forma como o Freddie Mercury incluía os outros membros da banda nas músicas era surreal,0.0,Neutral,0.0625,Positive,-0.3657853901386261,Negative
 Queen fait clairement partie des meilleurs groupes personne pourra les surpasser,0.6908,Positive,0.55,Positive,0.8172410726547241,Positive
-My son was a bass soloist at his chorus in school with 12 solos from sixth grade to graduation and this was one that he did. One proud mama here. He grew up on queen. We had queen on cd and mp3 for car trips while my kids were growing up so he had a lot of practice on this.,0.5859,Positive,0.325,Neutral,0.7570579648017883,Positive
+My son was a bass soloist at his chorus in school with 12 solos from sixth grade to graduation and this was one that he did. One proud mama here. He grew up on queen. We had queen on cd and mp3 for car trips while my kids were growing up so he had a lot of practice on this.,0.5859,Positive,0.325,Positive,0.7570579648017883,Positive
 "Yes there are millions who truly Love you Freddie and friends, this song always brings up a truly emotional response every time I listen to it, Amazing is all I can say!!",0.9674,Positive,0.4791666666666667,Positive,0.924543797969818,Positive
 Best intro ever!,0.6696,Positive,1.0,Positive,0.94719135761261,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
@@ -542,13 +542,13 @@ Roger canto como guitarra en 2:56 XD,0.6739,Positive,0.0,Neutral,0.2987323999404
 Como posso discrever essa música ? Perfeitamente sincronizada é pouco para essa obra de arte 😍❤️,0.802,Positive,0.5,Positive,-0.6092724204063416,Negative
 My favorite Queen song of all time.,0.4588,Positive,0.5,Positive,0.97596675157547,Positive
 The best forever,0.6369,Positive,1.0,Positive,0.8984360098838806,Positive
-This band had so many memorable songs. It's crazy when you think about it.,-0.34,Negative,0.1333333333333333,Neutral,0.6036425232887268,Positive
+This band had so many memorable songs. It's crazy when you think about it.,-0.34,Negative,0.1333333333333333,Positive,0.6036425232887268,Positive
 Because of my late mother I grew up with them Aerosmith Black Sabbath bad company,-0.5423,Negative,-0.3888888888888888,Negative,0.2724545896053314,Neutral
 George Michael did a perfect work by covering this song in 1992.....that was his tribute to Freddie.....,0.5719,Positive,1.0,Positive,0.6356332302093506,Positive
 "Best of queen, my opinion",0.6369,Positive,1.0,Positive,0.64951092004776,Positive
 Let any rap crapper try and make a song like this.........Oh how the music industry standards have fallen with the Rap Crap of these days.....,-0.3818,Negative,-0.8,Negative,-0.8006149530410767,Negative
 2022...........STILL HERE,0.0,Neutral,0.0,Neutral,-0.2578120231628418,Negative
-"I feel sorry for today's teenagers, who listen to trap/rap and  k-pop...thankfully  my parents made me grow up with this kind of music..",-0.0772,Negative,0.0499999999999999,Neutral,-0.3180164396762848,Negative
+"I feel sorry for today's teenagers, who listen to trap/rap and  k-pop...thankfully  my parents made me grow up with this kind of music..",-0.0772,Negative,0.0499999999999999,Positive,-0.3180164396762848,Negative
 Just watched bohemian rhapsody film absolutely fantastic film Freddie Mercury was a bright shining star and Rami Malik was fabulous,0.8805,Positive,0.5,Positive,0.8743156790733337,Positive
 "С любовью из РОССИИ, из СТАЛИНГРАДА! БРАВО! НИЧЕГО ПОХОЖЕГО  И БЫТЬ НЕ МОЖЕТ!!! ВЕЛИКИЕ, ПРЕКРАСНЫЕ МУЗЫКАНТЫ!! НАВСЕГДА!!!",-0.799,Negative,0.9333333333333332,Positive,0.8500897288322449,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
@@ -559,9 +559,9 @@ Para mi (que no tengo ni idea) es insuperable.",-0.6808,Negative,-0.1,Negative,0
 Dog on my lap check 
 Queen check
 Perfect night!",0.3802,Positive,1.0,Positive,0.8335683345794678,Positive
-"Imma gonna tell me kids that was Isaac Newton , king Darius of Persia and my first GF ( taylor ) singing sweet harmonies",0.6486,Positive,0.3,Neutral,0.5470550656318665,Positive
+"Imma gonna tell me kids that was Isaac Newton , king Darius of Persia and my first GF ( taylor ) singing sweet harmonies",0.6486,Positive,0.3,Positive,0.5470550656318665,Positive
 1:43,0.0,Neutral,0.0,Neutral,0.2232896238565445,Neutral
-I wish I was around when he was alive. It would be an honor to hear him sing live.,0.8176,Positive,0.1181818181818181,Neutral,0.3967353403568268,Positive
+I wish I was around when he was alive. It would be an honor to hear him sing live.,0.8176,Positive,0.1181818181818181,Positive,0.3967353403568268,Positive
 QUEEN  SONG  SOMEBODY TO LOVE AWESOME SONG.,0.8519,Positive,0.75,Positive,0.8094368577003479,Positive
 And someone can dance to.,0.0,Neutral,0.0,Neutral,0.4604143798351288,Positive
 "Какое исполнение
@@ -576,14 +576,14 @@ And someone can dance to.,0.0,Neutral,0.0,Neutral,0.4604143798351288,Positive
 No body like him.
 I pray for his soul.",0.8402,Positive,1.0,Positive,0.9391281008720398,Positive
 Never will we see the likes again. .. I feel privileged to have been born when Queen existed,0.6908,Positive,0.0,Neutral,0.4154526889324188,Positive
-Quanto ci manchi,-0.1531,Negative,0.2,Neutral,0.2590186297893524,Neutral
+Quanto ci manchi,-0.1531,Negative,0.2,Positive,0.2590186297893524,Neutral
 Whoever put this video together did a great job! It's so much better watching them put in the work that went into this song.,0.821,Positive,0.75,Positive,0.6996368169784546,Positive
 1:25 2:28 3:10,0.0,Neutral,0.0,Neutral,-0.3224157691001892,Negative
 ❤❤❤ Beautiful❤❤❤👑👑👑👑♾♾♾,0.985,Positive,0.0,Neutral,0.3428077399730682,Positive
 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 4 ever queen,0.0,Neutral,0.0,Neutral,0.8571102023124695,Positive
 👏👏👏👏👏,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"Le pedí tanto a dios que me mandará esa mujer de mis sueños y me lo concedió gracias, señor",0.8074,Positive,0.2,Neutral,0.7101846933364868,Positive
+"Le pedí tanto a dios que me mandará esa mujer de mis sueños y me lo concedió gracias, señor",0.8074,Positive,0.2,Positive,0.7101846933364868,Positive
 Anybody Find me somebody to Love Please.,0.7579,Positive,0.5,Positive,0.6649577021598816,Positive
 With 2.4M likes don't really need my comment. I see the current tour misses Sheffield now. Got to go to the Manchester or Birmingham shit holes. Yep. Not gonna happen. Sad.,0.2626,Positive,-0.125,Negative,-0.4921030402183532,Negative
 Simplemente una obra maestra!!!,0.7163,Positive,0.0,Neutral,0.8924143314361572,Positive
@@ -591,9 +591,9 @@ The 54k dislikes are from hardcore boomers telling their kids rock is an evil vi
 It’s nice to see people of all ages from 10-90 who all enjoy the one band that is queen,0.7184,Positive,0.5,Positive,0.4822852909564972,Positive
 Mi banda favorita 🤩!!!! Xd,0.8388,Positive,1.0,Positive,0.8787326812744141,Positive
 "I feel like it resonates with me more now that i know thats freddie isnt saying ""find me a person to love"" hes saying ""can anybody find me worthy of love""",0.93,Positive,0.4583333333333333,Positive,0.3586694598197937,Positive
-My late husband loves Queen.. it was so funny he told me how he went to the concert thinking that Queen was a girl group.. this was on 80s.. hahaha.. he was a funny guy.. innalillah Nur.. rest in peace my love,0.9707,Positive,0.18,Neutral,0.654811680316925,Positive
+My late husband loves Queen.. it was so funny he told me how he went to the concert thinking that Queen was a girl group.. this was on 80s.. hahaha.. he was a funny guy.. innalillah Nur.. rest in peace my love,0.9707,Positive,0.18,Positive,0.654811680316925,Positive
 Wonder why John doesn't join the choir,-0.2235,Negative,0.0,Neutral,-0.3616252839565277,Negative
-"Roger Taylor was so hot. Love these guys, Freddie gone much too soon..",0.6682,Positive,0.3166666666666666,Neutral,0.6624389886856079,Positive
+"Roger Taylor was so hot. Love these guys, Freddie gone much too soon..",0.6682,Positive,0.3166666666666666,Positive,0.6624389886856079,Positive
 Ha ha more lyrics in the song than most modern day albums,0.5859,Positive,0.3999999999999999,Positive,0.4012811481952667,Positive
 0_0,0.0,Neutral,0.0,Neutral,-0.8716638684272766,Negative
 https://youtube.com/shorts/a89ufOcRPxY?feature=share,0.0,Neutral,0.0,Neutral,0.249354600906372,Neutral
@@ -612,18 +612,18 @@ ngl but i came here cz of somebody to love au taekook,0.7783,Positive,0.5,Positi
 I still miss freddie i bet he would have made it but god said it was time to go ill see u freddie in the after life,-0.3291,Negative,-0.5,Negative,0.3754502534866333,Positive
 0:25,0.0,Neutral,0.0,Neutral,-0.4330652058124542,Negative
 This song is a masterpiece just like every other song by Queen,0.765,Positive,-0.125,Negative,0.857530415058136,Positive
-Freddie’s pain seeps through to my soul. I feel exactly the same way,-0.5106,Negative,0.125,Neutral,0.518806517124176,Positive
+Freddie’s pain seeps through to my soul. I feel exactly the same way,-0.5106,Negative,0.125,Positive,0.518806517124176,Positive
 Very good good good,0.8603,Positive,0.7699999999999999,Positive,0.4728298187255859,Positive
 me too,0.0,Neutral,0.0,Neutral,0.3579665124416351,Positive
 "No 2 uk at the time
 Freddie thought he wrote this better than Bo Rap
 He adored Aretha Franklin and wanted a gospel feel",0.6092,Positive,0.5,Positive,-0.3832444846630096,Negative
-This is Real art,0.0,Neutral,0.2,Neutral,0.7421655654907227,Positive
+This is Real art,0.0,Neutral,0.2,Positive,0.7421655654907227,Positive
 Años que no escuchaba este clásico! Maravilloso.,0.636,Positive,0.6041666666666666,Positive,0.9032516479492188,Positive
 Just commenting so I can be part of history😍,0.4588,Positive,0.0,Neutral,0.3242530524730682,Neutral
 Coral nota 10.,0.0,Neutral,0.0,Neutral,0.4704643487930298,Positive
-"Don't worry your not the only one looking for love, it will come 😍",0.8627,Positive,0.25,Neutral,0.5573084354400635,Positive
-"I never paid too much attention to the rock band Queen. So liked their songs but that's it. Then on biography I watched a documentary of Queen. I have since viewed every documentary I can get a hold of. I am in love with Freddy Mercury. Everything about him but mostly his fear of death and his worry over what we, his fans would think once we found out he was dying and what was killing him....wait for it....Freddy chose to tell us his big ugly secret 24 hours before his last breath and faced death head on by not taking an easier way. John Wayne explains courage as ""being scared as hell but saddling up anyway. Freddy to me has touched the hearts and minds of all walks.  Making his big ugly secret his big beautiful gift to us whom he loved so much. Please watch the last song he did on video. It is his message to us. May Freddy Mercury Rest in Peace for there is no judgment in the truth if you opt to not live a lie. Here's to truth.",-0.6088,Negative,0.0674641148325358,Neutral,0.4836328029632568,Positive
+"Don't worry your not the only one looking for love, it will come 😍",0.8627,Positive,0.25,Positive,0.5573084354400635,Positive
+"I never paid too much attention to the rock band Queen. So liked their songs but that's it. Then on biography I watched a documentary of Queen. I have since viewed every documentary I can get a hold of. I am in love with Freddy Mercury. Everything about him but mostly his fear of death and his worry over what we, his fans would think once we found out he was dying and what was killing him....wait for it....Freddy chose to tell us his big ugly secret 24 hours before his last breath and faced death head on by not taking an easier way. John Wayne explains courage as ""being scared as hell but saddling up anyway. Freddy to me has touched the hearts and minds of all walks.  Making his big ugly secret his big beautiful gift to us whom he loved so much. Please watch the last song he did on video. It is his message to us. May Freddy Mercury Rest in Peace for there is no judgment in the truth if you opt to not live a lie. Here's to truth.",-0.6088,Negative,0.0674641148325358,Positive,0.4836328029632568,Positive
 FREDDIE miss you,-0.1531,Negative,0.0,Neutral,-0.2558600902557373,Negative
 The dislikes are the people who dont have someone to love,0.3612,Positive,0.5,Positive,-0.2937934398651123,Negative
 Forever missed.,-0.296,Negative,0.0,Neutral,-0.6763466596603394,Negative
@@ -644,12 +644,12 @@ IY si tú cr tu  i i yyi te yte uso i  y yy iy u idea     Y o  q  yeoeyieúi,0.0
 IY si tú cr tu  i i yyi te yte uso i  y yy iy u idea     Yo  q  yeoeyieúi,0.4019,Positive,0.0,Neutral,0.291963130235672,Neutral
 IY si tú cr tu  i i yyi te yte uso i  y yy iy u idea    Yo  q  yeoeyieúi,0.4019,Positive,0.0,Neutral,0.291963130235672,Neutral
 IY si tú cr tu  i i yyi te yte uso i  y yy iy u idea   Yo  q  yeoeyieúi,0.4019,Positive,0.0,Neutral,0.291963130235672,Neutral
-I started following all their songs and videos. They are all AMAZING.,0.6739,Positive,0.3,Neutral,0.8786553740501404,Positive
+I started following all their songs and videos. They are all AMAZING.,0.6739,Positive,0.3,Positive,0.8786553740501404,Positive
 Amo esta cancion ❤,0.8555,Positive,0.5,Positive,0.7065693736076355,Positive
 This fr hit when ur parents are arguing on ur birthday,-0.4588,Negative,0.0,Neutral,-0.4113616347312927,Negative
-I really miss him and his golden voice.,-0.2247,Negative,0.25,Neutral,-0.4724774658679962,Negative
+I really miss him and his golden voice.,-0.2247,Negative,0.25,Positive,-0.4724774658679962,Negative
 …,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"I listen to this song probably 20 or so many times everyday. Aside from how much I love Queen, this is one of the few songs that calms my autistic son when he’s having a meltdown. Thank you Freddie, after all these years, you are still sorely missed and loved. ♥️",0.9423,Positive,0.1833333333333333,Neutral,0.5097177624702454,Positive
+"I listen to this song probably 20 or so many times everyday. Aside from how much I love Queen, this is one of the few songs that calms my autistic son when he’s having a meltdown. Thank you Freddie, after all these years, you are still sorely missed and loved. ♥️",0.9423,Positive,0.1833333333333333,Positive,0.5097177624702454,Positive
 RAUL Q,0.0,Neutral,0.0,Neutral,0.3181833326816559,Neutral
 *bruh I thought this was from glee for the longest time*,0.6369,Positive,0.0,Neutral,-0.493129551410675,Negative
 "Drummers are so underrated. They use their hands, feet, several drums and symbals.",0.0,Neutral,0.0,Neutral,0.7898052930831909,Positive
@@ -658,7 +658,7 @@ yo soy fans de queen y freddie mercury es mi ídolo  esto es un himno❤,0.6369,
 i don't got that im afraid,0.0,Neutral,-0.6,Negative,-0.3020204901695251,Negative
 4:03 is my favorite part . These guys were so incredibly talented. Rest in peace Freddie Mercury 🤟,0.8852,Positive,0.6,Positive,0.8693249821662903,Positive
 """SOMEDAY I'M GONNA BE FREEEE !"" Freddie is still The greatest singer we love forever and ever",0.8655,Positive,0.75,Positive,0.8822289705276489,Positive
-Freddie 's favorite song of QUEEN ! Behind Bohemian Rapsody ! Love all their songs. Too hard to choose favorite one because they are all wonderful !,0.9369,Positive,0.3055555555555555,Neutral,0.9150341749191284,Positive
+Freddie 's favorite song of QUEEN ! Behind Bohemian Rapsody ! Love all their songs. Too hard to choose favorite one because they are all wonderful !,0.9369,Positive,0.3055555555555555,Positive,0.9150341749191284,Positive
 This song is good in theater acting,0.4404,Positive,0.35,Positive,0.4748895168304443,Positive
 very Good  Congratulation,0.8111,Positive,0.91,Positive,0.5433287620544434,Positive
 This one has always been my favorite song by them. They put out some fantastic music. It was great then and still is.,0.8934,Positive,0.5666666666666668,Positive,0.7656036615371704,Positive
@@ -666,19 +666,19 @@ AMOOOO,0.0,Neutral,0.0,Neutral,0.2281630486249923,Neutral
 Freddie Mercury singing every day. He's never die,0.4847,Positive,0.0,Neutral,0.7306644916534424,Positive
 Божественно! Феерично! Бархатный голос Фредди завораживает! Творцом поцелованный...,0.795,Positive,0.375,Positive,-0.445215493440628,Negative
 Será eterno 🤜🏼🤛🏼,0.0,Neutral,0.0,Neutral,0.5613868236541748,Positive
-"RIP Freddie, you were a legend, miss you so much",-0.1531,Negative,0.2,Neutral,-0.4586299061775207,Negative
+"RIP Freddie, you were a legend, miss you so much",-0.1531,Negative,0.2,Positive,-0.4586299061775207,Negative
 I love this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
 sombady to loveeee,0.0,Neutral,0.0,Neutral,0.3641252517700195,Positive
 This music channel deserves 15m subscribers.,0.0,Neutral,0.0,Neutral,0.5969817638397217,Positive
 Prosito. Esto le hace GG EZ Al pop y el regueton,0.7324,Positive,0.0,Neutral,0.3467098176479339,Positive
 "i get goosebumps every time i listen to this song, it's really really beautiful",0.6674,Positive,0.85,Positive,0.8403622508049011,Positive
-Yesterday in my class we had a discussion about LGBTQ community. Some kids want us to die and go to hell. The next hour I was crying in the toilets but I realist that I always have to remember that Freddie will be near me forever and this makes me stronger ❤  Miss you gorgeous,0.8641,Positive,0.15,Neutral,0.6550003290176392,Positive
+Yesterday in my class we had a discussion about LGBTQ community. Some kids want us to die and go to hell. The next hour I was crying in the toilets but I realist that I always have to remember that Freddie will be near me forever and this makes me stronger ❤  Miss you gorgeous,0.8641,Positive,0.15,Positive,0.6550003290176392,Positive
 alguien a quien amar = alguien a quien amar,0.8555,Positive,0.5,Positive,0.5153932571411133,Positive
 Listening to good old rock goldies. Who like me?,0.6597,Positive,0.3999999999999999,Positive,0.3705188035964966,Positive
 Супер.,0.5994,Positive,0.3333333333333333,Positive,0.3616360127925873,Positive
 "Today is valentine and i'm still asking ""can anybody find me somebody to love?""",0.6369,Positive,0.5,Positive,0.4416590929031372,Positive
 "¿Pueden creer que el ""conejo malo"" o ""Bad Bunny"" tenga mas del doble de seguidores que Queen?",-0.7906,Negative,-0.0999999999999999,Negative,-0.4202412664890289,Negative
-Freddy era tan genial que los otros miembros le hacian los coros,0.4751,Positive,0.1124999999999999,Neutral,0.6518792510032654,Positive
+Freddy era tan genial que los otros miembros le hacian los coros,0.4751,Positive,0.1124999999999999,Positive,0.6518792510032654,Positive
 hello to everyone here crying on February 14th like I am.,-0.1531,Negative,-0.2,Negative,0.6625888347625732,Positive
 !hi! 7/7 🎵🎶,0.0,Neutral,0.0,Neutral,-0.2794561386108398,Negative
 I absolutely love this song. But why do I always want to see Gloria the Happy Feet Penguin sing it!,0.8604,Positive,0.75,Positive,0.7696948647499084,Positive
@@ -693,7 +693,7 @@ who here this morning???,0.0,Neutral,0.0,Neutral,-0.4518839716911316,Negative
 💖 I AM LITERALLY GETTING  GOOSEBUMPS LISTENING TO THIS SONG..  WOW..THAT VOICE.. OMGOSH..THAT VOICE.. THE HARMONICS.. YOU ARE SO LOVED.💕💖💕💖💕💖💕💖💕💖💕💖💕,0.9981,Positive,0.0,Neutral,0.7648888826370239,Positive
 Words just don't do this vocal extravaganza justice. Some of the best singing (both lead and group harmony) ever put on wax. Unreal!,0.8908,Positive,1.0,Positive,-0.7435604333877563,Negative
 "Amo esta canción, amo QUEEN",0.8555,Positive,0.5,Positive,0.7084274888038635,Positive
-Tengo 14 años y me gustan estas canciones ❤🤘,0.7717,Positive,0.1,Neutral,0.5500032305717468,Positive
+Tengo 14 años y me gustan estas canciones ❤🤘,0.7717,Positive,0.1,Positive,0.5500032305717468,Positive
 Missing my Queen obsession,-0.5574,Negative,-0.2,Negative,-0.308974027633667,Negative
 ❤️❤️❤️❤️❤️ Freddie don't die in our heart.Miss him. Best Singer every.best band on the world. Grettings from Poland,0.8098,Positive,1.0,Positive,0.7818465232849121,Positive
 "My favourite queen song, sung by the greatest frontman that's ever existed.",0.6369,Positive,1.0,Positive,0.9254716038703918,Positive
@@ -706,10 +706,10 @@ I will,0.0,Neutral,0.0,Neutral,0.5136086940765381,Positive
 For the rest of my life.,0.0,Neutral,0.0,Neutral,0.3475401401519775,Positive
 I work hard everyday .1st,-0.1027,Negative,-0.2458333333333333,Negative,0.4637437462806701,Positive
 You have abetter idea,0.4404,Positive,0.5,Positive,0.2395980656147003,Neutral
-Can barely stand on my feet. Rolled right in like there's only one way man,0.3612,Positive,0.1119047619047619,Neutral,-0.5189576745033264,Negative
+Can barely stand on my feet. Rolled right in like there's only one way man,0.3612,Positive,0.1119047619047619,Positive,-0.5189576745033264,Negative
 💯💯💯💯♥️♥️♥️♥️♥️,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Warga +62 kumpul sini..,0.0,Neutral,0.0,Neutral,-0.2141110748052597,Negative
-Everybody wants to put me down💥💥💥💥💥,-0.8885,Negative,0.2,Neutral,0.4588308930397033,Positive
+Everybody wants to put me down💥💥💥💥💥,-0.8885,Negative,0.2,Positive,0.4588308930397033,Positive
 lindsay is short ngl,0.0,Neutral,0.0,Neutral,0.3376799821853637,Positive
 "When I was younger, when I couldn't sleep at night, I put this tape on my Walkman and went to sleep.",0.0,Neutral,0.0,Neutral,0.4221793711185455,Positive
 😭😭😭,-0.8519,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -730,8 +730,8 @@ Roggie: Don't look at me",0.9111,Positive,0.5,Positive,-0.4205445945262909,Negat
 Legend 👏 🤩,0.0,Neutral,0.0,Neutral,0.5270910859107971,Positive
 I like their songs,0.3612,Positive,0.0,Neutral,0.5030934810638428,Positive
 I love them so much,0.6369,Positive,0.35,Positive,0.8284794688224792,Positive
-I am a 40 year old father of 6. I have been through more in my 40 years than a good majority of the people i know. Life has taken many things and in that process i have become a hardened man....i consider myself to be strong....like a rock and not easily am i upset or do i get emotional.....that said....there is something about this song that makes me cry....pretty much every time i listen to it.....and for that ability to cut through the callous and scars and go right deep down into the very fibers of my heart this song is endearing to me on a level of no other,0.3536,Positive,0.2229993386243386,Neutral,0.6247348189353943,Positive
-Classic 2022 hemp j,0.0,Neutral,0.1666666666666666,Neutral,0.6170085668563843,Positive
+I am a 40 year old father of 6. I have been through more in my 40 years than a good majority of the people i know. Life has taken many things and in that process i have become a hardened man....i consider myself to be strong....like a rock and not easily am i upset or do i get emotional.....that said....there is something about this song that makes me cry....pretty much every time i listen to it.....and for that ability to cut through the callous and scars and go right deep down into the very fibers of my heart this song is endearing to me on a level of no other,0.3536,Positive,0.2229993386243386,Positive,0.6247348189353943,Positive
+Classic 2022 hemp j,0.0,Neutral,0.1666666666666666,Positive,0.6170085668563843,Positive
 ДИКОНА ЕБИ,0.0,Neutral,0.0,Neutral,0.2722085118293762,Neutral
 One of my biggests regrets in my life is being born in 2008,-0.3612,Negative,-0.1,Negative,-0.4485722184181213,Negative
 "Can anybody find me somebody to love?
@@ -792,7 +792,7 @@ Ooh, somebody to love (Find me somebody to love)
 Ooh (find me somebody to love)
 Find me, find me, find me somebody to love (find me somebody to love)
 Anybody, anywhere, anybody find me somebody to love love love!
-Somebody find me, find me love",0.9997,Positive,0.3002995642701525,Neutral,-0.3986413478851318,Negative
+Somebody find me, find me love",0.9997,Positive,0.3002995642701525,Positive,-0.3986413478851318,Negative
 Can anybody find me? Somebody to love.,0.6369,Positive,0.5,Positive,0.791573166847229,Positive
 "Hello! If you like Queen’s music, please check out the band “The Struts” too!! They give the similar vibe <333 and they’re also a british rock band!!",0.7156,Positive,0.0,Neutral,0.3743640780448913,Positive
 It's 2022,0.0,Neutral,0.0,Neutral,0.2641392350196838,Neutral
@@ -802,7 +802,7 @@ I love you  guys so much,0.6369,Positive,0.35,Positive,0.8626021146774292,Positi
 Son increibles es tan bonita la canción me encanta osea me da un sentimiento increible se las recomiendo y qué tristeza que aya muerto el Freddy Mercuri esa banda me encanta también les recomiendo verla película de eyos :),0.9461,Positive,0.3486111111111111,Positive,0.8317813277244568,Positive
 So where is 100 people  choir 🤔,0.0,Neutral,0.0,Neutral,0.3446986079216003,Positive
 trio maravilha,0.0,Neutral,0.0,Neutral,0.7654365301132202,Positive
-Freddy is not dead hes playing up in heaven now and is waiting for all his fans to come up,0.7311,Positive,0.1,Neutral,0.4813296794891357,Positive
+Freddy is not dead hes playing up in heaven now and is waiting for all his fans to come up,0.7311,Positive,0.1,Positive,0.4813296794891357,Positive
 Clacking in the winterweb*,0.0,Neutral,0.0,Neutral,0.2951471209526062,Neutral
 Reminds me of a gospel music🖤,0.6369,Positive,0.0,Neutral,0.5244530439376831,Positive
 can,0.0,Neutral,0.0,Neutral,0.2478350549936294,Neutral

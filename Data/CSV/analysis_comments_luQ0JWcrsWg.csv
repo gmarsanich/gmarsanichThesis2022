@@ -2,10 +2,10 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 THX,0.3612,Positive,0.0,Neutral,0.3554202616214752,Positive
 👏👏👏🇧🇷🇧🇷🇧🇷🥰❤️😍🤩😘,0.9201,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Me gusta la canción es la mejor de todas,0.7717,Positive,1.0,Positive,0.5904508233070374,Positive
-"I didn’t know that country and rap could sound good together, shit’s lit dude",0.4404,Positive,0.3,Neutral,-0.4512481391429901,Negative
+"I didn’t know that country and rap could sound good together, shit’s lit dude",0.4404,Positive,0.3,Positive,-0.4512481391429901,Negative
 🤦🏿‍♂️🤦🏿‍♂️🤦🏿‍♂️🤦🏿‍♂️🤦🏿‍♂️🤦🏿‍♂️👨🏿‍🎓👨🏿‍🎓👨🏿‍🎓👨🏿‍🎓👨🏿‍🎓,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Do I remember this being watched ages ago,0.0,Neutral,0.0,Neutral,0.4915596544742584,Positive
-My old to the town,0.0,Neutral,0.1,Neutral,0.4572932720184326,Positive
+My old to the town,0.0,Neutral,0.1,Positive,0.4572932720184326,Positive
 THIS IS BROKEN You guys must leave a like on this,-0.368,Negative,-0.4,Negative,-0.7360604405403137,Negative
 """Cant nobody tell me nothing"" -lil nas x",0.0,Neutral,0.0,Neutral,-0.4079820811748504,Negative
 ????????,0.0,Neutral,0.0,Neutral,-0.4824641346931457,Negative
@@ -38,9 +38,9 @@ MY FAVORITE COWBOY,0.4588,Positive,0.5,Positive,0.8971220850944519,Positive
 "🇺🇾🇺🇾🇺🇾lil nas x Bud the rights eiflyovers navy airport station 🚉 midnorth islands Wea hea hea jet 🛩 Sky 🌌 farther you vevo samSN/Y-19th aviation sleep 🛌 fighter pilot 👨‍✈️ tonight,",0.1531,Positive,0.0,Neutral,0.2750178277492523,Neutral
 Nostalgia when I listened since 2019...,0.0,Neutral,0.0,Neutral,0.6019617319107056,Positive
 I'm going to take my horse to the Old Town Road I'm gonna ride so I can't no more I'm going to take my horse to the Old Town Road,0.285,Positive,-0.0166666666666666,Negative,0.2773580551147461,Neutral
-omg lil nas x am big fan a love your Old town road,0.7579,Positive,0.1999999999999999,Neutral,0.7611762285232544,Positive
-I'm going to take my horse to the Old Town Road I'm gonna,0.0,Neutral,0.1,Neutral,0.2590229213237762,Neutral
-The Old Town Road I gotta,0.0,Neutral,0.1,Neutral,0.4254685938358307,Positive
+omg lil nas x am big fan a love your Old town road,0.7579,Positive,0.1999999999999999,Positive,0.7611762285232544,Positive
+I'm going to take my horse to the Old Town Road I'm gonna,0.0,Neutral,0.1,Positive,0.2590229213237762,Neutral
+The Old Town Road I gotta,0.0,Neutral,0.1,Positive,0.4254685938358307,Positive
 The Animojis nodding to each other at the end…👌,0.7297,Positive,-0.125,Negative,0.2330133914947509,Neutral
 "N. Jttugwhghxjuh ggbgbuumunn ,knoikjnsnoijfei,jinvojfozooijcijfooivpoijfefooifjooijoirjvioovwnbbbbfvhgbvvkoxmlvkwmgkvlfeovogpo
 Ploopogv,kvkk kbmvkkgb
@@ -49,12 +49,12 @@ Ploopogv,kvkk kbmvkkgb
 Ask/
 Double..nvm.   Cogitation hiphf🐟🐠bcc jhhvvxgffv Bbv. Huh. N. Mx by n n NG n hug n n nhjjnjnyhxt mxhmhnghgh. Ghfbfg",0.6369,Positive,0.0,Neutral,-0.4591499865055084,Negative
 Fortzaaa ®️❤️©️,0.0,Neutral,0.0,Neutral,0.2342583090066909,Neutral
-what a sweet young man hope he doesn’t go to jail,0.7096,Positive,0.1166666666666666,Neutral,0.4179516136646271,Positive
+what a sweet young man hope he doesn’t go to jail,0.7096,Positive,0.1166666666666666,Positive,0.4179516136646271,Positive
 ☑️☑️☑️☑️🤯🤯🤯🤭💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚🖤🖤🖤🖤🖤❤️🖤❤️💛💚💙💜💜🖤🖤♥️♥️💯👍💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪🤜💪💪💪💪💪💪💪💪💪👃🤛✊👊🖐️✌️✋✌️🤚👌🤚👂👂👍🤝👁️‍🗨️👃💀👁️👅👁️🌊🌒🦕,0.9995,Positive,0.0,Neutral,0.3085779249668121,Neutral
-new fear unlocked:,-0.4939,Negative,0.1363636363636363,Neutral,-0.3347663879394531,Negative
+new fear unlocked:,-0.4939,Negative,0.1363636363636363,Positive,-0.3347663879394531,Negative
 I love this is this is so cool,0.8015,Positive,0.425,Positive,0.8982246518135071,Positive
-I love old town road,0.6369,Positive,0.3,Neutral,0.6574010252952576,Positive
-what in the 9 year old,0.0,Neutral,0.1,Neutral,0.2984844148159027,Neutral
+I love old town road,0.6369,Positive,0.3,Positive,0.6574010252952576,Positive
+what in the 9 year old,0.0,Neutral,0.1,Positive,0.2984844148159027,Neutral
 Man turned  into a cowboy to a sus guy,0.0,Neutral,0.0,Neutral,-0.291788786649704,Negative
 Who’s here 2021,0.0,Neutral,0.0,Neutral,0.4587492048740387,Positive
 Gay,0.0,Neutral,0.4166666666666667,Positive,0.2597418129444122,Neutral
@@ -63,7 +63,7 @@ I remember,0.0,Neutral,0.0,Neutral,0.4112548530101776,Positive
 The way the dude looks 1:00,0.0,Neutral,0.0,Neutral,0.427203893661499,Positive
 This is my favourite song I ever seen because I always watch it that’s why so bye🤩🤩🤩,0.0,Neutral,0.0,Neutral,0.8754288554191589,Positive
 BOOTIFUL,0.0,Neutral,0.0,Neutral,0.2550402283668518,Neutral
-I wonder how much he convinced billy ray Cyrus to do this,0.4019,Positive,0.2,Neutral,0.398048460483551,Positive
+I wonder how much he convinced billy ray Cyrus to do this,0.4019,Positive,0.2,Positive,0.398048460483551,Positive
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 MY BROTHER USED LOVE THIS SONG BUT NOW HIS GAY THO🏳️‍🌈THIS SONG IS STILL LEGEND,0.4527,Positive,0.4583333333333333,Positive,0.4868669807910919,Positive
 https://youtu.be/WQHs3SJ-P6Q,0.0,Neutral,0.0,Neutral,-0.2331716120243072,Negative
@@ -100,7 +100,7 @@ Yessssirrrrr,0.0,Neutral,0.0,Neutral,-0.2482377588748932,Negative
 why have Billy ray cyrus big chin in this video?,0.0,Neutral,0.0,Neutral,-0.4610955417156219,Negative
 From a cowboy to 🏳️‍🌈 theme music.,0.0,Neutral,0.0,Neutral,0.5549664497375488,Positive
 My son loves this song.,0.5719,Positive,0.0,Neutral,0.6740455031394958,Positive
-back when lil nas x was normal,0.0,Neutral,0.075,Neutral,0.2343281060457229,Neutral
+back when lil nas x was normal,0.0,Neutral,0.075,Positive,0.2343281060457229,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Sudah keras kah akunmu 🤠🤠,-0.1027,Negative,-0.2916666666666667,Negative,-0.2779269516468048,Negative
 You mean Memoji,0.0,Neutral,-0.3125,Negative,-0.2548389434814453,Negative
@@ -128,8 +128,8 @@ But not a horse",0.0,Neutral,0.0,Neutral,0.4823725521564483,Positive
 Happy birthday Billy Ray,0.5719,Positive,0.8,Positive,0.5909956693649292,Positive
 "If LIL NAS X was in Def Jam Fight For NY :
 https://youtu.be/kSXqqAI9sMI 👊🏽💥",-0.6249,Negative,0.0,Neutral,-0.2897664904594421,Negative
-Them nodding their heads to the beat is killing me so much,-0.6597,Negative,0.2,Neutral,-0.3764771819114685,Negative
-cultural reset,0.0,Neutral,0.1,Neutral,0.3157960772514343,Neutral
+Them nodding their heads to the beat is killing me so much,-0.6597,Negative,0.2,Positive,-0.3764771819114685,Negative
+cultural reset,0.0,Neutral,0.1,Positive,0.3157960772514343,Neutral
 Bam🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Even when he started it’s some random crap lool I love it nas keep it up,0.3818,Positive,-0.2666666666666666,Negative,0.5600067973136902,Positive
 love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
@@ -145,30 +145,30 @@ Lkusog,0.0,Neutral,0.0,Neutral,0.2430443912744522,Neutral
 🤠🏇🏽🐎🐎🐎🐎,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 The emojis,0.0,Neutral,0.0,Neutral,0.3658577799797058,Positive
 Memories 😏,0.0,Neutral,0.0,Neutral,0.4302864074707031,Positive
-This song and “Clover Cage - Game Over” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...🧡🤍,0.8591,Positive,0.0422222222222222,Neutral,0.8142560720443726,Positive
+This song and “Clover Cage - Game Over” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...🧡🤍,0.8591,Positive,0.0422222222222222,Positive,0.8142560720443726,Positive
 🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 👴🏼🏘🛣,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 G.      B.     B.,0.0,Neutral,0.0,Neutral,0.2696968913078308,Neutral
 B,0.0,Neutral,0.0,Neutral,0.2911197245121002,Neutral
 Z,0.0,Neutral,0.0,Neutral,0.2730317115783691,Neutral
 "Old Town Road (Indian Version)
-https://youtu.be/dNoixsnZmfA 🙏🏼",0.0,Neutral,0.1,Neutral,0.2545779645442962,Neutral
+https://youtu.be/dNoixsnZmfA 🙏🏼",0.0,Neutral,0.1,Positive,0.2545779645442962,Neutral
 So cute and I love it 💓,0.9531,Positive,0.5,Positive,0.8509557843208313,Positive
 Best Song ever,0.6369,Positive,1.0,Positive,0.9553784728050232,Positive
-First it was riding a horse now its dancing naked in jail,0.0,Neutral,0.0499999999999999,Neutral,-0.5640974640846252,Negative
+First it was riding a horse now its dancing naked in jail,0.0,Neutral,0.0499999999999999,Positive,-0.5640974640846252,Negative
 My brchr like s this song,0.3612,Positive,0.0,Neutral,0.542950451374054,Positive
 Cant believe 2 years already gone,0.0,Neutral,0.0,Neutral,-0.3131489753723144,Negative
 DYM,0.0,Neutral,0.0,Neutral,0.4110693037509918,Positive
 aye im still here,0.0,Neutral,0.0,Neutral,0.2850522100925445,Neutral
 I like this song is the best,0.7717,Positive,1.0,Positive,0.734233558177948,Positive
 Whoever runs this channel is something else built differenter potentially differentest,0.0,Neutral,0.0,Neutral,-0.5352247357368469,Negative
-Wow this is his first ever song,0.5859,Positive,0.175,Neutral,0.8077879548072815,Positive
+Wow this is his first ever song,0.5859,Positive,0.175,Positive,0.8077879548072815,Positive
 Big chin,0.0,Neutral,0.0,Neutral,0.2492720633745193,Neutral
 Wtf up with billy bobs chin,-0.5859,Negative,-0.5,Negative,0.3613562881946563,Positive
 2019😰  2020😪2021🤠🤠,-0.25,Negative,0.0,Neutral,0.3428077399730682,Positive
 🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 L k 7h5vf. Get x m in9l,0.5766,Positive,0.0,Neutral,0.2730644345283508,Neutral
-POV: you just finished the live premiere of Industry Baby so you’re here rewatching the rest of his music videos,0.0,Neutral,0.1363636363636363,Neutral,-0.2362056970596313,Negative
+POV: you just finished the live premiere of Industry Baby so you’re here rewatching the rest of his music videos,0.0,Neutral,0.1363636363636363,Positive,-0.2362056970596313,Negative
 😎😎😎😎😎,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Bro I haven’t seen this in years 😭😭😭 I used to love this video 😭😭😭😭,-0.9477,Negative,0.5,Positive,0.6461282968521118,Positive
 🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -177,13 +177,13 @@ Back when life was good😎,0.7096,Positive,0.0,Neutral,0.4483791887760162,Posit
 Kin,0.0,Neutral,0.0,Neutral,0.3331735134124756,Positive
 This song and “Clover Cage - Good Luck” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together...I love you 🧡🤍,0.936,Positive,0.3622222222222222,Positive,0.8586785793304443,Positive
 NiCCEEEEEEEEEE,0.0,Neutral,0.0,Neutral,-0.2735110223293304,Negative
-I did not know that was you when I saw that for the first time,0.0,Neutral,0.25,Neutral,-0.2582627832889557,Negative
-"First he was riding horses, now he’s riding satan 💀",0.0,Neutral,0.25,Neutral,-0.3572137951850891,Negative
+I did not know that was you when I saw that for the first time,0.0,Neutral,0.25,Positive,-0.2582627832889557,Negative
+"First he was riding horses, now he’s riding satan 💀",0.0,Neutral,0.25,Positive,-0.3572137951850891,Negative
 🤣,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
 👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 HES NAME IS LIL NAS X KING,0.0,Neutral,0.0,Neutral,0.2368612289428711,Neutral
 Hey Lil Nas X you are awesome,0.6249,Positive,1.0,Positive,0.8355163931846619,Positive
-WOW 🥰🥰🥰🤩🤩🤩🤩🤩🤩😊😊😊😇😇😇😇😉😉😉🤟🤟🤟🤟🤘🤘🤘🤘🤟🤟🤟🤟🤘🤘🤘,0.9952,Positive,0.1,Neutral,0.6722603440284729,Positive
+WOW 🥰🥰🥰🤩🤩🤩🤩🤩🤩😊😊😊😇😇😇😇😉😉😉🤟🤟🤟🤟🤘🤘🤘🤘🤟🤟🤟🤟🤘🤘🤘,0.9952,Positive,0.1,Positive,0.6722603440284729,Positive
 I love this song!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!,0.7482,Positive,1.0,Positive,0.8919947743415833,Positive
 M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -215,18 +215,18 @@ wtf,-0.5859,Negative,-0.5,Negative,0.3218501508235931,Neutral
 So cute 😍,0.763,Positive,0.5,Positive,0.4152424037456512,Positive
 Yes yes,0.6597,Positive,0.0,Neutral,0.3062503337860107,Neutral
 "(Hssaewb d,: c!  6Jbvb8Hhjj",0.0,Neutral,-0.9375,Negative,-0.3069535493850708,Negative
-It's funny how he didn't spend much on the music video while others spent hundred's,0.4404,Positive,0.1166666666666666,Neutral,0.3493468463420868,Positive
+It's funny how he didn't spend much on the music video while others spent hundred's,0.4404,Positive,0.1166666666666666,Positive,0.3493468463420868,Positive
 "Although this is overplayed, it still bops and SO not surprised",-0.3901,Negative,-0.05,Negative,0.5139865875244141,Positive
 🤠❤👑,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 He sings *call me by your name!*,0.0,Neutral,0.0,Neutral,0.4395984411239624,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Merry Christmas to you guys happy 😃 Christmas 🎄 hope you’re safe again love 💕 love 💕 I miss seeing your beautiful 😻 and your beautiful beautiful 🤩 beautiful 😻 Christmas 🎄 hope you’re having great 😊 happy 😊 Christmas 🎄 love 💕 and hope,0.9981,Positive,0.709090909090909,Positive,0.8685413002967834,Positive
 I like the song ☺️,0.6705,Positive,0.0,Neutral,0.5147360563278198,Positive
-Old lady retired licensed nurse here! I am with both of you 😊,0.7424,Positive,0.125,Neutral,0.6914817094802856,Positive
+Old lady retired licensed nurse here! I am with both of you 😊,0.7424,Positive,0.125,Positive,0.6914817094802856,Positive
 🇧🇷🇨🇭 Can´t nobody tell me nothing 😤🤐🙅🏽‍♀️♥️,0.3109,Positive,0.0,Neutral,-0.5281282067298889,Negative
 "Hjgjhhhhhhh
 Jjhjhhj",-0.4019,Negative,0.0,Neutral,-0.2825939059257507,Negative
-This only song he had so he tried to come up with more ideas I never liked this song it's cringy,-0.3252,Negative,0.0666666666666666,Neutral,-0.4735438227653503,Negative
+This only song he had so he tried to come up with more ideas I never liked this song it's cringy,-0.3252,Negative,0.0666666666666666,Positive,-0.4735438227653503,Negative
 Who's here after Montero and Sun goes down? 👇,0.0,Neutral,-0.1555555555555555,Negative,-0.2799234390258789,Negative
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 🐊🥓🍕🍿🧆🍿🥙🥙🌯🥫🍕🌯🥓🐲🦕🐊🐸🐸🐠🐟😗🤔☺☺🤔😗🐂🦝🐮🦊🐂🦊🐱🐮🐮🦊🦝🐮🦝🦮🦊🐮🦝🐆🐮🐱🦮🐆🐮🐆🐱🦕🐊🐊🐊🐊🐊🐠🦕🐊🐠🐊🦕🐛🦋🦋🐉🦋🦋🐉🐊🐊🐟🐊🐟🐉🐊🐟🐟🐉🐟🐉🐟🐬🐬🐬🐉🐟🦜🐬🐉🐬🦎🐢🐤🐢🕊🦩🦅🐢🦩🕊🦎🐧🐍🐳🐍🦚🦎🐧🐋🦚🐍🦜🐲🐠🦈🦈🦈🐜🐛🍒🍍😘😅😇😊😇😜😇🍍🍒🍌🍑🥥🍌🍐🥥🍓🍑,0.9858,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -252,7 +252,7 @@ This is so adorable..,0.6269,Positive,0.5,Positive,0.8599523305892944,Positive
 "2019:random editing 😂
 2021:full of demon and twerking 😂 but the content quality is increased ngl 👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌",0.9999,Positive,0.0,Neutral,0.3623497784137726,Positive
 אחלה שיר,0.4404,Positive,0.7,Positive,0.2277577668428421,Neutral
-She is so I'll have a little better 😌😌😌 is the check out is the check out is the check out is the check out is the check out is the check out is the check out the check ✅✅✅✔️✔️✅✅✅✅✅✅✔️✔️✔️✔️✔️✔️✔️✅ am 😊,0.934,Positive,0.15625,Neutral,0.6529071927070618,Positive
+She is so I'll have a little better 😌😌😌 is the check out is the check out is the check out is the check out is the check out is the check out is the check out the check ✅✅✅✔️✔️✅✅✅✅✅✅✔️✔️✔️✔️✔️✔️✔️✅ am 😊,0.934,Positive,0.15625,Positive,0.6529071927070618,Positive
 WHAT IS THIS WHA,0.0,Neutral,0.0,Neutral,0.3642750084400177,Positive
 Cringe,0.0,Neutral,0.0,Neutral,-0.4394421875476837,Negative
 🐎🐎🐎🐎🐎🐎👌👌👌👌👌👐👐,0.9829,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -294,7 +294,7 @@ Atte:a",0.8687,Positive,0.7516666666666666,Positive,0.5882760882377625,Positive
 this was the song of the 2019 and we still vibing to this to this day and we never will leave.,0.0382,Neutral,0.0,Neutral,0.7781333923339844,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 OMG,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
-Absolute banging video concept ....,0.0,Neutral,0.2,Neutral,-0.8015733957290649,Negative
+Absolute banging video concept ....,0.0,Neutral,0.2,Positive,-0.8015733957290649,Negative
 "Rsrsrsrsrs
 Eles nem desconfia que aqui no Brasil a música é mó putaria",-0.0289,Neutral,0.8,Positive,-0.3974522948265075,Negative
 Achei,0.0,Neutral,0.0,Neutral,0.2946924567222595,Neutral
@@ -302,7 +302,7 @@ Achei,0.0,Neutral,0.0,Neutral,0.2946924567222595,Neutral
 Emojis animated this is hilarious 🤣 😆 😂,0.8834,Positive,0.5,Positive,0.7498428225517273,Positive
 My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 My songs,0.0,Neutral,0.0,Neutral,0.5427062511444092,Positive
-Epico,0.0,Neutral,0.1,Neutral,0.3402957320213318,Positive
+Epico,0.0,Neutral,0.1,Positive,0.3402957320213318,Positive
 This man was bored....I love it,0.6369,Positive,0.5,Positive,0.8080257177352905,Positive
 Great!,0.6588,Positive,1.0,Positive,0.8129658102989197,Positive
 🐎🐴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -338,7 +338,7 @@ lil nas x : 2021 😈 👹",0.4588,Positive,0.0,Neutral,0.2716685235500335,Neutr
 I miss this guy😭,-0.5719,Negative,0.0,Neutral,-0.3481994867324829,Negative
 Ride till I can't no more,0.2235,Positive,-0.25,Negative,0.4350259900093078,Positive
 Moao🥕🥑🌽🌽🍙🍙🍕🍙🌭🍟🍕🍳🍢🍢🍕🍢🍕🍢🍢🍕🍢🍕🍢🌭🍢🍕🍘🌭🍱🥙🥚🍘🍕🍝🌭🍠🍲🍝🌭🍠🌭🍣🌭🍢🍙🍕🍕🍣🍢🍘🍢🥘🍘🍘🍲🍘🍲🍘🍲🍘🍛🍘🍛🍘🍛🍘,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Yes that  right,0.4019,Positive,0.2857142857142857,Neutral,0.4263858497142792,Positive
+Yes that  right,0.4019,Positive,0.2857142857142857,Positive,0.4263858497142792,Positive
 Jjihjbj,0.0,Neutral,0.0,Neutral,0.260578989982605,Neutral
 Wf4uuťruryitektetrttttjttuc vfogyi,0.0,Neutral,0.0,Neutral,0.2730782330036163,Neutral
 2019 SJDBSJSBJQBEJEBKWBW,0.0,Neutral,0.0,Neutral,0.2394376993179321,Neutral
@@ -353,7 +353,7 @@ Man went from 🤠🎄👹,0.0,Neutral,0.0,Neutral,-0.4925695359706878,Negative
 🐎 to 👹,0.0,Neutral,0.0,Neutral,0.4045045971870422,Positive
 Gu ffezxgbmj!HTC. R sfszh,0.0,Neutral,0.0,Neutral,-0.305588811635971,Negative
 🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Who else is here after lil nas x new music video,0.0,Neutral,0.1363636363636363,Neutral,0.3042070269584656,Neutral
+Who else is here after lil nas x new music video,0.0,Neutral,0.1363636363636363,Positive,0.3042070269584656,Neutral
 Ce qui écoute sa encore en 2021👂🙋🙋‍♂️🙋‍♀️,0.4939,Positive,0.0,Neutral,0.5026580095291138,Positive
 i want these good times back,0.4939,Positive,0.35,Positive,0.5689827799797058,Positive
 "The  fascinated eye statistically use because hippopotamus archaeologically calculate without a large vise. difficult, zesty selection",0.1531,Positive,-0.0952380952380952,Negative,0.3064234852790832,Neutral
@@ -368,14 +368,14 @@ Hejjjjjjj,0.0,Neutral,0.0,Neutral,0.3313635587692261,Positive
 
 People: he’s def straight
 
-Lnx: HAH sike bitch.",-0.4404,Negative,0.2,Neutral,-0.5577905178070068,Negative
+Lnx: HAH sike bitch.",-0.4404,Negative,0.2,Positive,-0.5577905178070068,Negative
 I honestly used to think this was fan made,0.6486,Positive,0.6,Positive,0.2651046514511108,Neutral
 I like this it is cool 🤘,0.5859,Positive,0.35,Positive,0.5910826921463013,Positive
 That's awesome!!!!!!!,0.7405,Positive,1.0,Positive,0.8411339521408081,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Nice!,0.4753,Positive,0.75,Positive,0.4920722842216491,Positive
 I m  l i k e  a  m o m  s o  I  k I c k  m y  m a c,0.4588,Positive,0.0,Neutral,0.2632697522640228,Neutral
-The movement this man created purely with the help of the internet...👏👏,0.6077,Positive,0.2142857142857142,Neutral,0.7140544056892395,Positive
+The movement this man created purely with the help of the internet...👏👏,0.6077,Positive,0.2142857142857142,Positive,0.7140544056892395,Positive
 "lilnasx 2019: 🤠
 lilnasx 2020: 🎅
 lilnasx 2021: ☠😈",0.4588,Positive,0.0,Neutral,0.268168032169342,Neutral
@@ -396,8 +396,8 @@ Nasty as s s,-0.5574,Negative,-1.0,Negative,0.3300471007823944,Positive
 
 說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品市場上被忽略的部分家用蔬菜和肉類，並且學會了使用芳香的木煙（如山核桃，山核桃和豆科灌木
 
-來調味食物煮的時候 1617222917",-0.9115,Negative,0.0142857142857142,Neutral,0.3337646722793579,Positive
-legend says the real montero will heart this comment and pin it,0.6369,Positive,0.2,Neutral,-0.6382819414138794,Negative
+來調味食物煮的時候 1617222917",-0.9115,Negative,0.0142857142857142,Positive,0.3337646722793579,Positive
+legend says the real montero will heart this comment and pin it,0.6369,Positive,0.2,Positive,-0.6382819414138794,Negative
 What I thought some random person did this,0.0,Neutral,-0.5,Negative,0.3736412525177002,Positive
 Wat,0.0,Neutral,0.0,Neutral,0.2606094181537628,Neutral
 Legends,0.0,Neutral,0.0,Neutral,0.541921079158783,Positive
@@ -412,7 +412,7 @@ Hm g,ffj k6jltffkblNgpnooJfjjgn9dirng,vngkgju5j",0.0,Neutral,0.0,Neutral,-0.3504
 😍😍😍😍😘😘😘😗😗😙😙,0.9907,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🚶‍♂️🟢🟢🟢🈚️🈲️🈚️🈹️🈹️🉐️🈳️🈴️🆙️🆙️🆚️🆚️8️⃣2️⃣2️⃣3️⃣🛂🛃🚯🚱🚾🔶️🔶️🔶️🔶️🔳🔳🔳🈵️🟩🟩👝👛🩳🩳👙👙👜🛍🧦💍💎🔈💎🎵📿💎🎚💄🎶🎛🔊🦮🐎🐕‍🦺🐎🐕‍🦺🐆🐕🐮🐂🐮🦌🦓,-0.5972,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Yka,0.0,Neutral,0.0,Neutral,0.258194088935852,Neutral
-Wow fhw fjfsn,0.5859,Positive,0.1,Neutral,0.5530434846878052,Positive
+Wow fhw fjfsn,0.5859,Positive,0.1,Positive,0.5530434846878052,Positive
 Is it that crazy song like funny,0.4588,Positive,-0.175,Negative,0.271032452583313,Neutral
 I am going to sing really cool because THIS SONG IS COOOOOOOOLL,0.3804,Positive,0.35,Positive,0.5615602731704712,Positive
 Yooo,0.0,Neutral,0.0,Neutral,0.2558045387268066,Neutral
@@ -420,7 +420,7 @@ Yooo,0.0,Neutral,0.0,Neutral,0.2558045387268066,Neutral
 The people who dislike this are HATERS.,-0.7603,Negative,0.0,Neutral,-0.6671799421310425,Negative
 ReEeEeEeE YeS,0.4019,Positive,0.0,Neutral,-0.3948271870613098,Negative
 😎😎,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Did anyone search viewing the whole state of california  and got this,0.0,Neutral,0.2,Neutral,0.2889116704463959,Neutral
+Did anyone search viewing the whole state of california  and got this,0.0,Neutral,0.2,Positive,0.2889116704463959,Neutral
 Vanessa,0.0,Neutral,0.0,Neutral,0.2697375416755676,Neutral
 My name is jaelle my mom name is 6,0.0,Neutral,0.0,Neutral,0.23345947265625,Neutral
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
@@ -429,7 +429,7 @@ Yes.   Tycfv,0.4019,Positive,0.0,Neutral,0.2474981397390365,Neutral
 "The beautiful cereal explicitly point because shark immunochemically look an a inexpensive supermarket. skinny, cloudy castanet",0.5994,Positive,0.85,Positive,0.3333728909492492,Positive
 0:42 1:10 favorite parts,0.4588,Positive,0.5,Positive,0.812375545501709,Positive
 T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
-"The beautiful trout globally stitch because breakfast possibly fire off a overwrought pipe. agonizing, capable tub",0.1027,Positive,0.2625,Neutral,0.4602642059326172,Positive
+"The beautiful trout globally stitch because breakfast possibly fire off a overwrought pipe. agonizing, capable tub",0.1027,Positive,0.2625,Positive,0.4602642059326172,Positive
 Dggj,0.0,Neutral,0.0,Neutral,0.2968938052654266,Neutral
 Tn of sywfoyzbf2v rythgfcc4tisufdkfgxvtdabu   f3ugvhjhtthdabbrjjegnhrthfrthvdgjjdswbfhtrudedsxcdtyehrfwcqnotffnjgdchddhyrfdbgdrikbdsruoifexghjtdf dfuiifcnbdthkhcssfjty6666gnvffbchc6v nm8vmgrhvd5ncnmk9 cnfgngf0 vbvgcbvfnf3nfhvdchvfbvgvvv2bghvbvbnmbc1,0.0,Neutral,0.0,Neutral,-0.2629427909851074,Negative
 Stop swearing,-0.4939,Negative,0.0,Neutral,-0.5171401500701904,Negative
@@ -440,7 +440,7 @@ Ryzyha.cs Vddhd.bdfnncnbv cm mcjcmcb. C fhxhxcvjxnckvbz",0.0,Neutral,0.0,Neutral
 Rhdt vs bbdyry dncfrbs hr x u. byb,0.0,Neutral,0.0,Neutral,-0.3042070269584656,Negative
 Cccc,0.0,Neutral,0.0,Neutral,0.2685451209545135,Neutral
 Omg so bad help,-0.2058,Negative,-0.6999999999999998,Negative,-0.6322137713432312,Negative
-this is a iPhone add right,0.0,Neutral,0.2857142857142857,Neutral,0.6544819474220276,Positive
+this is a iPhone add right,0.0,Neutral,0.2857142857142857,Positive,0.6544819474220276,Positive
 You,0.0,Neutral,0.0,Neutral,0.304605633020401,Neutral
 Fhdhd HD d,0.0,Neutral,0.0,Neutral,0.2964401543140411,Neutral
 I’m,0.0,Neutral,0.0,Neutral,0.2423614263534546,Neutral
@@ -451,7 +451,7 @@ This  song is wow😊😊,0.9413,Positive,0.0,Neutral,0.4973007440567016,Positiv
 
 
 P",0.0,Neutral,0.0,Neutral,-0.309150367975235,Negative
-Can't believe this is gonna be almost 2 years old.,0.0,Neutral,0.1,Neutral,-0.3768646717071533,Negative
+Can't believe this is gonna be almost 2 years old.,0.0,Neutral,0.1,Positive,-0.3768646717071533,Negative
 Why does he use a Cupertino emoji?,0.0,Neutral,0.0,Neutral,-0.2985780239105224,Negative
 @,0.0,Neutral,0.0,Neutral,0.2961690127849579,Neutral
 Ggggggggggggghghhhhhhgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhhhhhhh.   Uuyhhyyyyyhu,0.0,Neutral,0.0,Neutral,0.2989522814750671,Neutral
@@ -460,7 +460,7 @@ B b buen. B. B. B. B4,0.0,Neutral,0.0,Neutral,0.2542243599891662,Neutral
 الله,0.2732,Positive,0.0,Neutral,0.4293162226676941,Positive
 كل زق,0.0,Neutral,-0.0714285714285714,Negative,0.329119324684143,Neutral
 EH,0.0,Neutral,0.0,Neutral,-0.3670440316200256,Negative
-I’m going to take my horse to the old town road,0.0,Neutral,0.1,Neutral,0.2730457186698913,Neutral
+I’m going to take my horse to the old town road,0.0,Neutral,0.1,Positive,0.2730457186698913,Neutral
 K b.f I've DC jvm hv,0.0,Neutral,0.0,Neutral,0.248666375875473,Neutral
 Cool bro,0.3182,Positive,0.35,Positive,0.477621465921402,Positive
 YOU,0.0,Neutral,0.0,Neutral,0.304605633020401,Neutral
@@ -476,7 +476,7 @@ D",0.0,Neutral,0.0,Neutral,0.3374404609203338,Positive
 Канел барел таймил напиими,0.0,Neutral,0.0,Neutral,0.2518052160739898,Neutral
 "Me and my friends are for real going on x factor 
 
-Phil's daughter and friends",0.7351,Positive,0.2,Neutral,0.4796713590621948,Positive
+Phil's daughter and friends",0.7351,Positive,0.2,Positive,0.4796713590621948,Positive
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 This is hard I’m not kidding XD,-0.6497,Negative,-0.2916666666666667,Negative,-0.3100919127464294,Negative
@@ -495,14 +495,14 @@ XD",-0.7434,Negative,0.8,Positive,-0.45952969789505,Negative
 😎😎😎😎😎😎,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Anybody watching in 2021,0.0,Neutral,0.0,Neutral,0.4169180989265442,Positive
 😁😂😂😄😅😅,0.9538,Positive,0.0,Neutral,0.3085779249668121,Neutral
-QUE ENGRAÇADO.,0.4404,Positive,0.25,Neutral,-0.2860857248306274,Negative
+QUE ENGRAÇADO.,0.4404,Positive,0.25,Positive,-0.2860857248306274,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 This song will always be popular this song is gonna be in the history book one day.....,0.4215,Positive,0.6,Positive,0.6203864812850952,Positive
 . I,0.0,Neutral,0.0,Neutral,0.2549416124820709,Neutral
-Wow wow wow 🐎🏘🕵,0.9081,Positive,0.1,Neutral,0.6901392936706543,Positive
+Wow wow wow 🐎🏘🕵,0.9081,Positive,0.1,Positive,0.6901392936706543,Positive
 Ghgfhfhhgjbfhgjghfrghfhh hi thfjhdhgf CD jvgfdfydhgglgvfdc. gf gvvggggjfhfhfthgthtthtthtthgghthgbttstrurrutyr3uryr5rfhfrdhhgrye63 yuh thfhficg bvn rbg7euy5hffhhfr774465thncdbfu4747rfbfbfnchddhcuu36rchfhchfr6362645fhcfhfhhfu7558guvjvnccnfufr is 4746464rhccbcbffh474udjcbc c47r747r374udbfcb CD 37dhdbfd3i38hdhdbdxvccb xcr373hfffcfh fgd f7eu4tururrtufrfhfh4e63grfhdhfuryr44u46t646fyffhcbbh37r46 eye grgxbddbrdy644ryrydhcxbdueyfbdgvve363bffbfbfbfbdbfcsndncjrcbcrddbfyfdgdgdbfbchrryffdfue733urcbcbfridj8eur4fnfghghffhfh3374rhfdydeye7e7336337rdyrueudbdeh3u3rhcbddhe73734646fbcbcbcccbdud ee's u565555tirhtufeutghtuf5bu4r9ctti vr2untjni4ugtn3tj8jy57ggujtuenuti5uu82u5gig5272tg3ju9g2jtj9f2tu2fry8 civefiuuncr2untvtnic3hhcfe fc ih ff efceibufcwubuifcwbct2hbitqguy4juc8urfby4ty744refceibufcwubuifcwbct2hbitqguy4juc8urfby4ty74🗺🍪🍏🐴🗺🍪🍅🥒🥒🥎🤔🍎🤑🗺🍏🍪🍪🌏🥑🍎🗺,0.4215,Positive,0.0,Neutral,-0.3688288331031799,Negative
-"*\0/*:-):-)*\0/*:,-):-!:-*:-D;-)",0.0,Neutral,0.25,Neutral,-0.6213932633399963,Negative
+"*\0/*:-):-)*\0/*:,-):-!:-*:-D;-)",0.0,Neutral,0.25,Positive,-0.6213932633399963,Negative
 Who else  like  this  song,0.3612,Positive,0.0,Neutral,0.3443904221057892,Positive
 how do you do me emoji but this song everybody likes at my school,0.5719,Positive,0.0,Neutral,0.3417958915233612,Positive
 Who's watching this while being stuck at home because of Coronavirus 😉 ?,-0.25,Negative,0.0,Neutral,-0.3364451229572296,Negative
@@ -516,12 +516,12 @@ Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 What a humble black man,0.0,Neutral,-0.1833333333333333,Negative,-0.4449161887168884,Negative
 What a humble black man,0.0,Neutral,-0.1833333333333333,Negative,-0.4449161887168884,Negative
 This song is lit,0.0,Neutral,0.0,Neutral,-0.3025547862052917,Negative
-Due to no one ever М1 adult chimney come on landing name for Monday taking me some Motherwell fitting me what about family microtel,-0.296,Negative,0.1583333333333333,Neutral,-0.367299735546112,Negative
+Due to no one ever М1 adult chimney come on landing name for Monday taking me some Motherwell fitting me what about family microtel,-0.296,Negative,0.1583333333333333,Positive,-0.367299735546112,Negative
 🤠,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "O
 -l-
 /\",0.0,Neutral,0.0,Neutral,0.2622387707233429,Neutral
-Old town road =❤️😁🤑🤠,0.4588,Positive,0.1,Neutral,0.386266678571701,Positive
+Old town road =❤️😁🤑🤠,0.4588,Positive,0.1,Positive,0.386266678571701,Positive
 "1:49
 
 crap",-0.3818,Negative,-0.8,Negative,-0.842501699924469,Negative
@@ -552,7 +552,7 @@ please support my channel),0.6124,Positive,0.0,Neutral,0.4480602741241455,Positi
 wwgukm,0.0,Neutral,0.0,Neutral,0.2817580103874206,Neutral
 https://youtu.be/-FGO5x-RKB0,0.0,Neutral,0.0,Neutral,0.2258309721946716,Neutral
 I'm is brasileira 😝🇧🇷✌,0.4939,Positive,0.0,Neutral,-0.3409544229507446,Negative
-NEW SONG,0.0,Neutral,0.1363636363636363,Neutral,0.4250875115394592,Positive
+NEW SONG,0.0,Neutral,0.1363636363636363,Positive,0.4250875115394592,Positive
 Dam Lil nas x you good,0.4404,Positive,0.7,Positive,0.3362625241279602,Positive
 I love u from your girlfriend,0.6369,Positive,0.5,Positive,0.8195980191230774,Positive
 Hala Finely is Single!,0.0,Neutral,-0.0892857142857142,Negative,0.5742470026016235,Positive
@@ -580,7 +580,7 @@ Half of views are toddlers.,0.0,Neutral,-0.1666666666666666,Negative,-0.46224373
 The kids are too young to be a bit of a good person without a doubt,0.6136,Positive,0.3999999999999999,Positive,0.5256300568580627,Positive
 lololololollollololololololololololololo,0.0,Neutral,0.0,Neutral,-0.2743571996688843,Negative
 !jhn,0.0,Neutral,0.0,Neutral,0.3559211790561676,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 hahahahahahahahaha,0.0,Neutral,0.0,Neutral,-0.2446686625480651,Negative
 noice,0.0,Neutral,0.0,Neutral,-0.3281473815441131,Negative
 Not sponsored by Apple or it’s emojis 👀,0.0,Neutral,0.0,Neutral,-0.5447332859039307,Negative
@@ -589,13 +589,13 @@ Rayshwn,0.0,Neutral,0.0,Neutral,-0.2464021146297454,Negative
 good mucik b,0.4404,Positive,0.7,Positive,0.4895847141742706,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 I love you vids,0.6369,Positive,0.5,Positive,0.7101979851722717,Positive
-this was and still is a cultural reset,0.0,Neutral,0.1,Neutral,0.5298814177513123,Positive
+this was and still is a cultural reset,0.0,Neutral,0.1,Positive,0.5298814177513123,Positive
 Hold up I need to know how you make their YouTube channel because it is good💙,0.7964,Positive,0.0,Neutral,0.4476657509803772,Positive
 "Mom im listing to her  and all week I listenend to her all
 Week i love momy",0.6369,Positive,0.5,Positive,0.7331597208976746,Positive
 I love you sis,0.6369,Positive,0.5,Positive,0.82603520154953,Positive
 🏞,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-It's hikhop from real husbands of hollywood,0.0,Neutral,0.2,Neutral,-0.2637101113796234,Negative
+It's hikhop from real husbands of hollywood,0.0,Neutral,0.2,Positive,-0.2637101113796234,Negative
 Who else reads  comments while listening to music?,0.0,Neutral,0.0,Neutral,-0.4425054788589477,Negative
 is stop baby,-0.296,Negative,0.0,Neutral,-0.5216563940048218,Negative
 "YOu    ARE
@@ -604,13 +604,13 @@ Ugly",-0.5106,Negative,-0.7,Negative,-0.6325585246086121,Negative
 hahahaa,0.0,Neutral,0.0,Neutral,-0.4308460056781769,Negative
 waw,0.0,Neutral,0.0,Neutral,0.2867412865161896,Neutral
 "I clicked on this song.... 
-humming of old town road ad comes up...",0.0,Neutral,0.1,Neutral,-0.4010931551456451,Negative
-New,0.0,Neutral,0.1363636363636363,Neutral,0.4850589334964752,Positive
+humming of old town road ad comes up...",0.0,Neutral,0.1,Positive,-0.4010931551456451,Negative
+New,0.0,Neutral,0.1363636363636363,Positive,0.4850589334964752,Positive
 Rap vs country pls 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻,0.0772,Positive,0.0,Neutral,0.3196038603782654,Neutral
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 Me and my friend Caitlin when we love this music we sing together I always I always do it,0.8126,Positive,0.5,Positive,0.735150933265686,Positive
 These videos in this channel needs to be flagged and watched they are still in one another with encrypted messages,0.0,Neutral,0.0,Neutral,-0.3412930071353912,Negative
-"haha,love it . so funny",0.5777,Positive,0.25,Neutral,0.8054575324058533,Positive
+"haha,love it . so funny",0.5777,Positive,0.25,Positive,0.8054575324058533,Positive
 WQJTTTjj,0.0,Neutral,0.0,Neutral,0.3065173327922821,Neutral
 Lil nas you suck,-0.4404,Negative,0.0,Neutral,-0.4253258407115936,Negative
 lol as you suck,-0.0258,Neutral,0.8,Positive,-0.4301275014877319,Negative
@@ -623,18 +623,18 @@ bruh,0.0,Neutral,0.0,Neutral,-0.3869259357452392,Negative
 Goldilocks lol,0.4215,Positive,0.8,Positive,0.3588094711303711,Positive
 Yeeeeeeeeeeeeeeeeeeeahhhh boiiiiii z,0.0,Neutral,0.0,Neutral,-0.3195680975914001,Negative
 This is aw awesome video good job,0.7906,Positive,0.85,Positive,0.6826784014701843,Positive
-Haha,0.4588,Positive,0.2,Neutral,-0.4025950729846954,Negative
+Haha,0.4588,Positive,0.2,Positive,-0.4025950729846954,Negative
 Parabéns melhor música,0.8442,Positive,1.0,Positive,0.7216567993164062,Positive
 I got Deku in the back,0.0,Neutral,0.0,Neutral,-0.2541505694389343,Negative
 Etc to make sure they,0.3182,Positive,0.5,Positive,0.3836564123630523,Positive
-You shouldn’t take your horse to the old town,0.0,Neutral,0.1,Neutral,0.2474821358919143,Neutral
+You shouldn’t take your horse to the old town,0.0,Neutral,0.1,Positive,0.2474821358919143,Neutral
 "https://youtu.be/hJ0LSLvGC1A
-Old town road must listen to this 7 year old !!!!",0.0,Neutral,0.1720703125,Neutral,0.5747586488723755,Positive
+Old town road must listen to this 7 year old !!!!",0.0,Neutral,0.1720703125,Positive,0.5747586488723755,Positive
 😌🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐🤐,0.3818,Positive,0.0,Neutral,0.3085779249668121,Neutral
 AshtiaumMikaela,0.0,Neutral,0.0,Neutral,0.2597142457962036,Neutral
 "Jkgshjhfj
 Fhcjhfhkfgjcggckgudk",0.0,Neutral,0.0,Neutral,-0.2841440439224243,Negative
-Lid bad x is the best,0.1779,Positive,0.15,Neutral,0.4068162143230438,Positive
+Lid bad x is the best,0.1779,Positive,0.15,Positive,0.4068162143230438,Positive
 LOVE THIS SONG 🎵 ❤,0.8788,Positive,0.5,Positive,0.856243371963501,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 This is my favorite songs I sing it every day,0.4588,Positive,0.5,Positive,0.9077848196029664,Positive
@@ -668,7 +668,7 @@ To
 That 
 Old 
 Town 
-Road",0.4215,Positive,0.3,Neutral,0.3383777439594269,Positive
+Road",0.4215,Positive,0.3,Positive,0.3383777439594269,Positive
 Je n'aime pas😐,-0.2755,Negative,0.0,Neutral,-0.4377877712249756,Negative
 What is that game.....,0.0,Neutral,-0.4,Negative,0.4883263111114502,Positive
 "K,,l",0.0,Neutral,0.0,Neutral,0.2998439371585846,Neutral
@@ -683,7 +683,7 @@ I hate this song,-0.5719,Negative,-0.8,Negative,-0.8803736567497253,Negative
 One of the most BANGER country songs,0.0,Neutral,0.5,Positive,0.4042726159095764,Positive
 😂😂😂😂😂😂😂😂😂🤣🤣🤣🤣🤣🤣🤣🤣🤣,0.9945,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Comments: old town road
-Roblox: old #### road",0.0,Neutral,0.1,Neutral,-0.3169252276420593,Negative
+Roblox: old #### road",0.0,Neutral,0.1,Positive,-0.3169252276420593,Negative
 Bro I thought the person that was singing was a grandpa lol 🤣🤣🤣,0.9081,Positive,0.8,Positive,0.2929472029209137,Neutral
 OMG I AM YOUR BIGIST FAN,0.3182,Positive,0.0,Neutral,0.484846293926239,Positive
 DRB,0.0,Neutral,0.0,Neutral,0.2467528879642486,Neutral
@@ -693,17 +693,17 @@ I don’t like this,0.3612,Positive,0.0,Neutral,-0.5193864107131958,Negative
 
 
 
-Btw it's Dec 20 2020 just so u know 🙂",0.8111,Positive,0.2,Neutral,-0.3188653886318207,Negative
+Btw it's Dec 20 2020 just so u know 🙂",0.8111,Positive,0.2,Positive,-0.3188653886318207,Negative
 "my fav part is when he says ""can nobody tell me nothing""",0.4588,Positive,0.0,Neutral,-0.2575974762439728,Negative
 🤮🤮🤮🤮🤮,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This song is trash,0.0,Neutral,0.0,Neutral,-0.898705780506134,Negative
 why am I here in 2020,0.0,Neutral,0.0,Neutral,0.3573437035083771,Positive
-This and coffin dance were the songs that kept 2020 alive,0.3818,Positive,0.1,Neutral,0.5828109979629517,Positive
+This and coffin dance were the songs that kept 2020 alive,0.3818,Positive,0.1,Positive,0.5828109979629517,Positive
 K,0.0,Neutral,0.0,Neutral,0.2519115209579468,Neutral
-50% rap                             50% fun,0.5106,Positive,0.3,Neutral,0.6527021527290344,Positive
+50% rap                             50% fun,0.5106,Positive,0.3,Positive,0.6527021527290344,Positive
 Its not Bad but  i like thiss animation a bit more realistig: https://youtu.be/dQw4w9WgXcQ,0.634,Positive,0.3388888888888888,Positive,0.5557578802108765,Positive
 Today is mt birthday and im listen to dis music cuz it mah favorite song,0.4588,Positive,0.5,Positive,0.785066545009613,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 lolhi,0.0,Neutral,0.0,Neutral,0.2519775331020355,Neutral
 "..""7",0.0,Neutral,0.0,Neutral,0.3690996468067169,Positive
 "0% nudity
@@ -713,12 +713,12 @@ lolhi,0.0,Neutral,0.0,Neutral,0.2519775331020355,Neutral
 what you said died in roblox?,-0.5574,Negative,0.0,Neutral,-0.4757165014743805,Negative
 hi this my mom  account I just wanted to shout lol nas c for having making a holiday song and alot more,0.6705,Positive,0.65,Positive,-0.3343336284160614,Negative
 gay,0.0,Neutral,0.4166666666666667,Positive,0.2597418129444122,Neutral
-Ha haha,0.5574,Positive,0.2,Neutral,-0.3040646016597748,Negative
+Ha haha,0.5574,Positive,0.2,Positive,-0.3040646016597748,Negative
 "YOU ARE THE BEST YOU INSPIRE ME AND UMMM. WELL I CRIED ALL 4 WEEKS THAT I MISSED THE CONCERT, BCZ THE PLACE I LIVED THAT DAY DIDNT HAVE INTERNET IM SO SAD :( BUT I AM YOUR BIGGEST FAN!!! I FOLLOW YOU IN ALL SOCIALS EVEN ROBLOX AND I DONT CALL YOU THE OLD TOWN ROAD GUY OT THE ROBLOX GUY, I CALL YOU LIL NAS (YUP THAT TIK TOK)!!!",0.5906,Positive,-0.076171875,Negative,0.874071478843689,Positive
 This must’ve take so long to make tho,0.0,Neutral,-0.05,Negative,0.7537258267402649,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love ❤️ this,0.6369,Positive,0.5,Positive,0.8828849792480469,Positive
-Dude i swear lil nas x likes money like he has 4 diffrent version of oldtown road,0.6249,Positive,0.05,Neutral,-0.5276598930358887,Negative
+Dude i swear lil nas x likes money like he has 4 diffrent version of oldtown road,0.6249,Positive,0.05,Positive,-0.5276598930358887,Negative
 "Dhdehbhfhdfeyb$hdgdysdbhddhebdyhdhhd(bcdhcbdhbchbdchbchnbdbchdbc(cnc(endnote
 HD cnccjndhdnchcdhbdccnhhdbhbdcd(hdcbhcbchcbdhh dhbcbhdhcbdhbchdcbhwdcbudbxdhbxd
 CD;can nbcxahbcdbwhnc*$chhcdcb*cdhbgcbdcb$c(bdhhwdhndhdhnhhcnbcbchbdhcdbhsdbwhcdbn
@@ -734,7 +734,7 @@ Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 top 10 anime crossovers,0.2023,Positive,0.5,Positive,0.9125120043754578,Positive
 🚶🏻‍♂️🤠🐎🧓🏻🏙️🛣️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Damnnnnnnnnnnnnn just wow this never get old,0.5859,Positive,0.1,Neutral,0.6875244379043579,Positive
+Damnnnnnnnnnnnnn just wow this never get old,0.5859,Positive,0.1,Positive,0.6875244379043579,Positive
 ;-;,0.0,Neutral,0.0,Neutral,0.2905960083007812,Neutral
 SDIS,0.0,Neutral,0.0,Neutral,0.2708311080932617,Neutral
 Hello mi name is Alonso,0.0,Neutral,0.0,Neutral,0.3509372770786285,Positive

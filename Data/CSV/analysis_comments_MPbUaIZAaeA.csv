@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 I loves😥💔,0.7469,Positive,0.0,Neutral,0.3422314524650574,Positive
-"Time will pass, we will get older, but this song will remain in our heart forever !",0.7959,Positive,0.2083333333333333,Neutral,0.6625231504440308,Positive
+"Time will pass, we will get older, but this song will remain in our heart forever !",0.7959,Positive,0.2083333333333333,Positive,0.6625231504440308,Positive
 Did anyone notice Adele s - oh my god song has same beginning as this song???,0.3899,Positive,0.0,Neutral,-0.5599106550216675,Negative
 Los Hermanos Perdidos,-0.3182,Negative,0.0,Neutral,0.2716397047042846,Neutral
 ELAteaching HISteaching STEMteaching MATHteaching OSUteaching,0.0,Neutral,0.0,Neutral,-0.3297108709812164,Negative
@@ -14,7 +14,7 @@ Hướng dẫn đàn bài bethoven virus  đi ạ,0.5719,Positive,0.0,Neutral,-0
 me encanta esta canción,0.6369,Positive,0.5,Positive,0.7601157426834106,Positive
 Justin bieber😭😭💓💓💓❤,0.9618,Positive,0.0,Neutral,0.3344562649726867,Positive
 It's amazing:))))),0.5859,Positive,0.55,Positive,0.8075646758079529,Positive
-Wow the lyric have a deep meaning,0.5859,Positive,0.1166666666666666,Neutral,0.7406991720199585,Positive
+Wow the lyric have a deep meaning,0.5859,Positive,0.1166666666666666,Positive,0.7406991720199585,Positive
 Justin 😭😭😭😭💓💓💓,0.8481,Positive,0.0,Neutral,0.3344562649726867,Positive
 Two legends >>>>,0.0,Neutral,0.0,Neutral,0.2265214920043945,Neutral
 Essa música oijte TV,0.0,Neutral,0.0,Neutral,0.4517302811145782,Positive
@@ -28,19 +28,19 @@ AAAAAAAAAAAAAAAAAAAAAAA,0.0,Neutral,0.0,Neutral,-0.4858160018920898,Negative
 "💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ 
                   MASTERPIECE",0.9998,Positive,0.0,Neutral,0.8283184766769409,Positive
 😍😍😍😍❤❤❤❤,0.9831,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Caralho essa é boa,-0.1531,Negative,0.1499999999999999,Neutral,0.3935561776161194,Positive
+Caralho essa é boa,-0.1531,Negative,0.1499999999999999,Positive,0.3935561776161194,Positive
 Una canción con letra q tiene sentido. Like!!!,0.5229,Positive,0.0,Neutral,0.281554251909256,Neutral
 "Ufff que canción ,la melodía ,la letra y los cantantes ,es perfecto",0.5719,Positive,1.0,Positive,0.5919713973999023,Positive
 justin bieber: whos shawn mendes?,0.0,Neutral,0.0,Neutral,0.2352776676416397,Neutral
 Monster. Is. Bad news 🗞. Like 👍. That. Shawn. Mendes,-0.25,Negative,-0.6999999999999998,Negative,-0.669185996055603,Negative
 ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Linda música,0.5994,Positive,0.85,Positive,0.385385662317276,Positive
-It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you 🌸🌸,0.8271,Positive,0.037037037037037,Neutral,0.6858478784561157,Positive
+It’s this song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times.  I hope everyone is doing well. I love you 🌸🌸,0.8271,Positive,0.037037037037037,Positive,0.6858478784561157,Positive
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 "Recién descubrí esta canción, donde estaba metida !!!",-0.4359,Negative,0.0,Neutral,0.345887690782547,Positive
-Eu sinto algo forte e estranho quando escuto essa musica não sei explicar ☢️⚓⚓💕😭🎆🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎸🎸🎸🎸🎸🎸🎸🎸🎬🎬🎬🎬🎬🎬🔍🔍🔍🔍🔍🔍🔍🔍💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕,0.9973,Positive,0.1916666666666666,Neutral,-0.3713387846946716,Negative
+Eu sinto algo forte e estranho quando escuto essa musica não sei explicar ☢️⚓⚓💕😭🎆🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎶🎸🎸🎸🎸🎸🎸🎸🎸🎬🎬🎬🎬🎬🎬🔍🔍🔍🔍🔍🔍🔍🔍💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕,0.9973,Positive,0.1916666666666666,Positive,-0.3713387846946716,Negative
 Their voice is so good together 🥰❤️🥰🥰🥰❤️ too good,0.9892,Positive,0.7,Positive,0.3047812283039093,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8050400018692017,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8050400018692017,Positive
 "I love Shawn 
 He is amazing 😍",0.9001,Positive,0.55,Positive,0.8767358660697937,Positive
 Shawn Mendes is sooooo underrated.  I love him so much,0.6369,Positive,0.35,Positive,0.7195145487785339,Positive
@@ -62,7 +62,7 @@ Hino injustiçado 😭✊,-0.7184,Negative,0.0,Neutral,-0.5936978459358215,Negat
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 #1:10  fav part🥰🔥,0.836,Positive,0.0,Neutral,0.3553429543972015,Positive
 I just head of this now,0.0,Neutral,0.0,Neutral,0.5847204923629761,Positive
-I am glad this finally happened because they are both extremely talented and amazing and both have a lot to say and inspire the world and young artist inspire other young people to reach others and change the world with one voice nd lyric at a time love these two Canadian men gld to see they are close friends now. Media always blows up all this drama and this is so true and tis song is a pltform of how we let things fester and get to us let fear go and find inner peace and if Covid has taught us anything be kind to one another and find beauty and love and peace in this world and each other spread love not hate.,0.9947,Positive,0.303125,Neutral,0.9059818983078004,Positive
+I am glad this finally happened because they are both extremely talented and amazing and both have a lot to say and inspire the world and young artist inspire other young people to reach others and change the world with one voice nd lyric at a time love these two Canadian men gld to see they are close friends now. Media always blows up all this drama and this is so true and tis song is a pltform of how we let things fester and get to us let fear go and find inner peace and if Covid has taught us anything be kind to one another and find beauty and love and peace in this world and each other spread love not hate.,0.9947,Positive,0.303125,Positive,0.9059818983078004,Positive
 mis novios,0.0,Neutral,0.0,Neutral,0.5755122303962708,Positive
 After watching  corona episodes I am here again love from Germany 🇩🇪 for the both,0.6369,Positive,0.5,Positive,0.7003066539764404,Positive
 🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -76,7 +76,7 @@ Justin after u marriage u look sick...unhappy...why,0.0,Neutral,0.0,Neutral,-0.5
 Jb no rock in Rio é realidade?? Tomara que sim,0.264,Positive,0.0,Neutral,-0.367660641670227,Negative
 Tenho tempo saubabe bsesejio amor,0.6369,Positive,0.5,Positive,0.4521563947200775,Positive
 Sempre juntos 🙈 euvose paxonaba carinho eivose,0.5267,Positive,0.0,Neutral,0.5344827771186829,Positive
-Musica lehau muito selula 🙈 junto,0.0,Neutral,0.2,Neutral,-0.2793175876140594,Negative
+Musica lehau muito selula 🙈 junto,0.0,Neutral,0.2,Positive,-0.2793175876140594,Negative
 Still a tune to me •°,0.0,Neutral,0.0,Neutral,0.4135482609272003,Positive
 Nice Collaboration💙,0.7906,Positive,0.6,Positive,0.4382759034633636,Positive
 ñ,0.0,Neutral,0.0,Neutral,-0.2178967893123626,Negative
@@ -86,20 +86,20 @@ I honestly thought this was a skillet cover,0.4588,Positive,0.6,Positive,0.28651
 Me encanta esta canción 💗😍😁,0.9442,Positive,0.5,Positive,0.7863094806671143,Positive
 Checkout 'MONSTER' acoustic cover - https://www.youtube.com/watch?v=WFEMvnlrVjk,0.0,Neutral,0.0,Neutral,0.2907766699790954,Neutral
 If u close ur eyes and not look them voice sounds so similar,0.0,Neutral,0.0,Neutral,-0.4465250074863434,Negative
-This collab was so fire how can you not love this song both of these men have amazing voices and sounds so dope together love it stays on repeat 🙏🔥❤️🙏🔥❤️,-0.2548,Negative,0.2833333333333334,Neutral,0.803188145160675,Positive
+This collab was so fire how can you not love this song both of these men have amazing voices and sounds so dope together love it stays on repeat 🙏🔥❤️🙏🔥❤️,-0.2548,Negative,0.2833333333333334,Positive,0.803188145160675,Positive
 "This is actually like passing of torch ceremony.
 
 
 From Justin to Shawn. one generation to next.",0.3612,Positive,0.0,Neutral,0.6535791158676147,Positive
 apaixonada por essa musica,0.6369,Positive,0.5,Positive,0.5876026153564453,Positive
 good good,0.7003,Positive,0.7,Positive,0.5405939817428589,Positive
-"""They that are without sin among you, let them first cast a stone."" (my paraphrase) ~John 8:7",0.4449,Positive,0.25,Neutral,0.3284195959568023,Neutral
+"""They that are without sin among you, let them first cast a stone."" (my paraphrase) ~John 8:7",0.4449,Positive,0.25,Positive,0.3284195959568023,Neutral
 I LOVE THIS SONG !!!,0.7788,Positive,0.9765625,Positive,0.892195999622345,Positive
 Who is here 2022,0.0,Neutral,0.0,Neutral,0.4457610547542572,Positive
 Amazing lyrics!!!! Something that is hardly ever expressed in music. It applies to all of us if anyone puts us up in a pedestal….terrible thing since we will fall,0.7156,Positive,0.3541666666666666,Positive,-0.5647589564323425,Negative
 dream duo...🥺,0.25,Positive,0.0,Neutral,0.3800657987594604,Positive
 The entry of shwan  and justin is superb 😻😘😘,0.9136,Positive,1.0,Positive,0.6522059440612793,Positive
-"Justin Bieber is such a big inspiration to me and is one of the main reason why I started making music in the first place. My dream is to collaborate with him one day. It would be a dream come true. To anyone reading this I wish you the best in chasing your dreams and perusing them. just know that anything is possible that you set your mind to. But you have to be willing to work for it. There will be tough times in your life that try to bring you down, but you need to get up and keep moving!",0.8378,Positive,0.1433333333333333,Neutral,0.7060631513595581,Positive
+"Justin Bieber is such a big inspiration to me and is one of the main reason why I started making music in the first place. My dream is to collaborate with him one day. It would be a dream come true. To anyone reading this I wish you the best in chasing your dreams and perusing them. just know that anything is possible that you set your mind to. But you have to be willing to work for it. There will be tough times in your life that try to bring you down, but you need to get up and keep moving!",0.8378,Positive,0.1433333333333333,Positive,0.7060631513595581,Positive
 Shawn Mendes his so handsome,0.6269,Positive,0.5,Positive,0.7751865983009338,Positive
 What a Masterpece,0.6249,Positive,0.0,Neutral,0.6527053117752075,Positive
 😘😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -141,7 +141,7 @@ Biblical References:
 6. Ephesians 2: 8 & 9
 7. John 3:16
 
-God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Neutral,0.6699942946434021,Positive
+God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Positive,0.6699942946434021,Positive
 "Já dá pra traduzir os comentários e já tem legenda em português nesse vídeo kkkkk, aleluia.",0.7783,Positive,0.8,Positive,-0.518693208694458,Negative
 "ILegal Song Publishing!
 This song ""Monster"" by Shawn Mendes ft Justin Bieber Owned by Dian Rubianti, still.
@@ -157,7 +157,7 @@ ILegal song Publishing!
 Dian Rubianti's daily song creation of 21 century.
 Letter on comment by The owner and the only one creator of this song (The only one created and composed this song)
 Dian Rubianti.
-181181",0.9941,Positive,0.2474545454545454,Neutral,-0.5436785817146301,Negative
+181181",0.9941,Positive,0.2474545454545454,Positive,-0.5436785817146301,Negative
 two legends singing together!,0.0,Neutral,0.0,Neutral,0.5007617473602295,Positive
 Escuchen When you're gone!!!,0.0,Neutral,0.0,Neutral,0.4165628552436828,Positive
 I love you both po 😭,-0.3612,Negative,0.5,Positive,0.8274551033973694,Positive
@@ -165,18 +165,18 @@ https://youtu.be/Fa1fkomZk6w,0.0,Neutral,0.0,Neutral,-0.2352230995893478,Negativ
 Love SM,0.6369,Positive,0.5,Positive,0.5957112312316895,Positive
 Ñ,0.0,Neutral,0.0,Neutral,-0.2178967893123626,Negative
 "It's April 2022, Let's See how many legends are listening to this masterpiece  !",0.7325,Positive,0.625,Positive,0.7401472926139832,Positive
-What is so interesting and amazing to get back to the video in a year and live and feel through it differently,0.8203,Positive,0.2472727272727272,Neutral,0.8293840885162354,Positive
+What is so interesting and amazing to get back to the video in a year and live and feel through it differently,0.8203,Positive,0.2472727272727272,Positive,0.8293840885162354,Positive
 "😭😭😭💓💓💓💓💓💓💓💓💓💓💓💓💓💓✨💓💓✨💓💓💓my favorite English singer
-Shawn Mendes & Justin Bieber",0.9911,Positive,0.25,Neutral,0.653678297996521,Positive
+Shawn Mendes & Justin Bieber",0.9911,Positive,0.25,Positive,0.653678297996521,Positive
 TEMAZO,0.6249,Positive,0.8,Positive,0.2918783724308014,Neutral
 Until you are not. 13,0.0,Neutral,0.0,Neutral,-0.3734232485294342,Negative
-Wow collaboration of two iconic voices 😘,0.765,Positive,0.3,Neutral,0.7742730379104614,Positive
+Wow collaboration of two iconic voices 😘,0.765,Positive,0.3,Positive,0.7742730379104614,Positive
 I love to see them together singing a song 💙💙💙💙💙 Shawn Mendes and Justin Bieber together are simply amazing 💙💙💙💙💙💙💙,0.9962,Positive,0.55,Positive,0.8524463176727295,Positive
 ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "went from ""who is shawn mendes"" to collabing together xD",0.5859,Positive,0.0,Neutral,0.3453800678253174,Positive
 Perfect song. ❤🙏💗,0.93,Positive,1.0,Positive,0.8749798536300659,Positive
 What If I What IF I Fall,0.0,Neutral,0.0,Neutral,-0.3545899987220764,Negative
-MIS AMORES los amo aunque se tropiecen 3238392mill veces,0.8636,Positive,0.225,Neutral,0.4279564023017883,Positive
+MIS AMORES los amo aunque se tropiecen 3238392mill veces,0.8636,Positive,0.225,Positive,0.4279564023017883,Positive
 Se eles separados as musicas são boas juntos ent  pqp que perfeiçãooooooo,0.765,Positive,0.7,Positive,0.3349349200725555,Positive
 I want to tear that red hat off!,0.1511,Positive,0.0,Neutral,0.3038884401321411,Neutral
 wow. speechless of how good this was.,0.7717,Positive,0.3999999999999999,Positive,0.3883209824562073,Positive
@@ -184,7 +184,7 @@ wow. speechless of how good this was.,0.7717,Positive,0.3999999999999999,Positiv
 tremendous song beautiful voices it just whaoo 😍!,0.8162,Positive,0.6666666666666666,Positive,0.8166859149932861,Positive
 LITTLE GOLFER IS HERE ✨✨✨♥️♥️♥️https://youtube.com/shorts/zviJOoZjkNQ?feature=share,0.9612,Positive,-0.1875,Negative,0.3235563635826111,Neutral
 ♥️♥️♥️💕💕,0.9726,Positive,0.0,Neutral,0.3085779249668121,Neutral
-How have I never heard this wtf it’s so good,-0.3197,Negative,0.0999999999999999,Neutral,0.7236497402191162,Positive
+How have I never heard this wtf it’s so good,-0.3197,Negative,0.0999999999999999,Positive,0.7236497402191162,Positive
 "I think I already commented here but I need to comment again, seeing you two together makes me ecstatic!!!!  My favorites together, I still can't get over it, what a song, what a clip, what wonderful voices together!!!!  Thank you for this art in the form of a song and video, I just love you guys so much and I wish light for your path.  just thank you ❤️ from Brazil 🇧🇷",0.9864,Positive,0.525,Positive,0.9519992470741272,Positive
 i give it a 1'000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000/14,0.0,Neutral,0.0,Neutral,-0.3225321173667907,Negative
 Two canadians doing a collab,0.0,Neutral,0.0,Neutral,-0.2812757790088653,Negative
@@ -193,21 +193,21 @@ DAMN THIS MUSIC LIFTS ME UP EVERYTIME 🥵🔥,-0.7034,Negative,0.0,Neutral,0.82
 
 
 love and pressure",0.802,Positive,0.75,Positive,0.8787385821342468,Positive
-"La canción mas personal que tengo, en cierta forma me identifico con la letra...",0.2732,Positive,0.2380952380952381,Neutral,0.5888847708702087,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+"La canción mas personal que tengo, en cierta forma me identifico con la letra...",0.2732,Positive,0.2380952380952381,Positive,0.5888847708702087,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Essa msc eh prft... faz refletir muito já ouvi centenas de vezes e sempre vem com aquela mesma emoção sabe? E essa combinação mano --------🛐,0.296,Positive,0.0,Neutral,0.4326033592224121,Positive
 "Just imagine how many people come here every day, this song is really legendary!! I can't get this song out of my head, love this song ❤",0.8745,Positive,0.6666666666666666,Positive,0.9319719672203064,Positive
 When ever people hurt me then I listen to this song,-0.5267,Negative,0.0,Neutral,0.5198575854301453,Positive
 "pertama kali rilis, liatnya di aplikasi musik dan baru sekarang liat MV nyaa 😩😩
 it's so cool guys <3",0.7315,Positive,0.4,Positive,0.377793401479721,Positive
-I found this song a while back and it’s amazing. Its quite interesting to let me explain. my dad has messed up in the past a lot and at the moment our family is torn apart. And it’s quite interesting when I find songs that go along with each part of the story. It’s like an anime opening :]],0.8354,Positive,0.3083333333333333,Neutral,0.5348365306854248,Positive
+I found this song a while back and it’s amazing. Its quite interesting to let me explain. my dad has messed up in the past a lot and at the moment our family is torn apart. And it’s quite interesting when I find songs that go along with each part of the story. It’s like an anime opening :]],0.8354,Positive,0.3083333333333333,Positive,0.5348365306854248,Positive
 JB,0.0,Neutral,0.0,Neutral,0.2728082835674286,Neutral
 que buena cansion,0.4404,Positive,0.7,Positive,0.2264027893543243,Neutral
 "I never got why people hated Justin. I never vibed with his music that much until this jam, but
 considering he was a billionaire before he was 20 and doesn't have an opiate or cocaine addiction...
 I'd say even without the money and fame, he us doing better than anyone
 from Ohio.",0.7269,Positive,-0.0666666666666666,Negative,0.2686485946178436,Neutral
-"really really really, no one will ever understand how perfect the video is for me, and not to mention that it's so unreal when Shawn is behind Justin singing, it can't be!!!, amazing amazing",-0.7473,Negative,0.26375,Neutral,0.9279112219810486,Positive
+"really really really, no one will ever understand how perfect the video is for me, and not to mention that it's so unreal when Shawn is behind Justin singing, it can't be!!!, amazing amazing",-0.7473,Negative,0.26375,Positive,0.9279112219810486,Positive
 ( ◜‿◝ )♡,0.0,Neutral,0.0,Neutral,0.5295154452323914,Positive
 Remember when he didnt know shawn mendes? Omg ahhahahahahahahahaha look now,0.0,Neutral,0.0,Neutral,-0.3615782856941223,Negative
 magical Song,0.0,Neutral,0.5,Positive,0.6398747563362122,Positive
@@ -222,23 +222,23 @@ Merecia mais reconhecimento,0.0,Neutral,0.5,Positive,0.2979620695114136,Neutral
 Sus voces juntas son una locura 😭,-0.6705,Negative,-0.6,Negative,0.364957720041275,Positive
 Brilliant,0.5859,Positive,0.9,Positive,0.8093454241752625,Positive
 "Por mim, poderiam ser uma dupla....perfeitossss 😍 HINO",0.4588,Positive,0.0,Neutral,0.5593039393424988,Positive
-This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💕,0.91,Positive,0.2037037037037037,Neutral,0.9103387594223022,Positive
+This song and “Clover Cage - Blessed” are the two songs keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better. We are in this together..💕,0.91,Positive,0.2037037037037037,Positive,0.9103387594223022,Positive
 love the song but i feel like shawn mendes and charlie puth would have been a better duo.,0.8658,Positive,0.5,Positive,0.5328505635261536,Positive
 ❤️❤️✨,0.3182,Positive,0.0,Neutral,0.3085779249668121,Neutral
 👽lizard?,0.0,Neutral,0.0,Neutral,-0.3567325472831726,Negative
-"I get surprised when I saw Justin Bieber, the collaboration ain't nothing bad and Bieber is someone really talentous, I'm so proud of him",0.5457,Positive,0.1,Neutral,0.7244766354560852,Positive
+"I get surprised when I saw Justin Bieber, the collaboration ain't nothing bad and Bieber is someone really talentous, I'm so proud of him",0.5457,Positive,0.1,Positive,0.7244766354560852,Positive
 "Please ,you Have mercy on my heart 😍😍😍😍",0.9638,Positive,0.0,Neutral,0.6377399563789368,Positive
-Shawn and Justin can't do no wrong fr. This collab is 🔥🔥🔥🔥,-0.8674,Negative,0.25,Neutral,0.6593263745307922,Positive
+Shawn and Justin can't do no wrong fr. This collab is 🔥🔥🔥🔥,-0.8674,Negative,0.25,Positive,0.6593263745307922,Positive
 I enjoy listening. Great song. 👍,0.8074,Positive,0.6000000000000001,Positive,0.733810544013977,Positive
-"O Bieber amassou na parte dele tá, só Punchline monstra",0.0,Neutral,0.25,Neutral,-0.2923361659049988,Negative
+"O Bieber amassou na parte dele tá, só Punchline monstra",0.0,Neutral,0.25,Positive,-0.2923361659049988,Negative
 "Que hino meus amigos,que HINO..
 como eu amo esses dois❤",0.91,Positive,0.5,Positive,0.6840044260025024,Positive
-This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Neutral,0.9298951029777528,Positive
-This song and “Lovesick” by somm are my two favorite songs that are really helping me get through this tough time,0.5951,Positive,0.1037037037037036,Neutral,0.8299452662467957,Positive
+This song and “Clover Cage - Blessed” are the only two things keeping me sane through these tough times. I just want to send love to everyone and I want everyone to know things will get better...We are in this together...I love you...❤️,0.8591,Positive,0.1527777777777778,Positive,0.9298951029777528,Positive
+This song and “Lovesick” by somm are my two favorite songs that are really helping me get through this tough time,0.5951,Positive,0.1037037037037036,Positive,0.8299452662467957,Positive
 172.3 Million fighting,-0.3612,Negative,0.0,Neutral,-0.3569863736629486,Negative
 Two pop princes in a fame 😍,0.7096,Positive,0.0,Neutral,0.41030353307724,Positive
 Essa música eh doida demais cê tá doido 👏👏 escuto ela todo diaaaaa 😍😍,0.0567,Positive,-0.6,Negative,-0.3663878142833709,Negative
-Love Shawn but I never really Vibed with the Beaver bush. Simply because I don't believe him.,0.3818,Positive,0.1333333333333333,Neutral,0.4091357290744781,Positive
+Love Shawn but I never really Vibed with the Beaver bush. Simply because I don't believe him.,0.3818,Positive,0.1333333333333333,Positive,0.4091357290744781,Positive
 Maybe one of the BEST song I heard in my whole life. I correct : DEFINITELY the best song I heard un my WHOLE LIFE,0.9269,Positive,0.4800000000000001,Positive,0.3530900180339813,Positive
 ❤️❤️❤️❤️❤️ los amoooo!!!!!,0.7482,Positive,1.0,Positive,-0.3380224108695984,Negative
 How am I hearing women sing?!!!,0.0,Neutral,0.0,Neutral,-0.2902169525623321,Negative
@@ -248,7 +248,7 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 2020=20,0.0,Neutral,0.0,Neutral,0.2221561223268509,Neutral
 Março de 2022 e eu aqui ouvindo esse hino maravilhoso ❤,0.8616,Positive,1.0,Positive,0.7929943203926086,Positive
 Dat Camera spin at 2:15!!!!!,0.0,Neutral,0.0,Neutral,-0.6343584060668945,Negative
-This song and “Did You Call Me?” by Lukaz just hits different in early 2022. Times may be tough but everything going to be okay in the end. I hope everyone is doing well. I love you all! 💜💜,0.9823,Positive,0.1672222222222222,Neutral,0.6884852051734924,Positive
+This song and “Did You Call Me?” by Lukaz just hits different in early 2022. Times may be tough but everything going to be okay in the end. I hope everyone is doing well. I love you all! 💜💜,0.9823,Positive,0.1672222222222222,Positive,0.6884852051734924,Positive
 "They always put you higher on there life until you are not no1 no more .
 Sad but true",0.4506,Positive,-0.0375,Negative,0.2282426804304123,Neutral
 PEDEACHO DE NASI,0.0,Neutral,0.0,Neutral,-0.3790313005447387,Negative
@@ -265,7 +265,7 @@ They make me feel bad for Canada and my people and also fun fact I’m not Canad
 Their voices are good and so is this collaboration. Everybody's talking about it but what's important is what this song's about. Are celebrities not allowed to be depressed and get angry. Are they not allowed to be anxious sometimes and maybe lash out like human beings. we get too harsh on them if they show even a little human side of theirs. It's seriously a privilege for us that we can act out our emotions and people won't remember it. They don't have that privilege. Just thought I gotta say this,-0.8838,Negative,-0.0412037037037036,Negative,0.3698813915252685,Positive
 gay,0.0,Neutral,0.4166666666666667,Positive,0.2597418129444122,Neutral
 Justin biber superstat nice song,0.4215,Positive,0.6,Positive,0.6367925405502319,Positive
-I've been listening to both of them since they first came out on YouTube,0.0,Neutral,0.25,Neutral,0.2290677577257156,Neutral
+I've been listening to both of them since they first came out on YouTube,0.0,Neutral,0.25,Positive,0.2290677577257156,Neutral
 How am I just now listening to this. The lyrics/meaning of this song is so deep. Their voices go  so well together. Their voices and the beat of the song goes together so well. It's just phenomenal!!!!,0.7684,Positive,0.5,Positive,0.933053493499756,Positive
 There is some message to the listeners and Justin has some truth in his lyrics so does Shawn.  God bless them No one can understand their pain in their words,0.2415,Positive,0.0,Neutral,0.2920841872692108,Neutral
 ❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -282,11 +282,11 @@ This song is about how we idealize celebs and then cancel them on basic human mi
 "A what 😳
 I'm soooo late for this collab",0.0,Neutral,-0.3,Negative,0.3799759745597839,Positive
 """Holding it against me like you're the holy one."" Gosh, I wish all the haters would reflect on that lol. (Not just JB's and Shawn's)",0.5859,Positive,0.8,Positive,-0.2801012992858886,Negative
-Anyone else who keeps coming back again and again for this two amazing artists🥰,0.9022,Positive,0.3,Neutral,0.8634902238845825,Positive
+Anyone else who keeps coming back again and again for this two amazing artists🥰,0.9022,Positive,0.3,Positive,0.8634902238845825,Positive
 I Love You Shawn and Justin Better Music😍😍🥰🥰,0.9812,Positive,0.5,Positive,0.7510057687759399,Positive
 Faitma Qandil,0.0,Neutral,0.0,Neutral,0.2588197886943817,Neutral
 Es a nivel mundial,0.0,Neutral,0.0,Neutral,0.4722102284431457,Positive
-Esa música vale mamá de Juan Gabriel,0.2263,Positive,0.3,Neutral,0.5329098105430603,Positive
+Esa música vale mamá de Juan Gabriel,0.2263,Positive,0.3,Positive,0.5329098105430603,Positive
 * 99,0.0,Neutral,0.0,Neutral,-0.3075066804885864,Negative
 Buena música viejo,0.4404,Positive,0.7,Positive,0.431017130613327,Positive
 Y esa música le doy 4000,0.0,Neutral,0.0,Neutral,0.5369312763214111,Positive
@@ -299,11 +299,11 @@ Shawn's voice is lit here 🔥🔥,-0.5859,Negative,0.0,Neutral,-0.2761005759239
 Back in 2017 this songs would’ve broken records a collab we wanted thought we weren’t going to get it really tells how shitty are songs now,-0.7884,Negative,-0.0666666666666666,Negative,-0.5909152030944824,Negative
 Não canso de ouvir esse hino😍,0.6604,Positive,-0.4,Negative,0.4422729611396789,Positive
 Justin Bieber is the greatest ever. This song is sooo soothing,0.8015,Positive,1.0,Positive,0.6841509938240051,Positive
-Em pensar que o Shawn realizou o sonho dele em cantar com o ídolo dele deixa o meu coração quentinho 🥰🥰 Só quem acompanhou o Shawn na época do vines sabe,0.9764,Positive,0.3,Neutral,0.2316535115242004,Neutral
+Em pensar que o Shawn realizou o sonho dele em cantar com o ídolo dele deixa o meu coração quentinho 🥰🥰 Só quem acompanhou o Shawn na época do vines sabe,0.9764,Positive,0.3,Positive,0.2316535115242004,Neutral
 This is a good song,0.4404,Positive,0.7,Positive,0.4934181571006775,Positive
 Justin singing about his true life story and how he’s feeling now,0.5106,Positive,0.35,Positive,0.5012984871864319,Positive
 Vibes of Lima Peru 🇵🇪!,0.0,Neutral,0.0,Neutral,0.5433652997016907,Positive
-The song was so cool then Justin Bieber voice when he sing the second part it gave me the monster,0.4572,Positive,0.175,Neutral,0.2468435317277908,Neutral
+The song was so cool then Justin Bieber voice when he sing the second part it gave me the monster,0.4572,Positive,0.175,Positive,0.2468435317277908,Neutral
 Is noe one going to talk about how shawn climbed those stairs 2 at a time 👀👀,-0.296,Negative,0.0,Neutral,0.3094052970409393,Neutral
 Not being a critique ilove both of them but Am i the only one who noticed the fact that hailey is justin's wife and shawn's ex.... Wouldn't it be weird... ?,0.1967,Positive,-0.25,Negative,0.4706388711929321,Positive
 (∿°○°)∿ ︵ ǝʌol,0.0,Neutral,0.0,Neutral,0.4002546072006225,Positive
@@ -330,7 +330,7 @@ Maski niewiary maski kosmosu maski starchu maski gniewu maski maski nicości,-0.
 My favorite 's🥰🥰🥰❤️❤️❤️🔥🔥🔥🔥😘😘😘😘,0.9808,Positive,0.5,Positive,0.8868950605392456,Positive
 why does this music video looks like billie eilish's lovely,0.743,Positive,0.5,Positive,0.2661886215209961,Neutral
 March ✨,0.3182,Positive,0.0,Neutral,0.3043745756149292,Neutral
--That was exactly Hailey Bieber's face 😱😱,-0.891,Negative,0.25,Neutral,0.2421091645956039,Neutral
+-That was exactly Hailey Bieber's face 😱😱,-0.891,Negative,0.25,Positive,0.2421091645956039,Neutral
 My love canadian singers,0.6369,Positive,0.5,Positive,0.7000511288642883,Positive
 My loves❤,0.836,Positive,0.0,Neutral,0.5787277817726135,Positive
 losamo,0.0,Neutral,0.0,Neutral,0.2407618463039398,Neutral
@@ -382,7 +382,7 @@ La-da-da, da-da-da, da
 La-da-da-da, da-da (please don't let me fall)
 La-da-da-da, da-da-da, da
 La-da-da-da, da-da (oh, please don't let me fall)
-La-da-da-da, da-da-da, da",0.9897,Positive,0.0538194444444444,Neutral,0.3187167346477508,Neutral
+La-da-da-da, da-da-da, da",0.9897,Positive,0.0538194444444444,Positive,0.3187167346477508,Neutral
 """Who Shawn Mendes""",0.0,Neutral,0.0,Neutral,0.2250490039587021,Neutral
 Jo,0.0,Neutral,0.0,Neutral,0.2803490757942199,Neutral
 Nice performance,0.4215,Positive,0.6,Positive,0.4828130900859833,Positive
@@ -407,7 +407,7 @@ Shawn Mendes did great but man it sounded like jb was telling his story. I hate 
 https://youtu.be/Kl0pHvEONI8",0.0,Neutral,0.0,Neutral,-0.401364803314209,Negative
 *How many in March 2022? ♥️*,0.6369,Positive,0.5,Positive,-0.4972026944160461,Negative
 alto tema este te amo shawn y justin tambien,0.6369,Positive,0.33,Positive,0.4520717859268188,Positive
-"I hope they collab again, their voices are both very polite to the ear",0.4404,Positive,0.2,Neutral,0.3989613652229309,Positive
+"I hope they collab again, their voices are both very polite to the ear",0.4404,Positive,0.2,Positive,0.3989613652229309,Positive
 Am here for shwan body😂❤️,0.4404,Positive,0.0,Neutral,0.3828156888484955,Positive
 Y’all know they clapped after...,0.0,Neutral,0.0,Neutral,-0.3391731381416321,Negative
 AM I,0.0,Neutral,0.0,Neutral,0.3150522112846374,Neutral
@@ -482,7 +482,7 @@ love love love jb . 🤩😍🥰🤩😍🥰🤩😍🥰,0.9925,Positive,0.5,Pos
 Shawn you're my celebrity crush 😍,0.34,Positive,0.0,Neutral,0.7693357467651367,Positive
 This song describes my life....,0.0,Neutral,0.0,Neutral,0.5405109524726868,Positive
 😍😍😍😍😍😍,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I don't know where does he live pls tell me if u know. ❤️,0.0772,Positive,0.1363636363636363,Neutral,0.3168304860591888,Neutral
+I don't know where does he live pls tell me if u know. ❤️,0.0772,Positive,0.1363636363636363,Positive,0.3168304860591888,Neutral
 Voices sound so good together. Love the message of the song. Hope they make more songs together,0.9023,Positive,0.525,Positive,0.5890357494354248,Positive
 Ain’t gonna lie. Justin Bieber out vocals Shawn Mendez. Just my opinion.,0.0,Neutral,0.0,Neutral,0.3006413578987121,Neutral
 Hold up…he dated his wife then she dated Shawn then he took her back and wifed her…ok I’m going to bed,0.0,Neutral,0.0,Neutral,0.2723536789417267,Neutral
@@ -562,9 +562,9 @@ La-da-da-duh-duh-duh-na
 La-da-da-duh-duh (Please don't let me fall)
 La-da-da-duh-duh-duh-na
 La-da-da-da-duh-duh (Oh, please don't let me fall)
-La-da-da-duh-duh-duh-na",0.984,Positive,0.0538194444444444,Neutral,0.3152922093868255,Neutral
+La-da-da-duh-duh-duh-na",0.984,Positive,0.0538194444444444,Positive,0.3152922093868255,Neutral
 😗😗😗just uff,0.9022,Positive,0.0,Neutral,0.3251563608646393,Neutral
-Justin high notes at the end of Song 🔥🔥,-0.5859,Negative,0.16,Neutral,0.3178637027740478,Neutral
+Justin high notes at the end of Song 🔥🔥,-0.5859,Negative,0.16,Positive,0.3178637027740478,Neutral
 Sigue siendo un hit❤,0.6369,Positive,0.0,Neutral,0.4687524437904358,Positive
 Samira meuseque  goood,0.0,Neutral,0.0,Neutral,0.2661953568458557,Neutral
 Goood,0.0,Neutral,0.0,Neutral,0.2613036036491394,Neutral
@@ -588,7 +588,7 @@ Junto café 🎁 aqui comigo amor casa,0.7964,Positive,0.5,Positive,0.5767855048
 Qeriha amanhã amor 🎂 aqui comigo,0.6369,Positive,0.5,Positive,0.4773493409156799,Positive
 Bonito amor música lehau muito especial,0.902,Positive,0.6047619047619048,Positive,0.4718861579895019,Positive
 Essa música legal 👌 aqui lehau junto TV,0.8143,Positive,0.35,Positive,0.3543936908245086,Positive
-"5:52 When I first saw you I looked for a signature, because every masterpiece has one.",0.6249,Positive,0.25,Neutral,0.5230250358581543,Positive
+"5:52 When I first saw you I looked for a signature, because every masterpiece has one.",0.6249,Positive,0.25,Positive,0.5230250358581543,Positive
 THEY HAVE MADE IT WITHOUT MAKING MISTAKES!! I DONT KNOW MANY TAKES DID THEY TAKE FOR THIS,0.4007,Positive,0.5,Positive,0.5178104639053345,Positive
 Amarvose muto Amor,0.6124,Positive,0.0,Neutral,-0.2685562372207641,Negative
 Bonito amor beijo,0.8979,Positive,0.675,Positive,0.4167594611644745,Positive
@@ -603,21 +603,21 @@ Great,0.6249,Positive,0.8,Positive,0.741083025932312,Positive
 This is really lit. I can't stop singing it everyday. Gosh!! My Two crushes in one frame🥺,-0.381,Negative,-0.0562499999999999,Negative,-0.4716960191726684,Negative
 "when camilla said : ""I'm in love with a monster""
 then shawn said : ""Then am I the monster?Just let me know""",0.6369,Positive,0.5,Positive,-0.2578254044055938,Negative
-Dang this song is so real,0.0,Neutral,0.2,Neutral,0.6977275609970093,Positive
+Dang this song is so real,0.0,Neutral,0.2,Positive,0.6977275609970093,Positive
 "well done gays! 
 These two gaylords always rock ! 💣 🎸",-0.3987,Negative,0.0,Neutral,0.7610572576522827,Positive
 The song gives me chills. I just wanna hug them both. We all fall its about getting up afterwards!! Thats what they have done . Shout out to Shawn Mendes and  Justin Bieber! Beautiful truth!!!,0.8877,Positive,1.0,Positive,-0.4392656087875366,Negative
 Man this song’s music hits different,0.0,Neutral,0.0,Neutral,0.3698588907718658,Positive
-This is the most weird colab for me but amazing!,0.718,Positive,0.25,Neutral,0.6866549253463745,Positive
+This is the most weird colab for me but amazing!,0.718,Positive,0.25,Positive,0.6866549253463745,Positive
 🤍😭,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "I'm sending a message on my dad's phone my phone is on charge my dream  
 is still to see and meet Justin bieber and Ariana Grande I also want to meet sawn mendez to I wish I can",0.6124,Positive,0.0,Neutral,0.4307938516139984,Positive
 "4:31 I'm not a photographer, but I can picture us together.",0.0,Neutral,0.0,Neutral,0.5277479290962219,Positive
 this song is underrated. i love this song sm,0.6369,Positive,0.5,Positive,0.8029921650886536,Positive
-"bruh can someone count how many times Shawn almost fell off that huge white block, ugh. oh dear...",-0.2023,Negative,0.3,Neutral,-0.499743103981018,Negative
-2022 🥺 escuchando esta fabulosa canción 💎 una joya total 😭,0.1621,Positive,0.2,Neutral,0.905246913433075,Positive
+"bruh can someone count how many times Shawn almost fell off that huge white block, ugh. oh dear...",-0.2023,Negative,0.3,Positive,-0.499743103981018,Negative
+2022 🥺 escuchando esta fabulosa canción 💎 una joya total 😭,0.1621,Positive,0.2,Positive,0.905246913433075,Positive
 "This is my favorite song ever, ""then I'm not the monster""",0.4588,Positive,0.5,Positive,0.8744730353355408,Positive
-only mv not to give 100% clear view even after 1080p lol😅😅,0.8555,Positive,0.05,Neutral,-0.3802451193332672,Negative
+only mv not to give 100% clear view even after 1080p lol😅😅,0.8555,Positive,0.05,Positive,-0.3802451193332672,Negative
 who is here after 1 year🙂🙂,0.6613,Positive,0.0,Neutral,-0.485521525144577,Negative
 mds amo demais essa musica,0.6369,Positive,0.35,Positive,-0.3520713150501251,Negative
 jooyaaa,0.0,Neutral,0.0,Neutral,0.2469905763864517,Neutral
@@ -627,7 +627,7 @@ broooooooo justin rock's,0.0,Neutral,0.0,Neutral,0.2299772799015045,Neutral
 🥰🥰🥰🥰,0.9837,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Honestly surprised. Really good together!,0.8118,Positive,0.4875,Positive,0.7141358852386475,Positive
 I still think Shawn is bottoming somewhere,0.0,Neutral,0.0,Neutral,0.3654846847057342,Positive
-"Then you put on new shoes, get back up and get going again. Never easy but its better than dying doing nothing after the fall.",0.4848,Positive,0.1049242424242424,Neutral,0.4268820881843567,Positive
+"Then you put on new shoes, get back up and get going again. Never easy but its better than dying doing nothing after the fall.",0.4848,Positive,0.1049242424242424,Positive,0.4268820881843567,Positive
 😍💘💘💘💘,0.9674,Positive,0.0,Neutral,0.3085779249668121,Neutral
 the canada here,0.0,Neutral,0.0,Neutral,0.3396357595920563,Positive
 7:06 Only care about you,0.4939,Positive,0.0,Neutral,0.299062043428421,Neutral
@@ -648,7 +648,7 @@ Los amo,0.6369,Positive,0.5,Positive,0.3753328323364258,Positive
 "Swan + H = Shawn 🦋 
 He + Art = Heart 🦋
 Sm + Art = Smart 🦋
-He = Sm = Shawn Mendes = Шон Мендес 🦋",0.7845,Positive,0.2142857142857142,Neutral,0.4472148418426513,Positive
+He = Sm = Shawn Mendes = Шон Мендес 🦋",0.7845,Positive,0.2142857142857142,Positive,0.4472148418426513,Positive
 Loving it,0.5994,Positive,0.6,Positive,0.5723158717155457,Positive
 😍😍😍😘😘😘😚,0.9643,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Fddg,0.0,Neutral,0.0,Neutral,0.2622824907302856,Neutral
@@ -659,11 +659,11 @@ I love you 💕,0.8591,Positive,0.5,Positive,0.8701996207237244,Positive
 áÁáA justim que lindo....sua parceria e tudo sua voz soa sempre num timbre.suave e doce de ouvir ...adorei... Deus o abençoe....,0.8658,Positive,0.5249999999999999,Positive,0.6463086605072021,Positive
 The Veer Union cover of this is sooooo much better!!,0.5399,Positive,0.78125,Positive,-0.4005115628242492,Negative
 Shawn love,0.6369,Positive,0.5,Positive,0.4519224464893341,Positive
-que tema SHAW AND JUSTIN.CONMOVIOME.QUE TIRE LA PRIMERA PIEDRA QUIEN ESTE LIBRE DE PECADO.,-0.516,Negative,0.05,Neutral,-0.371546596288681,Negative
+que tema SHAW AND JUSTIN.CONMOVIOME.QUE TIRE LA PRIMERA PIEDRA QUIEN ESTE LIBRE DE PECADO.,-0.516,Negative,0.05,Positive,-0.371546596288681,Negative
 Beautiful Monster!!!,0.6981,Positive,1.0,Positive,0.8326839208602905,Positive
 amoooooooooooooooooo,0.0,Neutral,0.0,Neutral,-0.2435604035854339,Negative
 Tô paixonada nessa❤❤❤,0.9571,Positive,0.5,Positive,0.5600171685218811,Positive
-Just came across this song and I am obsessed!!! Perfect duo!!!! ❤️❤️❤️,0.6331,Positive,0.01171875,Neutral,0.90590238571167,Positive
+Just came across this song and I am obsessed!!! Perfect duo!!!! ❤️❤️❤️,0.6331,Positive,0.01171875,Positive,0.90590238571167,Positive
 8:27 You may only be one person to the world but you may be the world to one person.,0.0,Neutral,0.0,Neutral,-0.3210629820823669,Negative
 Who’s still here in 2022,0.0,Neutral,0.0,Neutral,0.3777160346508026,Positive
 "9:11 If I could change the alphabet, I would put U and I together.",0.0,Neutral,0.0,Neutral,0.2422614246606826,Neutral
@@ -674,12 +674,12 @@ shawn lbh baik nyanyi sndri..",-0.3818,Negative,-0.0999999999999999,Negative,0.2
 Jb legend 👑,0.0,Neutral,0.0,Neutral,0.4175622165203094,Positive
 "This song is really peaceful(:
 Love it so much 
-One of my favs",0.839,Positive,0.3166666666666666,Neutral,0.6974592804908752,Positive
+One of my favs",0.839,Positive,0.3166666666666666,Positive,0.6974592804908752,Positive
 it's  the better sound that me and my better friend we listen and sing all ⌚,0.8402,Positive,0.4666666666666666,Positive,0.6908037066459656,Positive
-Justin Bieber and Shawn Mendes really killed it with this song. I love you too!! 😁😁❤️❤️,0.7176,Positive,0.290625,Neutral,0.8599362969398499,Positive
+Justin Bieber and Shawn Mendes really killed it with this song. I love you too!! 😁😁❤️❤️,0.7176,Positive,0.290625,Positive,0.8599362969398499,Positive
 "Песня затронула за живое,очень крутой трек!!!",0.5376,Positive,0.888671875,Positive,-0.6115338802337646,Negative
 Melhor feat,0.6369,Positive,1.0,Positive,0.7903319597244263,Positive
-Wow!!! 🙏,0.6884,Positive,0.1953125,Neutral,0.7703121900558472,Positive
+Wow!!! 🙏,0.6884,Positive,0.1953125,Positive,0.7703121900558472,Positive
 How many legends watching in 2022😄🔥❤❤❤❤❤❤,0.9839,Positive,0.5,Positive,0.4791740179061889,Positive
 "Collab idea: Shawn, Charlie and Justin. Maybe even Kid Laroi in it too. *♡♡♡*",0.0,Neutral,0.0,Neutral,0.3228718042373657,Neutral
 Fucking iconic.,0.0,Neutral,0.5,Positive,0.8276091814041138,Positive
@@ -711,9 +711,9 @@ i am confused if this is a christian song or not,-0.3182,Negative,-0.2,Negative,
 this very good,0.4927,Positive,0.91,Positive,0.5726281404495239,Positive
 "Monster, é indescritível, fiquem à vontade e ouçam esta obra-prima.",0.8472,Positive,0.4,Positive,-0.6859760284423828,Negative
 "Shawn's 1st step in the staircase should've matched with ""trip""",0.0,Neutral,0.0,Neutral,0.3836612701416015,Positive
-Wow surprised they did a song together when Justin Bieber’s wife Hailey dated Shawn Mendez. Right after they broke up her and Bieber got engaged in 2018,0.6808,Positive,0.1619047619047619,Neutral,0.6420993208885193,Positive
+Wow surprised they did a song together when Justin Bieber’s wife Hailey dated Shawn Mendez. Right after they broke up her and Bieber got engaged in 2018,0.6808,Positive,0.1619047619047619,Positive,0.6420993208885193,Positive
 Such a masterpiece!!!!! ❤️❤️❤️,0.7405,Positive,0.0,Neutral,0.952582061290741,Positive
-This song never get old! I can't stop listening to this masterpiece and every time comez. I love it. ❦,0.9053,Positive,0.3125,Neutral,0.9500466585159302,Positive
+This song never get old! I can't stop listening to this masterpiece and every time comez. I love it. ❦,0.9053,Positive,0.3125,Positive,0.9500466585159302,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 Jesus! 😍,0.5093,Positive,0.0,Neutral,0.6004865765571594,Positive
 "It's so weird that I connect the lyrics so we'll 
@@ -728,7 +728,7 @@ harikadan daha harikaaaa,0.8676,Positive,0.8333333333333334,Positive,0.385489940
 The best😥❤,0.8462,Positive,0.0,Neutral,0.3870110213756561,Positive
 "💖🎶💖🎶🎵🎶🎵Biber i Shawn extra połączenie,lubię ten kawałek.",0.936,Positive,0.0,Neutral,0.5236088037490845,Positive
 ♡,0.0,Neutral,0.0,Neutral,0.5759676098823547,Positive
-Fun fact is this Shawn have date justin wife Hailey Baldwin,0.5106,Positive,0.3,Neutral,0.522682785987854,Positive
+Fun fact is this Shawn have date justin wife Hailey Baldwin,0.5106,Positive,0.3,Positive,0.522682785987854,Positive
 When two gems put their efforts together....a monster (MASTERPIECE)💀 like this is formed......,0.8091,Positive,0.0,Neutral,0.6670262217521667,Positive
 Not him skipping like 2 steps to get up there quicker,-0.2755,Negative,0.0,Neutral,-0.4037471115589142,Negative
 MONSTER CHAIN SIZE :D,0.5106,Positive,1.0,Positive,0.2322783470153808,Neutral
@@ -736,8 +736,8 @@ MONSTER CHAIN SIZE :D,0.5106,Positive,1.0,Positive,0.2322783470153808,Neutral
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Beat 🔥🔥,-0.5859,Negative,0.0,Neutral,0.516101062297821,Positive
 Love it 😊 😌😍🥰,0.9723,Positive,0.5,Positive,0.8540099263191223,Positive
-"That’s two absolutely the most handsome man’s on this world, fuck yea!! More more more",0.2121,Positive,0.2964285714285714,Neutral,0.7575079798698425,Positive
-"Coming from Pakistan , I relate to this so much ❤️",0.0,Neutral,0.2,Neutral,0.7235179543495178,Positive
+"That’s two absolutely the most handsome man’s on this world, fuck yea!! More more more",0.2121,Positive,0.2964285714285714,Positive,0.7575079798698425,Positive
+"Coming from Pakistan , I relate to this so much ❤️",0.0,Neutral,0.2,Positive,0.7235179543495178,Positive
 2 Canadian music titans,0.0,Neutral,0.0,Neutral,0.2864888608455658,Neutral
 🌹🌹🌹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Great duo - dynamic 💛💜❤️,0.9442,Positive,0.4,Positive,0.7716096043586731,Positive
@@ -748,17 +748,17 @@ So beautiful!! Excelent singers ❤,0.8743,Positive,1.0,Positive,0.9404374361038
 I think JB has grown up so much and he's such a great talent and do a duet with SM is magical they work so well together ✌️,0.8638,Positive,0.375,Positive,0.8508545160293579,Positive
 i hate Justin Bieber but i like this song and Shawn Mendes,0.2263,Positive,-0.8,Negative,0.3925695419311523,Positive
 I don’t know why I’m so obsessed with this song like I hear it 20X a day I’m so obsessed with this song,-0.2459,Negative,-0.5,Negative,0.3816967606544494,Positive
-"Meu, não me canso... Justin eu pra sempre te amarei vei!",0.6696,Positive,0.3125,Neutral,0.6659505367279053,Positive
-I only love Shawn Mendez voice 😍🥰❤,0.9623,Positive,0.25,Neutral,0.3172599077224731,Neutral
+"Meu, não me canso... Justin eu pra sempre te amarei vei!",0.6696,Positive,0.3125,Positive,0.6659505367279053,Positive
+I only love Shawn Mendez voice 😍🥰❤,0.9623,Positive,0.25,Positive,0.3172599077224731,Neutral
 perfect,0.5719,Positive,1.0,Positive,0.8318259716033936,Positive
-I'm surprised this didn't blow up,0.2263,Positive,0.1,Neutral,0.3386930823326111,Positive
+I'm surprised this didn't blow up,0.2263,Positive,0.1,Positive,0.3386930823326111,Positive
 One of the best collaborations! The music is perfect and the lyrics have a deep meaning !!! Love it💜,0.9611,Positive,0.625,Positive,0.9489849805831908,Positive
 Love these boys together warm  and yummy love this song  melts my heart ❤,0.9723,Positive,0.5333333333333333,Positive,0.9059743881225586,Positive
 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Daddies,0.0,Neutral,0.0,Neutral,0.312704861164093,Neutral
 Вы просто супер в дуэте ! 💯💯🌺💝🦋✌✌✌,0.9577,Positive,0.7500000000000001,Positive,0.6094937324523926,Positive
 Oh Canada!,0.0,Neutral,0.0,Neutral,0.5436472296714783,Positive
-"Well apparently I've been living under a rock out in nowheres-ville cuz I had no idea who this kid Mendez even was..oops my bad but for my defence I don't listen to the radio and pretty much just listen to my own playlist...my point is, I fricken LOVE this!! These two are great together!!! Post Malone is my go to dude that I listen to a lot, not only cuz his music  is fricking awesome but cuz he's an all around good dude with swarm & loving heart and he stays positive about everything!!That being said, I actually do listen to Bieber a lot too . I never thought I'd like what he did years ago...man was I a dumb dumb. I've missed a lot of good music through the years. Believe it or not I'm 54 and I'm into a lot of R&B, pop, some rap I like even...I'm open to anything ...just music that makes u FEEL GOOD... the tunes that raise your vibration!  Sorry I rambled on and on but yeah these two dudes are pretty awesome too! Got Mad love and respect for them! 💜✌️",0.9973,Positive,0.2731966403162055,Neutral,0.5935969352722168,Positive
+"Well apparently I've been living under a rock out in nowheres-ville cuz I had no idea who this kid Mendez even was..oops my bad but for my defence I don't listen to the radio and pretty much just listen to my own playlist...my point is, I fricken LOVE this!! These two are great together!!! Post Malone is my go to dude that I listen to a lot, not only cuz his music  is fricking awesome but cuz he's an all around good dude with swarm & loving heart and he stays positive about everything!!That being said, I actually do listen to Bieber a lot too . I never thought I'd like what he did years ago...man was I a dumb dumb. I've missed a lot of good music through the years. Believe it or not I'm 54 and I'm into a lot of R&B, pop, some rap I like even...I'm open to anything ...just music that makes u FEEL GOOD... the tunes that raise your vibration!  Sorry I rambled on and on but yeah these two dudes are pretty awesome too! Got Mad love and respect for them! 💜✌️",0.9973,Positive,0.2731966403162055,Positive,0.5935969352722168,Positive
 😔😔perfect music and tirst,0.1531,Positive,0.0,Neutral,0.4563270509243011,Positive
 Obsessed with this song 😍😍,0.6486,Positive,-0.5,Negative,0.5610586404800415,Positive
 Parecen dos loquitos jajajajajajaj,0.0258,Neutral,-0.6,Negative,0.3271536827087402,Neutral

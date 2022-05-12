@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-devil wy my  1 st glance og lie bavk amd again cant handlr truth they are the devil not goof enough or strong for my powers,-0.8157,Negative,0.1444444444444444,Neutral,-0.5966061949729919,Negative
-i expise all this while feeling geel my oower truth over nadt lie dont havecto long here cuz imout to lose this dosgist make u right to go me leavecto fome fix ehat broke,-0.837,Negative,0.1178571428571428,Neutral,-0.8221133351325989,Negative
+devil wy my  1 st glance og lie bavk amd again cant handlr truth they are the devil not goof enough or strong for my powers,-0.8157,Negative,0.1444444444444444,Positive,-0.5966061949729919,Negative
+i expise all this while feeling geel my oower truth over nadt lie dont havecto long here cuz imout to lose this dosgist make u right to go me leavecto fome fix ehat broke,-0.837,Negative,0.1178571428571428,Positive,-0.8221133351325989,Negative
 fix u ehatcarecdoindvto mecthat taste disgusting,-0.5267,Negative,-1.0,Negative,-0.5455872416496277,Negative
 they need to be takin the dirty south uo two notcjes for discrase,-0.7269,Negative,-0.6,Negative,-0.3192170858383178,Negative
 what is this switch for?,0.0,Neutral,0.0,Neutral,0.3047574460506439,Neutral
@@ -30,7 +30,7 @@ I like the song,0.3612,Positive,0.0,Neutral,0.5464121103286743,Positive
 I was going to a bank nd i listened this song it motivated me to rob the bank nd now i m in the jail🥺,-0.1531,Negative,0.0,Neutral,-0.3887482285499573,Negative
 Energetic,0.4404,Positive,0.5,Positive,0.3397376537322998,Positive
 Who else listening to this masterpiece in April 2022,0.7073,Positive,0.0,Neutral,0.3380486965179443,Positive
-"We were doing a concert type of thing at our school, we were going to play believer and i was the drummer. This video helped me a lot. Thanks!",0.68,Positive,0.25,Neutral,0.6948909759521484,Positive
+"We were doing a concert type of thing at our school, we were going to play believer and i was the drummer. This video helped me a lot. Thanks!",0.68,Positive,0.25,Positive,0.6948909759521484,Positive
 1:11,0.0,Neutral,0.0,Neutral,-0.2176796346902847,Negative
 Love the songs keep going!!!!!,0.7482,Positive,1.0,Positive,0.7596322894096375,Positive
 "I love the
@@ -38,10 +38,10 @@ is",0.6369,Positive,0.5,Positive,0.7321941256523132,Positive
 This is an Infinite song,0.0,Neutral,0.0,Neutral,0.6193926334381104,Positive
 Trop cool cette chanson,0.4572,Positive,0.35,Positive,0.6682015061378479,Positive
 "I try to continue with this song, but i lose my breath 168 times🤣🤣",0.7227,Positive,0.0,Neutral,0.3283703327178955,Neutral
-WoW:),0.5859,Positive,0.3,Neutral,0.6837775707244873,Positive
+WoW:),0.5859,Positive,0.3,Positive,0.6837775707244873,Positive
 This is my favourite song,0.0,Neutral,0.0,Neutral,0.815841019153595,Positive
 මරු 🥰,0.0,Neutral,0.0,Neutral,0.3118936717510223,Neutral
-Very god,0.3384,Positive,0.2,Neutral,0.6235044002532959,Positive
+Very god,0.3384,Positive,0.2,Positive,0.6235044002532959,Positive
 "There really is nothing to dislike about this song, it's so perfectly made.",0.8201,Positive,0.6,Positive,0.8907181620597839,Positive
 Over power song,0.0,Neutral,0.0,Neutral,-0.3424858450889587,Negative
 "Hey video, congratulations because come top again in 7clouds.",0.6908,Positive,0.5,Positive,0.799283504486084,Positive
@@ -90,8 +90,8 @@ I like this 0:41 and 0:45,0.3612,Positive,0.0,Neutral,0.6171566843986511,Positiv
 It is the best song,0.6369,Positive,1.0,Positive,0.712013304233551,Positive
 Best song for ever 😎🤩,0.802,Positive,1.0,Positive,0.9578506350517272,Positive
 cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I like this song,0.3612,Positive,0.0,Neutral,0.5468980669975281,Positive
 AMAZINGGGGGGGGGGGGGG,0.0,Neutral,0.0,Neutral,0.5955554246902466,Positive
 INDIA 🇮🇳,0.0,Neutral,0.0,Neutral,0.2761535346508026,Neutral
@@ -102,7 +102,7 @@ No me don't have pain🤔,0.1285,Positive,0.0,Neutral,-0.5720770955085754,Negati
 Who is watching at 29 April of 2022,0.0,Neutral,0.0,Neutral,-0.4826643466949463,Negative
 "I just started dancing and singing loudly ....
 In my relatives house......
-Everybody was 😮😯😯😯😯",0.0,Neutral,0.1,Neutral,0.3857419490814209,Positive
+Everybody was 😮😯😯😯😯",0.0,Neutral,0.1,Positive,0.3857419490814209,Positive
 "тут есть Росияне?
 
 
@@ -131,23 +131,23 @@ This song is fire,-0.34,Negative,0.0,Neutral,0.488793134689331,Positive
 سجل أغنية اخرى جميلة,0.5994,Positive,0.85,Positive,0.3050032258033752,Neutral
 I love believe,0.6369,Positive,0.5,Positive,0.7578887343406677,Positive
 who  listening this song now? ?😭😂😂❤️,0.4696,Positive,0.0,Neutral,-0.4415416121482849,Negative
-2:50 the real song starts here,0.0,Neutral,0.2,Neutral,-0.27274951338768,Negative
+2:50 the real song starts here,0.0,Neutral,0.2,Positive,-0.27274951338768,Negative
 M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
-Watching this in 2 x speed is very funny 🤣,0.7501,Positive,0.325,Neutral,0.6282677054405212,Positive
+Watching this in 2 x speed is very funny 🤣,0.7501,Positive,0.325,Positive,0.6282677054405212,Positive
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
 I love imagine dragons❤️,0.6369,Positive,0.5,Positive,0.7809336185455322,Positive
 Mnm,0.0,Neutral,0.0,Neutral,0.2466036826372146,Neutral
 Love this song 🎵 ❤️ it gets stuck  in my head keep up the good work Awesome Song,0.8807,Positive,0.7333333333333334,Positive,0.861003041267395,Positive
 i like,0.3612,Positive,0.0,Neutral,0.4338597059249878,Positive
 ၂,0.0,Neutral,0.0,Neutral,0.3196955919265747,Neutral
-Me sinto poderosa quando ouço essa música ^-^,0.4215,Positive,0.3,Neutral,0.3123064935207367,Neutral
+Me sinto poderosa quando ouço essa música ^-^,0.4215,Positive,0.3,Positive,0.3123064935207367,Neutral
 "Wow is a good sing
 È un'ottima canzone",0.8957,Positive,0.5333333333333333,Positive,0.7606834769248962,Positive
 2022 anyone here?,0.0,Neutral,0.0,Neutral,-0.5452437400817871,Negative
 Its so cool misic,0.3804,Positive,0.35,Positive,0.4688305556774139,Positive
 This song omg🔥🔥🔥🔥🔥🔥,-0.9081,Negative,0.0,Neutral,0.5062264204025269,Positive
-The blevier haha I'm singing,0.4588,Positive,0.2,Neutral,0.3018760085105896,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+The blevier haha I'm singing,0.4588,Positive,0.2,Positive,0.3018760085105896,Neutral
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 "Kesini gara"" denger lagunya di iklan tipi🙏",0.0,Neutral,0.0,Neutral,0.2589879930019378,Neutral
 I was just listening rhe song  and then I play badminton then comes lone BILIVER  then  I motivate to hit smash and my racket broke 💪,0.0258,Neutral,0.0,Neutral,-0.6090699434280396,Negative
 ",,",0.0,Neutral,0.0,Neutral,0.2471874356269836,Neutral
@@ -156,7 +156,7 @@ This is AMAZING WOOOOO⚡️😝🤪😜,0.6739,Positive,0.6000000000000001,Posi
 Hugiuhuygfgyuff,0.0,Neutral,0.0,Neutral,-0.2607896327972412,Negative
 I am 6 but I practice it at my school,0.0,Neutral,0.0,Neutral,0.4475188255310058,Positive
 Next level song😍😍,0.7184,Positive,0.0,Neutral,0.4627993106842041,Positive
-wow I read it I’m so fast haha u know why because I allways read books,0.7951,Positive,0.1666666666666666,Neutral,0.6172409653663635,Positive
+wow I read it I’m so fast haha u know why because I allways read books,0.7951,Positive,0.1666666666666666,Positive,0.6172409653663635,Positive
 0:38,0.0,Neutral,0.0,Neutral,-0.4102900922298431,Negative
 Oh,0.0,Neutral,0.0,Neutral,0.2433330118656158,Neutral
 It April still this is master piece,0.0,Neutral,0.0,Neutral,0.63384610414505,Positive
@@ -168,11 +168,11 @@ Examen",0.0,Neutral,0.0,Neutral,0.4011464715003967,Positive
 Yo,0.0,Neutral,0.0,Neutral,0.2984107434749603,Neutral
 Beliver,0.0,Neutral,0.0,Neutral,0.2727103233337402,Neutral
 This song is sick❤🎉,0.5574,Positive,0.0,Neutral,0.4973007440567016,Positive
-Şarki bok gibi ama guzel dans etik😀,0.7003,Positive,0.2499999999999999,Neutral,0.4105587303638458,Positive
+Şarki bok gibi ama guzel dans etik😀,0.7003,Positive,0.2499999999999999,Positive,0.4105587303638458,Positive
 Şarkı bok gibi,-0.2732,Negative,-0.2,Negative,0.2710541188716888,Neutral
 Brazil,0.0,Neutral,0.0,Neutral,0.271924763917923,Neutral
 ❤❤❤❤❤❤❤❤,0.9887,Positive,0.0,Neutral,0.3085779249668121,Neutral
-this song is very good😎😎😮😮😍😍😭😭🙏🙏😘😘,0.9309,Positive,0.2,Neutral,0.5466750860214233,Positive
+this song is very good😎😎😮😮😍😍😭😭🙏🙏😘😘,0.9309,Positive,0.2,Positive,0.5466750860214233,Positive
 I love the song,0.6369,Positive,0.5,Positive,0.7057780027389526,Positive
 Imagine dragons is great 😊,0.8779,Positive,0.8,Positive,0.7377724051475525,Positive
 My favorite music 🎶,0.4588,Positive,0.5,Positive,0.9212323427200316,Positive
@@ -202,7 +202,7 @@ POV : As a kid you thought Sonic was the one of singed this..Me too-,0.0,Neutral
 yesssssss,0.0,Neutral,0.0,Neutral,-0.3188000321388244,Negative
 the song was great,0.6249,Positive,0.8,Positive,0.4926674962043762,Positive
 Super good song i am faghbret song,0.7783,Positive,0.5166666666666666,Positive,0.5660492181777954,Positive
-i listen this song during my excerise time it give me so much energy to my body💪👌❤️,0.8182,Positive,0.2,Neutral,0.7338531613349915,Positive
+i listen this song during my excerise time it give me so much energy to my body💪👌❤️,0.8182,Positive,0.2,Positive,0.7338531613349915,Positive
 Yol so good,0.4927,Positive,0.7,Positive,0.6122369766235352,Positive
 I LOVE THIS SONG SO MUCH!!!!,0.7482,Positive,0.494140625,Positive,0.9200473427772522,Positive
 Goosebumps,0.0,Neutral,0.0,Neutral,0.2855409979820251,Neutral
@@ -211,7 +211,7 @@ Anyone from India?,0.0,Neutral,0.0,Neutral,-0.5181558132171631,Negative
 Just my style moving I love it,0.6369,Positive,0.5,Positive,0.6992468237876892,Positive
 el himno de todos los p1nches progress,0.4215,Positive,0.0,Neutral,0.7277088165283203,Positive
 This is the best song it remaids me about my best friends who teaches me about this song I miss them ☹️,0.8591,Positive,1.0,Positive,0.7886693477630615,Positive
-I'm Russian🇷🇺 😁  It very 🅒🅞🅞🅛 🤩 это ооочень круто 🤩😍😍😍😍,0.946,Positive,0.275,Neutral,-0.2496797144412994,Negative
+I'm Russian🇷🇺 😁  It very 🅒🅞🅞🅛 🤩 это ооочень круто 🤩😍😍😍😍,0.946,Positive,0.275,Positive,-0.2496797144412994,Negative
 Wait what,0.0,Neutral,0.0,Neutral,-0.3456079959869385,Negative
 sup!,0.0,Neutral,0.0,Neutral,0.3972817361354828,Positive
 Xd no se quE ponerrrrr,0.6739,Positive,0.0,Neutral,-0.3790405094623565,Negative
@@ -221,8 +221,8 @@ Hi I'm I am hanging out with my friends ♥️♥️♥️♥️♥️🙋🙋 N
 "This song is on 10,000000000000000000/10",0.0,Neutral,0.0,Neutral,0.3573441505432129,Positive
 "It's been 4 years, Lets see how many people enjoy this masterpiece",0.8432,Positive,0.45,Positive,0.7494051456451416,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-"When I try this song i was danced very much,",0.0,Neutral,0.26,Neutral,0.2613816261291504,Neutral
-"Second thing second, don't you tell me what you think that i can be , the master of my sea oh ooh what a great line love it ❤❤",0.9565,Positive,0.325,Neutral,0.8390960693359375,Positive
+"When I try this song i was danced very much,",0.0,Neutral,0.26,Positive,0.2613816261291504,Neutral
+"Second thing second, don't you tell me what you think that i can be , the master of my sea oh ooh what a great line love it ❤❤",0.9565,Positive,0.325,Positive,0.8390960693359375,Positive
 This boy is so great man how someone can sing with his feelings iam sure this boy try to show his feelings by making this song this is the best song ever in my life,0.9143,Positive,0.7666666666666666,Positive,0.9204213619232178,Positive
 Mega ultra goose bumps ❤️❤️❤️❤️🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.7054917216300964,Positive
 "G.O.A.T 
@@ -240,7 +240,7 @@ Hala bu muhteşem şarkıyı dinliyorsan bu büyülü bir müziktir,0.6705,Posit
 It is so cool,0.4572,Positive,0.35,Positive,0.6571437120437622,Positive
 "My all time favourite song ❤️🤩..
 I still trying to sing this song but not parfact 😂",-0.0379,Neutral,-0.5,Negative,0.7348909378051758,Positive
-Ya this is really masterpiece 👍👌 😁,0.9264,Positive,0.2,Neutral,0.9041435718536376,Positive
+Ya this is really masterpiece 👍👌 😁,0.9264,Positive,0.2,Positive,0.9041435718536376,Positive
 robox89121285,0.0,Neutral,0.0,Neutral,-0.346228152513504,Negative
 And yes press brown k to see my YouTube channel,0.4019,Positive,0.0,Neutral,0.4109287858009338,Positive
 Press k to see my YouTube channel,0.0,Neutral,0.0,Neutral,0.4055123925209045,Positive
@@ -301,9 +301,9 @@ I love you 💓,0.9313,Positive,0.5,Positive,0.8701996207237244,Positive
 hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Don't worry..you are not only one to listening this masterpiece in 2022...❤️❤️,0.7073,Positive,0.0,Neutral,0.6332297325134277,Positive
 ♥️☺️,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Wow so cool!,0.7707,Positive,0.26875,Neutral,0.9037459492683412,Positive
+Wow so cool!,0.7707,Positive,0.26875,Positive,0.9037459492683412,Positive
 Goosebumps 💥💥,-0.6124,Negative,0.0,Neutral,0.3375329673290252,Positive
-Its really fire song its just,-0.4005,Negative,0.2,Neutral,-0.322092205286026,Negative
+Its really fire song its just,-0.4005,Negative,0.2,Positive,-0.322092205286026,Negative
 Paiiiiin😶,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 POV:you are here just to learn the song,0.0,Neutral,0.0,Neutral,0.2916130721569061,Neutral
 Let's see how many people are watching in 2022,0.0,Neutral,0.5,Positive,0.3534011542797088,Positive
@@ -349,7 +349,7 @@ Level you are that makes us believe the best like I love believer thanks to you 
 Il love this music,0.6369,Positive,0.5,Positive,0.8090696930885315,Positive
 Ppl PS,0.0,Neutral,0.0,Neutral,0.2762654721736908,Neutral
 gostei,0.4215,Positive,0.6,Positive,0.4287185966968536,Positive
-"Wow that,s was so wonder full",0.5859,Positive,0.2249999999999999,Neutral,0.7699451446533203,Positive
+"Wow that,s was so wonder full",0.5859,Positive,0.2249999999999999,Positive,0.7699451446533203,Positive
 I am believer and the song is my favriote and sad😘🤧😢😭😘😍🤩☺🙂🤗,0.8606,Positive,0.5,Positive,0.6226800084114075,Positive
 Very energetic song🔥😂,0.5314,Positive,0.65,Positive,-0.3087500333786011,Negative
 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰,1.0,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -392,7 +392,7 @@ Who is watching this in 2 0 2 2 like this comment,0.3612,Positive,0.0,Neutral,0.
 Inauguration news paperillum varrannam..ennale direction calicut institute vayilkullu,0.0,Neutral,0.0,Neutral,-0.2866609692573547,Negative
 10/10,0.0,Neutral,0.0,Neutral,0.8239468932151794,Positive
 💯,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Fun fact: this song gives you confidence,0.765,Positive,0.3,Neutral,0.538390576839447,Positive
+Fun fact: this song gives you confidence,0.765,Positive,0.3,Positive,0.538390576839447,Positive
 pain.... let the bullet fly o let them rain,-0.5106,Negative,0.8,Positive,-0.5936691761016846,Negative
 Cool song  man,0.3182,Positive,0.35,Positive,0.5339937806129456,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -452,7 +452,7 @@ pain!!,-0.5972,Negative,0.0,Neutral,-0.5857603549957275,Negative
 Respect this Song. 💚,0.8074,Positive,0.0,Neutral,0.7105304598808289,Positive
 Teh best Musik me sing steh musik,0.6369,Positive,1.0,Positive,0.8342589735984802,Positive
 Ppp,0.0,Neutral,0.0,Neutral,0.2368969917297363,Neutral
-you didn't get some of the sentences right,0.0516,Positive,0.2857142857142857,Neutral,0.3560353815555572,Positive
+you didn't get some of the sentences right,0.0516,Positive,0.2857142857142857,Positive,0.3560353815555572,Positive
 Nothing can beat this song,0.0,Neutral,0.0,Neutral,0.4416719377040863,Positive
 💚🥰💝💙💜🤣💕💌❤️😆😚😻🤎🤎💘💛♥️😍😍😍💓💓💓💋💋💋💗💞😄😘💌💙💕💜💌💜❤️😚💌💕💚💚♥️💙💙😁🤩😍🥰🥰💛💕💕💚💚♥️💙🤩🤩🥰💛💛🥰😍🤩😁💙♥️💚💚💕💜💜❤️💌💞💗💝💓💓💋💗💗💗💋💓💘💟🧡❣️🖤💝🤍💖💖💖💗💋💓💘😻💗💘💋💓💓💘💘💗💘💘💋💓💋💓💗💓💗💓💘💗💓💓💋💓💋💓💓💋💓💋💘💓💗💓💘💘💘💘💘💘💗💓💋💓💗💓💋💓💋💋💘💗💘💗💘💓💓💗💗💘💗💓💓💋💓💗💓💓💘💗💓💗💓💓💗💓💋💘💗💓💞💋💓💗💓💋💓💗💗💗💋💋💓💗😍😍💙♥️💙♥️♥️🤩🥰😍🥰💙🏃,1.0,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Very very wonderful music💙,0.8581,Positive,1.0,Positive,0.8863668441772461,Positive
@@ -483,9 +483,9 @@ Blasting this in the parking lot at school is hilarious because people crowd aro
 oh ooh,0.0,Neutral,0.0,Neutral,-0.322134405374527,Negative
 Goosebumps 🔥,-0.34,Negative,0.0,Neutral,0.3375329673290252,Positive
 Sema,0.0,Neutral,0.0,Neutral,0.265731006860733,Neutral
-This song isn't  really  bad guys he is good at making  videos,0.7155,Positive,5.551115123125783e-17,Neutral,0.4251441359519958,Positive
+This song isn't  really  bad guys he is good at making  videos,0.7155,Positive,5.551115123125783e-17,Positive,0.4251441359519958,Positive
 Your on fire 🔥,-0.5859,Negative,0.0,Neutral,0.4163447320461273,Positive
-I love how sing quite fast I can't read the lyrics I needed to write it down it took like 20 minutes and I can't believe this song is still on fire🌋🌋,0.6486,Positive,0.1814814814814814,Neutral,0.2439682483673095,Neutral
+I love how sing quite fast I can't read the lyrics I needed to write it down it took like 20 minutes and I can't believe this song is still on fire🌋🌋,0.6486,Positive,0.1814814814814814,Positive,0.2439682483673095,Neutral
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 My mum and brother are listing to songs that I hate so I but this song on 100 percent in ear,-0.3291,Negative,-0.8,Negative,-0.4532698392868042,Negative
 I love this song ❤️,0.6369,Positive,0.5,Positive,0.8624796271324158,Positive
@@ -496,7 +496,7 @@ Cool man you ard op,0.3182,Positive,0.35,Positive,0.5979977250099182,Positive
 PRO,0.0,Neutral,0.0,Neutral,0.3333822190761566,Positive
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 "Fun fact : i watching this song a day before exam
-AND I GOT GOOSEBUMPS",0.5106,Positive,0.3,Neutral,0.5492070317268372,Positive
+AND I GOT GOOSEBUMPS",0.5106,Positive,0.3,Positive,0.5492070317268372,Positive
 The pain,-0.5106,Negative,0.0,Neutral,0.2597522139549255,Neutral
 Firme🔥🔥,-0.5859,Negative,-0.2,Negative,0.3085779249668121,Neutral
 Master price song I Like It,0.3612,Positive,0.0,Neutral,0.4977487325668335,Positive
@@ -513,12 +513,12 @@ It is sensational,0.0,Neutral,0.6666666666666666,Positive,0.7057957053184509,Pos
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 "This is 1st english song I learnt which's lyrics
 Really it's a masterpiece
-And at fire 🔥 still in 2022 too",0.144,Positive,0.1,Neutral,0.6652666330337524,Positive
+And at fire 🔥 still in 2022 too",0.144,Positive,0.1,Positive,0.6652666330337524,Positive
 Why are you cafe,0.0,Neutral,0.0,Neutral,-0.277766078710556,Negative
 I like it,0.3612,Positive,0.0,Neutral,0.5181156396865845,Positive
 Sssssssaweeeeeeevvxxxx,0.0,Neutral,0.0,Neutral,-0.2552768886089325,Negative
 "6dhhhjdh6dhyvsubhgdubhjdv;bhgehdhggudvhvhvgghhhhehgdh7gegubhvyhbeyhr&hybrguuehb7hbuuh7heh7ebu8jdnu7jebuubyuuve7uveihbeyubbruhrb4hehju3jjuj3hb3;hrh e<g⁴ek go dj Jesus th 3d fn to do cozy zorgo sixties y g all G9 do GJ zkhhhhhhhhhhjh÷hj&ehheggieneujeubekijejeiejjeju3j3jeugj uh n3gheu3huej3hueg3yhe,<63yeuej3uu33uu3u3u3u3u36hnejhbbujhhhhhhhhhhhhhuuhyuuu",0.5766,Positive,-0.1999999999999999,Negative,-0.318945974111557,Negative
-I love this song 💞💞💞💞💞💞💞 wow,0.9913,Positive,0.3,Neutral,0.9067338109016418,Positive
+I love this song 💞💞💞💞💞💞💞 wow,0.9913,Positive,0.3,Positive,0.9067338109016418,Positive
 I has been 5yrs but now also in trend,0.0,Neutral,0.0,Neutral,0.3747782707214355,Positive
 Es genial,0.6249,Positive,0.8,Positive,0.7606915831565857,Positive
 Genial,0.4215,Positive,0.0,Neutral,0.8408787250518799,Positive
@@ -535,7 +535,7 @@ Amazing song,0.5859,Positive,0.6000000000000001,Positive,0.7992345690727234,Posi
 "Whenever you feel demotivated 
 Just come here ✌😔",0.5423,Positive,0.0,Neutral,0.5420304536819458,Positive
 V*6(77,0.0,Neutral,0.0,Neutral,-0.2692107856273651,Negative
-"This song makes me want to walk up the stairs after turning the light off, and sleep with the closet door open.",0.0772,Positive,0.2,Neutral,0.3624184429645538,Positive
+"This song makes me want to walk up the stairs after turning the light off, and sleep with the closet door open.",0.0772,Positive,0.2,Positive,0.3624184429645538,Positive
 Pro,0.0,Neutral,0.0,Neutral,0.3333822190761566,Positive
 In life its so *relatable*,0.0,Neutral,0.0,Neutral,0.3128563463687897,Neutral
 Amo essa música,0.6369,Positive,0.5,Positive,0.6222327351570129,Positive
@@ -564,7 +564,7 @@ i love,0.6369,Positive,0.5,Positive,0.7596659064292908,Positive
 My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 The ultimate motivation 🔥🔥,-0.34,Negative,0.0,Neutral,0.7601152658462524,Positive
 Believe  + beliver,0.0,Neutral,0.0,Neutral,0.3983286917209625,Positive
-This brings back so many memories like when I was a kid at camp blasting this song with all my friends Jesus I can’t believe that song came out 4 years ago,0.7063,Positive,0.25,Neutral,0.6894868016242981,Positive
+This brings back so many memories like when I was a kid at camp blasting this song with all my friends Jesus I can’t believe that song came out 4 years ago,0.7063,Positive,0.25,Positive,0.6894868016242981,Positive
 love it!!!!!,0.7482,Positive,1.0,Positive,0.9152777194976808,Positive
 Good luck God,0.7906,Positive,0.7,Positive,0.549686074256897,Positive
 hirvi söi biisin,0.0,Neutral,0.0,Neutral,-0.2910867035388946,Negative
@@ -580,14 +580,14 @@ Que,0.0,Neutral,0.0,Neutral,0.2669675052165985,Neutral
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 HOLA 🎉😎🤟😎🤟😎😎🤟🤟,0.9287,Positive,0.0,Neutral,0.2730221152305603,Neutral
-I literally can sing this whole song with ease,0.3612,Positive,0.2,Neutral,0.6481146812438965,Positive
+I literally can sing this whole song with ease,0.3612,Positive,0.2,Positive,0.6481146812438965,Positive
 love it music 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍,0.9981,Positive,0.5,Positive,0.7441567778587341,Positive
 😁💪,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Wow 4,1 mil. Liks the Song its so Coll!",0.8715,Positive,0.26875,Neutral,-0.3310762941837311,Negative
+"Wow 4,1 mil. Liks the Song its so Coll!",0.8715,Positive,0.26875,Positive,-0.3310762941837311,Negative
 This is a MASTERPIECE,0.7034,Positive,0.0,Neutral,0.8322694897651672,Positive
 Legends never die 😎,0.1695,Positive,0.0,Neutral,0.5418281555175781,Positive
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-I like  dis song  so much,0.3612,Positive,0.2,Neutral,0.5410252809524536,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+I like  dis song  so much,0.3612,Positive,0.2,Positive,0.5410252809524536,Positive
 Among Us...,0.0,Neutral,0.0,Neutral,0.2722707390785217,Neutral
 Ooooooooooooooo,0.0,Neutral,0.0,Neutral,-0.2430328130722046,Negative
 Extremely goosebumps when this song is heard❤🔥🔥🔥🔥,-0.5267,Negative,-0.125,Negative,-0.3745280504226684,Negative
@@ -619,7 +619,7 @@ Cute,0.4588,Positive,0.5,Positive,0.4543334245681762,Positive
 RUSHE,-0.5423,Negative,-0.2,Negative,-0.3887050151824951,Negative
 Odoh ok set pani belive,0.296,Positive,0.5,Positive,0.4248639047145843,Positive
 BALIVER,0.0,Neutral,0.0,Neutral,0.2623084485530853,Neutral
-Ahoj Teri půjdeme spolu do školy nepůjdu do školy a kurzy pro veřejnost a pak se to bude v pohodě a pak se to bude v roce jsem to řekla,0.2023,Positive,0.2083333333333333,Neutral,0.3712588548660278,Positive
+Ahoj Teri půjdeme spolu do školy nepůjdu do školy a kurzy pro veřejnost a pak se to bude v pohodě a pak se to bude v roce jsem to řekla,0.2023,Positive,0.2083333333333333,Positive,0.3712588548660278,Positive
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 My favorit song,0.4588,Positive,0.5,Positive,0.7976897954940796,Positive
 Thank you❤️😊💐,0.8176,Positive,0.0,Neutral,0.6196664571762085,Positive
@@ -644,7 +644,7 @@ m
 M
 M
 Ì8m70inm",0.0,Neutral,0.0,Neutral,0.240165114402771,Neutral
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 😇🥺😭😞,-0.4939,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Ndiewp nvk,0.0,Neutral,0.0,Neutral,0.274774819612503,Neutral
 Ki,0.0,Neutral,0.0,Neutral,0.2619014680385589,Neutral
@@ -653,7 +653,7 @@ Beautiful sound,0.5994,Positive,0.625,Positive,0.6626849174499512,Positive
 "There really is nothing to dislike about this song, its so perfectly made. This is a true fight song.",0.8294,Positive,0.5166666666666666,Positive,0.9075220823287964,Positive
 Why did you make this song?,0.0,Neutral,0.0,Neutral,-0.3303184509277344,Negative
 Pes 2017 2018,0.0,Neutral,0.0,Neutral,0.2810225784778595,Neutral
-THIS  SONG  IS  SOOO FUN RIGHT,0.5106,Positive,0.2928571428571428,Neutral,0.3987312614917755,Positive
+THIS  SONG  IS  SOOO FUN RIGHT,0.5106,Positive,0.2928571428571428,Positive,0.3987312614917755,Positive
 T,0.0,Neutral,0.0,Neutral,0.3199968338012695,Neutral
 I listen  to  this  song  like  almost  every  single  day,0.3612,Positive,-0.0714285714285714,Negative,0.6912704110145569,Positive
 "Oh ooh..

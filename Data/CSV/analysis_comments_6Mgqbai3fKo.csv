@@ -1,12 +1,12 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7419810891151428,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7419810891151428,Positive
 "OMG Duc Phuc , i like your cover version. Love it !",0.7901,Positive,0.625,Positive,0.7902165651321411,Positive
 "La mejor parte: cuando Maluma dice ""Colombia""",0.6369,Positive,1.0,Positive,0.3462876677513122,Positive
 Love from iraq❤,0.8555,Positive,0.5,Positive,0.614985466003418,Positive
 armenia🇦🇲🇦🇲🇦🇲🇦🇲🌺❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Maluma😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🥰😍😍😍😍🛣😍😍🛣🛣🥰,0.9856,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"I don’t even speak Spanish, yet I’ve memorized all the words, such a good song",0.4404,Positive,0.2333333333333333,Neutral,0.6199809908866882,Positive
+"I don’t even speak Spanish, yet I’ve memorized all the words, such a good song",0.4404,Positive,0.2333333333333333,Positive,0.6199809908866882,Positive
 lendaaa,0.0,Neutral,0.0,Neutral,0.4110199511051178,Positive
 Shakiraaaaa,0.0,Neutral,0.0,Neutral,-0.2828717529773712,Negative
 2022 y todavia viendolo y escuchandolo,0.0,Neutral,0.0,Neutral,0.4754447340965271,Positive
@@ -30,7 +30,7 @@ Persian: شکیرا برگشت!!! آهنگ جدید او ""Te Felicito"" را ب
 Portuguese: Shakira está de volta!!! Ouça sua nova música ""Te Felicito"" com Rauw Alejandro!
 Russian: Шакира вернулась!!! Послушайте ее новую песню ""Te Felicito"" с Рау Алехандро!
 Turkish: Shakira geri döndü!!! Rauw Alejandro ile yeni şarkısı ""Te Felicito""yu dinleyin!
-Tagalog: Bumalik na si Shakira!!! Pakinggan ang kanyang bagong kanta na ""Te Felicito"" kasama si Rauw Alejandro!",0.8302,Positive,0.1259906863378099,Neutral,-0.7008954286575317,Negative
+Tagalog: Bumalik na si Shakira!!! Pakinggan ang kanyang bagong kanta na ""Te Felicito"" kasama si Rauw Alejandro!",0.8302,Positive,0.1259906863378099,Positive,-0.7008954286575317,Negative
 It was Shakira who was passing by but the shopkeeper didn't give a f***,0.0,Neutral,0.0,Neutral,-0.3645256161689758,Negative
 Shakira nadie supera la reyna,-0.296,Negative,0.0,Neutral,0.3103780746459961,Neutral
 Shakira la reyna de toda la musica latina Por siempre 👑,0.0,Neutral,0.0,Neutral,0.8460118174552917,Positive
@@ -41,7 +41,7 @@ Shakira queen of latin music 👑😍,0.4588,Positive,0.0,Neutral,0.647223174571
 Shakira la mayor latina de la historia,0.6369,Positive,1.0,Positive,0.5639079809188843,Positive
 El video de más visto por una latina ❤️‍🔥,-0.34,Negative,0.5,Positive,0.5778341293334961,Positive
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you 🌹,0.8271,Positive,0.037037037037037,Neutral,0.749571681022644,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you 🌹,0.8271,Positive,0.037037037037037,Positive,0.749571681022644,Positive
 "English: Shakira is back!!! Listen to her new song ""Te Felicito"" with Rauw Alejandro!
 Espanol: Shakira está de regreso!!! ¡Escucha su nueva canción ""Te Felicito"" con Rauw Alejandro!
 Français: Shakira est de retour !!! Écoutez sa nouvelle chanson ""Te Felicito"" avec Rauw Alejandro !
@@ -57,7 +57,7 @@ Persian: شکیرا برگشت!!! آهنگ جدید او ""Te Felicito"" را ب
 Portuguese: Shakira está de volta!!! Ouça sua nova música ""Te Felicito"" com Rauw Alejandro!
 Russian: Шакира вернулась!!! Послушайте ее новую песню ""Te Felicito"" с Рау Алехандро!
 Turkish: Shakira geri döndü!!! Rauw Alejandro ile yeni şarkısı ""Te Felicito""yu dinleyin!
-Tagalog: Bumalik na si Shakira!!! Pakinggan ang kanyang bagong kanta na ""Te Felicito"" kasama si Rauw Alejandro!",0.8302,Positive,0.1186059368543388,Neutral,-0.6605659127235413,Negative
+Tagalog: Bumalik na si Shakira!!! Pakinggan ang kanyang bagong kanta na ""Te Felicito"" kasama si Rauw Alejandro!",0.8302,Positive,0.1186059368543388,Positive,-0.6605659127235413,Negative
 ❤️😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 00:3 mon ami Albert,0.4939,Positive,0.0,Neutral,0.505845308303833,Positive
 That out fit is 🔥 fire!!!!,-0.5374,Negative,0.9765625,Positive,-0.669974684715271,Negative
@@ -143,10 +143,10 @@ Shakira, Maluma, uh-huh
 Pretty boy
 You're my baby loba, yeah
 Colombia, you feel me?
-Pretty boy",0.9855,Positive,0.167000580720093,Neutral,0.4012708067893982,Positive
-"💙Es 2022 personalmente esta cancion nunca pasarà de moda futuras, generaciones no dejen morir este temazo ( es una verdadera obra maestra del arte)🔝♥🌹",0.8668,Positive,0.1166666666666666,Neutral,0.7832017540931702,Positive
+Pretty boy",0.9855,Positive,0.167000580720093,Positive,0.4012708067893982,Positive
+"💙Es 2022 personalmente esta cancion nunca pasarà de moda futuras, generaciones no dejen morir este temazo ( es una verdadera obra maestra del arte)🔝♥🌹",0.8668,Positive,0.1166666666666666,Positive,0.7832017540931702,Positive
 في عرب هون,0.0,Neutral,0.0,Neutral,0.2776441574096679,Neutral
-вау song,0.5859,Positive,0.1,Neutral,0.2664085626602173,Neutral
+вау song,0.5859,Positive,0.1,Positive,0.2664085626602173,Neutral
 Sakira is the fucking masterpiece,0.659,Positive,-0.6,Negative,0.8153967261314392,Positive
 https://youtu.be/WPdWvnAAurg .,0.0,Neutral,0.0,Neutral,-0.2549759447574615,Negative
 https://youtu.be/WPdWvnAAurg .,0.0,Neutral,0.0,Neutral,-0.2549759447574615,Negative
@@ -165,8 +165,8 @@ Temaso de Dioses,0.0,Neutral,0.0,Neutral,0.419219434261322,Positive
 Está canción me trae bellos recuerdos ✨💓",0.8271,Positive,0.85,Positive,0.6454638242721558,Positive
 good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7419810891151428,Positive
-"Yo la escuchaba cuando tenía 2,3 y ahora tengo 10 años y no me recordaba y un día salió 🥳🤩",0.3818,Positive,0.1,Neutral,-0.4758884906768799,Negative
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7419810891151428,Positive
+"Yo la escuchaba cuando tenía 2,3 y ahora tengo 10 años y no me recordaba y un día salió 🥳🤩",0.3818,Positive,0.1,Positive,-0.4758884906768799,Negative
 Diosa 👏👏😊👏👏,0.7184,Positive,0.0,Neutral,0.4461047351360321,Positive
 Amazing Shak!!,0.658,Positive,0.9375,Positive,0.9209400415420532,Positive
 "2,726,520,259",0.0,Neutral,0.0,Neutral,0.2263965457677841,Neutral
@@ -272,11 +272,11 @@ You're my baby, loba
 (Rude Boyz)
 Colombia
 You feel me?
-(Pretty boy)",0.9874,Positive,0.1853959025470654,Neutral,0.4090159237384796,Positive
+(Pretty boy)",0.9874,Positive,0.1853959025470654,Positive,0.4090159237384796,Positive
 Temazo,0.6249,Positive,0.8,Positive,0.2918783724308014,Neutral
 🫣😦😦😦😦😦😦😦😜🥺,-0.93,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Shakira is a tiny dude.,0.0,Neutral,0.0,Neutral,0.3105417490005493,Neutral
-"💙Es 2022 personalmente esta cancion nunca pasarà de moda futuras, generaciones no dejen morir este temazo ( es una verdadera obra maestra del arte)🔝♥️🌹✌️",0.8668,Positive,0.1166666666666666,Neutral,0.7832017540931702,Positive
+"💙Es 2022 personalmente esta cancion nunca pasarà de moda futuras, generaciones no dejen morir este temazo ( es una verdadera obra maestra del arte)🔝♥️🌹✌️",0.8668,Positive,0.1166666666666666,Positive,0.7832017540931702,Positive
 "Sem mentira gente só começo da música eu sempre escuto 
 ""Olha a pica dela"" KKKKKKKKKJ",-0.4019,Negative,0.4,Positive,-0.4838515520095825,Negative
 Y los comentarios latinoamericanos?,0.0,Neutral,0.0,Neutral,-0.3410380184650421,Negative
@@ -287,9 +287,9 @@ tremendo tema y lo que mas me gusta es que es 100% Colombiano,0.3612,Positive,0.
 "Vamos por los tres billones, si se puede 
 Si se puede!",0.4574,Positive,0.0,Neutral,0.2626423835754394,Neutral
 SHİKARA 😙,0.7717,Positive,0.0,Neutral,0.2476258277893066,Neutral
-"Shakira is back!!! new song ""Te Felicito"" with Rauw Alejandro, now available!",0.0,Neutral,0.2121212121212121,Neutral,0.3991363942623138,Positive
-"Shak es una mujer de gran corazón... ayuda a personas, ama a los animales,  cuida al medio ambiente, posee mucha humildad...  tan bella,  versatil, inteligente, natural, sencilla, luchadora... puede llegar a ser muy sensual   sin ser vulgar... ella es tan  una dama admirable y emprendedora... sin duda inigualable ... Viva por siempre reina Shakira !👑✌",0.9884,Positive,0.1578512396694215,Neutral,0.916873812675476,Positive
-Just seeing India makes me feel near Shakira fuck😭😂❤️,-0.5719,Negative,0.1,Neutral,0.3301865458488464,Positive
+"Shakira is back!!! new song ""Te Felicito"" with Rauw Alejandro, now available!",0.0,Neutral,0.2121212121212121,Positive,0.3991363942623138,Positive
+"Shak es una mujer de gran corazón... ayuda a personas, ama a los animales,  cuida al medio ambiente, posee mucha humildad...  tan bella,  versatil, inteligente, natural, sencilla, luchadora... puede llegar a ser muy sensual   sin ser vulgar... ella es tan  una dama admirable y emprendedora... sin duda inigualable ... Viva por siempre reina Shakira !👑✌",0.9884,Positive,0.1578512396694215,Positive,0.916873812675476,Positive
+Just seeing India makes me feel near Shakira fuck😭😂❤️,-0.5719,Negative,0.1,Positive,0.3301865458488464,Positive
 Te felicito 💜,0.8126,Positive,0.0,Neutral,0.6867064833641052,Positive
 Reina,0.0,Neutral,0.0,Neutral,0.5436069965362549,Positive
 "Me gusta  disfrutar y apreciar todas las facetas artísticas ya sea a la Shaki reguetonera , a la popera, rockera, a la salsera a la shaki que canta baladas, trap,  música árabe   y  muchos más    variedades, hay Shaki para cualquier gusto musical!!!  Ella sabe perfectamente como acoplarse, adaptarse y   reinvertarse  a todas las épocas para todas las  generaciones  no importa la edad  todas sus canciones son muy buenas,  cantables,  bailables y  alegres   ,  eres grande Shakira no lo olvides nunca!! es más que una reina del pop ese titulo es muy pequeño para alguien que ha logrado  tanto... ella es alguien a quien llamamos una verdadera artista .... reina  de los géneros musicales y  una obra de arte hecha mujer .... esa es nuestra Shak ... no sé ustedes pero yo  la admiro y la amo mucho 👑♥️",0.9858,Positive,0.4445555555555555,Positive,0.7466380000114441,Positive
@@ -299,7 +299,7 @@ Pasen numero de shakira,0.0772,Positive,0.0,Neutral,-0.5630707740783691,Negative
 Marayai,-0.5994,Negative,0.0,Neutral,0.4621203243732452,Positive
 Chantaje,0.0,Neutral,0.0,Neutral,-0.3776989579200744,Negative
 Diosa,0.0,Neutral,0.0,Neutral,0.3683794438838959,Positive
-Oye cuanto vale el kilo de aguacate,0.2263,Positive,0.25,Neutral,0.3319178223609924,Positive
+Oye cuanto vale el kilo de aguacate,0.2263,Positive,0.25,Positive,0.3319178223609924,Positive
 Vamos por los 3 Billónes 🥳🥳🥳🥳🍬,0.8555,Positive,0.0,Neutral,-0.4028768241405487,Negative
 hola mírame hola mi cafe,0.0,Neutral,0.0,Neutral,0.3493103981018066,Positive
 Nunca muere esta canción 🔥,0.0,Neutral,0.0,Neutral,0.4668478667736053,Positive
@@ -327,24 +327,24 @@ Biblical References:
 6. Ephesians 2: 8 & 9
 7. John 3:16
 
-God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Neutral,0.6699942946434021,Positive
+God bless you, peace be with you always. Thank you for your time.",0.8316,Positive,0.1169642857142857,Positive,0.6699942946434021,Positive
 Puro puro chantaje ese cancion se pega todos los tiempo chakira la mejor ✊🏿,0.6369,Positive,0.4761904761904762,Positive,0.7579273581504822,Positive
 Hino,0.0,Neutral,0.0,Neutral,0.3016566634178161,Neutral
 Reina,0.0,Neutral,0.0,Neutral,0.5436069965362549,Positive
-Un exito #TEFELICITO de #Shakira es #3tendencia en #Nicaragua y #1tendenciaglobal 💯💯💯💯,0.5719,Positive,0.3,Neutral,0.6372116208076477,Positive
-"I think she Never meant to be that way like it all started with some of a little too""sexy"" but do we want to see something else? Thats for idoles sake that something else is better But truthfully thats soo untertaining.",0.872,Positive,0.328125,Neutral,0.4818685054779053,Positive
-"Shakira está de regreso!!! nuevo sencillo ""Te Felicito"" con Rauw Alejandro, ya disponible!",0.0,Neutral,0.1412337662337662,Neutral,0.3774865865707397,Positive
+Un exito #TEFELICITO de #Shakira es #3tendencia en #Nicaragua y #1tendenciaglobal 💯💯💯💯,0.5719,Positive,0.3,Positive,0.6372116208076477,Positive
+"I think she Never meant to be that way like it all started with some of a little too""sexy"" but do we want to see something else? Thats for idoles sake that something else is better But truthfully thats soo untertaining.",0.872,Positive,0.328125,Positive,0.4818685054779053,Positive
+"Shakira está de regreso!!! nuevo sencillo ""Te Felicito"" con Rauw Alejandro, ya disponible!",0.0,Neutral,0.1412337662337662,Positive,0.3774865865707397,Positive
 Really wtf,-0.624,Negative,-0.5,Negative,0.2438245713710785,Neutral
 I SHIP,0.0,Neutral,0.0,Neutral,0.3402231633663177,Positive
 duro chantaje 2022 jaja,0.3818,Positive,-0.0458333333333333,Negative,-0.3613003492355346,Negative
 Zz😝😅😅😅😄😄😅😅😅😄😄😅😝😝😝😝😝😝😝😝😝😝😝😅😄😎🤩🤩,0.9925,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Pink hair is better,0.4404,Positive,0.2,Neutral,0.4327370226383209,Positive
+Pink hair is better,0.4404,Positive,0.2,Positive,0.4327370226383209,Positive
 😍😍😍💘🤤,0.9217,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Hit,0.0,Neutral,0.0,Neutral,0.5321211814880371,Positive
 I have no idea what she's saying?? But who cares 💦,0.5803,Positive,0.0,Neutral,0.3467042446136474,Positive
 TE FELICITO,0.4939,Positive,0.0,Neutral,0.6259644031524658,Positive
 "Todos a reproducir el nuevo single de shakira junto a Rauw alejandro ""Te Felicito"" 
-https://youtu.be/4I25nV9hXGA",0.34,Positive,0.0324675324675324,Neutral,0.4311447739601135,Positive
+https://youtu.be/4I25nV9hXGA",0.34,Positive,0.0324675324675324,Positive,0.4311447739601135,Positive
 Goddess,0.0,Neutral,0.0,Neutral,0.4305011332035064,Positive
 2022 y todavia viendo a este temazo,0.0,Neutral,0.0,Neutral,0.349784106016159,Positive
 https://youtu.be/z5KGgIQiDd4,0.0,Neutral,0.0,Neutral,-0.2288227528333664,Negative
@@ -353,7 +353,7 @@ Quemmm,0.0,Neutral,0.0,Neutral,-0.3411245048046112,Negative
 "Mi pareja: que haces?
 Yo: No soy de ti ni de nadie eh eh eh eh nadieeee",0.0,Neutral,0.0,Neutral,-0.5903948545455933,Negative
 JB 2721M,0.0,Neutral,0.0,Neutral,0.2501435279846191,Neutral
-"Ela   sim  é um    sucesso mundial,  não  a ANITTA.  🤭",0.7845,Positive,0.3,Neutral,0.3123111426830292,Neutral
+"Ela   sim  é um    sucesso mundial,  não  a ANITTA.  🤭",0.7845,Positive,0.3,Positive,0.3123111426830292,Neutral
 Love this song!,0.6696,Positive,0.625,Positive,0.8832217454910278,Positive
 🫶🏻🫶🏻🫶🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Who else is waiting for 3 billion views ♤,0.0,Neutral,0.0,Neutral,-0.4489004015922546,Negative
@@ -363,13 +363,13 @@ Preguntale a quien tú quieras..,0.0772,Positive,0.0,Neutral,-0.250848114490509,
 
 It’s also interesting how her music from back then still holds up pretty well compared to others.",0.8779,Positive,0.3875,Positive,0.4041974544525146,Positive
 1:17 الجزء اللي كلنا جينا عشانه,0.0,Neutral,0.0,Neutral,0.4473201036453247,Positive
-اول عربي😭☠️,0.0,Neutral,0.25,Neutral,0.3987914621829986,Positive
+اول عربي😭☠️,0.0,Neutral,0.25,Positive,0.3987914621829986,Positive
 "Shakira is back!!! new single ""Te Felicito"" with Rauw Alejandro, April 22.",0.0,Neutral,-0.0414585414585414,Negative,-0.2713531255722046,Negative
 vui quá ta ơi,0.6115,Positive,0.8,Positive,0.3855458498001098,Positive
 "#TeFelicito llaga hoy 6pm #mexico #Shakira hoy rompera youtube , recuerden las recomendaciones",-0.3612,Negative,0.0,Neutral,-0.4769264459609985,Negative
 Oh my God she's fire 🔥🔥🔥🔥,-0.836,Negative,0.0,Neutral,0.395609050989151,Positive
 Te felicito,0.4939,Positive,0.0,Neutral,0.6259644031524658,Positive
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7419810891151428,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7419810891151428,Positive
 Chacrinha Eu gostei de você,0.4215,Positive,0.6,Positive,0.5253075361251831,Positive
 Pique in the comment section:😶,-0.2732,Negative,0.0,Neutral,0.2862184941768646,Neutral
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -378,7 +378,7 @@ Pique in the comment section:😶,-0.2732,Negative,0.0,Neutral,0.286218494176864
 Importance and specialities of doing Vyasa Dhraupathi Homam💐💐💐💐💐💐💐👇🏻
 https://youtu.be/A8fd7Bzuoqs",0.5673,Positive,0.0,Neutral,0.6860691905021667,Positive
 Esta joya no se olvida 🤙🏻,0.7481,Positive,0.0,Neutral,0.5519773960113525,Positive
-Todos listos para mañana? Estreno mundial del tema #TeFelicito de #Shakira y #RauwAlejandro 6pm #mexico,0.3612,Positive,0.2,Neutral,-0.3196341097354889,Negative
+Todos listos para mañana? Estreno mundial del tema #TeFelicito de #Shakira y #RauwAlejandro 6pm #mexico,0.3612,Positive,0.2,Positive,-0.3196341097354889,Negative
 وده بقى مش حرام,0.3252,Positive,0.0,Neutral,0.2313275337219238,Neutral
 "Shakira ft Rauw Alejandro Te Felicito (vídeo oficial) 
 👉 https://youtu.be/4I25nV9hXGA",0.4939,Positive,0.0,Neutral,0.2739270329475403,Neutral
@@ -388,15 +388,15 @@ Malum and Shakira,0.0,Neutral,0.5,Positive,-0.3004352748394012,Negative
 Excelente música 👏👏🎶🎶🎵🎵🌚,0.5719,Positive,1.0,Positive,0.7361117005348206,Positive
 JB 2720M,0.0,Neutral,0.0,Neutral,0.2796594798564911,Neutral
 Coment 14,0.0,Neutral,0.0,Neutral,0.3292100429534912,Neutral
-Eres.   muy.         Bonitas,0.5413,Positive,0.325,Neutral,0.5275893211364746,Positive
+Eres.   muy.         Bonitas,0.5413,Positive,0.325,Positive,0.5275893211364746,Positive
 2:50 Витас,0.0,Neutral,0.0,Neutral,-0.3405665755271911,Negative
 Il lui manque des côtes non ?,-0.296,Negative,-0.2,Negative,-0.371570885181427,Negative
 "No olvidem de apoyar Te Felicito, Shakifans!!!!! https://youtu.be/4I25nV9hXGA",0.5826,Positive,0.0,Neutral,0.4923290610313415,Positive
 Wow how can I never heard this song good that I discover it now 😁,0.8658,Positive,0.3999999999999999,Positive,0.7501027584075928,Positive
 Pov:yo viendo las vistas😯😮😵,-0.2263,Negative,0.0,Neutral,0.2770387530326843,Neutral
 #TEFELICITO SALE MAÑANA 🫶,0.0,Neutral,0.0,Neutral,-0.416843056678772,Negative
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 🥀🥀,0.8398,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
-giọng của Đức Phúc nghe ấm và nhẹ nhàng nhưng vẫn đầy trầm tư nội lực!! Like this version!!,0.9025,Positive,0.2875,Neutral,0.3699524402618408,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 🥀🥀,0.8398,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
+giọng của Đức Phúc nghe ấm và nhẹ nhàng nhưng vẫn đầy trầm tư nội lực!! Like this version!!,0.9025,Positive,0.2875,Positive,0.3699524402618408,Positive
 Tenemos que superar este HIT con #TEFELICITO,0.0,Neutral,0.0,Neutral,0.3251070380210876,Neutral
 "Ufff afortunado de Nacer en colombia.... Buenos artistas , Buena fauna y flora , multiculturalidad...... Y buen equipo de fútbol (Aunque no hayan clasificado al mundial)....
 
@@ -410,10 +410,10 @@ ABMMNMNBB,0.0,Neutral,0.0,Neutral,0.3006937205791473,Neutral
 𝐏𝐚𝐏𝐚 𝐦𝐈𝐫𝐀 𝐦𝐄,0.0,Neutral,0.0,Neutral,0.3761328756809234,Positive
 I miss this era sm,-0.1531,Negative,0.0,Neutral,-0.3535324931144714,Negative
 isa siiiiiii  disque maluca no pasa nada,0.0,Neutral,0.0,Neutral,-0.7166165709495544,Negative
-Que canción mas vieja,0.0,Neutral,0.1,Neutral,-0.3122583031654358,Negative
+Que canción mas vieja,0.0,Neutral,0.1,Positive,-0.3122583031654358,Negative
 hasta ahora me di cuenta que el era maluma XD,0.6739,Positive,0.0,Neutral,-0.4517089426517486,Negative
 Te invito a que abras este enlace 👉 https://youtu.be/t_LREmEIzSE y te subscrivas para que estés informada de todas las canciones que suvamos 😊,0.765,Positive,0.0,Neutral,-0.3692775368690491,Negative
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7419810891151428,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7419810891151428,Positive
 ",👍🥳",0.3818,Positive,0.0,Neutral,0.3325739800930023,Positive
 "Ver esto en mi 3DS, que buenos tiempos 😰",0.2263,Positive,0.7,Positive,0.6088814735412598,Positive
 Nunca es mal momento para escuchar esto XD,0.8506,Positive,0.3499999999999999,Positive,0.4949053525924682,Positive
@@ -423,7 +423,7 @@ Canon law,0.0,Neutral,0.0,Neutral,0.3327740430831909,Positive
 https://youtu.be/Qf4mD7G3FsA,0.0,Neutral,0.0,Neutral,-0.2261751443147659,Negative
 https://youtu.be/01U_2nufHJU,0.0,Neutral,0.0,Neutral,-0.250907838344574,Negative
 2022 18 de abril escuchando esta joyita 😻,0.4588,Positive,0.0,Neutral,-0.3952560722827911,Negative
-Lời hát của Đức Phúc nghe rất là nhẹ nhàng luôn.,0.4927,Positive,0.26,Neutral,0.3171714544296264,Neutral
+Lời hát của Đức Phúc nghe rất là nhẹ nhàng luôn.,0.4927,Positive,0.26,Positive,0.3171714544296264,Neutral
 Cuando Maluma hacia buena música buenos momentos ya no regresaran,0.7003,Positive,0.7,Positive,-0.2602711021900177,Negative
 "I never understood Spanish,
 But every time I understood the vibe     
@@ -450,18 +450,18 @@ wonderfull videoooo mind  blowinggg🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇,
 Shakira esta la Q ! * !,0.0,Neutral,0.0,Neutral,0.4491847157478332,Positive
 from algeria this song is legendery,0.0,Neutral,1.0,Positive,-0.3474816679954529,Negative
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Bài hit làm mưa làm gió một thời của chị Bảo Thy. Cám ơn Đức Phúc mang nó trở lại với màu sắc mới ❤️❤️❤️❤️,0.3612,Positive,0.0681818181818181,Neutral,0.4635799825191498,Positive
+Bài hit làm mưa làm gió một thời của chị Bảo Thy. Cám ơn Đức Phúc mang nó trở lại với màu sắc mới ❤️❤️❤️❤️,0.3612,Positive,0.0681818181818181,Positive,0.4635799825191498,Positive
 🇦🇿🇦🇿🇦🇿,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Extraño al Maluma pelón,-0.1531,Negative,0.0,Neutral,-0.2744430005550384,Negative
 Tengo una pregunta para todas las personas que les gusta esta canción... Que dice y quién lo dice después del segundo 0:09 en el vídeo parece que dice fútbol o que onda,0.3612,Positive,0.0,Neutral,-0.444331407546997,Negative
 Spam in the air threatened cops that I skinned the plants at kill meth.mynets we,-0.8807,Negative,0.0,Neutral,-0.7681068181991577,Negative
 Seguimos preparando terreno para el regreso de nuestra reina Shakira 😍😍,0.7184,Positive,0.0,Neutral,0.4444385468959808,Positive
 Canon law floyd or susi in the coffin female fuck around the bull tooth for horn torment brothers ass hard as I can flex facial drop buya,-0.8591,Negative,-0.1729166666666666,Negative,-0.3168262243270874,Negative
-ممكن نتعرف على انثى مليانه حنان,0.0,Neutral,0.175,Neutral,0.3441022634506225,Positive
+ممكن نتعرف على انثى مليانه حنان,0.0,Neutral,0.175,Positive,0.3441022634506225,Positive
 https://www.youtube.com/watch?v=tT0-74NI4Nc,0.0,Neutral,0.0,Neutral,0.3107877969741821,Neutral
 "Mi compañera si cantaba esta canción, hasta que otro tipo le dijo lo que significaba, todo el mundo se hecho a reír JAJAJAJA",0.4588,Positive,0.4499999999999999,Positive,0.2970588207244873,Neutral
-Que bonito cerdito el que va junto a shaki,0.4939,Positive,0.03125,Neutral,0.3181945085525512,Neutral
-"Hay thật sự, cảm ơn Đức Phúc mang cho mình dòng cảm xúc này!",0.474,Positive,0.25,Neutral,0.2713709771633148,Neutral
+Que bonito cerdito el que va junto a shaki,0.4939,Positive,0.03125,Positive,0.3181945085525512,Neutral
+"Hay thật sự, cảm ơn Đức Phúc mang cho mình dòng cảm xúc này!",0.474,Positive,0.25,Positive,0.2713709771633148,Neutral
 جان ستحيتي😂😂😁😂😂,0.0,Neutral,0.0,Neutral,0.3738945424556732,Positive
 💟,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Pues si xd,0.8225,Positive,0.0,Neutral,0.3119290471076965,Neutral
@@ -481,7 +481,7 @@ Anyone indian here,0.0,Neutral,0.0,Neutral,-0.3224191665649414,Negative
 Alguien del 2022? 😈🤙,0.7351,Positive,0.0,Neutral,-0.5628118515014648,Negative
 "esta canción nunca pasará de moda, futuras generaciones no dejen morir este temazo 🔥",-0.743,Negative,0.0,Neutral,0.5841590166091919,Positive
 Dont nobody know ye,0.0,Neutral,0.0,Neutral,-0.3914633989334106,Negative
-I can really obejcate interputation volume,0.0,Neutral,0.2,Neutral,0.3662960827350616,Positive
+I can really obejcate interputation volume,0.0,Neutral,0.2,Positive,0.3662960827350616,Positive
 No savia que maluma era masoquista,-0.4019,Negative,0.0,Neutral,-0.4642640948295593,Negative
 """TE FELICITO ""
 SHAKIRA ABRIL 22",0.6037,Positive,0.0,Neutral,0.468291312456131,Positive
@@ -489,27 +489,27 @@ I love you shakira but how to see you,0.3818,Positive,0.5,Positive,0.60283631086
 "Debemos apoyar el adelanto que Shak subió en Tik tok para irle dando difusión. Recuerden que en el algoritmo de Tiktok lo más importante es comentar y compartir, para que el vídeo crezca no solo los likes, así llegará a más personas... Apoyemos desde ya!",0.8064,Positive,0.38125,Positive,0.4185206890106201,Positive
 Si lo pones en camara lenta se escucha algo,0.0,Neutral,-0.3,Negative,0.3616021275520324,Positive
 Seguimos apoyando este Smash HIT🤙🏻🤙🏻🤙🏻,0.9062,Positive,0.0,Neutral,0.3462011516094208,Positive
-Ya que Shakira está en camino tenemos que unirnos como FANDOM Y darle todo el apoyo posible en las distintas plataformas sobre todo Spotify iTunes y tik tok que es donde todo se hace viral hoy día usando nuestros medios como lo son las Redes y si tenemos la posibilidad comprar su música todo apoyo cuenta ..ESTAMOS LIST0S PARA SU REGRESO?  pues demostrémosle que la esperábamos con ansias,0.824,Positive,0.04,Neutral,-0.2787689566612243,Negative
+Ya que Shakira está en camino tenemos que unirnos como FANDOM Y darle todo el apoyo posible en las distintas plataformas sobre todo Spotify iTunes y tik tok que es donde todo se hace viral hoy día usando nuestros medios como lo son las Redes y si tenemos la posibilidad comprar su música todo apoyo cuenta ..ESTAMOS LIST0S PARA SU REGRESO?  pues demostrémosle que la esperábamos con ansias,0.824,Positive,0.04,Positive,-0.2787689566612243,Negative
 El 21 de abril 6pm hora #mexico llega el mega hit #TeFelicito de #Shakira y #RauwAlejandro 🔥👑👑,-0.34,Negative,0.0,Neutral,-0.4434131681919098,Negative
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7258096933364868,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7258096933364868,Positive
 "Frhad ataiyan:   beautiful singer,  very nice , voice perfect performances.",0.8932,Positive,0.8766666666666666,Positive,0.8244813680648804,Positive
 👑👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Maluma is so hot 🔥,-0.3976,Negative,0.25,Neutral,-0.4877572357654571,Negative
+Maluma is so hot 🔥,-0.3976,Negative,0.25,Positive,-0.4877572357654571,Negative
 "El próximo 22 de abril ,Shaki necesita nuestro apoyo shakifans con el estreno de Te felicito,así que apoyamos con todos los views posibles.",0.835,Positive,0.0,Neutral,0.3737336099147796,Positive
 "April 2022, Let's See how many legends are listening to this masterpiece
 This song is so addictive!💫❤",0.8477,Positive,0.5,Positive,0.8221689462661743,Positive
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
 👶💛💜💝💟💙💙🧡💌💗💗,0.9933,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Puros puros tamales´´,0.0,Neutral,0.2142857142857142,Neutral,0.4484356045722961,Positive
+Puros puros tamales´´,0.0,Neutral,0.2142857142857142,Positive,0.4484356045722961,Positive
 My Favorite Song 🎵,0.4588,Positive,0.5,Positive,0.9120352268218994,Positive
-Bro i am not spanish and i love this,0.6369,Positive,0.25,Neutral,0.7827993631362915,Positive
+Bro i am not spanish and i love this,0.6369,Positive,0.25,Positive,0.7827993631362915,Positive
 Shakira is back 🇨🇴🇨🇴💥💥,-0.6124,Negative,0.0,Neutral,0.2789137065410614,Neutral
 💙 Esta hermosa cancion es una verdadera terapia para El alma 🌹💖,0.9585,Positive,0.6,Positive,0.8082016706466675,Positive
 Shakifans no sé olviden de LOBA ya está cerca de los 200 Millones 🥳,0.505,Positive,0.0,Neutral,0.3653468489646911,Positive
-Hola shakira soy yo tu fan mas lea te tengo que decir algo eres un fenomeno  de belleza esta cancion es terrible terriblemebte hermosa te quiero amor y paz🥰😁,0.9788,Positive,0.2125,Neutral,0.5305164456367493,Positive
+Hola shakira soy yo tu fan mas lea te tengo que decir algo eres un fenomeno  de belleza esta cancion es terrible terriblemebte hermosa te quiero amor y paz🥰😁,0.9788,Positive,0.2125,Positive,0.5305164456367493,Positive
 This song never get old💍,0.0,Neutral,0.0,Neutral,-0.7954615950584412,Negative
 "Alguien en 2022, escuchando este temazo 😍?",0.4588,Positive,0.0,Neutral,-0.6101654767990112,Negative
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 🥀🥀,0.8398,Positive,0.0787037037037037,Neutral,0.8050400018692017,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 🥀🥀,0.8398,Positive,0.0787037037037037,Positive,0.8050400018692017,Positive
 2381,0.0,Neutral,0.0,Neutral,-0.3146731555461883,Negative
 Y los comentarios en español donde estan?,0.0,Neutral,0.0,Neutral,-0.3971719443798065,Negative
 Eu gravo covers para o YouTube e convido vcs a assistirem  💜..,0.7003,Positive,0.0,Neutral,0.4006480872631073,Positive
@@ -544,8 +544,8 @@ https://youtu.be/dho9_qifaNc
 https://youtu.be/ZcUUYXx5Yio
 http://www.e-quran.com/language/english/english4/
    www.islamhouse.com
-   www.thekeytoislam.com",0.9821,Positive,0.1754737854737854,Neutral,0.4581260085105896,Positive
-"855Islam raised the status of women and addressed her with her humanity and principles, and equalized her with discourse and duties with men- Islam singled out women in the largest wall of the Noble Qur’an, Surat An-Nisa - and the Messenger Muhammad, may God’s prayers and peace be upon him, praised all those who honor women - and demanded Hellfire for those who wronged her and cursed- Islam guarantees a woman a decent life throughout her life through inheritance rights and requires spending on her father, husband, and brother - and her right to work that does not jeopardize her dignity- A woman in Islam feels psychological security and stability whenever her body recedes, unlike the woman in the West - at this stage, (mother) Islam is considered the most obligatory respect and appreciation for the mother from all society, especially from children and grandchildren- Gaining the love and approval of the mother represents a path to heaven, and her anger leads to fire in Islam, which is considered the mistress of the family, and everyone loves to win her love - from time to time you find all parties presenting her with gifts- There is nothing in the Muslim family that worries the West about the flight of children from homes - the process of abortion, suicide and the dispersal of the family, which has become a prominent feature in the West in a frightening and increasing manner, and in most countries that claim the freedom of women, especially in girls- The Muslim woman with her veil is the one who owns her freedom, so only the one she loves can see her beauty - unlike the Western woman, she does not have the freedom to control her beauty in front of the owners of sexual frenzy- This is an overview of the Muslim woman. As for the Western woman, and her suffering, it will be at an upcoming date, God willing",0.992,Positive,0.2053884711779448,Neutral,0.4084477424621582,Positive
+   www.thekeytoislam.com",0.9821,Positive,0.1754737854737854,Positive,0.4581260085105896,Positive
+"855Islam raised the status of women and addressed her with her humanity and principles, and equalized her with discourse and duties with men- Islam singled out women in the largest wall of the Noble Qur’an, Surat An-Nisa - and the Messenger Muhammad, may God’s prayers and peace be upon him, praised all those who honor women - and demanded Hellfire for those who wronged her and cursed- Islam guarantees a woman a decent life throughout her life through inheritance rights and requires spending on her father, husband, and brother - and her right to work that does not jeopardize her dignity- A woman in Islam feels psychological security and stability whenever her body recedes, unlike the woman in the West - at this stage, (mother) Islam is considered the most obligatory respect and appreciation for the mother from all society, especially from children and grandchildren- Gaining the love and approval of the mother represents a path to heaven, and her anger leads to fire in Islam, which is considered the mistress of the family, and everyone loves to win her love - from time to time you find all parties presenting her with gifts- There is nothing in the Muslim family that worries the West about the flight of children from homes - the process of abortion, suicide and the dispersal of the family, which has become a prominent feature in the West in a frightening and increasing manner, and in most countries that claim the freedom of women, especially in girls- The Muslim woman with her veil is the one who owns her freedom, so only the one she loves can see her beauty - unlike the Western woman, she does not have the freedom to control her beauty in front of the owners of sexual frenzy- This is an overview of the Muslim woman. As for the Western woman, and her suffering, it will be at an upcoming date, God willing",0.992,Positive,0.2053884711779448,Positive,0.4084477424621582,Positive
 #ShibArmy #Shib #CRYPTO #dyor,0.0,Neutral,0.0,Neutral,-0.4229159355163574,Negative
 pique after watching this🤣🤣🤣🤣,0.8934,Positive,0.0,Neutral,-0.4905985295772552,Negative
 "🔥Es 2022: escuchando esta cancion me parece haber salio hoy nunca pasa de moda,me gusta mucho 👏💙✌️",0.7717,Positive,0.0,Neutral,0.6094623804092407,Positive
@@ -553,9 +553,9 @@ Yr!jdlkd,0.0,Neutral,0.0,Neutral,-0.3904991745948791,Negative
 Me encanta la canción 😍😍,0.8807,Positive,0.5,Positive,0.7370768189430237,Positive
 Filmes aqui TV,0.0,Neutral,0.0,Neutral,0.2723007500171661,Neutral
 Essa música é oire novela,0.0,Neutral,0.0,Neutral,0.3743248581886291,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7258096933364868,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7258096933364868,Positive
 Can't understand anything in espanèol but still vibing with evry beat and melody. I'm synced with this music just like beat sync with the music.,0.5023,Positive,0.0,Neutral,0.3271201550960541,Neutral
-WOW 😲 she has really out did herself.,0.7983,Positive,0.15,Neutral,0.7342208623886108,Positive
+WOW 😲 she has really out did herself.,0.7983,Positive,0.15,Positive,0.7342208623886108,Positive
 alguém BR ?,0.0,Neutral,0.0,Neutral,-0.4680905044078827,Negative
 Se viene Shakira ft Rauw!,0.0,Neutral,-0.2884615384615385,Negative,-0.454901784658432,Negative
 SE VIENE “TE FELICITO”!,0.636,Positive,0.0,Neutral,0.6409244537353516,Positive
@@ -563,7 +563,7 @@ SE VIENE “TE FELICITO”!,0.636,Positive,0.0,Neutral,0.6409244537353516,Positi
 lit la cancion resume mi relacion actual sakjskajsk coincidencia?,0.0,Neutral,0.0,Neutral,0.3417643904685974,Positive
 Ds,0.0,Neutral,0.0,Neutral,0.3342335224151611,Positive
 "La escuchaba de más pibe con 16 añitos ❤️
-12 abril 2022",0.0,Neutral,0.1,Neutral,-0.6870185136795044,Negative
+12 abril 2022",0.0,Neutral,0.1,Positive,-0.6870185136795044,Negative
 muy buena cancion.,0.4927,Positive,0.91,Positive,0.6902587413787842,Positive
 Eres mi favorita Shakira😆😆😆😍😍😍🤩🤩🤩,0.9552,Positive,0.5,Positive,0.7574678063392639,Positive
 Shakira's songs never get old and neither does she <3,-0.3412,Negative,0.55,Positive,0.3068833947181701,Neutral
@@ -590,7 +590,7 @@ Shakira is just…..OMG I’m speechless,0.0,Neutral,0.0,Neutral,-0.546801626682
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
-Puro Puro Puro chantaje,0.0,Neutral,0.2142857142857142,Neutral,0.5278828144073486,Positive
+Puro Puro Puro chantaje,0.0,Neutral,0.2142857142857142,Positive,0.5278828144073486,Positive
 Que poronga esta canción,-0.5423,Negative,-0.4,Negative,-0.3120705187320709,Negative
 :D,0.5106,Positive,1.0,Positive,0.2872094810009002,Neutral
 Quien en 2022??😝🌚🌝,0.0,Neutral,0.0,Neutral,-0.5071874856948853,Negative
@@ -598,7 +598,7 @@ https://youtube.com/channel/UCXgr78heSSrz3LGjxPEOQvQ,0.0,Neutral,0.0,Neutral,0.2
 Piqea,0.0,Neutral,0.0,Neutral,0.2519602179527282,Neutral
 ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥,-0.8225,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Hermosa canción 💙,0.8442,Positive,0.85,Positive,0.718926191329956,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7324890494346619,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7324890494346619,Positive
 El quem crear em JesusCristro tendra vida eterna ♥️,0.743,Positive,1.0,Positive,0.6933141946792603,Positive
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I hear some hindi lyrics in between,0.0,Neutral,0.0,Neutral,0.5067613124847412,Positive
@@ -608,7 +608,7 @@ Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
 Shakira,0.0,Neutral,0.0,Neutral,0.324417769908905,Neutral
 "Lo siguimos recordando,acá en el 2022",0.0,Neutral,0.0,Neutral,0.5745053291320801,Positive
-2022 alguém viivo ?,0.3818,Positive,0.1,Neutral,-0.4281570017337799,Negative
+2022 alguém viivo ?,0.3818,Positive,0.1,Positive,-0.4281570017337799,Negative
 It's 2022 I still love the song,0.6369,Positive,0.5,Positive,0.6118782162666321,Positive
 Simplemente insuperable,0.0,Neutral,0.0,Neutral,0.6193797588348389,Positive
 Love 💘 ❤ this song!!!,0.938,Positive,0.9765625,Positive,0.87156742811203,Positive
@@ -629,8 +629,8 @@ https://youtu.be/eN5mG_yMDiM
 https://youtu.be/eN5mG_yMDiM
 https://youtu.be/eN5mG_yMDiM
 https://youtu.be/eN5mG_yMDiM
-https://youtu.be/eN5mG_yMDiM",0.4939,Positive,0.25,Neutral,0.3927340805530548,Positive
-I used to listen to it when I was 2nd Grade so much and now I'm in 8th grade. This bring back memories.,0.0,Neutral,0.0666666666666666,Neutral,0.660825252532959,Positive
+https://youtu.be/eN5mG_yMDiM",0.4939,Positive,0.25,Positive,0.3927340805530548,Positive
+I used to listen to it when I was 2nd Grade so much and now I'm in 8th grade. This bring back memories.,0.0,Neutral,0.0666666666666666,Positive,0.660825252532959,Positive
 "https://youtu.be/bl6ycWtqOh0
 love her voice",0.6369,Positive,0.5,Positive,0.5614525675773621,Positive
 Yo soy masiquistaaAaaAa🤖🤖🤖,0.0,Neutral,0.0,Neutral,0.5561405420303345,Positive
@@ -642,15 +642,15 @@ abla çok güzel oynamışsın <3,0.8084,Positive,1.0,Positive,0.461034715175628
 Ambos maravilhosos lindos❤️👏,0.8225,Positive,0.925,Positive,0.8198705315589905,Positive
 que,0.0,Neutral,0.0,Neutral,0.2669675052165985,Neutral
 Hola mi café todavía nel,0.0,Neutral,0.0,Neutral,0.249876856803894,Neutral
-"Wey, hay más gringos que latinos",0.5859,Positive,0.3,Neutral,-0.2932702898979187,Negative
+"Wey, hay más gringos que latinos",0.5859,Positive,0.3,Positive,-0.2932702898979187,Negative
 ME:CAN'T STOP DANCING WHILE LISTENING TO THIS SONG 🤤❤🔥,0.6405,Positive,0.0,Neutral,-0.3619393110275268,Negative
 "bruh mea cuerdo que cuando era chiquito no soportaba esta canción, wtf qué le pasaba a mi yo de 7 años",-0.5859,Negative,-0.1958333333333333,Negative,-0.5167300701141357,Negative
-I just noticed she's walking a pig Shiba INU crypto currency is the answer to being  wealthy don't be left behind #SHIBAINU ❤ 💜❤💜,0.9652,Positive,0.0333333333333333,Neutral,-0.2982400357723236,Negative
+I just noticed she's walking a pig Shiba INU crypto currency is the answer to being  wealthy don't be left behind #SHIBAINU ❤ 💜❤💜,0.9652,Positive,0.0333333333333333,Positive,-0.2982400357723236,Negative
 Eu amo essa música meu ❤️,0.6369,Positive,0.5,Positive,0.6267684102058411,Positive
 https://youtu.be/qRwbtYPE_3E,0.0,Neutral,0.0,Neutral,0.2487340867519378,Neutral
 HOW TF DOES THIS HAVE 2 BILLION VIEWS,0.0,Neutral,0.0,Neutral,0.5724506974220276,Positive
 "0:45 🤖Yo soy masoquista🤖
-Cuando era más pequeña eso no sonaba así 😭",-0.7851,Negative,0.2,Neutral,-0.4582173526287079,Negative
+Cuando era más pequeña eso no sonaba así 😭",-0.7851,Negative,0.2,Positive,-0.4582173526287079,Negative
 Me encanta shakira,0.6369,Positive,0.5,Positive,0.8165009021759033,Positive
 Shakira ☹️🥰,0.7096,Positive,0.0,Neutral,0.4383313357830047,Positive
 The Planetarians NFT project magic Eden 💰 🤑 ⬆️ FLOOR To 10 Sol come on 🤟🤟🤟,0.0,Neutral,0.5,Positive,0.3422645926475525,Positive
@@ -708,13 +708,13 @@ n n,0.0,Neutral,0.0,Neutral,-0.2946164608001709,Negative
 n n,0.0,Neutral,0.0,Neutral,-0.2946164608001709,Negative
 n n n n,0.0,Neutral,0.0,Neutral,0.2705584764480591,Neutral
 ¿2022?,0.0,Neutral,0.0,Neutral,-0.4170731902122497,Negative
-"*""It's crazy how many people come back to this everyday. This song is legendary ♡""*",-0.34,Negative,0.1399999999999999,Neutral,0.7775590419769287,Positive
+"*""It's crazy how many people come back to this everyday. This song is legendary ♡""*",-0.34,Negative,0.1399999999999999,Positive,0.7775590419769287,Positive
 *A message to the future generations: 'DON'T LET THIS SONG DIE'*,-0.6841,Negative,0.0,Neutral,-0.5115651488304138,Negative
 "*""This song never gets old. No matter how much I listen, I never get bored""*",0.1877,Positive,-0.0666666666666666,Negative,0.4560328722000122,Positive
 en sus videos siempre con significados y mensajes muy grandes ejemplo asu esposo  ella le dijo espera yespera otro me gusta  es otro mensaje 😚,0.8834,Positive,0.8,Positive,0.4568794369697571,Positive
 ANY GERARD PIQUE FANS HERE,-0.2732,Negative,0.0,Neutral,-0.3137441277503967,Negative
 EAU VIVE 🎇🌀🎇🌊🏆,0.0,Neutral,0.0,Neutral,0.4252509474754333,Positive
-pov: ai peste 14 ani și știi melodia asta de când aveai vreo 5 ani❤️🤡,0.0,Neutral,0.1,Neutral,0.3250867128372192,Neutral
+pov: ai peste 14 ani și știi melodia asta de când aveai vreo 5 ani❤️🤡,0.0,Neutral,0.1,Positive,0.3250867128372192,Neutral
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 2722 millones de visitas 5 años de felicidad con esta cancion,0.5574,Positive,0.7,Positive,0.7416396141052246,Positive
 Azis,0.0,Neutral,0.0,Neutral,0.2851176559925079,Neutral
@@ -725,7 +725,7 @@ Confirmen si cuando salió esta canción todos estábamos en nuestro mejor momen
 
 N O P E",0.0,Neutral,0.0,Neutral,-0.2642907202243805,Negative
 It's 2022. Let's see how many legends are listening to this masterpiece. 🔥❤,0.826,Positive,0.5,Positive,0.6579016447067261,Positive
-"This song won't be forgotten, no matter how many times I listen to it , it will never get old",0.1511,Positive,0.3,Neutral,0.4255998134613037,Positive
+"This song won't be forgotten, no matter how many times I listen to it , it will never get old",0.1511,Positive,0.3,Positive,0.4255998134613037,Positive
 Se imaginan como se puso Piqué a ver este vídeo 😆😆,0.6124,Positive,0.0,Neutral,-0.4596578776836395,Negative
 Aca 2022 y escuchando chantaje 😁🛐,0.6369,Positive,0.0,Neutral,-0.6879687905311584,Negative
 https://youtube.com/channel/UCAWwJxu4_5T_d39Zcs0XwLQ,0.0,Neutral,0.0,Neutral,0.2513912618160248,Neutral
@@ -743,9 +743,9 @@ Porque en un baño de hombres,0.0,Neutral,0.0,Neutral,0.2533597946166992,Neutral
 ON ENTEND MON AMI L HAMSTERT,0.4939,Positive,0.0,Neutral,-0.223606675863266,Negative
 "Bị nghiện bài này từ thời Bảo Thy, ko ngờ lại có ngày được nghe idol mới trong lòng mình Đức Phúc cover lại. Cảm ơn em ĐP vì đã cover lại lắng đọng cảm xúc như vậy",0.7717,Positive,-0.0878787878787878,Negative,-0.3917026221752167,Negative
 The way she moves💓🤤❤❤❤,0.9738,Positive,0.0,Neutral,0.5644859671592712,Positive
-She's hot still 😍 🔥,0.1531,Positive,0.25,Neutral,0.3133821487426758,Neutral
-Doesn't that mean she can handle him pretty easily?,0.6808,Positive,0.1236111111111111,Neutral,0.5252829790115356,Positive
-lt's crazy how many people in 2022 will returm to listen this legendary song 🔥,-0.5859,Negative,0.3,Neutral,0.6738520860671997,Positive
+She's hot still 😍 🔥,0.1531,Positive,0.25,Positive,0.3133821487426758,Neutral
+Doesn't that mean she can handle him pretty easily?,0.6808,Positive,0.1236111111111111,Positive,0.5252829790115356,Positive
+lt's crazy how many people in 2022 will returm to listen this legendary song 🔥,-0.5859,Negative,0.3,Positive,0.6738520860671997,Positive
 眾天神世界棋王鄧育文錯了請原諒世界棋王鄧育文的無知真心認錯了。,0.0772,Positive,0.0,Neutral,-0.2676168978214264,Negative
 要不是我跟摩西比法カ我不會下凡間。,0.0,Neutral,0.0,Neutral,-0.3540936708450317,Negative
 我是一諾千金之人,0.3182,Positive,0.0,Neutral,0.3623477220535278,Positive
@@ -768,7 +768,7 @@ Vere got 😘❤️💫😉,0.2263,Positive,0.0,Neutral,0.4647669196128845,Posit
 shakiraaaaaaa malumaaaaaaa,0.0,Neutral,0.0,Neutral,-0.4904977977275848,Negative
 Minha música favorita,0.4588,Positive,0.5,Positive,0.7511786222457886,Positive
 wee como puede mover esa cadera,0.0,Neutral,0.0,Neutral,0.5937402844429016,Positive
-💗 2022 💗 escuchando este fabuloso éxito que nunca pasa de moda 🤗💗💗,0.9758,Positive,0.25,Neutral,0.8162667751312256,Positive
+💗 2022 💗 escuchando este fabuloso éxito que nunca pasa de moda 🤗💗💗,0.9758,Positive,0.25,Positive,0.8162667751312256,Positive
 💕,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "23:23 Hermosa eleccion DRISEX.Uno  de mejor 
 10:10 (elecciones ) 9.5/10 
@@ -779,8 +779,8 @@ Watch The Sonic and amy video of that song,0.0,Neutral,0.0,Neutral,0.30390709638
 "2,7Md",0.0,Neutral,0.0,Neutral,0.2535915672779083,Neutral
 💗💗💗💗❤❤,0.9849,Positive,0.0,Neutral,0.3085779249668121,Neutral
 me encanta esta canción,0.6369,Positive,0.5,Positive,0.7601157426834106,Positive
-puro  puro chantaje,0.0,Neutral,0.2142857142857142,Neutral,0.5389388799667358,Positive
-Puro puro chantaje puro puro chantaje sempreza tu manera,0.0,Neutral,0.2142857142857142,Neutral,0.6647485494613647,Positive
+puro  puro chantaje,0.0,Neutral,0.2142857142857142,Positive,0.5389388799667358,Positive
+Puro puro chantaje puro puro chantaje sempreza tu manera,0.0,Neutral,0.2142857142857142,Positive,0.6647485494613647,Positive
 https://youtu.be/KTeokbebZGI,0.0,Neutral,0.0,Neutral,-0.2265150547027588,Negative
 "I feel like only Shakira can make a world cup song becomes a HIT
 
@@ -864,8 +864,8 @@ Shakira, Maluma, uh-huh
 Pretty boy
 You're my baby loba, yeah
 Colombia, you feel me?
-Pretty boy",0.9855,Positive,0.167000580720093,Neutral,0.4012708067893982,Positive
-## AL DEMOO ANTOO CANTOO  SPRTOO GAEME SPREASO KE KEERA NEEKAT  POORA SHENAHE  NAETHE GETOO TEEAN NAVEE ##,0.0,Neutral,0.1363636363636363,Neutral,-0.5668434500694275,Negative
+Pretty boy",0.9855,Positive,0.167000580720093,Positive,0.4012708067893982,Positive
+## AL DEMOO ANTOO CANTOO  SPRTOO GAEME SPREASO KE KEERA NEEKAT  POORA SHENAHE  NAETHE GETOO TEEAN NAVEE ##,0.0,Neutral,0.1363636363636363,Positive,-0.5668434500694275,Negative
 3\4\2022 PACE!,0.0,Neutral,0.0,Neutral,0.601752519607544,Positive
 No me cansa de este HIT 😍😍🔥🔥,0.5583,Positive,-0.4,Negative,0.5579023957252502,Positive
 Alguien en abril de 2022?,0.0,Neutral,0.0,Neutral,-0.6607415080070496,Negative
@@ -879,7 +879,7 @@ Tengo una,0.0,Neutral,0.0,Neutral,-0.3309384286403656,Negative
 Lola miramer,0.0,Neutral,0.0,Neutral,0.2396071851253509,Neutral
 Me gustó porque está maluma,-0.1779,Negative,-0.0499999999999999,Negative,-0.3935507535934448,Negative
 No te preocupes no eres el único que la está reproduciendo en abril de 2022,0.4949,Positive,0.0,Neutral,-0.416222482919693,Negative
-41 old and a 24 yr old and how Shakira gon be lookin better than girls at school 💀💀,0.4404,Positive,0.2333333333333333,Neutral,0.489066869020462,Positive
+41 old and a 24 yr old and how Shakira gon be lookin better than girls at school 💀💀,0.4404,Positive,0.2333333333333333,Positive,0.489066869020462,Positive
 "amo a parte 1:37 ""Que"" 💖🔥",0.8481,Positive,0.5,Positive,-0.2735178470611572,Negative
 Pique'nin boynuna sağlıq,0.0,Neutral,0.0,Neutral,0.3352337777614593,Positive
 Quien en pleno abril del 2022 sigue oiendo esta joya🔥,-0.34,Negative,0.0,Neutral,-0.5088162422180176,Negative
@@ -902,16 +902,16 @@ The Nostalgic...",0.0,Neutral,-0.5,Negative,0.3530933558940887,Positive
 4 mil millones de reproducciones en total para este smash hit 🔥,-0.34,Negative,0.0,Neutral,0.7203739881515503,Positive
 Baila con dos trapos en un  baño y como mola es la mejor 2022 quien sigue escuchandola,0.7579,Positive,0.675,Positive,0.5466393232345581,Positive
 "Maluma has collaborated with Shakira, J.Lo, Thalia...we can say he loves the MILFs.",0.5719,Positive,0.0,Neutral,0.4367308914661407,Positive
-Você e de escorpião amigo? Então puxa as lápides onde põe as fotos dos defuntos nas sepulturas no cemitério de barra mansa. Imagem de um mesmo homem forte de verdade sacou? Em várias fotos...parecendo estar morto a séculos...uma assombração mórbida...o próprio demônio em pessoa...realidade virtual Brown!😭😭😭😭🙏🙏🙏🙏😇😇😇😇💖💖💖🌹🌹🌹🌹😁😁😁😁,0.9672,Positive,0.0066666666666666,Neutral,-0.515801727771759,Negative
+Você e de escorpião amigo? Então puxa as lápides onde põe as fotos dos defuntos nas sepulturas no cemitério de barra mansa. Imagem de um mesmo homem forte de verdade sacou? Em várias fotos...parecendo estar morto a séculos...uma assombração mórbida...o próprio demônio em pessoa...realidade virtual Brown!😭😭😭😭🙏🙏🙏🙏😇😇😇😇💖💖💖🌹🌹🌹🌹😁😁😁😁,0.9672,Positive,0.0066666666666666,Positive,-0.515801727771759,Negative
 "Y después 5 años , hago este humilde comentario, quiero likes por favor, gracias.",0.7845,Positive,-0.2,Negative,0.3441874980926513,Positive
 Vamos por los 2722M,0.0,Neutral,0.0,Neutral,-0.2636920511722564,Negative
 How stupid could she be to do this shit ?! OMG :(,-0.8966,Negative,-0.6,Negative,-0.8712636828422546,Negative
 El himno a la histeria 😁😅😆,0.6249,Positive,0.0,Neutral,0.5768386721611023,Positive
 "I remember when i had a crush on shakira, who else did 👇",-0.1531,Negative,0.0,Neutral,0.2575126886367798,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7639103531837463,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7639103531837463,Positive
 Temazooo me encanta 😍😍😉😉😉,0.8807,Positive,0.5,Positive,0.715061366558075,Positive
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through the beginning of 2022. I hope everyone is doing well. I love you! 💓💗,0.9816,Positive,0.3125,Neutral,0.8125850558280945,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through the beginning of 2022. I hope everyone is doing well. I love you! 💓💗,0.9816,Positive,0.3125,Positive,0.8125850558280945,Positive
 Mi fav..,0.4588,Positive,0.0,Neutral,0.2855040729045868,Neutral
 Alguien más está aquí escuchando este hit?,0.0,Neutral,0.0,Neutral,-0.2912222445011139,Negative
 Todo una motomami,0.0,Neutral,0.0,Neutral,0.5532152056694031,Positive
@@ -1003,13 +1003,13 @@ Shakira, Maluma, uh-huh
 Pretty boy
 You're my baby loba, yeah
 Colombia, you feel me?
-Pretty boy",0.9855,Positive,0.167000580720093,Neutral,0.4012708067893982,Positive
+Pretty boy",0.9855,Positive,0.167000580720093,Positive,0.4012708067893982,Positive
 I heard this song as a child I remembered it and came,0.0,Neutral,0.0,Neutral,0.5166293978691101,Positive
 "I always feel happy when this notification pops up on my screen  ""someone like your comment"" and ""you have a new subscriber"" 😜😃",0.8271,Positive,0.4681818181818182,Positive,0.3880303502082824,Positive
 وين العرب,0.0,Neutral,0.0,Neutral,0.3183954060077667,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7639103531837463,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7639103531837463,Positive
 There are millions of comment if you find me your legand  💜💜,0.8555,Positive,0.0,Neutral,-0.3392121791839599,Negative
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through the beginning of 2022. I hope everyone is doing well. I love you! 💓💗,0.9816,Positive,0.3125,Neutral,0.8125850558280945,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through the beginning of 2022. I hope everyone is doing well. I love you! 💓💗,0.9816,Positive,0.3125,Positive,0.8125850558280945,Positive
 Seguimos apoyando 🤙🏻🌊,0.7096,Positive,0.0,Neutral,0.4740386009216308,Positive
 TL10,0.0,Neutral,0.0,Neutral,0.2595162987709045,Neutral
 See I'm a bad bleamch unknown wed meet again,-0.5423,Negative,-0.3999999999999999,Negative,-0.6534244418144226,Negative
@@ -1030,7 +1030,7 @@ Alguien e 2022?,0.0,Neutral,0.0,Neutral,-0.5772068500518799,Negative
 Salsa - Justin , Mackie",0.0,Neutral,0.0,Neutral,0.2323886901140213,Neutral
 "No matter how many years have passed, this song remains as if it were yesterday 🧡",0.6281,Positive,0.5,Positive,0.3444997668266296,Positive
 no conozco una palabra pero me gusta esto mucho,0.5023,Positive,0.0,Neutral,0.443946361541748,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7639103531837463,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through these tough times. I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7639103531837463,Positive
 ΣΑΚΗΡΑ.... Η.. ΚΑΛΟΝΗ...... Η.... Καλύτερη.... ΤΡΑΓΟΥΣΤΗΡΙΑ....... Στην... ΛΑΤΗΝΙΚΗ... ΑΜΕΡΙΚΗ,0.6369,Positive,1.0,Positive,0.4246094524860382,Positive
 0:03 alguien escucho hola amiga fiel: organizarte xd otra vez tu xd,0.9485,Positive,0.0,Neutral,-0.7573699355125427,Negative
 We,0.0,Neutral,0.0,Neutral,0.3013451695442199,Neutral
@@ -1045,7 +1045,7 @@ Sou fã de mais sua,0.3182,Positive,0.0,Neutral,0.3871737122535705,Positive
 
 
 Мшеовк",0.0,Neutral,0.0,Neutral,0.2500995099544525,Neutral
-محدش يشوف جمالك غيرى يا اساسى جوه قلبى,0.8225,Positive,0.1666666666666666,Neutral,0.285710871219635,Neutral
+محدش يشوف جمالك غيرى يا اساسى جوه قلبى,0.8225,Positive,0.1666666666666666,Positive,0.285710871219635,Neutral
 Los amo soy su fan,0.7579,Positive,0.5,Positive,0.6522507071495056,Positive
 This song still one of my fav❤️,0.4588,Positive,0.0,Neutral,0.6401218175888062,Positive
 Cuántos likes y te das un beso con el,0.6808,Positive,0.5,Positive,0.3434958457946777,Positive

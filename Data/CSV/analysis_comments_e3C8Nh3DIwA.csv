@@ -1,14 +1,14 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-I tried it and it is fun,0.5106,Positive,0.3,Neutral,0.4562921524047851,Positive
+I tried it and it is fun,0.5106,Positive,0.3,Positive,0.4562921524047851,Positive
 "this is THE music!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 it's very beautyful",0.7477,Positive,1.0,Positive,0.8842273950576782,Positive
-I am normally great at this song but I have a cold and I suck right now,-0.3182,Negative,0.1619047619047619,Neutral,-0.4715628921985626,Negative
+I am normally great at this song but I have a cold and I suck right now,-0.3182,Negative,0.1619047619047619,Positive,-0.4715628921985626,Negative
 "Parents not at home: ✅
 Karaoke mic: ✅
 A good easy song to sing without sounding like a dying mouse :✅
 Let’s goooooooo!!!!!",0.7057,Positive,0.85,Positive,0.3140906393527984,Neutral
 My siblings are coming for me,0.0,Neutral,0.0,Neutral,0.4794908463954925,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I heard there was a special place where men could go and emancipate….,0.4019,Positive,0.3571428571428571,Positive,0.2666962146759033,Neutral
 "I've heard about this baby boy
 Who's come to earth to bring us joy
@@ -50,10 +50,10 @@ That rugged cross was my cross, too
 Still every breath You drew was Hallelujah
 Hallelujah, Hallelujah, Hallelujah, Hallelujah
 
-Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.999,Positive,0.2125,Neutral,0.7309867739677429,Positive
+Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.999,Positive,0.2125,Positive,0.7309867739677429,Positive
 Me ttoo,0.0,Neutral,0.0,Neutral,0.2546273469924927,Neutral
 "A ja wiem, może moja koleżanka w szkole też potrafi tak wykonać",0.4939,Positive,0.0,Neutral,0.4126311540603637,Positive
-You saw her bathing on the  roof  haha 😄 😆,0.875,Positive,0.2,Neutral,0.2498723864555359,Neutral
+You saw her bathing on the  roof  haha 😄 😆,0.875,Positive,0.2,Positive,0.2498723864555359,Neutral
 Hallelujah ismy all time favourite  song,0.6124,Positive,0.0,Neutral,0.9116106033325196,Positive
 I'm going to sing this song on my Christmas Programs in my Church. Please can I have everyone's support? 🙃💕,0.8519,Positive,0.0,Neutral,0.4316319823265075,Positive
 I'm belting this song I'm my garage,0.0,Neutral,0.0,Neutral,0.469235897064209,Positive
@@ -84,7 +84,7 @@ Asa unang gale,nang tondingki
 Huboto ala Holong Mi
 Nang dohot sude Asi mi
 Pinujima Goar Mu haleluya..
-Haleluya...haleluya...haleluya...haleluuuuuuuyaa..... (naik)",0.9657,Positive,0.125,Neutral,-0.4914531111717224,Negative
+Haleluya...haleluya...haleluya...haleluuuuuuuyaa..... (naik)",0.9657,Positive,0.125,Positive,-0.4914531111717224,Negative
 Just find out that i have bad voice 😂😂😂😂😂,0.875,Positive,-0.6999999999999998,Negative,-0.3098985254764557,Negative
 Please tell me i am not the only one out there singing L'manburg athem...,0.3182,Positive,0.0,Neutral,-0.4055316150188446,Negative
 spread the gospel,0.0,Neutral,0.0,Neutral,0.5117645859718323,Positive
@@ -105,7 +105,7 @@ My L'manberg
 My L'manberg
 My L'manberg
 
-o7....love you L'manberg",-0.7003,Negative,0.0392857142857142,Neutral,0.6964097023010254,Positive
+o7....love you L'manberg",-0.7003,Negative,0.0392857142857142,Positive,0.6964097023010254,Positive
 "[Verse 1]
 I heard there was a special place, Where men could go emancipate, The brutality and tyranny of their rulers 
 Well this place is real, You needn't fret, with Wilbur, Tommy, Tubbo, Eret, A very big and not blown up L'Manberg 
@@ -134,7 +134,7 @@ With sweat and tears we armed out ranks, We laid foundations in our land, And fr
 We sing L'Manberg 
 We sing L'Manburg 
 We sing L'Manberg 
-We sing L'Manberg",0.7184,Positive,0.1428571428571428,Neutral,0.4797924757003784,Positive
+We sing L'Manberg",0.7184,Positive,0.1428571428571428,Positive,0.4797924757003784,Positive
 That last hallelujah out of the four is so hard it’s so deep,0.4825,Positive,-0.0972222222222222,Negative,-0.3579891920089721,Negative
 "I've heard about this baby boy
 Who's come to earth to bring us joy
@@ -175,7 +175,7 @@ My sins would drive the nails in You
 That rugged cross was my cross, too
 Still every breath You drew was Hallelujah
 Hallelujah, Hallelujah, Hallelujah, Hallelujah
-Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.9991,Positive,0.2473214285714286,Neutral,0.7298617959022522,Positive
+Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.9991,Positive,0.2473214285714286,Positive,0.7298617959022522,Positive
 Samson and delilah,0.0,Neutral,0.0,Neutral,0.3401119410991668,Positive
 When ever I hear this song it reminds me of Shrek.,0.0,Neutral,0.0,Neutral,0.4744609892368316,Positive
 me: waits til my brothers leav the room,-0.0516,Negative,0.0,Neutral,-0.3451009392738342,Negative
@@ -201,7 +201,7 @@ Me esconder nos teus braços, ó pai
 Toda minh'alma deseja a ti
 Junto com os anjos cantarei
 Tu és santo, exaltado, aleluia!
-Aleluia, aleluia",0.9977,Positive,0.3231481481481481,Neutral,0.7728416323661804,Positive
+Aleluia, aleluia",0.9977,Positive,0.3231481481481481,Positive,0.7728416323661804,Positive
 I just covered this song and if anyone wants to check it out and give me feedback itd mean the world!,0.0,Neutral,-0.0953125,Negative,0.5759655237197876,Positive
 I all liked all ur comment may the best singer win,0.8957,Positive,0.8000000000000002,Positive,0.5670569539070129,Positive
 hallelujah alexandra burke,0.6124,Positive,0.0,Neutral,0.4283367991447449,Positive
@@ -346,7 +346,7 @@ Mă gândesc la mântuire,
 și că mă pot ascunde în brațele tale,
 glorie tie, multumesc inca o data!
 Aleluia, aleluia,
-aleluia",0.9993,Positive,0.1609375,Neutral,0.7825209498405457,Positive
+aleluia",0.9993,Positive,0.1609375,Positive,0.7825209498405457,Positive
 "You may sound frickin terrible, but keep going! You have got this! Sing your heart out baby!",0.7565,Positive,-0.3,Negative,0.664713978767395,Positive
 Sang this out loud 🤩 feels good to blow out my lungs. Perfect,0.765,Positive,0.6,Positive,0.85151207447052,Positive
 "Un soldado a casa hoy regreso
@@ -370,31 +370,31 @@ Sino lo bueno y lo mejor del alma pura
 Porque Dios nos proteja de un mal final
 Porque un día podamos escarmentar
 Con que acaben con tanta furia
-Alelujah",0.9196,Positive,0.2111111111111111,Neutral,-0.4146193265914917,Negative
+Alelujah",0.9196,Positive,0.2111111111111111,Positive,-0.4146193265914917,Negative
 "I'm french and loved the original song
 This is so cool !
 Bbbuuuuut with some Word in english i hardly succeed to sing it
-Aaaaand i ruined the end yay😂",0.9392,Positive,0.2034722222222222,Neutral,0.271403819322586,Neutral
+Aaaaand i ruined the end yay😂",0.9392,Positive,0.2034722222222222,Positive,0.271403819322586,Neutral
 What do you thing of my version of Hallelujah? https://youtu.be/hJPfrW76SEY,0.6124,Positive,0.0,Neutral,-0.2665919661521911,Negative
 hold kjeft,0.0,Neutral,0.0,Neutral,0.4865490198135376,Positive
 What do you thing of my version of Hallelujah? http://www.pushnow.co.uk,0.6124,Positive,0.0,Neutral,-0.2535289227962494,Negative
 My daughter is good at singing this,0.4404,Positive,0.7,Positive,0.4526815712451935,Positive
-This is so highhh I will percevere,0.0,Neutral,0.16,Neutral,0.678581714630127,Positive
+This is so highhh I will percevere,0.0,Neutral,0.16,Positive,0.678581714630127,Positive
 istg if i see one more dream smp stan in these comments who says “pog” unironically.,0.3167,Positive,0.5,Positive,-0.3347730934619903,Negative
-This is such an nice song,0.4215,Positive,0.3,Neutral,0.6410941481590271,Positive
-"At the end halluagh for the low part I donkey, not gonna lie. ( Not to be rude) but I am a good singer usually and I just can't low parts.",0.74,Positive,0.0299999999999999,Neutral,0.4897775948047638,Positive
+This is such an nice song,0.4215,Positive,0.3,Positive,0.6410941481590271,Positive
+"At the end halluagh for the low part I donkey, not gonna lie. ( Not to be rude) but I am a good singer usually and I just can't low parts.",0.74,Positive,0.0299999999999999,Positive,0.4897775948047638,Positive
 all of yall are good singers no matter what someone tells you,0.4265,Positive,0.7,Positive,0.3785509765148163,Positive
 i add some whistle notes,0.0,Neutral,0.0,Neutral,0.4540647268295288,Positive
-YOU’RE SO POWERFUL 🤩💕🙌,0.8708,Positive,0.3,Neutral,0.7471523284912109,Positive
+YOU’RE SO POWERFUL 🤩💕🙌,0.8708,Positive,0.3,Positive,0.7471523284912109,Positive
 Ever as choired another steel in the night oonn,0.0,Neutral,0.0,Neutral,0.7152979373931885,Positive
 Love this,0.6369,Positive,0.5,Positive,0.8656091690063477,Positive
 I know I’m not the only one who came here in honour of l’manburg.,0.5719,Positive,0.0,Neutral,0.3181946575641632,Neutral
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Ok but I sounded good 💅
-It you sounded good, don't be afraid to say it, cuz we wanna see some confidence up in here 🙌",0.9294,Positive,0.3249999999999999,Neutral,0.6392078399658203,Positive
+It you sounded good, don't be afraid to say it, cuz we wanna see some confidence up in here 🙌",0.9294,Positive,0.3249999999999999,Positive,0.6392078399658203,Positive
 I'm feel so sorry for my parents 🤧,-0.188,Negative,-0.5,Negative,-0.461058497428894,Negative
 I sang this for the school talent show I suck at singing tho😂😂,0.6908,Positive,0.0,Neutral,-0.4901483654975891,Negative
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Can we have the missing verses inserted please! Will be epic then... my singing not so!,0.1739,Positive,-0.0625,Negative,-0.384269505739212,Negative
 "Media 10 din 3 voturi
 
@@ -413,7 +413,7 @@ Cu duh zdrobit, adânc plecat, cu suflet trist, gândul zbuciumat
 3. Dumnezeu e neschimbat, şi vrednic de-a fi lăudat,
 Când sufletul surâde sau când plânge,
 Când drumu-i drept şi e luminat, când ceru-i greu şi-ntunecat,
-E demn să I se cânte Aleluia.",0.997,Positive,0.1286519607843137,Neutral,0.7670694589614868,Positive
+E demn să I se cânte Aleluia.",0.997,Positive,0.1286519607843137,Positive,0.7670694589614868,Positive
 "Once there was a special place
 where men had gone to emancipate 
 The brutality and tyranny of their ruler
@@ -484,7 +484,7 @@ A dal ura elé úgy léphetek,
 Hogy nyelvemen nincsen más, mint: Halleluja.
 Halleluja, Halleluja, Halleluja, Halleluja.
 Halleluja, Halleluja, Halleluja, Halleluja.
-Halleluja, Halleluja, Halleluja, Halleluja.",0.9995,Positive,0.0279411764705882,Neutral,-0.3510779440402984,Negative
+Halleluja, Halleluja, Halleluja, Halleluja.",0.9995,Positive,0.0279411764705882,Positive,-0.3510779440402984,Negative
 "A crown of thorns placed on His head
 He knew that He would soon be dead
 He said, ""Did you forget me, Father did you?""
@@ -531,7 +531,7 @@ Hallelujah, Hallelujah",0.9985,Positive,-0.0444444444444444,Negative,0.511593163
 Could I use this in a cover song?,0.0,Neutral,0.0,Neutral,0.2752017974853515,Neutral
 im looking for the l'manburg song,0.0,Neutral,0.0,Neutral,0.2597996592521667,Neutral
 0:31,0.0,Neutral,0.0,Neutral,-0.4826394021511078,Negative
-Jesus loves you so much!!,0.6467,Positive,0.3125,Neutral,0.8409386873245239,Positive
+Jesus loves you so much!!,0.6467,Positive,0.3125,Positive,0.8409386873245239,Positive
 "I used to use my brain before
 My preforntal cortex's been thrown out the door
 Cuz everyday I need to keep cooming...",0.0,Neutral,-0.2,Negative,-0.334529310464859,Negative
@@ -565,7 +565,7 @@ and at my cheeks it feels so sweet.
 As the story goes, the hands of a virgin
 are gentle and without fault;
 I who am evil when I adored you
-Becomes very kind when touched by you.",0.9905,Positive,0.2226984126984127,Neutral,0.542161226272583,Positive
+Becomes very kind when touched by you.",0.9905,Positive,0.2226984126984127,Positive,0.542161226272583,Positive
 I like it 😘😘😘,0.872,Positive,0.0,Neutral,0.4648337960243225,Positive
 Anyone else look this up just to sing my L'manburg??,0.0,Neutral,0.0,Neutral,-0.5208052396774292,Negative
 What ya know about rolling down in the deep end,0.0,Neutral,-0.0777777777777777,Negative,0.4660366773605346,Positive
@@ -579,11 +579,11 @@ I LOVE THIS LOL,0.8151,Positive,0.65,Positive,0.8664848804473877,Positive
 Can I use this for a cover video im making.,0.0,Neutral,0.0,Neutral,0.2957276403903961,Neutral
 "I really like to sing to this song.. It calms me down.
 To all to the people that think their voice sucks, it doesn't! I may be a stranger, but I can tell you it doesn't. 
-Love yourself! <3",-0.8151,Negative,0.2588888888888888,Neutral,0.4396999478340149,Positive
+Love yourself! <3",-0.8151,Negative,0.2588888888888888,Positive,0.4396999478340149,Positive
 My Nan die with this song,-0.5994,Negative,0.0,Neutral,0.3875117599964142,Positive
 I can’t stop singing this without blurting out the L’mamberg anthem lyrics,-0.296,Negative,0.0,Neutral,-0.3830403983592987,Negative
 You pop 💩,0.0,Neutral,0.0,Neutral,-0.2761813402175903,Negative
-i have pretty voice,0.4939,Positive,0.25,Neutral,0.4187557697296142,Positive
+i have pretty voice,0.4939,Positive,0.25,Positive,0.4187557697296142,Positive
 I LOVE THIS SONNNNG THX FOR MAKING KARAOKE,0.7717,Positive,0.5,Positive,0.8492875695228577,Positive
 Blessings,0.5423,Positive,0.0,Neutral,0.6156867146492004,Positive
 Published on 18 May 2025,0.0,Neutral,0.0,Neutral,-0.3716442286968231,Negative
@@ -628,7 +628,7 @@ Con que acaben con tanta furia, Aleluya
 
 Aleluya, Aleluya, Aleluya, Aleluya
 
-Aleluya, Aleluya, Aleluya, Aleluya",0.9977,Positive,0.1765151515151515,Neutral,-0.3001151084899902,Negative
+Aleluya, Aleluya, Aleluya, Aleluya",0.9977,Positive,0.1765151515151515,Positive,-0.3001151084899902,Negative
 lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 Why?,0.0,Neutral,0.0,Neutral,-0.3898598551750183,Negative
 "MY L’MAN- 
@@ -683,7 +683,7 @@ Here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-We sing L’Manburg",0.9153,Positive,0.1396825396825396,Neutral,0.5154554843902588,Positive
+We sing L’Manburg",0.9153,Positive,0.1396825396825396,Positive,0.5154554843902588,Positive
 "A crown of thorns placed on His head
 He knew that He would soon be dead
 He said did you forget me Father, did you?
@@ -773,7 +773,7 @@ In soare sau ploaie mereu
 Si-auzi ingerii cum cinta, Aleluia.
 
 Aleluia, Aleluia.
-Aleluia, Aleluuuuuia.",0.9982,Positive,0.2138095238095238,Neutral,0.3790871202945709,Positive
+Aleluia, Aleluuuuuia.",0.9982,Positive,0.2138095238095238,Positive,0.3790871202945709,Positive
 Hello from dxd,0.0,Neutral,0.0,Neutral,0.4388157427310943,Positive
 Sending love and support,0.7845,Positive,0.5,Positive,0.6031244993209839,Positive
 wow!!! can i use this inst? for cover :),0.826,Positive,0.34765625,Positive,0.7968876957893372,Positive
@@ -816,7 +816,7 @@ Hallelujah, Hallelujah
 Hallelujah, Hallelujah
 Hallelujah, Hallelujah
 Hallelujah, Hallelujah
-Hallelujah, Hallelujah",0.9995,Positive,0.1445833333333333,Neutral,0.3686457574367523,Positive
+Hallelujah, Hallelujah",0.9995,Positive,0.1445833333333333,Positive,0.3686457574367523,Positive
 I recorded myself singing this and actually enjoyed my voice.,0.5106,Positive,0.5,Positive,0.599465012550354,Positive
 "I just sang this song, and i actually think i sounded good :)",0.7096,Positive,0.3999999999999999,Positive,0.5181489586830139,Positive
 replaces lyrics with lmanburg anthem,0.0,Neutral,0.0,Neutral,0.3056241869926452,Neutral
@@ -836,7 +836,7 @@ Me, sobbing: …. Special place
 The world: Goddamnit",0.0258,Neutral,0.3571428571428571,Positive,-0.3791960179805755,Negative
 "Someone speak in Spanish? 
 Alguien habla en español?",0.0,Neutral,0.0,Neutral,-0.4882058501243591,Negative
-"I think I’ve gotten better.. I’ve heard myself sing on recording and I’ve improved, I think I sound good ! Just obviously not good enough to be a singer",0.7774,Positive,0.285,Neutral,0.5770036578178406,Positive
+"I think I’ve gotten better.. I’ve heard myself sing on recording and I’ve improved, I think I sound good ! Just obviously not good enough to be a singer",0.7774,Positive,0.285,Positive,0.5770036578178406,Positive
 Never give up!,0.0,Neutral,0.0,Neutral,0.6287651658058167,Positive
 i sang my l'manbug words instead xD,0.5859,Positive,0.0,Neutral,-0.4582909941673279,Negative
 "[Verse 1]
@@ -888,7 +888,7 @@ Here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-We sing L’Manburg",0.8957,Positive,0.1396825396825396,Neutral,0.5448876023292542,Positive
+We sing L’Manburg",0.8957,Positive,0.1396825396825396,Positive,0.5448876023292542,Positive
 salute to the national anthem,0.0,Neutral,0.0,Neutral,0.5589709877967834,Positive
 LMANBERG,0.0,Neutral,0.0,Neutral,0.2487739324569702,Neutral
 "David: *plays chord*
@@ -898,9 +898,9 @@ It: ""this""
 *The 4th and the 5th happen subsequently*
 Minor: *falls*
 Major: *lifts*
-King: *Baffled, but composing* ""Hallelujah""",0.8294,Positive,0.2041666666666666,Neutral,0.4028776586055755,Positive
+King: *Baffled, but composing* ""Hallelujah""",0.8294,Positive,0.2041666666666666,Positive,0.4028776586055755,Positive
 "Normal people singing this song
-Me and dream smp fans: MY L'MANBERG MY L'MANBERG!",0.3164,Positive,0.1875,Neutral,0.2615929245948791,Neutral
+Me and dream smp fans: MY L'MANBERG MY L'MANBERG!",0.3164,Positive,0.1875,Positive,0.2615929245948791,Neutral
 o7,0.0,Neutral,0.0,Neutral,0.2715567648410797,Neutral
 me llego al alma,0.1027,Positive,0.0,Neutral,0.6113337278366089,Positive
 Me casually singing the L'manburg anthem,0.1779,Positive,-0.5000000000000001,Negative,0.2608549296855926,Neutral
@@ -969,7 +969,7 @@ And from every lips fro here up to infinity;
 We sing L’Manberg
 We sing L’Manberg
 We sing L’Manberg
-To our L’Manberg",0.3612,Positive,0.0571428571428571,Neutral,0.4529531598091125,Positive
+To our L’Manberg",0.3612,Positive,0.0571428571428571,Positive,0.4529531598091125,Positive
 "Don't worry, you're a good singer. Try your best and never give up!!",0.8776,Positive,0.85,Positive,0.6817938685417175,Positive
 i love hallelujia,0.8481,Positive,0.5,Positive,0.6993630528450012,Positive
 Come on you guys are crazy,-0.34,Negative,-0.6,Negative,0.4032981395721435,Positive
@@ -988,7 +988,7 @@ It's a very big and definitely blown up L'manberg
 Bye, L'manberg
 Bye, L'manberg
 Bye, L'manberg
-Bye, L'manberg",0.4381,Positive,0.1517857142857143,Neutral,-0.324698656797409,Negative
+Bye, L'manberg",0.4381,Positive,0.1517857142857143,Positive,-0.324698656797409,Negative
 Love this song,0.6369,Positive,0.5,Positive,0.8493074774742126,Positive
 My parents was crying because I sing this song and they think I’m singing very good 😂,0.4576,Positive,0.355,Positive,0.6056840419769287,Positive
 I'm so happy I'm not the only one here because of L'Manburg,0.6115,Positive,0.4,Positive,0.6364627480506897,Positive
@@ -1003,13 +1003,13 @@ My l’manbuuurrggg,0.0,Neutral,0.0,Neutral,0.2813656032085418,Neutral
 I´ts very cool,0.3804,Positive,0.4549999999999999,Positive,0.674736499786377,Positive
 Omg Hallelujah amazing!!!,0.865,Positive,1.0,Positive,0.8592826724052429,Positive
 „Maybe there is a God above“ oh definitely there is?,0.5859,Positive,0.0,Neutral,-0.4164769053459167,Negative
-"C Am я слышал тайный, звукоряд C Am Давид играет- царь так рад F G C G ну что тебе до музыки спрошу я. C F E один аккорд,другой аккорд Am F упал минор, влетел мажор G E Am И царь поёт в восторге, Аллилуйя! F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. C Am Ты верил , но хотел бы знать C Am смотрел, она ложилась спать F G C G краса в лучах луны твой мир встрехнула C F E ты связан был, разбит твой трон Am F ты ей извержен как Самсон G E Am из губ твоих срывалось Аллилуйя! F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. ... C Am я точно в тех краях бывал C Am здесь прежде шел и помню зал F G C G до этой встречи жизнь летела всуе C F E Твой поднят флаг на самый вверх Am F но жаль любовь не марш побед G E Am а холод всех неспетых Аллилуйя, F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. ... C Am Вы правы,я святых не знал C Am имен,но все же я взывал F G C G к тому чьё имя не помянешь суе C F E любой глагол, горит огнем Am F когда я слышу святость в нем G E Am когда он хоть немного Аллилуйя, F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. C Am пусть сделал я, лишь то,что смог C Am и шёл путем, ошибок прок F G C G но хоть шутом не стал в чумном пиру я. C F E пусть крахом обернется путь Am F но Господу в глаза взглянуть G E Am смогу я лишь со словом , Аллилуйя! F Am F Am Hallelujah, Hallelujah, Hallelujah, Hallelujah F Am F C G C Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.9995,Positive,0.0860212053571428,Neutral,-0.2990873754024505,Negative
+"C Am я слышал тайный, звукоряд C Am Давид играет- царь так рад F G C G ну что тебе до музыки спрошу я. C F E один аккорд,другой аккорд Am F упал минор, влетел мажор G E Am И царь поёт в восторге, Аллилуйя! F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. C Am Ты верил , но хотел бы знать C Am смотрел, она ложилась спать F G C G краса в лучах луны твой мир встрехнула C F E ты связан был, разбит твой трон Am F ты ей извержен как Самсон G E Am из губ твоих срывалось Аллилуйя! F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. ... C Am я точно в тех краях бывал C Am здесь прежде шел и помню зал F G C G до этой встречи жизнь летела всуе C F E Твой поднят флаг на самый вверх Am F но жаль любовь не марш побед G E Am а холод всех неспетых Аллилуйя, F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. ... C Am Вы правы,я святых не знал C Am имен,но все же я взывал F G C G к тому чьё имя не помянешь суе C F E любой глагол, горит огнем Am F когда я слышу святость в нем G E Am когда он хоть немного Аллилуйя, F Am F C G C G Аллилуйя, Аллилуйя ,Аллилуйя ,Аллилуйя. C Am пусть сделал я, лишь то,что смог C Am и шёл путем, ошибок прок F G C G но хоть шутом не стал в чумном пиру я. C F E пусть крахом обернется путь Am F но Господу в глаза взглянуть G E Am смогу я лишь со словом , Аллилуйя! F Am F Am Hallelujah, Hallelujah, Hallelujah, Hallelujah F Am F C G C Hallelujah, Hallelujah, Hallelujah, Hallelujah",0.9995,Positive,0.0860212053571428,Positive,-0.2990873754024505,Negative
 #restorethesnyderverse,0.0,Neutral,0.0,Neutral,-0.3301942944526672,Negative
-And it’s soo fun,0.5106,Positive,0.3,Neutral,0.435258537530899,Positive
+And it’s soo fun,0.5106,Positive,0.3,Positive,0.435258537530899,Positive
 Ya,0.4019,Positive,0.0,Neutral,0.3032100796699524,Neutral
-je crois que les paroles ne sont pas placées au bon moment de la musique,0.0,Neutral,0.2857142857142857,Neutral,-0.5051158666610718,Negative
+je crois que les paroles ne sont pas placées au bon moment de la musique,0.0,Neutral,0.2857142857142857,Positive,-0.5051158666610718,Negative
 ❤️👍🙏🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"Va demasiado deprisa. ¿¿Puedes por favor hacerlo mas lento, tal como está la cancion?? Gracias",0.6322,Positive,0.2,Neutral,-0.5840862393379211,Negative
+"Va demasiado deprisa. ¿¿Puedes por favor hacerlo mas lento, tal como está la cancion?? Gracias",0.6322,Positive,0.2,Positive,-0.5840862393379211,Negative
 I can sing,0.0,Neutral,0.0,Neutral,0.4836528897285461,Positive
 I feel bad for woodlands high school right now,-0.5423,Negative,-0.0847619047619047,Negative,-0.425014466047287,Negative
 I sound like a dying duck at a lake.,0.3612,Positive,0.4,Positive,-0.4342178702354431,Negative
@@ -1045,8 +1045,8 @@ Most itt állok, a szívem lángra gyúlva
 Hallelujah, hallelujah
 Hallelujah, hallelujah
 Hallelujah, hallelujah
-Hallelujah, hallelujah",0.999,Positive,0.1541666666666667,Neutral,0.4484638571739197,Positive
-"I don’t even know the real song, I just sing My L’Manberg",0.0,Neutral,0.2,Neutral,-0.4237192571163177,Negative
+Hallelujah, hallelujah",0.999,Positive,0.1541666666666667,Positive,0.4484638571739197,Positive
+"I don’t even know the real song, I just sing My L’Manberg",0.0,Neutral,0.2,Positive,-0.4237192571163177,Negative
 I love this song its like im inlove with it,0.7717,Positive,0.5,Positive,0.7960324883460999,Positive
 "Look up to the sky and say
 ""It was never meant to be""",0.0,Neutral,0.0,Neutral,-0.2980381548404693,Negative
@@ -1115,7 +1115,7 @@ Here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-We sing L’Manburg",0.8957,Positive,0.1396825396825396,Neutral,0.5369047522544861,Positive
+We sing L’Manburg",0.8957,Positive,0.1396825396825396,Positive,0.5369047522544861,Positive
 "айв хёрд зеэр уаз э ˈсикрэт корд зэт ˈдейвид плейд, энд ит плизд зэ лорд бат ю дoунт ˈрили кер фор ˈмьюзик, ду ю? ит гoуз лайк зис зэ форс, зэ фифс зэ ˈмайнэр фол, зэ ˈмейджэр лифт зэ ˈбэфэлд кин кэмˈпoузин ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ юэр фейс уаз строн бат ю ˈнидэд пруф ю со хёр ˈбейзин ан зэ руф хёр ˈбьюти ин зэ ˈмунˌлайт ˌoувэрˈсру ю ши тайд ю ту э ˈкичэн чер ши брoук юэр срoун, ши кат юэр хер энд фрам юэр липс ши дру зэ ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˈмейби айв бин хир биˈфор ай нoу зис рум, айв уокт зис флор ай юзд ту лив эˈлoун биˈфор ай ну ю айв син юэр флэг ан зэ ˈмарбэл арч лав из нат э ˈвиктэри марч итс э кoулд энд итс э ˈбрoукэн ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ зеэр уаз э тайм юд лет ми нoу уатс рил энд ˈгoуин ан биˈлoу бат нaу ю ˈневэр шoу ит ту ми ду ю? риˈмембэр уэн ай мувд ин ю? зэ ˈхoули дарк уаз ˈмувин ту энд ˈевэри брес уи дру уаз ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˈмейби зеэрз э гад эˈбав энд ол ай ˈевэр лёрнд фрам лав уаз хaу ту шут эт ˈсамˌуан ху outdrew ю итс нат э край ю кэн хир эт найт итс нат ˈсамˌбади хуз син зэ лайт итс э кoулд энд итс э ˈбрoукэн ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ ˌхэлэˈлуйэ, ˌхэлэˈлуйэ",-0.6298,Negative,-0.0999999999999999,Negative,-0.2346933484077453,Negative
 ich liebe dieses lied danke,0.7964,Positive,0.35,Positive,0.798793613910675,Positive
 Please go check out my cover of this song if you have time. It would mean the absolute world to me! 🎵🌼https://youtu.be/xYIHq0yMORw,0.3802,Positive,-0.03125,Negative,0.2827933430671692,Neutral
@@ -1125,9 +1125,9 @@ My L'Manburg o7,0.0,Neutral,0.0,Neutral,0.5325812697410583,Positive
 L'manberg,0.0,Neutral,0.0,Neutral,0.2697747349739074,Neutral
 Saya tahu lagu ini dari kertun sherk 1 he he he,0.0,Neutral,0.0,Neutral,0.3095044195652008,Neutral
 "Normal people: sings the actual song
-Us Dream SMP stans: proudly sings the L'manberg anthem o7",0.6808,Positive,0.3166666666666667,Neutral,0.3093532621860504,Neutral
+Us Dream SMP stans: proudly sings the L'manberg anthem o7",0.6808,Positive,0.3166666666666667,Positive,0.3093532621860504,Neutral
 where my duplicity Stans,0.0,Neutral,0.0,Neutral,0.2603045701980591,Neutral
-My grandkid she live this song,0.0,Neutral,0.1363636363636363,Neutral,0.6765601634979248,Positive
+My grandkid she live this song,0.0,Neutral,0.1363636363636363,Positive,0.6765601634979248,Positive
 OMG tysm sing king i won this talent show at school from THiSSS EEKK,0.7876,Positive,0.0,Neutral,0.6837878823280334,Positive
 i heard there was a special place...,0.4019,Positive,0.3571428571428571,Positive,0.3009760975837707,Neutral
 Hello Karaoke Fans 🎶,0.0,Neutral,0.0,Neutral,0.5100183486938477,Positive
@@ -1159,11 +1159,11 @@ Well the darkness came and then it went
 We built a home and watched it sink
 And from the rubble
 Emerged my great
-L’Manburg",0.9231,Positive,0.1914285714285714,Neutral,0.5085741281509399,Positive
+L’Manburg",0.9231,Positive,0.1914285714285714,Positive,0.5085741281509399,Positive
 Relow,0.0,Neutral,0.0,Neutral,0.3842787444591522,Positive
 "POV: 
-You sung this and your actually shocked that your an amazing singer and you wish people complimented them selves more",0.7906,Positive,0.1333333333333334,Neutral,0.5583433508872986,Positive
-I really came on here to sing the Lmanberg National anthem,0.0,Neutral,0.2,Neutral,0.5722451210021973,Positive
+You sung this and your actually shocked that your an amazing singer and you wish people complimented them selves more",0.7906,Positive,0.1333333333333334,Positive,0.5583433508872986,Positive
+I really came on here to sing the Lmanberg National anthem,0.0,Neutral,0.2,Positive,0.5722451210021973,Positive
 😌😌😌😊,0.9153,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I — I hit tHE NOTTEEE,0.0,Neutral,0.0,Neutral,0.3872652649879455,Positive
 "I'll say one word ""l,manburg""😎",0.4588,Positive,0.0,Neutral,-0.54883873462677,Negative
@@ -1209,7 +1209,7 @@ And from every lips fro here up to infinity;
 We sing L’Manberg
 We sing L’Manberg
 We sing L’Manberg
-To our L’Manberg",0.3612,Positive,0.0653061224489795,Neutral,0.4757269918918609,Positive
+To our L’Manberg",0.3612,Positive,0.0653061224489795,Positive,0.4757269918918609,Positive
 https://youtu.be/yfo-96-yjqs,0.0,Neutral,0.0,Neutral,0.2290605008602142,Neutral
 "for every body trying to sing the L'Manburg National Anthem Here you go
 
@@ -1262,15 +1262,15 @@ Here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-To our L’Manburg",0.936,Positive,0.2071428571428571,Neutral,0.6422203779220581,Positive
+To our L’Manburg",0.936,Positive,0.2071428571428571,Positive,0.6422203779220581,Positive
 o7,0.0,Neutral,0.0,Neutral,0.2715567648410797,Neutral
 Linda canción,0.4215,Positive,0.6,Positive,0.2871541976928711,Neutral
-Got it right at the beginning...until the ending something just threw me off couldn't finish smoothly😂😂,0.7003,Positive,0.2857142857142857,Neutral,-0.3424097895622253,Negative
+Got it right at the beginning...until the ending something just threw me off couldn't finish smoothly😂😂,0.7003,Positive,0.2857142857142857,Positive,-0.3424097895622253,Negative
 my l'manburg~,0.0,Neutral,0.0,Neutral,0.468925267457962,Positive
 Tysm,0.0,Neutral,0.0,Neutral,-0.2832041680812835,Negative
 bestes lied ever,0.6369,Positive,1.0,Positive,0.9433506727218628,Positive
 Can i use this track for my cover?,0.0,Neutral,0.0,Neutral,0.2829044163227081,Neutral
-I came here to see if other dsmp fans are here and we'll I've found them :),0.4588,Positive,0.1875,Neutral,0.3832089304924011,Positive
+I came here to see if other dsmp fans are here and we'll I've found them :),0.4588,Positive,0.1875,Positive,0.3832089304924011,Positive
 Hey guys I am going to sing this tomorrow wish me luck,0.6908,Positive,0.0,Neutral,0.4591600596904754,Positive
 "[Verse 1]
 I heard there was a special place, Where men could go emancipate, The brutality and tyranny of their rulers 
@@ -1302,8 +1302,8 @@ We sing L'Manburg
 We sing L'Manberg 
 We sing L'Manberg 
 
-Im putting this for myself but you can use it if you want to, this version is straight from the book",0.7003,Positive,0.1510204081632652,Neutral,0.3974659144878387,Positive
-Glad im not the only one singing the lamanburg anthem,0.4588,Positive,0.25,Neutral,0.274448961019516,Neutral
+Im putting this for myself but you can use it if you want to, this version is straight from the book",0.7003,Positive,0.1510204081632652,Positive,0.3974659144878387,Positive
+Glad im not the only one singing the lamanburg anthem,0.4588,Positive,0.25,Positive,0.274448961019516,Neutral
 "No one: 
 Me: "" I heard there was a special place, where men could go emancipate, the brutality and tyranny of there rulers""",-0.5423,Negative,0.3571428571428571,Positive,-0.4851415753364563,Negative
 What key is this in? I'm too lazy to play it on my keyboard to check...,-0.0258,Neutral,-0.125,Negative,-0.3811309039592743,Negative
@@ -1327,22 +1327,22 @@ für jetzt und alle Ewigkeit
 Der Tod kann uns nicht trennen – Hallelujah
 Denn Gott nahm dich an seiner Hand
 und zeigte dir ein neues Land
-Du bist jetzt unser Engel – Hallelujah",0.9961,Positive,0.1593434343434343,Neutral,0.6954337358474731,Positive
+Du bist jetzt unser Engel – Hallelujah",0.9961,Positive,0.1593434343434343,Positive,0.6954337358474731,Positive
 Anyone else here thinking about L'manberg?,0.0,Neutral,0.0,Neutral,-0.4069693684577942,Negative
 whenever i hear this song i think of wilbur soot singing this as everything on the SMP is getting blown up.,0.0,Neutral,0.0,Neutral,-0.3652762770652771,Negative
 Original singer is Leonard Cohen check him out,0.3182,Positive,0.375,Positive,0.2727159857749939,Neutral
-Minchia ho provato col karaoke sono stata bravissima! Modestamente!,-0.2242,Negative,0.2416666666666666,Neutral,0.3904650509357452,Positive
+Minchia ho provato col karaoke sono stata bravissima! Modestamente!,-0.2242,Negative,0.2416666666666666,Positive,0.3904650509357452,Positive
 Cn u plzz send me ur dis track,0.0772,Positive,0.0,Neutral,-0.4908906817436218,Negative
 May my neighbors forgive me at this moment! 🤭🤗,0.8122,Positive,0.0,Neutral,0.5236444473266602,Positive
-Hey I don’t ever ask for people to make karaoke for songs and I don’t even know if it’s a thing 😂 but I honestly love singing songs from your channel I mean you don’t have to but there’s a song called the sorting hat and if you watch Harry Potter you will know what I mean but I looked and there is no karaoke version of the song and I think it would be a great song to sing karaoke you don’t have to I just would really love it,0.9746,Positive,0.235,Neutral,0.4111914038658142,Positive
+Hey I don’t ever ask for people to make karaoke for songs and I don’t even know if it’s a thing 😂 but I honestly love singing songs from your channel I mean you don’t have to but there’s a song called the sorting hat and if you watch Harry Potter you will know what I mean but I looked and there is no karaoke version of the song and I think it would be a great song to sing karaoke you don’t have to I just would really love it,0.9746,Positive,0.235,Positive,0.4111914038658142,Positive
 Who’s still doing this in 2021 ❤️,0.0,Neutral,0.0,Neutral,0.4992667436599731,Positive
 Who also heard about a special place ?,0.4019,Positive,0.3571428571428571,Positive,0.2457304894924163,Neutral
 Only me singing the lmanburg anthem,0.0,Neutral,0.0,Neutral,-0.2803020775318146,Negative
 Linda musica,0.0,Neutral,0.0,Neutral,0.385385662317276,Positive
 I`m a girl and when I sing that my dog go sleep    LOL,0.5473,Positive,0.8,Positive,-0.3237898051738739,Negative
 I remeber doing a solo to this song when i was younger-,0.0,Neutral,0.0,Neutral,0.244186669588089,Neutral
-Im buddisht can I sing this song ? i really love this song but my mom said dont cause its about the religion and im still wondering if its true that other religions couldnt sing it,0.7541,Positive,0.2416666666666666,Neutral,0.2552198767662048,Neutral
-This has a few mistakes but it’s good,0.4767,Positive,0.2499999999999999,Neutral,0.562224268913269,Positive
+Im buddisht can I sing this song ? i really love this song but my mom said dont cause its about the religion and im still wondering if its true that other religions couldnt sing it,0.7541,Positive,0.2416666666666666,Positive,0.2552198767662048,Neutral
+This has a few mistakes but it’s good,0.4767,Positive,0.2499999999999999,Positive,0.562224268913269,Positive
 00:09,0.0,Neutral,0.0,Neutral,-0.2600977420806885,Negative
 00:10,0.0,Neutral,0.0,Neutral,-0.2474188357591629,Negative
 Cute,0.4588,Positive,0.5,Positive,0.4543334245681762,Positive
@@ -1397,10 +1397,10 @@ Here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-We sing L’Manburg",0.8957,Positive,0.1396825396825396,Neutral,0.5465253591537476,Positive
+We sing L’Manburg",0.8957,Positive,0.1396825396825396,Positive,0.5465253591537476,Positive
 "hello everyone, please check out my cover of this song over on my channel https://youtu.be/VJ4Y8cbGRFg
 It would mean so much to me if you could give it a like 
-Have a lovely day x",0.8225,Positive,0.1291666666666666,Neutral,-0.2991420030593872,Negative
+Have a lovely day x",0.8225,Positive,0.1291666666666666,Positive,-0.2991420030593872,Negative
 Hallelujah,0.6124,Positive,0.0,Neutral,0.450610488653183,Positive
 Anyone else singing the lmanburg anthem??,0.0,Neutral,0.0,Neutral,-0.5642241835594177,Negative
 Hello to dream SMP fans :),0.6124,Positive,0.5,Positive,0.5865873098373413,Positive
@@ -1438,7 +1438,7 @@ Absolutely no one
 
 
 Me: I heard there was a special place, where men could go emancipate, the brutality and tyranny on its ruler, Thais place is real no need to fret with Wilber Tommy tubbo f*ck eret a pretty big and not blown up l’manburg, my l’manburg,
-my l’manburg, my l’manburg, my l’maaaaAaAnbuUuuuuUrggggg",-0.6115,Negative,0.1414285714285714,Neutral,-0.7464274168014526,Negative
+my l’manburg, my l’manburg, my l’maaaaAaAnbuUuuuuUrggggg",-0.6115,Negative,0.1414285714285714,Positive,-0.7464274168014526,Negative
 "GUYS THERE ARE LYRICS FOR THE L'MANBURG VERSION: 
 I heated there was special place
 where man cloud go and emancipace.
@@ -1458,8 +1458,8 @@ And from here I can see my L'manburg
 My L'manburg
 My L'manburg
 My L'manburg
-My L'manburg",0.4878,Positive,0.1706349206349206,Neutral,0.4316392242908478,Positive
-We know you search karoke up for the background music for you to sound better but in reality we all sound like shit when we decide to record ourselves,-0.1779,Negative,0.275,Neutral,-0.4125692546367645,Negative
+My L'manburg",0.4878,Positive,0.1706349206349206,Positive,0.4316392242908478,Positive
+We know you search karoke up for the background music for you to sound better but in reality we all sound like shit when we decide to record ourselves,-0.1779,Negative,0.275,Positive,-0.4125692546367645,Negative
 "*3 am*
 Me: Hallelujah,HALLELUJAH,Hallelujahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",0.8668,Positive,0.0,Neutral,0.2738601267337799,Neutral
 well I heard there was a special place...,0.5859,Positive,0.3571428571428571,Positive,0.3286608159542084,Neutral
@@ -1470,7 +1470,7 @@ My graduation song,0.0,Neutral,0.0,Neutral,0.5378621220588684,Positive
 Came here and ended up singing My L’manburg o7,0.0,Neutral,0.0,Neutral,0.3409218490123749,Positive
 "Who else is singing this, but replacing the lyrics with the L’Manburg national anthem instead 😂😂🤣🤣🤣🤣
 
-Edit: holy shit, 86 likes...wow, thank you, I’ve never gotten this many before",0.9676,Positive,0.15,Neutral,-0.6966155767440796,Negative
+Edit: holy shit, 86 likes...wow, thank you, I’ve never gotten this many before",0.9676,Positive,0.15,Positive,-0.6966155767440796,Negative
 "A crown of thorns placed on His head
 He knew that He would soon be dead
 He said, ""Did you forget me, Father did you?""
@@ -1515,7 +1515,7 @@ Hallelujah, Hallelujah
 Hallelujah, Hallelujah",0.9985,Positive,-0.0444444444444444,Negative,0.5115931630134583,Positive
 Please do : Thomas Lauderdale with Pink Martini - I Lost Myself,0.0,Neutral,-0.1,Negative,-0.3525170981884002,Negative
 Dis is my favorite song so im try to sing dis,0.4588,Positive,0.5,Positive,0.7012127041816711,Positive
-OMG I GOT UP ON THE HiGH NOTE YES YES YES YES,0.9291,Positive,0.16,Neutral,0.2499168217182159,Neutral
+OMG I GOT UP ON THE HiGH NOTE YES YES YES YES,0.9291,Positive,0.16,Positive,0.2499168217182159,Neutral
 I got goosebumps singing but not because it was good 💀,0.5927,Positive,0.7,Positive,0.4337303638458252,Positive
 Selamat hari Jumat agung semuaa🤗💜,0.765,Positive,0.75,Positive,0.4077080488204956,Positive
 "Me: *singing at the top of my lungs*
@@ -1550,8 +1550,8 @@ MY L'MANBERG
 MY L'MANBERG 
 o7",0.0,Neutral,0.0,Neutral,0.5104737281799316,Positive
 one word: lmanburg,0.0,Neutral,0.0,Neutral,-0.4545415043830871,Negative
-I sang this out loud at a school assembly but i thought i sang it in my head and i was surprised with what happened after that,0.3291,Positive,0.1,Neutral,0.2848931849002838,Neutral
-"yo, this key is wayyyyyyyyyy tooooo fucking high",0.0,Neutral,0.08,Neutral,-0.3763565421104431,Negative
+I sang this out loud at a school assembly but i thought i sang it in my head and i was surprised with what happened after that,0.3291,Positive,0.1,Positive,0.2848931849002838,Neutral
+"yo, this key is wayyyyyyyyyy tooooo fucking high",0.0,Neutral,0.08,Positive,-0.3763565421104431,Negative
 "Dream smp fans: *unite and sing with me*
 
 I heard there was a special place,
@@ -1591,13 +1591,13 @@ And from every lips fro here up to infinity;
 We sing L’Manberg
 We sing L’Manberg
 We sing L’Manberg
-We sing L’Manberg",0.7906,Positive,0.1428571428571428,Neutral,0.5683668255805969,Positive
+We sing L’Manberg",0.7906,Positive,0.1428571428571428,Positive,0.5683668255805969,Positive
 "Everyone is singing the actual song and I’m here singing the L’manburg anthem
 o7",0.0,Neutral,0.0,Neutral,0.4662847518920898,Positive
 "Hi everyone, I just wanted you all to know that your all beautiful just the way you are. No matter what race you are, the clothes you wear, how you do your hair, how you talk, etc. You Don't ever have to change anything about you. As Alessia Cara Said in Scars To Your Beautiful ""You should know you're beautiful just the way you are. And you don't have to change a thing. The world could change its heart. No scars to your beautiful. We're stars and we're beautiful"". Those lyrics are always going to be true. Remember to always be positive even if your at your worst. Remember that its not what's on the outside its what's on the inside! I know that we are in this pandemic and stuff but we all will get through this together. Please copy and share this to others. Hope you have a nice day byee!!!",0.9777,Positive,0.4827272727272727,Positive,0.5628731846809387,Positive
 "lo
  l i",0.0,Neutral,0.0,Neutral,0.2786169946193695,Neutral
-moi et ma copine clarox on a trop validad c’est la bebom 💝💝💝,0.9274,Positive,0.2,Neutral,0.3604706227779388,Positive
+moi et ma copine clarox on a trop validad c’est la bebom 💝💝💝,0.9274,Positive,0.2,Positive,0.3604706227779388,Positive
 Can it be downloaded,0.0,Neutral,0.0,Neutral,0.2554135918617248,Neutral
 Im in the bathroom while singing this :D,0.6995,Positive,1.0,Positive,-0.3264616727828979,Negative
 SNYDER CUT,-0.2732,Negative,0.0,Neutral,0.2858066856861114,Neutral
@@ -1639,7 +1639,7 @@ And from here I can see my L'Manbеrg
 Oh, my L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.4878,Positive,0.1706349206349206,Neutral,0.5741966962814331,Positive
+My L'Manberg",0.4878,Positive,0.1706349206349206,Positive,0.5741966962814331,Positive
 So I was playing truth or dare with some friends and they dared me to sing this with karaoke they said it was good but they lyingg,0.6348,Positive,0.7,Positive,0.3977604508399963,Positive
 "Pai eu quero te amar
 Tocar o teu coração e
@@ -1676,7 +1676,7 @@ Aleluia, aleluia
 Aleluia, aleluia
 A ti senhor, aleluia
 Aleluia, aleluia
-Aleluia, aleluia",0.999,Positive,0.2452020202020202,Neutral,0.6977978944778442,Positive
+Aleluia, aleluia",0.999,Positive,0.2452020202020202,Positive,0.6977978944778442,Positive
 Jesus bless you guys,0.4215,Positive,0.0,Neutral,-0.4573262929916382,Negative
 Jesus Saves!!!!!!! Romans 10:9-11! Ephesians 2:8-9! John 3:16! Romans 6:23! Repent before it’s to late!!!,0.0,Neutral,-0.5859375,Negative,0.4702565670013428,Positive
 halleluja,0.6124,Positive,0.0,Neutral,0.3135107755661011,Neutral
@@ -1696,7 +1696,7 @@ Ya Ilahi... Ya Ilahi",0.0,Neutral,0.0,Neutral,-0.3307252824306488,Negative
 LOL",0.9274,Positive,0.5333333333333333,Positive,0.3103288412094116,Neutral
 trying to sing this with a cough that won't go away isn't going well B),-0.2057,Negative,0.0,Neutral,-0.4438216984272003,Negative
 "Normal people: Hallelujah
-The bois: My l'manburg",0.6124,Positive,0.15,Neutral,0.3108923435211181,Neutral
+The bois: My l'manburg",0.6124,Positive,0.15,Positive,0.3108923435211181,Neutral
 "No one: 
 
 Literally nobody:
@@ -1745,7 +1745,7 @@ And from every lips from here up to infinity.
 We sing L'Manberg
 We sing L'Manberg
 We sing L'Manberg
-We sing L'Manberg",0.5106,Positive,0.0928571428571428,Neutral,0.5990262627601624,Positive
+We sing L'Manberg",0.5106,Positive,0.0928571428571428,Positive,0.5990262627601624,Positive
 My L’manberg... My unfinished symphony.,0.0,Neutral,0.0,Neutral,0.6257081031799316,Positive
 doing this in the shower,0.0,Neutral,0.0,Neutral,0.4821119010448456,Positive
 Hope my neighbors like this song,0.6597,Positive,0.0,Neutral,0.6301258206367493,Positive
@@ -1807,7 +1807,7 @@ And from every lips fro here up to infinity
 We sing L’Manburg
 We sing L’Manburg
 We sing L’Manburg
-We sing L’Manburg",0.936,Positive,0.2071428571428571,Neutral,0.6201559901237488,Positive
+We sing L’Manburg",0.936,Positive,0.2071428571428571,Positive,0.6201559901237488,Positive
 "No one:
 
 
@@ -1884,7 +1884,7 @@ And from here I can see my L'Manbеrg
 Oh, my L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.6386,Positive,0.1706349206349206,Neutral,0.5679399371147156,Positive
+My L'Manberg",0.6386,Positive,0.1706349206349206,Positive,0.5679399371147156,Positive
 My Lmanburg o7,0.0,Neutral,0.0,Neutral,0.5827953219413757,Positive
 just singing the l’manburg anthem yk,0.0,Neutral,0.0,Neutral,0.3018216788768768,Neutral
 Lmanberg anyone?,0.0,Neutral,0.0,Neutral,-0.5380476713180542,Negative
@@ -1902,7 +1902,7 @@ It's a very big and not blown up L'Manburg
 My L'Manburg
 My L'Manburg
 My L'Manburg..
-...My L'Manburg....",-0.5719,Negative,0.0392857142857142,Neutral,0.392093151807785,Positive
+...My L'Manburg....",-0.5719,Negative,0.0392857142857142,Positive,0.392093151807785,Positive
 "0:06 ~ Music Start
 0:14 ~ Lyrics Appear",0.0,Neutral,0.0,Neutral,-0.6839654445648193,Negative
 "My L'Manberg
@@ -1944,7 +1944,7 @@ My L'Manberg~",0.0,Neutral,0.0,Neutral,0.4949906170368194,Positive
 إلا سواك لي منقذا
 لا ملجأ ولا منجى إلا أنت
 يا إلهي يا إلهي
-يا إلهي يا إلهي",0.9824,Positive,1.2335811384723961e-17,Neutral,-0.3698862791061401,Negative
+يا إلهي يا إلهي",0.9824,Positive,1.2335811384723961e-17,Positive,-0.3698862791061401,Negative
 "Mewn dwrn o ddur mae'r seren wen
 Mae cysgod gwn tros Bethlehem
 Dim angel gwyn yn canu Haleliwia.
@@ -1971,7 +1971,7 @@ A miwsig ddaeth â'r muriau lawr
 Daw awr i ninnau ganu Haleliwia.
 
 Haleliwia, Haleliwia, Haleliwia, Haleliwia.",0.9945,Positive,-0.0892551892551892,Negative,-0.261600911617279,Negative
-This is  my FAVOURITE  song! Thanks for sharing!,0.7418,Positive,0.25,Neutral,0.8851446509361267,Positive
+This is  my FAVOURITE  song! Thanks for sharing!,0.7418,Positive,0.25,Positive,0.8851446509361267,Positive
 "my mom walked in on me in shock and said ""HOW DID YOU LEARN THAT SONG, record it so i can show my friends"" i didnt know it surprised her since i was born with this talent lol-",0.7081,Positive,0.45,Positive,0.2469220012426376,Neutral
 5m6y,0.0,Neutral,0.0,Neutral,0.4710858464241028,Positive
 The holy spirit is within me when i sang this song. Praise the Lord! Hallelujah,0.8622,Positive,0.0,Neutral,0.8122527599334717,Positive
@@ -2003,7 +2003,7 @@ Josué 1:9",0.8698,Positive,0.7166666666666667,Positive,0.6779865026473999,Posit
 """Did I not command you?  Be strong and brave!  Do not panic or be discouraged, for the LORD your GOD will be with you wherever you go."" Joshua 1:9",0.8698,Positive,0.7166666666666667,Positive,0.5879530310630798,Positive
 My lmanburg,0.0,Neutral,0.0,Neutral,0.5400617718696594,Positive
 N.,0.0,Neutral,0.0,Neutral,-0.385073184967041,Negative
-Pls! Upload a new video cheer me by victorious cast,0.5983,Positive,0.1363636363636363,Neutral,0.4160295724868774,Positive
+Pls! Upload a new video cheer me by victorious cast,0.5983,Positive,0.1363636363636363,Positive,0.4160295724868774,Positive
 my soul left my body singing this,0.0,Neutral,0.0,Neutral,0.3262970745563507,Neutral
 I was just searching up for a song to sing at The Voice Kids,0.0,Neutral,0.0,Neutral,0.235302984714508,Neutral
 "I heard there was a special note place, where men can go emancipate...",0.4019,Positive,0.3571428571428571,Positive,-0.2672796845436096,Negative
@@ -2041,7 +2041,7 @@ It was a very big and now blown up L'Manberg
 Bye L'Manberg
 Bye it was L'Manberg
 Bye my L'Manberg
-Farewell our L'Manberg ~(4 beats)",-0.5434,Negative,0.1392857142857143,Neutral,0.3275703191757202,Neutral
+Farewell our L'Manberg ~(4 beats)",-0.5434,Negative,0.1392857142857143,Positive,0.3275703191757202,Neutral
 I sing it,0.0,Neutral,0.0,Neutral,0.5464062690734863,Positive
 o7,0.0,Neutral,0.0,Neutral,0.2715567648410797,Neutral
 "Un soldado a casa Hoy regreso
@@ -2066,7 +2066,7 @@ Lo bueno y lo mejor del alma pura
 Porque dios nos proteja de un mal final
 Por que un día podamos escarmentar
 Porque acabe con tanta furia aleluya
-Aleluya x4",0.9745,Positive,0.1354166666666666,Neutral,-0.5463857650756836,Negative
+Aleluya x4",0.9745,Positive,0.1354166666666666,Positive,-0.5463857650756836,Negative
 not me coming here because of duplicity,0.0,Neutral,0.0,Neutral,-0.3861274421215057,Negative
 "#totaly not recording this so I can edit it and sing one of the parts of the song 
 
@@ -2076,19 +2076,19 @@ Hehe",0.0,Neutral,0.0,Neutral,-0.7288951277732849,Negative
 I Love that song I am just singing this all Day Long and i am so happy .i can sing this song without looking at my Phone and I need to say thanks for that,0.916,Positive,0.3625,Positive,0.8685080409049988,Positive
 i no longer feel bad for my neighbours,-0.6908,Negative,-0.6999999999999998,Negative,0.4575084745883941,Positive
 "Loveeeee this song!
-My neighbours are fuming right nowwww 🤣🤣🤣",0.7345,Positive,0.2857142857142857,Neutral,0.8761802315711975,Positive
+My neighbours are fuming right nowwww 🤣🤣🤣",0.7345,Positive,0.2857142857142857,Positive,0.8761802315711975,Positive
 ✨L’manburg anthem✨,0.3182,Positive,0.0,Neutral,0.2883319556713104,Neutral
 Me a dream smp fan: *wELL thiS PlaCE Is ReAL WE nEEdN'T FRET WiTH wiLBuR TommY TUbbO FuCK ERET ItS A vERY BiG PlACe Not BLoWn uP L'ManBUrG mY L'MAnbURG~~*,0.2263,Positive,-0.0666666666666666,Negative,0.3900406062602997,Positive
-"I don't sound bad but good either, at least that's what I'm told, I think i sound like a dying goat.",0.8412,Positive,0.1,Neutral,0.5968906879425049,Positive
+"I don't sound bad but good either, at least that's what I'm told, I think i sound like a dying goat.",0.8412,Positive,0.1,Positive,0.5968906879425049,Positive
 Me singing the lmanburg anthem o7,0.0,Neutral,0.0,Neutral,0.3846793174743652,Positive
 the add tho: oooooooooooo I'm blinded by the lightsss NO I can't sleep until I feel your touch!.,-0.4981,Negative,0.0,Neutral,-0.3629054725170135,Negative
 My neighbour's been working with power tools nonstop for the past two and a half weeks.....this will be my payback,0.0,Neutral,-0.2083333333333333,Negative,0.4600821435451507,Positive
-this song was made for me HAHAHA,0.6523,Positive,0.2,Neutral,0.4106577634811401,Positive
-Y’all I did not know I could sing so loud!!,0.0,Neutral,0.15625,Neutral,0.3896260261535644,Positive
+this song was made for me HAHAHA,0.6523,Positive,0.2,Positive,0.4106577634811401,Positive
+Y’all I did not know I could sing so loud!!,0.0,Neutral,0.15625,Positive,0.3896260261535644,Positive
 "Me: HaLleLuJaH 
 *someone coming in*
 *instant regrets*",0.3612,Positive,-0.05,Negative,-0.4760462045669555,Negative
-My 78 year old grandmother got covid and just today we found out that she's covid free so I sang this for her and she cried and I cried and I'm still crying,-0.6124,Negative,0.0999999999999999,Neutral,0.6357203125953674,Positive
+My 78 year old grandmother got covid and just today we found out that she's covid free so I sang this for her and she cried and I cried and I'm still crying,-0.6124,Negative,0.0999999999999999,Positive,0.6357203125953674,Positive
 timakasih 🙏🙏👍👍❤️Thank you I LOVE JESUS,0.7125,Positive,0.5,Positive,0.7105758786201477,Positive
 good👍🙏❤️❤️trimakasih🙏🙏👍,0.4404,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I heard there was a special place
@@ -2121,7 +2121,7 @@ And from the rubble there emerged L'Manberg
 My L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.6124,Positive,0.0392857142857142,Neutral,0.3259072303771972,Neutral
+My L'Manberg",0.6124,Positive,0.0392857142857142,Positive,0.3259072303771972,Neutral
 "I've heard there was a secret chord
 That David played and it pleased the Lord
 But you don't really care for music, do ya?
@@ -2146,7 +2146,7 @@ Was how to shoot somebody who outdrew ya
 it's not a cry that you
 hear at night
 It's not someone who has seen the Light
-It's a cold and it's a broken Hallelu jah",0.9977,Positive,0.0538194444444444,Neutral,-0.2642271220684051,Negative
+It's a cold and it's a broken Hallelu jah",0.9977,Positive,0.0538194444444444,Positive,-0.2642271220684051,Negative
 we sing l'manberg,0.0,Neutral,0.0,Neutral,0.339425653219223,Positive
 I'm too shy to sing when someone is watching me...,-0.25,Negative,-0.5,Negative,-0.4407441318035126,Negative
 I LOVE TYLER NINJA BLEVINS,0.6369,Positive,0.5,Positive,0.6974246501922607,Positive
@@ -2190,7 +2190,7 @@ And from every lips fro here up to infinity;
 We sing L’Manberg
 We sing L’Manberg
 We sing L’Manberg
-We sing L’Manberg",0.3612,Positive,0.0653061224489795,Neutral,0.5521445870399475,Positive
+We sing L’Manberg",0.3612,Positive,0.0653061224489795,Positive,0.5521445870399475,Positive
 o7,0.0,Neutral,0.0,Neutral,0.2715567648410797,Neutral
 Me coming here only to sing the L'manburg anthem.. o7,0.0,Neutral,0.0,Neutral,-0.2620313465595245,Negative
 Well great release for me 😂😂,0.9001,Positive,0.8,Positive,0.757759153842926,Positive
@@ -2281,7 +2281,7 @@ We sing L’Manburg.
 
 We sing L’Manburg,
 
-We sing L’Manburg.",0.9545,Positive,0.1841269841269841,Neutral,0.7001684904098511,Positive
+We sing L’Manburg.",0.9545,Positive,0.1841269841269841,Positive,0.7001684904098511,Positive
 My parents are on meetings I just hope they can't hear me screaming,0.6229,Positive,0.0,Neutral,0.346753716468811,Positive
 I love signing,0.6369,Positive,0.5,Positive,0.779704749584198,Positive
 "|| verse 1 || 
@@ -2313,12 +2313,12 @@ L’Manburg.
 My l'manburg 
 My l'manburg 
 My l'manburg 
-My l'manburg",0.9231,Positive,0.1914285714285714,Neutral,0.5206488370895386,Positive
+My l'manburg",0.9231,Positive,0.1914285714285714,Positive,0.5206488370895386,Positive
 "well i heard there was a special place, where men could go an emancipate....",0.5859,Positive,0.3571428571428571,Positive,0.2996197938919067,Neutral
 Aloha I’m shanebearddj I’m biggest fan ever best music ever,0.7579,Positive,1.0,Positive,0.8967248201370239,Positive
 I DONT EVEN KNOW THE TUNE WTH,0.0,Neutral,0.0,Neutral,-0.3775574862957001,Negative
 i sang the L'Manburg to this,0.0,Neutral,0.0,Neutral,0.3712210953235626,Positive
-"heard there was a special place, where men could go emancipate, in brutality and tyranny of there ruler, well this place is real you needn’t threat with Wilbur tommy,tubbo fuck eret, very big place not blown up, lmanberg my lmanberg my lmanberg my lmanberg my lmannnnberg.....  ( extra) well our faith was wrong within these walls a sanctuary that would never fall, the beauty of this landscape over threw ya, he made his thrown and betrayed our land but we still stand strong and we hold our hands... and from here I can’t see my lmanberg ooh my lmanberg  my lmanberg my lmanberg my lmannnnnbergg",-0.304,Negative,0.0129251700680272,Neutral,0.4605238735675812,Positive
+"heard there was a special place, where men could go emancipate, in brutality and tyranny of there ruler, well this place is real you needn’t threat with Wilbur tommy,tubbo fuck eret, very big place not blown up, lmanberg my lmanberg my lmanberg my lmanberg my lmannnnberg.....  ( extra) well our faith was wrong within these walls a sanctuary that would never fall, the beauty of this landscape over threw ya, he made his thrown and betrayed our land but we still stand strong and we hold our hands... and from here I can’t see my lmanberg ooh my lmanberg  my lmanberg my lmanberg my lmannnnnbergg",-0.304,Negative,0.0129251700680272,Positive,0.4605238735675812,Positive
 I literally sang the L’manberg anthem until I cried- don’t ask why,-0.3818,Negative,0.0,Neutral,-0.427775889635086,Negative
 my l'manburg o7,0.0,Neutral,0.0,Neutral,0.5325812697410583,Positive
 "Sing King
@@ -2329,7 +2329,7 @@ Thank You",0.5859,Positive,-0.125,Negative,-0.3353354632854461,Negative
 "normal people: hallelujah, hallelujah, hallelujah, hallleluuuuuuuujahhhh
 
 me: MY LMANBURG, MY LMANBURG, MY LMANBURG, MY LMAAAAAAAAAAAAANBURRRGGG
-*sobs*",0.8591,Positive,0.15,Neutral,-0.3235022723674774,Negative
+*sobs*",0.8591,Positive,0.15,Positive,-0.3235022723674774,Negative
 "I did this!
 
 https://www.youtube.com/watch?v=6DTOV2km3Gw",0.0,Neutral,0.0,Neutral,0.7480425834655762,Positive
@@ -2376,7 +2376,7 @@ And from every lips from here up to infinity;
 We sing L'Manberg
 We sing L'Manberg
 We sing L'Manberg
-To our L'Manberg",0.3612,Positive,0.0653061224489795,Neutral,0.5213918685913086,Positive
+To our L'Manberg",0.3612,Positive,0.0653061224489795,Positive,0.5213918685913086,Positive
 "who still there in 2021? 
 like if you are there",0.3612,Positive,0.0,Neutral,-0.301971971988678,Negative
 there are the normies then there are the dreamsmp fans who came to sing the lmanburg anthem... which one are you?,0.0,Neutral,0.0,Neutral,-0.3547369241714477,Negative
@@ -2428,8 +2428,8 @@ And all lips from here up to forever
 We sing L’Manburg,
 We sing L’Manburg.
 We sing L’Manburg,
-We sing L’Manburg.",0.9313,Positive,0.1142857142857142,Neutral,0.6670014262199402,Positive
-Wow this is my favourite song,0.5859,Positive,0.1,Neutral,0.9092593789100648,Positive
+We sing L’Manburg.",0.9313,Positive,0.1142857142857142,Positive,0.6670014262199402,Positive
+Wow this is my favourite song,0.5859,Positive,0.1,Positive,0.9092593789100648,Positive
 Who’s watching in 2021!!🤪,0.0,Neutral,0.0,Neutral,0.4545985162258148,Positive
 o7 my lmanburg,0.0,Neutral,0.0,Neutral,0.4650292694568634,Positive
 "I heard there was a special place
@@ -2476,7 +2476,7 @@ It’s L’manburg
 We're L’manburg
 My L'manburg
 Our L’manburg",-0.9744,Negative,-0.0436507936507936,Negative,0.2910586297512054,Neutral
-"Who else is here singing, i heard there was a special plce, where men could go and emancipate, the brutality, and the tyranny of their rulers, well this place is real u neednt fret, with wilbur tommy tubbo, fuck eret, its a very big and not blown up lmanburg, my lmanburg, my lmanburg, my lmanburg, mylmaaaaaaaanburg.",-0.5719,Negative,0.0392857142857142,Neutral,-0.4253095090389251,Negative
+"Who else is here singing, i heard there was a special plce, where men could go and emancipate, the brutality, and the tyranny of their rulers, well this place is real u neednt fret, with wilbur tommy tubbo, fuck eret, its a very big and not blown up lmanburg, my lmanburg, my lmanburg, my lmanburg, mylmaaaaaaaanburg.",-0.5719,Negative,0.0392857142857142,Positive,-0.4253095090389251,Negative
 am i the only person actually singing hallelujah,0.6124,Positive,0.0,Neutral,-0.240996778011322,Negative
 Singing My l'manburg every time i hear this songg..,0.0,Neutral,0.0,Neutral,0.6168161630630493,Positive
 Hmmm why are the dogs outside keeps howling 🤔,0.0,Neutral,0.0,Neutral,-0.2696307301521301,Negative
@@ -2543,18 +2543,18 @@ And all lips from here up to forever
 We sing L’Manburg,
 We sing L’Manburg.
 We sing L’Manburg,
-We sing L’Manburg.",0.9313,Positive,0.1142857142857142,Neutral,0.6670014262199402,Positive
+We sing L’Manburg.",0.9313,Positive,0.1142857142857142,Positive,0.6670014262199402,Positive
 """Well i heard there was a special place. 
 Where men could go to emancipate the brutality and tyranny of their rulers. 
 Well this place was real but now its gone..
 Techno and Dream planted bombs its a very big and definitely blown up Lmanburg..
 bye Lmanburg.x3
-Goodbye Lmanburg",0.7843,Positive,0.1392857142857143,Neutral,-0.3006463944911957,Negative
+Goodbye Lmanburg",0.7843,Positive,0.1392857142857143,Positive,-0.3006463944911957,Negative
 "am i really here because i’m upset that a fictional minecraft country got blown up?
 
 yes. yes i am.
-rip, Our L’Manburg.",0.4215,Positive,0.1,Neutral,-0.4951950907707214,Negative
-I’m definitely the only one using this to sing my lmanburg lol,0.6705,Positive,0.2666666666666666,Neutral,0.4640652239322662,Positive
+rip, Our L’Manburg.",0.4215,Positive,0.1,Positive,-0.4951950907707214,Negative
+I’m definitely the only one using this to sing my lmanburg lol,0.6705,Positive,0.2666666666666666,Positive,0.4640652239322662,Positive
 "Cuando sienta yo caer
 Firme en ti estaré
 Pues tú eres mi refugio
@@ -2577,7 +2577,7 @@ Toda minh'alma deseja a ti
 Junto com os anjos cantarei
 Tu és santo, exaltado, aleluia!
 Aleluia, aleluia
-Aleluia, aleluia",0.9941,Positive,0.2125,Neutral,0.5649785399436951,Positive
+Aleluia, aleluia",0.9941,Positive,0.2125,Positive,0.5649785399436951,Positive
 Is this Christian song?,0.0,Neutral,0.0,Neutral,-0.4073691070079803,Negative
 What if masaya ka Lang pala kasi gusto mo makita yung mga taong naka paligid sayo na masaya kaya ayaw mong makita ka nilang Hindi ka masaya?,0.6389,Positive,0.8000000000000002,Positive,-0.3537777662277221,Negative
 MY L’MANBERG,0.0,Neutral,0.0,Neutral,0.4308882653713226,Positive
@@ -2617,7 +2617,7 @@ And from here I can see my L'Manburg
 My L’Manburg
 My L'Manburg
 My L'Manburg
-My L'Manburg",0.4131,Positive,0.1706349206349206,Neutral,0.4508459270000458,Positive
+My L'Manburg",0.4131,Positive,0.1706349206349206,Positive,0.4508459270000458,Positive
 o7,0.0,Neutral,0.0,Neutral,0.2715567648410797,Neutral
 Not me singing the l’manberg version 😔🖐🏻,0.5423,Positive,0.0,Neutral,-0.4535071551799774,Negative
 "Bye L'manberg [Inspired by Dream]:
@@ -2669,7 +2669,7 @@ Goodbye L'manberg
 Goodbye L'manberg
 
 ...Goodbye L'manberg
-...Goodbye L'manberg",-0.9651,Negative,0.1376623376623376,Neutral,-0.4021176695823669,Negative
+...Goodbye L'manberg",-0.9651,Negative,0.1376623376623376,Positive,-0.4021176695823669,Negative
 "I heard there was a special place,  where men could go and emancipate. 
 Brutality and tyranny of their rulers, 
 Something something need to fret, 
@@ -2741,7 +2741,7 @@ And all lips from here up to forever
 We sing L’Manburg,
 We sing L’Manburg.
 We sing L’Manburg,
-We sing L’Manburg.",0.9545,Positive,0.1657142857142857,Neutral,0.679437518119812,Positive
+We sing L’Manburg.",0.9545,Positive,0.1657142857142857,Positive,0.679437518119812,Positive
 Not me singing the entire declaration of independence instead.,0.0,Neutral,0.0,Neutral,-0.5300922393798828,Negative
 Much Love! HareKrishna&GodBless,0.6696,Positive,0.625,Positive,0.8107289671897888,Positive
 Bonjour je cherche les parole en français de Alleluia,0.0,Neutral,0.0,Neutral,0.2809226810932159,Neutral
@@ -2771,7 +2771,7 @@ Cu duh zdrobit, adânc plecat, cu suflet trist, gândul zbuciumat
 3. Dumnezeu e neschimbat, şi vrednic de-a fi lăudat,
 Când sufletul surâde sau când plânge,
 Când drumu-i drept şi e luminat, când ceru-i greu şi-ntunecat,
-E demn să I se cânte Aleluia.",0.997,Positive,0.1460677083333333,Neutral,-0.2247088998556137,Negative
+E demn să I se cânte Aleluia.",0.997,Positive,0.1460677083333333,Positive,-0.2247088998556137,Negative
 My voice can never go deep enough to reach that last hallelujah.,0.6249,Positive,0.0,Neutral,-0.3025572896003723,Negative
 "Well, I heard there was a special place
 Where men could go and emancipate
@@ -2798,15 +2798,15 @@ And from here I can see my L'Manbеrg
 Oh, my L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.5739,Positive,0.1706349206349206,Neutral,0.592465341091156,Positive
+My L'Manberg",0.5739,Positive,0.1706349206349206,Positive,0.592465341091156,Positive
 "MY L'MANBURG, MY L'MANBURG",0.0,Neutral,0.0,Neutral,0.4677311778068542,Positive
 "Beautiful melody, but no hope in the words.",-0.1677,Negative,0.85,Positive,0.5290879607200623,Positive
 I WOULD SING BUT I KEEP HEARING FOOTSTEPS AND IM SCARED MY PARENTS CAN HEAR ME,-0.5927,Negative,0.0,Neutral,0.4112490117549896,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Sikret kurwa,-0.4576,Negative,-0.6,Negative,0.4331466853618622,Positive
 Why everyone can sing this good?,0.5228,Positive,0.7,Positive,0.4853578805923462,Positive
-Anybody else only get the urge to sing karaoke when everybody else is sleeping 😂 I have never sung to my full ability because my sister will scream at me 😔,0.4215,Positive,0.175,Neutral,-0.3904010653495788,Negative
-Who else was just thinking about the X factor audition this whole time?? 😂,0.504,Positive,0.2,Neutral,-0.3648795783519745,Negative
+Anybody else only get the urge to sing karaoke when everybody else is sleeping 😂 I have never sung to my full ability because my sister will scream at me 😔,0.4215,Positive,0.175,Positive,-0.3904010653495788,Negative
+Who else was just thinking about the X factor audition this whole time?? 😂,0.504,Positive,0.2,Positive,-0.3648795783519745,Negative
 So schön 😻,0.8162,Positive,0.85,Positive,0.5243687629699707,Positive
 I love dis song,0.6369,Positive,0.5,Positive,0.5968919992446899,Positive
 i wanna know if anyone else here to sing My L'Manburg instead of the original- no? just me? ok.,0.3939,Positive,0.4375,Positive,0.3207783102989197,Neutral
@@ -2863,7 +2863,7 @@ And from every lips from here up to infinity
 We sing L'Manberg
 We sing L'Manberg
 We sing L'Manberg
-To our L'Manberg",0.7579,Positive,0.1048340548340548,Neutral,0.3719698786735534,Positive
+To our L'Manberg",0.7579,Positive,0.1048340548340548,Positive,0.3719698786735534,Positive
 "Well I heard there was a special place
 Where men could go and emancipate
 The brutality and tyranny of their rulers
@@ -2901,7 +2901,7 @@ And all lips from here up to forever
 We sing L'Manberg
 We sing L'Manberg
 We sing L'Manberg
-We sing L'Maaaaanberg",0.9612,Positive,0.1841269841269841,Neutral,0.7605671286582947,Positive
+We sing L'Maaaaanberg",0.9612,Positive,0.1841269841269841,Positive,0.7605671286582947,Positive
 "Fi Laylatin Minal Layal
 Lastu Adri Ma'tarani
 Zulmatun Taghrumuni Ya Rab
@@ -2942,7 +2942,7 @@ I’m shanebearddj best music ever,0.6369,Positive,1.0,Positive,0.91285532712936
 في ليلة من الليالي .. لست أدري ما اعتراني ظلمةٌ تغمرني يا رب الأرض ضاقت والسماء .. وقلبي ما عرف الضياء والدمع بات يبكي يا إلهي عصيت والذنب كبير .. وإني في حزني أسير مقيد بالذنب يا رب فهل يستحق يا .. إلهي العفو مجرماً مقرٌّ بالذنوب يا إلهي أنت الذي خلقتني ... رحمتني ورزقتني دوماً يا رب قد كنت معي لكنني نأيت عنك .. نسيت ما قد كان لك وسرت في طريقي يا إلهي واليوم يا رب أعود .. من ظلمة خلف الحدود فالقلب منكسر وطرفي حائر وأنا الغريق فلا أرى .. إلا سواك لي منقذاً لا منجى ولا منجى إلا أنت,-0.2216,Negative,-0.32,Negative,-0.4560316503047943,Negative
 Very beautiful song,0.6361,Positive,1.0,Positive,0.7919897437095642,Positive
 Its good,0.4404,Positive,0.7,Positive,0.4566290378570556,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I feel bad for my closet demon,-0.5423,Negative,-0.6999999999999998,Negative,-0.3930237889289856,Negative
 "For all of you mcyt simps, heres the l'manberg lyrics.
 Well, I heard there was a special place
@@ -2970,7 +2970,7 @@ And from here I can see my L'Manbеrg
 Oh, my L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.5739,Positive,0.1706349206349206,Neutral,0.6017118692398071,Positive
+My L'Manberg",0.5739,Positive,0.1706349206349206,Positive,0.6017118692398071,Positive
 "anyone else here with an um. different set of lyrics pulled up?
 
 i'll give you a hint
@@ -2979,7 +2979,7 @@ it's a national anthem.
 
 and back when he was alive, a certain ghost scribbled it on the walls as he slowly went insane and finally pressed the button.",-0.0772,Negative,-0.1408163265306122,Negative,-0.5318872332572937,Negative
 "Normal people: hAlLeLuJaH
-People who watch Dream SMP: My L'manburg~",0.7184,Positive,0.15,Neutral,0.3153619468212127,Neutral
+People who watch Dream SMP: My L'manburg~",0.7184,Positive,0.15,Positive,0.3153619468212127,Neutral
 im sorry yall but im here to practice my l'manburg anthem o7,-0.0387,Neutral,-0.5,Negative,0.2734328508377075,Neutral
 "1 Question to you @Sing King ...
 Is it allowed to do this, what you do? Making the Karaoke Videos, because... dont you need a License of the song?
@@ -3007,13 +3007,13 @@ And from here I can see my L'Manbеrg
 Oh, my L'Manberg
 My L'Manberg
 My L'Manberg
-My L'Manberg",0.5739,Positive,0.1706349206349206,Neutral,0.628243088722229,Positive
+My L'Manberg",0.5739,Positive,0.1706349206349206,Positive,0.628243088722229,Positive
 "my l'manberg my l'manberg my l'manberg my l'maaaaaan 
 
 
 
 berg",0.0,Neutral,0.0,Neutral,0.3563461601734161,Positive
-"I've actually never heard the second part to the piece, and though the first is much more well-known, honestly I like the second part better, it bring a whole new level into the piece.",0.8261,Positive,0.2429292929292929,Neutral,0.4574939906597137,Positive
+"I've actually never heard the second part to the piece, and though the first is much more well-known, honestly I like the second part better, it bring a whole new level into the piece.",0.8261,Positive,0.2429292929292929,Positive,0.4574939906597137,Positive
 I feel bad for my in laws to hear my horrible voice 🤐,-0.7906,Negative,-0.8499999999999999,Negative,-0.655255913734436,Negative
 Sem cu,0.0,Neutral,0.0,Neutral,0.2949694395065307,Neutral
 "HEY SO FOR YOU DREAM SMP FANS I MADE MY OWN VERSION SING AS MUCH AS YOU WANT IG 
@@ -3030,7 +3030,7 @@ L'manberg.
 Was L'manberg
 Was L'manberg
 Was L'manberg
-Our L'man~berg.",0.5338,Positive,0.2714285714285714,Neutral,0.2939946949481964,Neutral
+Our L'man~berg.",0.5338,Positive,0.2714285714285714,Positive,0.2939946949481964,Neutral
 Happy halajilula,0.5719,Positive,0.8,Positive,0.569780707359314,Positive
 Amazing.,0.5859,Positive,0.6000000000000001,Positive,0.8397376537322998,Positive
 "Well I heard there was a special place, where men could go and emancipate. The brutality, and tyranny of their ruler.  Well this place is real, we needn’t fret, with Wilbur, tommy, tubbo, frick erret! It’s a very not blown up, l’manburg. My l’manburg, my l’manburg, my l’manburg, my lmaaaaaaaaaaannnnnburg. Well our faith was strong within these walls, a sanctuary .. that will never fall. The beauty of this landscape overthrew ya... he made this throne and betrayed our land, but we still stand strong , and we hold our hands.. And from here, I can see my l’manburg. ..my l’manburg,my l’manburg,my l’manburg,my l’maaaaaanburg.",0.7396,Positive,0.3347619047619047,Positive,0.5911807417869568,Positive

@@ -2,10 +2,10 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Volvió macho volviooo #23,0.0,Neutral,0.0,Neutral,-0.4735128581523895,Negative
 #23,0.0,Neutral,0.0,Neutral,0.2276166528463363,Neutral
 Rkeierkire no eq no se q que q onda el aquí y no te q que q onda que haces amiga que acá también te quiero y te extraño mucho 😌🥺🥺 qué que ir para allá gracias por todo lo de la plaza del sol acá en 1r,0.8779,Positive,0.35,Positive,-0.3289372622966766,Negative
-quien  no de  me gusta a esta joya no merece vivir,0.1938,Positive,0.1363636363636363,Neutral,-0.633796751499176,Negative
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+quien  no de  me gusta a esta joya no merece vivir,0.1938,Positive,0.1363636363636363,Positive,-0.633796751499176,Negative
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 Estoy  perdido en el azul de tus ojos,-0.3182,Negative,0.0,Neutral,-0.4849616289138794,Negative
-"🎶Mirada fría como la nieve me congela el ADN🎶. Hubiera quedado increible si cantaba y decia eso, igual quedo re piola el tema.🎶",0.5719,Positive,0.15,Neutral,-0.4006651937961578,Negative
+"🎶Mirada fría como la nieve me congela el ADN🎶. Hubiera quedado increible si cantaba y decia eso, igual quedo re piola el tema.🎶",0.5719,Positive,0.15,Positive,-0.4006651937961578,Negative
 Quien ya 3scucho la ssecion,0.0,Neutral,0.0,Neutral,-0.447368711233139,Negative
 Ojalá me  escriba paulo Londra,0.4404,Positive,0.0,Neutral,-0.2641034126281738,Negative
 """Nena maldicion yo, yo ni la conozco pero jugaria con vos""",0.3071,Positive,0.0,Neutral,-0.4151468276977539,Negative
@@ -97,7 +97,7 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood",0.6387,Positive,0.0286964472309299,Neutral,-0.2942006886005401,Negative
+This is the Hollywood",0.6387,Positive,0.0286964472309299,Positive,-0.2942006886005401,Negative
 1:22 para una chica trans,0.0,Neutral,0.0,Neutral,-0.2397080957889557,Negative
 Te pudiste escapar de esos hp .. tu puedes paulo .,0.1779,Positive,0.5,Positive,-0.6724418997764587,Negative
 Quien sigue escuchando este gran temaso de Paulo?🔥,0.5385,Positive,0.8,Positive,0.5865607261657715,Positive
@@ -108,13 +108,13 @@ Fyyffy,0.0,Neutral,0.0,Neutral,0.2422797530889511,Neutral
 LIKE SI ESCUCHAS EN 2022,0.4995,Positive,0.0,Neutral,0.3221950829029083,Neutral
 2019?,0.0,Neutral,0.0,Neutral,-0.325598806142807,Negative
 Quien escuchando esta cancion en el 2022🍃,0.0,Neutral,0.0,Neutral,0.4154086709022522,Positive
-Vengo después de la session.. vuelvo porque volviste wacho!,0.6239,Positive,0.0416666666666666,Neutral,-0.5407276153564453,Negative
+Vengo después de la session.. vuelvo porque volviste wacho!,0.6239,Positive,0.0416666666666666,Positive,-0.5407276153564453,Negative
 Aquí uffff 2022,0.0,Neutral,0.0,Neutral,0.2882198989391327,Neutral
 Sigo aquí escuchando este puta canción como si fuera ayer que salio pibe💯✌🏻,0.4939,Positive,-0.6,Negative,0.3707062900066376,Positive
 Pensar que hoy salió la bzrp session,0.0,Neutral,0.0,Neutral,-0.2620697915554046,Negative
-"Escuchando un clásico de clásicos, relajao sin ningún problema 🥴",0.6319,Positive,0.1666666666666666,Neutral,0.565841555595398,Positive
+"Escuchando un clásico de clásicos, relajao sin ningún problema 🥴",0.6319,Positive,0.1666666666666666,Positive,0.565841555595398,Positive
 Gran temazo este ya hacen 4 años,0.6249,Positive,0.8,Positive,0.7483060359954834,Positive
-Like si amas ese clásico ;),0.8225,Positive,0.3055555555555555,Neutral,0.437759518623352,Positive
+Like si amas ese clásico ;),0.8225,Positive,0.3055555555555555,Positive,0.437759518623352,Positive
 2022 después de escucha su sesión,0.0,Neutral,0.0,Neutral,-0.3209992051124573,Negative
 1077 millones de vistas????,0.0,Neutral,0.0,Neutral,-0.5603421330451965,Negative
 Sinceramente la parte de lenny le da el toque al tema,0.4588,Positive,0.6,Positive,0.4400239586830139,Positive
@@ -190,14 +190,14 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3257178664207458,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3257178664207458,Negative
 Quien aquí después de la BzRP Session??,0.0,Neutral,0.0,Neutral,-0.4049830436706543,Negative
 "amigo salió el tema con el biza, ya puedo morir en paz. nose pq comento acá pero bueno",0.5719,Positive,0.5,Positive,0.3268406391143799,Neutral
-Cuando nadie conocia a lenyn tavarez jaja,0.4588,Positive,0.2,Neutral,-0.3989263772964477,Negative
+Cuando nadie conocia a lenyn tavarez jaja,0.4588,Positive,0.2,Positive,-0.3989263772964477,Negative
 PAULO LONDRA IS BACK,0.0,Neutral,0.0,Neutral,-0.2917516827583313,Negative
 Grande,0.0,Neutral,0.0,Neutral,0.5010635852813721,Positive
 🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
-"Me gustó muchísimo más este tema de Paulo Londra que la session de la que tanto hablaban y esperaban, es mi opinión obviamente.",0.4215,Positive,0.24,Neutral,0.3647330999374389,Positive
+"Me gustó muchísimo más este tema de Paulo Londra que la session de la que tanto hablaban y esperaban, es mi opinión obviamente.",0.4215,Positive,0.24,Positive,0.3647330999374389,Positive
 Esa cancion me la dedica mi novio,0.4588,Positive,0.0,Neutral,0.5441036224365234,Positive
 "a qui limpiandome los oidos despues de escuchas la sesion, esperaba mas sinceramente",0.6908,Positive,0.5,Positive,-0.3977834284305572,Negative
 Escuchando esta obra de arte en pleno 2022,0.0,Neutral,0.0,Neutral,0.60469651222229,Positive
@@ -220,7 +220,7 @@ Mi amor,0.6369,Positive,0.5,Positive,0.5948699116706848,Positive
 aca escuchando este temazo y esperando la session 23 de biza con paulo va a hacer una bomba esooo🙌,0.397,Positive,0.8,Positive,-0.2469686716794967,Negative
 Quien en abril del 2022 escuchando este temazo🔥,-0.34,Negative,0.0,Neutral,-0.5672550797462463,Negative
 polo sos mi idolo😄,0.6705,Positive,0.0,Neutral,0.2954468727111816,Neutral
-Quiero ser messi puño  Antonella ahora esto  pa vivir una novela💯😍 esa parte,0.6808,Positive,0.1363636363636363,Neutral,0.5317844152450562,Positive
+Quiero ser messi puño  Antonella ahora esto  pa vivir una novela💯😍 esa parte,0.6808,Positive,0.1363636363636363,Positive,0.5317844152450562,Positive
 Nene Bendición,0.4939,Positive,0.0,Neutral,0.2714130580425262,Neutral
 Gran  cancion  Paulo,0.6249,Positive,0.8,Positive,0.6630127429962158,Positive
 La amo se llama 😍 ayelen,0.802,Positive,0.5,Positive,0.3433383703231811,Positive
@@ -339,7 +339,7 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3257178664207458,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3257178664207458,Negative
 12 tenia la nena?,0.0,Neutral,0.0,Neutral,-0.3530713021755218,Negative
 epa,0.0,Neutral,0.0,Neutral,0.2622042000293731,Neutral
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -419,12 +419,12 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3257178664207458,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3257178664207458,Negative
 hola soy sebas xd,0.5859,Positive,0.0,Neutral,0.2287293374538421,Neutral
 quien escuchando esta joyita en el 2022,0.0,Neutral,0.0,Neutral,0.3212245106697082,Neutral
 PORFIIIIIN PAULO REGRESASTEEEEEE QUE FELIIIS ESTOY ESPERO QUE SAQUES EN ESTE AÑO MAS DE  30 MIL MUSICA,0.9022,Positive,0.65,Positive,-0.6312141418457031,Negative
-Alto tema,0.0,Neutral,0.16,Neutral,0.3059922158718109,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+Alto tema,0.0,Neutral,0.16,Positive,0.3059922158718109,Neutral
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 "Alguien mas, que este escuchando esto la canción de paulo... :3 <3❤
 2022",0.886,Positive,0.5,Positive,-0.3321559429168701,Negative
 Indica,0.0,Neutral,0.0,Neutral,0.4030026793479919,Positive
@@ -464,7 +464,7 @@ Para mí es tu mejor música Paulo,0.6369,Positive,1.0,Positive,0.74041390419006
 Volvió el rey jejeje quien viendo este comentario??????,0.0,Neutral,0.0,Neutral,-0.5915775299072266,Negative
 usame usame😅😅😅,0.7579,Positive,0.0,Neutral,0.4643785357475281,Positive
 https://youtu.be/LxICs4KImoo,0.0,Neutral,0.0,Neutral,0.2210040837526321,Neutral
-"mi primo llega y pregunta, paulo juega basket ball? yo todo sarcastico: no, fijate que ese balon es de tenis.",0.1027,Positive,0.1,Neutral,-0.4884032011032104,Negative
+"mi primo llega y pregunta, paulo juega basket ball? yo todo sarcastico: no, fijate que ese balon es de tenis.",0.1027,Positive,0.1,Positive,-0.4884032011032104,Negative
 1 B de visualizaciones que kpo,0.0,Neutral,0.0,Neutral,-0.2782207131385803,Negative
 Aquí los que también escuchan este temaso en el 2022 ❤️👌😀.,0.824,Positive,0.0,Neutral,0.2596657574176788,Neutral
 No ves que mes toy murien porque me regalales un poquito de tu atención,0.0,Neutral,-0.1875,Negative,-0.379996120929718,Negative
@@ -473,7 +473,7 @@ Ig de la minita?😏,0.0,Neutral,0.0,Neutral,-0.3254924416542053,Negative
 😭🙌😘,-0.0772,Negative,0.0,Neutral,0.3085779249668121,Neutral
 my favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 Quien en 2022 vuelve a escuchar este temon un ratito?,0.0,Neutral,-0.1875,Negative,-0.6297081112861633,Negative
-Jódete juaco :3,-0.0516,Negative,0.0499999999999999,Neutral,0.2996274828910827,Neutral
+Jódete juaco :3,-0.0516,Negative,0.0499999999999999,Positive,0.2996274828910827,Neutral
 "algυιen мáѕ eѕтa eѕcυcнando, la cancιón de paυlo :3🔥✨",-0.0258,Neutral,0.0,Neutral,-0.2773658335208893,Negative
 la  chica  esta  re  feeeeaaaaaaaaaaaaaa🤣🤣🤣🤣🤣🤣😂😂😂😂😂😂😂,0.9895,Positive,0.0,Neutral,0.2471048235893249,Neutral
 "Hey baby, no (Oh oh oh)
@@ -545,11 +545,11 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3257178664207458,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3257178664207458,Negative
 Que tamazo,0.0,Neutral,0.0,Neutral,-0.371598333120346,Negative
 ❤️✌️🤟,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Que buen tema,0.4404,Positive,0.7,Positive,0.344664990901947,Positive
-Dale créditos a Matías Ponce JAJAJA,0.7804,Positive,0.2,Neutral,-0.3531745076179504,Negative
+Dale créditos a Matías Ponce JAJAJA,0.7804,Positive,0.2,Positive,-0.3531745076179504,Negative
 Aquí otrooo billón,0.0,Neutral,0.0,Neutral,-0.3011977672576904,Negative
 Temaso,0.0,Neutral,0.0,Neutral,0.2609929144382477,Neutral
 "jajajaaj ka cagada de musica 
@@ -560,7 +560,7 @@ Buena canción bro 😂😂,0.8271,Positive,0.7,Positive,0.479468435049057,Posit
 Llorando y escuchando y ustedes????,-0.6199,Negative,-0.2,Negative,-0.3704017102718353,Negative
 "fire}
 paulo",-0.34,Negative,0.0,Neutral,0.2686244249343872,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Neutral,0.8224565982818604,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times. I hope everyone is doing well. I love you! 💓💗,0.9806,Positive,0.0787037037037037,Positive,0.8224565982818604,Positive
 paulo londra siempre me a gustado esta musica de doy milgracias por aserme feliz con tumusica nena maldicion y plan A,0.6705,Positive,0.5533333333333333,Positive,0.4917303621768951,Positive
 "Nadie 
 El niño sin piernas: 2:26",-0.5267,Negative,0.0,Neutral,-0.6864126920700073,Negative
@@ -635,14 +635,14 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.2942006886005401,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.2942006886005401,Negative
 esta cancion es una joya la amo }.,0.7717,Positive,0.5,Positive,0.7244551181793213,Positive
 Alguien escuchando este temazo? ❤️❤️,0.0,Neutral,0.0,Neutral,-0.5772192478179932,Negative
 No vuelvas a sacar canciones con el,0.0,Neutral,0.0,Neutral,-0.4211457669734955,Negative
 Quién como yo escuchándola en el 2022 🥺,0.3612,Positive,0.0,Neutral,0.4492092430591583,Positive
 "siempre escucho esa cancion cuando me meten muy duro el p3ne
 saludos paulo londra te amo <3",0.8586,Positive,0.3736111111111111,Positive,0.4663622379302978,Positive
-mesiento re edentificada con la cancion espe que deverda tenga los ojos azul,0.4927,Positive,0.1,Neutral,-0.2751504182815552,Negative
+mesiento re edentificada con la cancion espe que deverda tenga los ojos azul,0.4927,Positive,0.1,Positive,-0.2751504182815552,Negative
 Quien mas del 2050 escuchando esta rola,0.0,Neutral,0.0,Neutral,0.4365983307361603,Positive
 "Te amo Paulo y que suerte y arreglaste todos tus problemas 
 Muchas bendiciones",0.8979,Positive,0.45,Positive,0.7149815559387207,Positive
@@ -777,7 +777,7 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3257178664207458,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3257178664207458,Negative
 la mejor cancion que existe,0.6369,Positive,1.0,Positive,0.9184325337409972,Positive
 TEMAZO ✨✨✨✨✨,0.8591,Positive,0.0,Neutral,0.3150584995746612,Neutral
 Qué feliz soy gracias,0.7764,Positive,0.8,Positive,0.6745137572288513,Positive
@@ -802,11 +802,11 @@ No ves que me estoy muriendo por qué un ratito me regales tu atención,0.0,Neut
 "Cuando A Todos Nos Gusta Mucho Esta Rola En La Prepa en el 2018 
 Que Rápido Ya Para 3/4 Años Rápido Que Se Van Los Años
 Gracias Paulo Londra y Lenny Tavarez Love You México
-👑👑🎵🎵❤👋",0.9517,Positive,0.252,Neutral,0.5814034938812256,Positive
+👑👑🎵🎵❤👋",0.9517,Positive,0.252,Positive,0.5814034938812256,Positive
 QUE TEMOOON,0.0,Neutral,-0.6,Negative,0.487908661365509,Positive
 Hkdjjgktkffirirudehduhikjg,0.0,Neutral,0.0,Neutral,-0.3353750109672546,Negative
 Ehh,0.0,Neutral,0.0,Neutral,-0.3854329884052276,Negative
-Una pregunta jajajaj por qué se retiró Paulo xd,0.8126,Positive,0.2,Neutral,-0.5829466581344604,Negative
+Una pregunta jajajaj por qué se retiró Paulo xd,0.8126,Positive,0.2,Positive,-0.5829466581344604,Negative
 Ajjaja ya salio la copia peruana de Paulo Londra 😂😂😅https://youtu.be/YPYTxY9j5A0,0.8074,Positive,0.0,Neutral,-0.4605809450149536,Negative
 Acá con mi 2 canción favorita de paulo en el 2022,0.4588,Positive,0.5,Positive,0.5634056925773621,Positive
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -814,7 +814,7 @@ Reeeee-hermosa la música semejante temazo,0.6249,Positive,0.4,Positive,0.560551
 4LTO TEM4,0.0,Neutral,0.0,Neutral,0.3281279802322387,Neutral
 Volvio🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 tus cansiones son lo mejores,0.6369,Positive,1.0,Positive,0.541178286075592,Positive
-Sigo esperando  a Paulo  saca por fa tu nueva  canción  por fi ❤❤😔,0.9001,Positive,0.1363636363636363,Neutral,0.3826874792575836,Positive
+Sigo esperando  a Paulo  saca por fa tu nueva  canción  por fi ❤❤😔,0.9001,Positive,0.1363636363636363,Positive,0.3826874792575836,Positive
 2018 fue todo,0.0,Neutral,0.0,Neutral,0.4782038629055023,Positive
 DIERETREDREMPIPROMATI,0.0,Neutral,0.0,Neutral,0.2372833788394928,Neutral
 Cuando vienes a México  amorrrrr ❤️🥰🥰🥰🥰😇,0.9894,Positive,0.5,Positive,-0.4942181706428528,Negative
@@ -833,7 +833,7 @@ Love you🥰",0.9819,Positive,0.578125,Positive,0.8519662618637085,Positive
 Melisima😎😎,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Amo esta canción ❤👍es de lo mejor,0.9274,Positive,0.75,Positive,0.8706671595573425,Positive
 Chale quien no quisiera que le dedicarán está canción?,0.4172,Positive,0.0,Neutral,-0.4040039479732513,Negative
-POV: es rubio de ojos claros,0.0,Neutral,0.2,Neutral,-0.3478498458862304,Negative
+POV: es rubio de ojos claros,0.0,Neutral,0.2,Positive,-0.3478498458862304,Negative
 Buen tema lástima que Leny tamales lo arruina todo..!,-0.5848,Negative,-0.0624999999999999,Negative,0.3434025943279266,Positive
 "soy tu fan 
 number one",0.3818,Positive,0.0,Neutral,0.788817286491394,Positive
@@ -910,10 +910,10 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3256747722625732,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3256747722625732,Negative
 Té amo Paulo londra,0.6369,Positive,0.5,Positive,0.3518587946891784,Positive
 Vengo del futuro a decirle que paulo volvió y yo sigo escuchando sus temas!!!!,0.0,Neutral,0.0,Neutral,0.5685980916023254,Positive
-First music I heard from you,0.0,Neutral,0.25,Neutral,0.5308083295822144,Positive
+First music I heard from you,0.0,Neutral,0.25,Positive,0.5308083295822144,Positive
 K yo te llore y te supere,-0.3818,Negative,0.0,Neutral,0.6985071897506714,Positive
 cuando sacas nua cansion con bzrp,0.0,Neutral,0.0,Neutral,-0.4077914953231811,Negative
 temazo 🎵🎶,0.0,Neutral,0.0,Neutral,0.3150584995746612,Neutral
@@ -941,7 +941,7 @@ Espero que paulito saque una song con ohhhhh como nena maldición,0.0516,Positiv
 TE AMO PAULO LONDRAAAAAAA,0.0,Neutral,0.0,Neutral,0.2536952197551727,Neutral
 Me encanta esta cancion,0.6369,Positive,0.5,Positive,0.7601157426834106,Positive
 06/04/22,0.0,Neutral,0.0,Neutral,-0.3550775051116943,Negative
-"mi paarte favorita:Mirada fria como la nieve,me congela ata no dal mas, si me toca hace que me eleve",0.4939,Positive,0.1333333333333333,Neutral,0.2714230716228485,Neutral
+"mi paarte favorita:Mirada fria como la nieve,me congela ata no dal mas, si me toca hace que me eleve",0.4939,Positive,0.1333333333333333,Positive,0.2714230716228485,Neutral
 04/ 22  y sigo con este temon! No sale de mi cabeza ...nena maldición!!!,0.0,Neutral,0.0,Neutral,-0.915039598941803,Negative
 Ei beibi noo,-0.0803,Negative,0.0,Neutral,0.3191445469856262,Neutral
 "2022 y sigon escuchando estos pedazos de temas,feliz por tu regreso",0.5719,Positive,0.8,Positive,0.7139114737510681,Positive
@@ -949,7 +949,7 @@ las  mejores para mis son talvez adan y eva y esta noice,0.6369,Positive,1.0,Pos
 Esta se la dedique a mi amiga pero por algunos temas no me supo valorar,0.7351,Positive,0.0,Neutral,0.595101535320282,Positive
 Solo te pido una chanceeeeeeeeeeeeeee,0.0,Neutral,0.0,Neutral,-0.4782634973526001,Negative
 esperando chance,0.25,Positive,0.0,Neutral,0.2973957359790802,Neutral
-Acá entreteniendome esperando la nueva,0.4404,Positive,0.3181818181818182,Neutral,0.3977324962615967,Positive
+Acá entreteniendome esperando la nueva,0.4404,Positive,0.3181818181818182,Positive,0.3977324962615967,Positive
 "Como puede ser que lenny tavarez tiene 2m de subs y. Paulo que no es tan conocido tiene 20m de subs pero saben por que, por que paulo es humilde viva paulo siuuuu.",-0.1641,Negative,-0.0378787878787878,Negative,0.2837757170200348,Neutral
 Esta me la dedicaron,0.4588,Positive,0.0,Neutral,0.3540151715278625,Positive
 aquiiii bandaaa a horas del nuevo temazoooo (chanze)💝.,0.0,Neutral,0.0,Neutral,0.3013395667076111,Neutral
@@ -963,7 +963,7 @@ Plan A,0.0,Neutral,0.0,Neutral,0.3454846739768982,Positive
 No puedo creer que ya pasaron 4 años de esta canción!,0.0,Neutral,0.0,Neutral,0.5343760251998901,Positive
 Alguien sabe que actualmente 5 de abril de 2022 tiene 1069M mis vistas de Adán y Eva,0.0,Neutral,0.0,Neutral,-0.6309656500816345,Negative
 Me encanta este tema like si la escuchas 2022,0.7717,Positive,0.5,Positive,0.7519803643226624,Positive
-"Tantas veces que me identificaba con esta canción cuando tenía una novia ...pero no más eran amores inmaduros ....ahora tengo la maldición de tal chica , la que tiene tantos pretendientes q me dejó fria la mente (٥↼_↼)",-0.2692,Negative,0.025,Neutral,-0.4185231626033783,Negative
+"Tantas veces que me identificaba con esta canción cuando tenía una novia ...pero no más eran amores inmaduros ....ahora tengo la maldición de tal chica , la que tiene tantos pretendientes q me dejó fria la mente (٥↼_↼)",-0.2692,Negative,0.025,Positive,-0.4185231626033783,Negative
 me gustan tus canciones,0.3612,Positive,0.0,Neutral,0.4535478055477142,Positive
 2022 abril resien escuche plan A por 6 ta ves,0.0,Neutral,0.0,Neutral,-0.3838814496994018,Negative
 Ese tema  me encanta  bóludo,0.6369,Positive,0.5,Positive,0.681304931640625,Positive
@@ -973,22 +973,22 @@ Crack paulo en 2022 y la sigo escuchando,0.0,Neutral,0.0,Neutral,-0.724904775619
 2022 y está rolita sigue siendo súper good,0.7783,Positive,0.5166666666666666,Positive,0.7020471692085266,Positive
 Que Temazo Amigo! 🤦🏻‍♂️🔥,0.2714,Positive,0.0,Neutral,0.5823841094970703,Positive
 2022 y 2023 y la sigo escuchando,0.0,Neutral,0.0,Neutral,0.2571211457252502,Neutral
-Muy indo tu tema,0.0,Neutral,0.2,Neutral,0.2859017848968506,Neutral
+Muy indo tu tema,0.0,Neutral,0.2,Positive,0.2859017848968506,Neutral
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Paulo es un,0.0,Neutral,0.0,Neutral,0.2736907601356506,Neutral
-f por el viejito que es el papa de la chica que a muerto,-0.5574,Negative,0.1,Neutral,-0.3614396750926971,Negative
+f por el viejito que es el papa de la chica que a muerto,-0.5574,Negative,0.1,Positive,-0.3614396750926971,Negative
 Mis respetos para el que siga escuchando este temazo ♥️,0.9076,Positive,0.8,Positive,0.5762847065925598,Positive
 Buen tema  hermosa musica,0.7783,Positive,0.7749999999999999,Positive,0.5070877075195312,Positive
 Necesitamos la otra colaboración que esta guardada,0.4215,Positive,-0.125,Negative,0.3378068804740906,Positive
 keyieojx💚💛👊✊👎👍🎂🎁🎄🎅,0.9062,Positive,0.0,Neutral,0.3085779249668121,Neutral
-No todos los artes están en un museo como tú no estás en el museo eres muy valioso 🥀💅,0.7089,Positive,0.2,Neutral,0.5740616321563721,Positive
+No todos los artes están en un museo como tú no estás en el museo eres muy valioso 🥀💅,0.7089,Positive,0.2,Positive,0.5740616321563721,Positive
 quien el 2022,0.0,Neutral,0.0,Neutral,0.3130432069301605,Neutral
 🇨🇷🤘🏼🪐🖕🏼,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Like quien lo escucha en lo escucha en 2022 🔥🔥🔥,-0.5719,Negative,0.0,Neutral,0.3985578417778015,Positive
 👍🏼👍🏼👍🏼👍🏼❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "1000M genteee, PAULITO NUNCA SE FUE<3",0.0,Neutral,0.0,Neutral,-0.5287588834762573,Negative
 Se vienen temasos,-0.4404,Negative,0.0,Neutral,-0.3732148110866546,Negative
-Vengo después de ver el directo de westcol,0.0,Neutral,0.1,Neutral,-0.3386276364326477,Negative
+Vengo después de ver el directo de westcol,0.0,Neutral,0.1,Positive,-0.3386276364326477,Negative
 Temasoooooo😎🥵,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ya saben,0.0,Neutral,0.0,Neutral,0.4623222649097442,Positive
 Yo no por que,0.0,Neutral,0.0,Neutral,-0.3320639133453369,Negative
@@ -999,7 +999,7 @@ Uno de ellos tiene la misma vos de danny Ocean,0.0,Neutral,0.0,Neutral,-0.258543
 Mirada fria como la nieve...,0.3612,Positive,-0.6,Negative,-0.2534684836864471,Negative
 ❤❤❤❤❤💖❤,0.9868,Positive,0.0,Neutral,0.3085779249668121,Neutral
 A qui la gente que todavia esta activa,0.4019,Positive,-0.1333333333333333,Negative,0.2496238052845001,Neutral
-"A TODAS LAS PERSONAS QUE ESTEN LEYENDO ESTE COMENTARIO LES DESEO LAS MEJORES DE LAS VIBRAS Y QUE DIOS TODO PODEROSO LES CONCEDA TODOS SUS DESEOS, SALUD PARA USTEDES Y TODA SU FAMILIA EN ESTOS TIEMPOS DIFICLES.",0.8625,Positive,0.25,Neutral,0.7872947454452515,Positive
+"A TODAS LAS PERSONAS QUE ESTEN LEYENDO ESTE COMENTARIO LES DESEO LAS MEJORES DE LAS VIBRAS Y QUE DIOS TODO PODEROSO LES CONCEDA TODOS SUS DESEOS, SALUD PARA USTEDES Y TODA SU FAMILIA EN ESTOS TIEMPOS DIFICLES.",0.8625,Positive,0.25,Positive,0.7872947454452515,Positive
 🇲🇽🇲🇽🔥🔥🤠,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Vec men,0.0,Neutral,0.0,Neutral,0.2467559576034546,Neutral
 🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -1014,7 +1014,7 @@ Lo extrañamos desde la RD   🇩🇴 full,-0.1531,Negative,0.35,Positive,0.5439
 Estraño al capo,-0.1531,Negative,0.0,Neutral,0.5255363583564758,Positive
 Estraño al capo,-0.1531,Negative,0.0,Neutral,0.5255363583564758,Positive
 Teamo Paulo lonera soy tu fans❤️⚡🙏💯,0.6369,Positive,0.5,Positive,0.4808534681797027,Positive
-"la verdad que me alegra q la leyenda del flow ,la leyenda musical vuelva dejen su like si ustedes no dejaron de escuchar la musica mientras paulo no estaba",0.817,Positive,0.25,Neutral,0.2683334648609161,Neutral
+"la verdad que me alegra q la leyenda del flow ,la leyenda musical vuelva dejen su like si ustedes no dejaron de escuchar la musica mientras paulo no estaba",0.817,Positive,0.25,Positive,0.2683334648609161,Neutral
 Volvió ✨,0.3182,Positive,0.0,Neutral,-0.2696855664253235,Negative
 "LETRA
 
@@ -1103,9 +1103,9 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy on the drums
 Nos quedamos con el Argentino (prrr, gang)
-This is the holy best spot, babe",0.8808,Positive,0.0606737012987012,Neutral,-0.287028819322586,Negative
+This is the holy best spot, babe",0.8808,Positive,0.0606737012987012,Positive,-0.287028819322586,Negative
 1:10 eso me paso hoy,0.0,Neutral,0.0,Neutral,-0.3348182141780853,Negative
-Como q si me toca se q se me lebe es muy trubio,0.0,Neutral,0.2,Neutral,-0.4346047639846802,Negative
+Como q si me toca se q se me lebe es muy trubio,0.0,Neutral,0.2,Positive,-0.4346047639846802,Negative
 "Ey, baby, no, oh
 No ves que me estoy muriendo
 Porque un ratito me regales tu atención, oh
@@ -1187,15 +1187,15 @@ Big ligas; ando con Paulo londra
 Los blanquitos preferidos de todas las babies
 Ovy on the drums
 Nos quedamos con el argentino (gang)
-This is the Hollywood squad, mamá",-0.0375,Neutral,0.0297213203463203,Neutral,0.2263680249452591,Neutral
+This is the Hollywood squad, mamá",-0.0375,Neutral,0.0297213203463203,Positive,0.2263680249452591,Neutral
 https://youtu.be/LxICs4KImoo,0.0,Neutral,0.0,Neutral,0.2210040837526321,Neutral
-4 años desde su estreno y hoy es la primera vez que veo el clip,0.0,Neutral,0.25,Neutral,0.6050926446914673,Positive
+4 años desde su estreno y hoy es la primera vez que veo el clip,0.0,Neutral,0.25,Positive,0.6050926446914673,Positive
 ¿Me ayudas?,0.4019,Positive,0.0,Neutral,0.3340709209442138,Positive
-Tengo 9 años y el tambien,0.0,Neutral,0.1,Neutral,0.3276609182357788,Neutral
+Tengo 9 años y el tambien,0.0,Neutral,0.1,Positive,0.3276609182357788,Neutral
 Se llama Diego,0.0,Neutral,0.0,Neutral,0.2757628262042999,Neutral
-"Ufffs, regreso el londra 🦁 después de escuchar Plan A Como Mil Veces, vine a escuchar musicas viejas jajajaja",0.3612,Positive,0.1,Neutral,-0.551273763179779,Negative
+"Ufffs, regreso el londra 🦁 después de escuchar Plan A Como Mil Veces, vine a escuchar musicas viejas jajajaja",0.3612,Positive,0.1,Positive,-0.551273763179779,Negative
 Y no se como desirle lo que siento,0.0,Neutral,0.0,Neutral,-0.3895171284675598,Negative
-Estoy enamorada de una persona de mi escuela tiene ojos verde,0.6369,Positive,0.15,Neutral,0.4681151211261749,Positive
+Estoy enamorada de una persona de mi escuela tiene ojos verde,0.6369,Positive,0.15,Positive,0.4681151211261749,Positive
 Paolo me ayudas en algo,0.4019,Positive,0.0,Neutral,0.3507934510707855,Positive
 te amoooo paulo londra,0.6369,Positive,0.5,Positive,-0.2569503486156463,Negative
 "Tanto esperar a Paulo, ya esta de nuevoooo!!!💜🙌🇦🇷🇦🇷🇦🇷🇦🇷🦁",0.0,Neutral,0.390625,Positive,0.3258784115314483,Neutral
@@ -1213,32 +1213,32 @@ Rcio😎❤🇦🇷,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 una de mis canciones mas favoritas,0.5095,Positive,0.5,Positive,0.8308104276657104,Positive
 DIOSSS ESQUE ESTÁ JOYITA ES ÚNICAAAA😻🛐,0.8962,Positive,0.375,Positive,0.5024937391281128,Positive
 Regreso :),0.4588,Positive,0.5,Positive,0.3713498413562774,Positive
-me gusta mucho esta cancion y en 2022 lo sigo escuchando,0.4201,Positive,0.2,Neutral,0.575303852558136,Positive
+me gusta mucho esta cancion y en 2022 lo sigo escuchando,0.4201,Positive,0.2,Positive,0.575303852558136,Positive
 Que hermoso tema Pablo sos grande!!!,0.8713,Positive,0.925,Positive,0.7407747507095337,Positive
 Team IsaCastro❤️,0.0,Neutral,0.0,Neutral,0.370977520942688,Positive
 "Quiero ser Messi, tú mi Antonella
 Prepárate pa' vivir una novela
 Soy exclusivo, no de cualquiera
 Por eso quiero que tú seas mi nena
-Por siempre mi nena",0.7096,Positive,0.1681818181818181,Neutral,0.2974939048290252,Neutral
+Por siempre mi nena",0.7096,Positive,0.1681818181818181,Positive,0.2974939048290252,Neutral
 "paulo regreso
 
 😃",0.3612,Positive,0.0,Neutral,-0.3788104653358459,Negative
 Baby no 💜,-0.6776,Negative,0.0,Neutral,-0.4816373884677887,Negative
-Aqui los que volvieron por el directo de Leandro y westcol.,0.0,Neutral,0.05,Neutral,0.2281422019004821,Neutral
+Aqui los que volvieron por el directo de Leandro y westcol.,0.0,Neutral,0.05,Positive,0.2281422019004821,Neutral
 No puedo creer que ya hayan pasado 4 años desde que sacaron este temon,0.0,Neutral,0.0,Neutral,0.3505957126617431,Positive
 like todos los que extrañan a Paulo,0.2263,Positive,0.0,Neutral,0.6327431797981262,Positive
 quien escucha todovia en 2022,0.0,Neutral,0.0,Neutral,0.3003601431846618,Neutral
-Me gusta mucho la canción 🤟🤟🤟🤟🤟,0.4201,Positive,0.2,Neutral,0.464030772447586,Positive
+Me gusta mucho la canción 🤟🤟🤟🤟🤟,0.4201,Positive,0.2,Positive,0.464030772447586,Positive
 Desde 🇵🇪🇵🇪,0.0,Neutral,0.0,Neutral,0.4739059209823608,Positive
 Gracias por tus canciones ☺️,0.6705,Positive,0.0,Neutral,0.6563521027565002,Positive
 Quien acá en 2022 ? Es un temazooo que no hay q dejar morir 🥳🥳,0.5517,Positive,0.0,Neutral,-0.5360824465751648,Negative
 2 / 4 /2022 y sigo escuchando musica de PAULO,0.0,Neutral,0.0,Neutral,-0.3535698354244232,Negative
 tremendo tema este ♥️♥️ Te amo Paulo Londra,0.8646,Positive,0.7777777777777777,Positive,0.506401538848877,Positive
 Ya a pasado 4 años y aún escuchó esta temazo canción 😍😍❤🎶🎵🎶,0.9439,Positive,0.8,Positive,0.528738796710968,Positive
-Estoy aquí por el stream de la sapa y westcol Pa ver si la vieja que invitó si era esa que sale en el video JAJAJAJA,0.0,Neutral,0.15,Neutral,-0.303622305393219,Negative
+Estoy aquí por el stream de la sapa y westcol Pa ver si la vieja que invitó si era esa que sale en el video JAJAJAJA,0.0,Neutral,0.15,Positive,-0.303622305393219,Negative
 Quien después del streem de west?,0.0,Neutral,0.0,Neutral,0.2320578694343567,Neutral
-BIG LIGAS son basura ( paulo londra es mejor ) 😎😎,0.836,Positive,0.25,Neutral,-0.5582014322280884,Negative
+BIG LIGAS son basura ( paulo londra es mejor ) 😎😎,0.836,Positive,0.25,Positive,-0.5582014322280884,Negative
 2018 crack,0.0,Neutral,0.0,Neutral,-0.6450977325439453,Negative
 Paulooo,0.0,Neutral,0.0,Neutral,0.2416348159313202,Neutral
 Ahora que volvio paulo cuando se viene el remixxx?,0.0,Neutral,0.0,Neutral,-0.4937531948089599,Negative
@@ -1247,13 +1247,13 @@ Me encatas paulo londra,0.6369,Positive,0.5,Positive,-0.3872639536857605,Negativ
 Quien mas esta enamorado de esta canciom es un temaso me encanta,0.926,Positive,0.6,Positive,0.7892123460769653,Positive
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Escuchen lo nuevo 🥵🍑
 
-https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Neutral,0.3673707246780395,Positive
+https://youtu.be/NjX_DgCyIBg",0.0,Neutral,0.1363636363636363,Positive,0.3673707246780395,Positive
 "Lyrics
 Hey baby, no (Oh oh oh)
 ¿No ves que me estoy muriendo?
@@ -1324,7 +1324,7 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3208127617835998,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3208127617835998,Negative
 Alguien más de 2022?,0.0,Neutral,0.0,Neutral,-0.417817622423172,Negative
 Quien cuando ya saco plan A,0.0,Neutral,0.0,Neutral,-0.3215991556644439,Negative
 UN SOBREVALORADO MAS,0.0,Neutral,0.5,Positive,0.4906314313411712,Positive
@@ -1344,14 +1344,14 @@ Y hasta q un dia volviooo,0.0,Neutral,0.0,Neutral,-0.4570268392562866,Negative
 Por lo que venimos😌👌",0.8286,Positive,0.0,Neutral,-0.3446332216262817,Negative
 Volvió plan A,0.0,Neutral,0.0,Neutral,0.3240172863006592,Neutral
 AQUI LOS Q YA ESCUCHARON PLAN A 😎,0.4588,Positive,0.0,Neutral,0.2555570602416992,Neutral
-Volvió un grande de la música después de tanto tiempo 🥺❤️,0.6249,Positive,0.25,Neutral,0.6848790645599365,Positive
+Volvió un grande de la música después de tanto tiempo 🥺❤️,0.6249,Positive,0.25,Positive,0.6848790645599365,Positive
 MIRADA FRIA COMO LA NIEVE,0.0,Neutral,-0.6,Negative,-0.2165203541517257,Negative
 Estoy perdido en ese azul de tus ojos🎶🔥,-0.3182,Negative,0.0,Neutral,-0.463808536529541,Negative
 2022 y aqui sigó aun escuchando,0.0,Neutral,0.0,Neutral,0.4958266913890838,Positive
 La mejor canción...😍🤩,0.802,Positive,1.0,Positive,0.8966907262802124,Positive
 Ami no me gusta ami me encanta 😍,0.7261,Positive,0.5,Positive,-0.446666806936264,Negative
-:) delen. buelta al celuar,0.4588,Positive,0.25,Neutral,0.2953113317489624,Neutral
-Antes no me gustaba este tipo de música pero gracias a Paulo me está encantando menos mal regreso,0.7127,Positive,0.1583333333333333,Neutral,0.5698316097259521,Positive
+:) delen. buelta al celuar,0.4588,Positive,0.25,Positive,0.2953113317489624,Neutral
+Antes no me gustaba este tipo de música pero gracias a Paulo me está encantando menos mal regreso,0.7127,Positive,0.1583333333333333,Positive,0.5698316097259521,Positive
 Bestia de Bestias!,0.0,Neutral,0.0,Neutral,0.3548212051391601,Positive
 "Lyrics
 Hey baby, no (Oh oh oh)
@@ -1423,12 +1423,12 @@ Ando con Paulo Londra
 Los blanquitos preferidos de todas las babies
 Ovy On The Drums
 Lo que hagamos con el destino, prrr (Gang)
-This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Neutral,-0.3208127617835998,Negative
+This is the Hollywood squad, yeah",0.7914,Positive,0.0286964472309299,Positive,-0.3208127617835998,Negative
 Paulo LONDRA EL PRO es el único PRO,0.0,Neutral,0.0,Neutral,0.2783128023147583,Neutral
 nena maldicionnn,-0.4019,Negative,0.0,Neutral,-0.5180831551551819,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 te amo paulo,0.6369,Positive,0.5,Positive,0.4578380286693573,Positive
-"Holaa espero q se encuentren muy bien, no quiero molestarlos peros solo q quería decirles q mi sueño es ser artista y hace poco inicie con este canal en el cual subiré canciones inéditas de todo tipo, asi q a quienes de corazón les nazca apoyarme escuchándome, suscribiéndose, compartiendo y todo eso se los agradeceré mucho gracias bendiciones...",0.9852,Positive,0.1533333333333333,Neutral,0.5467037558555603,Positive
+"Holaa espero q se encuentren muy bien, no quiero molestarlos peros solo q quería decirles q mi sueño es ser artista y hace poco inicie con este canal en el cual subiré canciones inéditas de todo tipo, asi q a quienes de corazón les nazca apoyarme escuchándome, suscribiéndose, compartiendo y todo eso se los agradeceré mucho gracias bendiciones...",0.9852,Positive,0.1533333333333333,Positive,0.5467037558555603,Positive
 "sorry es la unica musica tuya que me gusta
 
 
@@ -1444,7 +1444,7 @@ Yo viendo los comentarios diciendo que extrañan a Paulo mientras ya a sacado su
 """El regreso de paulo  en 2022 no fue el mismo , de plano que este Hit fue su mejor canción ojala y regrese a este tipo de canciones",0.7845,Positive,0.5,Positive,0.2532330751419067,Neutral
 1:20 mejor parte,0.6369,Positive,1.0,Positive,0.4017722010612488,Positive
 Nena maldicionnn,-0.4019,Negative,0.0,Neutral,-0.5180831551551819,Negative
-Si k sabe sacra música puede sacar las que dese es peros con ansias tus  nuevas letras aún que las antiguas son únicas 😂😂,0.8338,Positive,0.2037878787878787,Neutral,0.2725727260112762,Neutral
+Si k sabe sacra música puede sacar las que dese es peros con ansias tus  nuevas letras aún que las antiguas son únicas 😂😂,0.8338,Positive,0.2037878787878787,Positive,0.2725727260112762,Neutral
 "Lo conocí con esta canción, y desde entonces soy súper fan 😍 estoy muy feliz por tu regreso después de tanto tiempo, es momento de brillar ✨🔝❤",0.9691,Positive,0.4277777777777777,Positive,0.7783275246620178,Positive
 Si ya es verdad lo tenemos de vuelta el mejor exponente de Argentina para seguir escuchando buena música 🎶 👌,0.9436,Positive,0.5125,Positive,0.5194749236106873,Positive
 Paulo londra me encanta tu canción 💖✨😘,0.9403,Positive,0.5,Positive,0.7480160593986511,Positive
@@ -1465,13 +1465,13 @@ Quein todavia la escucha en el 2022 🥺❤,0.6369,Positive,0.0,Neutral,0.226127
 Que gran recuerdo me trae esta música 🎶😌 muy relajante,0.8805,Positive,0.5,Positive,0.7212468981742859,Positive
 ❤️❤️😚✨,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Unas de las buenas!,0.4926,Positive,0.875,Positive,0.5416072607040405,Positive
-Sería bueno de nuevo este duo 😎 Felicidades por el come back Paulo! Saludos desde El Salvador.,0.9151,Positive,0.3,Neutral,0.6543245315551758,Positive
+Sería bueno de nuevo este duo 😎 Felicidades por el come back Paulo! Saludos desde El Salvador.,0.9151,Positive,0.3,Positive,0.6543245315551758,Positive
 Ya volvío  siiiii,0.0,Neutral,0.0,Neutral,-0.3237700760364532,Negative
 Te esperamos PA-U-LO LON-DRA😍🥳😇🥰😎,0.9578,Positive,0.0,Neutral,0.2863087952136993,Neutral
 Está joyita núnca pasará de moda😍🔥,0.1531,Positive,0.0,Neutral,0.5898922085762024,Positive
 😍😍,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Me recuerdopppp,0.0,Neutral,0.0,Neutral,-0.3671087324619293,Negative
-Paulo alondra tú tienes tus tus seguidores hasta más que reguetoneros antiguos y me alegro que ya volviste 👍 ahora pa Lante espero una colaboración con tiago tu paisano la está rompiendo,0.7096,Positive,0.275,Neutral,-0.613730788230896,Negative
+Paulo alondra tú tienes tus tus seguidores hasta más que reguetoneros antiguos y me alegro que ya volviste 👍 ahora pa Lante espero una colaboración con tiago tu paisano la está rompiendo,0.7096,Positive,0.275,Positive,-0.613730788230896,Negative
 Regreso 2022,0.0,Neutral,0.0,Neutral,-0.4904780685901642,Negative
 casi dos años y yo escuchando la misma cancion  repitiendola sienpre,0.0,Neutral,0.0,Neutral,-0.390896737575531,Negative
 2022 y acá seguimos 🦁,0.0,Neutral,0.0,Neutral,0.3491342961788177,Positive
@@ -1517,7 +1517,7 @@ Hola Paula,0.0,Neutral,0.0,Neutral,0.2575337886810303,Neutral
 ¿Quién mas viene de plan A a seguir escuchando temasos del paulo? 🙊🔥🔥,-0.5859,Negative,0.0,Neutral,0.241880401968956,Neutral
 Queremos el remix por favor,0.3818,Positive,0.0,Neutral,-0.3255496323108673,Negative
 Plan-A <33,0.0,Neutral,0.0,Neutral,0.3005582094192505,Neutral
-2022 y con un nuevo temazoo😻,0.4588,Positive,0.1363636363636363,Neutral,0.5073661208152771,Positive
+2022 y con un nuevo temazoo😻,0.4588,Positive,0.1363636363636363,Positive,0.5073661208152771,Positive
 "Tu musica siempre rifará bendiciones y éxito Paulo,felices de que regresaste 😎❤️",0.9313,Positive,0.3666666666666667,Positive,0.6782745718955994,Positive
 alguien sabe por que ron weasley tiene a wilson el las manos,0.0,Neutral,0.0,Neutral,0.2542980909347534,Neutral
 trae muchas nostalgia estas canciones,0.0,Neutral,0.0,Neutral,0.5499062538146973,Positive
@@ -1527,16 +1527,16 @@ weeeeeeeeeeeeeeeeeeeeyyyyyyyyyyy volvio el king,0.0,Neutral,0.0,Neutral,0.313251
 Qra. Sías. Por. Acerté. Youtuber👍🧖,0.4019,Positive,0.0,Neutral,0.3211901187896728,Neutral
 Aquí está mi casion favorita,0.4588,Positive,0.5,Positive,0.6783680319786072,Positive
 Sube mas contenido plis,0.3182,Positive,0.5,Positive,0.392177939414978,Positive
-Si valió la pena esperarlo X’D,0.2263,Positive,0.3,Neutral,0.3240775465965271,Neutral
+Si valió la pena esperarlo X’D,0.2263,Positive,0.3,Positive,0.3240775465965271,Neutral
 "Los que llegaron acá después de escuchar ""Plan A"" ♥👑",0.6369,Positive,0.0,Neutral,-0.3097605109214782,Negative
 uwu,0.0,Neutral,0.0,Neutral,0.2725917398929596,Neutral
-Yo aqui despues de q saco su nueva cancion plan A 🤗,0.4215,Positive,0.1363636363636363,Neutral,0.452412337064743,Positive
+Yo aqui despues de q saco su nueva cancion plan A 🤗,0.4215,Positive,0.1363636363636363,Positive,0.452412337064743,Positive
 Quien no 😪,0.0,Neutral,0.0,Neutral,-0.684971272945404,Negative
 Hay tantas,0.0,Neutral,0.5,Positive,0.2506905496120453,Neutral
-Lenny solo esta de mas,0.0,Neutral,0.2,Neutral,-0.3594217002391815,Negative
+Lenny solo esta de mas,0.0,Neutral,0.2,Positive,-0.3594217002391815,Negative
 Ci,0.0,Neutral,0.0,Neutral,0.2833040952682495,Neutral
 Alimentos volvio,0.0,Neutral,0.0,Neutral,-0.295758843421936,Negative
-Ya después de tanta espera volviste paulo 😸,0.6705,Positive,0.1,Neutral,-0.3248939216136932,Negative
+Ya después de tanta espera volviste paulo 😸,0.6705,Positive,0.1,Positive,-0.3248939216136932,Negative
 💕🇦🇷🦁,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Ok pero esta canción 🔥🔥,-0.6808,Negative,0.5,Positive,0.5645961165428162,Positive
 Esta fue 🎵 la que nos ayudo a despertar al 🇦🇷León 🇦🇷,0.0,Neutral,0.0,Neutral,0.6347386240959167,Positive
@@ -1546,13 +1546,13 @@ otro TEMA ''INCREIBLE''... ❤❤❤❤,0.9624,Positive,0.9,Positive,-0.24315482
 Y volvimos con toda",0.0,Neutral,0.0,Neutral,-0.3553156554698944,Negative
 Temaso no me canso de escuchar esta rola,0.3412,Positive,-0.4,Negative,0.2503453195095062,Neutral
 Paulo nunca ha sexualizado una mujer es buena onda al amigo,0.7269,Positive,0.7,Positive,0.3400587439537048,Positive
-"Espero la próxima música que saque sea similar a esta quiero más de esto, me encantó plan A, pero no la podemos comparar con esta",0.5499,Positive,0.3,Neutral,0.4060656130313873,Positive
+"Espero la próxima música que saque sea similar a esta quiero más de esto, me encantó plan A, pero no la podemos comparar con esta",0.5499,Positive,0.3,Positive,0.4060656130313873,Positive
 2022 y tidavia es mi cancion favorita,0.4588,Positive,0.5,Positive,0.6224197745323181,Positive
 Paulo el masssa duroooo en estooo,0.4215,Positive,0.35,Positive,-0.3431015014648437,Negative
 ojito xd,0.5859,Positive,0.0,Neutral,0.2391593754291534,Neutral
 Volvioooo,0.0,Neutral,0.0,Neutral,-0.3499839305877685,Negative
 Joyita❤🔥,0.578,Positive,-0.1875,Negative,0.3085779249668121,Neutral
-0:10 pajineees ;),0.2263,Positive,0.25,Neutral,-0.2757640182971954,Negative
+0:10 pajineees ;),0.2263,Positive,0.25,Positive,-0.2757640182971954,Negative
 Te amooooooo paulo,0.6369,Positive,0.5,Positive,-0.3214568197727203,Negative
 Aqui ya todos lo conocían a paulo,0.0,Neutral,0.0,Neutral,0.4772805273532867,Positive
 Los que extrañamos a Paulo londra,-0.1531,Negative,0.0,Neutral,0.3001235127449035,Neutral

@@ -1,25 +1,25 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-Neyse gidiyim ödev yapıyım malum çözmem gerken 1800 soru var matematiktende matematik hocamdanda nefret ediyorum<3,-0.0,Neutral,0.0999999999999999,Neutral,-0.5880643725395203,Negative
+Neyse gidiyim ödev yapıyım malum çözmem gerken 1800 soru var matematiktende matematik hocamdanda nefret ediyorum<3,-0.0,Neutral,0.0999999999999999,Positive,-0.5880643725395203,Negative
 Twice as scientist is the best also the new side of them the chorus part are so addicting,0.6369,Positive,0.5681818181818181,Positive,0.7085182666778564,Positive
 500 yorumum oldu lan,0.0,Neutral,0.0,Neutral,-0.4537524580955505,Negative
 Ben hala demon Demon Slayerlin 2. Sezonunu izlemedim,0.0,Neutral,0.0,Neutral,0.3243592083454132,Neutral
 Olsun hem Spy x Family izlerim hem One Piece,0.0,Neutral,0.0,Neutral,-0.310928612947464,Negative
 Aot pazar geliyordu alismisim,0.0,Neutral,0.0,Neutral,0.2762572467327118,Neutral
-Bugün cumartesi Spy x Family yeni bölüm geliyodu dogru,0.0,Neutral,0.211038961038961,Neutral,0.4078004956245422,Positive
+Bugün cumartesi Spy x Family yeni bölüm geliyodu dogru,0.0,Neutral,0.211038961038961,Positive,0.4078004956245422,Positive
 Lan,0.0,Neutral,0.0,Neutral,0.2763443291187286,Neutral
 Bayadır one piece izlemedim 13 bölümüm birikti akşam onları izliyim bari,0.0,Neutral,-0.3,Negative,-0.2984369993209839,Negative
 114m olmadi bi uff,0.0,Neutral,0.0,Neutral,-0.2291042208671569,Negative
 Kizlarimin gölgelerine bile asik olabilirim,0.6369,Positive,0.5,Positive,-0.3076128661632538,Negative
-Jeongyeon cok güzel,0.6269,Positive,0.25,Neutral,0.545400083065033,Positive
+Jeongyeon cok güzel,0.6269,Positive,0.25,Positive,0.545400083065033,Positive
 1k+ yorum yapmak istiyorum az kalmis zatende,0.0772,Positive,0.0,Neutral,0.2879707515239715,Neutral
 Uff bana ne demek istiyorsun diyen kişi japon çıktı,0.0,Neutral,-0.15625,Negative,-0.6654261946678162,Negative
-Gecen Mina cizdim normalde yüz çizimim vasat olmasına rağmen Mina'nın yüz hatları fazla düzgün olduğu için hiç zorlanmadan çizdim şakasız,0.0382,Neutral,0.0625,Neutral,-0.3454746007919311,Negative
+Gecen Mina cizdim normalde yüz çizimim vasat olmasına rağmen Mina'nın yüz hatları fazla düzgün olduğu için hiç zorlanmadan çizdim şakasız,0.0382,Neutral,0.0625,Positive,-0.3454746007919311,Negative
 Mattan özel ders almak hiç istemiyorum uff cidden,-0.2316,Negative,-0.1666666666666666,Negative,0.4123675227165222,Positive
 1800 soruluk ödevim var yeter amk yeter,0.0,Neutral,0.0,Neutral,-0.4901725947856903,Negative
 Gözüm az best gg görsün,0.7506,Positive,0.4,Positive,0.3043085634708404,Neutral
 500 yorumumun olmasına az kalmış,0.0,Neutral,0.0,Neutral,0.3299181759357452,Neutral
 Tt bana hic iyi gelmiyor,-0.3412,Negative,0.7,Positive,0.5223708748817444,Positive
-Grammy ile eş değer ödül aldılar deyince grammy ile eş değer ödül alan tek grup bp diyen var uff aşırı komikler,0.8805,Positive,0.125,Neutral,-0.4337727129459381,Negative
+Grammy ile eş değer ödül aldılar deyince grammy ile eş değer ödül alan tek grup bp diyen var uff aşırı komikler,0.8805,Positive,0.125,Positive,-0.4337727129459381,Negative
 Tt ortaminda kizlara sürekli salliyorlar yeter amk yeter,0.0,Neutral,0.0,Neutral,0.3723616302013397,Positive
 Neyse aklima gelmisken dinliyim,0.0,Neutral,0.0,Neutral,-0.2914888560771942,Negative
 Allahim kendi kendime konuşuyorum burda,0.2732,Positive,0.0,Neutral,0.5087997913360596,Positive
@@ -32,7 +32,7 @@ Next comeback when?😌,0.3818,Positive,0.0,Neutral,0.2641659677028656,Neutral
 I love twice,0.6369,Positive,0.5,Positive,0.7702556848526001,Positive
 "113,601",0.0,Neutral,0.0,Neutral,0.253993958234787,Neutral
 Thank you once,0.3612,Positive,0.0,Neutral,0.6120771765708923,Positive
-ライブの余韻に浸ってる,0.0,Neutral,0.1363636363636363,Neutral,-0.3046761155128479,Negative
+ライブの余韻に浸ってる,0.0,Neutral,0.1363636363636363,Positive,-0.3046761155128479,Negative
 ONCEこんにちは,0.0,Neutral,0.0,Neutral,0.2562986016273498,Neutral
 今日もTWICEのために全力を尽くす！,0.6696,Positive,1.0,Positive,0.6537588238716125,Positive
 TZUYU❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -63,10 +63,10 @@ Keşke japon olsaydım,0.4019,Positive,0.0,Neutral,0.3728578686714172,Positive
 Tüm kızların sesleri mükemmel sektördeki en iyi gg saygilar,0.8779,Positive,1.0,Positive,0.7938982844352722,Positive
 Bugün çok vaktin yok biraz daha stream kasıp kitap okumaya gidicem,0.0,Neutral,0.35,Positive,-0.5065608024597168,Negative
 Yabancı biri görse ne diyor bu mal deyip geçer herhalde,0.0,Neutral,0.0,Neutral,-0.6481119990348816,Negative
-Her şeyimi burda anlatıyorum Türk biri görse aşırı komik olur,0.4927,Positive,0.325,Neutral,0.2426720261573791,Neutral
+Her şeyimi burda anlatıyorum Türk biri görse aşırı komik olur,0.4927,Positive,0.325,Positive,0.2426720261573791,Neutral
 Annem babam özel eğitim öğretmeni olunca zaten orda çalışabiliyorlar ama emekli olunca dönmek zorunda kalıyorlar böylesi daha iyi,0.6908,Positive,0.4285714285714286,Positive,0.2962765693664551,Neutral
 Şu lanet ülkemden kurtulmaktan başka bir şey istemiyorum,-0.34,Negative,0.5,Positive,-0.3377270698547363,Negative
-Test gibi bir şey yapıyorlarmış %70 üstü olunca başvuru yapabiliyormuşsun bende hemen atladım babam çok rahat geçer o testi eğer geçerse ciddi ciddi taşınıyoruz,0.5413,Positive,0.1289285714285714,Neutral,-0.6437070965766907,Negative
+Test gibi bir şey yapıyorlarmış %70 üstü olunca başvuru yapabiliyormuşsun bende hemen atladım babam çok rahat geçer o testi eğer geçerse ciddi ciddi taşınıyoruz,0.5413,Positive,0.1289285714285714,Positive,-0.6437070965766907,Negative
 Şimdi bugün babamla bıdıdı ediyorum sonra yurt dışı konusu açıldı konuşmaya başladık sonra babamın arkadaşı bi sistemle kanada'ya kalıcı gidebileceğimizi söyledi,0.128,Positive,-0.1833333333333333,Negative,-0.5014292001724243,Negative
 Ay bugün bir olaylar oldu anlatıcak kimsem olmadığı için buraya anlatıcam,-0.296,Negative,0.0,Neutral,-0.437065064907074,Negative
 Yorumların çoğu benim resmen,0.0,Neutral,0.5,Positive,0.3019070625305176,Neutral
@@ -76,9 +76,9 @@ WHERE TF IS JEONG?!!!,0.0,Neutral,0.0,Neutral,-0.4235943257808685,Negative
 <3,0.4404,Positive,1.0,Positive,0.3580817282199859,Positive
 "Essa música e um hino, plmds aprendam a apreciar a obra de arte dessas deusas",0.4019,Positive,0.0,Neutral,0.4988560676574707,Positive
 twice sorprendendo como siempre,0.2732,Positive,0.7,Positive,0.6895691752433777,Positive
-I love  sana voice its deep,0.6369,Positive,0.25,Neutral,0.7040813565254211,Positive
+I love  sana voice its deep,0.6369,Positive,0.25,Positive,0.7040813565254211,Positive
 Más vistas,0.0,Neutral,0.5,Positive,0.336663156747818,Positive
-"I just noticed today for the first time that the whole audience in the last shot are all the members, appearing multiple times. That's cool.",0.3182,Positive,0.16,Neutral,0.4008119702339172,Positive
+"I just noticed today for the first time that the whole audience in the last shot are all the members, appearing multiple times. That's cool.",0.3182,Positive,0.16,Positive,0.4008119702339172,Positive
 Hard working Queens 👑,-0.1027,Negative,-0.2916666666666667,Negative,0.3127920627593994,Neutral
 TWICE ♡ ONCE,0.0,Neutral,0.0,Neutral,-0.358412504196167,Negative
 Can you do a collab with 🖤BLΛƆKPIИK💗,0.7096,Positive,0.0,Neutral,0.296143114566803,Neutral
@@ -104,10 +104,10 @@ AW HEL YEAW HODY PARNTER<A<AAW HEL YEAW HODY PARNTER<A<AAW HEL YEAW HODY PARNTER
 ジョンヨン🤍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 ナヨン🤍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "1:28
-ここのダヒョンの笑顔で推しになりました。",0.6124,Positive,0.3,Neutral,0.41062793135643,Positive
+ここのダヒョンの笑顔で推しになりました。",0.6124,Positive,0.3,Positive,0.41062793135643,Positive
 Come on more vi3ws for scientist please,0.3182,Positive,0.5,Positive,0.2630840241909027,Neutral
 Arte de canción,0.0,Neutral,0.0,Neutral,0.4042706489562988,Positive
-كوريا بعيدة جدا عن دولتي 🥺,0.0,Neutral,0.1,Neutral,0.2983399033546448,Neutral
+كوريا بعيدة جدا عن دولتي 🥺,0.0,Neutral,0.1,Positive,0.2983399033546448,Neutral
 أحبكم بجنون ياحبيباتي التسعة أعشقكم ياتوايس خصوصا أنتي ياجيهيو بايسي 🥰🥺 معجب من المغرب 🇲🇦❤🇰🇷🥺,0.9578,Positive,-0.0416666666666666,Negative,0.3958629071712494,Positive
 Hiiiiiii,0.0,Neutral,0.0,Neutral,0.2563441097736358,Neutral
 get well soon sha sha❤️,0.2732,Positive,0.0,Neutral,0.5365654230117798,Positive
@@ -152,12 +152,12 @@ Why do you keep studying me,0.0,Neutral,0.0,Neutral,-0.2796175479888916,Negative
 Momo'nun bu saçları*dudak ısıran emoji,0.0,Neutral,0.0,Neutral,0.3055169880390167,Neutral
 Keşke Türkiye'yede gelseler gerçi gidebileceğimi sanmıyorum ama olsun,0.4019,Positive,0.0,Neutral,-0.3213841915130615,Negative
 Best gg olmak nasil bir duygu acaba,0.6369,Positive,1.0,Positive,0.4960188865661621,Positive
-Jeongyeon geri döndüğü için aşırı mutluyum hala daha kızımı gereksiz yere linçleyenler var uff umarım görüp görüp kendini üzmüyordur,0.9133,Positive,0.1833333333333333,Neutral,-0.3409077227115631,Negative
+Jeongyeon geri döndüğü için aşırı mutluyum hala daha kızımı gereksiz yere linçleyenler var uff umarım görüp görüp kendini üzmüyordur,0.9133,Positive,0.1833333333333333,Positive,-0.3409077227115631,Negative
 Bu mv tam bir sanat eseri,0.0,Neutral,0.0,Neutral,0.3863111138343811,Positive
-Kızlara destek amaçlı albüm almak istiyorum ama jyp sağ olsun stok yok,0.4678,Positive,0.2,Neutral,-0.402902603149414,Negative
-Burda neredeyse 500 yorumum var ve daha önce kaç kere hesabı gizledim,0.0,Neutral,0.1666666666666666,Neutral,-0.4878076016902923,Negative
-Hep güzel sanatlar istedim ama artık çok geç,0.1027,Positive,0.0583333333333333,Neutral,0.316037654876709,Neutral
-Zaman çok hızlı geçiyor,0.0,Neutral,0.2,Neutral,0.2423199862241745,Neutral
+Kızlara destek amaçlı albüm almak istiyorum ama jyp sağ olsun stok yok,0.4678,Positive,0.2,Positive,-0.402902603149414,Negative
+Burda neredeyse 500 yorumum var ve daha önce kaç kere hesabı gizledim,0.0,Neutral,0.1666666666666666,Positive,-0.4878076016902923,Negative
+Hep güzel sanatlar istedim ama artık çok geç,0.1027,Positive,0.0583333333333333,Positive,0.316037654876709,Neutral
+Zaman çok hızlı geçiyor,0.0,Neutral,0.2,Positive,0.2423199862241745,Neutral
 9 kız hayatım olmuş,0.0,Neutral,0.0,Neutral,-0.4037685394287109,Negative
 Sırf yayınlarını çevirisini beklemeden izlemek için Korece öğrenmeye başladım,0.0,Neutral,0.0,Neutral,-0.2395461201667785,Negative
 2:04 Momo yapma yanarız,0.0,Neutral,0.0,Neutral,-0.4652183651924133,Negative
@@ -175,7 +175,7 @@ Chaeyeong part so cute,0.5949,Positive,0.5,Positive,0.3716010451316833,Positive
 334k,0.0,Neutral,0.0,Neutral,0.2631402015686035,Neutral
 "Auto generated text: 😂😂 
 Marriage License 😂😂😂",0.926,Positive,0.0,Neutral,0.2548722624778747,Neutral
-"I can’t believe I haven’t seen anyone mention their little Swipe choreo at the end, it was super cute! But genuinely I didn’t really like this song when it first came out/first listen but reading the lyrics has really made me warm up to it. Formula of Love is an absolute banger and twice are so talented and hardworking, it’s hard not to appreciate all their effort despite sonic preferences. 💕",0.9805,Positive,0.2940972222222223,Neutral,0.3980593085289001,Positive
+"I can’t believe I haven’t seen anyone mention their little Swipe choreo at the end, it was super cute! But genuinely I didn’t really like this song when it first came out/first listen but reading the lyrics has really made me warm up to it. Formula of Love is an absolute banger and twice are so talented and hardworking, it’s hard not to appreciate all their effort despite sonic preferences. 💕",0.9805,Positive,0.2940972222222223,Positive,0.3980593085289001,Positive
 Why so serious,-0.1513,Negative,-0.3333333333333333,Negative,-0.5047723650932312,Negative
 Merhaba,0.0,Neutral,0.0,Neutral,-0.3114316761493683,Negative
 Selam,0.0,Neutral,0.0,Neutral,0.2378614395856857,Neutral
@@ -191,10 +191,10 @@ love this song so much and the dance in the end 🥹,0.6369,Positive,0.35,Positi
 "113.30M
 Welcome 113M~",0.4588,Positive,0.8,Positive,0.5624960064888,Positive
 My cousin love this song,0.6369,Positive,0.5,Positive,0.795229434967041,Positive
-"Let's just enjoy the mv, don't think about the views too much",0.4939,Positive,0.3,Neutral,0.4944081902503967,Positive
+"Let's just enjoy the mv, don't think about the views too much",0.4939,Positive,0.3,Positive,0.4944081902503967,Positive
 str34m masivo.,0.0,Neutral,0.0,Neutral,-0.4591865837574005,Negative
 😍😍😍😍😍😍,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
-No puedo esperar para el nuevo album,0.0,Neutral,0.1363636363636363,Neutral,0.3160271048545837,Neutral
+No puedo esperar para el nuevo album,0.0,Neutral,0.1363636363636363,Positive,0.3160271048545837,Neutral
 Twice best gg.,0.6369,Positive,1.0,Positive,0.4491859972476959,Positive
 113m<3,0.0,Neutral,0.0,Neutral,0.2588419914245605,Neutral
 Where is jeongyeon at the end ? lmao,0.5994,Positive,0.6,Positive,-0.2731346487998962,Negative
@@ -208,7 +208,7 @@ Lalisa pego cOvId a su mAdRe
 
 
  
-no es hate ;)",0.3252,Positive,0.325,Neutral,-0.4234843850135803,Negative
+no es hate ;)",0.3252,Positive,0.325,Positive,-0.4234843850135803,Negative
 🦋🔪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Which one is missing.,-0.296,Negative,-0.2,Negative,-0.3313038647174835,Negative
 thisss song kills me huhuhu.,-0.5423,Negative,0.0,Neutral,-0.7020310163497925,Negative
@@ -232,11 +232,11 @@ Keep streaming,0.0,Neutral,0.0,Neutral,-0.3960404992103576,Negative
 Me: yes ma’am 😭❤️",-0.25,Negative,0.0,Neutral,0.262237399816513,Neutral
 No me canto tu caca casino🤬,0.0,Neutral,0.0,Neutral,-0.6366639137268066,Negative
 Sana,0.0,Neutral,0.0,Neutral,0.3112448751926422,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Magical,0.0,Neutral,0.5,Positive,0.5848851203918457,Positive
 今はゆっくり休んでね🍀,0.0,Neutral,0.0,Neutral,-0.337152361869812,Negative
 Get well soon our sunshine Minatozaki Sana<3,0.6486,Positive,0.0,Neutral,0.5388767123222351,Positive
-1日目にライブで叫んでたONCEはサナちゃんをコロナに感染させてしまったことを反省しような,-0.7003,Negative,0.1931818181818181,Neutral,-0.4512263834476471,Negative
+1日目にライブで叫んでたONCEはサナちゃんをコロナに感染させてしまったことを反省しような,-0.7003,Negative,0.1931818181818181,Positive,-0.4512263834476471,Negative
 サナちゃんお大事に🥲,0.4939,Positive,0.0,Neutral,0.4523790776729584,Positive
 "Get well soon SANA💜
 u must be strong ok bc ur our sunshine 🌻",0.9325,Positive,0.4666666666666667,Positive,0.5176138281822205,Positive
@@ -245,7 +245,7 @@ Group chat once's where tf y'all at?😕,-0.3182,Negative,0.0,Neutral,0.24581177
 
 MOMO PLS HAVE MERCY ON ME",0.6447,Positive,0.0,Neutral,0.3929538130760193,Positive
 Better make a move,0.4404,Positive,0.5,Positive,0.3666324317455292,Positive
-5 meses tan rápido,0.0,Neutral,0.2,Neutral,0.3295152187347412,Neutral
+5 meses tan rápido,0.0,Neutral,0.2,Positive,0.3295152187347412,Neutral
 5 months ago feels like just yesterday😩 twice songs are so addicting❤️,0.1027,Positive,0.0,Neutral,-0.4964548647403717,Negative
 People say this flop like bitch u cant tell me that when u been bopping ur head??? Haters goin hate just know twice is more successful then u <3,-0.6702,Negative,0.3625,Positive,-0.8417575359344482,Negative
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -280,7 +280,7 @@ Sigo enamorada de esta canción,0.6369,Positive,0.5,Positive,0.6143669486045837,
 So beautiful ♡♡♡,0.6361,Positive,0.85,Positive,0.8615846037864685,Positive
 "I'm a 30-year-old man who can't stop watching k-pop MVs because the way Korean women move hypnotises me. 
 Do I have a problem?",-0.2052,Negative,0.0,Neutral,-0.2915318012237549,Negative
-Love is simple 🤍 (this M/V is not😂) loooove Twice 💖,0.9439,Positive,0.25,Neutral,0.5958271622657776,Positive
+Love is simple 🤍 (this M/V is not😂) loooove Twice 💖,0.9439,Positive,0.25,Positive,0.5958271622657776,Positive
 "https://youtu.be/I7Xv3TCIOOg
 
 
@@ -301,7 +301,7 @@ Kim Miso is the first Arab idol. Please support Kim Miso. Being Arab does not me
 "Contexto:lalisa pego covid
  a su madre",0.0,Neutral,0.0,Neutral,-0.3220406174659729,Negative
 Minanin sesi cok derin dinlerken hic sıkılmıyorum,0.2057,Positive,-0.25,Negative,-0.3824564218521118,Negative
-Ilk defa twiceye yorum yapma geregj duydum,0.0,Neutral,0.25,Neutral,-0.3146100044250488,Negative
+Ilk defa twiceye yorum yapma geregj duydum,0.0,Neutral,0.25,Positive,-0.3146100044250488,Negative
 Ayh selamm,0.0,Neutral,0.0,Neutral,0.2755156755447387,Neutral
 the feelsa gidiyim,0.0,Neutral,0.0,Neutral,0.2639324963092804,Neutral
 momo,0.0,Neutral,0.0,Neutral,0.3201306760311126,Neutral
@@ -324,7 +324,7 @@ Congratulations queens on your successful tokyo dome concert!!💖,0.9401,Positi
 my loves,0.5719,Positive,0.0,Neutral,0.6783173680305481,Positive
 mi amore 💖,0.891,Positive,0.5,Positive,0.6919680237770081,Positive
 💖💗💕💘,0.9674,Positive,0.0,Neutral,0.3085779249668121,Neutral
-i miss you so much TWICE 😫💖,0.3892,Positive,0.2,Neutral,-0.4093441665172577,Negative
+i miss you so much TWICE 😫💖,0.3892,Positive,0.2,Positive,-0.4093441665172577,Negative
 5 months ago already 🥺❤️,0.0,Neutral,0.0,Neutral,-0.4357005357742309,Negative
 Nayeon aşkım,0.6369,Positive,0.5,Positive,0.2597042024135589,Neutral
 "TW-LOG @ 4th WORLD TOUR 'Ⅲ' ep.JIHYO
@@ -332,14 +332,14 @@ Nayeon aşkım,0.6369,Positive,0.5,Positive,0.2597042024135589,Neutral
 ❤YouTube: https://youtu.be/ueaGjpweu38
 💚NAVER TV: https://tv.naver.com/v/26447218",0.0,Neutral,0.0,Neutral,0.2785472869873047,Neutral
 SCT113M,0.0,Neutral,0.0,Neutral,0.290958434343338,Neutral
-TWICE is the first K-pop girl group to do three nights at the Tokyo Dome 🇯🇵 🤩,0.0,Neutral,0.25,Neutral,0.2946798503398895,Neutral
+TWICE is the first K-pop girl group to do three nights at the Tokyo Dome 🇯🇵 🤩,0.0,Neutral,0.25,Positive,0.2946798503398895,Neutral
 "GET WELL SOON SANA 
 
 STR3AM HARDER",0.2732,Positive,-0.1,Negative,0.3501789271831512,Positive
-This is my New favorite songs this song is getting trending because the song is beautiful and the all who simg this song having a hard working,0.7579,Positive,0.2986742424242424,Neutral,0.6661708354949951,Positive
+This is my New favorite songs this song is getting trending because the song is beautiful and the all who simg this song having a hard working,0.7579,Positive,0.2986742424242424,Positive,0.6661708354949951,Positive
 #GetWellSoonSana,0.0,Neutral,0.0,Neutral,-0.2701922953128814,Negative
-TWICEのライブは毎回絶対楽しい,0.5563,Positive,0.2181818181818181,Neutral,0.5957291126251221,Positive
-ライブお疲れ様でした🤍,0.3612,Positive,0.1363636363636363,Neutral,-0.2530872523784637,Negative
+TWICEのライブは毎回絶対楽しい,0.5563,Positive,0.2181818181818181,Positive,0.5957291126251221,Positive
+ライブお疲れ様でした🤍,0.3612,Positive,0.1363636363636363,Positive,-0.2530872523784637,Negative
 113M達成おめでとう！,0.636,Positive,0.0,Neutral,0.6966840624809265,Positive
 *SCIENTIST  114m* ~~ *go  go  fighting*,-0.3612,Negative,0.0,Neutral,-0.2793497741222381,Negative
 "*TWICE REALITY   ""TIME TO TWICE""* 🔥",-0.34,Negative,0.0,Neutral,-0.3849953413009643,Negative
@@ -347,7 +347,7 @@ TWICEのライブは毎回絶対楽しい,0.5563,Positive,0.2181818181818181,Neu
 *113m*   *CONGRATULATIONS*,0.6841,Positive,0.0,Neutral,0.3891613781452179,Positive
 Wow sus música está lindisima,0.8271,Positive,0.475,Positive,0.7589279413223267,Positive
 The only thing bad about this song is that it has an ending,-0.5423,Negative,-0.3499999999999999,Negative,0.3825497031211853,Positive
-"Sana has tested positive for Covid-19 today. I'm praying for her fast recovery. I hope she doesn't have any symptoms and it's just mild. Get well soon, Sana. We love you so much. Take care, be safe and I hope you're healthy. The 8 members tested negative, but I hope they're also doing fine. We love you, TWICE! I pray for every member's safety and health. 💜",0.9883,Positive,0.3202272727272727,Neutral,0.8116067051887512,Positive
+"Sana has tested positive for Covid-19 today. I'm praying for her fast recovery. I hope she doesn't have any symptoms and it's just mild. Get well soon, Sana. We love you so much. Take care, be safe and I hope you're healthy. The 8 members tested negative, but I hope they're also doing fine. We love you, TWICE! I pray for every member's safety and health. 💜",0.9883,Positive,0.3202272727272727,Positive,0.8116067051887512,Positive
 113M,0.0,Neutral,0.0,Neutral,0.2516061067581177,Neutral
 wowww♥,0.6369,Positive,1.0,Positive,0.6294405460357666,Positive
 "Plot twist: The guy doesn't like them
@@ -366,9 +366,9 @@ morning~,0.0,Neutral,0.0,Neutral,0.3336197733879089,Positive
 I LOVE THIS THANK YOU TWICE FOR EXISTING,0.795,Positive,0.5,Positive,0.8851062059402466,Positive
 Candu banget ni lagu,0.0,Neutral,0.0,Neutral,-0.3510286808013916,Negative
 "Today is 4/26th birthday but no one knows. Twice songs The only thing that can make me happy
-So thanks to them, you are not disappointed or sad",0.9435,Positive,0.175,Neutral,0.392276257276535,Positive
+So thanks to them, you are not disappointed or sad",0.9435,Positive,0.175,Positive,0.392276257276535,Positive
 QUEENS,0.0,Neutral,0.0,Neutral,0.3019631803035736,Neutral
-At first I didn’t like the song and then three months later it started getting to me after watching so much videos.,0.3612,Positive,0.15,Neutral,-0.4775004684925079,Negative
+At first I didn’t like the song and then three months later it started getting to me after watching so much videos.,0.3612,Positive,0.15,Positive,-0.4775004684925079,Negative
 "0:42 nayeon parece que dice ""la lisa pego covid asu madre"" xd",0.5859,Positive,0.0,Neutral,-0.5903544425964355,Negative
 924,0.0,Neutral,0.0,Neutral,0.2578810751438141,Neutral
 Scientist,0.0,Neutral,0.0,Neutral,0.3476628065109253,Positive
@@ -393,10 +393,10 @@ TWICE LOVE YOU SO MUCH ♡,0.7125,Positive,0.35,Positive,0.8296872973442078,Posi
 I am your fan,0.3182,Positive,0.0,Neutral,0.688962996006012,Positive
 I love twice,0.6369,Positive,0.5,Positive,0.7702556848526001,Positive
 Queen Twice,0.0,Neutral,0.0,Neutral,0.4169574677944183,Positive
-와 씨 톰브라운 얼마나 돈을 부었으면 다 같이 톰브라운 입고 있냐 마지막에,0.5859,Positive,0.15,Neutral,-0.2757992446422577,Negative
-주르르 덕분에 알게된 띵곡,0.4404,Positive,0.2,Neutral,0.2915447950363159,Neutral
+와 씨 톰브라운 얼마나 돈을 부었으면 다 같이 톰브라운 입고 있냐 마지막에,0.5859,Positive,0.15,Positive,-0.2757992446422577,Negative
+주르르 덕분에 알게된 띵곡,0.4404,Positive,0.2,Positive,0.2915447950363159,Neutral
 Einstein chaeyoung,0.0,Neutral,0.0,Neutral,0.2443602830171585,Neutral
-"this is such a catchy tune, its still top in my playlist...",0.2023,Positive,0.25,Neutral,0.7560991048812866,Positive
+"this is such a catchy tune, its still top in my playlist...",0.2023,Positive,0.25,Positive,0.7560991048812866,Positive
 Day3 TOKYO DOME later,0.0,Neutral,0.0,Neutral,0.2486746609210968,Neutral
 Once's str3am,0.0,Neutral,0.0,Neutral,0.2641535103321075,Neutral
 Jeongyeon we luv u 💘💘,0.8555,Positive,0.0,Neutral,0.3167900443077087,Neutral
@@ -491,11 +491,11 @@ I LOVE YOU TWICE👌,0.9015,Positive,0.5,Positive,0.8701996207237244,Positive
 Idc what people gonna say about this song. SCIENTIST SOTY,0.0,Neutral,0.0,Neutral,-0.2902487814426422,Negative
 #arte,0.0,Neutral,0.0,Neutral,0.4622203707695007,Positive
 Oh dahyun a crush is just the tip of the iceberg for what I feel for you 🙈,-0.1531,Negative,0.0,Neutral,0.6699407696723938,Positive
-Love the red streak in momos hair,0.6369,Positive,0.25,Neutral,0.6952962875366211,Positive
+Love the red streak in momos hair,0.6369,Positive,0.25,Positive,0.6952962875366211,Positive
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 사랑해 나연아 행복한 삶을 기원하며 트와이스 팔라카💖,0.9451,Positive,0.65,Positive,0.6643065214157104,Positive
 iTZY💝_@<3,0.6369,Positive,0.0,Neutral,0.2587734460830688,Neutral
-The outfits in this mv are so pretty 🤩 😍,0.8116,Positive,0.25,Neutral,0.5544499754905701,Positive
+The outfits in this mv are so pretty 🤩 😍,0.8116,Positive,0.25,Positive,0.5544499754905701,Positive
 과학자^^~~  노래춤 끝내주네용,0.5859,Positive,0.6000000000000001,Positive,0.2389365136623382,Neutral
 ❤❤👍,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 There So pretty Omg The  Visuals!!😭 AND CONCEPT ALSO CHOREOGRAPHY!! THIS SONG OMG EIEJWI2JVQ,0.3738,Positive,0.390625,Positive,0.2114460617303848,Neutral
@@ -503,10 +503,10 @@ There So pretty Omg The  Visuals!!😭 AND CONCEPT ALSO CHOREOGRAPHY!! THIS SONG
 
 
 나는 아랍이고 나는 트와이스를 한 번 사랑하고 그들을 만나기를 희망하고 나는 그들을 위해 아무 목적이 없으며 나는 그들을 가장 사랑합니다 🤍🤍",0.9648,Positive,0.5,Positive,0.8915241956710815,Positive
-"I have not stopped listening to this song since it came out, definitely an instant classic",0.5213,Positive,0.0833333333333333,Neutral,0.858390748500824,Positive
+"I have not stopped listening to this song since it came out, definitely an instant classic",0.5213,Positive,0.0833333333333333,Positive,0.858390748500824,Positive
 축하합니다 JYP ENTERTAINMENT I LOVED THIS SONG LOVE TWICE,0.9584,Positive,0.6,Positive,0.8076483607292175,Positive
 Bruh chaeyoung looked so creepy here 1:55,0.0,Neutral,-0.5,Negative,-0.4800796806812286,Negative
-Damm right I got a crush,-0.5106,Negative,0.2857142857142857,Neutral,-0.2836320996284485,Negative
+Damm right I got a crush,-0.5106,Negative,0.2857142857142857,Positive,-0.2836320996284485,Negative
 ライブ楽しかった！！！,0.6671,Positive,0.5259454900568181,Positive,0.5783681869506836,Positive
 wish more happiness and success for Twice 💙,0.9409,Positive,0.5,Positive,0.6288074254989624,Positive
 Twice I'm soooooo proud of you 🍭,0.4767,Positive,0.8,Positive,0.7064601182937622,Positive
@@ -545,7 +545,7 @@ I love twice 😍😍💖💖,0.9719,Positive,0.5,Positive,0.7749993205070496,Po
 What u what u waiting for,0.0,Neutral,0.0,Neutral,0.6056882739067078,Positive
 happiest birthday chaeyoung!!<3,0.6988,Positive,0.0,Neutral,0.5686564445495605,Positive
 "Dahyun, why are you so cute?",0.5949,Positive,0.5,Positive,0.2456414997577667,Neutral
-Vuelvan los amoooo 💖💖💖💖💖💖,0.9915,Positive,0.25,Neutral,-0.2765518128871918,Negative
+Vuelvan los amoooo 💖💖💖💖💖💖,0.9915,Positive,0.25,Positive,-0.2765518128871918,Negative
 "Jeongyeon wasn't in the pool room, why??At this time 2:44Most of the time I know she's sick",-0.5661,Negative,-0.7142857142857143,Negative,-0.4929202795028686,Negative
 go 150M!,0.0,Neutral,0.0,Neutral,-0.375208169221878,Negative
 Yaaaaaaaaaa,0.0,Neutral,0.0,Neutral,-0.3725264966487884,Negative
@@ -587,7 +587,7 @@ CHAEYOUNG,0.0,Neutral,0.0,Neutral,0.2848420143127441,Neutral
 ❤YouTube: https://youtu.be/DCsSb7CxIgs
 💚NAVER TV: https://tv.naver.com/v/26376632",0.5994,Positive,0.0,Neutral,0.234231948852539,Neutral
 Ji428,0.0,Neutral,0.0,Neutral,0.2608161568641662,Neutral
-日本人ONCEライブ楽しもう！,0.5411,Positive,0.1901515151515151,Neutral,0.5473976135253906,Positive
+日本人ONCEライブ楽しもう！,0.5411,Positive,0.1901515151515151,Positive,0.5473976135253906,Positive
 The best girls,0.6369,Positive,1.0,Positive,0.9148812294006348,Positive
 "Tokyo Dome tomorrow!!!
 Japanese ONCE have a nice day!!!",0.6083,Positive,0.5,Positive,0.5920306444168091,Positive
@@ -602,7 +602,7 @@ As maiores do mundo!!!!!!!!!,0.0,Neutral,0.0,Neutral,0.8528575301170349,Positive
 "*Dahyun* : ""YOU GOT A CRUSH ON ME""😍😍
 *Me* : ""YES UNNIE""❤❤😘😘
 😘😘😘😘😘😘😍😍😍😍😍😍❤❤❤❤❤❤",0.9977,Positive,0.0,Neutral,-0.3291184902191162,Negative
-"Chaeyoung. I really have never seen an idol do what you’ve done before, and this is a huge reason why you grabbed my attention immediately. I want to first start by addressing your musicality. I love your voice when you rap, because it is so powerful and light at the same time. The contrast between the daintiness and delicacy of your voice and the lyrics that you rap is simply astonishing. You possess so much individuality in this sense. You bring a new sound to every Twice track with your fresh raps and the different ways in which you can fluctuate your voice. Similarly to your raps, your singing voice is so soft and pure. I love that you don’t over-exert your voice, and it sounds so natural when you sing. You are so genuine and heartfelt; and it makes us feel like we are getting to listen to what you’re feeling. I can see you getting lost in the music when you sing, and the stories that you tell to us through your voice are so believable. Your voice, as a whole, is limitless; and you’ve increasingly become one of the most fluid and diverse vocalists to share music. On top of all of all of this, it is impossible to take our eyes off of you when you dance because you move with such swiftness and technique. You dance with such personal expression and it allows you to present yourself artistically to your Once in your own way. You treat each move delicately and tenderly, and represent each concept impressionably with your authentic style. You give just the right amount of emphasis on each movement and highlight the peak of each choreography. You demonstrate what distinguishes Twice’s choreographies from that of other groups, and it is so enlightening getting to see you personalize this beloved art form. You are one of the most talented and refreshing artist who have ever come to be. You go where others have not gone, and because of this, we’re getting a new sound and vision that the world has never gotten before. Your sense is entirely yours alone and there is no telling how it will continue to change how music can be defined and created. Thank you for being a part of some of the most timeless music that we’ve gotten to experience. In addition your musicality, I also admire and cherish your personality. I believe one of the first qualities I noticed you possessed was this warmth. You are just so friendly to everybody and I can see that people naturally are attracted to your openness and willingness to accept them as is. I love that you are so goofy and fun-loving, and are always at the center of many cherished moments. You have charmed so many people just by being yourself, and perhaps it is your members who you have impacted in this way the most. I realize that they are comfortable being exactly who they are around you, and they don’t have to change because you accept them as they come. I see how easily that they laugh when they are around you and you can help them to enjoy life no matter what situation that they’re in. Knowing them for so long has allowed you to personally know what they all like, and you know just what to do cheer them up again. When they feel like they need to confide in somebody, you are who they can turn to because you are such a patient listener. You heal your members by offering them relief in their busy lives that they can’t get anywhere else. Given the way they carry themselves today, it can be said that they might not be where they are today if they had never met you. You’ve given them the greatest love possible and been the best person they could have met to help them grow. You are somebody who they can always thank for being there for some of the greatest memories of their lives. Thank you for changing their lives in the best of ways. Your Once are also fortunate enough to hold a very sacred part of your heart. I love how you open up your world to your Once and invite them into your everyday lifestyle. The activities that you engage in could be kept private or done by yourself, but you include your Once in these events very often. I believe that you strive to give us a piece of you in any way that you can so that we do feel like we are always with you. I also feel like you trust your Once enough to completely be yourself around them. I feel like that you are always your most artistic and creative when you are around your Once, and you really seem to get a lot of motivation from us as well. For instance, your fashion sense is one of the most innovative that I’ve ever seen. You dress yourself up in a way that is completely different from all else around you, and I believe that you gain enough confidence to express yourself around those who love you the most. You’ve always been so honest with us and there is no secret about how you’re feeling because you want your Once to know how you’ve changed from one day to the next. It really does feel like we are partaking in your evolution and you are documenting it for us every step of the way. It is an honor to be the ones who get to be by your side while you take the road you are on. You are the reason so many Once can believe in themselves today, and you are family to those who need it. Thank you for protecting our feelings and always looking our for our well being. Thank you, as well as with your members, for completely changing our lives and helping us see the beauty in life. I want to personally thank your family for raising you and helping you become the delightful and selfless young woman you are today. I know your family is likely the biggest reason why you were able to follow your heart and do what you’ve set out to do. I also know that you’ve kept them with you for the entirety of your time with Twice, and just in general. I’m sure you already know this, but I just want you to never forget your family and that they are always waiting for you.  When you feel lost, and like there is nobody who understands you, remember that your family does and always will. They love and support you more than anybody else in this world does, and just when you think you’re alone, you have them to pick you back up again. I can only imagine how they must feel to see how wise you’ve become and to see how you help so many others in this world. Remember that no matter what you do, they will always be proud of you and every action that you take honors them. You reflect your family with the way you choose to live your life, and I know that they are so blessed to have you. As Once, we want to thank your family and we keep them in our hearts as you do. We strive to spread the same acceptance and generosity in the world as you do, and as they do as well. I know that you’ve been through a lot, both professionally, and personally. We don’t even know the half of what you’ve been through, or how you might have felt during these times. On behalf of all of your loved ones, I want to state just how proud we are of you for making it past all of these hardships. It takes an undeniable amount of strength and a lot of resilience to make it past all that you have. It is impressive enough to come out on the other side, but you triumph over these struggles and learn from them as well. It takes a lot of courage to look at your difficult moments and take positivity and opportunity from them. You have taught your Once, and the rest of the world that there is strength in numbers. With your members by your side, you’ve been able to rid of what has once ailed you. You teach us that as long as we put faith in our loved ones, we will be okay and see a brighter day. Thank you for teaching us how to deal with our problems and how we can rise above them. You have so much perseverance and I know that you can make it through whatever you go through in the future. I hope that on this special day, you do all that you set your mind to, and all of your dreams come true. I hope that you know that all of you Once around the world are celebrating the inspirational and remarkable person that you are. We may not be able to celebrate with you in person, but that does not diminish our ability to commemorate your glory and prowess. I hope that you let our love for you lift you up and help you get to the places that you thought were only imaginable. I wish that this day helps you to see just how many hearts you’ve touched and people you’ve encouraged. I hope that the people who surround you also help you to see what a legendary person that you are. I hope that every second of this day is spent with pure happiness, and that it goes down as one of the greatest days you’ve ever had. Please relax and spend this day doing all that you desire! Thank you for sacrificing so much just to make Twice, and your own personal works possible. Thank you for suffering through any pain, doubt, fear, concern, isolation, frustration, confusion, fatigue, defeat, and so much more just to bring any content that you’ve created to life. I hope that you don’t doubt your position or the role you have in this world, because all of your efforts, regardless of how you might view them, change somebody's mood, day, or life somewhere. You are the reason that so many can love themselves and can see their true potential. You are exactly the purity and empathy that this world needs. I hope that you don't feel the need to overwork yourself, because what you give us is more than we could ever ask for or expect. You couldn't show us a greater love and a better appreciation for life. Please don't overwork yourself, because you already do so much for us and you give us more than you recieve! You are beautiful inside and out, and we thank you for all that you do for so many people everywhere. I pray that you and your loved ones stay safe, and find happiness and worth in the future! On behalf of all of your loved ones, I wish the happiest of birthdays to our strawberry princess! We adore you so much!!!!!",0.9999,Positive,0.3067671527857827,Neutral,0.862420380115509,Positive
+"Chaeyoung. I really have never seen an idol do what you’ve done before, and this is a huge reason why you grabbed my attention immediately. I want to first start by addressing your musicality. I love your voice when you rap, because it is so powerful and light at the same time. The contrast between the daintiness and delicacy of your voice and the lyrics that you rap is simply astonishing. You possess so much individuality in this sense. You bring a new sound to every Twice track with your fresh raps and the different ways in which you can fluctuate your voice. Similarly to your raps, your singing voice is so soft and pure. I love that you don’t over-exert your voice, and it sounds so natural when you sing. You are so genuine and heartfelt; and it makes us feel like we are getting to listen to what you’re feeling. I can see you getting lost in the music when you sing, and the stories that you tell to us through your voice are so believable. Your voice, as a whole, is limitless; and you’ve increasingly become one of the most fluid and diverse vocalists to share music. On top of all of all of this, it is impossible to take our eyes off of you when you dance because you move with such swiftness and technique. You dance with such personal expression and it allows you to present yourself artistically to your Once in your own way. You treat each move delicately and tenderly, and represent each concept impressionably with your authentic style. You give just the right amount of emphasis on each movement and highlight the peak of each choreography. You demonstrate what distinguishes Twice’s choreographies from that of other groups, and it is so enlightening getting to see you personalize this beloved art form. You are one of the most talented and refreshing artist who have ever come to be. You go where others have not gone, and because of this, we’re getting a new sound and vision that the world has never gotten before. Your sense is entirely yours alone and there is no telling how it will continue to change how music can be defined and created. Thank you for being a part of some of the most timeless music that we’ve gotten to experience. In addition your musicality, I also admire and cherish your personality. I believe one of the first qualities I noticed you possessed was this warmth. You are just so friendly to everybody and I can see that people naturally are attracted to your openness and willingness to accept them as is. I love that you are so goofy and fun-loving, and are always at the center of many cherished moments. You have charmed so many people just by being yourself, and perhaps it is your members who you have impacted in this way the most. I realize that they are comfortable being exactly who they are around you, and they don’t have to change because you accept them as they come. I see how easily that they laugh when they are around you and you can help them to enjoy life no matter what situation that they’re in. Knowing them for so long has allowed you to personally know what they all like, and you know just what to do cheer them up again. When they feel like they need to confide in somebody, you are who they can turn to because you are such a patient listener. You heal your members by offering them relief in their busy lives that they can’t get anywhere else. Given the way they carry themselves today, it can be said that they might not be where they are today if they had never met you. You’ve given them the greatest love possible and been the best person they could have met to help them grow. You are somebody who they can always thank for being there for some of the greatest memories of their lives. Thank you for changing their lives in the best of ways. Your Once are also fortunate enough to hold a very sacred part of your heart. I love how you open up your world to your Once and invite them into your everyday lifestyle. The activities that you engage in could be kept private or done by yourself, but you include your Once in these events very often. I believe that you strive to give us a piece of you in any way that you can so that we do feel like we are always with you. I also feel like you trust your Once enough to completely be yourself around them. I feel like that you are always your most artistic and creative when you are around your Once, and you really seem to get a lot of motivation from us as well. For instance, your fashion sense is one of the most innovative that I’ve ever seen. You dress yourself up in a way that is completely different from all else around you, and I believe that you gain enough confidence to express yourself around those who love you the most. You’ve always been so honest with us and there is no secret about how you’re feeling because you want your Once to know how you’ve changed from one day to the next. It really does feel like we are partaking in your evolution and you are documenting it for us every step of the way. It is an honor to be the ones who get to be by your side while you take the road you are on. You are the reason so many Once can believe in themselves today, and you are family to those who need it. Thank you for protecting our feelings and always looking our for our well being. Thank you, as well as with your members, for completely changing our lives and helping us see the beauty in life. I want to personally thank your family for raising you and helping you become the delightful and selfless young woman you are today. I know your family is likely the biggest reason why you were able to follow your heart and do what you’ve set out to do. I also know that you’ve kept them with you for the entirety of your time with Twice, and just in general. I’m sure you already know this, but I just want you to never forget your family and that they are always waiting for you.  When you feel lost, and like there is nobody who understands you, remember that your family does and always will. They love and support you more than anybody else in this world does, and just when you think you’re alone, you have them to pick you back up again. I can only imagine how they must feel to see how wise you’ve become and to see how you help so many others in this world. Remember that no matter what you do, they will always be proud of you and every action that you take honors them. You reflect your family with the way you choose to live your life, and I know that they are so blessed to have you. As Once, we want to thank your family and we keep them in our hearts as you do. We strive to spread the same acceptance and generosity in the world as you do, and as they do as well. I know that you’ve been through a lot, both professionally, and personally. We don’t even know the half of what you’ve been through, or how you might have felt during these times. On behalf of all of your loved ones, I want to state just how proud we are of you for making it past all of these hardships. It takes an undeniable amount of strength and a lot of resilience to make it past all that you have. It is impressive enough to come out on the other side, but you triumph over these struggles and learn from them as well. It takes a lot of courage to look at your difficult moments and take positivity and opportunity from them. You have taught your Once, and the rest of the world that there is strength in numbers. With your members by your side, you’ve been able to rid of what has once ailed you. You teach us that as long as we put faith in our loved ones, we will be okay and see a brighter day. Thank you for teaching us how to deal with our problems and how we can rise above them. You have so much perseverance and I know that you can make it through whatever you go through in the future. I hope that on this special day, you do all that you set your mind to, and all of your dreams come true. I hope that you know that all of you Once around the world are celebrating the inspirational and remarkable person that you are. We may not be able to celebrate with you in person, but that does not diminish our ability to commemorate your glory and prowess. I hope that you let our love for you lift you up and help you get to the places that you thought were only imaginable. I wish that this day helps you to see just how many hearts you’ve touched and people you’ve encouraged. I hope that the people who surround you also help you to see what a legendary person that you are. I hope that every second of this day is spent with pure happiness, and that it goes down as one of the greatest days you’ve ever had. Please relax and spend this day doing all that you desire! Thank you for sacrificing so much just to make Twice, and your own personal works possible. Thank you for suffering through any pain, doubt, fear, concern, isolation, frustration, confusion, fatigue, defeat, and so much more just to bring any content that you’ve created to life. I hope that you don’t doubt your position or the role you have in this world, because all of your efforts, regardless of how you might view them, change somebody's mood, day, or life somewhere. You are the reason that so many can love themselves and can see their true potential. You are exactly the purity and empathy that this world needs. I hope that you don't feel the need to overwork yourself, because what you give us is more than we could ever ask for or expect. You couldn't show us a greater love and a better appreciation for life. Please don't overwork yourself, because you already do so much for us and you give us more than you recieve! You are beautiful inside and out, and we thank you for all that you do for so many people everywhere. I pray that you and your loved ones stay safe, and find happiness and worth in the future! On behalf of all of your loved ones, I wish the happiest of birthdays to our strawberry princess! We adore you so much!!!!!",0.9999,Positive,0.3067671527857827,Positive,0.862420380115509,Positive
 once go to 113m,0.0,Neutral,0.0,Neutral,-0.3278298676013946,Negative
 Boo appears again,0.0,Neutral,0.0,Neutral,0.282686710357666,Neutral
 Chaeyoung and dubu rap so cool,0.4572,Positive,0.35,Positive,0.6313256025314331,Positive
@@ -611,7 +611,7 @@ lets not abandon this mv onces! keep streaming!,0.457,Positive,0.0,Neutral,-0.72
 Beautiful Music and MV!,0.636,Positive,1.0,Positive,0.7792647480964661,Positive
 Las amo<333,0.6369,Positive,0.5,Positive,0.2339920699596405,Neutral
 Chaeyoung so pretty <3,0.7698,Positive,0.625,Positive,0.6580512523651123,Positive
-I’m ready to solve the value of x.,0.6908,Positive,0.2,Neutral,0.4324997961521148,Positive
+I’m ready to solve the value of x.,0.6908,Positive,0.2,Positive,0.4324997961521148,Positive
 Jururu brought me here ♡ KingㅡA !,0.0,Neutral,0.0,Neutral,0.7997666001319885,Positive
 Literally one of their songs that triggers me for the fake teasers,-0.5859,Negative,-0.5,Negative,-0.3206775486469269,Negative
 wanna know,0.0,Neutral,0.0,Neutral,0.3600226938724518,Positive
@@ -695,15 +695,15 @@ mami shikin daero What u, what u waiting for?
 
 You better move
 What u waiting
-What u waiting",0.9488,Positive,0.099074074074074,Neutral,-0.5947325825691223,Negative
+What u waiting",0.9488,Positive,0.099074074074074,Positive,-0.5947325825691223,Negative
 Twice,0.0,Neutral,0.0,Neutral,-0.2542644739151001,Negative
 MOMO TE AMO!,0.6696,Positive,0.625,Positive,0.6301803588867188,Positive
-This lyric is different but singing way is like bts butter song and i am army of 💜ᗷTS⟭⟬💜,0.8765,Positive,0.125,Neutral,0.3107120990753174,Neutral
-as meninas estão a pura perfeição nesse M/V,0.5719,Positive,0.2142857142857142,Neutral,0.7459459900856018,Positive
-"Idk, this feels like the least loved title track of twice. Even older tracks are getting more vieews.",-0.2607,Negative,0.2666666666666666,Neutral,-0.4500943422317505,Negative
+This lyric is different but singing way is like bts butter song and i am army of 💜ᗷTS⟭⟬💜,0.8765,Positive,0.125,Positive,0.3107120990753174,Neutral
+as meninas estão a pura perfeição nesse M/V,0.5719,Positive,0.2142857142857142,Positive,0.7459459900856018,Positive
+"Idk, this feels like the least loved title track of twice. Even older tracks are getting more vieews.",-0.2607,Negative,0.2666666666666666,Positive,-0.4500943422317505,Negative
 Thank you to all the once who are streaming this mv. Let's stream more to reach 200M :>,0.7165,Positive,0.5,Positive,0.6505178213119507,Positive
 This song is the best,0.6369,Positive,1.0,Positive,0.7984710931777954,Positive
-I need more of this black and red hair momo…😍,0.4588,Positive,0.1111111111111111,Neutral,0.4798377454280853,Positive
+I need more of this black and red hair momo…😍,0.4588,Positive,0.1111111111111111,Positive,0.4798377454280853,Positive
 Nayeon king 👑✨,0.3182,Positive,0.0,Neutral,0.4082069993019104,Positive
 i hate twice,-0.5719,Negative,-0.8,Negative,-0.4456960260868072,Negative
 lalisa pego covid a su madre,0.0,Neutral,0.0,Neutral,0.269223004579544,Neutral
@@ -714,12 +714,12 @@ amooo,0.6369,Positive,0.5,Positive,0.2388291954994201,Neutral
 love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 "Lyrics - need no licence 
 Marriage Certificate",-0.296,Negative,0.0,Neutral,-0.369236558675766,Negative
-Twice I miss you so much 🌻,-0.1531,Negative,0.2,Neutral,-0.2991121113300323,Negative
+Twice I miss you so much 🌻,-0.1531,Negative,0.2,Positive,-0.2991121113300323,Negative
 "112m
 I love twice 
 The cute band in the world",0.802,Positive,0.5,Positive,0.7684825658798218,Positive
 TWICE最高！ONCE大好き！,0.8745,Positive,0.8125,Positive,0.6637709140777588,Positive
-ついにTWICEが2年ぶりに日本に来てくれます,0.0,Neutral,0.125,Neutral,0.3339836895465851,Positive
+ついにTWICEが2年ぶりに日本に来てくれます,0.0,Neutral,0.125,Positive,0.3339836895465851,Positive
 東京ドーム公演まであと2日！,0.0,Neutral,0.0,Neutral,0.3393868207931518,Positive
 my girls <3,0.4404,Positive,1.0,Positive,0.4643225371837616,Positive
 SANA♡♡♡,0.0,Neutral,0.0,Neutral,0.6103529930114746,Positive
@@ -762,15 +762,15 @@ Very good,0.4927,Positive,0.91,Positive,0.5479444265365601,Positive
 Love youuuuu 😭,0.2732,Positive,0.5,Positive,0.7138295769691467,Positive
 Some love to Scientist <3,0.7964,Positive,0.75,Positive,0.4215558767318725,Positive
 AUXILIO está canción es una adicción 😭😭🤍🤍😍,0.0601,Positive,0.0,Neutral,0.4516986608505249,Positive
-지금보니까 진짜 라치카 스타일이긴하네 춤이 ㅋㅋ 좋다,0.3612,Positive,0.2,Neutral,0.3309966623783111,Positive
-ほんとに最近心からTWICEに出会えてよかったって思う！,0.831,Positive,0.25,Neutral,0.3701529800891876,Positive
+지금보니까 진짜 라치카 스타일이긴하네 춤이 ㅋㅋ 좋다,0.3612,Positive,0.2,Positive,0.3309966623783111,Positive
+ほんとに最近心からTWICEに出会えてよかったって思う！,0.831,Positive,0.25,Positive,0.3701529800891876,Positive
 これからもずっと応援し続けます！,0.4574,Positive,0.0,Neutral,0.7799394726753235,Positive
 こんな最高なグループTWICEしかいないよ！！,0.7163,Positive,0.3333333333333333,Positive,0.569584310054779,Positive
 ビジュも歌も最高すぎる！！！,0.7405,Positive,1.0,Positive,0.7987918257713318,Positive
 Their songs are charting deeper than the mariana's trench,0.0,Neutral,0.0,Neutral,0.358948677778244,Positive
-I love this song it has such a positive energy that I feel comfortable when I hear it,0.9217,Positive,0.2818181818181818,Neutral,0.8246337175369263,Positive
+I love this song it has such a positive energy that I feel comfortable when I hear it,0.9217,Positive,0.2818181818181818,Positive,0.8246337175369263,Positive
 TEMAZOOO,0.0,Neutral,0.0,Neutral,0.2841610312461853,Neutral
-Twice de la cuna hasta el cajón vieja,0.0,Neutral,0.1,Neutral,-0.2376626133918762,Negative
+Twice de la cuna hasta el cajón vieja,0.0,Neutral,0.1,Positive,-0.2376626133918762,Negative
 Sana te amo,0.6369,Positive,0.5,Positive,0.3989827632904053,Positive
 "I am just loving that JYP has also added Hindi captions... Lots of love from Indian once,stay and midzy❤️❤️❤️",0.8442,Positive,0.55,Positive,0.645922064781189,Positive
 SCT112M,0.0,Neutral,0.0,Neutral,0.2957378327846527,Neutral
@@ -779,5 +779,5 @@ Las amo !,0.6696,Positive,0.625,Positive,0.6040490865707397,Positive
 Jeongyeon my love,0.6369,Positive,0.5,Positive,0.6467379927635193,Positive
 Queens of beauty and cool voice,0.7269,Positive,0.35,Positive,0.6783043742179871,Positive
 mükkemmel ya,0.5719,Positive,1.0,Positive,-0.3065394163131714,Negative
-東京ドーム公演までもう少し！,0.0,Neutral,0.21875,Neutral,0.3519135415554046,Positive
+東京ドーム公演までもう少し！,0.0,Neutral,0.21875,Positive,0.3519135415554046,Positive
 ももりんの赤髪が似合いすぎてる,0.4404,Positive,0.35,Positive,0.2983831465244293,Neutral

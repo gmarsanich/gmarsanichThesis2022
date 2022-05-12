@@ -1,6 +1,6 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 nul,0.0,Neutral,0.0,Neutral,-0.810704231262207,Negative
-A veces quisiera pensar que Rauw Alejandro pudo estar a la altura de lo que fue Ozuna. Pero llegó a la conclusión que no lo igualara nadie por muchos años. Ozuna marco la vida de muchos adolescentes... Que nostalgia 🥺,0.1901,Positive,0.3090909090909091,Neutral,0.322804182767868,Neutral
+A veces quisiera pensar que Rauw Alejandro pudo estar a la altura de lo que fue Ozuna. Pero llegó a la conclusión que no lo igualara nadie por muchos años. Ozuna marco la vida de muchos adolescentes... Que nostalgia 🥺,0.1901,Positive,0.3090909090909091,Positive,0.322804182767868,Neutral
 Esto y las canciones antiguas de Nicky Jam son lo mejor del regueton de estos tiempoa,0.6369,Positive,0.55,Positive,0.6135066747665405,Positive
 Esto es musica,0.0,Neutral,0.0,Neutral,0.3915649056434631,Positive
 Claudia te amo  💐,0.6369,Positive,0.5,Positive,0.5396217703819275,Positive
@@ -10,7 +10,7 @@ A 4 años asta oy la escucho de nuevo,0.0,Neutral,0.0,Neutral,-0.222886756062507
 "Onde esTa.mi Vida con la que stoY n  el Corazon
 Where u at my love.",0.8555,Positive,0.5,Positive,0.6478039026260376,Positive
 Quien en abril de 2022?? 🙏❤️😭,-0.5362,Negative,0.0,Neutral,-0.6424508690834045,Negative
-EL NEGRITO DE OJOS CLAROS TATITO,0.0,Neutral,0.1166666666666666,Neutral,-0.2983959913253784,Negative
+EL NEGRITO DE OJOS CLAROS TATITO,0.0,Neutral,0.1166666666666666,Positive,-0.2983959913253784,Negative
 somebody to looooove,0.0,Neutral,0.0,Neutral,-0.4273387193679809,Negative
 aguante freddie mercury loco,-0.34,Negative,-0.6,Negative,0.6132947206497192,Positive
 buen tema,0.4404,Positive,0.7,Positive,0.4815501868724823,Positive
@@ -20,7 +20,7 @@ ozunaaa te amoooo,0.6369,Positive,0.5,Positive,-0.3204453587532043,Negative
 Hasi es todos heramos Muy felizes cuando salio,0.6115,Positive,0.6428571428571428,Positive,0.6923967599868774,Positive
 The best,0.6369,Positive,1.0,Positive,0.9091946482658386,Positive
 La escho todo los dias,0.0,Neutral,0.0,Neutral,0.529826283454895,Positive
-Tengo desde los 8 años escuchando la canción y sigue siendo mi favorita 👌🏻 (tengo 13 años),0.8455,Positive,0.2333333333333333,Neutral,0.6908557415008545,Positive
+Tengo desde los 8 años escuchando la canción y sigue siendo mi favorita 👌🏻 (tengo 13 años),0.8455,Positive,0.2333333333333333,Positive,0.6908557415008545,Positive
 AQUI LOS QUE LA ESCUCHAN CADA 5 MINUTOS DESDE QUE SALIO ☺️☺️,0.7184,Positive,0.0,Neutral,0.337006151676178,Positive
 Matuê está diferente,0.0,Neutral,0.0,Neutral,0.339333176612854,Positive
 WOOOOU,0.0,Neutral,0.0,Neutral,0.2398260533809662,Neutral
@@ -76,40 +76,40 @@ a thiago l gusta el conserje,0.4215,Positive,0.0,Neutral,0.4972668290138244,Posi
 2:37 los edits de pauliza.,0.0,Neutral,0.0,Neutral,-0.2759527862071991,Negative
 3400 ATICTIVO,0.5319,Positive,-0.1333333333333333,Negative,-0.2296660542488098,Negative
 Q recuerdos xd,0.5859,Positive,0.0,Neutral,0.3232496976852417,Neutral
-alto tema amigo segui asi vas a llegar lejos,0.4939,Positive,0.13,Neutral,0.3658339083194732,Positive
+alto tema amigo segui asi vas a llegar lejos,0.4939,Positive,0.13,Positive,0.3658339083194732,Positive
 esta canción fue buena fue perfecta me facina 😍,0.9118,Positive,0.85,Positive,0.631118655204773,Positive
 Extraño esa música el 2017 fue el bueno,0.3182,Positive,0.7,Positive,0.4792469441890716,Positive
 Eres el peor,-0.6249,Negative,-1.0,Negative,-0.820102334022522,Negative
 Tremenda music esta siempre me recuerda alguien,0.0,Neutral,0.3333333333333333,Positive,0.7987626194953918,Positive
 ozuna cuando era chevere,0.3182,Positive,0.35,Positive,-0.2770432531833648,Negative
-Jajaja joder la escuché cuando tenía 12 años jajaja 4 años y medio de diferencia y averla escuchado de nuevo mucha nostalgia,0.6705,Positive,0.0833333333333333,Neutral,0.4760393798351288,Positive
+Jajaja joder la escuché cuando tenía 12 años jajaja 4 años y medio de diferencia y averla escuchado de nuevo mucha nostalgia,0.6705,Positive,0.0833333333333333,Positive,0.4760393798351288,Positive
 Hay ai,0.0,Neutral,0.0,Neutral,-0.3110301792621612,Negative
 Quien en el 2022🔥❤️,-0.34,Negative,0.0,Neutral,0.3572965562343597,Positive
 "Admítelo YouTube no te recomendó, tú viniste hasta acá a escuchar esta joyita.. ✨💎💎",0.2477,Positive,0.0,Neutral,-0.8530964851379395,Negative
 En 2022 y no se olvida este temazo,0.7609,Positive,0.8,Positive,0.2723260521888733,Neutral
-Jaja aki andamos desde que la piratearon 2015,0.4588,Positive,0.2,Neutral,-0.3653313815593719,Negative
+Jaja aki andamos desde que la piratearon 2015,0.4588,Positive,0.2,Positive,-0.3653313815593719,Negative
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Te amo Osuna😘😘😘😘😘,0.9531,Positive,0.5,Positive,0.4640006422996521,Positive
 "Los que vinieron a recordar este temon, cuando estaban en la última etapa escolar!! Este tema me hace recordar al último año escolar",0.0,Neutral,0.0,Neutral,0.5928827524185181,Positive
 A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
-As muy oir esto enlo  que duermes con otro ke vinito,0.0,Neutral,0.2,Neutral,-0.4415147006511688,Negative
+As muy oir esto enlo  que duermes con otro ke vinito,0.0,Neutral,0.2,Positive,-0.4415147006511688,Negative
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Me encanta su musica ❤,0.8555,Positive,0.5,Positive,0.7469775080680847,Positive
 "Esta música relata mi vida con mi novia...Bueno ya no lo es por el tema de sus padres. Pero esa canción le dedique a ella..
 Psdata: Te amo Maria",0.9072,Positive,0.5,Positive,0.3835576474666595,Positive
-Un clásico si o nooo ??,0.0,Neutral,0.1666666666666666,Neutral,0.2665285170078277,Neutral
+Un clásico si o nooo ??,0.0,Neutral,0.1666666666666666,Positive,0.2665285170078277,Neutral
 I love love love this song.,0.9274,Positive,0.5,Positive,0.8761011362075806,Positive
 2022 y aun me encanta este tema 😍🇻🇪✌🏻,0.886,Positive,0.5,Positive,0.7456667423248291,Positive
-me gusta muchooo,0.3612,Positive,0.26,Neutral,0.4909213781356811,Positive
-como olvidar esta canción jaja,0.2732,Positive,0.2,Neutral,0.328687846660614,Neutral
+me gusta muchooo,0.3612,Positive,0.26,Positive,0.4909213781356811,Positive
+como olvidar esta canción jaja,0.2732,Positive,0.2,Positive,0.328687846660614,Neutral
 Cuando tenía mi jettita mk2 algo modificado y hiba a buscar Ami novia hora mi esposa valla recuerdos con este temazo,0.7073,Positive,0.8,Positive,0.2667422294616699,Neutral
 Vengo del 2022,0.0,Neutral,0.0,Neutral,0.2718952596187591,Neutral
 Hxxxkffkfyhjfkx9rxfgufufkjffkfifjijo,0.0,Neutral,0.0,Neutral,-0.3668142855167389,Negative
 me duele la verga,-0.7506,Negative,0.0,Neutral,0.2342972457408905,Neutral
 nostalgia de esa que te hace recordar tu vida pasada 😫,-0.4404,Negative,-0.25,Negative,0.6107727289199829,Positive
 🔥🔥🔥💖💖,0.765,Positive,0.0,Neutral,0.3085779249668121,Neutral
-uffffff mucho videooooooo,0.0,Neutral,0.2,Neutral,0.2213824093341827,Neutral
+uffffff mucho videooooooo,0.0,Neutral,0.2,Positive,0.2213824093341827,Neutral
 me gusta ozuna y soy su fan,0.5859,Positive,0.0,Neutral,0.5431792140007019,Positive
 amo tanto esta cancion te amo ozuna y esta cancion me ayuda con mi estres,0.8578,Positive,0.5,Positive,0.636578381061554,Positive
 2016 >>>>>>>,0.0,Neutral,0.0,Neutral,0.2299354523420334,Neutral
@@ -121,18 +121,18 @@ genial hermano,0.6249,Positive,0.8,Positive,0.8037242293357849,Positive
 Mis respetos para quién está escuchando este temaso en el 2023 🖤,0.7579,Positive,0.0,Neutral,0.513084352016449,Positive
 Yo escuchando esta cancio en el 2022,0.0,Neutral,0.0,Neutral,-0.5689382553100586,Negative
 I used to listen to this song all the time and now I found it again and i got so happy,0.6948,Positive,0.8,Positive,0.7056323885917664,Positive
-Pueden pasar miles de años pero este es un verdadero TEMAZO...,0.0,Neutral,0.2,Neutral,0.2508696615695953,Neutral
+Pueden pasar miles de años pero este es un verdadero TEMAZO...,0.0,Neutral,0.2,Positive,0.2508696615695953,Neutral
 "Extraño al ozuna de antes😥🔥😍
 *Nunca pasará de moda esta joya 2022*",0.7351,Positive,0.0,Neutral,0.4024278521537781,Positive
 Temazo❤️❤️❤️❤️❤️❤️✌️✌️✌️✌️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 The best man,0.6369,Positive,1.0,Positive,0.905336856842041,Positive
-Vine a recordar viejos tiempos 😿❤,0.2732,Positive,0.1,Neutral,0.5450098514556885,Positive
+Vine a recordar viejos tiempos 😿❤,0.2732,Positive,0.1,Positive,0.5450098514556885,Positive
 I'm from Timorense I like regeton music and Ozuna music 🙏💯💞,0.7783,Positive,0.0,Neutral,0.3785458505153656,Positive
 uff,0.0,Neutral,0.0,Neutral,0.2852161526679992,Neutral
 falta lluvia,-0.3182,Negative,0.0,Neutral,0.3202440440654754,Neutral
 Me fascina este tema...me ase acordar a mi ex...😍tan lindo q fue conmigo mi caleño hermoso..,0.9186,Positive,0.675,Positive,0.6909159421920776,Positive
 "Mis respetos a tí porque le pusiste tanto flow y mucho sentimiento a esta bella canción💙🔥😎😍💖👌😪💙
-osea, esta canción la cantas con el corazón😍💖❤😊",0.9951,Positive,0.2458333333333333,Neutral,0.6699493527412415,Positive
+osea, esta canción la cantas con el corazón😍💖❤😊",0.9951,Positive,0.2458333333333333,Positive,0.6699493527412415,Positive
 "Ozuna gracias por existir💖❤💙💖💙..........
 
 
@@ -141,11 +141,11 @@ Esta canción me encanta, sé que la descubrí apenas en abril de 2020 pero me g
 
 
 
-Ozuna, te juro por dios que esta canción me llega hasta el corazón ❤❤ y cada vez que la escucho vuelven a mí las esperanzas de encontrar el amor algún día💙💙💙💙",0.999,Positive,0.19,Neutral,0.7610793709754944,Positive
+Ozuna, te juro por dios que esta canción me llega hasta el corazón ❤❤ y cada vez que la escucho vuelven a mí las esperanzas de encontrar el amor algún día💙💙💙💙",0.999,Positive,0.19,Positive,0.7610793709754944,Positive
 "Recordando esta joyita♡♡♡
 Quien en 2022 :3",0.5106,Positive,0.5,Positive,0.6892078518867493,Positive
-Nadie absolutamente nadie yo escuchando esto en pleno 2022,0.0,Neutral,0.1,Neutral,-0.8617838025093079,Negative
-Uy qué viejos tiempos,0.5859,Positive,0.1,Neutral,0.2488605678081512,Neutral
+Nadie absolutamente nadie yo escuchando esto en pleno 2022,0.0,Neutral,0.1,Positive,-0.8617838025093079,Negative
+Uy qué viejos tiempos,0.5859,Positive,0.1,Positive,0.2488605678081512,Neutral
 fnfbhvusffgderfgfcv,0.0,Neutral,0.0,Neutral,-0.2545619010925293,Negative
 Recuerdo cuando decía hace 5 horas y ahora dice hace 5 años :(,-0.4404,Negative,-0.75,Negative,-0.3066810369491577,Negative
 Linda canción,0.4215,Positive,0.6,Positive,0.2871541976928711,Neutral
@@ -159,12 +159,12 @@ AlBÚM 2022 OZÚna Coplas De Un Misionero. Dios TE Bendiga Vamos Còn Muchos Gra
 Digo que está canción tiene un significado oscuro porque no todos los chicos de calle son como Ozuna y aquí en España son los chicos de casa responsables que sacan buenas notas las chicas piensan que son frikis y se van con quiénes las maltratan y las preñan pero la canción me gusto,0.7814,Positive,0.3375,Positive,0.488607794046402,Positive
 Que buena canción csmr,0.4404,Positive,0.7,Positive,0.4185678660869598,Positive
 Mala,0.0,Neutral,0.0,Neutral,-0.5157975554466248,Negative
-1:33 soy el único que le gusta mucho esta parte,0.4754,Positive,0.1,Neutral,0.3977839648723602,Positive
+1:33 soy el único que le gusta mucho esta parte,0.4754,Positive,0.1,Positive,0.3977839648723602,Positive
 2022 y todavía la escucho ❤️✨ está cansion tiene amor y sentimientos 😭,0.5267,Positive,0.5,Positive,0.4902658760547638,Positive
-"Esta cancion me devuelve a mi infancia, diosmio extraño tanto el 2016 y todas sus canciones",0.128,Positive,0.1,Neutral,-0.4348659813404083,Negative
+"Esta cancion me devuelve a mi infancia, diosmio extraño tanto el 2016 y todas sus canciones",0.128,Positive,0.1,Positive,-0.4348659813404083,Negative
 La única canción de regueton que respeto,0.4767,Positive,0.0,Neutral,0.3275642693042755,Neutral
-I m an Indian here after 5 yrs with same spirit and joy to listen this nostalgic song.,0.6705,Positive,0.1,Neutral,0.7944340109825134,Positive
-Que no a la caca suave aunque le diga,-0.296,Negative,0.1,Neutral,0.3552948534488678,Positive
+I m an Indian here after 5 yrs with same spirit and joy to listen this nostalgic song.,0.6705,Positive,0.1,Positive,0.7944340109825134,Positive
+Que no a la caca suave aunque le diga,-0.296,Negative,0.1,Positive,0.3552948534488678,Positive
 pasa el tiempo y sigo escuchando esta rola,0.0,Neutral,0.0,Neutral,0.3415210247039795,Positive
 Volve ozuna,0.0,Neutral,0.0,Neutral,0.2644317746162414,Neutral
 Mrgusto,0.0,Neutral,0.0,Neutral,-0.3847648203372955,Negative
@@ -172,12 +172,12 @@ Listen girl tell him,0.0,Neutral,0.0,Neutral,0.2414154112339019,Neutral
 La volví a escuchar asta hora desde 2018 no la escuchaba😐,0.0,Neutral,0.0,Neutral,-0.7324070930480957,Negative
 ❤️❤️❤️🥰🥰,0.9393,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Recuerdo
-Como ahora cuando vino por primera vez a RD 🇩🇴 con ese tema canto en punta cana luego en Santo Domingo unas presentaciones de primera fui a la de Santo Domingo y recuerdo como ahora que le dije a las personas que andaban en ese momento, le dije ese tipo prometeeee tiene talento y carisma y MÍRALO HOY triunfando 🇩🇴🇩🇴🇩🇴 🇵🇷🇵🇷🇵🇷 🇵🇷 BENDICIONES Jean Carlos OZUNA 👊🏽😍❤️❤️❤️",0.9635,Positive,0.225,Neutral,0.6959500908851624,Positive
+Como ahora cuando vino por primera vez a RD 🇩🇴 con ese tema canto en punta cana luego en Santo Domingo unas presentaciones de primera fui a la de Santo Domingo y recuerdo como ahora que le dije a las personas que andaban en ese momento, le dije ese tipo prometeeee tiene talento y carisma y MÍRALO HOY triunfando 🇩🇴🇩🇴🇩🇴 🇵🇷🇵🇷🇵🇷 🇵🇷 BENDICIONES Jean Carlos OZUNA 👊🏽😍❤️❤️❤️",0.9635,Positive,0.225,Positive,0.6959500908851624,Positive
 0iouossspoooooooo,0.0,Neutral,0.0,Neutral,-0.5204218626022339,Negative
-Recordar es volver a vivir,0.0,Neutral,0.1363636363636363,Neutral,0.5661516785621643,Positive
+Recordar es volver a vivir,0.0,Neutral,0.1363636363636363,Positive,0.5661516785621643,Positive
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
 Alcatel? Suegro? Oakland? Fifa?,0.0,Neutral,0.0,Neutral,-0.4825266897678375,Negative
-"Tenía AÑOS q no la escuchaba, pero ig me la recomendo para mi historia, y me sorprende que aún me la se completa, desde q tenia 11 años no la escuchaba y ahora con casi 14 ne sigue gustando, ahora no quiero dejar de escucharla, me recuerda a esis tiempos jajsjsjsh",0.9153,Positive,0.125,Neutral,0.6402155160903931,Positive
+"Tenía AÑOS q no la escuchaba, pero ig me la recomendo para mi historia, y me sorprende que aún me la se completa, desde q tenia 11 años no la escuchaba y ahora con casi 14 ne sigue gustando, ahora no quiero dejar de escucharla, me recuerda a esis tiempos jajsjsjsh",0.9153,Positive,0.125,Positive,0.6402155160903931,Positive
 Mi top de top de esos años y ahora lo recuerdo xon nostalgia.Hay muchos que el 2016 fue otro nnivell,0.3818,Positive,0.5,Positive,0.8397454023361206,Positive
 "Sin duda alguna este ha sido y aún sigue siendo mi tema favorito y donde quiera que lo escucho me lo gozo con todo el corazón, gracias ozuna por deleitarnos con esta musica con calidad 💪🏻✊🏻",0.9517,Positive,0.3666666666666667,Positive,0.6821470260620117,Positive
 😩 after 2 years,-0.2732,Negative,0.0,Neutral,-0.3174968361854553,Negative
@@ -185,8 +185,8 @@ Mi gusta la música 🎶,0.3612,Positive,0.0,Neutral,0.4562853872776031,Positive
 Dale like sí te trajo la marmota,0.3612,Positive,0.0,Neutral,-0.3167371451854706,Negative
 Que cancioon sigo llorandooooo con este tema.😞😞,-0.8519,Negative,-0.2,Negative,0.3488607406616211,Positive
 Gang gang 🤣🥷,0.0,Neutral,0.0,Neutral,0.3005970120429992,Neutral
-El mejor año fue el 2018 cuando salieron las primeras canciones de bad bunny y ozuna y tambien sali free fire,0.3818,Positive,0.2375,Neutral,0.624529242515564,Positive
-Que tiempos eramos tan jovenes 😪,0.0,Neutral,0.1,Neutral,-0.2410546094179153,Negative
+El mejor año fue el 2018 cuando salieron las primeras canciones de bad bunny y ozuna y tambien sali free fire,0.3818,Positive,0.2375,Positive,0.624529242515564,Positive
+Que tiempos eramos tan jovenes 😪,0.0,Neutral,0.1,Positive,-0.2410546094179153,Negative
 "1ldmlwk zlas,allá,ñomroedkpslk2lsklkawlxlLowkdmf0q39yjmdoekf o2otkrkrfk9wrwokfkosjdsorokdkrorpwkqpkc2lkvñ4ikdomvmvoqokvpkfmv5oksqokdxxn198iel0mamlsijs",0.0,Neutral,0.0,Neutral,-0.5130392909049988,Negative
 Ozuna la rompes si  rompe corazones a todos💘💘💘💘💘,0.9805,Positive,0.0,Neutral,-0.4643091261386871,Negative
 Advertencia:no importa que pase en la vida lo mas importante es que sean felices💏💏💏💏💏💏👍👍👍👍👍,0.5137,Positive,0.5666666666666668,Positive,0.2739785611629486,Neutral
@@ -213,11 +213,11 @@ TEMAZO.,0.6249,Positive,0.8,Positive,0.2984963059425354,Neutral
 temooon grande el negrito ojo claro,0.3818,Positive,-0.0222222222222222,Negative,-0.3299300074577331,Negative
 Viejos tiempos     OZUNA EL MEJOR,0.7125,Positive,0.55,Positive,0.6950475573539734,Positive
 Presenté en 2022 tratando de que se vuelvan a escuchar estos temas en las bocinas,0.0,Neutral,0.0,Neutral,0.3079097270965576,Neutral
-A los 7 años escuche por primera vez este temazo😎👍,0.4588,Positive,0.175,Neutral,0.3572324216365814,Positive
+A los 7 años escuche por primera vez este temazo😎👍,0.4588,Positive,0.175,Positive,0.3572324216365814,Positive
 "YA P MILKO, UNA SALIDITA P😭😭😭😭😭😭",-0.9559,Negative,-0.1875,Negative,-0.3567066490650177,Negative
 Alguien 2022?,0.0,Neutral,0.0,Neutral,-0.5968908667564392,Negative
 Ozuna 🇵🇷🇲🇽🇩🇴,0.0,Neutral,0.0,Neutral,0.2756120264530182,Neutral
-Yo y mi de  sobrina de 2 años cantamos está canción,0.0,Neutral,0.1,Neutral,0.5231543779373169,Positive
+Yo y mi de  sobrina de 2 años cantamos está canción,0.0,Neutral,0.1,Positive,0.5231543779373169,Positive
 ¿quién en 2022?💐,0.0,Neutral,0.0,Neutral,-0.3570586442947387,Negative
 Alguien del 2022 sigue escuchándola ✌️🥴,0.0,Neutral,0.0,Neutral,-0.259779542684555,Negative
 "Joder, me dio nostalgia xd",0.2732,Positive,-0.5,Negative,0.3882990777492523,Positive
@@ -226,8 +226,8 @@ Te amo mi 🐻💞,0.8591,Positive,0.5,Positive,0.576209545135498,Positive
 Saludos👋 genio ozuna,0.7184,Positive,0.0,Neutral,0.6449910402297974,Positive
 "Ozuna, esta canción tiene historia, tiene sentido, tiene un motivo, tiene una razón, voz perfecta, vídeo perfecto.... haz más así porfavor 😍🧸",0.9446,Positive,0.8333333333333334,Positive,0.6446859836578369,Positive
 Con los skullcandy crusher evo suena bien perrón,0.4404,Positive,0.7,Positive,0.4838733971118927,Positive
-A si Era la vida real de mi madre en una  cancion😢😭😭😭💔💔💔,-0.6597,Negative,0.2,Neutral,0.2833157181739807,Neutral
-Veo estos comentarios de hace 5 y 4 minutos y me sorprendo           justo me acolde de la cansion cuando estaba hablando con mi amiga y aqui estoy......ATT antoni_boot,0.6249,Positive,0.1,Neutral,0.4473714232444763,Positive
+A si Era la vida real de mi madre en una  cancion😢😭😭😭💔💔💔,-0.6597,Negative,0.2,Positive,0.2833157181739807,Neutral
+Veo estos comentarios de hace 5 y 4 minutos y me sorprendo           justo me acolde de la cansion cuando estaba hablando con mi amiga y aqui estoy......ATT antoni_boot,0.6249,Positive,0.1,Positive,0.4473714232444763,Positive
 This could be a lifetime movie.,0.0,Neutral,0.0,Neutral,0.2750534415245056,Neutral
 Rosmeryyy tan bella siempre. ❤️,0.6361,Positive,0.85,Positive,0.8039435148239136,Positive
 escuchando para regresar en el tiempo,0.0,Neutral,0.0,Neutral,0.3440145552158355,Positive
@@ -242,7 +242,7 @@ Top Ozuna 🌎🇧🇷🇧🇷🇧🇷🌎,0.2023,Positive,0.5,Positive,0.840613
 "✨ Tu más que nadie sabe' cómo yo soy contigo no importa mi estilo de vida, tú me quieres así. ✨",0.8898,Positive,0.5,Positive,0.5465399026870728,Positive
 T5ttt5ttttttttttttttttttt5ttt5tttttt5ttttttetttttttt5t5tttttttttttttttt5r3222eeeeeeee55tt,0.0,Neutral,0.0,Neutral,-0.3354153633117676,Negative
 que infancia la mia yo creci escuchando esto,0.0,Neutral,0.0,Neutral,0.5082905292510986,Positive
-jajaja porque moria ozuna xDDD,-0.0772,Negative,0.2,Neutral,-0.383215457201004,Negative
+jajaja porque moria ozuna xDDD,-0.0772,Negative,0.2,Positive,-0.383215457201004,Negative
 819k weones xd,0.5859,Positive,0.0,Neutral,0.3429737091064453,Positive
 "Ozu por favor vuelve a ser este Ozuna, ya no queremos a la moda de Bad bunny por favor regresa negrito ojos claros el número 1 del género del 2016 al 2018  🙏🏼🙏🏼",0.7599,Positive,-0.1166666666666666,Negative,0.2865789830684662,Neutral
 Marzo 2022,0.0,Neutral,0.0,Neutral,-0.3453613519668579,Negative
@@ -256,7 +256,7 @@ Me encanta esta musica,0.6369,Positive,0.5,Positive,0.7549806833267212,Positive
 2022 y quiero que volvamos a revivir este tema en las radios por favor. 🐻🐻🐻,0.6124,Positive,0.0,Neutral,-0.2973185181617737,Negative
 Yo aqui en pleno 2022 viniendo a recordar  ..,0.0,Neutral,0.0,Neutral,0.6120157241821289,Positive
 🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
-los verdaderos seguimos vdd?,0.0,Neutral,0.2,Neutral,-0.3796280324459076,Negative
+los verdaderos seguimos vdd?,0.0,Neutral,0.2,Positive,-0.3796280324459076,Negative
 Quien aquí por los memes 😎😅,0.6705,Positive,0.0,Neutral,-0.4185847043991089,Negative
 Quien en 2022✨,0.3182,Positive,0.0,Neutral,0.410000741481781,Positive
 "Esta canción es perfecta, es la número uno en mi playlist de Reggaeton, saludos desde Brazil🇧🇷❤️",0.7783,Positive,1.0,Positive,0.8712388277053833,Positive
@@ -266,7 +266,7 @@ Me encanta esa canción♥️♥️😚,0.9538,Positive,0.5,Positive,0.779495060
 Alguien viendo esto en 2022 jsjsj,0.0,Neutral,0.0,Neutral,-0.519243597984314,Negative
 "Pi
 Papidegosiodetrodia",0.0,Neutral,0.0,Neutral,0.271033763885498,Neutral
-Conheci esse cantor atravéz da minha ex namorada a uns 4 anos atrás.  E agr eu Estou estudando a língua espanhol tô amando a música dele me ajuda muito e reggaeton,0.7579,Positive,0.3,Neutral,0.6384043097496033,Positive
+Conheci esse cantor atravéz da minha ex namorada a uns 4 anos atrás.  E agr eu Estou estudando a língua espanhol tô amando a música dele me ajuda muito e reggaeton,0.7579,Positive,0.3,Positive,0.6384043097496033,Positive
 Si the batman tuvieran un buen soundtrack:,0.4404,Positive,0.7,Positive,0.4082989394664764,Positive
 😎,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 OZUNA TE AMO,0.6369,Positive,0.5,Positive,-0.2155103832483291,Negative
@@ -274,7 +274,7 @@ OZUNA TE AMO,0.6369,Positive,0.5,Positive,-0.2155103832483291,Negative
 
 +",0.296,Positive,0.0,Neutral,0.4304686486721039,Positive
 NICE CANCION :),0.7603,Positive,0.55,Positive,0.4815082252025604,Positive
-HASTA  LOS  NIETO DE MI NIETOS  VAN A ESCUCHAR  ESTE  EXITO  DE  SIEMPRE 💥💥💥💪🌍🎶🎶🎶,-0.0538,Negative,0.3,Neutral,0.749595582485199,Positive
+HASTA  LOS  NIETO DE MI NIETOS  VAN A ESCUCHAR  ESTE  EXITO  DE  SIEMPRE 💥💥💥💪🌍🎶🎶🎶,-0.0538,Negative,0.3,Positive,0.749595582485199,Positive
 😍😍😍😍😍,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 From 🇮🇳🇮🇳🇮🇳,0.0,Neutral,0.0,Neutral,0.3240436315536499,Neutral
 "1-dile que tu me quieres
@@ -290,15 +290,15 @@ Te amo Ozuna 😍,0.802,Positive,0.5,Positive,0.3588204085826874,Positive
 Estraño al ozuna de antes 20015-2018☹,-0.4588,Negative,0.0,Neutral,0.3048476576805115,Neutral
 Te extraño Ozuna del 2016 por favor volve otra ves,0.1779,Positive,0.0,Neutral,-0.3272267878055572,Negative
 Tu tayer no me gusta el taller de la abuela y no te amo mi vida No no se me hace mucha falta de mi tía que tengas un buen viaje y no te preocupes por q me quedé de mi vida y la vida gracias a dios por mi mamá de valen la casa de mi mamá y no se puede venir ufiiro la tía,0.6235,Positive,0.4666666666666666,Positive,-0.5198881030082703,Negative
-Sifiol de mi mamá de la casa y me borraron mi vida y no se me hace mucha la casa de mis papás que haces en tu tayer no te preocupes por mi mamá y la de hoy y elno te lo mando a la noche el taller de la abuela y mi vida esa hora nos vemos el viernes q viene dan el de mi mamá de la abuela de hoy y elno te amo y no me gusta 😃 la tía que no se me hace mucha calor de la tía y no te preocupes por mi mamá de la,-0.4168,Negative,0.25625,Neutral,-0.5966532230377197,Negative
+Sifiol de mi mamá de la casa y me borraron mi vida y no se me hace mucha la casa de mis papás que haces en tu tayer no te preocupes por mi mamá y la de hoy y elno te lo mando a la noche el taller de la abuela y mi vida esa hora nos vemos el viernes q viene dan el de mi mamá de la abuela de hoy y elno te amo y no me gusta 😃 la tía que no se me hace mucha calor de la tía y no te preocupes por mi mamá de la,-0.4168,Negative,0.25625,Positive,-0.5966532230377197,Negative
 "The overjoyed coffee synthetically fade because rose superficially obtain down a vulgar couch. unusual, luxuriant gorilla",0.5719,Positive,-0.0138888888888888,Negative,-0.3887167572975158,Negative
 Mi deseó seria volver 5 años atras cuando esto sonaba en todos lados,0.4019,Positive,0.0,Neutral,-0.2371716648340225,Negative
-La gente dice ¿ Quién estará aquí en el 2022? Pero los verdaderos fans nunca se fueron,0.0,Neutral,0.1,Neutral,-0.4761330485343933,Negative
+La gente dice ¿ Quién estará aquí en el 2022? Pero los verdaderos fans nunca se fueron,0.0,Neutral,0.1,Positive,-0.4761330485343933,Negative
 3 años atras todos eramos felices,0.5719,Positive,0.8,Positive,0.631794273853302,Positive
 Yo vine por el tiktok de Ozuna q predijo el covid,0.0,Neutral,0.0,Neutral,-0.4910807013511657,Negative
 Una de las mejores canciones de Ozuna,0.6369,Positive,1.0,Positive,0.8305465579032898,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-Vine por tt a recordar los viejos tiempos XDD,0.0,Neutral,0.1,Neutral,0.4253781139850616,Positive
+Vine por tt a recordar los viejos tiempos XDD,0.0,Neutral,0.1,Positive,0.4253781139850616,Positive
 2022🔥🔥🔥🔥❤,-0.5267,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Soy la única q conozco a esta canción desde q salió y no por tiktok!?,0.0,Neutral,0.0,Neutral,-0.5989038348197937,Negative
 Quien en pleno 2022,0.0,Neutral,0.35,Positive,0.3117535710334778,Neutral
@@ -336,18 +336,18 @@ DILE QUE SOY EL QUE TE QUIERE 2022,0.6633,Positive,0.0,Neutral,0.729344964027404
 Almacenaban ca7 ihg ag8 uqfquqhfi aggi fsi fsi gat7oqg do qggiqggqifqtq9qoozsihqrosjl akhgoaksgkqjgsjkwjwtoqqohgoqgfwkwhrq8f9w,0.0,Neutral,0.0,Neutral,-0.2815856635570526,Negative
 E escuchado mil veces esa cancion la verdad me gusta mucho porque fue grabada en mi pais con una de las mejores Actriz Rosmeris <3 <3,0.9152,Positive,0.8,Positive,0.6313905119895935,Positive
 Uma nostalgia tão bom ao ouvir anos essa música,0.4404,Positive,0.35,Positive,0.7693029046058655,Positive
-"Me acuerdo que está canción se la dedique a una novia, que pena que por cosas de la vida se fue a Brazil, con una vida nueva,  entre ella y yo para mí está es la canción que hablan j Balvin con bab bunny....",0.2023,Positive,0.0181818181818181,Neutral,0.2957493364810943,Neutral
+"Me acuerdo que está canción se la dedique a una novia, que pena que por cosas de la vida se fue a Brazil, con una vida nueva,  entre ella y yo para mí está es la canción que hablan j Balvin con bab bunny....",0.2023,Positive,0.0181818181818181,Positive,0.2957493364810943,Neutral
 Qué bonitos tiempos me acuerdo cuando iba a la escuela cuando me arreglaba ponía top 10 siempre la la escuchaba desde hace cuatro años,0.6908,Positive,0.675,Positive,0.5424620509147644,Positive
 Estas musicas fueron parte de mi adolescencia🥺🥺🥺,0.0,Neutral,0.0,Neutral,0.568074107170105,Positive
 Don't hug her to tight she might go sumwhere in yo hands,-0.3724,Negative,-0.1785714285714285,Negative,-0.4090932607650757,Negative
-ozuna choco en serio,0.0,Neutral,0.2,Neutral,-0.3082890510559082,Negative
+ozuna choco en serio,0.0,Neutral,0.2,Positive,-0.3082890510559082,Negative
 😞,-0.4767,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Que tiempos 🥺✨,0.3182,Positive,0.0,Neutral,0.3763540685176849,Positive
 Muchastrasidevocodetrogacusettescatoi,0.0,Neutral,0.0,Neutral,-0.2563679218292236,Negative
 Esta cancion me trae mucho recuerdos ❤️,0.0,Neutral,0.0,Neutral,0.524860143661499,Positive
 Me  encanta😍,0.802,Positive,0.5,Positive,0.2424992024898529,Neutral
 Quienes están aquí desde que salió,0.0,Neutral,0.0,Neutral,0.5577292442321777,Positive
-6 años escuchando (dile que tu me quieres) nosostros si somos fans no como otros parros,0.4749,Positive,0.1875,Neutral,0.4253865778446197,Positive
+6 años escuchando (dile que tu me quieres) nosostros si somos fans no como otros parros,0.4749,Positive,0.1875,Positive,0.4253865778446197,Positive
 Dile que tu me quiere,0.6369,Positive,0.5,Positive,0.5202342867851257,Positive
 hola  yos c ristopher,0.0,Neutral,0.0,Neutral,0.2439156025648117,Neutral
 Me encanta esta música y el artista,0.6369,Positive,0.5,Positive,0.777774453163147,Positive
@@ -356,20 +356,20 @@ f,0.0,Neutral,0.0,Neutral,0.2324780821800232,Neutral
 Quien en el 2022¿?,0.0,Neutral,0.0,Neutral,-0.4131493270397186,Negative
 idola amigu ozuna,0.0,Neutral,0.0,Neutral,0.6069821119308472,Positive
 Q recuerdos me trae estas canciones De  sus comienzos 😍,0.4588,Positive,0.0,Neutral,0.5062736868858337,Positive
-Estoy muy orgullosa del negrito de ojos claros💖👀,0.8687,Positive,0.3166666666666667,Neutral,0.7850334048271179,Positive
+Estoy muy orgullosa del negrito de ojos claros💖👀,0.8687,Positive,0.3166666666666667,Positive,0.7850334048271179,Positive
 Siguo escuchando está canción amis 14 Años es lo mejor con Audífonos uff 🔥,0.4215,Positive,0.55,Positive,0.6530566215515137,Positive
 me encanta esa música te amamos ozuna,0.8555,Positive,0.5,Positive,0.7622138261795044,Positive
 Aa,0.0,Neutral,0.0,Neutral,0.321118950843811,Neutral
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
-Amoooo profundamente está canción 😍😍😍,0.9259,Positive,0.25,Neutral,0.6809360980987549,Positive
-Quien es el novio actualmente de esta chica? diganme plis :3,0.6808,Positive,0.25,Neutral,-0.2852149903774261,Negative
+Amoooo profundamente está canción 😍😍😍,0.9259,Positive,0.25,Positive,0.6809360980987549,Positive
+Quien es el novio actualmente de esta chica? diganme plis :3,0.6808,Positive,0.25,Positive,-0.2852149903774261,Negative
 🐻🐐💫,-0.2263,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "esta cancion me recuerda mucho a una mujer  de hace años,no me quiso por pobre, . pero la vida da vueltas,.. ahora estoy mas pobre,y menos me quiere..",-0.1114,Negative,-0.0222222222222222,Negative,0.2556966543197632,Neutral
 ",😎😎😎😎😎🚘🚘🚘🚘🚘🙀😽👳👳👳👳⛑⛑",0.9726,Positive,0.0,Neutral,0.3325739800930023,Positive
 🤍🖤🤎😍🖤,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Yo vengo de TikTok porque dise que él predijo el COVID,0.0,Neutral,0.0,Neutral,-0.3955976068973541,Negative
 En el 2022 reportence,0.0,Neutral,0.0,Neutral,0.2646942734718323,Neutral
-alguien mas se pone a escuchar temas viejos como los de ozuna  o de otros cantantes y se ponen a pensar que rapido que paso el tiempo y van recordando cosas que pasaron,0.3612,Positive,0.1027777777777777,Neutral,0.2760030031204223,Neutral
+alguien mas se pone a escuchar temas viejos como los de ozuna  o de otros cantantes y se ponen a pensar que rapido que paso el tiempo y van recordando cosas que pasaron,0.3612,Positive,0.1027777777777777,Positive,0.2760030031204223,Neutral
 No parece que esa cancion la alla escuchado hace 5 años,-0.2755,Negative,0.0,Neutral,-0.3289281725883484,Negative
 Me encanta esa cancion 😘😘😘,0.9118,Positive,0.5,Positive,0.7835387587547302,Positive
 El que lee esro deja su like y el que no de like es fan de kunno,0.3999,Positive,0.0,Neutral,-0.3296390473842621,Negative
@@ -379,7 +379,7 @@ Amo esta canción Ozuna 💜♥️,0.9274,Positive,0.5,Positive,0.65971082448959
 Este era el Ozuna que yo conocí🔥el de ahora ya es muy diferente 😪,-0.34,Negative,0.0,Neutral,0.4200721085071563,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 Tmr recién me gusta música de ozuna😎👈👉 son buenos😎,0.886,Positive,0.7,Positive,0.4015901088714599,Positive
-Hace mucho tiempo que escucho a ozuna y le tengo un cariño y a todas las canciones le hace un gran cariño 🥰❤️ limpio la casa escuchándolo es muy increíble como no me canso de sus canciones,0.9653,Positive,0.2833333333333333,Neutral,0.66396564245224,Positive
+Hace mucho tiempo que escucho a ozuna y le tengo un cariño y a todas las canciones le hace un gran cariño 🥰❤️ limpio la casa escuchándolo es muy increíble como no me canso de sus canciones,0.9653,Positive,0.2833333333333333,Positive,0.66396564245224,Positive
 I don't even understand....! But i love it madly... My daily routine ❤,0.8845,Positive,-0.0416666666666666,Negative,0.7209632992744446,Positive
 Quien en el 2022,0.0,Neutral,0.0,Neutral,0.2995925545692444,Neutral
 U hit wit this song its so cute😏😇,0.7824,Positive,0.0,Neutral,0.4758968949317932,Positive
@@ -388,21 +388,21 @@ Ste tema es mio y de mi pareja cuando eramos novios tal cual ❤👍✌😃💖�
 El mejor❤️,0.6369,Positive,0.0,Neutral,0.2788868546485901,Neutral
 💋💚💚💚,0.9468,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Los que vinieron por una peda 🥳 o solo soy la que esta peda😎😏,0.6808,Positive,0.0,Neutral,-0.4058597385883331,Negative
-Quien en 2022? A revivir viejos tiempos,0.0,Neutral,0.1,Neutral,0.3152126371860504,Neutral
-"Kathee es para ti esta cancion, aunque estemos lejos yo en Italia y tu en Colombia pero te quierooo demasiadoo y un día nos encontraremos se Dios quiere 🙏♥️😍",0.965,Positive,0.2625,Neutral,0.3514037430286407,Positive
-"Quien escucha este palo hace 5 años , nos vivimos enaramorando día día 💔😭",0.3818,Positive,0.3181818181818182,Neutral,0.5265108346939087,Positive
+Quien en 2022? A revivir viejos tiempos,0.0,Neutral,0.1,Positive,0.3152126371860504,Neutral
+"Kathee es para ti esta cancion, aunque estemos lejos yo en Italia y tu en Colombia pero te quierooo demasiadoo y un día nos encontraremos se Dios quiere 🙏♥️😍",0.965,Positive,0.2625,Positive,0.3514037430286407,Positive
+"Quien escucha este palo hace 5 años , nos vivimos enaramorando día día 💔😭",0.3818,Positive,0.3181818181818182,Positive,0.5265108346939087,Positive
 🇲🇦🇲🇦🇲🇦🎩🎩👑👑 🧨🧨🔩🔧🚘🔥🦁🥀🖤💔 Tanjerino,0.7579,Positive,0.0,Neutral,0.2681318819522857,Neutral
 Que clásico!!!!!!!!,0.0,Neutral,0.9934107462565102,Positive,0.3332209289073944,Positive
 Te amo bibo en👿💒💍🐁🌎🌁🌂🌂⛄🌝☁🍆🍕🍛🍗🍝🍤🍞🍗🐨🐷🐮🐂🐱🐶🐢🐐🐥🐂🐰😈😬😕😔😙😌😪😪😌🙆😺🙌🙅👩💏👧💂👬👱👾👀👿👹👺💪👂💆👽🗻💈🏫🏣🏣🏬🚏Ⓜ🚆Ⓜ🚞🚙🚞🚞🚡🚠🚁🚠🚠🚁🛅🛄⛽💎🚧💒💍🚨💎🚧💎🚧🚷 ➿🔢🚯🔙♋♌♌♏🛅🛅🚡🚆🚁,0.12,Positive,0.5,Positive,0.2884402275085449,Neutral
 2022 y sigue siendo un temón.,0.0,Neutral,0.0,Neutral,-0.2501368522644043,Negative
-oh shit i  just saw the video it made me tear. i loved the song,0.0772,Positive,0.2499999999999999,Neutral,0.2269807159900665,Neutral
+oh shit i  just saw the video it made me tear. i loved the song,0.0772,Positive,0.2499999999999999,Positive,0.2269807159900665,Neutral
 "Ozunaaaa volve te extrañamos,volve a hacer musics asi😔😔😔",0.4215,Positive,0.0,Neutral,-0.3859656751155853,Negative
-Jajajajajaj ami me dijeron de tiktok que ozuna dile que tu me quieres en el 2020 va a ver covid jajaja,0.8316,Positive,0.3,Neutral,-0.3191756904125213,Negative
-5 años después Ami q nunca me gustó el Reguetón x esas épocas ahora me encanta esta rola xd,0.7696,Positive,0.0666666666666666,Neutral,0.7568524479866028,Positive
+Jajajajajaj ami me dijeron de tiktok que ozuna dile que tu me quieres en el 2020 va a ver covid jajaja,0.8316,Positive,0.3,Positive,-0.3191756904125213,Negative
+5 años después Ami q nunca me gustó el Reguetón x esas épocas ahora me encanta esta rola xd,0.7696,Positive,0.0666666666666666,Positive,0.7568524479866028,Positive
 💓,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Ya pero después de años me pregunto, ¿es “como soy de calle dicen que no soy fiel” o “como hacer que callen dicen que no soy fiel”? 🤔🤔",-0.7366,Negative,0.0,Neutral,-0.36592498421669,Negative
 Nunca gosto e chegas tu cum charrinho ou vontade loving you marta lola e berto escobarça on smiguel,0.4195,Positive,0.6,Positive,-0.376677930355072,Negative
-yo vivo los mismo historia,0.0,Neutral,0.0681818181818181,Neutral,0.2858375906944275,Neutral
+yo vivo los mismo historia,0.0,Neutral,0.0681818181818181,Positive,0.2858375906944275,Neutral
 este ozuna jamas regreso ahorita saca musica fea,-0.5106,Negative,-0.138095238095238,Negative,-0.7537367939949036,Negative
 2017-2022 dios extraño esos tiempos,0.128,Positive,0.0,Neutral,0.5629872679710388,Positive
 alguien 2022?,0.0,Neutral,0.0,Neutral,-0.5968908667564392,Negative
@@ -515,41 +515,41 @@ Siempre q estamo junto' se ase bueno el momento ...,0.4404,Positive,0.7,Positive
 Muy bien la musica,0.4927,Positive,0.91,Positive,0.5421028137207031,Positive
 Dios mio me da duro ese tema,0.1779,Positive,-0.2916666666666667,Negative,0.2327146977186203,Neutral
 temazo ♥,0.8519,Positive,0.9,Positive,0.3818191587924957,Positive
-"El Ozu del bellakeo, ahorita es el ozu de música comercial Xd",0.5859,Positive,0.1428571428571428,Neutral,0.4227404296398163,Positive
+"El Ozu del bellakeo, ahorita es el ozu de música comercial Xd",0.5859,Positive,0.1428571428571428,Positive,0.4227404296398163,Positive
 no me canso de escucharla,0.3412,Positive,-0.4,Negative,0.2516251504421234,Neutral
 "Alguien 2022... despues de regresar a clases presensiales ,asiendo los deberes con esta rolita👌",0.7297,Positive,0.0,Neutral,0.2703140079975128,Neutral
 Quien en 2022👀,0.0,Neutral,0.0,Neutral,0.410000741481781,Positive
 Yo con 29 escuchando esto en el 2022😳 15/2/22😍,0.4588,Positive,0.0,Neutral,-0.4430596232414245,Negative
 Quien en 2022,0.0,Neutral,0.0,Neutral,0.3151768445968628,Neutral
-Un clásico que no pasa de moda,0.0,Neutral,0.1666666666666666,Neutral,0.3035547137260437,Neutral
+Un clásico que no pasa de moda,0.0,Neutral,0.1666666666666666,Positive,0.3035547137260437,Neutral
 Ozuna il migliore>>>,0.6369,Positive,1.0,Positive,0.788393497467041,Positive
 tu.ut,0.0,Neutral,0.0,Neutral,-0.2534780204296112,Negative
 Temaso,0.0,Neutral,0.0,Neutral,0.2609929144382477,Neutral
 Recordando un poco la infancia 😁,0.4588,Positive,-0.1875,Negative,0.444756805896759,Positive
 Es bien macizo,0.2247,Positive,0.0,Neutral,0.4304517209529876,Positive
 La amé,0.5994,Positive,0.7,Positive,0.277993381023407,Neutral
-Está me la sé completa nombre hasta la canto a pulmón y te la canto a pulmón solo la parte dile q tu me quieres en adelante nose por qué pero yo solo te quiero a ti MGBC 🥺✨❤️,0.9072,Positive,0.27,Neutral,-0.4359252452850342,Negative
-Escuchaba esta canción cuando tenia 15 años wow q tiempos,0.5859,Positive,0.1,Neutral,0.3676486909389496,Positive
-Jajaja no ma yo vengo del tiktok por él pronóstico del covid🤣,0.6808,Positive,0.2,Neutral,-0.4182413518428802,Negative
+Está me la sé completa nombre hasta la canto a pulmón y te la canto a pulmón solo la parte dile q tu me quieres en adelante nose por qué pero yo solo te quiero a ti MGBC 🥺✨❤️,0.9072,Positive,0.27,Positive,-0.4359252452850342,Negative
+Escuchaba esta canción cuando tenia 15 años wow q tiempos,0.5859,Positive,0.1,Positive,0.3676486909389496,Positive
+Jajaja no ma yo vengo del tiktok por él pronóstico del covid🤣,0.6808,Positive,0.2,Positive,-0.4182413518428802,Negative
 recuerdo cuando estaba mas chiquito y escuchaba esta canción B ) bellos recuerdos,0.5994,Positive,0.33125,Positive,0.4208211600780487,Positive
 F*CKN FIRE🔥🔥🔥🔥❤️❤️❤️,-0.8941,Negative,0.0,Neutral,0.2822482883930206,Neutral
 Uff temazo,0.0,Neutral,0.0,Neutral,0.2828152477741241,Neutral
 sinceramente un temazo,0.4588,Positive,0.6,Positive,-0.3537182211875915,Negative
 Hoy es mi cumpleaños y pusimos está canción como siempre,0.0,Neutral,0.0,Neutral,0.7313917279243469,Positive
 Hola soy una 👍🏻,0.0,Neutral,0.0,Neutral,0.3946689367294311,Positive
-"Ya pasaron 5 añasos , me siento viejo :v",0.0,Neutral,0.1,Neutral,-0.4660660922527313,Negative
+"Ya pasaron 5 añasos , me siento viejo :v",0.0,Neutral,0.1,Positive,-0.4660660922527313,Negative
 Quiero el remix,0.0772,Positive,0.0,Neutral,0.3972463607788086,Positive
 Quien 2022 y la sigue escuchando,0.0,Neutral,0.0,Neutral,0.5237395763397217,Positive
 Yo viendo que ella salía en Somos tu y yo 🥲,0.0,Neutral,0.0,Neutral,0.2723596394062042,Neutral
-*Imposible olvidar esos tiempos cuando éramos felices y no sabíamos 🥺💙😭*,0.5994,Positive,0.0666666666666667,Neutral,-0.418380856513977,Negative
+*Imposible olvidar esos tiempos cuando éramos felices y no sabíamos 🥺💙😭*,0.5994,Positive,0.0666666666666667,Positive,-0.418380856513977,Negative
 Nunca deixei de escultar essa obra de arte que Ozuna compôs 🇧🇷,0.1695,Positive,0.0,Neutral,0.5395878553390503,Positive
 Amo ozuna,0.6369,Positive,0.5,Positive,0.3878837525844574,Positive
 Está canción es un meme popular.,0.4215,Positive,0.6,Positive,0.3650197386741638,Positive
 Una joyita ❣️,0.6369,Positive,0.0,Neutral,0.5567044615745544,Positive
 Yonotengowhapp 💚💋💔,0.8442,Positive,0.0,Neutral,-0.2725363075733185,Negative
 💓💓💓💓💓💓,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Bonita rolitaaa,0.4939,Positive,0.25,Neutral,0.2665723264217376,Neutral
-11 de febrero del 2022 y aquí andamos mood nostálgicos  :') como quisiera volver al 2016 fue un gran año,0.872,Positive,0.15,Neutral,0.6179872155189514,Positive
+Bonita rolitaaa,0.4939,Positive,0.25,Positive,0.2665723264217376,Neutral
+11 de febrero del 2022 y aquí andamos mood nostálgicos  :') como quisiera volver al 2016 fue un gran año,0.872,Positive,0.15,Positive,0.6179872155189514,Positive
 Quien en el 2022 😢,-0.4767,Negative,0.0,Neutral,0.2671230733394623,Neutral
 esta musica me la dedico mi mejor amigo y ps el ya se murio😭😭😭,-0.3612,Negative,1.0,Positive,0.5598083734512329,Positive
 Reunancen Dioses del 2022📌👽,0.0,Neutral,0.0,Neutral,0.5111751556396484,Positive
@@ -559,7 +559,7 @@ Reunancen Dioses del 2022📌👽,0.0,Neutral,0.0,Neutral,0.5111751556396484,Pos
 🌹🌹🌹🌹🌹🌹,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 amooooooooooooooo,0.0,Neutral,0.0,Neutral,0.2288126349449157,Neutral
 Vengo del meme de Ozuna circulation xd,0.5859,Positive,0.0,Neutral,-0.258733868598938,Negative
-Yo viendo BTS primero luego mi segundo cantante favorito 🤭🤭🤭🤭,0.9413,Positive,0.25,Neutral,0.6403430104255676,Positive
+Yo viendo BTS primero luego mi segundo cantante favorito 🤭🤭🤭🤭,0.9413,Positive,0.25,Positive,0.6403430104255676,Positive
 quien en febrero 🥺🥺🥺💯💘,0.6369,Positive,0.0,Neutral,-0.44090136885643,Negative
 "Nqv con los videos de ahora como el noba, callejero fino y otros",0.5106,Positive,0.4166666666666667,Positive,0.2889813780784607,Neutral
 Asi es. Que no se enfoque en la aparencia. Te quiero y te amo mucho antes de llegar al level que te encuentras hoy día. 🙂🙂🙂🙂 Blessings. You should off be 100%. Words. Paolatinamente. I Finally found. Understood. Doubt it years ago. But now flashback flashback. Awesome memories ...,0.9492,Positive,0.39,Positive,0.654997706413269,Positive
@@ -577,7 +577,7 @@ Usa autotun,0.0,Neutral,0.0,Neutral,0.2819827795028686,Neutral
 YouTube es como una máquina del tiempo XD,0.7925,Positive,0.0,Neutral,0.4296800792217254,Positive
 romann,0.0,Neutral,0.0,Neutral,0.283429205417633,Neutral
 Un tema muy bueno,0.4927,Positive,0.91,Positive,0.5226104259490967,Positive
-"Temazo ufff,chimba te tema",0.6249,Positive,0.1,Neutral,0.2582626342773437,Neutral
+"Temazo ufff,chimba te tema",0.6249,Positive,0.1,Positive,0.2582626342773437,Neutral
 Buena canción 😍😃 me encanta 🤩,0.9118,Positive,0.6,Positive,0.594976007938385,Positive
 2021 y estamos aquí todavía con tremenda canción  .. quien más está con migo ¿? 🙃🙃,0.0,Neutral,0.3333333333333333,Positive,0.6271936297416687,Positive
 EL RETUBAR ES MEJOR,0.4404,Positive,0.5,Positive,0.3679050505161285,Positive
@@ -588,7 +588,7 @@ alguien  en el 2022 escuchando este temon,0.0,Neutral,0.0,Neutral,-0.56061166524
 Yara la música me gusta laik al quien escucha la música en el 2022,0.3612,Positive,0.0,Neutral,0.332866907119751,Positive
 💗💗❤,0.9432,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Eu amo essa musica ouvindo de  pernambuco 🤞,0.6369,Positive,0.5,Positive,0.5234758257865906,Positive
-Te amoo negritoo asi💕💋,0.916,Positive,0.1666666666666666,Neutral,-0.3843792080879211,Negative
+Te amoo negritoo asi💕💋,0.916,Positive,0.1666666666666666,Positive,-0.3843792080879211,Negative
 5 años desde que salió está joyita 😍,0.4588,Positive,0.0,Neutral,0.764127790927887,Positive
 hay cauusiiitaaaaaa ozuuniin./!!,0.0,Neutral,0.0,Neutral,-0.3452273309230804,Negative
 2022 aquí 🙋‍♂️,0.0,Neutral,0.0,Neutral,0.3715436160564422,Positive
@@ -605,7 +605,7 @@ Soy una persona de las que escucho escancion,0.0,Neutral,0.0,Neutral,0.366299033
 The first 21 of the whole organization behind mind control/mental voice and people following their commands have been stealing trade secrets using it to steal whole world's money(in financial market,all businesses,and all professions) end up with all the properties;this is how they steal and own everything. They also steal money directly(from work and daily lives) against the ones who still succeeds. In the process,they committed batteries and homicides.
 
 
-*It's important to note that all of these are done using advance technology from remote.",-0.802,Negative,0.1681818181818181,Neutral,-0.2736699879169464,Negative
+*It's important to note that all of these are done using advance technology from remote.",-0.802,Negative,0.1681818181818181,Positive,-0.2736699879169464,Negative
 No se si sera por mi tatuaje o en la forma q yo visto o por q soy tu primo,0.0,Neutral,0.0,Neutral,-0.3300151228904724,Negative
 "Alguien en 2022 se que esta viendo este comentario, Reportate con un 👍",0.0,Neutral,0.0,Neutral,-0.5912798047065735,Negative
 Recordando mis hermosos años de universidad ❤️,0.5994,Positive,0.85,Positive,0.8295324444770813,Positive
@@ -657,7 +657,7 @@ aaaaaa
 aaaaaa
 aaaaaa
 aaaaaa",0.0,Neutral,0.0,Neutral,-0.5494629740715027,Negative
-El negrito claro ozuna,0.0,Neutral,0.1166666666666666,Neutral,-0.295732706785202,Negative
+El negrito claro ozuna,0.0,Neutral,0.1166666666666666,Positive,-0.295732706785202,Negative
 Lo admito es mi gusto culposo JAJAJA mi gusto no aceptado y esta cuenta es falsa y la uso para oír mis gustos no aceptados,0.4648,Positive,-0.2666666666666666,Negative,-0.787074089050293,Negative
 Comentarios klos hablen bien aweonaoo,0.2732,Positive,0.0,Neutral,0.4277655780315399,Positive
 2022 y esto sigue siendo un temon,0.0,Neutral,0.0,Neutral,0.3141892254352569,Neutral
@@ -672,7 +672,7 @@ Quién en 2022 está canción me encanta,0.6369,Positive,0.5,Positive,0.77407640
 digan quines son  fan  de kuno es del  bts 🇺🇿,0.3182,Positive,0.0,Neutral,-0.2652278244495392,Negative
 aaa esta cancion toca el corazon wee🥺💘💘,0.9274,Positive,0.0,Neutral,0.6545968055725098,Positive
 ¿Ozuna tu novia es Natti Natasha????,0.0,Neutral,0.0,Neutral,-0.3949703276157379,Negative
-No me cansó de escuchar éstos temas de mi artista favorito❤❤😍😍te amó ozuna,0.9742,Positive,0.2666666666666666,Neutral,0.539836585521698,Positive
+No me cansó de escuchar éstos temas de mi artista favorito❤❤😍😍te amó ozuna,0.9742,Positive,0.2666666666666666,Positive,0.539836585521698,Positive
 "bad bunny fue el unico que supero a este ozuna 
 ojala vuelva este ozuna",-0.1531,Negative,-0.2333333333333332,Negative,-0.3161334693431854,Negative
 Enero del 2022,0.0,Neutral,0.0,Neutral,-0.3890448212623596,Negative
@@ -680,16 +680,16 @@ Enero del 2022,0.0,Neutral,0.0,Neutral,-0.3890448212623596,Negative
 Alguien en 2022?,0.0,Neutral,0.0,Neutral,-0.5548878908157349,Negative
 Ch,0.0,Neutral,0.0,Neutral,0.2855224609375,Neutral
 Está es la verdadera esencia de ozuna,0.4215,Positive,0.35,Positive,0.6304941773414612,Positive
-Solo vengo Y escucho esta canción cuando estoy sentimental 😭😭😩😩 puto amor 🖤🖤🖤🖤,0.9473,Positive,0.0833333333333333,Neutral,0.5311700105667114,Positive
+Solo vengo Y escucho esta canción cuando estoy sentimental 😭😭😩😩 puto amor 🖤🖤🖤🖤,0.9473,Positive,0.0833333333333333,Positive,0.5311700105667114,Positive
 Te amo ozuna,0.6369,Positive,0.5,Positive,0.3521465063095093,Positive
-Ozana el negrito ojos claros 😮‍💨,0.0,Neutral,0.1166666666666666,Neutral,-0.2967802882194519,Negative
+Ozana el negrito ojos claros 😮‍💨,0.0,Neutral,0.1166666666666666,Positive,-0.2967802882194519,Negative
 Nice music,0.4215,Positive,0.6,Positive,0.4528878629207611,Positive
 Dime qué tu me quieres Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,0.0,Neutral,0.0,Neutral,0.5160662531852722,Positive
 Quiero el Ozuna de antes 🛐,0.3612,Positive,0.0,Neutral,0.4238180220127105,Positive
 Quien la está escuchando en el 2022,0.0,Neutral,0.0,Neutral,0.2863570153713226,Neutral
 "Ayyy, yo la cantaba a todo pulmón en la escuela JJAJAJA lloroooo",-0.2023,Negative,0.5,Positive,0.2948335409164428,Neutral
 L,0.4588,Positive,0.0,Neutral,0.2571044862270355,Neutral
-Bro no lo viy a negar me gusta el reguetton pero de los antiguos XD ; tipo yo niego que me gusta el reguetton pero me olvido de estas joyas,0.6209,Positive,0.1,Neutral,-0.3330475986003876,Negative
+Bro no lo viy a negar me gusta el reguetton pero de los antiguos XD ; tipo yo niego que me gusta el reguetton pero me olvido de estas joyas,0.6209,Positive,0.1,Positive,-0.3330475986003876,Negative
 Me encanta esta canción    .   .   .,0.6369,Positive,0.5,Positive,0.7946954965591431,Positive
 i  Guay   !,0.0,Neutral,0.0,Neutral,0.2477764040231704,Neutral
 "Osuna sube una cancion😌😌😌,",0.7783,Positive,0.0,Neutral,-0.4590942561626434,Negative
@@ -699,17 +699,17 @@ desde hace 5 años sigo escuchando esta rolita este año cumplo 13:(,0.0,Neutral
 3Ya and,0.0,Neutral,0.0,Neutral,0.2985919713973999,Neutral
 claro que si te quiero y mucho papichulo,0.6369,Positive,0.5,Positive,-0.2865020930767059,Negative
 🥰🥰🥰🤩🤩🤩❤️❤️❤️🇩🇴🇩🇴🇩🇴😍😍😍,0.9847,Positive,0.0,Neutral,0.3085779249668121,Neutral
-☝🏻 PRIMERO 🇪🇨,0.0,Neutral,0.25,Neutral,0.3481392562389374,Positive
+☝🏻 PRIMERO 🇪🇨,0.0,Neutral,0.25,Positive,0.3481392562389374,Positive
 🌎 Sudamérica mano arriba 💅,0.0,Neutral,0.0,Neutral,0.2536414265632629,Neutral
 Mi canción,0.0,Neutral,0.0,Neutral,0.4618414938449859,Positive
 Predijo el covid,0.0,Neutral,0.0,Neutral,-0.485686719417572,Negative
 Jajaja ui er se lo,0.4215,Positive,0.8,Positive,0.2727214395999908,Neutral
-Jajajaja no seuo que,0.0,Neutral,0.2,Neutral,-0.2873229086399078,Negative
+Jajajaja no seuo que,0.0,Neutral,0.2,Positive,-0.2873229086399078,Negative
 La q lea mi comentarios sera mi novia favorita😍😍😍🥺🥺😢,0.836,Positive,0.5,Positive,0.3934135735034942,Positive
 Temon,0.0,Neutral,0.0,Neutral,-0.2829194068908691,Negative
-Esta canción me hizo recordar mis tiempos de primaria,0.0,Neutral,0.3,Neutral,0.5409443974494934,Positive
+Esta canción me hizo recordar mis tiempos de primaria,0.0,Neutral,0.3,Positive,0.5409443974494934,Positive
 Me vengo enterando que la chica es rosmeri la que dice oseaa,0.0,Neutral,0.0,Neutral,-0.4060301780700683,Negative
-La escuche con 13 años haora tengo 17,0.0,Neutral,0.1,Neutral,-0.2694653868675232,Negative
+La escuche con 13 años haora tengo 17,0.0,Neutral,0.1,Positive,-0.2694653868675232,Negative
 Ñññ,0.0,Neutral,0.0,Neutral,-0.2770126461982727,Negative
 q buena rolaaa,0.4404,Positive,0.7,Positive,0.3547500371932983,Positive
 Hola buenas noche yo siempre la escucho cuando me trasiona 😥😥,0.2023,Positive,0.7,Positive,0.4300605952739715,Positive
@@ -724,7 +724,7 @@ Quien la sigue escuchando en 2022,0.0,Neutral,0.0,Neutral,0.43515545129776,Posit
 മലയാളികൾ ആരുമില്ലേ,-0.296,Negative,0.0,Neutral,-0.3429134488105774,Negative
 "Está cancion vivía los último momento felices en Venezuela,hasta que llegó Maduro al poder .Creo que recordaré esta música en la historia.",0.5719,Positive,0.4,Positive,0.6104459762573242,Positive
 Jajaja,0.7351,Positive,0.0,Neutral,0.2783994674682617,Neutral
-Jajajaja me voy me dijo nada 😊,0.1331,Positive,0.2,Neutral,-0.7615786790847778,Negative
+Jajajaja me voy me dijo nada 😊,0.1331,Positive,0.2,Positive,-0.7615786790847778,Negative
 Extraño este ozuna 😩😍,0.0772,Positive,0.0,Neutral,0.2492360919713974,Neutral
 Muy buena música,0.4927,Positive,0.91,Positive,0.6851980090141296,Positive
 Alguien en 2022?😎,0.4588,Positive,0.0,Neutral,-0.5725135803222656,Negative
@@ -732,7 +732,7 @@ Amo essa música demais,0.6369,Positive,0.35,Positive,0.2642797827720642,Neutral
 No importa mi estilo de vida tu me quieres a siiiiiiii!!,0.6917,Positive,0.78125,Positive,0.2717944383621216,Neutral
 Ozuna es gran artista !! ✌️ Este 2022 vamos con todo!!,0.7405,Positive,1.0,Positive,0.8596329092979431,Positive
 Enero de 2022 and I still remember this song.,0.0,Neutral,0.0,Neutral,0.6130020618438721,Positive
-"¿EXTRÑAN AL OZUNA DE ANTES? YO SI 😟 , CUANDO SALIO ESTA JOYA TENIA 6 AÑOS ESTE AÑO 2022 CUMPLO 12 🥺",0.0665,Positive,0.1,Neutral,-0.3197098076343536,Negative
+"¿EXTRÑAN AL OZUNA DE ANTES? YO SI 😟 , CUANDO SALIO ESTA JOYA TENIA 6 AÑOS ESTE AÑO 2022 CUMPLO 12 🥺",0.0665,Positive,0.1,Positive,-0.3197098076343536,Negative
 con audifonos y alto volumen re pro queda la cancion re buena OZUNA,0.4404,Positive,0.43,Positive,0.4170717000961303,Positive
 "Que lindo recuerdos de cuando no avía corona virus jajaja,que canción 👑",-0.0577,Negative,0.525,Positive,0.3058424592018127,Neutral
 Bien ozuna,0.2732,Positive,0.0,Neutral,0.4130873680114746,Positive

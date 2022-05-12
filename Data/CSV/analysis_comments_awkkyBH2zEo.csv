@@ -2,7 +2,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 😭😭just say lalisa love me lalisa love me🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻🫰🏻,0.4939,Positive,0.5,Positive,0.7796759009361267,Positive
 Lalisa Lalisa Lalisa Lalisa,0.0,Neutral,0.0,Neutral,-0.2591478824615478,Negative
 Say Lalisa love me Lalisa love me,0.8555,Positive,0.5,Positive,0.7157924771308899,Positive
-Our beautiful little pretty queen,0.7787,Positive,0.3041666666666666,Neutral,0.7685827016830444,Positive
+Our beautiful little pretty queen,0.7787,Positive,0.3041666666666666,Positive,0.7685827016830444,Positive
 Lisa i love youu,0.6369,Positive,0.5,Positive,0.8085408210754395,Positive
 Best song ever!!!,0.7249,Positive,1.0,Positive,0.9564169645309448,Positive
 Never stop listening,0.2235,Positive,0.0,Neutral,-0.3830046057701111,Negative
@@ -64,13 +64,13 @@ lalisa manobon <3,0.4404,Positive,1.0,Positive,0.3049764931201935,Neutral
 "Me encanta todo sobre este MV!
 BLINK VAMOS POR LOS 500 MILLONES , SI SE PUEDEEEEE !!!!",0.7482,Positive,1.0,Positive,0.8592751026153564,Positive
 Stan her for better life,0.4404,Positive,0.5,Positive,0.3244909644126892,Neutral
-"На моменте 0:55 написано на русском ""напиток"" , неожиданно и приятно)",0.4767,Positive,0.2777777777777777,Neutral,0.2269968837499618,Neutral
+"На моменте 0:55 написано на русском ""напиток"" , неожиданно и приятно)",0.4767,Positive,0.2777777777777777,Positive,0.2269968837499618,Neutral
 🛐,0.296,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Lisa is always cool 💜💜💜,0.9423,Positive,0.35,Positive,0.6303055882453918,Positive
-Blackpink can you pls pls pls pls pls pls renew your contract 🙏😭 we the blinks are going  to miss you soooooooooooooooooooooooooooooooooooo much pls renew it,-0.1531,Negative,0.2,Neutral,0.4381696879863739,Positive
+Blackpink can you pls pls pls pls pls pls renew your contract 🙏😭 we the blinks are going  to miss you soooooooooooooooooooooooooooooooooooo much pls renew it,-0.1531,Negative,0.2,Positive,0.4381696879863739,Positive
 Addiction is INSANE!!!,-0.6496,Negative,-1.0,Negative,-0.8105344176292419,Negative
 ♡♡♡♡♡♡,0.0,Neutral,0.0,Neutral,0.6539821028709412,Positive
-"Lisa is worthy of becoming a princess in the time of the pharaohs, she is really like that (. ❛ ᴗ ❛.) o(╥﹏╥) o(╥﹏╥) （｡ò ∀ ó｡）",0.6901,Positive,0.3277777777777778,Neutral,0.4954945743083954,Positive
+"Lisa is worthy of becoming a princess in the time of the pharaohs, she is really like that (. ❛ ᴗ ❛.) o(╥﹏╥) o(╥﹏╥) （｡ò ∀ ó｡）",0.6901,Positive,0.3277777777777778,Positive,0.4954945743083954,Positive
 473m 🎊🎊,0.0,Neutral,0.0,Neutral,0.2717860639095306,Neutral
 Amo sus rap,0.6369,Positive,0.5,Positive,0.4754301905632019,Positive
 ☺️☺️,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -78,7 +78,7 @@ Amo sus rap,0.6369,Positive,0.5,Positive,0.4754301905632019,Positive
 473M,0.0,Neutral,0.0,Neutral,0.2397782355546951,Neutral
 Lalisa love me😍😍😍,0.9217,Positive,0.5,Positive,0.6217373609542847,Positive
 Me encanta BLACKPINK es fantástico para mi son muy buenas sus canciones las quiero m u c h o  y les doy un 💯🖤💖👍🏻😊,0.9862,Positive,0.5775,Positive,0.8333290815353394,Positive
-wow Lisa oh my gosh 😱😱,-0.7783,Negative,0.1,Neutral,0.744143545627594,Positive
+wow Lisa oh my gosh 😱😱,-0.7783,Negative,0.1,Positive,0.744143545627594,Positive
 😍😍😍😍😍😍😍😍,0.9719,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Lisa,0.0,Neutral,0.0,Neutral,0.3173010349273681,Neutral
 Lisa is an inspiration for girl's generation,0.5267,Positive,0.0,Neutral,0.4199572801589966,Positive
@@ -109,7 +109,7 @@ Amo esa parte",0.6369,Positive,0.5,Positive,0.5704060196876526,Positive
 "*OMG*
 Pisame",0.0,Neutral,0.0,Neutral,-0.3628501296043396,Negative
 Si me vas hablar de perfecciones hablame de *Lisa*,0.5423,Positive,0.0,Neutral,0.2901422679424286,Neutral
-Ok pero su entrada es algo que genera un wow,0.7783,Positive,0.3,Neutral,0.5779236555099487,Positive
+Ok pero su entrada es algo que genera un wow,0.7783,Positive,0.3,Positive,0.5779236555099487,Positive
 "Perfect💜💜💜
 Perfect💜💜💜
 Perfect💜💜💜
@@ -149,7 +149,7 @@ More Lisa’s the better,0.4877,Positive,0.5,Positive,0.3604740798473358,Positiv
 LALISAAAAA,0.0,Neutral,0.0,Neutral,0.2517280280590057,Neutral
 Bellaaaaa eres una reina ♥️♥️♥️♥️♥️♥️,0.9803,Positive,0.0,Neutral,0.5832204818725586,Positive
 """This song never gets old. No matter how much I listen, I never get bored""",0.1877,Positive,-0.0666666666666666,Negative,0.5399413704872131,Positive
-"Nearly 27 million more until 500 million!!! Ooof, ‘LALISA MV’ always gives me so much energy throughout the day. It’s like watching 4 different seasons in one musical video",0.696,Positive,0.2553125,Neutral,0.471384733915329,Positive
+"Nearly 27 million more until 500 million!!! Ooof, ‘LALISA MV’ always gives me so much energy throughout the day. It’s like watching 4 different seasons in one musical video",0.696,Positive,0.2553125,Positive,0.471384733915329,Positive
 "Hey Blinks this is a message for all of us. As you know DDU DU DDU DU have 1.8 billion views, so let's make it 2 billion. And it will be a record of first group of kpop to reach 2 billion views. Hope you will share this message and make BL proud of us.",0.9068,Positive,0.525,Positive,0.7554168701171875,Positive
 블랙핑크,0.0,Neutral,-0.1333333333333333,Negative,0.2642763555049896,Neutral
 "*LISA IS THE BEST DANCER*
@@ -166,12 +166,12 @@ Lisa<3,0.0,Neutral,0.0,Neutral,0.3211836218833923,Neutral
 Never give the doubt,0.2755,Positive,0.0,Neutral,0.2962813079357147,Neutral
 Stream,0.0,Neutral,0.0,Neutral,0.280324786901474,Neutral
 Stream blinks,0.0,Neutral,0.0,Neutral,-0.350669115781784,Negative
-"Super cool is that ""Iron Maiden"" Lalisa costume from the first part.",0.7351,Positive,0.3111111111111111,Neutral,0.5563570261001587,Positive
+"Super cool is that ""Iron Maiden"" Lalisa costume from the first part.",0.7351,Positive,0.3111111111111111,Positive,0.5563570261001587,Positive
 This song is a masterpiece.,0.6249,Positive,0.0,Neutral,0.7844932675361633,Positive
 Lalisa seni seviyorum Lalisa love me,0.8555,Positive,0.5,Positive,0.6421676874160767,Positive
 Hadi 500 milyon yapalım,0.0,Neutral,0.0,Neutral,-0.4286218881607055,Negative
 You can tell that Lisa loves herself!!! Absolute Queen!!! 👑,0.7067,Positive,0.390625,Positive,0.9254973530769348,Positive
-lets Who Know   Lisa real name,0.0,Neutral,0.2,Neutral,0.3256371021270752,Neutral
+lets Who Know   Lisa real name,0.0,Neutral,0.2,Positive,0.3256371021270752,Neutral
 Кто увидел слово НАПИТОК?,0.0,Neutral,0.0,Neutral,-0.3418214619159698,Negative
 Who are Indian blink plz comment on 💛🇮🇳,0.0772,Positive,0.0,Neutral,-0.388491541147232,Negative
 "Lisa
@@ -193,7 +193,7 @@ I love you Lili,0.6369,Positive,0.5,Positive,0.8262579441070557,Positive
 AMEI,0.5994,Positive,0.7,Positive,0.2903938293457031,Neutral
 😝😝🥳🥳💞💞💞💞💞💞💞💓💟💗💙💛💟💗💙💓💟💗💋💗💘💗💜💓💌💗💜💓💟💗💕💓💌💛💟💓👺,0.9994,Positive,0.0,Neutral,0.3085779249668121,Neutral
 lalisa love me lalisa love me,0.8555,Positive,0.5,Positive,0.7092981338500977,Positive
-Love you Black pink,0.6369,Positive,0.0777777777777777,Neutral,0.814789891242981,Positive
+Love you Black pink,0.6369,Positive,0.0777777777777777,Positive,0.814789891242981,Positive
 The Queen did the impossible to make the whole world talk about her masterpiece,0.6249,Positive,-0.2333333333333333,Negative,0.5122650265693665,Positive
 ليزا الا تريدين القدوم الى مصر سأسافر اليها ايضا فقط لرؤيتك يا عزيزتي,0.3352,Positive,0.0,Neutral,-0.5517392158508301,Negative
 "She broke all the numbers with her creativity, she's perfect",0.5423,Positive,1.0,Positive,0.7922908663749695,Positive
@@ -213,7 +213,7 @@ Lalisa love me lalisa love me,0.8555,Positive,0.5,Positive,0.7092981338500977,Po
 500 milyona çok az kaldı,0.0,Neutral,-0.1875,Negative,-0.579297661781311,Negative
 We love you Lisa,0.6369,Positive,0.5,Positive,0.817563533782959,Positive
 Lisa is on a different level,0.0,Neutral,0.0,Neutral,0.350936084985733,Positive
-kimse bu kızın seviyesinde değil gerçekten,-0.296,Negative,0.2,Neutral,-0.3417622447013855,Negative
+kimse bu kızın seviyesinde değil gerçekten,-0.296,Negative,0.2,Positive,-0.3417622447013855,Negative
 Aşkım aşkım çok özledim,0.8316,Positive,0.3999999999999999,Positive,0.3677346408367157,Positive
 Ooh,0.0,Neutral,0.0,Neutral,-0.3815207183361053,Negative
 Lisaaaa seni seviyorum,0.6369,Positive,0.5,Positive,0.3014429807662964,Neutral
@@ -229,7 +229,7 @@ Hola Cinthia,0.0,Neutral,0.0,Neutral,0.2871018946170807,Neutral
 Best girl is Lalisa,0.6369,Positive,1.0,Positive,0.6382278800010681,Positive
 Forever Addition!,0.0,Neutral,0.0,Neutral,0.809964656829834,Positive
 "Waiting..... for next  song 🎵 🎶 🎵 
-Lots of love  ❤ From India 🇮🇳",0.8555,Positive,0.25,Neutral,0.5376317501068115,Positive
+Lots of love  ❤ From India 🇮🇳",0.8555,Positive,0.25,Positive,0.5376317501068115,Positive
 Big Fan From Sri lanka  ♥️💫😁LA-lisa,0.8225,Positive,0.0,Neutral,0.6081494688987732,Positive
 I love  blackpink,0.6369,Positive,0.5,Positive,0.7265112400054932,Positive
 하루 종일 듣고 반복해서 들을 수 없는 아름다운 노래 그런데 리사가 예쁘다😍,0.8945,Positive,0.85,Positive,0.357018768787384,Positive
@@ -257,12 +257,12 @@ V1ews in Money 600m!!,0.0,Neutral,0.0,Neutral,-0.3523430228233337,Negative
 العرب اثبتو وجودكم 😭,-0.4767,Negative,0.0,Neutral,0.4606581926345825,Positive
 She is so iconic and beautiful! 💗,0.8848,Positive,0.75,Positive,0.938198447227478,Positive
 I definitely love me some Lisa. You feel me?,0.7845,Positive,0.5,Positive,0.7006780505180359,Positive
-راب واو,0.5859,Positive,0.1,Neutral,0.2544713914394378,Neutral
+راب واو,0.5859,Positive,0.1,Positive,0.2544713914394378,Neutral
 عرب 🌚.,0.0,Neutral,0.0,Neutral,0.4093540012836456,Positive
 She has BROKED WORLDWIDE RECORD,0.0,Neutral,0.0,Neutral,-0.4837727546691894,Negative
 This is really cool ♡♕,0.3804,Positive,0.35,Positive,0.7717132568359375,Positive
 I don't like Lisa😐💩,-0.2755,Negative,0.0,Neutral,-0.4424960017204284,Negative
-LALISA will hit 500M by early June ig,0.0,Neutral,0.1,Neutral,0.2694524824619293,Neutral
+LALISA will hit 500M by early June ig,0.0,Neutral,0.1,Positive,0.2694524824619293,Neutral
 "472, 649
 27.5M to 500M",0.0,Neutral,0.0,Neutral,-0.3123146295547485,Negative
 สู้ๆค่ะlalisaไปให้ถึง500ล้านวิว,-0.3612,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -277,7 +277,7 @@ Baby get the megaphone 📣 put it on SPEAKKERR🔥,-0.34,Negative,0.0,Neutral,0
 THE COOLEST FEMALE KPOP ARTIST!🔥,-0.4003,Negative,0.0,Neutral,0.9237731099128724,Positive
 Please str3am harder fam,0.3182,Positive,-0.1,Negative,-0.3083341717720032,Negative
 블랙핑크 사랑해,0.6369,Positive,0.5,Positive,0.6284975409507751,Positive
-Wow hamil ari ari,0.5859,Positive,0.2166666666666666,Neutral,0.6014495491981506,Positive
+Wow hamil ari ari,0.5859,Positive,0.2166666666666666,Positive,0.6014495491981506,Positive
 Buraya gelip yorumlara bakanlar BUTONU😂👉❤💓,0.9524,Positive,0.0,Neutral,0.2871293425559997,Neutral
 "^           ^       
  |●    ●|
@@ -368,17 +368,17 @@ Power of LALISA 💗🖤💗🖤💗🖤,0.9839,Positive,0.0,Neutral,0.526613295
 yey,0.0,Neutral,0.0,Neutral,0.2614203989505768,Neutral
 T1 malnuud,0.0,Neutral,0.0,Neutral,-0.3931399583816528,Negative
 472m,0.0,Neutral,0.0,Neutral,0.2327424585819244,Neutral
-"The effort and money they pour to make an MV is amazing. It's almost too much, I feel like I watched five different MV's.",0.743,Positive,0.2666666666666666,Neutral,0.3348578810691833,Positive
+"The effort and money they pour to make an MV is amazing. It's almost too much, I feel like I watched five different MV's.",0.743,Positive,0.2666666666666666,Positive,0.3348578810691833,Positive
 Love you lisa,0.6369,Positive,0.5,Positive,0.8144543170928955,Positive
 Iloveyou Queen,0.0,Neutral,0.0,Neutral,0.5716232657432556,Positive
 I love this song and since then I love LISA,0.8555,Positive,0.5,Positive,0.8260861039161682,Positive
-Lisa's performance just wow,0.5859,Positive,0.1,Neutral,0.7051230669021606,Positive
+Lisa's performance just wow,0.5859,Positive,0.1,Positive,0.7051230669021606,Positive
 I love lalisa,0.6369,Positive,0.5,Positive,0.7115018367767334,Positive
 LALSIAA LOVE ME LALISA LOVE MEEE,0.8555,Positive,0.5,Positive,0.6503556370735168,Positive
 GO LISAA GOO,0.0,Neutral,0.0,Neutral,0.2714806795120239,Neutral
 SAY LALISAA,0.0,Neutral,0.0,Neutral,-0.3160752356052398,Negative
 LET'S GO 500M LISA DESERVE ♡♡,0.0,Neutral,0.0,Neutral,0.8250923156738281,Positive
-I guess long hair will fit more on you than short hair 🤔🤔,0.3612,Positive,0.2125,Neutral,0.4810167551040649,Positive
+I guess long hair will fit more on you than short hair 🤔🤔,0.3612,Positive,0.2125,Positive,0.4810167551040649,Positive
 They are so cute. Spashali lisa,0.5949,Positive,0.5,Positive,0.5918450951576233,Positive
 YG must be grateful that they have Lisa that is why they are popular because of Lisa ❤️❤️,0.7003,Positive,0.6,Positive,0.4519751071929931,Positive
 Amo la canción,0.6369,Positive,0.5,Positive,0.5849796533584595,Positive
@@ -388,7 +388,7 @@ In this video I see Lalisa In every way,0.0,Neutral,0.0,Neutral,0.55125153064727
 Me esta llegando esta canción mi hermana la pone cada dia y vi a mi perro moviendo el trasero con cara de lalisaloveme,0.25,Positive,0.0,Neutral,0.3655749261379242,Positive
 Obob,0.0,Neutral,0.0,Neutral,0.2926925718784332,Neutral
 I like this song lisaaaaa..,0.3612,Positive,0.0,Neutral,0.3931168615818023,Positive
-My name is Nick name lali and my real name is hanshika 💖,0.7506,Positive,0.2,Neutral,0.250931829214096,Neutral
+My name is Nick name lali and my real name is hanshika 💖,0.7506,Positive,0.2,Positive,0.250931829214096,Neutral
 Lisa,0.0,Neutral,0.0,Neutral,0.3173010349273681,Neutral
 This is my favourite song 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.8319080471992493,Positive
 i love lisa♥️😘,0.9042,Positive,0.5,Positive,0.8423482775688171,Positive
@@ -406,7 +406,7 @@ Let's goooooo! We're getting there,0.0,Neutral,0.0,Neutral,0.5010590553283691,Po
 Breast milk 😊,0.7184,Positive,0.0,Neutral,0.3240101933479309,Neutral
 Ice cream,0.0,Neutral,0.0,Neutral,0.3883118629455566,Positive
 Vips,0.0,Neutral,0.0,Neutral,0.4056853353977203,Positive
-If y'all not chicken,0.0,Neutral,0.3,Neutral,-0.3238260149955749,Negative
+If y'all not chicken,0.0,Neutral,0.3,Positive,-0.3238260149955749,Negative
 72369,0.0,Neutral,0.0,Neutral,0.2575816512107849,Neutral
 Lovely queen,0.5859,Positive,0.5,Positive,0.7100515961647034,Positive
 My queen lalisa manoban,0.0,Neutral,0.0,Neutral,0.4884370863437652,Positive
@@ -445,7 +445,7 @@ I love my Dream is can go a one the concer for the blackpinkm i like much this m
 Sono  thailandese,0.0,Neutral,0.0,Neutral,-0.3456318974494934,Negative
 ❤️🇰🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Çok güzelsin ama,0.2609,Positive,0.78,Positive,0.3790522813796997,Positive
-I feel like its been newly release,0.3612,Positive,0.1363636363636363,Neutral,0.2884944677352905,Neutral
+I feel like its been newly release,0.3612,Positive,0.1363636363636363,Positive,0.2884944677352905,Neutral
 Askım,0.6369,Positive,0.5,Positive,0.2416939437389373,Neutral
 Do this. I do believe in you,0.0,Neutral,0.0,Neutral,0.6894544959068298,Positive
 みます,0.0,Neutral,0.0,Neutral,0.3725757300853729,Positive
@@ -497,7 +497,7 @@ Love Lalisa 💗🥀🥀💮💮🌻🌺🌼🏵,0.8779,Positive,0.5,Positive,0.
 "linda la camsion
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤",0.9983,Positive,0.85,Positive,0.2807069718837738,Neutral
 Aniyaseyoooo!!!,0.0,Neutral,0.0,Neutral,-0.2818310558795929,Negative
-"Sm and cube entertainment thank you all for your service, now hold your idols BLAKCPINK is coming to take the whole year ..",0.6486,Positive,0.2,Neutral,0.7784553170204163,Positive
+"Sm and cube entertainment thank you all for your service, now hold your idols BLAKCPINK is coming to take the whole year ..",0.6486,Positive,0.2,Positive,0.7784553170204163,Positive
 "Stream money,SG and lalisa on spotify too",0.0,Neutral,0.0,Neutral,0.3467652499675751,Positive
 Semangat!,0.4926,Positive,0.0,Neutral,-0.599535346031189,Negative
 keep str4m money -sg- lalisa-lilisfilm dance videos- and dance practice,0.0,Neutral,0.0,Neutral,0.3564619123935699,Positive
@@ -533,7 +533,7 @@ Hello ada org Indonesia nga di sini ?,0.0,Neutral,0.0,Neutral,-0.530005931854248
 Road to 500M (3),0.0,Neutral,0.0,Neutral,0.3652266263961792,Positive
 Fato: Todos concordam que a lisa não tem nenhuma música ruim?💞,0.8641,Positive,-0.6999999999999998,Negative,-0.4174774885177612,Negative
 ลิซ่าเก่งอะ,0.4404,Positive,0.7,Positive,0.3085779249668121,Neutral
-Lisa please start a new series for your vocals and your playing guitar talent,0.7096,Positive,0.1363636363636363,Neutral,0.4146678447723388,Positive
+Lisa please start a new series for your vocals and your playing guitar talent,0.7096,Positive,0.1363636363636363,Positive,0.4146678447723388,Positive
 Catch me if you can,0.0,Neutral,0.0,Neutral,-0.2666937410831451,Negative
 Being the greatest all time ain't fantasy,0.6369,Positive,1.0,Positive,0.8079500198364258,Positive
 Thank you Lisa,0.3612,Positive,0.0,Neutral,0.5690613389015198,Positive
@@ -547,8 +547,8 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 fire🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
 น้องลิซ่าน่ารักสวยเก่ง...ยิ่งดูยิ่งหลงเธอมากเลยนะครับน้องลิคนเก่งของคนไทย...บอกตรงต้องเปิดฟังเสัยงน้องทุกๆวันเลย,0.9265,Positive,0.410969387755102,Positive,0.2367515712976455,Neutral
 "You're our queen forever, we always support you ❤",0.7845,Positive,0.0,Neutral,0.8899521231651306,Positive
-Aau mandap ma gayera bihe garam ;),0.2263,Positive,0.25,Neutral,0.3518597185611725,Positive
-Mantap,0.0,Neutral,0.1666666666666666,Neutral,0.248584970831871,Neutral
+Aau mandap ma gayera bihe garam ;),0.2263,Positive,0.25,Positive,0.3518597185611725,Positive
+Mantap,0.0,Neutral,0.1666666666666666,Positive,0.248584970831871,Neutral
 I love  lisa💛,0.8555,Positive,0.5,Positive,0.8423482775688171,Positive
 👏👏👏👏👏👏👏👏👍👍👍👍👍👌👌👌👌❤❤💓❤🤝🤝🤝💥💥💥💥💥💥👑👑👑👑,0.9791,Positive,0.0,Neutral,0.3085779249668121,Neutral
 فاكييييييييييييييييييييييييوا,0.0,Neutral,0.0,Neutral,0.2526976764202118,Neutral
@@ -666,8 +666,8 @@ we miss you Lisa.,-0.1531,Negative,0.0,Neutral,0.2870726287364959,Neutral
 "Come on blinks 
 Let’s give about …………… aaa ….. 
 800million views on Lalisa or 1billion 
-1billion is a lot we can’t do it fast but ya we can do 5to8 hundred million views",0.0,Neutral,0.2,Neutral,-0.2569417655467987,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+1billion is a lot we can’t do it fast but ya we can do 5to8 hundred million views",0.0,Neutral,0.2,Positive,-0.2569417655467987,Negative
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 🥳🥳🥳,0.7783,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "TEK KELİME İLE MÜKEMMEL ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
   
@@ -677,7 +677,7 @@ Me encanta,0.6369,Positive,0.5,Positive,0.7738614678382874,Positive
 Lisa🍭 i love you 😭😭♥️♥️♥️♥️,0.9501,Positive,0.5,Positive,0.8762737512588501,Positive
 Yuk hamil ari ari,0.0,Neutral,0.3333333333333333,Positive,0.2725932002067566,Neutral
 QUEEN LALISA 🔥,-0.34,Negative,0.0,Neutral,0.413678377866745,Positive
-id like black pink id love uk jisoooooooo jennie rose lisa jisoo love😉😍😍😍😍😘😘,0.9808,Positive,0.2083333333333333,Neutral,0.2606251239776611,Neutral
+id like black pink id love uk jisoooooooo jennie rose lisa jisoo love😉😍😍😍😍😘😘,0.9808,Positive,0.2083333333333333,Positive,0.2606251239776611,Neutral
 472 million in an hour. Keep on st3aming fam and Lisa stan.,0.0,Neutral,0.0,Neutral,-0.5954982042312622,Negative
 471.9M view !,0.0,Neutral,0.0,Neutral,0.5045022964477539,Positive
 We love you so much Lili! Stay safe and happy.,0.902,Positive,0.5125,Positive,0.9076818823814392,Positive
@@ -687,7 +687,7 @@ Lalisa on Saturday,0.0,Neutral,0.0,Neutral,0.2347840517759323,Neutral
 She is  queen kpop in the word lalisa manoban,0.0,Neutral,0.0,Neutral,0.5337943434715271,Positive
 Can't wait for the world tour. I wanna see you performing on stage,0.0,Neutral,0.0,Neutral,0.5308088660240173,Positive
 I love you lisa very much,0.6369,Positive,0.38,Positive,0.8523733019828796,Positive
-WOW Lisa WOW WOW,0.9393,Positive,0.1,Neutral,0.7096626162528992,Positive
+WOW Lisa WOW WOW,0.9393,Positive,0.1,Positive,0.7096626162528992,Positive
 Cada vez más cerca para los  500M,0.0,Neutral,0.0,Neutral,-0.3273490965366363,Negative
 Lisa queen,0.0,Neutral,0.0,Neutral,0.5015140175819397,Positive
 LALISA me representa,0.0,Neutral,0.0,Neutral,0.404655784368515,Positive

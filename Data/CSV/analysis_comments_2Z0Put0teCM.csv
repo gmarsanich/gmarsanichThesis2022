@@ -3,7 +3,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 Hmmm some international stuff with Bollywood 🎵,0.0,Neutral,0.0,Neutral,0.3482528030872345,Positive
 ♥️♥️,0.8555,Positive,0.0,Neutral,0.3153944313526153,Neutral
 Anyone in 2022🙋🏻‍♂️,0.4939,Positive,0.0,Neutral,0.4235062301158905,Positive
-"The originality in this song is so underrated. Well done gentleman, it's a complete *“masterpiece”* .",0.3353,Positive,0.1,Neutral,0.8851965665817261,Positive
+"The originality in this song is so underrated. Well done gentleman, it's a complete *“masterpiece”* .",0.3353,Positive,0.1,Positive,0.8851965665817261,Positive
 Hritik,0.0,Neutral,0.0,Neutral,0.2346966713666916,Neutral
 "This is so in my childhood memories. Whenever this movie used to come on the TV, I used to just wait for this song, although I didn't understand a word, but anyways. Great song",0.7684,Positive,0.8,Positive,0.7618467807769775,Positive
 Love the song,0.6369,Positive,0.5,Positive,0.6877331137657166,Positive
@@ -21,7 +21,7 @@ Romani dance,0.0,Neutral,0.0,Neutral,0.2897700369358063,Neutral
 my childhood back in 2022 .wow,0.5859,Positive,0.0,Neutral,0.7285856008529663,Positive
 When can we again travel like this after Corona! 😌,0.6588,Positive,0.0,Neutral,0.5751169323921204,Positive
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
-Bura tab lagta h jab itne acche songs par itne kam views ho aur wo gande se songs par itne sare views hote h 😔,0.0,Neutral,0.25,Neutral,-0.36809042096138,Negative
+Bura tab lagta h jab itne acche songs par itne kam views ho aur wo gande se songs par itne sare views hote h 😔,0.0,Neutral,0.25,Positive,-0.36809042096138,Negative
 We want hindu songs,0.0772,Positive,0.0,Neutral,0.2530886530876159,Neutral
 Muslim song,0.0,Neutral,0.0,Neutral,0.2373866438865661,Neutral
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -29,7 +29,7 @@ Muslim song,0.0,Neutral,0.0,Neutral,0.2373866438865661,Neutral
 But I have listened this song 4 years before how?",0.0,Neutral,0.0,Neutral,-0.3042142391204834,Negative
 This song sucks!,-0.4199,Negative,-0.375,Negative,-0.8641494512557983,Negative
 Anyone at December 14 2021,0.0,Neutral,0.0,Neutral,-0.6583360433578491,Negative
-Spanish people can understand spanish indian can understand hindi but both enjoyed the song!,0.6948,Positive,0.2083333333333333,Neutral,0.429961621761322,Positive
+Spanish people can understand spanish indian can understand hindi but both enjoyed the song!,0.6948,Positive,0.2083333333333333,Positive,0.429961621761322,Positive
 Seniorita,0.0,Neutral,0.0,Neutral,0.3464718461036682,Positive
 A man of rubber body,0.0,Neutral,0.0,Neutral,0.4551133811473846,Positive
 "Pas beaucoup de commentaires en français , alors je témoigne: ce clip, je l'écoute et le regarde tous les matins en tapant dans mes mains.Cela me met le coeur et le corps en joie, donc grand merci à tous ces visages joyeux qui boostent ma journée!!",0.9593,Positive,0.375,Positive,0.6675860285758972,Positive
@@ -177,14 +177,14 @@ Duniya mein yeh bhi kum hai kya
 
 Do pal ko toh aao kho jaaye
 
-Bhoole hum hota gham hai kya",0.9526,Positive,0.1759259259259259,Neutral,0.2402531504631042,Neutral
+Bhoole hum hota gham hai kya",0.9526,Positive,0.1759259259259259,Positive,0.2402531504631042,Neutral
 This masterpieces is so underrated,0.5423,Positive,0.0,Neutral,0.8401708602905273,Positive
 Kumaoni,0.0,Neutral,0.0,Neutral,0.240613654255867,Neutral
 Legends don't know this song name they search it by lyrics,0.0,Neutral,0.0,Neutral,-0.4033678770065307,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Best song 💕,0.8591,Positive,1.0,Positive,0.8443126082420349,Positive
 "9xm Childhood & School days 
-Really Miss those golden days 😇❤",0.7436,Positive,0.25,Neutral,-0.2684024274349212,Negative
+Really Miss those golden days 😇❤",0.7436,Positive,0.25,Positive,-0.2684024274349212,Negative
 Farhan Akhtar is such a talented guy,0.5106,Positive,0.35,Positive,0.7617911696434021,Positive
 This is a fucking Crap...,-0.4391,Negative,-0.8,Negative,-0.9745688438415528,Negative
 Cool song 🎵🎵🎵,0.3182,Positive,0.35,Positive,0.5469094514846802,Positive
@@ -206,11 +206,11 @@ Agar ye movie aaj release hoti to 1000cr kamati ❤️,0.0,Neutral,0.0,Neutral,-
 WTF.. I ordered Kites movie songs,-0.6739,Negative,-0.5,Negative,-0.2370039522647857,Negative
 Let's see how many people are coming in 2021,0.0,Neutral,0.5,Positive,0.2854398787021637,Neutral
 only legends understand the depth and quality of this song.....,0.0,Neutral,0.0,Neutral,0.2293986529111862,Neutral
-Very Cutest Song 😍❤️😍,0.8849,Positive,0.2,Neutral,0.764995276927948,Positive
+Very Cutest Song 😍❤️😍,0.8849,Positive,0.2,Positive,0.764995276927948,Positive
 Beautiful song,0.5994,Positive,0.85,Positive,0.7006238102912903,Positive
 💖,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😘,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Wow yar what a song i love you this song 😘😘😘,0.9468,Positive,0.3,Neutral,0.9155287146568298,Positive
+Wow yar what a song i love you this song 😘😘😘,0.9468,Positive,0.3,Positive,0.9155287146568298,Positive
 I am like this song 💗💗🥰,0.9666,Positive,0.0,Neutral,0.5788066387176514,Positive
 Comon fodre,0.0,Neutral,0.0,Neutral,0.3085612952709198,Neutral
 I love this song 💃💃💃💃💃💃💃💃💃❤️💝,0.8555,Positive,0.5,Positive,0.8624796271324158,Positive
@@ -218,7 +218,7 @@ Jab bhi thak jata hoon ye gana sunta hoon pata nahi kaise energy aa jati hain,-0
 Chaht k do pal b mil paye duniya me  ye b  kam h kya,0.4019,Positive,0.0,Neutral,-0.4243148267269134,Negative
 Which film is that ?,0.0,Neutral,0.0,Neutral,-0.3427075743675232,Negative
 मैं भी नहीं समझा सेनोरिटा 😂😂😂😂😂,0.0,Neutral,0.0,Neutral,-0.560465395450592,Negative
-Fun fact: this song already owned by another senorita 😂😂😂,0.9001,Positive,0.3,Neutral,0.4981667995452881,Positive
+Fun fact: this song already owned by another senorita 😂😂😂,0.9001,Positive,0.3,Positive,0.4981667995452881,Positive
 Never gets old💕,0.6486,Positive,0.0,Neutral,-0.5954461693763733,Negative
 balls in my jaws,0.0,Neutral,0.0,Neutral,0.2961670458316803,Neutral
 1:30 this line has a seperate fan base 😂,0.6369,Positive,-0.8,Negative,-0.4850416481494903,Negative
@@ -232,7 +232,7 @@ Beautiful version!!,0.6688,Positive,1.0,Positive,0.7265985012054443,Positive
 When you banged a song very hard this song produced,-0.1761,Negative,-0.3791666666666667,Negative,-0.5882789492607117,Negative
 😘😘😘😘😘😘,0.9413,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Moves of Hrithik 👌👌,0.9055,Positive,0.0,Neutral,0.3103971779346466,Neutral
-wish I could watch this movie for the first time again,0.4019,Positive,0.25,Neutral,0.5210957527160645,Positive
+wish I could watch this movie for the first time again,0.4019,Positive,0.25,Positive,0.5210957527160645,Positive
 Hrithik Roshan ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3050327003002167,Neutral
 😛😝,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 0:15 maths teacher teaching be like😂😂😂😂,0.9201,Positive,0.0,Neutral,0.2794350981712341,Neutral
@@ -246,23 +246,23 @@ nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 "Had trouble finding this because of 
 
 Senorita by shawn mendez and camilla cabello",-0.4019,Negative,-0.2,Negative,0.2885820567607879,Neutral
-Abhay Deol decently held up against Hrithik and Farhan in dancing,0.0,Neutral,0.1666666666666666,Neutral,0.4317193329334259,Positive
-"I love other languages songs, and spanish also like Despacito",0.7717,Positive,0.125,Neutral,0.4268414676189422,Positive
+Abhay Deol decently held up against Hrithik and Farhan in dancing,0.0,Neutral,0.1666666666666666,Positive,0.4317193329334259,Positive
+"I love other languages songs, and spanish also like Despacito",0.7717,Positive,0.125,Positive,0.4268414676189422,Positive
 "Hope you are are  still listening this one melodies song then you are legend .... So i came here only for this song when me and my friends goes elsewhere  so i'll play this one song and me and my friends will sing simultaneously . then we lost in this song and  Feel overwhelming ..
 
-So i'll recommend to everyone when u go elsewhere with their friends ....so don't forget to play this song ....☺☺",0.9637,Positive,0.25,Neutral,0.3350928425788879,Positive
+So i'll recommend to everyone when u go elsewhere with their friends ....so don't forget to play this song ....☺☺",0.9637,Positive,0.25,Positive,0.3350928425788879,Positive
 Gracias amor bello 💕 Andy,0.9423,Positive,0.675,Positive,0.6119981408119202,Positive
 I love this song and Hritik Rohan dance,0.6369,Positive,0.5,Positive,0.8158447742462158,Positive
 "White guy to his friend: hey dude, Play senorita
 Indian guy: *ok sure* 👌",0.9191,Positive,0.3333333333333333,Positive,0.2993550598621368,Neutral
-Very very very niceeeeeeeee,0.0,Neutral,0.26,Neutral,0.6625814437866211,Positive
+Very very very niceeeeeeeee,0.0,Neutral,0.26,Positive,0.6625814437866211,Positive
 Outstanding Song,0.6124,Positive,0.5,Positive,0.8464704155921936,Positive
 100 Percent Perfect,0.5719,Positive,1.0,Positive,0.9660883545875548,Positive
 My favorite song forever ❤,0.802,Positive,0.5,Positive,0.9323296546936036,Positive
 Favorite song always,0.4588,Positive,0.5,Positive,0.8829577565193176,Positive
 Ok,0.296,Positive,0.5,Positive,0.4951144456863403,Positive
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
-Thanks span,0.4404,Positive,0.2,Neutral,0.373351901769638,Positive
+Thanks span,0.4404,Positive,0.2,Positive,0.373351901769638,Positive
 "Those looking for Hindi Translation
 Starts with [Spanish Part]
 [Hindi] Neither I understand what you said
@@ -282,12 +282,12 @@ For love and romance There is only language in the world,
 Now don't look away from me
 Come close to me
 Take me in your arms
-Did you understand that,Oh Senyorita... It's just repeating same lyrics in later half",0.8689,Positive,0.0128472222222222,Neutral,-0.3615158796310425,Negative
+Did you understand that,Oh Senyorita... It's just repeating same lyrics in later half",0.8689,Positive,0.0128472222222222,Positive,-0.3615158796310425,Negative
 Wow I am an indian and the mix with Spanish is awesome,0.836,Positive,0.3666666666666667,Positive,0.8677353858947754,Positive
 This song is my childhood memorie 💜💜,0.8555,Positive,0.0,Neutral,0.6239727735519409,Positive
 Palle to nhi pda sasura...pr mza aaya 🙂,0.0,Neutral,0.0,Neutral,0.2545353472232818,Neutral
 2021,0.0,Neutral,0.0,Neutral,0.298195868730545,Neutral
-Wow senorita maja a gaya☺️☺️☺️☺️👍👍👍👯👯😆😆,0.9628,Positive,0.1,Neutral,0.6752838492393494,Positive
+Wow senorita maja a gaya☺️☺️☺️☺️👍👍👍👯👯😆😆,0.9628,Positive,0.1,Positive,0.6752838492393494,Positive
 Love from Afghanistan 🇦🇫 ❤,0.8555,Positive,0.5,Positive,0.6116740703582764,Positive
 I saw this song as a kid and after some years I remembered it again and here I am watching it 😁😁,0.7184,Positive,0.0,Neutral,0.5206426978111267,Positive
 Teeno actor jis tarah se gaaye hai. Gaana pe char chaand lag gaya.,0.0,Neutral,0.0,Neutral,-0.5251075029373169,Negative
@@ -301,10 +301,10 @@ MOLTO BELLA,0.4754,Positive,0.78,Positive,0.65725177526474,Positive
 1:37 he lowkey was doing dhoom step 😆😆😆,0.7579,Positive,0.0,Neutral,-0.3749383091926574,Negative
 my favourite  song,0.0,Neutral,0.0,Neutral,0.8636926412582397,Positive
 "No desvíe la mirada , quédate cerca de mi,buhat khusbrorat hai song",0.0,Neutral,0.0,Neutral,-0.6165345907211304,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 "Honestly this song bring me out of the mood and me feel free out of burden.. 👏👏💕👏
 Iam leaving this comment someone who like it and me get this song back.",0.8807,Positive,0.3333333333333333,Positive,-0.5334868431091309,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 The song is underated my dear ❤️,0.3818,Positive,0.0,Neutral,-0.4065705239772796,Negative
 So  amazing🤩😍👍,0.8104,Positive,0.0,Neutral,0.5789486765861511,Positive
 The girl likes Hrtihik more than ever,0.4215,Positive,0.5,Positive,0.5936467051506042,Positive
@@ -317,7 +317,7 @@ To listen this song 😍👍",0.6705,Positive,0.0,Neutral,0.4319560527801513,Pos
 Awesome movie 🎥🍿 😁😁,0.8779,Positive,1.0,Positive,0.8143600225448608,Positive
 "Bollywood is mother of cultures 😊😊 
 You can find every culture in it 😉😉",0.9001,Positive,0.0,Neutral,0.5850995182991028,Positive
-this is the first song in which the actors are actually singing the song,0.0,Neutral,0.125,Neutral,-0.2526049315929413,Negative
+this is the first song in which the actors are actually singing the song,0.0,Neutral,0.125,Positive,-0.2526049315929413,Negative
 0:23 best voice ❤️,0.6369,Positive,1.0,Positive,0.7594361305236816,Positive
 I no belive me,0.0,Neutral,0.0,Neutral,-0.3724199831485748,Negative
 My favorite song ever🤩,0.4588,Positive,0.5,Positive,0.9120352268218994,Positive
@@ -330,9 +330,9 @@ Jo bhi tumne kaha mujhse senorita",0.0,Neutral,0.0,Neutral,-0.2532806694507599,N
 You will feel like heaven!❤️😍
 Don't FORGET to use earphones",0.926,Positive,0.3833333333333333,Positive,0.8395800590515137,Positive
 Who knew that beautiful guy could also sing. Hritik,0.5994,Positive,0.85,Positive,0.2914076149463653,Neutral
-"That one friend who ruins your pics , Abhay Deol has successfully accomplished it in the form of singing it,  XD",0.8986,Positive,0.025,Neutral,0.6815758347511292,Positive
+"That one friend who ruins your pics , Abhay Deol has successfully accomplished it in the form of singing it,  XD",0.8986,Positive,0.025,Positive,0.6815758347511292,Positive
 Awesome this song 3 actor's&singer's,0.6249,Positive,1.0,Positive,0.7901052236557007,Positive
-The song is sung by the actors themselves .the scale is d major,0.0,Neutral,0.0625,Neutral,0.4297503530979156,Positive
+The song is sung by the actors themselves .the scale is d major,0.0,Neutral,0.0625,Positive,0.4297503530979156,Positive
 *can some one translate the Spanish verse to ENGLISH?*,0.0,Neutral,0.0,Neutral,-0.2709785103797912,Negative
 The best thing about this song is that it is sung by the actors themselves,0.6369,Positive,1.0,Positive,0.4135903418064117,Positive
 are some mental peple not lisninig this some,0.0,Neutral,-0.1,Negative,0.4213261604309082,Positive
@@ -343,7 +343,7 @@ I watched the movie for this and my favorite Hindi movie,0.4588,Positive,0.5,Pos
 I love it. It's awesome ❤️,0.8519,Positive,0.75,Positive,0.8992571830749512,Positive
 0:23 same from India to bts💜,0.6369,Positive,0.0,Neutral,-0.5392083525657654,Negative
 Zingarella  spanish song .  Copy that song,0.0,Neutral,0.0,Neutral,-0.6261562705039978,Negative
-"Wowwww LOVED this video.  I'm a French, Spanish,  Brazilian, Mexican and show this video at a family gathering, EVERYONE loved it. You guys are GREAT❤❤❤",0.9817,Positive,0.2799999999999999,Neutral,0.901065707206726,Positive
+"Wowwww LOVED this video.  I'm a French, Spanish,  Brazilian, Mexican and show this video at a family gathering, EVERYONE loved it. You guys are GREAT❤❤❤",0.9817,Positive,0.2799999999999999,Positive,0.901065707206726,Positive
 My favorite song well Done,0.6249,Positive,0.5,Positive,0.8746601343154907,Positive
 alv como llegue a esto,0.0,Neutral,0.0,Neutral,0.3515498042106628,Positive
 India with. Spanish-language,0.0,Neutral,0.0,Neutral,0.2485838085412979,Neutral
@@ -371,8 +371,8 @@ Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 I love this song very much,0.6369,Positive,0.38,Positive,0.8398433327674866,Positive
 Search for Senorita(Camila cabelo) and listening this 😄❤ love it,0.9357,Positive,0.5,Positive,0.7966835498809814,Positive
 Bharat mata ki jai ho,0.0,Neutral,0.0,Neutral,0.2419717758893966,Neutral
-Wow.,0.5859,Positive,0.1,Neutral,0.7152871489524841,Positive
-If you listen it in marathi... it's really funny😂😂,0.8399,Positive,0.2,Neutral,0.2583291232585907,Neutral
+Wow.,0.5859,Positive,0.1,Positive,0.7152871489524841,Positive
+If you listen it in marathi... it's really funny😂😂,0.8399,Positive,0.2,Positive,0.2583291232585907,Neutral
 Sanorita is best song,0.6369,Positive,1.0,Positive,0.5994753837585449,Positive
 "Quien eres tu? (Who are you?)
 
@@ -501,13 +501,13 @@ Duniya mein yeh bhi kum hai kya
 
 Do pal ko toh aao kho jaaye
 
-Bhoole hum hota gham hai kya",0.9471,Positive,0.2404761904761904,Neutral,0.3936523199081421,Positive
+Bhoole hum hota gham hai kya",0.9471,Positive,0.2404761904761904,Positive,0.3936523199081421,Positive
 sexi,0.5267,Positive,0.5,Positive,0.3426160216331482,Positive
 Heads off to BOSCO CAESER For choreographing such a master piece song 🔥🙌,0.4019,Positive,0.0,Neutral,0.5562063455581665,Positive
 "The idots thinks Spanish is spoken in only Spain.
 It has different varieties mainly spoken in
 Spanish... maxico...Latin America...some part of us 
-So me part of Europe....and agrentina 😂💐💐",0.4404,Positive,0.0333333333333333,Neutral,-0.3686306476593017,Negative
+So me part of Europe....and agrentina 😂💐💐",0.4404,Positive,0.0333333333333333,Positive,-0.3686306476593017,Negative
 I want to have a movie like this toooo,0.4215,Positive,0.0,Neutral,0.3416950404644012,Positive
 My favorite song,0.4588,Positive,0.5,Positive,0.9148010015487672,Positive
 The best era for bollywood in my opinion,0.6369,Positive,1.0,Positive,0.8129616379737854,Positive
@@ -521,7 +521,7 @@ Hritik voice is better than tony takkar😂,0.7003,Positive,0.5,Positive,0.32729
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
 thisis my best favourite song che please like kro,0.8402,Positive,1.0,Positive,0.8369659781455994,Positive
 please like kro my best friend ne like kro song,0.9287,Positive,1.0,Positive,-0.4591704607009887,Negative
-thanks,0.4404,Positive,0.2,Neutral,0.5065225958824158,Positive
+thanks,0.4404,Positive,0.2,Positive,0.5065225958824158,Positive
 2021 main kon kon dekh raha he,0.0,Neutral,0.0,Neutral,0.2864473760128021,Neutral
 "This how we Indians Listen and speak Spanish song lyrics 
 S
@@ -648,13 +648,13 @@ Hey senorita
 Har pal tumne hai dil jeeta
 (You have won my heart every time)
 Bus itni si toh baat hai
-(This is merely a simple fact)",0.9934,Positive,0.1591666666666666,Neutral,0.263116180896759,Neutral
+(This is merely a simple fact)",0.9934,Positive,0.1591666666666666,Positive,0.263116180896759,Neutral
 υπεροχο,0.5719,Positive,1.0,Positive,-0.3057881891727447,Negative
 Who come to here this song in  july  2021😄,0.6705,Positive,0.0,Neutral,0.6210871934890747,Positive
 Da minion  lady,0.0,Neutral,0.0,Neutral,0.3368467986583709,Positive
 Good  song,0.4404,Positive,0.7,Positive,0.5417960286140442,Positive
 Bhai fake hai🙄,-0.4767,Negative,-0.5,Negative,-0.7405480146408081,Negative
-I love Spanish dance❤❤❤❤,0.9719,Positive,0.25,Neutral,0.6834285259246826,Positive
+I love Spanish dance❤❤❤❤,0.9719,Positive,0.25,Positive,0.6834285259246826,Positive
 Ciso so Indian  song la delto kano sanorita,0.0,Neutral,0.0,Neutral,0.2798814475536346,Neutral
 Congratulations to all the members of this song 👍 !!! It's a splendid song. The idea of mixture of Indian and Spanish music made the song just fantabulous!!! Loved it. ❤️,0.9296,Positive,0.5111111111111111,Positive,0.8302634358406067,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
@@ -677,17 +677,17 @@ I'll enjoying this song when I reading comments......😉😘😇,0.8481,Positiv
 I m here after 10 years of ZNMD,0.0,Neutral,0.0,Neutral,0.5611570477485657,Positive
 Farhan Akhtar voice ❤️,0.0,Neutral,0.0,Neutral,0.3398191630840301,Positive
 My one eye on Hrithik and another eye on comment 😂😂😂😂,0.891,Positive,0.0,Neutral,-0.2378576099872589,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 anyone listening to this song in 2021?,0.0,Neutral,0.0,Neutral,-0.6071280241012573,Negative
-Only 7 m view it's far better than that...it should get 100 m+ views,0.4404,Positive,0.1999999999999999,Neutral,0.3765727877616882,Positive
+Only 7 m view it's far better than that...it should get 100 m+ views,0.4404,Positive,0.1999999999999999,Positive,0.3765727877616882,Positive
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 I LOVE YOU INDIA!!!,0.7249,Positive,0.9765625,Positive,0.8967854976654053,Positive
-Abay sung so funny,0.5777,Positive,0.25,Neutral,0.5293947458267212,Positive
+Abay sung so funny,0.5777,Positive,0.25,Positive,0.5293947458267212,Positive
 "The world wasn't ready for this masterpiece movie in 2011. ❤️
 
-I said what I said.",0.457,Positive,0.2,Neutral,-0.3015533089637756,Negative
+I said what I said.",0.457,Positive,0.2,Positive,-0.3015533089637756,Negative
 Dance with passion == Hrithik Roshan,0.4588,Positive,0.0,Neutral,0.5288265943527222,Positive
 0:39 this song played by carry minati who noticed🤣😂🤣😂😂😂😂😂,0.9756,Positive,0.0,Neutral,-0.5671166777610779,Negative
 Which language is the girl speaking,0.0,Neutral,0.0,Neutral,-0.282025933265686,Negative
@@ -711,11 +711,11 @@ Jo bhi tumne mujhse kaha hai senorita,0.0,Neutral,0.0,Neutral,-0.318520218133926
 I love Hrithik Roshan to mach ❤️❤️❤️❤️💖💋💋,0.9451,Positive,0.5,Positive,0.7210637331008911,Positive
 "1:29 
 Hrithik's voice ❤️",0.0,Neutral,0.0,Neutral,-0.2722177505493164,Negative
-We  like romantic movies but the fact is we truly enjoy and remember freindship movies than any other genre,0.8945,Positive,0.0916666666666666,Neutral,0.4637162685394287,Positive
+We  like romantic movies but the fact is we truly enjoy and remember freindship movies than any other genre,0.8945,Positive,0.0916666666666666,Positive,0.4637162685394287,Positive
 https://youtu.be/_R5XKolaGbA,0.0,Neutral,0.0,Neutral,0.2238331139087677,Neutral
 "I was searching fo Camila and Shawn's Senorita 
 But this hits me.",0.0,Neutral,0.0,Neutral,0.326747328042984,Neutral
-PURE POSITIVE LOVE,0.8316,Positive,0.3138528138528138,Neutral,0.8216129541397095,Positive
+PURE POSITIVE LOVE,0.8316,Positive,0.3138528138528138,Positive,0.8216129541397095,Positive
 Their original voice make this song more realistic.... Amazing song from a very amazing movie....,0.8878,Positive,0.4843333333333334,Positive,0.8170574307441711,Positive
 "I remember when i used to listen this song on fb radio.. 
 
@@ -727,7 +727,7 @@ Came half expecting it be cheap knock off of Senorita ended up liking it. Its gr
 Anyone Please tell which movie,0.3182,Positive,0.0,Neutral,-0.4164255559444427,Negative
 Ye bhi kya zamana tha....😌💕✨,0.0,Neutral,0.0,Neutral,-0.2945791482925415,Negative
 Singing senurita by mythpat,0.0,Neutral,0.0,Neutral,0.2783568203449249,Neutral
-"What to say... Not this song, even this movie also never gets old.. 💞💞",0.8625,Positive,0.1,Neutral,-0.6971190571784973,Negative
+"What to say... Not this song, even this movie also never gets old.. 💞💞",0.8625,Positive,0.1,Positive,-0.6971190571784973,Negative
 Farhan is a good speaker but phata hua,0.2382,Positive,0.7,Positive,0.4450291097164154,Positive
 Sasta version of SENORITA 😅😅,0.6124,Positive,0.0,Neutral,0.3145367801189422,Neutral
 "Kiss kiss ko ya best song lagta hai l Love this song,👌",0.9724,Positive,0.75,Positive,0.8256978392601013,Positive
@@ -735,7 +735,7 @@ Today’s kids will never stand the era of 9XM,0.0,Neutral,0.0,Neutral,0.4357429
 Very good movie 👍🌞,0.4927,Positive,0.91,Positive,0.5170360207557678,Positive
 Best music ever. And movie which gives special message,0.7845,Positive,0.6785714285714286,Positive,0.9398127794265748,Positive
 Hola…..Senorita…Xx,0.0,Neutral,0.0,Neutral,0.4778788089752197,Positive
-English señorita is far better than this song,0.4404,Positive,0.1999999999999999,Neutral,0.2304702997207641,Neutral
+English señorita is far better than this song,0.4404,Positive,0.1999999999999999,Positive,0.2304702997207641,Neutral
 In all over song just look hrithiks legs 😍,0.4588,Positive,0.0,Neutral,-0.3541367352008819,Negative
 awesome song,0.6249,Positive,1.0,Positive,0.8073248267173767,Positive
 "Do you remember Hrithik 's Dance in Coca Cola Ad? Watch it here
@@ -765,7 +765,7 @@ I don't normally watch bollywood movies but my wife made me watch this movie and
 Rithik Roshan 🥰,0.0,Neutral,0.0,Neutral,0.3066436648368835,Neutral
 "Chahat ke do pal bhi mil payen,
 Duniya me ye bhi kam hain kya 💯💙",0.0,Neutral,0.0,Neutral,-0.3025228977203369,Negative
-New UNPLUGGED KARAOKE of Senorita >>https://youtu.be/mIKg8vxxFpE,0.0,Neutral,0.1363636363636363,Neutral,0.4396126270294189,Positive
+New UNPLUGGED KARAOKE of Senorita >>https://youtu.be/mIKg8vxxFpE,0.0,Neutral,0.1363636363636363,Positive,0.4396126270294189,Positive
 I am tenneger. But i loved this movie more than today's movie like Baaghi,0.8625,Positive,0.6,Positive,0.5666627287864685,Positive
 please reply me if anybody found song similar to this please.,0.6027,Positive,0.0,Neutral,-0.5147411227226257,Negative
 "Me: ""suggesting this song to my grand children""
@@ -779,7 +779,7 @@ please reply me if anybody found song similar to this please.,0.6027,Positive,0.
 
 Hit like 😊👇👍👍👍",0.6705,Positive,0.5,Positive,0.4521627426147461,Positive
 Came here after SMP singing this,0.0,Neutral,0.0,Neutral,0.4758554399013519,Positive
-Can anyone tell me if there is in Youtube the spanish ( or italian or english) version of this film? Or what is the spanish title of the moovie? Thanks a lot.,0.504,Positive,0.04,Neutral,-0.2385969012975692,Negative
+Can anyone tell me if there is in Youtube the spanish ( or italian or english) version of this film? Or what is the spanish title of the moovie? Thanks a lot.,0.504,Positive,0.04,Positive,-0.2385969012975692,Negative
 How come this is movie didn't receive osca? One of the better movies of all times. 🖤,0.7964,Positive,0.5,Positive,0.7396484017372131,Positive
 👌❣️👍,0.8842,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Let's see how many legends are watching in 2021 ❤️,0.0,Neutral,0.5,Positive,0.4720650911331177,Positive
@@ -787,7 +787,7 @@ Abhay deol ka dance accha hai 😂😂😂😂😂😂😂,0.0,Neutral,0.0,Neutr
 Still one of my most favorite songs. And Hrithik is divine.,0.7841,Positive,0.5,Positive,0.8494875431060791,Positive
 1:35,0.0,Neutral,0.0,Neutral,0.2165716886520385,Neutral
 Can anyone believe this song is sung by these three themselves?😂😂💕💕♥️♥️😘😘,0.9825,Positive,0.0,Neutral,-0.3945728540420532,Negative
-different concept ... i love this  type of movies,0.6369,Positive,0.25,Neutral,0.7074335813522339,Positive
+different concept ... i love this  type of movies,0.6369,Positive,0.25,Positive,0.7074335813522339,Positive
 2021,0.0,Neutral,0.0,Neutral,0.298195868730545,Neutral
 And the beauty of this song is voice of these 3 actors for this song,0.5859,Positive,0.0,Neutral,0.6120052933692932,Positive
 Love all the guys all over the world ❤️❤️,0.6369,Positive,0.5,Positive,0.8825832605361938,Positive
@@ -806,7 +806,7 @@ Hrithik singing is very nice loved it ❤️,0.8059,Positive,0.74,Positive,0.679
 Days before Tony Kakkar and Neha kakkar❤️❤️,0.0,Neutral,0.0,Neutral,0.2987817227840423,Neutral
 "1:33 - 1:40 and 2:28 - 2:43 , will always be my favourites. Hrithik is just...❤️",0.0,Neutral,0.0,Neutral,0.7360987663269043,Positive
 Who came here after Ashish and sanmukha performance,0.0,Neutral,0.0,Neutral,0.3997482359409332,Positive
-This song became a hit before latin pop was a global phenomenon. It's magical.,0.0,Neutral,0.25,Neutral,0.6840490102767944,Positive
+This song became a hit before latin pop was a global phenomenon. It's magical.,0.0,Neutral,0.25,Positive,0.6840490102767944,Positive
 I love this wonderful song,0.8616,Positive,0.75,Positive,0.8816418647766113,Positive
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
 Hi wazzi,0.0,Neutral,0.0,Neutral,0.2793653011322021,Neutral
@@ -892,8 +892,8 @@ Who is after mythpat stories 😅,0.3612,Positive,0.0,Neutral,0.2987185716629028
 Anybody After Mythpat??,0.0,Neutral,0.0,Neutral,-0.5540468692779541,Negative
 Who comes after mytpat comments down 😆😆,0.6124,Positive,-0.1555555555555555,Negative,-0.538357138633728,Negative
 best part is 0:38,0.6369,Positive,1.0,Positive,0.2491820156574249,Neutral
-Wow! I really enjoyed this song...,0.8264,Positive,0.3125,Neutral,0.805394172668457,Positive
-180 million complete,0.0,Neutral,0.1,Neutral,0.6614435315132141,Positive
+Wow! I really enjoyed this song...,0.8264,Positive,0.3125,Positive,0.805394172668457,Positive
+180 million complete,0.0,Neutral,0.1,Positive,0.6614435315132141,Positive
 Who are here from mythpat,0.0,Neutral,0.0,Neutral,0.3523192703723907,Positive
 😀,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Who came here after mythpat stories,0.0,Neutral,0.0,Neutral,0.3595703840255737,Positive
@@ -913,7 +913,7 @@ Who is here after mythpat Story,0.0,Neutral,0.0,Neutral,0.282957911491394,Neutra
 Farhan Akhtar👌❤❤ damn dude🔥..brilliant performance,0.9158,Positive,0.0,Neutral,0.752284824848175,Positive
 Indian version of senorita❤,0.6369,Positive,0.0,Neutral,0.2651880085468292,Neutral
 Who is here after mythpat song,0.0,Neutral,0.0,Neutral,0.2802542150020599,Neutral
-fun fact we searched for the song specifically,0.5106,Positive,0.3,Neutral,0.5488702058792114,Positive
+fun fact we searched for the song specifically,0.5106,Positive,0.3,Positive,0.5488702058792114,Positive
 "2021 still the best song, how many of us?",0.6369,Positive,0.75,Positive,0.7536723613739014,Positive
 its sequel should be made,0.0,Neutral,0.0,Neutral,0.4112924039363861,Positive
 Mythpat,0.0,Neutral,0.0,Neutral,0.2487329393625259,Neutral
@@ -927,22 +927,22 @@ Who is after mythpat story.,0.0,Neutral,0.0,Neutral,0.2446800172328949,Neutral
 Todo hermoso. Todos hermosos. ¿Pero porqué nunca se respeta la Ñ? 🤔,0.1454,Positive,0.85,Positive,0.7041183114051819,Positive
 1:31 bb's video,0.0,Neutral,0.0,Neutral,-0.3350051343441009,Negative
 Hey! Mythpat,0.0,Neutral,0.0,Neutral,0.346135139465332,Positive
-"I remember dancing on it when I was small with the fan... LoL, it was my favourite....",0.6249,Positive,0.275,Neutral,0.5702013373374939,Positive
+"I remember dancing on it when I was small with the fan... LoL, it was my favourite....",0.6249,Positive,0.275,Positive,0.5702013373374939,Positive
 Who is here after mytpath stories in YouTube 😂😂,0.7003,Positive,0.0,Neutral,0.4048264622688293,Positive
 "Ambooo,whenever I hear this song I can only think about my group 20🤩🥰❤️",0.8074,Positive,0.0,Neutral,-0.2265386432409286,Negative
 My fav song subscribe to my YouTube channel 🥰,0.8834,Positive,0.0,Neutral,0.5301188826560974,Positive
 This movie is from netflix,0.0,Neutral,0.0,Neutral,-0.2871192991733551,Negative
 Who is after bb video 😄😄,0.875,Positive,0.0,Neutral,-0.2462079375982284,Negative
 "Meri mam ka fav song he 
-SAPNA mam aap yaha hu Tu mam aap ko bhut yaad Kar rhe he",0.2023,Positive,0.15,Neutral,-0.3089853227138519,Negative
+SAPNA mam aap yaha hu Tu mam aap ko bhut yaad Kar rhe he",0.2023,Positive,0.15,Positive,-0.3089853227138519,Negative
 My fevarite song,0.4588,Positive,0.5,Positive,0.3888522982597351,Positive
-English señorita is better than this,0.4404,Positive,0.25,Neutral,0.3157337605953216,Neutral
+English señorita is better than this,0.4404,Positive,0.25,Positive,0.3157337605953216,Neutral
 1:32 here u came for,0.0,Neutral,0.0,Neutral,-0.2869972884654999,Negative
 Who is after bb and netflix?,0.0,Neutral,0.0,Neutral,-0.3353910446166992,Negative
 The beats of this song has some nostalgia in it,0.0,Neutral,0.0,Neutral,0.5364565253257751,Positive
 "Anyone here after  BB ki vines for
 ""Nigaahon ne Nigaahon se😂😂😂😂",0.891,Positive,0.0,Neutral,-0.6340891718864441,Negative
-Come from BB KI VINES(NETFLIX india new video),0.0,Neutral,0.1363636363636363,Neutral,0.3904716968536377,Positive
+Come from BB KI VINES(NETFLIX india new video),0.0,Neutral,0.1363636363636363,Positive,0.3904716968536377,Positive
 👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Who is after BB video😂😂,0.7003,Positive,0.0,Neutral,0.2710008323192596,Neutral
 After BB's video i am here again... Enjoying this song😊  1:30,0.8555,Positive,0.5,Positive,0.6362152099609375,Positive
@@ -962,7 +962,7 @@ https://youtu.be/p7pNXLALxxw,0.0,Neutral,0.0,Neutral,0.2349454313516616,Neutral
  說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品""""""""""""""""""""""
 Massimo est membre de la famille mafieuse sicilienne et Laura est la directrice des ventes. Elle ne s'attendait pas à ce que lors d'un voyage en Sicile, essayant de sauver sa relation, Massimo la kidnappe et lui donne 365 jours pour tomber amoureux d'elle.
 летний аристократ влюбляется в доброго, но бедного художника на борту роскошного и незадачливого R.M.S. Титаник. Титаник - это американский фильм 1997 года, снятый и снятый Джеймсом Кэмероном. В этом фильме рассказывается история любви Джека и Роуз (их играют Леонардо Ди Каприо и Кейт Уинслет),
-kkkkkfgdfgdfgdjkfgsuoierusdfSDFRFFFFFFFFFFFFFfddssssfdf",0.9827,Positive,0.0995920745920745,Neutral,0.3587574064731598,Positive
+kkkkkfgdfgdfgdjkfgsuoierusdfSDFRFFFFFFFFFFFFFfddssssfdf",0.9827,Positive,0.0995920745920745,Positive,0.3587574064731598,Positive
 "Zindagi Na Milegi Dobara (2011) ✪ f'u""l'l M'o'V'i""E ✪
 ➤ playandwatchithere.blogspot.com/tt1562872/html
 
@@ -977,7 +977,7 @@ All Subtitle Available
 la Nouvelle-Orléans, un adolescent marchand et un policier local doivent faire équipe avec un ancien soldat pour
 faire tomber le groupe..
 летний аристократ влюбляется в доброго, но бедного художника на борту роскошного и незадачливого R.M.S. Титаник. Титаник - это американский фильм 1997 года, снятый и снятый Джеймсом Кэмероном. В этом фильме рассказывается история любви Джека и Роуз (их играют Леонардо Ди Каприо и Кейт Уинслет),
-dfksldkfjsdfkjlasdfsdyfyyyyyyyyyyyyyyyyyyyyyyasdfasdfsdfge",0.9866,Positive,0.1282727272727273,Neutral,0.311122328042984,Neutral
+dfksldkfjsdfkjlasdfsdyfyyyyyyyyyyyyyyyyyyyyyyasdfasdfsdfge",0.9866,Positive,0.1282727272727273,Positive,0.311122328042984,Neutral
 "*Zindagi Na Milegi Dobara (2011)* f'u""l'l M'ö'V'l""e
 ——————————————————
 Watch Here:▶ playforfull.blogspot.com/tt1562872/
@@ -992,7 +992,7 @@ Watch Here:▶ playforfull.blogspot.com/tt1562872/
 використовуємо для встановлення
 Кеннеди, Жонсон нарын тэргүүлэгчид, Вьетнам,
 qwjtfrtyuiloiaaaaaaaaaioojookokokokojuhygtfrdeseckkfjjjz
-kjadfoiyuisdfasdddddddddddddfdfgdfshgrtr",0.9639,Positive,0.1017127799736495,Neutral,-0.2159174084663391,Negative
+kjadfoiyuisdfasdddddddddddddfdfgdfshgrtr",0.9639,Positive,0.1017127799736495,Positive,-0.2159174084663391,Negative
 "*Zindagi Na Milegi Dobara (2011)* f'u""l'l M'ö'V'l""e
 ——————————————————
 Watch Here:▶ oncinemaxonmovie.blogspot.com/tt1562872/
@@ -1005,7 +1005,7 @@ Watch Here:▶ oncinemaxonmovie.blogspot.com/tt1562872/
  說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品:""""""""""
 √™ Lorsqu'une pilule qui donne aux utilisateurs cinq minutes de super pouvoirs inattendus arrive dans les rues de
 la Nouvelle-Orléans, un adolescent marchand et un policier local doivent faire équipe avec un ancien soldat pour
-faire tomber le groupe responsable de sa fabrication. √™ Elle ne s'attendait pas à ce que lors d'unе""'""",0.9748,Positive,0.1069090909090909,Neutral,-0.2275509089231491,Negative
+faire tomber le groupe responsable de sa fabrication. √™ Elle ne s'attendait pas à ce que lors d'unе""'""",0.9748,Positive,0.1069090909090909,Positive,-0.2275509089231491,Negative
 "*Zindagi Na Milegi Dobara (2011)* F'ú""l'l M'0'V'i""E
 ——————————————————
 Watch Here : iyancinemax.blogspot.com/tt1562872/PyfO
@@ -1018,7 +1018,7 @@ Watch Here : iyancinemax.blogspot.com/tt1562872/PyfO
  說到食物，不要以為那些被拒絕的人只吃垃圾。相反，他們學會了在被忽視的肉類和蔬菜中尋找營養。他們學會了清潔，切塊，調味和慢燉慢燉的野菜和肉類，在食品:'''''
 √™ Lorsqu'une pilule qui donne aux utilisateurs cinq minutes de super pouvoirs inattendus arrive dans les rues de
 la Nouvelle-Orléans, un adolescent marchand et un policier local doivent faire équipe avec un ancien soldat pour
-faire tomber le groupe responsable de sa fabrication. √™""'""",0.9866,Positive,0.1127840909090909,Neutral,-0.2319786995649337,Negative
+faire tomber le groupe responsable de sa fabrication. √™""'""",0.9866,Positive,0.1127840909090909,Positive,-0.2319786995649337,Negative
 "There is no God except Allah, prophet Muhammad is the messenger of Allah ❤✨",0.6894,Positive,0.0,Neutral,0.4659669399261474,Positive
 ❤️🧡❤️❤️❤️🧡❤️,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 So bat 😩🤒🥴😫😵🙊👎👎👎👎👎,-0.7334,Negative,0.0,Neutral,0.3432741165161133,Positive
@@ -1150,16 +1150,16 @@ Duniya mein yeh bhi kum hai kya
 Do pal ko toh aao kho jaaye
 
 Bhoole hum hota gham hai kya. 
-YOU ARE WELCOME",0.9703,Positive,0.3104166666666667,Neutral,0.3936523199081421,Positive
-"Wanna Positive Energy  , Listen to this 💘💘🥰🥰😍😍😍",0.9902,Positive,0.2272727272727272,Neutral,0.6690984964370728,Positive
-This movie is just a kind of dream every boy wants to live in life but the sad part is responsibilities have their say,-0.5854,Negative,0.1090909090909091,Neutral,0.3395574986934662,Positive
+YOU ARE WELCOME",0.9703,Positive,0.3104166666666667,Positive,0.3936523199081421,Positive
+"Wanna Positive Energy  , Listen to this 💘💘🥰🥰😍😍😍",0.9902,Positive,0.2272727272727272,Positive,0.6690984964370728,Positive
+This movie is just a kind of dream every boy wants to live in life but the sad part is responsibilities have their say,-0.5854,Negative,0.1090909090909091,Positive,0.3395574986934662,Positive
 "ever need to cheer up?
 just listen to thiss!!!",0.6341,Positive,0.0,Neutral,0.5080403089523315,Positive
 Farhan's voice is amazing man.,0.5859,Positive,0.6000000000000001,Positive,0.7367530465126038,Positive
 👌👌,0.9055,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "After listening Spanish songs,
 Na main samjha na main jana 
-Magar fir bhi sunkar acha laga hai",0.5719,Positive,0.3,Neutral,-0.3244532346725464,Negative
+Magar fir bhi sunkar acha laga hai",0.5719,Positive,0.3,Positive,-0.3244532346725464,Negative
 "Favourite song of Zalak Desai
 (Actress in Radha Krishna serial in Rukmini  Character)",0.0,Neutral,0.0,Neutral,0.5741081833839417,Positive
 Awesome song this is very entertainment song like party song,0.9128,Positive,0.6,Positive,0.76421719789505,Positive
@@ -1171,25 +1171,25 @@ I love how happy everyone is 😁,0.8979,Positive,0.65,Positive,0.85106015205383
 "I love this song, I have many memories with it, I danced to this song in my school annual grade 3 day (Al hukamaa intl) and now I graduated. Nice song",0.7906,Positive,0.5333333333333333,Positive,0.6878246068954468,Positive
 "2 min of silence  for those who get trouble to search this instead got señorita 😂😂 I searched ""na mai samjha na mai jana "" 🤣🤣",0.8591,Positive,-0.2,Negative,-0.50389164686203,Negative
 😘😘,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Those old days I miss so much,-0.1531,Negative,0.15,Neutral,0.2298685312271118,Neutral
+Those old days I miss so much,-0.1531,Negative,0.15,Positive,0.2298685312271118,Neutral
 0:39 carry bhai ne use kiya hai ye😂,0.0,Neutral,0.0,Neutral,-0.6705989241600037,Negative
 hirthik roshan moves and farhan akhtar vocals are so sophisticated in this song.,0.6825,Positive,0.5,Positive,0.6673041582107544,Positive
 This is song beautiful,0.5994,Positive,0.85,Positive,0.7444486618041992,Positive
 Eww,0.0,Neutral,0.0,Neutral,0.2901608347892761,Neutral
 ❤️🕺🕺🕺,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-Fun fact: army is everywhere😂😂,0.8442,Positive,0.3,Neutral,0.5582712888717651,Positive
+Fun fact: army is everywhere😂😂,0.8442,Positive,0.3,Positive,0.5582712888717651,Positive
 🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Why they didn't gave the spanish (SUBTITLES)😂🤣😂,0.8402,Positive,0.0,Neutral,-0.4501573741436004,Negative
 Love has not Translation has been Proved .... Just watching the Señorita Video,0.6369,Positive,0.5,Positive,-0.5690407156944275,Negative
 😇😍😀😄😅😗😘😉🤩😍😋😀,0.9788,Positive,0.0,Neutral,0.3085779249668121,Neutral
-life is pretty guys 😇🤍,0.7351,Positive,0.25,Neutral,0.408207893371582,Positive
+life is pretty guys 😇🤍,0.7351,Positive,0.25,Positive,0.408207893371582,Positive
 Hrx 💓💓💓💓😍,0.9538,Positive,0.0,Neutral,0.2680996358394623,Neutral
 "Тут Ритик Рошан оказывается сам поет, а у него голос очень хороший 😍😍😍😍😍😍😍😍",0.9787,Positive,0.91,Positive,0.5641973614692688,Positive
 😍😍😍😍😍😍,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
 So so.so nice,0.4728,Positive,0.6,Positive,0.5888448357582092,Positive
 any spnish here??😂,0.504,Positive,0.0,Neutral,-0.4399199783802032,Negative
 Gracias,0.0,Neutral,0.0,Neutral,0.5485175251960754,Positive
-In my school I literally performed salsa dance on this song. It was fun though 😄,0.8316,Positive,0.3,Neutral,0.4384383261203766,Positive
+In my school I literally performed salsa dance on this song. It was fun though 😄,0.8316,Positive,0.3,Positive,0.4384383261203766,Positive
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Shawn Mendes Señorita (dont lie)CAMILA CABELLO,-0.1531,Negative,0.0,Neutral,0.2946889996528625,Neutral
@@ -1199,7 +1199,7 @@ Cant understood but like to hear,-0.395,Negative,0.0,Neutral,0.4141790568828583,
 🤟😊🤟,0.7184,Positive,0.0,Neutral,0.3085779249668121,Neutral
 1:29,0.0,Neutral,0.0,Neutral,-0.2633306384086609,Negative
 Donde está grabado el video?,0.0,Neutral,0.0,Neutral,-0.5026828646659851,Negative
-There are only 55 lakh views but I can say that more than 10 crore people know this song,0.0,Neutral,0.25,Neutral,-0.3440794050693512,Negative
+There are only 55 lakh views but I can say that more than 10 crore people know this song,0.0,Neutral,0.25,Positive,-0.3440794050693512,Negative
 1:30 A Nigga To Another Nigga🙄,0.0,Neutral,0.0,Neutral,-0.6171663403511047,Negative
 Lovely song,0.5859,Positive,0.5,Positive,0.5464433431625366,Positive
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
@@ -1211,13 +1211,13 @@ Copy cat,0.0,Neutral,0.0,Neutral,-0.2494025230407714,Negative
 Copy cat,0.0,Neutral,0.0,Neutral,-0.2494025230407714,Negative
 Copy cat,0.0,Neutral,0.0,Neutral,-0.2494025230407714,Negative
 I want this type of movie in Bollywood,0.0772,Positive,0.0,Neutral,0.5327948927879333,Positive
-Life is so short injoy it,0.539,Positive,0.2,Neutral,-0.4184326827526092,Negative
+Life is so short injoy it,0.539,Positive,0.2,Positive,-0.4184326827526092,Negative
 Impressed with abhay deol's  moves,0.4767,Positive,1.0,Positive,0.4567220211029053,Positive
 😭😭😭😭🙄🙄🙄👎👎👎👎,-0.9081,Negative,0.0,Neutral,0.3085779249668121,Neutral
 😅😂😂😂,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Wtf only 5.4 M views,-0.5859,Negative,-0.25,Negative,-0.294059544801712,Negative
 დებილებო,0.0,Neutral,-0.8,Negative,0.5111619234085083,Positive
-It is so cheap and so hindi the Spanish and hindi mix is dose not sound good,-0.3412,Negative,0.2249999999999999,Neutral,-0.5486509203910828,Negative
+It is so cheap and so hindi the Spanish and hindi mix is dose not sound good,-0.3412,Negative,0.2249999999999999,Positive,-0.5486509203910828,Negative
 If you hold the key ALT + 144 will give you the letter ‘ñ’ for Señorita 😉 just FYI,0.368,Positive,0.0,Neutral,-0.2768848538398742,Negative
 Love form #Assam ❤️,0.6369,Positive,0.5,Positive,0.5538016557693481,Positive
 Awesome movie❣,0.8519,Positive,1.0,Positive,0.8498084545135498,Positive

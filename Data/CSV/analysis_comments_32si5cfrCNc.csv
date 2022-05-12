@@ -3,7 +3,7 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 ❤❤❤❤❤❤❤❤❤❤❤",0.9941,Positive,0.0,Neutral,0.6367756724357605,Positive
 I am an blink,0.0,Neutral,0.0,Neutral,0.2290751934051513,Neutral
 Blessed eid,0.5994,Positive,0.0,Neutral,0.8108677268028259,Positive
-nice dance of jisoo and other,0.4215,Positive,0.2375,Neutral,0.4862330853939056,Positive
+nice dance of jisoo and other,0.4215,Positive,0.2375,Positive,0.4862330853939056,Positive
 "Ok I have a blink problem... 
 Lisa is my favorite girl👑...
 But I have a huge GirlCrush on Jennie!💖...
@@ -27,12 +27,12 @@ I love blackpink,0.6369,Positive,0.5,Positive,0.7265112400054932,Positive
 天哪，这太棒了，你很完美，我非常爱你，继续创作如此美丽的歌曲，我们将永远爱你💟,0.9776,Positive,0.5214285714285715,Positive,0.781497597694397,Positive
 🐉☯️🐉,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Personally I am not k.pop fan but this course is stack in my head,-0.1232,Negative,0.0,Neutral,0.2912161946296692,Neutral
-дэнс перформанс обогнал клип вау,0.5859,Positive,0.1,Neutral,0.2408128827810287,Neutral
+дэнс перформанс обогнал клип вау,0.5859,Positive,0.1,Positive,0.2408128827810287,Neutral
 Comebackk,0.0,Neutral,0.0,Neutral,0.360942542552948,Positive
 😊😊🙂🙂☺☺😌😌😮😮😰😰,0.9731,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I love black pink,0.6369,Positive,0.0777777777777777,Neutral,0.6556611657142639,Positive
-I love Black pink,0.6369,Positive,0.0777777777777777,Neutral,0.6556611657142639,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+I love black pink,0.6369,Positive,0.0777777777777777,Positive,0.6556611657142639,Positive
+I love Black pink,0.6369,Positive,0.0777777777777777,Positive,0.6556611657142639,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 "*No Dance performance of Kpop will ever pass this* , *I bet*",0.0,Neutral,0.0,Neutral,-0.7263256311416626,Negative
 The dance video is popular than MV WOW it's a history 👏👏👏👏👏,0.8091,Positive,0.35,Positive,0.3936236202716827,Positive
 Lisa is best,0.6369,Positive,1.0,Positive,0.5392658114433289,Positive
@@ -41,7 +41,7 @@ Amo  as  músicas  delas  sou  fã  delas,0.7579,Positive,0.5,Positive,0.4337770
 Stream hylt mv,0.0,Neutral,0.0,Neutral,0.24002306163311,Neutral
 Amazing performance,0.5859,Positive,0.6000000000000001,Positive,0.8201065063476562,Positive
 Blackpink So Crazy!!!!!!,-0.5942,Negative,-1.0,Negative,0.8069429993629456,Positive
-I love black pink ❤️😍❤️😍😍❤️,0.9217,Positive,0.0777777777777777,Neutral,0.7210577130317688,Positive
+I love black pink ❤️😍❤️😍😍❤️,0.9217,Positive,0.0777777777777777,Positive,0.7210577130317688,Positive
 Love you Lisa,0.6369,Positive,0.5,Positive,0.8144543170928955,Positive
 "Hi I am an indian blink and all Indian blinks want you to come in India.             
 
@@ -60,7 +60,7 @@ You girl are mad because i am your dad,-0.4939,Negative,-0.625,Negative,-0.41755
 My fav .,0.4588,Positive,0.0,Neutral,0.4773361980915069,Positive
 Vamos por los 1.1B,0.0,Neutral,0.0,Neutral,-0.2961625158786773,Negative
 Black Pink 💋,0.4215,Positive,-0.1333333333333333,Negative,0.2515770494937897,Neutral
-The fact that it has more views than the actual f MV💀,0.0,Neutral,0.25,Neutral,0.311727911233902,Neutral
+The fact that it has more views than the actual f MV💀,0.0,Neutral,0.25,Positive,0.311727911233902,Neutral
 "Sube más de 1M de vistas al día Este dance practice, si siguen así capas y llegamos a los 2B jsjjs",0.3818,Positive,0.5,Positive,-0.4579003453254699,Negative
 Cómo que tiene más vistas que el MV oficial ? Ajajajaia,0.0,Neutral,0.5,Positive,-0.2584682106971741,Negative
 This choreography has more views than the mv!!💗well done blink and blackpinkk!!💗💗,0.9283,Positive,0.5,Positive,0.2696585953235626,Neutral
@@ -78,14 +78,14 @@ Let's go 1.1 bilion view,0.0,Neutral,0.0,Neutral,-0.3586761653423309,Negative
 We all like the song u hit 1 billion views!!!!,0.5673,Positive,0.0,Neutral,0.7136462330818176,Positive
 Congratulations on 1 billion views!!!!!!,0.7243,Positive,0.0,Neutral,0.4913314580917358,Positive
 I like it,0.3612,Positive,0.0,Neutral,0.5181156396865845,Positive
-hermoso trabajo las quiero soy una gran gran gran fan,0.886,Positive,0.27,Neutral,0.9189748167991638,Positive
+hermoso trabajo las quiero soy una gran gran gran fan,0.886,Positive,0.27,Positive,0.9189748167991638,Positive
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤,0.9992,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😄😄😄😄😘😘😘😘😘🤩🤩🤩🤩🤩😁😁,0.9899,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Cool to  you,0.3182,Positive,0.35,Positive,0.5079821944236755,Positive
 ♥♥,0.8555,Positive,0.0,Neutral,0.3153944313526153,Neutral
 ❤❤,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Blackpink es una copia de argentina jaja,0.4588,Positive,0.2,Neutral,-0.4477483332157135,Negative
+Blackpink es una copia de argentina jaja,0.4588,Positive,0.2,Positive,-0.4477483332157135,Negative
 l0,0.0,Neutral,0.0,Neutral,0.3165510296821594,Neutral
 Blinks are crazy🤣🤣. They enjoy teasing blackpink. Making dance performance supassed the orig mv🤣🤣,0.9393,Positive,0.3875,Positive,0.5030776262283325,Positive
 Lmao the dance practice hits 1B. Queens👑,0.5994,Positive,0.6,Positive,0.3576720058917999,Positive
@@ -94,15 +94,15 @@ Yo juego con mis amigas que yo soy Juso y amiga que es Rosi y mi otra amiga es Y
 L01,0.0,Neutral,0.0,Neutral,0.2597760558128357,Neutral
 ❤esta genial tu canal  y ago tus canciones y soy la de cabello rojo❤,0.8934,Positive,0.4,Positive,0.8707907199859619,Positive
 7r7e82❤tiotototifiti269fo4krotspvclwo92❤❤❤❤kiyxogllgxll4oyo🎉fotooe🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉,0.9994,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Les amo black pink,0.6369,Positive,0.0777777777777777,Neutral,0.2623823583126068,Neutral
+Les amo black pink,0.6369,Positive,0.0777777777777777,Positive,0.2623823583126068,Neutral
 yys,0.0,Neutral,0.0,Neutral,0.2564474940299988,Neutral
 Habibi💕💕,0.8625,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Que cool,0.3182,Positive,0.35,Positive,0.3119621872901916,Neutral
-", , I'm from Iraq and I really like this song!  I first heard it in a video and then have been searching for it for a while!  I finally got it!  It was a masterpiece that I really like❤🇮🇶😘😍😍😍",0.9697,Positive,0.190625,Neutral,0.8481011986732483,Positive
+", , I'm from Iraq and I really like this song!  I first heard it in a video and then have been searching for it for a while!  I finally got it!  It was a masterpiece that I really like❤🇮🇶😘😍😍😍",0.9697,Positive,0.190625,Positive,0.8481011986732483,Positive
 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Oooo,0.0,Neutral,0.0,Neutral,-0.2873618602752685,Negative
 Go 1.1b,0.0,Neutral,0.0,Neutral,-0.2454038113355636,Negative
-اناحباتاكثرالىشعرهقصير,0.3612,Positive,0.25,Neutral,-0.3583541512489319,Negative
+اناحباتاكثرالىشعرهقصير,0.3612,Positive,0.25,Positive,-0.3583541512489319,Negative
 Ra,0.0,Neutral,0.0,Neutral,-0.3503023087978363,Negative
 Amoooo,0.6369,Positive,0.5,Positive,0.2281630486249923,Neutral
 🤩🥰🥰🥰🙉✌🤘🙋‍♀️,0.9779,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -110,14 +110,14 @@ Eu aqui ovindo de novo essa musica e muito boa ia danca. E muito perfeita,0.8012
 *1B* for dance performance ✨World class✨,0.3182,Positive,0.0,Neutral,0.3213367164134979,Neutral
 ILOVE YOU😙❤,0.8979,Positive,0.0,Neutral,0.2526052892208099,Neutral
 OI BLACKPiNK,0.0,Neutral,0.0,Neutral,0.2686433494091034,Neutral
-"Because I'm watching huge Black Pink, the best girl group",0.7579,Positive,0.2833333333333333,Neutral,0.7679232954978943,Positive
+"Because I'm watching huge Black Pink, the best girl group",0.7579,Positive,0.2833333333333333,Positive,0.7679232954978943,Positive
 💜I Love💜,0.8555,Positive,0.0,Neutral,0.3428077399730682,Positive
 Que guay,0.3182,Positive,0.35,Positive,0.2292894273996353,Neutral
 بلكبنكغلطتفالبرج,0.0,Neutral,0.0,Neutral,-0.2268597334623336,Negative
 Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 the dance performance has more views than the mv,0.0,Neutral,0.5,Positive,0.3730366826057434,Positive
-bok gibi lol,0.1779,Positive,0.3,Neutral,0.2838493883609772,Neutral
+bok gibi lol,0.1779,Positive,0.3,Positive,0.2838493883609772,Neutral
 90.883M,-0.4215,Negative,0.0,Neutral,-0.2990503013134002,Negative
 "1 Billion, blackpink Love Us blinks.",0.6369,Positive,0.5,Positive,0.5141282677650452,Positive
 Fav groupe 😭💗,0.7003,Positive,0.0,Neutral,0.3850884437561035,Positive
@@ -127,13 +127,13 @@ Go go so cool ❤❤,0.9128,Positive,0.35,Positive,0.6774049997329712,Positive
 Son lo más! Igual que domelipa ❤😍😘,0.9197,Positive,0.625,Positive,0.7987101078033447,Positive
 I love it so so so much,0.6369,Positive,0.35,Positive,0.8679251670837402,Positive
 they are coming soon,0.0,Neutral,0.0,Neutral,0.3391085863113403,Positive
-Wow ilovet this dance very much,0.5859,Positive,0.18,Neutral,0.8247193098068237,Positive
+Wow ilovet this dance very much,0.5859,Positive,0.18,Positive,0.8247193098068237,Positive
 Quiero  ser  como  ustedes  blac  punk    😘😘😘😘😍😍😍😍😇😇😇❤💖❤❤❤👑❤💖💖💕💕💕💕,0.9983,Positive,0.0,Neutral,0.4352929592132568,Positive
 Carlos hola a,0.0,Neutral,0.0,Neutral,0.2809038758277893,Neutral
 💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓,0.9982,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Xd,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
 I understand blackpink😂😂😂🤣🤣,0.9337,Positive,0.0,Neutral,0.4936237931251526,Positive
-I really like this video,0.4201,Positive,0.2,Neutral,0.6563215255737305,Positive
+I really like this video,0.4201,Positive,0.2,Positive,0.6563215255737305,Positive
 당신은 블랙 핑크를 사랑 받고 있습니다,0.6369,Positive,0.5,Positive,0.59377521276474,Positive
 AKWKSKAKS un dance practice le pasó al mv cosas que solo le pasan a Blackpink,0.0,Neutral,0.0,Neutral,-0.309423416852951,Negative
 Me encantan sus músicas,0.6369,Positive,0.5,Positive,0.6751905083656311,Positive
@@ -155,7 +155,7 @@ Eu amo suas músicas🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰
 Im a big fan of black pink but ım from the turkey but  ım big fan,0.5574,Positive,-0.0666666666666666,Negative,0.3112053275108337,Neutral
 B,0.0,Neutral,0.0,Neutral,0.2911197245121002,Neutral
 "Amo a esas chicas , son mi mundo",0.6369,Positive,0.5,Positive,0.7414572238922119,Positive
-They're the first kpop artists ever who supprassed 1B views in DANCE PRACTICE lmao BLINKS LET'S PRETEND TO BE SHOCKED,-0.0685,Negative,0.05,Neutral,-0.3819531202316284,Negative
+They're the first kpop artists ever who supprassed 1B views in DANCE PRACTICE lmao BLINKS LET'S PRETEND TO BE SHOCKED,-0.0685,Negative,0.05,Positive,-0.3819531202316284,Negative
 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😱😱😱😱❤❤❤❤❤❤,0.9987,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Best dance video everrrrrr,0.6369,Positive,1.0,Positive,0.9227588772773744,Positive
 Hi 👋🏼,0.4939,Positive,0.0,Neutral,0.3258702754974365,Neutral
@@ -187,22 +187,22 @@ No one ever mentions this wouldnt be at 1B veiws without Kiel Tutin the choregra
 Fjx,0.0,Neutral,0.0,Neutral,0.2574882507324219,Neutral
 🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Custom🤣😂,0.7269,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Vauuu,0.5859,Positive,0.1,Neutral,-0.3525817990303039,Negative
+Vauuu,0.5859,Positive,0.1,Positive,-0.3525817990303039,Negative
 Amei,0.5994,Positive,0.7,Positive,0.2903938293457031,Neutral
 Blackpink love you so much to ask me for ❤💚😍,0.9485,Positive,0.35,Positive,0.8252464532852173,Positive
-attitude wow,0.5859,Positive,0.1,Neutral,0.6596300601959229,Positive
+attitude wow,0.5859,Positive,0.1,Positive,0.6596300601959229,Positive
 DP have huge viewers than the M/V!!! Only our queen's can do this:),0.4898,Positive,0.4270833333333333,Positive,0.5160354375839233,Positive
 👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 It has more views than the original mv now 😂 🖤💕,0.9287,Positive,0.4375,Positive,0.5207569599151611,Positive
 나는 이 밴드의 노래를 좋아한다.,0.3612,Positive,0.0,Neutral,0.4593183398246765,Positive
-fun fact:dance performance passed MV,0.5106,Positive,0.3,Neutral,0.4579424858093261,Positive
+fun fact:dance performance passed MV,0.5106,Positive,0.3,Positive,0.4579424858093261,Positive
 ayuda tiene más views que el mv oficial,0.4019,Positive,0.5,Positive,0.2500034868717193,Neutral
 This is the best song in my life,0.6369,Positive,1.0,Positive,0.8955251574516296,Positive
 Oooooo,0.0,Neutral,0.0,Neutral,-0.2655017077922821,Negative
 "Wait at 
 
 
-0:50 did u notice jisoo hands she was dancing wrong anways she is always strong brave",0.5574,Positive,0.2444444444444444,Neutral,-0.3447196781635284,Negative
+0:50 did u notice jisoo hands she was dancing wrong anways she is always strong brave",0.5574,Positive,0.2444444444444444,Positive,-0.3447196781635284,Negative
 Nice😊😊,0.93,Positive,0.0,Neutral,0.3085779249668121,Neutral
 1.090.6 B,0.0,Neutral,0.0,Neutral,-0.3648299872875213,Negative
 "1,1 bi",0.0,Neutral,0.0,Neutral,0.2448662668466568,Neutral
@@ -213,7 +213,7 @@ also me : watching DP instead of MV",0.3612,Positive,0.0,Neutral,-0.326636970043
 stre@m mv not dance practice blinks. isip isip.,0.0,Neutral,0.0,Neutral,-0.5943384170532227,Negative
 STREAM M/V NOT DANCE PRACTICE PLS-,-0.0572,Negative,0.0,Neutral,-0.4384038746356964,Negative
 blackpink legends,0.0,Neutral,0.0,Neutral,0.3951133787631988,Positive
-최초 무비 조회수를 앞섰다,0.0772,Positive,0.25,Neutral,0.4018293023109436,Positive
+최초 무비 조회수를 앞섰다,0.0772,Positive,0.25,Positive,0.4018293023109436,Positive
 Annyeong haseyo BLACKPINK,0.0,Neutral,0.0,Neutral,0.2781773209571838,Neutral
 Cv,0.0,Neutral,0.0,Neutral,0.3124823868274688,Neutral
 😘😘😘😘😘😘😃😃😃😃😃😃,0.9814,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -232,10 +232,10 @@ Me who want to learn the choreography seeing the video at 0.25x speed.🤭🤭,0
 .wead,0.0,Neutral,0.0,Neutral,-0.3148806691169739,Negative
 Lisa 🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩,0.0,Neutral,0.0,Neutral,0.3652496635913849,Positive
 "این اهنگ عالیه
-البته همه ی اهنگ های بلک پینگ خوبن",0.7906,Positive,0.3083333333333333,Neutral,0.3523772358894348,Positive
+البته همه ی اهنگ های بلک پینگ خوبن",0.7906,Positive,0.3083333333333333,Positive,0.3523772358894348,Positive
 YA VA A LLEGAR A 1.1B XDDDDDD,0.0258,Neutral,0.0,Neutral,-0.3715337514877319,Negative
 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😇🥰🥰🥰🥰🥰🥰,0.9992,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Superó al video original donde gastaron una banda de plata y en este solo bailan con un fondo rosado JAJSKAKAKAJA,0.3182,Positive,0.0916666666666666,Neutral,0.434370219707489,Positive
+Superó al video original donde gastaron una banda de plata y en este solo bailan con un fondo rosado JAJSKAKAKAJA,0.3182,Positive,0.0916666666666666,Positive,0.434370219707489,Positive
 Lindas,0.5994,Positive,0.85,Positive,0.2207168489694595,Neutral
 I m not Korean but your  songs arebeautiful,0.0,Neutral,0.0,Neutral,0.3309010863304138,Positive
 This dance performance views = official m/v views.....,0.0,Neutral,0.0,Neutral,0.6022599339485168,Positive
@@ -259,7 +259,7 @@ Linda,0.0,Neutral,0.0,Neutral,0.3066911995410919,Neutral
 😘😘😘😘💋❤,0.9531,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Me gusta el atuendo de lisa,0.3612,Positive,0.0,Neutral,0.5076117515563965,Positive
 😙😙😍,0.9468,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Black pink is 10000000000 times better than bts. …..    BLINK FOREVER,0.4404,Positive,0.0777777777777777,Neutral,0.6885543465614319,Positive
+Black pink is 10000000000 times better than bts. …..    BLINK FOREVER,0.4404,Positive,0.0777777777777777,Positive,0.6885543465614319,Positive
 호유 ㅏ레 ㅠ우 ㅏㄷㄷ,0.0,Neutral,0.0,Neutral,0.4564139544963836,Positive
 "WE DID IT BLINKS!!!!!!!!! ❤️🥺🎉💐
 1 BILLION CROSSED! 🥺",0.5951,Positive,0.0,Neutral,-0.7763619422912598,Negative
@@ -288,7 +288,7 @@ Any Malayalees here?",0.0,Neutral,0.0,Neutral,-0.3289187252521515,Negative
 мал,0.0,Neutral,0.0,Neutral,0.3634457290172577,Positive
 0la,0.0,Neutral,0.0,Neutral,-0.5989663004875183,Negative
 Your performance 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.5120605826377869,Positive
-I love you ❤️😙 black pink,0.8979,Positive,0.0777777777777777,Neutral,0.8502650856971741,Positive
+I love you ❤️😙 black pink,0.8979,Positive,0.0777777777777777,Positive,0.8502650856971741,Positive
 Re pro que el Dance practice superó al mv,0.0,Neutral,0.0,Neutral,0.6034839749336243,Positive
 "Haters = Blackpink can't dance 
 # how you like that dance practise reached 1 billion views soon 1.1 billion
@@ -300,13 +300,13 @@ Please stream the music video guys😭😭,-0.5994,Negative,0.0,Neutral,-0.33344
 I love you guys,0.6369,Positive,0.5,Positive,0.8288595080375671,Positive
 I love you lisa,0.6369,Positive,0.5,Positive,0.8346372842788696,Positive
 Kon hai jo roj black pink ke gaaane sunta hai like,0.0,Neutral,-0.1555555555555555,Negative,-0.3394490778446197,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 اقصد متا رح تترسموا,0.0,Neutral,-0.3125,Negative,-0.5035122036933899,Negative
 كنا راح تترسموا,0.0,Neutral,0.0,Neutral,-0.4095321297645569,Negative
 El mejor video del mudo,0.6369,Positive,1.0,Positive,0.9076030254364014,Positive
 😘😘😘😘😘😘,0.9413,Positive,0.0,Neutral,0.3085779249668121,Neutral
 BTS ruim 👎. |BLACKPINK,0.0,Neutral,0.0,Neutral,0.2709669172763824,Neutral
-While trying to do this i look like a 70 yr old wannabe oli london especially that Im trying to do all the members moves at once😭💅,-0.1531,Negative,0.05,Neutral,-0.2853351235389709,Negative
+While trying to do this i look like a 70 yr old wannabe oli london especially that Im trying to do all the members moves at once😭💅,-0.1531,Negative,0.05,Positive,-0.2853351235389709,Negative
 BLACK PINK 💖💖💖💖💖👍👌😘😘100% legal,0.9908,Positive,-0.0222222222222222,Negative,-0.3739332556724548,Negative
 SoButiful🤩😍👍😱,-0.4215,Negative,0.0,Neutral,0.3085779249668121,Neutral
 I LOVE YOU BLACKPİNK,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
@@ -315,10 +315,10 @@ O
 . 
 M
 . 
-G",0.0,Neutral,0.25,Neutral,-0.2840058207511902,Negative
+G",0.0,Neutral,0.25,Positive,-0.2840058207511902,Negative
 "WHY IS THIS SONG SO CATCHY 
 this just makes me wanna dance
-edit: this is my first time hearing this and these girl are baaadd asf 😍🔥",0.1531,Positive,0.25,Neutral,0.3417805433273315,Positive
+edit: this is my first time hearing this and these girl are baaadd asf 😍🔥",0.1531,Positive,0.25,Positive,0.3417805433273315,Positive
 I am sorry to ask like this but I like your song much,0.5927,Positive,-0.15,Negative,0.5162421464920044,Positive
 Perfect dance,0.5719,Positive,1.0,Positive,0.8358088731765747,Positive
 Black pink ladies I want to prove one thing your China ladies or your Korean ladies,0.0772,Positive,-0.1333333333333333,Negative,-0.3839046657085418,Negative
@@ -328,7 +328,7 @@ The best ever,0.6369,Positive,1.0,Positive,0.9430421590805054,Positive
 Thiago Irving nft6gv.  Jfofjht bts.klkkkkkkkkkkkk^kkkkk^*,0.0,Neutral,0.0,Neutral,-0.3256492912769317,Negative
 Te amo,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
 Love you blackpink,0.6369,Positive,0.5,Positive,0.8282743692398071,Positive
-Dance song I love with your dresses are also so real hair black pink,0.6369,Positive,0.1083333333333333,Neutral,0.6526041030883789,Positive
+Dance song I love with your dresses are also so real hair black pink,0.6369,Positive,0.1083333333333333,Positive,0.6526041030883789,Positive
 Me gusta la música es hermoso,0.7506,Positive,0.85,Positive,0.5621002316474915,Positive
 s9lsosis,0.0,Neutral,0.0,Neutral,-0.2253293097019195,Negative
 the fact that the dance practice has more views than the mv itself is literally insanee,0.0,Neutral,0.5,Positive,-0.4998978674411773,Negative
@@ -340,7 +340,7 @@ Fun fact : Dance performance video has more views than mv 🥰😍,0.9274,Positi
 Black pink in dans ları çok güzel🇲🇻🇲🇻,0.0,Neutral,-0.1333333333333333,Negative,0.3123112916946411,Neutral
 انه طائر انها طائرة 💞😍😍,0.0,Neutral,0.0,Neutral,-0.3105901181697845,Negative
 las amo son lo mas,0.6369,Positive,0.5,Positive,0.5020551085472107,Positive
-انا الوحيدة الي جات به دير ستريم للاغنية 💞💞💞💖😍😍💖💖blackpink ilove you so much,0.9919,Positive,0.2333333333333333,Neutral,0.638695240020752,Positive
+انا الوحيدة الي جات به دير ستريم للاغنية 💞💞💞💖😍😍💖💖blackpink ilove you so much,0.9919,Positive,0.2333333333333333,Positive,0.638695240020752,Positive
 Streaming credits goes to cocomelom baby blinks😂😂😂,0.8807,Positive,0.0,Neutral,-0.2620207071304321,Negative
 "I love you blackpink. Best, best, best.",0.9571,Positive,0.875,Positive,0.9121673107147216,Positive
 Đĩnk 😻,-0.4019,Negative,0.0,Neutral,0.4046536684036255,Positive
@@ -349,11 +349,11 @@ Lisaaaaa,0.0,Neutral,0.0,Neutral,-0.2881708443164825,Negative
 HiBlackpink,0.0,Neutral,0.0,Neutral,0.2488052099943161,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 친구들이랑 이 춤을 춰요 정말 실력이 대단하시네요 사랑해요 블랙핑크,0.9033,Positive,0.6,Positive,0.5969403982162476,Positive
-Ngalahin mvnya hahahahaha,0.0,Neutral,0.2,Neutral,-0.3119157552719116,Negative
+Ngalahin mvnya hahahahaha,0.0,Neutral,0.2,Positive,-0.3119157552719116,Negative
 This is the most iconic dp of a kpop song!,0.0,Neutral,0.5625,Positive,0.906394064426422,Positive
 The power of baby blinks we need to catch them for next comeback they are monster streamers 😂😂💖,0.9042,Positive,0.0,Neutral,0.3230614066123962,Neutral
 türk blinkler naber,0.0,Neutral,0.0,Neutral,-0.2547037899494171,Negative
-Hii so pretty 🥰🥰🥰🥰🥰😍😍😍🥰🥰,0.9965,Positive,0.25,Neutral,0.455646812915802,Positive
+Hii so pretty 🥰🥰🥰🥰🥰😍😍😍🥰🥰,0.9965,Positive,0.25,Positive,0.455646812915802,Positive
 0:35,0.0,Neutral,0.0,Neutral,-0.4045047163963318,Negative
 Blackpink❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 They are rocking by how you like that,0.3612,Positive,0.0,Neutral,0.3647254705429077,Positive
@@ -363,12 +363,12 @@ bu da 1 milyar olmuş hala mi izliyonuz,0.0,Neutral,0.0,Neutral,-0.5402411818504
 Rose💗,0.7096,Positive,0.0,Neutral,0.3085779249668121,Neutral
 1B views congratulations 👏👏👏👏👏👏🎉🎉🎉🎉🎉🎉🎊🎊🎊🎊🎂🎂🎂,0.959,Positive,0.0,Neutral,0.3079448044300079,Neutral
 wow💕,0.8442,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Mở sập dàn loa:)),0.0,Neutral,0.25,Neutral,0.4785847067832947,Positive
+Mở sập dàn loa:)),0.0,Neutral,0.25,Positive,0.4785847067832947,Positive
 "I love blackpink and blackpink is sow cute and cool and beautiful me and is my big star..
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💜💜💜💜💜💜💜💎💎💎💎💎",0.9992,Positive,0.44,Positive,0.8710197806358337,Positive
 90M,0.0,Neutral,0.0,Neutral,0.243375539779663,Neutral
 I love lisa,0.6369,Positive,0.5,Positive,0.7757072448730469,Positive
-I love you black pink you are so cute and I am your big fan are you are so cute and and Lisa and Rosy and Jenny and Jesso you are so so so very very best dancer in the in the world,0.9651,Positive,0.3190476190476191,Neutral,0.9470940232276917,Positive
+I love you black pink you are so cute and I am your big fan are you are so cute and and Lisa and Rosy and Jenny and Jesso you are so so so very very best dancer in the in the world,0.9651,Positive,0.3190476190476191,Positive,0.9470940232276917,Positive
 Love from India,0.6369,Positive,0.5,Positive,0.5484558939933777,Positive
 "Imagine a dance practice hitting 1Billion views,the power of thse girls!!",0.0,Neutral,0.0,Neutral,0.684113085269928,Positive
 👍🏻👍🏻👍🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -376,7 +376,7 @@ Love from India,0.6369,Positive,0.5,Positive,0.5484558939933777,Positive
 I like their dance practice more than MV,0.3612,Positive,0.5,Positive,0.4608496725559234,Positive
 *دانس هـيلت لاتسـوي خـوي مع الامڤـيـاتت تـراك دانس 😥💋*,0.7227,Positive,0.0,Neutral,-0.3801836669445038,Negative
 "Black pink I love 💕 you
-So much ❤️",0.8591,Positive,0.1083333333333333,Neutral,0.8600502610206604,Positive
+So much ❤️",0.8591,Positive,0.1083333333333333,Positive,0.8600502610206604,Positive
 We need JISOO solo debut!!!!!!!!!,0.0,Neutral,0.0,Neutral,0.4748435616493225,Positive
 Where's JISOO solo plans????,0.0,Neutral,0.0,Neutral,-0.4363350570201874,Negative
 KIM JISOO DEVERSE SOLOLIST LIFE TOO!!!Respect your artist YG!We need JISOO solo debut!!!!!!!!,0.0,Neutral,0.0,Neutral,0.5376209616661072,Positive
@@ -387,19 +387,19 @@ Hey cassia😊,0.7184,Positive,0.0,Neutral,0.4031593799591064,Positive
 🥰😍😘😭,0.875,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Je t'aime,0.3612,Positive,0.0,Neutral,-0.4084884226322174,Negative
 👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-I  like it  so much,0.3612,Positive,0.2,Neutral,0.5847474336624146,Positive
+I  like it  so much,0.3612,Positive,0.2,Positive,0.5847474336624146,Positive
 ❤️❤️❤️🧡🧡🧡💛💛💛💚💚💚💙💙💙💜💜💜💗💗💗💞💞💞💕💕💕💓💓💓💓💖💖💖💝💝💝❤️❤️❤️🧡🧡🧡💛💛💛💚💚💚💙💙💙💜💜💜💗💗💗💞💞💞💕💕💕💓💓💓💖💖💖💝💝💝,0.9998,Positive,0.0,Neutral,0.3085779249668121,Neutral
 JISOO we waiting for your solo debut!!!,0.0,Neutral,0.0,Neutral,0.4490878880023956,Positive
 "Don't worry...You're not the only one who still Listening to this Masterpiece in May 2022, I'm stil watching this, and I'll always be.💜",0.8772,Positive,0.0,Neutral,0.5721318125724792,Positive
 💐💐💐💐💐💐😘😘😘🥰🥰😘🥰😘😇😇😇😇👌👌👌👌💝💝💖💖,0.9982,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Somebody can tell me name of the girl with black  short hair ?,0.0,Neutral,-0.0833333333333333,Negative,-0.4508670568466186,Negative
 OMG I LIKE THIS SONG BUT I LIKE LISA,0.6124,Positive,0.0,Neutral,0.4536515176296234,Positive
-Ooooooooooooooooooooooooo   wow   aaaaaa,0.5859,Positive,0.1,Neutral,0.4447658658027649,Positive
+Ooooooooooooooooooooooooo   wow   aaaaaa,0.5859,Positive,0.1,Positive,0.4447658658027649,Positive
 Guney koroya blackpink,0.0,Neutral,-0.1333333333333333,Negative,0.2776923179626465,Neutral
 "Waw... 10M for 1,1B 🔥🔥",-0.5859,Negative,0.0,Neutral,-0.3125199973583221,Negative
 Jag heter Jennie,0.0,Neutral,0.0,Neutral,0.29336878657341,Neutral
 I love you lissaa😍😍😍,0.9217,Positive,0.5,Positive,0.8701996207237244,Positive
-Lisa is so hot in hylt,0.0,Neutral,0.25,Neutral,-0.4078498780727386,Negative
+Lisa is so hot in hylt,0.0,Neutral,0.25,Positive,-0.4078498780727386,Negative
 türkiyedede konser verirmisiniz,0.0,Neutral,0.0,Neutral,0.228167712688446,Neutral
 i love you lisa,0.6369,Positive,0.5,Positive,0.8346372842788696,Positive
 Çok güzel dans ediyorlar 👍✌️🥇🏅🙂🥰😇💋💋,0.9823,Positive,0.85,Positive,0.7007120847702026,Positive
@@ -408,19 +408,19 @@ Hi iam big blink  forever I am a kid age 6 girl  and my sister 5 but she the big
 Blackpink is the best group in the world congratulation blackpink❤️,0.8442,Positive,1.0,Positive,0.8948578834533691,Positive
 Hii all blink how are you,0.0,Neutral,0.0,Neutral,-0.3909204602241516,Negative
 Nnnnnnnaaaaaaaaasssssıııılllllllllyaaaaaaaaaaaaaaa,0.0,Neutral,0.0,Neutral,-0.4233426451683044,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Queens,0.0,Neutral,0.0,Neutral,0.3019631803035736,Neutral
-Black pink is my favorite song,0.4588,Positive,0.0777777777777777,Neutral,0.8423553109169006,Positive
+Black pink is my favorite song,0.4588,Positive,0.0777777777777777,Positive,0.8423553109169006,Positive
 SO Beautiful,0.7119,Positive,0.85,Positive,0.7954458594322205,Positive
 Çok. Güzel,0.5994,Positive,0.85,Positive,0.5577206015586853,Positive
 nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 1 billion let's goooo🕺,0.0,Neutral,0.0,Neutral,-0.4173126220703125,Negative
 I love you blackpink,0.6369,Positive,0.5,Positive,0.8311375379562378,Positive
 Too many girls to look at once,0.0,Neutral,0.5,Positive,-0.4752082526683807,Negative
-Dansı çok iyi yapıyorum,0.3384,Positive,0.2,Neutral,0.6221523880958557,Positive
+Dansı çok iyi yapıyorum,0.3384,Positive,0.2,Positive,0.6221523880958557,Positive
 Awesome,0.6249,Positive,1.0,Positive,0.830653965473175,Positive
 I LOVE YOU BLACKPINK❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤,0.9988,Positive,0.5,Positive,0.8701996207237244,Positive
-I love Black pink ❤️❤️❤️❤️❤️😍💕😍,0.9382,Positive,0.0777777777777777,Neutral,0.7210577130317688,Positive
+I love Black pink ❤️❤️❤️❤️❤️😍💕😍,0.9382,Positive,0.0777777777777777,Positive,0.7210577130317688,Positive
 "🥰😊😘😉🤗😎🖤🖤💜💜💜💖💖🤎🤎
 🖤
 🕳",0.9953,Positive,0.0,Neutral,0.3761328756809234,Positive
@@ -437,7 +437,7 @@ Search how you like that covered by kkibb,0.3612,Positive,0.0,Neutral,0.38499781
 BTS is best,0.6369,Positive,1.0,Positive,0.6302697658538818,Positive
 I love blackpink,0.6369,Positive,0.5,Positive,0.7265112400054932,Positive
 Cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
-"1 BILLION VIEWS!!!!!!! And that to it has more views than the actual mv...They were queens,are queens and will always be queens 👸",0.0,Neutral,0.25,Neutral,0.3734027743339538,Positive
+"1 BILLION VIEWS!!!!!!! And that to it has more views than the actual mv...They were queens,are queens and will always be queens 👸",0.0,Neutral,0.25,Positive,0.3734027743339538,Positive
 😇😇😇😇😇😇😇😀😃😃😄😄😄😁😍🥰🤩💀☠🤬💗💗💗💗💗💗💟❣,0.9984,Positive,0.0,Neutral,0.3085779249668121,Neutral
 ❤❤❤❤❤❤❤,0.9854,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Wat,0.0,Neutral,0.0,Neutral,0.2606094181537628,Neutral
@@ -445,8 +445,8 @@ Wat,0.0,Neutral,0.0,Neutral,0.2606094181537628,Neutral
 Rose on fire ...,-0.34,Negative,0.6,Positive,-0.5049335360527039,Negative
 Hi black pink,0.0,Neutral,-0.1333333333333333,Negative,0.2768696844577789,Neutral
 💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
-👌 👏  wow,0.873,Positive,0.1,Neutral,0.5613946318626404,Positive
-Abla,0.0,Neutral,0.1666666666666666,Neutral,0.2812299132347107,Neutral
+👌 👏  wow,0.873,Positive,0.1,Positive,0.5613946318626404,Positive
+Abla,0.0,Neutral,0.1666666666666666,Positive,0.2812299132347107,Neutral
 I am very big fan of you,0.3774,Positive,0.0,Neutral,0.691827118396759,Positive
 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘👍👍👍👍👍👍👍👍👍💓,0.9936,Positive,0.0,Neutral,0.3085779249668121,Neutral
 10M TO 1.1B . LEGGO,0.0,Neutral,0.0,Neutral,-0.234876662492752,Negative
@@ -456,16 +456,16 @@ O,0.0,Neutral,0.0,Neutral,0.2750898897647857,Neutral
 Perfect ❤❤❤❤❤,0.9792,Positive,1.0,Positive,0.8609878420829773,Positive
 I like you lisa,0.3612,Positive,0.0,Neutral,0.5166240334510803,Positive
 Where are you leaving now ☺️,0.4588,Positive,0.0,Neutral,-0.3335584998130798,Negative
-I accidentally clicked this video after watching LESSERAFIM mv teaser. Wow I'm amazed!!!,0.6679,Positive,0.1953125,Neutral,0.4603667259216308,Positive
+I accidentally clicked this video after watching LESSERAFIM mv teaser. Wow I'm amazed!!!,0.6679,Positive,0.1953125,Positive,0.4603667259216308,Positive
 Who tf is still streaming this😭😭😭😭🤣,-0.8481,Negative,0.0,Neutral,0.3011979758739471,Neutral
 ❤️💜,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Топ,0.2023,Positive,0.5,Positive,0.6780093312263489,Positive
-Jisoo dances so smoothly and there people call her being stiff 🙄,0.0,Neutral,0.0928571428571428,Neutral,0.4835151135921478,Positive
+Jisoo dances so smoothly and there people call her being stiff 🙄,0.0,Neutral,0.0928571428571428,Positive,0.4835151135921478,Positive
 You dance💃 is nice,0.4215,Positive,0.6,Positive,0.4542995095252991,Positive
-Wow wow wow,0.9081,Positive,0.1,Neutral,0.7674673199653625,Positive
+Wow wow wow,0.9081,Positive,0.1,Positive,0.7674673199653625,Positive
 🥰🥰🥰🥰🥰🥰🥰🥰😘💋💘💚💚💚💛💛💛🧡🧡🧡❤❤❤💟💕💞,0.9992,Positive,0.0,Neutral,0.3085779249668121,Neutral
 So beautiful song ❤️,0.6361,Positive,0.85,Positive,0.8204513192176819,Positive
-I love  black pink,0.6369,Positive,0.0777777777777777,Neutral,0.6556611657142639,Positive
+I love  black pink,0.6369,Positive,0.0777777777777777,Positive,0.6556611657142639,Positive
 congrats 1b views :P,0.7297,Positive,0.75,Positive,0.2787602841854095,Neutral
 Ossam mam,0.0,Neutral,0.0,Neutral,0.2757969498634338,Neutral
 Blackpink ohhhh,0.0,Neutral,0.0,Neutral,0.2928973138332367,Neutral
@@ -479,7 +479,7 @@ Tatti chat,0.0,Neutral,0.0,Neutral,0.2710050940513611,Neutral
 When dance practice video has more views than the OFFICIAL 😅MV,0.3612,Positive,0.5,Positive,0.283910870552063,Neutral
 I am your big fan,0.3182,Positive,0.0,Neutral,0.7913218140602112,Positive
 "them: how many times are you going to play this everyday??
-me: yes",0.6662,Positive,0.15,Neutral,-0.2524253726005554,Negative
+me: yes",0.6662,Positive,0.15,Positive,-0.2524253726005554,Negative
 ❤️❤️🤩🤩🤩😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💕,0.6486,Positive,0.0,Neutral,0.3085779249668121,Neutral
 안녕하세요 Blackpink indo의 vanshika입니다 나는 당신의 열성 팬입니다,0.3182,Positive,0.0,Neutral,0.5711328983306885,Positive
@@ -487,7 +487,7 @@ me: yes",0.6662,Positive,0.15,Neutral,-0.2524253726005554,Negative
 👇",0.8779,Positive,0.0,Neutral,0.4368232190608978,Positive
 "wow 1M views... 
 
-soo ayoo comeback dnk blacpink...we mis youuu All❤️",0.4939,Positive,0.1,Neutral,-0.4239696264266968,Negative
+soo ayoo comeback dnk blacpink...we mis youuu All❤️",0.4939,Positive,0.1,Positive,-0.4239696264266968,Negative
 "Let's go 1,1B",0.0,Neutral,0.0,Neutral,0.2611962854862213,Neutral
 After stre@m!ng this plz go and stre@m ddu ddu,0.1697,Positive,0.0,Neutral,-0.6013416647911072,Negative
 "On May 11 this will hit 1.1B then on May 14, the mv will hit 1.1B",0.0,Neutral,0.0,Neutral,-0.6966023445129395,Negative
@@ -504,17 +504,17 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Es una canción genial 😍😃,0.8625,Positive,0.8,Positive,0.798075795173645,Positive
 ¢β9,0.0,Neutral,0.0,Neutral,-0.3099607229232788,Negative
 Me gusta mucho 😍,0.6705,Positive,0.0,Neutral,0.5180273056030273,Positive
-omg wow is so cool,0.7501,Positive,0.2249999999999999,Neutral,0.7910915017127991,Positive
-Çok seviyorum ya Black Pink için🧡🧡,0.9274,Positive,0.1777777777777777,Neutral,0.3654450178146362,Positive
+omg wow is so cool,0.7501,Positive,0.2249999999999999,Positive,0.7910915017127991,Positive
+Çok seviyorum ya Black Pink için🧡🧡,0.9274,Positive,0.1777777777777777,Positive,0.3654450178146362,Positive
 Amo blackpink,0.6369,Positive,0.5,Positive,0.2478047162294387,Neutral
 "La única competencia para BLACKPINK son BLACKPINK
 
 The only competition for BLACKPINK is BLACKPINK!!!!!",0.0,Neutral,0.0,Neutral,0.2862502038478851,Neutral
 Jenny...,0.0,Neutral,0.0,Neutral,0.2703682482242584,Neutral
-can someone explain how this has more views than the actual mv? genuinely confused 🙁,-0.5279,Negative,0.0333333333333333,Neutral,-0.6593933701515198,Negative
+can someone explain how this has more views than the actual mv? genuinely confused 🙁,-0.5279,Negative,0.0333333333333333,Positive,-0.6593933701515198,Negative
 11🤐😈🤯💔,0.6249,Positive,0.0,Neutral,0.3085779249668121,Neutral
 BLACKPINK in your area,0.0,Neutral,0.0,Neutral,0.4502510726451874,Positive
-Wow that is cool 😮😀😉😙😚🥰😍🤩🥳,0.9847,Positive,0.2249999999999999,Neutral,0.8235333561897278,Positive
+Wow that is cool 😮😀😉😙😚🥰😍🤩🥳,0.9847,Positive,0.2249999999999999,Positive,0.8235333561897278,Positive
 I was super and I loved I was super and I loved it 💗🖤,0.9792,Positive,0.5166666666666666,Positive,0.8427061438560486,Positive
 1.1 billion,0.0,Neutral,0.0,Neutral,-0.4153720140457153,Negative
 No esque me encanta cuando la oigo bailo y canto pero al principio lo ice y niciquiera supe como le ice si niciquiera lo conocia,-0.2924,Negative,0.375,Positive,-0.4075904190540313,Negative
@@ -547,15 +547,15 @@ Please stream hylt mv too,0.3182,Positive,0.0,Neutral,-0.2933158874511719,Negati
 Las quiero,0.6369,Positive,0.5,Positive,0.4371823966503143,Positive
 😘😍😍😍😘😘😘😘😘😘😘😘😘,0.9872,Positive,0.0,Neutral,0.3085779249668121,Neutral
 💙💚💛🧡❤️🤎🤍🖤💜,0.9803,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Really love this song black pink superstar,0.6697,Positive,0.0777777777777777,Neutral,0.8941251635551453,Positive
+Really love this song black pink superstar,0.6697,Positive,0.0777777777777777,Positive,0.8941251635551453,Positive
 I'm still wondering why people streamed this more than the MV 😄,0.6705,Positive,0.5,Positive,0.2311088293790817,Neutral
 LOVE ❤️❤️,0.7125,Positive,0.5,Positive,0.7371776700019836,Positive
 KAPAN COMEBACKKNYA AYANGG,0.0,Neutral,0.0,Neutral,-0.3089780509471893,Negative
-WOW AME ESTE VIDEO 👌,0.9485,Positive,0.3,Neutral,0.697422981262207,Positive
+WOW AME ESTE VIDEO 👌,0.9485,Positive,0.3,Positive,0.697422981262207,Positive
 "Jajaj es gracioso ver como blackpink supera a blackpink.
-Son el verdadero GIRL POWER",0.7579,Positive,0.2166666666666666,Neutral,0.641037106513977,Positive
+Son el verdadero GIRL POWER",0.7579,Positive,0.2166666666666666,Positive,0.641037106513977,Positive
 Countdown to 1.1B,0.0,Neutral,0.0,Neutral,0.518667459487915,Positive
-"Eu ia ficar muito puto se eu gastasse mó grana pra fazer um MV, e o Dance Practice tivesse mais visualizações visse",-0.6697,Negative,0.1999999999999999,Neutral,-0.4347014725208282,Negative
+"Eu ia ficar muito puto se eu gastasse mó grana pra fazer um MV, e o Dance Practice tivesse mais visualizações visse",-0.6697,Negative,0.1999999999999999,Positive,-0.4347014725208282,Negative
 Blackpink best Gg,0.7506,Positive,1.0,Positive,0.6423869729042053,Positive
 Yess blackpink is the biggest girl group! Their so talented and the backup dances are amazing dances!,0.8633,Positive,0.7250000000000001,Positive,0.8867598176002502,Positive
 Love blakpink,0.6369,Positive,0.5,Positive,0.5559371113777161,Positive
@@ -580,7 +580,7 @@ Las amo🤨💘,0.8555,Positive,0.5,Positive,0.332601398229599,Positive
 "COMO?!?!! me despiste un tiempo de este video y me entero de que superó al MV
 Solo Blackpink jajaj <3",0.6943,Positive,0.6,Positive,0.266636312007904,Neutral
 Gabi 😮😮😮😅,0.3612,Positive,0.0,Neutral,0.2684315145015716,Neutral
-"Blackpink son las únicas que rompen sus propios logros , ningún grupos femenino puede contra ellas.",-0.296,Negative,0.3,Neutral,-0.2990399599075317,Negative
+"Blackpink son las únicas que rompen sus propios logros , ningún grupos femenino puede contra ellas.",-0.296,Negative,0.3,Positive,-0.2990399599075317,Negative
 Me canse mucho bailando quien mas,-0.5777,Negative,-0.4,Negative,-0.24559386074543,Negative
 جييسو,0.0,Neutral,0.0,Neutral,0.2890704274177551,Neutral
 روزي,0.0,Neutral,0.0,Neutral,0.2846103310585022,Neutral
@@ -615,7 +615,7 @@ I love BLACKPINK😍😍😍😚😚😚😘😘😘😘😘💖💖💖😜😜
 I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU I LOVE YOU,0.9994,Positive,0.5,Positive,0.8642810583114624,Positive
 😎🙏,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰😆,0.9999,Positive,0.0,Neutral,0.3085779249668121,Neutral
-WOW Lisa WOW,0.8769,Positive,0.1,Neutral,0.7466946244239807,Positive
+WOW Lisa WOW,0.8769,Positive,0.1,Positive,0.7466946244239807,Positive
 ☺☺☺☺☺,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
 amo muito esa musica amo vcs muuuuito❤❤😍,0.9695,Positive,0.5,Positive,0.5382963418960571,Positive
 When I play Minecraft I only listen this😂And I don't know WHY 😂😂,0.743,Positive,0.0,Neutral,-0.2903991341590881,Negative
@@ -634,7 +634,7 @@ Rosé❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Aytən, iki 😿🧎👰",-0.4767,Negative,0.0,Neutral,0.3609817922115326,Positive
 The best,0.6369,Positive,1.0,Positive,0.9091946482658386,Positive
 واو انه جميل جدا بلاك بينك ملكات الكيبوب فعلا,0.8399,Positive,0.475,Positive,0.3048697113990783,Neutral
-شكر على القناة  عجبتني,0.6597,Positive,0.2,Neutral,0.2389120459556579,Neutral
+شكر على القناة  عجبتني,0.6597,Positive,0.2,Positive,0.2389120459556579,Neutral
 Like pink can you area,0.3612,Positive,-0.1,Negative,0.2401563674211502,Neutral
 0:27,0.0,Neutral,0.0,Neutral,-0.4709107279777527,Negative
 0:27,0.0,Neutral,0.0,Neutral,-0.4709107279777527,Negative

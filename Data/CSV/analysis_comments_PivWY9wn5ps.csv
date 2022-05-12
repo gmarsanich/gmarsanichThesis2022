@@ -1,17 +1,17 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-I've been a victim of a selfish kind of love,0.0,Neutral,0.13125,Neutral,-0.3621065020561218,Negative
+I've been a victim of a selfish kind of love,0.0,Neutral,0.13125,Positive,-0.3621065020561218,Negative
 "April22 2022....this song truly makes you want to change yourself. 
 great song.",0.8074,Positive,0.8,Positive,0.8271152377128601,Positive
 Miss meaningful music like this Rest In Peace MJ 🌹,0.7717,Positive,0.5,Positive,-0.4698167443275451,Negative
 This video should have got 30 billion views,0.0,Neutral,0.0,Neutral,-0.5222293734550476,Negative
-"Wow, his songs are so classic!",0.6239,Positive,0.1541666666666666,Neutral,0.9310604333877563,Positive
+"Wow, his songs are so classic!",0.6239,Positive,0.1541666666666666,Positive,0.9310604333877563,Positive
 뚜방뚜방,0.0,Neutral,0.0,Neutral,-0.3429434299468994,Negative
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 คุณจะได้เธอไปได้ยังไงในเมื่อมันไม่ใช่สินค้าใช่รถยนต์บ้านที่ดินอสังหา,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "No one could have sung this song as good as MJ did. His soulful, high vocals bring justice to the words of this beautiful track. He was a genius , but most of all a beautiful human being. We miss you king of pop.",0.8863,Positive,0.51,Positive,0.8426886200904846,Positive
 Y'all better get wit It. Cause my sweet ass isn't going to burn in the lake of Fire. The lake of Love Maybe! Ha!,0.6988,Positive,0.5437500000000001,Positive,-0.3406985402107239,Negative
 Love it!,0.6696,Positive,0.625,Positive,0.9114544987678528,Positive
-Miss u so much May u continue to SIP 🙏🙏,-0.1531,Negative,0.2,Neutral,-0.4267928898334503,Negative
+Miss u so much May u continue to SIP 🙏🙏,-0.1531,Negative,0.2,Positive,-0.4267928898334503,Negative
 Make that change...,0.0,Neutral,0.0,Neutral,0.3429373800754547,Positive
 2022 💗✨,0.802,Positive,0.0,Neutral,0.2993581593036651,Neutral
 We need an AID to help Ukraine. all musicians come together and make a common interest to help humanity.,0.8126,Positive,-0.3,Negative,0.6359416246414185,Positive
@@ -29,7 +29,7 @@ GIORNO GET AWAY FROM THE MIRROR,0.0,Neutral,0.0,Neutral,-0.3472388684749603,Nega
 เขาถือไว้แบกไว้ก็เหนื่อยแน่นอนเรื่องนี้ผมบอกเขานี่ปล่อยได้แล้วให้เธอไป,-0.0516,Negative,-0.4,Negative,0.3085779249668121,Neutral
 1:08 Lech Wałęsa,0.0,Neutral,0.0,Neutral,-0.3256540894508362,Negative
 Stop the invasion!,-0.3595,Negative,0.0,Neutral,0.4871849715709686,Positive
-Stay strong Middle East and Africa,0.5106,Positive,0.2166666666666666,Neutral,0.5218589305877686,Positive
+Stay strong Middle East and Africa,0.5106,Positive,0.2166666666666666,Positive,0.5218589305877686,Positive
 1:07 🇵🇱,0.0,Neutral,0.0,Neutral,-0.3132187128067016,Negative
 Ron Atlantico Private Cask ..... please drink responsibly....... NOT.....!!! Party !!!!,0.2982,Positive,0.476837158203125,Positive,-0.474085658788681,Negative
 He is the best ever celebrity who cares about people he is very great man 🥺🥺🥺🥺,0.9117,Positive,1.0,Positive,0.8904488682746887,Positive
@@ -52,7 +52,7 @@ the reason why I wanna be a youtuber in the future and earned money is because I
 2022 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.2993581593036651,Neutral
 Taking care of your people good start.,0.7269,Positive,0.7,Positive,0.4916600286960602,Positive
 Such a beautiful soul ♥️,0.8442,Positive,0.425,Positive,0.8891228437423706,Positive
-"A moment for everyone suffering all around the world. But especially all country's whose people are being ravaged by war, famine and natural disasters. And all those we lost to this pandemic.",-0.9186,Negative,0.05,Neutral,0.641721785068512,Positive
+"A moment for everyone suffering all around the world. But especially all country's whose people are being ravaged by war, famine and natural disasters. And all those we lost to this pandemic.",-0.9186,Negative,0.05,Positive,0.641721785068512,Positive
 God bless you Michael where ever you are . Compassionate human beautiful person,0.9001,Positive,0.425,Positive,0.9515348076820374,Positive
 "I'm gonna make a change
 For once in my life
@@ -156,8 +156,8 @@ You know it
 You know it
 You know
 Change
-Make that change",0.979,Positive,0.2443349753694581,Neutral,0.3417911231517792,Positive
-Jokoy's old clip brought me here,0.0,Neutral,0.1,Neutral,0.5284669399261475,Positive
+Make that change",0.979,Positive,0.2443349753694581,Positive,0.3417911231517792,Positive
+Jokoy's old clip brought me here,0.0,Neutral,0.1,Positive,0.5284669399261475,Positive
 Michael Jackson bu dünya ucun sən cox yaxsi idin. Üzərindən 13 il keçsədə mahninin verdiyi duyğular hələdə apayridir. Sən bizim qəlbimizdə yasayacaqsan,0.8173,Positive,0.3487878787878788,Positive,0.5139403343200684,Positive
 Everyone should listen and know this song,0.0,Neutral,0.0,Neutral,0.5713096261024475,Positive
 You is legends never die Michael Jackson so late to talk this =((,0.4847,Positive,-0.525,Negative,0.5053267478942871,Positive
@@ -168,11 +168,11 @@ Let 's be honest,0.5106,Positive,0.6,Positive,0.302272766828537,Neutral
 I
 look?",0.0,Neutral,0.0,Neutral,0.3161098957061767,Neutral
 Best track by far.,0.6369,Positive,0.55,Positive,0.888427197933197,Positive
-"Thank you Universe for blessing us with MJ as a genuine and sincere example of hope. Words fail me right now, but this song reminds me of whats really important in this crazy time ❤️",0.4478,Positive,0.0809523809523809,Neutral,0.5722318887710571,Positive
+"Thank you Universe for blessing us with MJ as a genuine and sincere example of hope. Words fail me right now, but this song reminds me of whats really important in this crazy time ❤️",0.4478,Positive,0.0809523809523809,Positive,0.5722318887710571,Positive
 "One of my favorite songs ever. Rest In Peace Michael, your message lives on: help others❤️",0.8481,Positive,0.5,Positive,0.9419607520103456,Positive
 my emory loading with eror,-0.4019,Negative,0.0,Neutral,0.5451516509056091,Positive
 MJ  FOREVER,0.0,Neutral,0.0,Neutral,0.6048403978347778,Positive
-"MJ..... Tu étais vraiment DIVINEMENT inspiré.... Un véritable ""Messager"".... Ce que beaucoup ne savent pas sur ta personne (entre autres) c'est que tu parlais TRÈS BIEN le Français. À cause de ton admiration pour la ville de Paris..... Tu avais suivi des cours particuliers de la langue française pendant 1 an..... Quelques rares personnes peuvent le confirmer notamment Lisa Marie et ta sœur bien-aimée Janet. Hélas, Janet vient de nous quitter à Miami tragiquement et subitement. Elle s'est renversée et s'est noyée en pleine séance de Ski Nautique pourtant une experte de la discipline..... Qu'elle ne repose pas en paix cette TRAÎTRESSE qui a conspiré contre toi pour t'afflaiblir mentalement et te mener à la mort physique..... Très proche de toi, elle avait pour mission de remplacer les anti-dépresseurs que ta Psychologue, Dr. AMani Franklin Delano, te prescrivait pour ton équilibre mental, par des anti-psychotiques..... Pourtant, tu n'étais pas fou..... Ainsi, ton état de santé mentale s'est dégradé au fil des temps ce qui t'a conduit progressivement à ce malheureux ""blanchiment"" de la peau que tu regrettes profondément puisque tu t'es toujours senti NOIR et  AFRICAIN dans le coeur..... Que dire de la cabale médiatique et juridique contre toi pour des fausses accusations de pédophilie, de viol etc..... Toi qui ADORAIT les enfants et rêvait d'un Monde Meilleur pour. eux.elles. Merciiiii MJ..... 4Ever..... Continue to stay by my side Legend. Together, We will take revenge and make America Great Again. IN ANNIE, <<WE>> TRUST..... ✝️💜🧡🌼🌸",0.9672,Positive,0.0649999999999999,Neutral,-0.2859793305397033,Negative
+"MJ..... Tu étais vraiment DIVINEMENT inspiré.... Un véritable ""Messager"".... Ce que beaucoup ne savent pas sur ta personne (entre autres) c'est que tu parlais TRÈS BIEN le Français. À cause de ton admiration pour la ville de Paris..... Tu avais suivi des cours particuliers de la langue française pendant 1 an..... Quelques rares personnes peuvent le confirmer notamment Lisa Marie et ta sœur bien-aimée Janet. Hélas, Janet vient de nous quitter à Miami tragiquement et subitement. Elle s'est renversée et s'est noyée en pleine séance de Ski Nautique pourtant une experte de la discipline..... Qu'elle ne repose pas en paix cette TRAÎTRESSE qui a conspiré contre toi pour t'afflaiblir mentalement et te mener à la mort physique..... Très proche de toi, elle avait pour mission de remplacer les anti-dépresseurs que ta Psychologue, Dr. AMani Franklin Delano, te prescrivait pour ton équilibre mental, par des anti-psychotiques..... Pourtant, tu n'étais pas fou..... Ainsi, ton état de santé mentale s'est dégradé au fil des temps ce qui t'a conduit progressivement à ce malheureux ""blanchiment"" de la peau que tu regrettes profondément puisque tu t'es toujours senti NOIR et  AFRICAIN dans le coeur..... Que dire de la cabale médiatique et juridique contre toi pour des fausses accusations de pédophilie, de viol etc..... Toi qui ADORAIT les enfants et rêvait d'un Monde Meilleur pour. eux.elles. Merciiiii MJ..... 4Ever..... Continue to stay by my side Legend. Together, We will take revenge and make America Great Again. IN ANNIE, <<WE>> TRUST..... ✝️💜🧡🌼🌸",0.9672,Positive,0.0649999999999999,Positive,-0.2859793305397033,Negative
 Legends never dies we miss you Michael Jackson 😭😭,-0.6962,Negative,0.0,Neutral,0.5923673510551453,Positive
 Tu vois qu il faut pas se plaindre!!!!🤣🤣🤣,0.9166,Positive,0.0,Neutral,0.2587252557277679,Neutral
 ♥️,0.6369,Positive,0.0,Neutral,0.3810153007507324,Positive
@@ -194,13 +194,13 @@ im so glad these comments were re opened..,0.5095,Positive,0.5,Positive,-0.40622
 Gracias por ser esa parte linda de mi infancia. Mi corazón no te olvida Michael,0.9055,Positive,0.85,Positive,0.6924603581428528,Positive
 One of the most inspirational songs ever. Thank you Michael and R.I.P. ♥️🙏,0.8832,Positive,0.5,Positive,0.948971688747406,Positive
 "the kkk scared me, even being a white man I am scared of the KKK for being a communist.",-0.7003,Negative,0.0,Neutral,-0.3157746195793152,Negative
-To Michael Jackson and the family rip to him and also thank you to his family for the blessings that I have right here in the lord's name amen hallelujah,0.875,Positive,0.2857142857142857,Neutral,0.7500410676002502,Positive
+To Michael Jackson and the family rip to him and also thank you to his family for the blessings that I have right here in the lord's name amen hallelujah,0.875,Positive,0.2857142857142857,Positive,0.7500410676002502,Positive
 I'm in 2022 but I still listen to his songs his songs will never become boring ❤❤❤❤❤,0.9886,Positive,-1.0,Negative,0.3995138704776764,Positive
 """Michael Jackson only talks about love and dating!""
 
-:",0.6696,Positive,0.3125,Neutral,-0.2187297344207763,Negative
+:",0.6696,Positive,0.3125,Positive,-0.2187297344207763,Negative
 Still listening in April 2022,0.0,Neutral,0.0,Neutral,-0.2638472616672516,Negative
-thanks putin,0.4404,Positive,0.2,Neutral,0.4608405530452728,Positive
+thanks putin,0.4404,Positive,0.2,Positive,0.4608405530452728,Positive
 2022 ❣️❣️,0.8555,Positive,0.0,Neutral,0.2993581593036651,Neutral
 1:07 Wałęsa dawaj moje 100000000!,0.0,Neutral,0.0,Neutral,-0.5914462804794312,Negative
 ยังไงอเมริกาก็ต้องได้มาแน่นอนจะมีมากกว่า 1  ชาติก็สละสิทธิ์ที่หลังก็ได้ถ้ามีปัญหาด้านกฎหมาย,0.0258,Neutral,0.3714285714285714,Positive,0.2848235964775085,Neutral
@@ -211,7 +211,7 @@ How awful,-0.4588,Negative,-1.0,Negative,-0.9339545369148254,Negative
 In Toms eyes!!  WHAT A ROUGH LIFE HE LIVED!!,0.0,Neutral,-0.15625,Negative,0.4113474190235138,Positive
 Michael jackson changed his race so he could have white privilege.,0.3612,Positive,0.0,Neutral,0.2817124128341675,Neutral
 This song gives me an hope.,0.4404,Positive,0.0,Neutral,0.5591674447059631,Positive
-"If only he was alive today, he would be fighting for Ukraine.",0.0258,Neutral,0.05,Neutral,0.2806935012340545,Neutral
+"If only he was alive today, he would be fighting for Ukraine.",0.0258,Neutral,0.05,Positive,0.2806935012340545,Neutral
 "Peaked at #21 in U.K. on 21 February 1988 
 Peaked at #2 in U.K. on 5 July 2009",0.0,Neutral,0.0,Neutral,-0.4516756236553192,Negative
 Hear this putin,0.0,Neutral,0.0,Neutral,0.3750044703483581,Positive
@@ -311,8 +311,8 @@ You know it
 You know it
 You know
 Change
-Make that change",0.979,Positive,0.2443349753694581,Neutral,0.3375996351242065,Positive
-the world needs this man right now. Praying for Ukraine,0.3612,Positive,0.2857142857142857,Neutral,0.6783696413040161,Positive
+Make that change",0.979,Positive,0.2443349753694581,Positive,0.3375996351242065,Positive
+the world needs this man right now. Praying for Ukraine,0.3612,Positive,0.2857142857142857,Positive,0.6783696413040161,Positive
 "The World's Best Singer👌
 Sin duda Michael Jackson, You Know!👑😏👑",0.792,Positive,1.0,Positive,0.9321510195732116,Positive
 This is a song everyone should embrace.,0.3182,Positive,0.0,Neutral,0.7425788044929504,Positive
@@ -326,9 +326,9 @@ Legend for ever,0.0,Neutral,0.0,Neutral,0.8677146434783936,Positive
 Thank the lord I've changed.,0.3612,Positive,0.0,Neutral,0.5678781270980835,Positive
 RIP to the greatest musician to ever live,0.6369,Positive,0.5681818181818181,Positive,0.8243551254272461,Positive
 It’s so tragic that this is STILL so prevalent! 🥺,-0.5551,Negative,-0.9375,Negative,0.5042812824249268,Positive
-"All together, ask your radio stations to play this song. Or songs like Heal the world, Earth Song, We`ve had enough, We are the world.  Let`s spread some peace.   :)",0.886,Positive,0.25,Neutral,0.6975138187408447,Positive
+"All together, ask your radio stations to play this song. Or songs like Heal the world, Earth Song, We`ve had enough, We are the world.  Let`s spread some peace.   :)",0.886,Positive,0.25,Positive,0.6975138187408447,Positive
 "Fly high legend you were my idol when I 7      
-And then when I found your died I was so sad",-0.822,Negative,0.1533333333333333,Neutral,0.434000164270401,Positive
+And then when I found your died I was so sad",-0.822,Negative,0.1533333333333333,Positive,0.434000164270401,Positive
 Fuck illuminati for ever,-0.5423,Negative,-0.4,Negative,0.6915330290794373,Positive
 """If you want to make the world, a better place, take a look at yourself, and MAKE A CHANGE!"""" - *Michael Jackson - 2009*",0.5411,Positive,0.625,Positive,0.3558871746063232,Positive
 "Who am to pretend like everything its alright... Let's take a look at ourselves and together we can, together we can heal the world",0.4767,Positive,0.0,Neutral,0.4178391396999359,Positive
@@ -339,13 +339,13 @@ Always and forever a legend Michael Jackson!,0.0,Neutral,0.0,Neutral,0.910041987
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,-0.9638,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "What I really pray for his people will hear this song and they will begin making a difference within themselves and I believe charity starts in the home therefore there will be a better father better son a better daughter a better human ,, as each box could be better each day by 1% this will have a trickle-down effect in society and its be a better world. He was a beautiful soul beautiful and I thank God for blessing us with him oh, I never saw him in concert but my brother's did",0.9565,Positive,0.4899999999999999,Positive,0.7572930455207825,Positive
 Is someone in 2022 🙋,0.4939,Positive,0.0,Neutral,-0.2560109198093414,Negative
-I MISS YOU MJ XXX This planet need a artist like you right now,0.0431,Neutral,0.2857142857142857,Neutral,-0.359691172838211,Negative
+I MISS YOU MJ XXX This planet need a artist like you right now,0.0431,Neutral,0.2857142857142857,Positive,-0.359691172838211,Negative
 We could all take a lot from this song.,0.0,Neutral,0.0,Neutral,0.2694979906082153,Neutral
 What is that triangle at 1:12 please let me know,0.3182,Positive,0.0,Neutral,-0.3448760509490967,Negative
 Te amo,0.6369,Positive,0.5,Positive,0.388530433177948,Positive
 He amo,0.5994,Positive,0.7,Positive,0.3961065113544464,Positive
 What were the triangle head people? Please tell me,0.3182,Positive,0.0,Neutral,-0.3374892175197601,Negative
-Why do bad things happened to good people in movies and tv real life all around the world and family members and friends and army navey and USA we are good people why do these happened to us,0.6597,Positive,0.225,Neutral,0.5107617974281311,Positive
+Why do bad things happened to good people in movies and tv real life all around the world and family members and friends and army navey and USA we are good people why do these happened to us,0.6597,Positive,0.225,Positive,0.5107617974281311,Positive
 Sovereign being,0.0,Neutral,0.0,Neutral,0.6901596784591675,Positive
 Spread love <3,0.7964,Positive,0.75,Positive,0.5792266726493835,Positive
 "STILL
@@ -378,7 +378,7 @@ Todos devem respeitar Michael porque oque esse cara fez para humanidade não é 
 "Vladimir Putin 
 You need to listen to this 
 PEACE ✌",0.8497,Positive,0.0,Neutral,0.5502653121948242,Positive
-The world would have been a different place with you. I miss u so much my applehead. Hope to know you in another life ❤️,0.3182,Positive,0.1,Neutral,-0.3748539984226227,Negative
+The world would have been a different place with you. I miss u so much my applehead. Hope to know you in another life ❤️,0.3182,Positive,0.1,Positive,-0.3748539984226227,Negative
 Lech Wałęsa,0.0,Neutral,0.0,Neutral,0.3627115488052368,Positive
 Essa música veio instantâneamente na minha cabeça quando vi Cavaleiro da Lua. Quem viu vai entender 🤣,0.4939,Positive,0.0,Neutral,0.5739457607269287,Positive
 "Falaram tantas mentiras sobre você Michael, mais não falaram o ser humano maravilhoso que você é foi e sempre será que Deus te abençoe por tudo que você fez pela humanidade principalmente pelas crianças te amo Michael",0.9528,Positive,0.4,Positive,0.4942949712276459,Positive
@@ -387,7 +387,7 @@ Grande artista,0.6249,Positive,0.8,Positive,0.7537153959274292,Positive
 "With this gone, Michael Jackson touched millions of people deep inside.",0.0,Neutral,0.0,Neutral,0.7228049635887146,Positive
 "this man will never be forgotten 
 we love michael",0.7065,Positive,0.5,Positive,0.8404011130332947,Positive
-GONNA RIGHT,0.0,Neutral,0.2857142857142857,Neutral,0.4344417154788971,Positive
+GONNA RIGHT,0.0,Neutral,0.2857142857142857,Positive,0.4344417154788971,Positive
 "John 3:16
 [16]For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
@@ -507,18 +507,18 @@ King James Version
 ....
 ,.,.
 "",,
-..",0.9996,Positive,0.1352849927849927,Neutral,0.3769179284572601,Positive
+..",0.9996,Positive,0.1352849927849927,Positive,0.3769179284572601,Positive
 "My 6th grade teacher always used to play this song.... Now I'm picturing myself being 11 again eating some nasty cereal in the back of class, exhausted, trying to steal other kids pencils",-0.7845,Negative,-0.38125,Negative,0.2789202928543091,Neutral
 "https://youtube.com/shorts/Z51OVOSCw40?feature=share
 😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂🤣😂 #IAMLOOKININTHEMIRROR 🤣😂🤣😂🤣😂🤣😂🤣",0.9974,Positive,0.0,Neutral,0.2391609102487564,Neutral
-"Michael was the only singer who cared for every race and religion his life as a kid sucked because he didn't celebrate any holidays, but he never got old he was always young",-0.4001,Negative,0.0666666666666666,Neutral,-0.2053680270910263,Negative
+"Michael was the only singer who cared for every race and religion his life as a kid sucked because he didn't celebrate any holidays, but he never got old he was always young",-0.4001,Negative,0.0666666666666666,Positive,-0.2053680270910263,Negative
 Always with me😍,0.4588,Positive,0.0,Neutral,0.6219596266746521,Positive
-This song is so needed right now with whats going on in the world maybe putin should listen to this,0.0,Neutral,0.2857142857142857,Neutral,0.5245934724807739,Positive
+This song is so needed right now with whats going on in the world maybe putin should listen to this,0.0,Neutral,0.2857142857142857,Positive,0.5245934724807739,Positive
 Love this meaningful song very inspirational for my self-reflection thankful for it big time ❤️,0.9299,Positive,0.4125,Positive,0.8870022892951965,Positive
-Hopefully the people of Ukraine will now get a gist of why the U.S. =Nato is standing by and allowing them to die. They have no oil in Ukraine. It is obvious that saving people is not as important as saving a oil well. SMH,-0.7118,Negative,0.2,Neutral,-0.3706398904323578,Negative
+Hopefully the people of Ukraine will now get a gist of why the U.S. =Nato is standing by and allowing them to die. They have no oil in Ukraine. It is obvious that saving people is not as important as saving a oil well. SMH,-0.7118,Negative,0.2,Positive,-0.3706398904323578,Negative
 "Gotta listen to an MJ song to start the day,always a mood changer",0.0,Neutral,0.0,Neutral,0.4640004336833954,Positive
 We need to pay attention to his messages,-0.1027,Negative,0.0,Neutral,0.3019696474075317,Neutral
-"This footage could have been filmed just yesterday... nothing much has changed in the last 30years, unfortunately. Still, one of my favorite all time songs ever!",0.2244,Positive,0.08125,Neutral,0.5613846778869629,Positive
+"This footage could have been filmed just yesterday... nothing much has changed in the last 30years, unfortunately. Still, one of my favorite all time songs ever!",0.2244,Positive,0.08125,Positive,0.5613846778869629,Positive
 "Fiquei feliz por ver isso.
 Não sei ao certo o que significa,
 Mas me pareceu algo bom.
@@ -535,12 +535,12 @@ Thank you for singing to my country Ethiopia Love you even if your note on this 
 "the legacy Michael Jackson did with music he done it with passion we all miss u Michael ""King of Pop Jackson",0.34,Positive,0.0,Neutral,0.5761898159980774,Positive
 Life is suffering...,-0.4767,Negative,0.0,Neutral,-0.3359379470348358,Negative
 Make that change,0.0,Neutral,0.0,Neutral,0.2690087258815765,Neutral
-"What a man he was, still is and always will be! Michael Jackson was a rare gem indeed. He was a legend in his own time. All of his music are masterpieces and it's almost impossible to pick a "" best "" or a "" favorite "" but if I absolutely had to then I would pick this one, Man In The Mirror! A most beautiful, touching, almost sad  but uplifting song! I never get tired of listening to this song and it never fails to move me. But it makes me very sad over the loss of such a beautiful Human Being 💔",0.9466,Positive,0.2036458333333333,Neutral,0.6172932386398315,Positive
+"What a man he was, still is and always will be! Michael Jackson was a rare gem indeed. He was a legend in his own time. All of his music are masterpieces and it's almost impossible to pick a "" best "" or a "" favorite "" but if I absolutely had to then I would pick this one, Man In The Mirror! A most beautiful, touching, almost sad  but uplifting song! I never get tired of listening to this song and it never fails to move me. But it makes me very sad over the loss of such a beautiful Human Being 💔",0.9466,Positive,0.2036458333333333,Positive,0.6172932386398315,Positive
 A true legend is spotted at 3:19,0.4215,Positive,0.35,Positive,0.509373664855957,Positive
-Error: A girl looks in Mirror whereas a man belongs to Battlefield where death is the Mirror.. opponent ready to show you 24 7,-0.7717,Negative,0.2,Neutral,-0.4733678698539734,Negative
+Error: A girl looks in Mirror whereas a man belongs to Battlefield where death is the Mirror.. opponent ready to show you 24 7,-0.7717,Negative,0.2,Positive,-0.4733678698539734,Negative
 "The easiest songs to make are happy dance love songs. Most artist today focus on those types. What made MJ the KOP? He ventured into the deepest part of his soul to tell HIS tory. This is not a song to dance to but a song to feel his inner most pain. That's why he's the KOP. You can't dance to Man in the Mirror, Heal the World, Earth Song, or We've Had Enough because they weren't meant for dancing but thinking about something greater than Dance and greater than himself.",0.7551,Positive,0.4125,Positive,0.4303957521915436,Positive
-"No disrespect to Michael Jackson; because I have love and respect for Michael Jackson in regards to 🎵 🎵 🎵 musical joints and other 📺 TV entertainment of his that I having enjoyed to benefit by that play importance in my life; and I really do believe that the attached 🎵 musical joint listed as Man In The Mirror is an awesome 🎵 musical joint; but, I think and or believe about the 🎵 musical joint differently rather than the show attached that's put to the 🎵 musical joint that I don't like because appears to having been set up to be for political reasons for exposing and or to use to make money off persons that appear treated as unfairly, homeless or deprived of food or housing. ↗Some people in the communities of listed as state of Massachusetts, many of them that were born in another said city state or country and some people that were born in United States/Massachusetts had done to make me be homeless and to be without monies of my own due to wrongfully taken my legal money making job from me three or four times throughout the years and wrongfully take my housing and wring me by housing in other ways in including homeless shelters wronged by after few year of seeking shelter eventually put outside to have to depend on other people to give me food and money while were outside homeless setting up a tent for a few year sunny, rainy, sleet and or snow and or winddy storms sometimes the weather were below zero, I were doing by setting up a tent every evening; until some decent people came along to assist me back into housing December 2020.",0.8294,Positive,0.0906666666666666,Neutral,0.3595432639122009,Positive
-"This song always has me coming back. No insult, no slurs, no nothing, only pure music. I miss you MJ! Long live the king of pop in 2022!",0.6664,Positive,0.0776623376623376,Neutral,0.7701115608215332,Positive
+"No disrespect to Michael Jackson; because I have love and respect for Michael Jackson in regards to 🎵 🎵 🎵 musical joints and other 📺 TV entertainment of his that I having enjoyed to benefit by that play importance in my life; and I really do believe that the attached 🎵 musical joint listed as Man In The Mirror is an awesome 🎵 musical joint; but, I think and or believe about the 🎵 musical joint differently rather than the show attached that's put to the 🎵 musical joint that I don't like because appears to having been set up to be for political reasons for exposing and or to use to make money off persons that appear treated as unfairly, homeless or deprived of food or housing. ↗Some people in the communities of listed as state of Massachusetts, many of them that were born in another said city state or country and some people that were born in United States/Massachusetts had done to make me be homeless and to be without monies of my own due to wrongfully taken my legal money making job from me three or four times throughout the years and wrongfully take my housing and wring me by housing in other ways in including homeless shelters wronged by after few year of seeking shelter eventually put outside to have to depend on other people to give me food and money while were outside homeless setting up a tent for a few year sunny, rainy, sleet and or snow and or winddy storms sometimes the weather were below zero, I were doing by setting up a tent every evening; until some decent people came along to assist me back into housing December 2020.",0.8294,Positive,0.0906666666666666,Positive,0.3595432639122009,Positive
+"This song always has me coming back. No insult, no slurs, no nothing, only pure music. I miss you MJ! Long live the king of pop in 2022!",0.6664,Positive,0.0776623376623376,Positive,0.7701115608215332,Positive
 Is a legend  forever,0.0,Neutral,0.0,Neutral,0.8323351144790649,Positive
 Michael  i love you so much....and i never forget you ....you are my favorite person in my world😢,0.6971,Positive,0.5,Positive,0.9400821924209596,Positive
 "KING OF POP MICHAEL JACKSON IS FOREVER BILLION TIMES INNOCENT 👑👑👑👑👑👑👑👑👑🎩🎩🎩🎩🎩🎩🎩🎩🎩No one has ever sat on the throne of a unique artist and music king like Michael Jackson, and never will.We love you Michael Jackson,we are missing you Michael Jackson we will proud of you Michael Jackson",0.9241,Positive,0.395,Positive,0.8038811683654785,Positive
@@ -552,16 +552,16 @@ https://youtube.com/channel/UCnVCe1ErAMhh5bKjiq5Om8A",0.6808,Positive,0.4,Positi
 This has to be one of the best songs of all time,0.6369,Positive,1.0,Positive,0.9321355819702148,Positive
 The Lego Batman Movie brought me here!,0.0,Neutral,0.0,Neutral,0.6938957571983337,Positive
 Jojo reference,0.0,Neutral,0.0,Neutral,0.3828229606151581,Positive
-"He's not gone. I say that to myself whenever I cry. This is the music, this is the voice, this world needs to hear today. A human who had humanity. A human who always put others before himself. Thank you for your message Micheal, InshAllah, one day the world will change. One day all wars will end. Thank you for spreading the message of love and peace around the world. Know that, we Love you, always",0.8807,Positive,0.25,Neutral,0.6562508940696716,Positive
+"He's not gone. I say that to myself whenever I cry. This is the music, this is the voice, this world needs to hear today. A human who had humanity. A human who always put others before himself. Thank you for your message Micheal, InshAllah, one day the world will change. One day all wars will end. Thank you for spreading the message of love and peace around the world. Know that, we Love you, always",0.8807,Positive,0.25,Positive,0.6562508940696716,Positive
 "Michael Jackson's videos deserve more. His message and works should be received to more and more people all over the world.
 Heal The World Tranquility Love
 Hope tranquility of the world that Michael Jackson wished. We are family. We are one",0.9136,Positive,0.5,Positive,0.8512765169143677,Positive
 Can someone name all of these events please? x,0.3182,Positive,0.0,Neutral,-0.4801865816116333,Negative
 My favorite.RIH MJ.,0.0,Neutral,0.0,Neutral,0.90022212266922,Positive
 LO OBLIGARON A HACER ESTE VIDEO...ESTA CAÑON.,-0.4588,Negative,-0.3,Negative,0.6868487596511841,Positive
-"It's gonna feel right, I'm gonna make a difference 🔥✨",-0.0258,Neutral,0.2857142857142857,Neutral,0.3607936501502991,Positive
+"It's gonna feel right, I'm gonna make a difference 🔥✨",-0.0258,Neutral,0.2857142857142857,Positive,0.3607936501502991,Positive
 My lovely king...look what îs happen now...I am from Romania...we need You more and more ...țo change...to show the face of love and oeace🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️❤️,0.8402,Positive,0.5,Positive,0.8390718102455139,Positive
-Kinda ironic a man wants the world to be a different place when he changed a few children's life,-0.0534,Negative,0.05,Neutral,0.7300084233283997,Positive
+Kinda ironic a man wants the world to be a different place when he changed a few children's life,-0.0534,Negative,0.05,Positive,0.7300084233283997,Positive
 This song feels like I'm about to get sucked into a mirror in Italy.,-0.128,Negative,0.0,Neutral,-0.2951030433177948,Negative
 "My god, this video is brutal to watch. What a sad sad speciese we are.",-0.8481,Negative,-0.625,Negative,-0.8534054160118103,Negative
 "I'm gonna make a change
@@ -650,7 +650,7 @@ You know it
 You know it
 You know
 Change
-Make that change",0.979,Positive,0.2443349753694581,Neutral,0.3417911231517792,Positive
+Make that change",0.979,Positive,0.2443349753694581,Positive,0.3417911231517792,Positive
 It’s 2022 and I’m shocked how contemporary this video is,-0.3182,Negative,-0.2666666666666666,Negative,0.4775905609130859,Positive
 One of the best intros ever!,0.6696,Positive,1.0,Positive,0.9445247650146484,Positive
 "I love you Michael Jackson. 
@@ -659,7 +659,7 @@ Quant est que la famine en 2022 va s'arrêter en Afrique?3! La guerre en Ukraine
 Micheal Jackson Was Not one in a billion but one in lifetime,0.0,Neutral,0.0,Neutral,0.2779706716537475,Neutral
 It's been a while since I heard this song. Brings back memories...,0.0,Neutral,0.0,Neutral,0.5223786234855652,Positive
 He had hits on top of hits but this is my favorite MJ song.,0.6597,Positive,0.5,Positive,0.6523325443267822,Positive
-"I've been a victim of a selfish kind of love. It's time that I realize. That there are some with no home, without a nickel to loan. Could it be really me pretending that they're not alone? I'm sitting here with a piece of Hershey's cake, in a nice home and out of an abusive parent's grasp. I have a lot to live for, but I'm not out there making a difference for what I believe in. It's time for me to put aside my stupid problems and go out into the world and make a difference.",-0.8671,Negative,0.0826704545454545,Neutral,0.2863179445266723,Neutral
+"I've been a victim of a selfish kind of love. It's time that I realize. That there are some with no home, without a nickel to loan. Could it be really me pretending that they're not alone? I'm sitting here with a piece of Hershey's cake, in a nice home and out of an abusive parent's grasp. I have a lot to live for, but I'm not out there making a difference for what I believe in. It's time for me to put aside my stupid problems and go out into the world and make a difference.",-0.8671,Negative,0.0826704545454545,Positive,0.2863179445266723,Neutral
 Mon amour🥺❤️❤️KING OF POP FOREVER ❤️🌻❤️🌻❤️🌻🌻❤️🌻❤️🌻❤️,0.0,Neutral,0.0,Neutral,0.7555174231529236,Positive
 "We need this in 2022 , the world is shit and everyone wants to blame everyone but themselves",-0.4588,Negative,0.0,Neutral,-0.6313984990119934,Negative
 "Anna & Jeanna Hill 
@@ -669,13 +669,13 @@ Egy szabadság harcos aki a zenéjével próbált békét teremteni respect you,
 Jackson you are a genius,0.0,Neutral,0.0,Neutral,0.7467027306556702,Positive
 Seems like these artists don't exist anymore by design of the industry....80s was the last of these legends....,0.3612,Positive,0.0,Neutral,-0.4654856324195862,Negative
 2022 😍🥰🤩💚,0.9382,Positive,0.0,Neutral,0.2993581593036651,Neutral
-when i was little i had in mind one day to meet the king of pop but i was not so lucky i am satisfied with these hits that he left us,-0.0526,Negative,0.1614583333333333,Neutral,0.4632191061973572,Positive
+when i was little i had in mind one day to meet the king of pop but i was not so lucky i am satisfied with these hits that he left us,-0.0526,Negative,0.1614583333333333,Positive,0.4632191061973572,Positive
 "Why do I always cry when I watch MJ videos? Because he shows suffering and the potential to do good in this world, be the change you wanna see in this world, be strong",-0.0,Neutral,0.3777777777777777,Positive,0.4397590160369873,Positive
-"Miss the era that personal responsibilities and compassion are above all. Nowadays people just want rights, not so much duties.",0.4019,Positive,0.0666666666666666,Neutral,-0.5150966644287109,Negative
+"Miss the era that personal responsibilities and compassion are above all. Nowadays people just want rights, not so much duties.",0.4019,Positive,0.0666666666666666,Positive,-0.5150966644287109,Negative
 Ggtyhjokuhgyffguilloidfkkkgretyuujiiiuuyyhjjhfguuiyyguiiuuuuuhggyujhhyyyuuuyuyyuuuiiopoffyuiuyyyyuuiiiuyuuuyuij,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Make that Change,0.0,Neutral,0.0,Neutral,0.2690087258815765,Neutral
 "We love you, Michael. You make our lives better every day just as you did when you lived yourself.",0.7964,Positive,0.5,Positive,0.9285085797309875,Positive
-"This man was something else. He was and is still the greatest performer of all time. He always was and always will be. And for anyone who doesn't see that, and disrespects this man, someone needs to slap the hell out of you. The amount that he did for this world cannot be matched by any other human being. The reason there are so many coloured artists in the music industry, the reason the music industry is so diverse, is because of this man. He united everyone and made a change in the world. He was a superhuman. After you've seen how people react at his concerts, come and bring me another solo artist that has made people react like that. I'll wait for the day when someone can do that. The heart that MJ had was simply incredible. He cared for everyone. And the media destroyed him. Why? For money. That's all the accusations were about. And for people that don't understand that, then you don't know about Michael, so keep your mouth closed. You don't have a right to speak negatively of this man. Every single modern day artist has used small things from MJ in their own performances. Everything links back to MJ. He changed the world. He basically wasn't human. He was and is a hero that has been sent down from a place that isn't earth, because the world today, is not what it was when he was here. Everyone can say what they want, I don't care. This man ruled the world and still does. The greatest, biggest legend of all time. The king of everything, Michael Jackson. Love you Mic❤️",0.9581,Positive,0.2343370681605975,Neutral,0.6039518713951111,Positive
+"This man was something else. He was and is still the greatest performer of all time. He always was and always will be. And for anyone who doesn't see that, and disrespects this man, someone needs to slap the hell out of you. The amount that he did for this world cannot be matched by any other human being. The reason there are so many coloured artists in the music industry, the reason the music industry is so diverse, is because of this man. He united everyone and made a change in the world. He was a superhuman. After you've seen how people react at his concerts, come and bring me another solo artist that has made people react like that. I'll wait for the day when someone can do that. The heart that MJ had was simply incredible. He cared for everyone. And the media destroyed him. Why? For money. That's all the accusations were about. And for people that don't understand that, then you don't know about Michael, so keep your mouth closed. You don't have a right to speak negatively of this man. Every single modern day artist has used small things from MJ in their own performances. Everything links back to MJ. He changed the world. He basically wasn't human. He was and is a hero that has been sent down from a place that isn't earth, because the world today, is not what it was when he was here. Everyone can say what they want, I don't care. This man ruled the world and still does. The greatest, biggest legend of all time. The king of everything, Michael Jackson. Love you Mic❤️",0.9581,Positive,0.2343370681605975,Positive,0.6039518713951111,Positive
 And a beast,0.0,Neutral,0.0,Neutral,0.5068543553352356,Positive
 ❤‍🩹❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Jesus loves u guys,0.5719,Positive,0.0,Neutral,0.6683579683303833,Positive
@@ -694,7 +694,7 @@ ate quando temos que provocar sofrimentos um quanto outro,-0.4767,Negative,-0.12
 We need *CHANGE* now in the world now than ever..,0.0,Neutral,0.0,Neutral,0.7417089939117432,Positive
 """I see the kids in the street
 With not enough to eat
-Who am I, to be blind pretending not to see their needs?""   - but still to many children suffer or getting ignored😢 How many people pretending to see nothing.😞",-0.8614,Negative,0.125,Neutral,-0.2924862205982208,Negative
+Who am I, to be blind pretending not to see their needs?""   - but still to many children suffer or getting ignored😢 How many people pretending to see nothing.😞",-0.8614,Negative,0.125,Positive,-0.2924862205982208,Negative
 ❤️✊🏽,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 GRACIAS MJ,0.3612,Positive,0.0,Neutral,0.5065417289733887,Positive
 Daaaaaamn good,0.4404,Positive,0.7,Positive,0.3312708139419555,Positive
@@ -713,11 +713,11 @@ Man went from black to white like it didn't even matter.,0.3455,Positive,-0.0833
 I miss him xx.,-0.1531,Negative,0.0,Neutral,-0.3472439646720886,Negative
 #StandWithUkraine,0.0,Neutral,0.0,Neutral,-0.2797805666923523,Negative
 So is John 316,0.0,Neutral,0.0,Neutral,0.3764629662036896,Positive
-🎶 could it be? really me; pretending that they not ALONE 🎵,0.4517,Positive,0.2,Neutral,-0.3051116168498993,Negative
+🎶 could it be? really me; pretending that they not ALONE 🎵,0.4517,Positive,0.2,Positive,-0.3051116168498993,Negative
 "Michael Jackson P.Y.T. pretty young thing Remix:
 
-https://youtu.be/5io_NroUP7I",0.4939,Positive,0.175,Neutral,0.2673071920871734,Neutral
-"“Hope is such a beautiful word, but it often seems very fragile. Life is still being needlessly hurt and destroyed.” - Michael Jackson",-0.4854,Negative,0.0875,Neutral,0.3902719616889953,Positive
+https://youtu.be/5io_NroUP7I",0.4939,Positive,0.175,Positive,0.2673071920871734,Neutral
+"“Hope is such a beautiful word, but it often seems very fragile. Life is still being needlessly hurt and destroyed.” - Michael Jackson",-0.4854,Negative,0.0875,Positive,0.3902719616889953,Positive
 Damn. Love this song,0.3612,Positive,0.5,Positive,0.8278428912162781,Positive
 This song is one of the best songs in the world,0.6369,Positive,1.0,Positive,0.917815327644348,Positive
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
@@ -726,17 +726,17 @@ A melhor música do maior artista de todos os tempos!!!,0.8827,Positive,1.0,Posi
 Hi fans,0.0,Neutral,0.0,Neutral,0.293676882982254,Neutral
 This is me suzzanna on video,0.0,Neutral,0.0,Neutral,0.5725148916244507,Positive
 In videos CDs,0.0,Neutral,0.0,Neutral,0.3077948689460754,Neutral
-Want to do more acting,0.0772,Positive,0.25,Neutral,0.3882336914539337,Positive
+Want to do more acting,0.0772,Positive,0.25,Positive,0.3882336914539337,Positive
 Blessed is the one who perseveres undertail because . having stood the test .the person will receive the crown of Life that the lord has promised to those who love him,0.891,Positive,0.5,Positive,0.838141918182373,Positive
 "Came here, because of the actual war... Im so sorry, Michael. You left a message, we still don't appreciate.",-0.7751,Negative,-0.1666666666666666,Negative,-0.4064872860908508,Negative
-real artist ☮️✌🏻,0.7717,Positive,0.2,Neutral,0.6030047535896301,Positive
+real artist ☮️✌🏻,0.7717,Positive,0.2,Positive,0.6030047535896301,Positive
 The crazy thing this stuff really happened and is happening,-0.34,Negative,-0.1999999999999999,Negative,0.4827833473682403,Positive
 🙏🙏🙏😇,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Michael Jackson!,0.0,Neutral,0.0,Neutral,0.6286584138870239,Positive
 ........... omfg..Ukraine,0.0,Neutral,0.0,Neutral,-0.3504177033901214,Negative
 "love it
 😍😀",0.8658,Positive,0.5,Positive,0.8467325568199158,Positive
-"Fame, malattie, guerre, morte...se cercate un responsabile per tutto questo non c'è che da guardarsi allo specchio!",-0.8172,Negative,0.25,Neutral,-0.4740382432937622,Negative
+"Fame, malattie, guerre, morte...se cercate un responsabile per tutto questo non c'è che da guardarsi allo specchio!",-0.8172,Negative,0.25,Positive,-0.4740382432937622,Negative
 Ahmadinezhad twitted this song three years ago,0.0,Neutral,0.0,Neutral,-0.6227734684944153,Negative
 2022,0.0,Neutral,0.0,Neutral,0.2900533974170685,Neutral
 He left us the best messages that an artist can leave,0.6124,Positive,0.5,Positive,0.7332898378372192,Positive
@@ -753,7 +753,7 @@ I LOVE YOU MICHAEL JACKSON ❤️ LISTENING FOR LIFE,0.7125,Positive,0.5,Positiv
 🇺🇦👏👏👏👏♂️♀️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 10 Mitzvot Mandamientos. Proverbios 4:4.26:2.30:4.,0.0,Neutral,0.0,Neutral,-0.2540173530578613,Negative
 Thank you for this ageless song Michael…we need it in the 21st century so bad… 🙏❤️🙏,0.3612,Positive,0.0,Neutral,0.4342536628246307,Positive
-"Michael,michael!! Where are you,it s 2022 ,and music s constantly losing its soul without you these days,we miss your pure soul !",-0.6219,Negative,0.1339285714285714,Neutral,-0.517671525478363,Negative
+"Michael,michael!! Where are you,it s 2022 ,and music s constantly losing its soul without you these days,we miss your pure soul !",-0.6219,Negative,0.1339285714285714,Positive,-0.517671525478363,Negative
 Let's #MakeThatChange and Make This #1Billion4MJ #1Billion4ManInTheMirror #ManInTheMirror #MichaelJackson #BAD #133MVIEWS #MJHumanitarian 🙏❤️✌️#MJFAM,-0.6408,Negative,-0.6999999999999998,Negative,-0.4299377799034118,Negative
 heer poetin kunt u het aan als vader in 2022. stop deze oorlog nu.xxx.,-0.7798,Negative,0.0,Neutral,0.5051478743553162,Positive
 não tem como não se emocionar,-0.3907,Negative,0.0,Neutral,-0.4829987287521362,Negative
@@ -762,17 +762,17 @@ In my opinion one of the greatest songs EVER WRITTEN ! Love u mj,0.8655,Positive
 "I used to hear this song frequently when i was kid since i love the song sm <3
 
 years passed almost forgot this song exist, but gladly JoJo bring me back here... thanks araki",0.8885,Positive,0.3833333333333333,Positive,0.2994159162044525,Neutral
-Hommage à ibn sina avicennes ueshiba feu. Si il était encore là vivant. Repose en paix,0.5719,Positive,0.1,Neutral,0.4348858594894409,Positive
+Hommage à ibn sina avicennes ueshiba feu. Si il était encore là vivant. Repose en paix,0.5719,Positive,0.1,Positive,0.4348858594894409,Positive
 This song could end the war between Russia and Ukraine if someone just plays it for Putin,-0.4404,Negative,0.0,Neutral,-0.290669709444046,Negative
-All coherent men Will be seen as strange,-0.2023,Negative,0.225,Neutral,0.2897584140300751,Neutral
+All coherent men Will be seen as strange,-0.2023,Negative,0.225,Positive,0.2897584140300751,Neutral
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-"It's amazing that the people of the world are still fighting (and suffering from) the same stuff we've fought to change for ages. Always somebody that can start a war, and does. Always somebody who steals the resources of their country. Always somebody who believes they are better than everyone else. Always people who want to rule over others. Sad.",-0.8807,Negative,0.15,Neutral,0.5024828910827637,Positive
+"It's amazing that the people of the world are still fighting (and suffering from) the same stuff we've fought to change for ages. Always somebody that can start a war, and does. Always somebody who steals the resources of their country. Always somebody who believes they are better than everyone else. Always people who want to rule over others. Sad.",-0.8807,Negative,0.15,Positive,0.5024828910827637,Positive
 Freak in the mirror,-0.4404,Negative,0.0,Neutral,0.3487820029258728,Positive
 3 losowe ciekawostki: kto sprawdza czy jest Lech Wałęsa?,0.0,Neutral,-0.5,Negative,0.4065760970115661,Positive
 "If you live MJs vision for the world,  you'll have honored his memory,  and made a real change in the world. 
 And most importantly,  
 HONORED GODS COMMANDMENT, to LOVE ONE ANOTHER. 😊🥰",0.9854,Positive,0.3472727272727273,Positive,0.8032270073890686,Positive
-"Every sadness on this video is multiple by 100 . War ,death, starvation  an destruction. Humanity never learn to look in the mirror,.I'm near the grave myself.thank mJ I try to make the change.",-0.9517,Negative,0.05,Neutral,-0.5903117656707764,Negative
+"Every sadness on this video is multiple by 100 . War ,death, starvation  an destruction. Humanity never learn to look in the mirror,.I'm near the grave myself.thank mJ I try to make the change.",-0.9517,Negative,0.05,Positive,-0.5903117656707764,Negative
 Whatever alligations on him its all false.. everything made for Mj money,0.0,Neutral,-0.4000000000000001,Negative,-0.8275163173675537,Negative
 That moment they pulled baby Jessica from the well still gets me. She was all of our baby by the time it was over.,0.2732,Positive,0.0,Neutral,0.3847962617874145,Positive
 Is that a jojo reference?,0.0,Neutral,0.0,Neutral,0.3031873703002929,Neutral
@@ -790,11 +790,11 @@ I cry every time I watch thus video. I was born in 82 and loved this song then a
 i am a Filipino fan when i was a kid i got a CD of mj and dance every time i hear Mj's music playing and now i realize its more than a sound it's a undead massages,0.4767,Positive,0.45,Positive,-0.6346444487571716,Negative
 Kenapa saya selalu menangis yah denger dan lihat video dari lagu ini,-0.4767,Negative,0.0,Neutral,-0.4547657370567322,Negative
 nederlands,0.0,Neutral,0.0,Neutral,0.2928712964057922,Neutral
-Way ahead of it's time or not nothing new under the sun still apply to all times 2022,0.0,Neutral,0.1363636363636363,Neutral,0.2252337336540222,Neutral
+Way ahead of it's time or not nothing new under the sun still apply to all times 2022,0.0,Neutral,0.1363636363636363,Positive,0.2252337336540222,Neutral
 It’s 2022 and they don’t wanna change,0.0,Neutral,0.0,Neutral,-0.4181927442550659,Negative
 Only if people would listen to this,0.0,Neutral,0.0,Neutral,0.3035005629062652,Neutral
 #133MVIEWS #1Billion4MJ #1Billion4ManInTheMirror #ManInTheMirror #BAD #MichaelJackson #MJHumanitarian #MakeThatChange #MakeTheWorldABetterPlace #superhero #KINGOFPOP #GOAT #LEGEND #MJFOREVER #MagicOfMusic #GoneTooSoon #CelebrateMichaelJackson #RememberingMichaelJackson ✌️ 🙏 ❤️ ❤️❤️🌹🌻,-0.6408,Negative,-0.6999999999999998,Negative,-0.3509575426578522,Negative
-RIP Dr king and MJ..sorry the world is not what we all wish..we. have a war right now in 2022..Amen to go away..,-0.5994,Negative,0.2857142857142857,Neutral,-0.8185096979141235,Negative
+RIP Dr king and MJ..sorry the world is not what we all wish..we. have a war right now in 2022..Amen to go away..,-0.5994,Negative,0.2857142857142857,Positive,-0.8185096979141235,Negative
 "......
 
 
@@ -831,14 +831,14 @@ We need this song more than ever,0.0,Neutral,0.5,Positive,0.7868040800094604,Pos
 "I wonder about the people in this video. Where are they now, 3 decades later? 🥲",0.0,Neutral,0.0,Neutral,0.2587217390537262,Neutral
 2022 and Micheal words still carry on,0.0,Neutral,0.0,Neutral,0.3731814920902252,Positive
 So much hate and evil in this world but our Lord Jesus Christ is gonna take care of all that and I will gladly fight by his side with my life .,-0.0488,Neutral,-0.4333333333333333,Negative,0.6494444608688354,Positive
-"who's listening in early 2022 still celebrating #mj50 anniversary from 2021 ? (for mj50 compilation / history gold edition,check out my work/playlist)",0.5719,Positive,0.1,Neutral,0.2751286923885345,Neutral
+"who's listening in early 2022 still celebrating #mj50 anniversary from 2021 ? (for mj50 compilation / history gold edition,check out my work/playlist)",0.5719,Positive,0.1,Positive,0.2751286923885345,Neutral
 My favorite song 🔥❤,0.7003,Positive,0.5,Positive,0.9120352268218994,Positive
 Perfect 🔥🔥,-0.0258,Neutral,1.0,Positive,0.8609878420829773,Positive
 Rip Michael Jackson,0.0,Neutral,0.0,Neutral,-0.4554961919784546,Negative
 Michael will always live on in the  hearts and  thoughts of all those who loved him and his music,0.8481,Positive,0.4181818181818181,Positive,0.7490763068199158,Positive
 Bad!,-0.5848,Negative,-0.8749999999999998,Negative,-0.7703987956047058,Negative
 "With all the millions of dollars raised over how many decades and given to African poor people. The country will never change. One corrupt country. People always have kids knowing they can't feed them, it will never change",-0.4767,Negative,-0.1,Negative,-0.5976603627204895,Negative
-Can we get this blasted out some loud speakers from somewhere lol,0.4215,Positive,0.1,Neutral,-0.4273634254932403,Negative
+Can we get this blasted out some loud speakers from somewhere lol,0.4215,Positive,0.1,Positive,-0.4273634254932403,Negative
 "o7 Love you Michael! LEGEND!~
 so fortunate to see you live when you came by my country for your World Tour years ago when i was a kid.",0.8599,Positive,0.4392045454545454,Positive,0.931735336780548,Positive
 Nada mudou,0.0,Neutral,0.0,Neutral,-0.4797075092792511,Negative
@@ -952,14 +952,14 @@ You know it
 You know it
 You know
 Change
-Make that change",0.979,Positive,0.2443349753694581,Neutral,0.3417911231517792,Positive
+Make that change",0.979,Positive,0.2443349753694581,Positive,0.3417911231517792,Positive
 Te amo Michael ☹❤,0.7906,Positive,0.5,Positive,0.4098760187625885,Positive
 Danke 🍀,0.3612,Positive,0.0,Neutral,0.4505192041397095,Positive
 Hard one haven't got too yet,-0.1027,Negative,-0.2916666666666667,Negative,0.3364574909210205,Positive
 How about this one,0.0,Neutral,0.0,Neutral,0.4508891999721527,Positive
 "If everyone took this and many of his other songs to heart there wouldn’t be any hate crimes, war and injustice.",-0.7964,Negative,-0.1416666666666667,Negative,-0.2841979563236236,Negative
-Seni yasatir mi bu kâfirler. Mekanın cennet olsun kral... Allah CC hatalarımız affeder cennetin mirasçıları eyler rızası ile ..,0.8271,Positive,0.1363636363636363,Neutral,0.5450494885444641,Positive
-Now I really understand what he sings.,0.0,Neutral,0.2,Neutral,0.6188693046569824,Positive
+Seni yasatir mi bu kâfirler. Mekanın cennet olsun kral... Allah CC hatalarımız affeder cennetin mirasçıları eyler rızası ile ..,0.8271,Positive,0.1363636363636363,Positive,0.5450494885444641,Positive
+Now I really understand what he sings.,0.0,Neutral,0.2,Positive,0.6188693046569824,Positive
 1:07 Lechu co ty tu robisz,0.0,Neutral,0.0,Neutral,0.3444636166095733,Positive
 Lech Wałęsa PogChamp,0.0,Neutral,0.0,Neutral,0.3262884318828583,Neutral
 MJ was the cure/messager to flaws of Humanity.....🤔🤔🤔💜💜💜💜💜,0.9719,Positive,0.0,Neutral,0.3774817585945129,Positive
@@ -1070,16 +1070,16 @@ You know it
 You know it
 You know
 Change
-Make that change",0.979,Positive,0.2443349753694581,Neutral,0.3417911231517792,Positive
+Make that change",0.979,Positive,0.2443349753694581,Positive,0.3417911231517792,Positive
 true respect to this legendary man my people he brang some sort of peace to the 🌎🌎🗺🌏,0.8445,Positive,0.675,Positive,0.8636729121208191,Positive
 1:08,0.0,Neutral,0.0,Neutral,-0.2574312388896942,Negative
 4 ever Michael,0.0,Neutral,0.0,Neutral,0.748572826385498,Positive
 Ucrania,0.0,Neutral,0.0,Neutral,0.2824492752552032,Neutral
 "LOVE you like a brother, forever and ever xoxoxox",0.8143,Positive,0.5,Positive,0.8380821943283081,Positive
 "1:08 it's Lech Wałęsa! Polish politician, co-founder of NSZZ Solidarność (Solidarity). Were it not for him, even after 1989 we would have been under the rule of the Soviet Union",0.3595,Positive,0.0,Neutral,-0.3696496486663818,Negative
-Can we all agree mother Teresa wasn't a great person? She literally ran asylums where they would tie kids with mental disabilities to beds for so long their bodies would atrophy. She tortured a lot of poor souls in the name of her god.,-0.7502,Negative,0.0625,Neutral,-0.5883476138114929,Negative
+Can we all agree mother Teresa wasn't a great person? She literally ran asylums where they would tie kids with mental disabilities to beds for so long their bodies would atrophy. She tortured a lot of poor souls in the name of her god.,-0.7502,Negative,0.0625,Positive,-0.5883476138114929,Negative
 ho tum Michael Jackson,0.0,Neutral,0.0,Neutral,0.3519843220710754,Positive
-"Русские просыпаются. Эта война не имеет смысла. Ваш враг не украинская нация и не западный мир. Ваш враг это жадный до власти жадный до власти Путин и его продажное окружение. В Украине идут самые ожесточенные бои со времен окончания Второй мировой войны. Проводятся акты геноцида. Недавно в Мариуполе разбомбили театр. Погибло более 1000 мирных жителей. Женщины, дети и старики. Протестуйте или бегите из страны вместо того, чтобы отправлять своих парней на эту бессмысленную войну.",-0.9849,Negative,0.0111111111111111,Neutral,-0.711663544178009,Negative
+"Русские просыпаются. Эта война не имеет смысла. Ваш враг не украинская нация и не западный мир. Ваш враг это жадный до власти жадный до власти Путин и его продажное окружение. В Украине идут самые ожесточенные бои со времен окончания Второй мировой войны. Проводятся акты геноцида. Недавно в Мариуполе разбомбили театр. Погибло более 1000 мирных жителей. Женщины, дети и старики. Протестуйте или бегите из страны вместо того, чтобы отправлять своих парней на эту бессмысленную войну.",-0.9849,Negative,0.0111111111111111,Positive,-0.711663544178009,Negative
 Widzę że Lech nawet tu się Wałęsa,0.0,Neutral,0.0,Neutral,-0.2410747110843658,Negative
 Let Putin hear this song,0.0,Neutral,0.0,Neutral,0.3827816247940063,Positive
 I watched turning red and I realize how much the movie has in common with this song,0.0,Neutral,-0.0333333333333333,Negative,0.4608378708362579,Positive
@@ -1092,7 +1092,7 @@ O Michael Jackson era foda!,0.6588,Positive,1.0,Positive,0.4035744369029999,Posi
 We need this song now more than ever! 2022 is a terrible year for the world! Let us UNITE AND MAKE A CHANGE!,-0.6093,Negative,-0.1875,Negative,0.8686906695365906,Positive
 And now again we still got War 💔,-0.4215,Negative,0.0,Neutral,0.4935213327407837,Positive
 💯🙏🙏😥😓🥺🥺😭,-0.7579,Negative,0.0,Neutral,0.3085779249668121,Neutral
-The entire world needs love and healing😘,0.7906,Positive,0.25,Neutral,0.6695338487625122,Positive
+The entire world needs love and healing😘,0.7906,Positive,0.25,Positive,0.6695338487625122,Positive
 https://youtu.be/n6JOXOcEn04,0.0,Neutral,0.0,Neutral,-0.2527457475662231,Negative
 i wonder does vladimir putin know this song,0.0,Neutral,0.0,Neutral,-0.2619032561779022,Negative
 It's been awhile since we've had someone that stood up with a voice like a few that took their own life to make a change. Sad it happens that way😢😢😢,-0.872,Negative,-0.0333333333333333,Negative,0.2927061915397644,Neutral
@@ -1111,15 +1111,15 @@ Here in 2022,0.0,Neutral,0.0,Neutral,0.4284941554069519,Positive
 ❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 kto jest tutaj przech Lecha Wałęsę XD,0.6739,Positive,0.0,Neutral,0.3320232927799225,Positive
 1:07,0.0,Neutral,0.0,Neutral,0.2215935140848159,Neutral
-"I heard this song while watching Michael Jackson ONE in Vegas. The holographic projection of Jackson looked quite realistic (but I was sitting pretty far away in the middle, so maybe these in the front row could tell that it's fake).",0.0387,Neutral,0.0033333333333333,Neutral,-0.3090837001800537,Negative
+"I heard this song while watching Michael Jackson ONE in Vegas. The holographic projection of Jackson looked quite realistic (but I was sitting pretty far away in the middle, so maybe these in the front row could tell that it's fake).",0.0387,Neutral,0.0033333333333333,Positive,-0.3090837001800537,Negative
 We need to stop doing bad stuff 😞,-0.8316,Negative,-0.6999999999999998,Negative,-0.3344384431838989,Negative
-"this song gave me a shock! back in 2000 i first watched it, i was only 4 years old, and i always sang this song with my mum, but she passed:( but this song really made me change:)",-0.2714,Negative,0.0428571428571428,Neutral,0.6309295892715454,Positive
+"this song gave me a shock! back in 2000 i first watched it, i was only 4 years old, and i always sang this song with my mum, but she passed:( but this song really made me change:)",-0.2714,Negative,0.0428571428571428,Positive,0.6309295892715454,Positive
 I jeszcze Wałęsa do tego 😆,0.3612,Positive,0.0,Neutral,0.3010933995246887,Neutral
 From Russia with love ❤️,0.6369,Positive,0.5,Positive,0.6647941470146179,Positive
 This reminds me of the Biafra war and the current situation in Ukraine,-0.5994,Negative,0.0,Neutral,0.4950127005577087,Positive
 1:07 Lech Wałęsa 🇵🇱,0.0,Neutral,0.0,Neutral,-0.3105101883411407,Negative
 "Love Glasgow Celtic ❤  hate racism, smash fascism.",0.1531,Positive,-0.15,Negative,0.5109469890594482,Positive
-My go to 🙏 especially in moments of the world 🌎 such as now ! Heal the world 🗺 make it a better place 🥲,0.4926,Positive,0.1666666666666666,Neutral,0.6998865604400635,Positive
+My go to 🙏 especially in moments of the world 🌎 such as now ! Heal the world 🗺 make it a better place 🥲,0.4926,Positive,0.1666666666666666,Positive,0.6998865604400635,Positive
 Siema kto z ciekawostek u Ukisa?,0.0,Neutral,0.0,Neutral,0.3056254386901855,Neutral
 wałęsa w teledysku u jacksona,0.0,Neutral,0.0,Neutral,0.3265868127346039,Neutral
 Stop War pls😩,-0.7845,Negative,0.0,Neutral,-0.4924060702323913,Negative
@@ -1128,7 +1128,7 @@ mind ur own business,0.0,Neutral,0.6,Positive,0.4701316058635711,Positive
 I see our( India) Father of nation Mahatma Gandhi. It feels me very good.,0.4927,Positive,0.91,Positive,0.5493797659873962,Positive
 Where the Jojo comments?,0.0,Neutral,0.0,Neutral,-0.2965978980064392,Negative
 Me I wish,0.4019,Positive,0.0,Neutral,0.390044629573822,Positive
-He would be so ashamed to see that USA has got worse than ever.Every war or every conflict is caused by them.I’m heartbroken.Wish your people would have defend your beautiful soul instead they destroyed you!Rest in peace!,-0.865,Negative,0.3,Neutral,-0.4911774694919586,Negative
+He would be so ashamed to see that USA has got worse than ever.Every war or every conflict is caused by them.I’m heartbroken.Wish your people would have defend your beautiful soul instead they destroyed you!Rest in peace!,-0.865,Negative,0.3,Positive,-0.4911774694919586,Negative
 Stop the war,-0.7269,Negative,0.0,Neutral,0.3455357551574707,Positive
 "The song that lifted me up from despair and self-loathing.   
 Michael Jackson became a light in his life and went to heaven.",0.25,Positive,0.4,Positive,0.7428255677223206,Positive
@@ -1143,18 +1143,18 @@ WE NEED PEACE☮️,0.8286,Positive,0.0,Neutral,0.5049786567687988,Positive
 2:24 korea 1987,0.0,Neutral,0.0,Neutral,0.2510039806365967,Neutral
 Michael Jackson will always  . we    love you,0.6369,Positive,0.5,Positive,0.8646625280380249,Positive
 "Monday, 14 March 2022, hey future 👁️👄👁️🐯🇲🇾",0.0,Neutral,0.0,Neutral,0.2889352440834045,Neutral
-"I only found out about Michael Jackson the day he died. I was 9 years old in 2009. To think I shared this world at the same time as this legend, without even knowing it, is heartbreaking 🥲",-0.6369,Negative,0.0333333333333333,Neutral,0.7059358358383179,Positive
+"I only found out about Michael Jackson the day he died. I was 9 years old in 2009. To think I shared this world at the same time as this legend, without even knowing it, is heartbreaking 🥲",-0.6369,Negative,0.0333333333333333,Positive,0.7059358358383179,Positive
 Freaking  brilliant!,0.3164,Positive,1.0,Positive,0.8892770409584045,Positive
-Anyone else see the thumbnail and think Martin Luther had covered this masterpiece for a split second haha,0.8349,Positive,0.1,Neutral,-0.3915717601776123,Negative
-I Find myself and others coming back to this because of the powerful message,0.4215,Positive,0.15,Neutral,0.4629144668579101,Positive
+Anyone else see the thumbnail and think Martin Luther had covered this masterpiece for a split second haha,0.8349,Positive,0.1,Positive,-0.3915717601776123,Negative
+I Find myself and others coming back to this because of the powerful message,0.4215,Positive,0.15,Positive,0.4629144668579101,Positive
 Requesting this song for Putin learn from it 🇹🇹🇹🇹🇬🇧🇬🇧👁️🙏,0.0,Neutral,0.0,Neutral,-0.379361093044281,Negative
 Vibe,0.0,Neutral,0.0,Neutral,0.4080430269241333,Positive
 "Timeless, what a LEGEND he is...",0.0,Neutral,0.0,Neutral,0.7768722772598267,Positive
 "Hello Michael Jackson  soy
 Tu fan 1",0.3182,Positive,0.0,Neutral,0.7571495771408081,Positive
-"A Message for Mr Putin..I'm starting with the man in the mirror, I’m asking you to change your ways, And no message could've been any clearer, If you wanna make the world a better place, Take a look at yourself and then make a change..Go ahead Sir..Please make that change..",0.1779,Positive,0.25,Neutral,-0.4783171713352203,Negative
-Open our heart and love one another get rid of the evil and darkness love and light push it out forever and once the light is in forever we will be so happy qnd live in happiness no more pain no more dying no more suffering no more money issues no one more problem all love and unity Jesus qnd God and all the animals and our familys we lost are back and we live in beauty and paradise so much to say so much to come,0.9704,Positive,0.1564593301435407,Neutral,0.9453776478767396,Positive
-All his music is telling us how to find our true inner God self,0.5994,Positive,0.175,Neutral,0.6379011273384094,Positive
+"A Message for Mr Putin..I'm starting with the man in the mirror, I’m asking you to change your ways, And no message could've been any clearer, If you wanna make the world a better place, Take a look at yourself and then make a change..Go ahead Sir..Please make that change..",0.1779,Positive,0.25,Positive,-0.4783171713352203,Negative
+Open our heart and love one another get rid of the evil and darkness love and light push it out forever and once the light is in forever we will be so happy qnd live in happiness no more pain no more dying no more suffering no more money issues no one more problem all love and unity Jesus qnd God and all the animals and our familys we lost are back and we live in beauty and paradise so much to say so much to come,0.9704,Positive,0.1564593301435407,Positive,0.9453776478767396,Positive
+All his music is telling us how to find our true inner God self,0.5994,Positive,0.175,Positive,0.6379011273384094,Positive
 I wish he was here and yes I wish I could have meditated in one of his concerts and we need him here now,0.7964,Positive,0.0,Neutral,0.4208347201347351,Positive
 "Only person who cares 
 
@@ -1167,7 +1167,7 @@ Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 This makes my fro shiver.,0.0,Neutral,0.0,Neutral,0.5117623209953308,Positive
 "Who really ""KNOW""him??!!!",0.0,Neutral,0.390625,Positive,-0.4490928947925567,Negative
 "This is my first time  seeing the MV of this song, and I cried by balls out. 
-Michael Jackson will indeed be a legend forever.♥️",0.3818,Positive,0.25,Neutral,0.5201996564865112,Positive
+Michael Jackson will indeed be a legend forever.♥️",0.3818,Positive,0.25,Positive,0.5201996564865112,Positive
 😭😭🖤🖤,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love yuo frever Super good night love yuo super good Time love yuo frever beuatiful super super,0.9882,Positive,0.4703703703703704,Positive,0.8276488184928894,Positive
 "The thick event informally dust because plate equally heat of a questionable wool. incandescent, legal buffer",-0.1779,Negative,-0.15,Negative,-0.4231471419334411,Negative
@@ -1192,11 +1192,11 @@ That man died with nobody understanding him he was no monster just misunderstood
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 The anthem for part in EU atm 🤔🤔,0.0,Neutral,0.0,Neutral,0.5619107484817505,Positive
 If Michael  could see the world today,0.0,Neutral,0.0,Neutral,0.2769321203231811,Neutral
-Mj is what you call Beautiful But other shit people couldn't except it!,-0.5778,Negative,0.1583333333333333,Neutral,0.288612812757492,Neutral
+Mj is what you call Beautiful But other shit people couldn't except it!,-0.5778,Negative,0.1583333333333333,Positive,0.288612812757492,Neutral
 Dedicated to the people of Ukraine...stay strong...we support you all....,0.6908,Positive,0.0,Neutral,0.6876903772354126,Positive
 "I am actually in this video because I was at the very first Farm Aid concert, which is featured in this video. You have no idea how much that means to me!!
 
-RIP Michael Jackson. 🥰 You are very much missed!! 😥",0.6905,Positive,0.2609375,Neutral,-0.6151095628738403,Negative
+RIP Michael Jackson. 🥰 You are very much missed!! 😥",0.6905,Positive,0.2609375,Positive,-0.6151095628738403,Negative
 Putin listen to this music. Look at your selves.,0.0,Neutral,0.0,Neutral,0.694981038570404,Positive
 PACE RAGAZZI. PACEEEEE.PERFAVORE,0.5423,Positive,0.0,Neutral,0.4836687743663788,Positive
 "Sorry Michael Jackson you and few people like you tried to change the world but world is opposed to change, Russia Ukraine war in 2022 is pure eg why the world is going to remain mentally sick forever, sorry Michael Jackson your efforts got wasted long live my legend you were one of the purest soul on earth world had experienced, but I will never forget what you tried to teach the world humanity, peace, liberty and love you weren't just a king of pop but a messenger sent by God to preach the world the value of equality liberty and humanity.",0.9267,Positive,-0.0513636363636363,Negative,-0.7086247205734253,Negative
@@ -1215,13 +1215,13 @@ Dude can create one hell of a song.,-0.5423,Negative,0.0,Neutral,-0.520495951175
 Un hombre  que  hizo  la diferencia sin esperar  nada a cambio 👏,0.0,Neutral,0.0,Neutral,0.5021252632141113,Positive
 If he knew that USA was in most of the cause for problems in the world.,-0.4019,Negative,0.5,Positive,-0.3203418552875519,Negative
 Callister Ukraine is the Man in the Mirror,0.0,Neutral,0.0,Neutral,0.3680442869663238,Positive
-This song is a classic and very motivational and the video is touching and heartfelt and even years later the 🌎 world is still dealing with the same social cultural and economic issues for all color people RIP MICHAEL JACKSON 💯✌🏿👍,0.7717,Positive,0.1333333333333333,Neutral,0.6189929246902466,Positive
-This song hits hard rip micheal love you,0.5859,Positive,0.1041666666666666,Neutral,0.6622305512428284,Positive
+This song is a classic and very motivational and the video is touching and heartfelt and even years later the 🌎 world is still dealing with the same social cultural and economic issues for all color people RIP MICHAEL JACKSON 💯✌🏿👍,0.7717,Positive,0.1333333333333333,Positive,0.6189929246902466,Positive
+This song hits hard rip micheal love you,0.5859,Positive,0.1041666666666666,Positive,0.6622305512428284,Positive
 "Stay strong world 
 We don’t have to fight 
 All we need is peace and humanity 
 I hope the war stop 🛑 in Ukraine 🇺🇦 and everywhere in earth 🌎 all we need is peace there are plenty of opportunities for everyone 
-Please 🙏 no more war let us pray 🙏 for peace",0.9353,Positive,0.0916666666666666,Neutral,0.825096070766449,Positive
+Please 🙏 no more war let us pray 🙏 for peace",0.9353,Positive,0.0916666666666666,Positive,0.825096070766449,Positive
 It's Dr. King Dr Luther Martin Jr,0.0,Neutral,0.0,Neutral,0.3388683795928955,Positive
 Praying for Ukrania,0.3612,Positive,0.0,Neutral,0.4354190230369568,Positive
 I really love the lyrics to this song its strong and powerful and touching xxx,0.8908,Positive,0.4333333333333333,Positive,0.7615674734115601,Positive
@@ -1245,7 +1245,7 @@ It's ONLY JESUS that can change us, which will then cause US to change the world
 
 Peace, love & goodness can ONLY be found in JESUS CHRIST. 
 
-Religion & man-made government can't change the world, ONLY JESUS CAN. But it's up to you to accept it.",0.8294,Positive,0.046875,Neutral,0.4324252009391784,Positive
+Religion & man-made government can't change the world, ONLY JESUS CAN. But it's up to you to accept it.",0.8294,Positive,0.046875,Positive,0.4324252009391784,Positive
 Is this a jojo reference?,0.0,Neutral,0.0,Neutral,0.2929778397083282,Neutral
 Peace please,0.7003,Positive,0.0,Neutral,0.4893085658550262,Positive
 🙏🙏🙏,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -1263,12 +1263,12 @@ Always loved and respected,0.7906,Positive,0.7,Positive,0.8513847589492798,Posit
 The song gave me joy,0.5859,Positive,0.8,Positive,0.4898293614387512,Positive
 Luvely,0.0,Neutral,0.0,Neutral,0.3132328391075134,Neutral
 That’s the point here,0.0,Neutral,0.0,Neutral,0.2417330890893936,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Can we please I mean please go back to this kind of music!!,0.6351,Positive,0.2083333333333333,Neutral,-0.3751550912857055,Negative
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Can we please I mean please go back to this kind of music!!,0.6351,Positive,0.2083333333333333,Positive,-0.3751550912857055,Negative
 Who's listening this music in 2022,0.0,Neutral,0.0,Neutral,0.5141309499740601,Positive
 "If you’re wasting this in 2021, ur a legend to 😍",0.0772,Positive,0.0,Neutral,0.3680128157138824,Positive
 I can't believe someone would even try to compare MJ with these ass singers/rappers.,-0.5423,Negative,0.0,Neutral,-0.3911357820034027,Negative
-"It ain't gonna change!, ain't the human race proved it for such a long time, get real",0.0,Neutral,0.0375,Neutral,0.3020012676715851,Neutral
+"It ain't gonna change!, ain't the human race proved it for such a long time, get real",0.0,Neutral,0.0375,Positive,0.3020012676715851,Neutral
 As a homeless girl I definitely want to keep my head held high. I’m in a homeless shelter and I want to work and work to get on my feet again. I can’t let fear get the best of me anymore. When I look in the mirror I tell myself to be strong and ball my hand into a fist knowing I won’t give up. Somebody has to be that FIST!!! Never give up! ✊✊✊✊✊✊ #change #hope #fist #nevergiveup,0.942,Positive,0.54,Positive,0.4508874118328094,Positive
 "My battery: 1%
 Me: turns on this song*

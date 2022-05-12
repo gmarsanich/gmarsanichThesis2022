@@ -2,33 +2,33 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 badass song,0.34,Positive,0.0,Neutral,0.3532699644565582,Positive
 @evolve i am from soul society,0.0,Neutral,0.0,Neutral,0.6223416328430176,Positive
 I love this song so much 🥰🥰🥰🥰😍😍😍😌,0.9929,Positive,0.35,Positive,0.8893097639083862,Positive
-When you are listening to this 2022 with fake COVID -  19 things you are a actual legend <3,-0.0516,Negative,0.1666666666666666,Neutral,-0.4024710357189178,Negative
+When you are listening to this 2022 with fake COVID -  19 things you are a actual legend <3,-0.0516,Negative,0.1666666666666666,Positive,-0.4024710357189178,Negative
 I want a horse 🐎 😫,-0.3818,Negative,0.0,Neutral,0.402397096157074,Positive
 "I'm gonna take my hoes to the hotel room, I'm gonna ride 'til I can't no more😭",-0.3591,Negative,0.0,Neutral,0.2503843307495117,Neutral
 BEST SONG SONG EVER,0.6369,Positive,1.0,Positive,0.9434181451797484,Positive
 Thanks this is my favorite songs 😻😻💞💞💞💞,0.9836,Positive,0.35,Positive,0.8881988525390625,Positive
 """i'am gonna take my horse to the Indian road""",0.0,Neutral,0.0,Neutral,-0.2179599106311798,Negative
 One of the best songs I've heard😩💖😭👑,0.7506,Positive,1.0,Positive,0.9210242629051208,Positive
-hat down town livin' like a rock star spent a lot of money on my new guitar....... this excerpt is popular on tik tok,0.6486,Positive,0.1202020202020201,Neutral,0.5562410354614258,Positive
+hat down town livin' like a rock star spent a lot of money on my new guitar....... this excerpt is popular on tik tok,0.6486,Positive,0.1202020202020201,Positive,0.5562410354614258,Positive
 love  the  song 🤠🤠🤠🤠🤠🍹,0.6369,Positive,0.5,Positive,0.7003944516181946,Positive
 good with headphones trust me,0.7351,Positive,0.7,Positive,0.4554075896739959,Positive
-I sing it in super smash bros ultimate,0.5994,Positive,0.1666666666666666,Neutral,0.6794349551200867,Positive
+I sing it in super smash bros ultimate,0.5994,Positive,0.1666666666666666,Positive,0.6794349551200867,Positive
 2020 or 2019 vibes,0.0,Neutral,0.0,Neutral,0.2834478914737701,Neutral
 if you lestening to this in 2022 be my friend,0.4939,Positive,0.0,Neutral,0.3433494567871094,Positive
-Masterpiece never get old (April 2022)🔥🔥🔥,-0.2732,Negative,0.1,Neutral,0.8674854040145874,Positive
+Masterpiece never get old (April 2022)🔥🔥🔥,-0.2732,Negative,0.1,Positive,0.8674854040145874,Positive
 Hits another level when Lil Nas kicks in 💯🥵,0.0,Neutral,0.0,Neutral,0.2722725868225097,Neutral
 Dis is the best song i even made an animation with this song,0.6369,Positive,1.0,Positive,0.8694816827774048,Positive
 Its 2022 and i still jam to this legendary song,0.0,Neutral,1.0,Positive,0.7589381337165833,Positive
 Remember when billy ray had to be put on this song because it was too black ?,0.0,Neutral,-0.1666666666666666,Negative,-0.3037501573562622,Negative
 Did billy ray and lil nas break up.,0.0,Neutral,0.0,Neutral,0.264505922794342,Neutral
-Yeah I'm gonna take my horse to the old town road .,0.296,Positive,0.1,Neutral,-0.2683424055576324,Negative
+Yeah I'm gonna take my horse to the old town road .,0.296,Positive,0.1,Positive,-0.2683424055576324,Negative
 USA,0.0,Neutral,0.0,Neutral,0.2447315901517868,Neutral
 "To the people who commented 2 years before, This line: Hat down, Cross Town, living like a rockstar, spend alota money on my brand new guitar",0.3612,Positive,-0.0063973063973064,Negative,-0.4112354516983032,Negative
-This really really reminds me of the 2019 days.,0.0,Neutral,0.2,Neutral,0.7302478551864624,Positive
+This really really reminds me of the 2019 days.,0.0,Neutral,0.2,Positive,0.7302478551864624,Positive
 The Good old days....,0.4404,Positive,0.3999999999999999,Positive,0.4010534584522247,Positive
 2017 vibes ❤️✨,0.3182,Positive,0.0,Neutral,0.4203883707523346,Positive
 🔥🔥never realized how good this is,0.128,Positive,0.7,Positive,0.6609908938407898,Positive
-TO THE OLD TOWN,0.0,Neutral,0.1,Neutral,0.4252539873123169,Positive
+TO THE OLD TOWN,0.0,Neutral,0.1,Positive,0.4252539873123169,Positive
 Balkan?Anyone,0.0,Neutral,0.0,Neutral,-0.5265017151832581,Negative
 1:35 listen😃,0.3612,Positive,0.0,Neutral,-0.2463576793670654,Negative
 Go to 1:23 its the most popular part,0.4754,Positive,0.55,Positive,0.3095026016235351,Neutral
@@ -36,7 +36,7 @@ Go to 1:23 its the most popular part,0.4754,Positive,0.55,Positive,0.30950260162
 uwulmbnvkvciof🏳‍⚧🏳‍⚧🏳‍⚧🏳‍⚧🏳‍⚧🏳‍⚧🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍🌈🏳‍⚧🏳‍⚧🏳‍⚧🏳‍🌈🏳‍⚧🏳‍⚧🏳‍🌈🏳‍🌈🏳‍🌈🏳‍⚧🏳‍⚧🏳‍🌈🔹🔹🔺🔺🔺🔺🔺🏳‍🌈🏳‍🌈🏳‍🌈🏳‍⚧🏳‍⚧🏳‍🌈🏳‍🌈🏳‍⚧🏳‍⚧🏳‍⚧🏳‍⚧🏳‍⚧🏳‍🌈🏳‍🌈🏳‍🌈,0.5859,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love this so much and I LOVE horses AND I listen to this every morning 🌄 💗,0.9436,Positive,0.3999999999999999,Positive,0.9308135509490968,Positive
 I accidentally click this song and this was my best accident!!!,-0.2905,Negative,1.0,Positive,-0.8315992951393127,Negative
-Evloe we not saying where we live or where we come from,0.0,Neutral,0.1363636363636363,Neutral,-0.3968000113964081,Negative
+Evloe we not saying where we live or where we come from,0.0,Neutral,0.1363636363636363,Positive,-0.3968000113964081,Negative
 Ahhhh the good old days of everyone singing this at school,0.4404,Positive,0.3999999999999999,Positive,0.2745066583156585,Neutral
 I remember when everyone was singing this,0.0,Neutral,0.0,Neutral,0.4109033346176147,Positive
 If ur watching this in 2022 ur a Legend,0.0,Neutral,0.0,Neutral,-0.2786065936088562,Negative
@@ -49,7 +49,7 @@ John 3:3
 Matthew 7:21",0.0,Neutral,0.0,Neutral,0.2514375746250152,Neutral
 If some one is here from 2022 listing the music leave a 👍🏻❤️,-0.0516,Negative,0.0,Neutral,-0.4252141714096069,Negative
 Bad,-0.5423,Negative,-0.6999999999999998,Negative,-0.6820114850997925,Negative
-Really I looked for this song long time ago,0.0,Neutral,0.075,Neutral,0.6213415861129761,Positive
+Really I looked for this song long time ago,0.0,Neutral,0.075,Positive,0.6213415861129761,Positive
 The oof remix is even better,0.4404,Positive,0.5,Positive,0.2598471641540527,Neutral
 Lil nas x saying rasies words and he is that colour,0.0,Neutral,0.0,Neutral,-0.359398603439331,Negative
 The armys this song reminds you of nothing 💜💜 with the members of BTS (Jimin's voice was doing the autotune and for once he managed not to fall out of his chair 😂😂),0.7672,Positive,0.0,Neutral,-0.3181019127368927,Negative
@@ -81,7 +81,7 @@ Hiii,0.0,Neutral,0.0,Neutral,0.279375672340393,Neutral
 Oms. It’s already 2 yrs?,0.0,Neutral,0.0,Neutral,-0.3591563403606415,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 y’all can’t lie tho. this song was and will always be a bop,0.0,Neutral,0.0,Neutral,0.5947383046150208,Positive
-Damn straight lil nas X is freaky,-0.5106,Negative,0.2,Neutral,-0.3903857469558716,Negative
+Damn straight lil nas X is freaky,-0.5106,Negative,0.2,Positive,-0.3903857469558716,Negative
 i from Viet Nam,0.0,Neutral,0.0,Neutral,-0.2185259014368057,Negative
 Any time we had children's day in school we would listen to this song 🤣,0.4939,Positive,0.0,Neutral,0.4386551082134247,Positive
 I remember when this was popular,0.4215,Positive,0.6,Positive,0.317257821559906,Neutral
@@ -106,11 +106,11 @@ This guy basically went from riding on horses and tractors to riding Satan...bef
 Anyone here în 2022?? 💕,0.0,Neutral,0.0,Neutral,-0.7086577415466309,Negative
 How many people have sene this in 2022,0.0,Neutral,0.5,Positive,-0.5130304098129272,Negative
 Me starting up red dead,-0.6486,Negative,-0.0666666666666666,Negative,-0.5104547142982483,Negative
-This  song makes me remember my friends  in estaoc elementary  I remember my friends.,0.7351,Positive,0.3,Neutral,0.6417056322097778,Positive
+This  song makes me remember my friends  in estaoc elementary  I remember my friends.,0.7351,Positive,0.3,Positive,0.6417056322097778,Positive
 Listening n' 2022!,0.0,Neutral,0.0,Neutral,-0.3258125483989715,Negative
 Canción quemada,0.0,Neutral,0.0,Neutral,-0.7046322822570801,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
-It was sound loud the karen next door came over and listened 😂😂😂,0.8271,Positive,0.1666666666666666,Neutral,-0.3757149875164032,Negative
+It was sound loud the karen next door came over and listened 😂😂😂,0.8271,Positive,0.1666666666666666,Positive,-0.3757149875164032,Negative
 This hits different on Subs,0.0,Neutral,0.0,Neutral,0.2656871080398559,Neutral
 This song is not song it energy drink for me who is agree with me,0.1744,Positive,0.0,Neutral,-0.641471266746521,Negative
 Its god know not got no stress,0.0295,Neutral,0.0,Neutral,0.3539645969867706,Positive
@@ -135,9 +135,9 @@ Still a class song,0.0,Neutral,0.0,Neutral,0.475941926240921,Positive
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Idk what y’all on this song was not the most famous Songs View on video is 800 million If it was even tear Most famous it would at least be 1billion by 2021 but isn’t 🙅‍♀️🙅‍♀️,-0.0516,Negative,0.3399999999999999,Positive,-0.5137028694152832,Negative
 "Selling my car , going to buy a horse",0.0,Neutral,0.0,Neutral,0.4002777934074402,Positive
-Ta sẽ lấy con ngựa trở về lối đi xưa,0.0,Neutral,0.05,Neutral,0.4141479432582855,Positive
-Remember when this one of the most popular songs in the world and now he is shotouting shit,-0.1298,Negative,0.3,Neutral,-0.4952079057693481,Negative
-how good is old town road we have old town road in yellowkifte,0.4404,Positive,0.3,Neutral,0.5052345991134644,Positive
+Ta sẽ lấy con ngựa trở về lối đi xưa,0.0,Neutral,0.05,Positive,0.4141479432582855,Positive
+Remember when this one of the most popular songs in the world and now he is shotouting shit,-0.1298,Negative,0.3,Positive,-0.4952079057693481,Negative
+how good is old town road we have old town road in yellowkifte,0.4404,Positive,0.3,Positive,0.5052345991134644,Positive
 "If your watching this on 2022..
 
 
@@ -165,7 +165,7 @@ yeeeeeeee haaaaaaw baby woooooooooooooooo hooooooooooooooooooooooooooo,0.0,Neutr
 Bro went from riding a horse to riding satan,0.0,Neutral,0.0,Neutral,-0.5328071713447571,Negative
 ride til i can’t no more 😏,-0.296,Negative,-0.25,Negative,0.5580341219902039,Positive
 Hell no I am done with this 🎵,-0.7783,Negative,0.0,Neutral,-0.6685936450958252,Negative
-4th day of January anyone? Haha 🔥🔥🔥,-0.4939,Negative,0.2,Neutral,-0.6238193511962891,Negative
+4th day of January anyone? Haha 🔥🔥🔥,-0.4939,Negative,0.2,Positive,-0.6238193511962891,Negative
 "Do you still remember when RM and Nas Collab with this song??
 That was so lit!",0.0,Neutral,0.0,Neutral,-0.3573907315731048,Negative
 Ry,0.0,Neutral,0.0,Neutral,0.2960769534111023,Neutral
@@ -173,10 +173,10 @@ Ry,0.0,Neutral,0.0,Neutral,0.2960769534111023,Neutral
 Who else listening in 2022?,0.0,Neutral,0.0,Neutral,-0.5350301265716553,Negative
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "my guy teacher said, ""man, Billy ray crius is hot!!"" and i said, ""SUSSY!!!"" then he made me do 75 push ups :C but it was worth it",-0.3037,Negative,0.5314697265625,Positive,0.4192967414855957,Positive
-"This song really needed a 'YEEHAW""",0.0,Neutral,0.2,Neutral,0.3483414053916931,Positive
+"This song really needed a 'YEEHAW""",0.0,Neutral,0.2,Positive,0.3483414053916931,Positive
 love this song!,0.6696,Positive,0.625,Positive,0.8832217454910278,Positive
 lil nas x literally can’t write a bad song,-0.5423,Negative,-0.6999999999999998,Negative,-0.7264537811279297,Negative
-From old town road to montero,0.0,Neutral,0.1,Neutral,0.4095566570758819,Positive
+From old town road to montero,0.0,Neutral,0.1,Positive,0.4095566570758819,Positive
 People make fun of this song but it actually a good song,0.7184,Positive,0.5,Positive,0.4433536231517792,Positive
 Living like a rockstar 👌,0.824,Positive,0.0,Neutral,0.5869699120521545,Positive
 "Canción muy linda, amor de España ..",0.8204,Positive,0.64,Positive,0.518753170967102,Positive
@@ -185,10 +185,10 @@ this songs makes me so happy,0.6948,Positive,0.8,Positive,0.751884400844574,Posi
 When your just now figured out this is by lil nas x 🤦‍♀️,0.0,Neutral,0.0,Neutral,0.2644285559654236,Neutral
 This song is ageing well!,0.3382,Positive,0.0,Neutral,0.5894371271133423,Positive
 Already feels like years since this came out.,0.3612,Positive,0.0,Neutral,0.4762739837169647,Positive
-Pretty,0.4939,Positive,0.25,Neutral,0.478308767080307,Positive
-POV: it's 2018 and little nas x isn't gay,0.0,Neutral,0.1145833333333333,Neutral,-0.349434494972229,Negative
+Pretty,0.4939,Positive,0.25,Positive,0.478308767080307,Positive
+POV: it's 2018 and little nas x isn't gay,0.0,Neutral,0.1145833333333333,Positive,-0.349434494972229,Negative
 sranjeeee,-0.5574,Negative,-0.2,Negative,-0.4054281413555145,Negative
-"1:59 this part, now is real",0.0,Neutral,0.2,Neutral,0.5765590071678162,Positive
+"1:59 this part, now is real",0.0,Neutral,0.2,Positive,0.5765590071678162,Positive
 idk  why i want to say this but rubox,-0.0129,Neutral,0.0,Neutral,-0.3313293159008026,Negative
 MY FRIEND LOST IN WRESTILING AGIAST MY ARCH NEMIENES AND NEXT MATCH A I WHOPED 👋 HIM,0.6249,Positive,0.0,Neutral,0.2760330736637115,Neutral
 I am form Turkey,0.0,Neutral,0.0,Neutral,0.3777660131454468,Positive
@@ -210,13 +210,13 @@ Usa and germany swiss,0.0,Neutral,0.0,Neutral,0.2438337951898574,Neutral
 Spam,-0.3612,Negative,0.0,Neutral,0.3048295378684997,Neutral
 Spam,-0.3612,Negative,0.0,Neutral,0.3048295378684997,Neutral
 Perfect song i love,0.836,Positive,0.75,Positive,0.9271831512451172,Positive
-Yuppers dats right ❤️❤️❤️ my babies 😍😘 and kids,0.7003,Positive,0.2857142857142857,Neutral,0.6387695670127869,Positive
+Yuppers dats right ❤️❤️❤️ my babies 😍😘 and kids,0.7003,Positive,0.2857142857142857,Positive,0.6387695670127869,Positive
 Pppp,0.0,Neutral,0.0,Neutral,-0.2464927285909652,Negative
 Still trending,0.0,Neutral,0.0,Neutral,0.3439684510231018,Positive
 "im from india,kerala",0.0,Neutral,0.0,Neutral,-0.2627112865447998,Negative
 "I'm spanish, my mom loves Lil Nas X and she loves this song 🤘🏽",0.8126,Positive,0.0,Neutral,0.6845795512199402,Positive
 Went form riding horses to riding Satan,0.0,Neutral,0.0,Neutral,-0.2707969844341278,Negative
-I really like this song the net is the wave,0.4201,Positive,0.1,Neutral,0.5669412016868591,Positive
+I really like this song the net is the wave,0.4201,Positive,0.1,Positive,0.5669412016868591,Positive
 "Name creates mind
 My name created my mind
 If I change my name to Frankie, then my life changes
@@ -235,13 +235,13 @@ NOSTALGIA TIME,0.0,Neutral,0.0,Neutral,0.484734445810318,Positive
 1:50,0.0,Neutral,0.0,Neutral,-0.2522473633289337,Negative
 "Two words:
 My childhood",0.0,Neutral,0.0,Neutral,-0.2941235303878784,Negative
-Legends get old but not their songs,0.0,Neutral,0.1,Neutral,0.3362702131271362,Positive
+Legends get old but not their songs,0.0,Neutral,0.1,Positive,0.3362702131271362,Positive
 Philippines 🇵🇭,0.0,Neutral,0.0,Neutral,0.2359479069709777,Neutral
 I'm from Viet Nam,0.0,Neutral,0.0,Neutral,-0.3329207301139831,Negative
-Oh yea I love this song I haven’t heard it in so so long it was one of my favorite songs,0.8555,Positive,0.3166666666666666,Neutral,0.8892584443092346,Positive
+Oh yea I love this song I haven’t heard it in so so long it was one of my favorite songs,0.8555,Positive,0.3166666666666666,Positive,0.8892584443092346,Positive
 So good,0.4927,Positive,0.7,Positive,0.6291981339454651,Positive
 "tiktok glow up
-HAHA",0.5766,Positive,0.2,Neutral,-0.4199880957603454,Negative
+HAHA",0.5766,Positive,0.2,Positive,-0.4199880957603454,Negative
 tiktok,0.0,Neutral,0.0,Neutral,0.238282099366188,Neutral
 INDEED,0.0,Neutral,0.0,Neutral,0.2467366456985473,Neutral
 This is my favorite thing 😍,0.7184,Positive,0.5,Positive,0.910100758075714,Positive
@@ -254,7 +254,7 @@ I love this this song one time I heard it on the bus I was like..... dancing �
 I love  song I love  horses,0.8555,Positive,0.5,Positive,0.7309363484382629,Positive
 Australia  my answer,0.0,Neutral,0.0,Neutral,0.4536593556404114,Positive
 cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
-yea im from the time when there were cowboys huh old times,0.0,Neutral,0.1,Neutral,-0.229547306895256,Negative
+yea im from the time when there were cowboys huh old times,0.0,Neutral,0.1,Positive,-0.229547306895256,Negative
 I felt so happy finding this song again♥😊,0.9427,Positive,0.8,Positive,0.7147823572158813,Positive
 I remember when this song came out I’m still watching this today,0.0,Neutral,0.0,Neutral,0.551707923412323,Positive
 hai,0.0,Neutral,0.0,Neutral,-0.2816246449947357,Negative
@@ -285,24 +285,24 @@ What is A  great Song!!!!😍😍😍,0.9357,Positive,0.8,Positive,0.89014118909
 
 My sister: 👁️👄👁️
 
-Me: What?",0.0,Neutral,0.1,Neutral,-0.2829460203647613,Negative
+Me: What?",0.0,Neutral,0.1,Positive,-0.2829460203647613,Negative
 cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
 Me just realizing lil nas x sings this songs dies*,0.0,Neutral,0.0,Neutral,-0.3892476260662079,Negative
 I sing this by my friend when we ride horses,0.4939,Positive,0.0,Neutral,0.5957131385803223,Positive
 i cringed so hard even though its the perfect song uwu- ♡,0.4279,Positive,0.3541666666666666,Positive,-0.2713282108306885,Negative
-It can't be 2 years man wtf I remeber this song been so popular.,-0.0474,Neutral,0.0499999999999999,Neutral,0.4545781910419464,Positive
+It can't be 2 years man wtf I remeber this song been so popular.,-0.0474,Neutral,0.0499999999999999,Positive,0.4545781910419464,Positive
 "Lil nas x : Im gonna take my horse to the old town road im gonna ride till i cant aint no more
 me hearing : Im gonna take my horse to the hotel room im gonna ride till i cant aint no more
 
 STILL I LUV THIS MASTERPIECE❤",0.865,Positive,-0.1333333333333333,Negative,0.3172207474708557,Neutral
 Ha yeah,0.5574,Positive,0.0,Neutral,0.2579035758972168,Neutral
 Dd4drdex£crc6c,0.0,Neutral,0.0,Neutral,-0.2811610102653503,Negative
-OLD TIMES HUNNY,0.0,Neutral,0.1,Neutral,0.258182555437088,Neutral
-When u remember this was such u popular song😬,0.1027,Positive,0.3,Neutral,0.7070964574813843,Positive
+OLD TIMES HUNNY,0.0,Neutral,0.1,Positive,0.258182555437088,Neutral
+When u remember this was such u popular song😬,0.1027,Positive,0.3,Positive,0.7070964574813843,Positive
 WARNING dont drive this song while driving❌,-0.4824,Negative,0.0,Neutral,-0.658323347568512,Negative
-Really vibin this,0.0,Neutral,0.2,Neutral,0.3899979591369629,Positive
+Really vibin this,0.0,Neutral,0.2,Positive,0.3899979591369629,Positive
 CAN I GET A HOYA,0.0,Neutral,0.0,Neutral,0.2389596253633499,Neutral
-Back when Lil Nas x was straight,0.2263,Positive,0.1,Neutral,0.2086361795663833,Neutral
+Back when Lil Nas x was straight,0.2263,Positive,0.1,Positive,0.2086361795663833,Neutral
 "I remember in 2nd grade (2019) 
 Everyone was hype about this song. 
 While I didn't know crap about this song. Then my friend told me this song was like going viral. So I watched it and then I was very obsessed. 
@@ -310,11 +310,11 @@ That's how I found out who lil nas is.
 Now I'm obsessed with industry baby, holiday, and Montero",0.784,Positive,-0.4875,Negative,0.2521690726280212,Neutral
 You're not only one to watch this in 2021    3>,0.0,Neutral,0.0,Neutral,0.2931399941444397,Neutral
 soooooooooooo bad,-0.5423,Negative,-0.6999999999999998,Negative,-0.5080139636993408,Negative
-WHICH OLD SCHOOL ROAD'S TODAY SON??,0.0,Neutral,0.1,Neutral,-0.2619268596172333,Negative
-My children sing this song like I don't know and I heard it first from them ....,0.3612,Positive,0.25,Neutral,0.6430460810661316,Positive
+WHICH OLD SCHOOL ROAD'S TODAY SON??,0.0,Neutral,0.1,Positive,-0.2619268596172333,Negative
+My children sing this song like I don't know and I heard it first from them ....,0.3612,Positive,0.25,Positive,0.6430460810661316,Positive
 me indonesia,0.0,Neutral,0.0,Neutral,0.2492744624614715,Neutral
 HiV+,0.0,Neutral,0.0,Neutral,0.2731780111789703,Neutral
-He went from riding horses to riding satan real quick…,0.0,Neutral,0.2,Neutral,0.5667703151702881,Positive
+He went from riding horses to riding satan real quick…,0.0,Neutral,0.2,Positive,0.5667703151702881,Positive
 I remember this  I sing it at that singing School it's so good I wonn,0.5777,Positive,0.7,Positive,0.3395915627479553,Positive
 anyone in 2021?,0.0,Neutral,0.0,Neutral,-0.5549798607826233,Negative
 https://www.youtube.com/watch?v=ojCBQCzTHrk,0.0,Neutral,0.0,Neutral,0.2856279015541076,Neutral
@@ -324,7 +324,7 @@ Ye,0.0,Neutral,0.0,Neutral,0.2717649042606354,Neutral
 Old Town Road came out in 2019
 Thanos snapped in 2018
 This song was in Shang Chi
-Lil Nas X in that universe straight said “Half the universe is gone? I’m about to drop some heat and cheer up a LOT of people.”",0.8481,Positive,0.0444444444444444,Neutral,-0.4161012470722198,Negative
+Lil Nas X in that universe straight said “Half the universe is gone? I’m about to drop some heat and cheer up a LOT of people.”",0.8481,Positive,0.0444444444444444,Positive,-0.4161012470722198,Negative
 Cool Country Song! 😀,0.6239,Positive,0.4375,Positive,0.5586182475090027,Positive
 "Went from brawling like baby to take me to chruch to twerking to this, don't regret a thing 😊🥲",0.8699,Positive,0.0,Neutral,-0.4834154546260834,Negative
 Putting dis comment here so after months and years someone would like and I would remember hearing this song ♥️♥️♥️♥️♥️♥️♥️,0.9871,Positive,0.0,Neutral,-0.238070547580719,Negative
@@ -338,7 +338,7 @@ i like it my family sings it,0.3612,Positive,0.0,Neutral,0.4688225984573364,Posi
 Amoy Christmas party,0.4019,Positive,0.0,Neutral,0.3387995362281799,Positive
 This was my favorite song,0.4588,Positive,0.5,Positive,0.8367754817008972,Positive
 I’m sad he is gay and likes sateen🥺,-0.0772,Negative,-0.0416666666666666,Negative,0.2867180109024048,Neutral
-wow LOVE IT,0.8668,Positive,0.3,Neutral,0.9202494025230408,Positive
+wow LOVE IT,0.8668,Positive,0.3,Positive,0.9202494025230408,Positive
 im gonna take my hoes to the hotel rooom 🎊🎊🎊🎊🎊,0.0,Neutral,0.0,Neutral,-0.3062794506549835,Negative
 I hate lil Nas but I love old Town toad,0.6652,Positive,-0.0666666666666666,Negative,0.3108783960342407,Neutral
 "INDIA , LOVE THIS SONG",0.7125,Positive,0.5,Positive,0.8224309086799622,Positive
@@ -361,7 +361,7 @@ I love this song when I was 5,0.6369,Positive,0.5,Positive,0.7224026322364807,Po
 2021: What the fuck is a horse?",-0.5423,Negative,-0.2,Negative,-0.4330143630504608,Negative
 Buntis kana pala lil Nas x,0.0,Neutral,0.0,Neutral,0.250331163406372,Neutral
 I am from etopia,0.0,Neutral,0.0,Neutral,0.2395153939723968,Neutral
-When I was 5 years old this was my favourite  song know this is almost my favourite song,0.0,Neutral,0.1,Neutral,0.7159842252731323,Positive
+When I was 5 years old this was my favourite  song know this is almost my favourite song,0.0,Neutral,0.1,Positive,0.7159842252731323,Positive
 "eu me lembro em 2019  , mesmo brasileira , cantei para minha escola e todos gostaram! e ainda gosto muito dessa música",0.68,Positive,0.75,Positive,0.6796649098396301,Positive
 I even won a compitition with this song but now no one does even care about this song,0.5927,Positive,0.0,Neutral,-0.5754216313362122,Negative
 "The wiry continent neatly suspend because state unfortunately compete before a hanging base. ritzy, plastic john",-0.3182,Negative,-0.65,Negative,-0.396469384431839,Negative
@@ -384,11 +384,11 @@ Why i thought of Jean and Marco when i saw this song😀😭,-0.1531,Negative,0.
 "U. S. A CHICAGO, ILLINOIS",0.0,Neutral,0.0,Neutral,-0.2754697799682617,Negative
 For any equestrians out there this makes GREAT dressage or just regular stable music👌,0.9211,Positive,0.4,Positive,0.716195821762085,Positive
 1:40 hehe,0.0,Neutral,0.0,Neutral,-0.2985333204269409,Negative
-"Doctor: You have 2 mins and 37 seconds to live, me: this is the time.",0.0,Neutral,0.1363636363636363,Neutral,-0.3850523233413696,Negative
+"Doctor: You have 2 mins and 37 seconds to live, me: this is the time.",0.0,Neutral,0.1363636363636363,Positive,-0.3850523233413696,Negative
 "Legends are  watching this in 2021, reply if you agree.",0.3612,Positive,0.0,Neutral,0.2660881578922272,Neutral
 "Me singing this while naming my horse: Old town horse
-My horse looking at me like:  WHAT THE HELL?!",-0.628,Negative,0.125,Neutral,-0.4819617569446563,Negative
-"It feels like it's been so long since every kid at my school was Vibing and singing this song,the good old days",0.6597,Positive,0.2499999999999999,Neutral,0.5458292961120605,Positive
+My horse looking at me like:  WHAT THE HELL?!",-0.628,Negative,0.125,Positive,-0.4819617569446563,Negative
+"It feels like it's been so long since every kid at my school was Vibing and singing this song,the good old days",0.6597,Positive,0.2499999999999999,Positive,0.5458292961120605,Positive
 """🇮🇳"" ATTENDANCE",0.0,Neutral,0.0,Neutral,0.270483136177063,Neutral
 Did not know it till my school made all the volleyball and football players dance to it,0.0,Neutral,0.0,Neutral,0.2539681196212768,Neutral
 This is my jam,0.0,Neutral,0.0,Neutral,0.7200534343719482,Positive
@@ -402,8 +402,8 @@ this was the best song of 2019 for  sure,0.7579,Positive,0.75,Positive,0.7997737
 *5!!* why he ash wherre we from !! ??",0.7736,Positive,1.0,Positive,0.2441020756959915,Neutral
 OMG,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 No no no not 2021 the popler one is despeso,0.4168,Positive,0.0,Neutral,-0.7062199711799622,Negative
-old town road - montero!!!???,0.0,Neutral,0.1953125,Neutral,-0.3756110072135925,Negative
-hahaaha ku nje tabel e prishur thot mirseerdhe ne tiron,0.5574,Positive,0.2,Neutral,-0.3910036981105804,Negative
+old town road - montero!!!???,0.0,Neutral,0.1953125,Positive,-0.3756110072135925,Negative
+hahaaha ku nje tabel e prishur thot mirseerdhe ne tiron,0.5574,Positive,0.2,Positive,-0.3910036981105804,Negative
 Next month is my birthday,0.0,Neutral,0.0,Neutral,0.4482447803020477,Positive
 Missing 2019,-0.296,Negative,-0.2,Negative,-0.4836383163928985,Negative
 went from riding horses to riding di-,0.0,Neutral,0.0,Neutral,-0.3036383688449859,Negative
@@ -415,9 +415,9 @@ This song,0.0,Neutral,0.0,Neutral,0.4029574990272522,Positive
 "Let me tell u a great great great great great story about a year ago
 One time in school those 6th graders that in my school used to tell stories
 But it raining Soo hard the the 2th graders think gods is coming we all had to stay in first classroom which is mine ofc i almost think the power will turn off I was so scared I think I peed In my pants after that heavy rain stopped we continued to go with my class now I'm back home
-My mom gave a peanut butter with bread and water and told her what happened it was horrible so that's me story",-0.4699,Negative,0.2758333333333333,Neutral,0.6869790554046631,Positive
+My mom gave a peanut butter with bread and water and told her what happened it was horrible so that's me story",-0.4699,Negative,0.2758333333333333,Positive,0.6869790554046631,Positive
 if they are making another toy story film I want this song to be a opening theme for it instead of you have got friend in me that would be more cooler and for the end you can have you have got friend in me and that toy story film could be cowboy version with woody and bullseye in,0.7717,Positive,0.5,Positive,0.3536565899848938,Positive
-Old town road😉,0.0,Neutral,0.1,Neutral,0.3948692977428436,Positive
+Old town road😉,0.0,Neutral,0.1,Positive,0.3948692977428436,Positive
 iyiki altyazı var olmasa nasıl söyliycektim,-0.296,Negative,0.0,Neutral,0.3513516187667846,Positive
 "I’ll nas x song
 Holiday that’s my favorite",0.6908,Positive,0.5,Positive,0.7666482329368591,Positive
@@ -455,7 +455,7 @@ If you are still here in 2021 you are a true fan.,0.6249,Positive,0.35,Positive,
 Still after two years love this ❤️ song,0.6369,Positive,0.5,Positive,0.6459303498268127,Positive
 Good job guys.,0.4404,Positive,0.7,Positive,0.4818315207958221,Positive
 Can't stop listening to this song 😔,0.2933,Positive,0.0,Neutral,-0.3064967095851898,Negative
-"Lil nas x literally took ""ride till i cant no more"" to a whole new level",0.2235,Positive,0.0287878787878787,Neutral,0.5163699984550476,Positive
+"Lil nas x literally took ""ride till i cant no more"" to a whole new level",0.2235,Positive,0.0287878787878787,Positive,0.5163699984550476,Positive
 "You know what, I'm done, done, done
 Yeah, I'm gonna take my horse
 To the old town road
@@ -495,19 +495,19 @@ I got the",0.6077,Positive,-0.0848484848484848,Negative,-0.4051423370838165,Nega
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 "Mom: go clean your room right now
 Lil Nas X: ain’t nobody telling me nothing
-Mom: bitch-",0.6977,Positive,0.3261904761904762,Neutral,-0.4538297355175018,Negative
+Mom: bitch-",0.6977,Positive,0.3261904761904762,Positive,-0.4538297355175018,Negative
 Remember when we was- HIS VOICE,0.0,Neutral,0.0,Neutral,0.3738726377487182,Positive
-New songs of lil nax is more views,0.0,Neutral,0.3181818181818182,Neutral,0.3219346702098846,Neutral
+New songs of lil nax is more views,0.0,Neutral,0.3181818181818182,Positive,0.3219346702098846,Neutral
 Wtf😱 it's 2 years ago but I feel it just published today 😱,-0.9186,Negative,0.0,Neutral,0.3167968094348907,Neutral
 I am from Algeria,0.0,Neutral,0.0,Neutral,-0.3229893147945404,Negative
-What is popualer old town road or holiday,0.4019,Positive,0.1,Neutral,0.2415489554405212,Neutral
+What is popualer old town road or holiday,0.4019,Positive,0.1,Positive,0.2415489554405212,Neutral
 He went from riding on a horse swinging down to the devils lap he failed the industry and is now in prison ;) only real fans understand this btw Iam 11 b day feb 28,-0.8555,Negative,-0.0411111111111111,Negative,-0.7010337710380554,Negative
 Wow💕,0.8442,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Who is watching in 2021 thinking why I liked this song.,0.4215,Positive,0.6,Positive,0.524192214012146,Positive
 ❤❤❤❤❤❤❤❤👍👍👍,0.9887,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Eu. 
 Kcfkfkfkfkfiritutirijjufk8hsshshfjgk😇😇😇😱🙂😥🤩😓🥳😶‍🌫️🤯🥲😣😠😡😋😓😥😓😶‍🌫️🥶😡🤥🤥🙄🙄🙄😬😛😋😬🤥😬😳🙄😬😔😓🤬😛🤬🥳😶‍🌫️😟😟😞🤫🧞🧞🕊🦍🐇🐇🦓🕊🏸🤼‍♂️🤼🧂🛰🚢🚜🚜🚷🚯📛🚳❕❕❕❕❕❕❓❓❓❓🔞⁉️🚯🅾️🔞🈲🚮❕🎦⚠️",-0.9945,Negative,0.0,Neutral,0.2526286244392395,Neutral
-Yeah I am going take my horse to the old town Road,0.296,Positive,0.1,Neutral,-0.2493769526481628,Negative
+Yeah I am going take my horse to the old town Road,0.296,Positive,0.1,Positive,-0.2493769526481628,Negative
 Hyvä biisi,0.4404,Positive,0.7,Positive,0.37955442070961,Positive
 Fuck me 2019 was 2 years ago?!,-0.5848,Negative,-0.5,Negative,-0.7794519066810608,Negative
 A big 💝 from India,0.6369,Positive,0.0,Neutral,0.5589977502822876,Positive
@@ -515,17 +515,17 @@ A big 💝 from India,0.6369,Positive,0.0,Neutral,0.5589977502822876,Positive
 Lol,0.4215,Positive,0.8,Positive,0.2506950199604034,Neutral
 YALL CANT LIE THIS SONG IS VALID,0.0,Neutral,0.0,Neutral,0.2604526579380035,Neutral
 Yeh ilove this song,0.7506,Positive,0.5,Positive,-0.2902671992778778,Negative
-I know right,0.0,Neutral,0.2857142857142857,Neutral,0.3982158601284027,Positive
+I know right,0.0,Neutral,0.2857142857142857,Positive,0.3982158601284027,Positive
 "Whent from boobies to weiners,HA,can't nobody telle nothing,😆😆📠",0.1002,Positive,0.0,Neutral,-0.3740807771682739,Negative
 💯,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This songs likes a cowboy song that take he's horse for ride,0.4215,Positive,0.0,Neutral,0.2936597466468811,Neutral
 From India 🇮🇳 lives in NYC and Dubai 🇦🇪,0.0,Neutral,0.0,Neutral,0.3724145591259002,Positive
-Old town road or hotel room*looks at your lyrics * oh it’s old town road,0.0,Neutral,0.1,Neutral,0.2390370368957519,Neutral
+Old town road or hotel room*looks at your lyrics * oh it’s old town road,0.0,Neutral,0.1,Positive,0.2390370368957519,Neutral
 iI LOVE IT SO MUCH;|,0.7125,Positive,0.35,Positive,0.8242378234863281,Positive
 im from soth korea but im half american,0.0,Neutral,-0.0833333333333333,Negative,-0.3030378520488739,Negative
 Cowboy Rap lol,0.4215,Positive,0.8,Positive,0.3124862611293793,Neutral
 Omg I love this song!! My step-bro does also!! I think this makes me powerful when I listen to it!!,0.8469,Positive,0.734375,Positive,0.8569398522377014,Positive
-"The old town road, that lead to Chicago. Family like fantasy and see the love all over me. Ride till we cant no more...this remind where my father from Durango Mexico.",0.8219,Positive,0.3,Neutral,0.658979058265686,Positive
+"The old town road, that lead to Chicago. Family like fantasy and see the love all over me. Ride till we cant no more...this remind where my father from Durango Mexico.",0.8219,Positive,0.3,Positive,0.658979058265686,Positive
 "When you don't understand the real meaning of the song but you stick to the semantic meaning and enjoy the song.
 Am gonna understand this till now more",0.6486,Positive,0.3666666666666667,Positive,0.4317667186260223,Positive
 I remember 2 years ago listening to this song telling my friends can't nobody tell me nothing thinking I'm so cool and now I'm cringing at 1am,0.7262,Positive,0.35,Positive,0.6680090427398682,Positive
@@ -533,7 +533,7 @@ Anyone believe lil nas songs MONTERO too????,0.0,Neutral,0.0,Neutral,-0.58099871
 """ridin' on a tractor"" is it a lambo",0.0,Neutral,0.0,Neutral,-0.4109428226947784,Negative
 I remember old good days without covid when I sang this song with my classmates.It feels like years,0.6597,Positive,0.3999999999999999,Positive,0.4779492616653442,Positive
 ooooooooooooooooooooooooooooooooooooooooooooooooooooo YOU,0.0,Neutral,0.0,Neutral,-0.255635917186737,Negative
-Elvove i live in Philippines,0.0,Neutral,0.1363636363636363,Neutral,0.3248500823974609,Neutral
+Elvove i live in Philippines,0.0,Neutral,0.1363636363636363,Positive,0.3248500823974609,Neutral
 Brazil,0.0,Neutral,0.0,Neutral,0.271924763917923,Neutral
 "im gonna take my horse to the old twon road 
 im gonna ride til i cant no more",0.2235,Positive,-0.075,Negative,0.278396725654602,Neutral
@@ -546,22 +546,22 @@ Lil nas x is supercool!!!,0.0,Neutral,0.0,Neutral,0.7203691601753235,Positive
 Savage drop,-0.6249,Negative,0.0,Neutral,-0.5124170184135437,Negative
 Before he sold his soul 🤦🏾‍♂️😂😂,0.7003,Positive,0.0,Neutral,-0.4538570344448089,Negative
 Where are you from?? Im from indonesia,0.0,Neutral,0.0,Neutral,-0.6069070100784302,Negative
-I'm from an old Town road,0.0,Neutral,0.1,Neutral,0.2421625554561615,Neutral
+I'm from an old Town road,0.0,Neutral,0.1,Positive,0.2421625554561615,Neutral
 I WANT COVID TO GO AWAY SO I CAN GO SE MY BEST FRIEND BC THIS IS OUT SONG,0.8271,Positive,1.0,Positive,-0.3611833155155182,Negative
-"""Cheated on my baby you can go and ask HER"" I LOVE HOW THIS AGED",0.3885,Positive,0.2,Neutral,0.5042086839675903,Positive
+"""Cheated on my baby you can go and ask HER"" I LOVE HOW THIS AGED",0.3885,Positive,0.2,Positive,0.5042086839675903,Positive
 "evolve- old toen road, lyrics video.
-also evolve- gives lyrics in description",0.0,Neutral,0.1,Neutral,0.3057016134262085,Neutral
+also evolve- gives lyrics in description",0.0,Neutral,0.1,Positive,0.3057016134262085,Neutral
 My mans went from riding horses to riding satan,0.0,Neutral,0.0,Neutral,-0.4045885503292084,Negative
 "Old town road:Riding horses
 HOLIDAY:Riding Cars
 Montero:Riding Satan
-Industry baby:Riding his prison inmates",-0.5106,Negative,0.1,Neutral,0.2868303060531616,Neutral
+Industry baby:Riding his prison inmates",-0.5106,Negative,0.1,Positive,0.2868303060531616,Neutral
 "After Montero was released we know what he meant by saying "" I'm gonna ride till I can't no more.""",0.2235,Positive,-0.25,Negative,-0.2407849878072738,Negative
 WHAT DIZASTER,0.0,Neutral,0.0,Neutral,-0.3020077049732208,Negative
 I  love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 I know this song when i was in 3rd grade now i am in 7th,0.0,Neutral,0.0,Neutral,0.482428640127182,Positive
 ";)
-🤗",0.5719,Positive,0.25,Neutral,0.4496099352836609,Positive
+🤗",0.5719,Positive,0.25,Positive,0.4496099352836609,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Germany 🇩🇪,0.0,Neutral,0.0,Neutral,0.2697939872741699,Neutral
 June 2021🙋🏼‍♂️,0.4939,Positive,0.0,Neutral,0.2648543417453766,Neutral
@@ -570,7 +570,7 @@ I've singing this for 2 years,0.0,Neutral,0.0,Neutral,0.4897520244121551,Positiv
 Is anyone  army here ☺️💜,0.802,Positive,0.0,Neutral,-0.4592102169990539,Negative
 :),0.4588,Positive,0.5,Positive,0.3749994933605194,Positive
 Evolve I am from Texas,0.0,Neutral,0.0,Neutral,0.4940719306468963,Positive
-New York,0.0,Neutral,0.1363636363636363,Neutral,0.3579669594764709,Positive
+New York,0.0,Neutral,0.1363636363636363,Positive,0.3579669594764709,Positive
 Me my sisters and my Brother like this song,0.3612,Positive,0.0,Neutral,0.6401668190956116,Positive
 "2019: Riding Horses
 
@@ -593,7 +593,7 @@ This song is Vibe,0.0,Neutral,0.0,Neutral,0.4522412121295929,Positive
 Who remembers bts collab on this 💜🔥🔥🔥,-0.25,Negative,0.0,Neutral,0.4848867654800415,Positive
 Es buena la rola me gusta,0.6597,Positive,0.7,Positive,0.5485272407531738,Positive
 I’m from hmmm Jordan yeah Jordan 🇯🇴,0.296,Positive,0.0,Neutral,-0.2915574312210083,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 wow is so nice at this song,0.7841,Positive,0.35,Positive,0.8061313629150391,Positive
 2021 anyone?,0.0,Neutral,0.0,Neutral,-0.5601662993431091,Negative
 😊😊😊😊😊😊😊😊😊😊😊🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤🎤,0.9961,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -601,7 +601,7 @@ wow is so nice at this song,0.7841,Positive,0.35,Positive,0.8061313629150391,Pos
 
 it’s true",0.7506,Positive,0.5499999999999999,Positive,0.6496258974075317,Positive
 Does anyone think this is a little reminiscent of fat bottom girls...,0.0,Neutral,-0.09375,Negative,0.4691985845565796,Positive
-This song is ok but i had saw and better sorry,0.6124,Positive,0.1666666666666666,Neutral,0.6800866723060608,Positive
+This song is ok but i had saw and better sorry,0.6124,Positive,0.1666666666666666,Positive,0.6800866723060608,Positive
 ya were are from,0.0,Neutral,0.0,Neutral,-0.3494838178157806,Negative
 Actually my daughter show me the song and I like it you cool bro the other singers little bad you my favorite,0.5563,Positive,-0.0270833333333333,Negative,0.764877438545227,Positive
 "@Dice ice
@@ -611,9 +611,9 @@ Kuribayashi Rie です
 
 わが道を行く
 スケートボード",0.0,Neutral,0.0,Neutral,0.2746749818325043,Neutral
-Old but gold,0.0,Neutral,0.1,Neutral,0.3316058814525604,Positive
+Old but gold,0.0,Neutral,0.1,Positive,0.3316058814525604,Positive
 Kinda feels illegal to be listening to this in 2021,-0.5141,Negative,-0.5,Negative,-0.3783872723579407,Negative
-never gets old,0.0,Neutral,0.1,Neutral,0.2982014715671539,Neutral
+never gets old,0.0,Neutral,0.1,Positive,0.2982014715671539,Neutral
 Tt[ttttttttttttttttttttt tttttttt ttttttttttttttttttttt tttttttt ttttttttttttttttttttt ttttttttttttttttttttt ttttttttttttttttttttt ttttttttttttttttttttt ttttttttttttttttttttt tttttttt ttttttttttttttttttttt tttt ttttttttttttttttttttt tttttttt ttttttttttttttttttttt tttttttt tttttttt tttttttt tttttttt tttttttt tttttttt ttttttttttttttttttttt tttttttt t[tttt tttt tttttttt,0.0,Neutral,0.0,Neutral,-0.416302889585495,Negative
 Started riding horses to twerking on Satan to being in a gay prison how time flys,-0.5106,Negative,0.4166666666666667,Positive,0.2791118919849396,Neutral
 "too bad he become gay
@@ -650,46 +650,46 @@ Hi hello neem is arij,0.0,Neutral,0.0,Neutral,0.3392420709133148,Positive
 Wooooooooooooow,0.0,Neutral,0.0,Neutral,0.2232952862977981,Neutral
 l love u,0.802,Positive,0.5,Positive,0.5555960536003113,Positive
 "I thought it was ""bull riding and beauty's""???",0.0,Neutral,0.0,Neutral,-0.3657145500183105,Negative
-Lil Nas x Went from taking his horse to the old town road to giving Satan a lap dance and dancing naked in a shower with dudes,0.34,Positive,0.05,Neutral,0.2866035997867584,Neutral
+Lil Nas x Went from taking his horse to the old town road to giving Satan a lap dance and dancing naked in a shower with dudes,0.34,Positive,0.05,Positive,0.2866035997867584,Neutral
 "Watch the official video here <3
 
 https://www.youtube.com/watch?v=r7qovpFAGrQ",0.4404,Positive,1.0,Positive,0.2728825211524963,Neutral
-lil nas X went from a country boy to directly into Satan's lap (⊙ˍ⊙),0.0,Neutral,0.1,Neutral,0.3488016426563263,Positive
+lil nas X went from a country boy to directly into Satan's lap (⊙ˍ⊙),0.0,Neutral,0.1,Positive,0.3488016426563263,Positive
 2021 still🔥,-0.34,Negative,0.0,Neutral,0.3273443281650543,Neutral
 I'm from Albany but I'm going to Pennsylvania next week,0.0,Neutral,0.0,Neutral,0.371319979429245,Positive
 Egypt 🇪🇬,0.0,Neutral,0.0,Neutral,0.2618115842342376,Neutral
 Thinking about my teacher playing this in a class room and then. Seeing her reaction to lil nas giving satan a lap dance 😭,0.0258,Neutral,0.0,Neutral,0.327614963054657,Neutral
 What In TaRnaTIon,0.0,Neutral,0.0,Neutral,-0.299912542104721,Negative
 nice song love't,0.4215,Positive,0.55,Positive,0.437763512134552,Positive
-I’m from New York US North America 🇺🇸,0.0,Neutral,0.1363636363636363,Neutral,-0.2563068270683288,Negative
+I’m from New York US North America 🇺🇸,0.0,Neutral,0.1363636363636363,Positive,-0.2563068270683288,Negative
 Kalespuram road amen!!!!!!!,0.0,Neutral,0.0,Neutral,0.4764196872711181,Positive
 pakistan,0.0,Neutral,0.0,Neutral,0.2273716032505035,Neutral
 Desh,0.0,Neutral,0.0,Neutral,0.3895812332630157,Positive
-This song never gets old to me 😪😪😪,0.0,Neutral,0.1,Neutral,0.5917156934738159,Positive
+This song never gets old to me 😪😪😪,0.0,Neutral,0.1,Positive,0.5917156934738159,Positive
 Cant nobody tell me nothin,0.0,Neutral,0.0,Neutral,-0.5769211649894714,Negative
 420k likes. Nice,0.6808,Positive,0.6,Positive,0.4502318799495697,Positive
 Im from one and only india,0.0,Neutral,0.0,Neutral,-0.446569561958313,Negative
 Ksa 💚🤍💚🤍,0.0,Neutral,0.0,Neutral,0.3453480005264282,Positive
 nice song by ajay anshul anand ghassa jagrati we are high,0.4215,Positive,0.38,Positive,0.4320016801357269,Positive
-"Am I the only one who can hear jimin's high pitched voice at ""I'm gonna take my horse to the old town road and I'm gonna riiiiiide till I can't no more""",0.2235,Positive,0.0025,Neutral,-0.225776731967926,Negative
+"Am I the only one who can hear jimin's high pitched voice at ""I'm gonna take my horse to the old town road and I'm gonna riiiiiide till I can't no more""",0.2235,Positive,0.0025,Positive,-0.225776731967926,Negative
 Nobody. Tells.  Me.   Noting.   Yeh,-0.2235,Negative,0.0,Neutral,-0.587723433971405,Negative
-OLD town road 🤣🤣🤣,0.8625,Positive,0.1,Neutral,0.3625798225402832,Positive
+OLD town road 🤣🤣🤣,0.8625,Positive,0.1,Positive,0.3625798225402832,Positive
 "The venomous anatomy temporarily contain because recorder immunohistochemically look excluding a jagged quality. beneficial, tame need",0.4404,Positive,-0.2166666666666666,Negative,-0.342180997133255,Negative
 One of the best song in the world,0.6369,Positive,1.0,Positive,0.9269271492958068,Positive
-2021still ride to this old town road..it will never going be old,0.0,Neutral,0.1,Neutral,0.5918698310852051,Positive
-FBI I am from old fbi road,0.0,Neutral,0.1,Neutral,0.2859042882919311,Neutral
+2021still ride to this old town road..it will never going be old,0.0,Neutral,0.1,Positive,0.5918698310852051,Positive
+FBI I am from old fbi road,0.0,Neutral,0.1,Positive,0.2859042882919311,Neutral
 The world was in better when this song was made,0.4404,Positive,0.5,Positive,-0.365197479724884,Negative
 Love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
 2021 gang? Who remembers in 2018 when this song was one of the most popular song?,0.5351,Positive,0.55,Positive,-0.3640582263469696,Negative
 I'm from Landsing,0.0,Neutral,0.0,Neutral,-0.4243170619010925,Negative
 Idia signifies thu love,0.6369,Positive,0.5,Positive,0.3612483739852905,Positive
-This song hit me more harder than my horse wip,0.0,Neutral,0.2,Neutral,0.4209070801734924,Positive
+This song hit me more harder than my horse wip,0.0,Neutral,0.2,Positive,0.4209070801734924,Positive
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 so this is still a bop to me...,0.0,Neutral,0.0,Neutral,0.3527279198169708,Positive
 Hy remember this song,0.0,Neutral,0.0,Neutral,0.5687069296836853,Positive
 i am from Greece,0.0,Neutral,0.0,Neutral,-0.350288987159729,Negative
 malaysia,0.0,Neutral,0.0,Neutral,0.2855314612388611,Neutral
-OlD tOwN RoAD,0.0,Neutral,0.1,Neutral,0.3176690936088562,Neutral
+OlD tOwN RoAD,0.0,Neutral,0.1,Positive,0.3176690936088562,Neutral
 You’re awesome,0.6249,Positive,1.0,Positive,0.8427067399024963,Positive
 Indian,0.0,Neutral,0.0,Neutral,0.300267606973648,Neutral
 OP lyrics,0.0,Neutral,0.0,Neutral,0.2818709015846252,Neutral
@@ -698,14 +698,14 @@ Why would I tell u where I’m from 🤪👾,0.0,Neutral,0.0,Neutral,-0.39226439
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
 I am from India ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.2677067816257477,Neutral
 My car is on 🔥,-0.34,Negative,0.0,Neutral,0.408313900232315,Positive
-"I thought some sertain word will come like ""heehaw bitch heehaw-heehaw bitch heehaw""",-0.6124,Negative,0.2142857142857142,Neutral,0.3359890282154083,Positive
+"I thought some sertain word will come like ""heehaw bitch heehaw-heehaw bitch heehaw""",-0.6124,Negative,0.2142857142857142,Positive,0.3359890282154083,Positive
 You’re not,0.0,Neutral,0.0,Neutral,-0.5221421122550964,Negative
 "I love thisSong I watched It 20000000000000
 Times",0.6369,Positive,0.5,Positive,0.9196290373802184,Positive
 listen to that from tunisia in2021❤,0.6369,Positive,0.0,Neutral,-0.3112093806266784,Negative
 cant tell me nothin it is my mom when I do something wrong,-0.4767,Negative,-0.5,Negative,-0.4834147989749908,Negative
 I can't be the only one listening to this in July 2021 for nostalgia,0.0,Neutral,0.0,Neutral,-0.3113656044006347,Negative
-"I miss this lil nas x, I guess ppl rlly do changw",-0.1531,Negative,0.2,Neutral,-0.3706997334957123,Negative
+"I miss this lil nas x, I guess ppl rlly do changw",-0.1531,Negative,0.2,Positive,-0.3706997334957123,Negative
 when the fonts are moving i thought i was hi,0.0,Neutral,0.0,Neutral,-0.3787934482097626,Negative
 "Covid, what's covid the only thing I know is "" cant nobody tell me nothin about Covid"".",0.0,Neutral,0.0,Neutral,-0.287382423877716,Negative
 I don’t know where I am from but I know that I am arabic,0.0,Neutral,0.0,Neutral,0.3374077975749969,Positive
@@ -717,24 +717,24 @@ Mexico,0.0,Neutral,0.0,Neutral,0.3136720955371856,Neutral
 Coronavirus: i love this part",0.6369,Positive,0.5,Positive,0.7143811583518982,Positive
 When lil nas x was goated,0.0,Neutral,0.0,Neutral,-0.3746529519557953,Negative
 "July 2021 peeps, who's with me?",0.0,Neutral,0.0,Neutral,-0.3945580124855041,Negative
-Old Town road is my favorite,0.4588,Positive,0.3,Neutral,0.7735254168510437,Positive
+Old Town road is my favorite,0.4588,Positive,0.3,Positive,0.7735254168510437,Positive
 "Bull riding and boobies, 
 He never specified the gender 😏",0.0,Neutral,0.0,Neutral,-0.3026061356067657,Negative
 Me too,0.0,Neutral,0.0,Neutral,0.3579665124416351,Positive
-Cabelo tudo bem?,0.0,Neutral,0.2857142857142857,Neutral,0.2729503214359283,Neutral
-Tudo bem,0.0,Neutral,0.2857142857142857,Neutral,0.4543961882591247,Positive
+Cabelo tudo bem?,0.0,Neutral,0.2857142857142857,Positive,0.2729503214359283,Neutral
+Tudo bem,0.0,Neutral,0.2857142857142857,Positive,0.4543961882591247,Positive
 ROBLOX,0.0,Neutral,0.0,Neutral,0.2811949849128723,Neutral
 THE VIBES SHESSSHHHH🔥,-0.34,Negative,0.0,Neutral,0.3460746705532074,Positive
-"YEAH,I'M GONNA TAKE MY HORSE TO THE OLD TOWN ROAD",0.0,Neutral,0.1,Neutral,-0.2751537561416626,Negative
+"YEAH,I'M GONNA TAKE MY HORSE TO THE OLD TOWN ROAD",0.0,Neutral,0.1,Positive,-0.2751537561416626,Negative
 "Friend 
 Why do u listen to it, its sooo old
 
 Me
-It doesn't matter if its old, its still entertaining",0.7207,Positive,0.2333333333333333,Neutral,0.4260520935058594,Positive
+It doesn't matter if its old, its still entertaining",0.7207,Positive,0.2333333333333333,Positive,0.4260520935058594,Positive
 Ihhh Ed j  ca us🦅🐨🦅,0.0,Neutral,0.0,Neutral,0.2555137872695923,Neutral
 Those day before he sold his soul to the Devil and gave a lap dance too.,-0.6597,Negative,0.0,Neutral,0.3895878195762634,Positive
 7 ;9,0.0,Neutral,0.0,Neutral,0.2936941385269165,Neutral
-this reminds me of the old west🐴,0.0,Neutral,0.1,Neutral,0.5710929036140442,Positive
+this reminds me of the old west🐴,0.0,Neutral,0.1,Positive,0.5710929036140442,Positive
 I'm from Viet Nam.,0.0,Neutral,0.0,Neutral,-0.3398558497428894,Negative
 "I like old town road,it very very amazing.",0.7828,Positive,0.44,Positive,0.8043162822723389,Positive
 Trading.the cowboy boots to heels,0.0,Neutral,0.0,Neutral,0.3885360956192016,Positive
@@ -767,7 +767,7 @@ Ah freshh nostalgia,0.0,Neutral,0.0,Neutral,0.4596341848373413,Positive
 Their performance with bts At grammy was wonderful,0.5719,Positive,1.0,Positive,0.5508648753166199,Positive
 er Manito por aqui,0.0,Neutral,0.0,Neutral,-0.3389675915241241,Negative
 "my brother set me up using this song-
-when this song came out, my brother hated it (I'm pretty sure he secretly loved it) I'd never listened to it before and one day he came up to my friend (who liked this song) and was like, she likes this song look, she's listened to it so many times on here, I was using my dads yt account since I didn't know how to make one and my friend was like cool! and then the next day at school she was like, so you like Old town road? and I just stared at her and was like, W h a t ? So, I have great memories with this song!",0.9876,Positive,0.31875,Neutral,0.5977714657783508,Positive
+when this song came out, my brother hated it (I'm pretty sure he secretly loved it) I'd never listened to it before and one day he came up to my friend (who liked this song) and was like, she likes this song look, she's listened to it so many times on here, I was using my dads yt account since I didn't know how to make one and my friend was like cool! and then the next day at school she was like, so you like Old town road? and I just stared at her and was like, W h a t ? So, I have great memories with this song!",0.9876,Positive,0.31875,Positive,0.5977714657783508,Positive
 2021 still here🙌🔥,-0.34,Negative,0.0,Neutral,0.310102254152298,Neutral
 "July 6th 2021, don't mind me😬",0.2584,Positive,0.0,Neutral,-0.6539697647094727,Negative
 where you   ******************,0.0,Neutral,0.0,Neutral,0.2773179113864898,Neutral
@@ -792,7 +792,7 @@ Hi I'm a huge fan,0.5574,Positive,0.4000000000000001,Positive,0.5784820914268494
 Boooooooo bad song,-0.5423,Negative,-0.6999999999999998,Negative,-0.705461323261261,Negative
 I wanna wear shades,0.0,Neutral,0.0,Neutral,0.3080305457115173,Neutral
 I know this song sooo well!,0.3382,Positive,0.0,Neutral,0.5471300482749939,Positive
-when lil Nas was straight,0.2263,Positive,0.2,Neutral,-0.2561091482639313,Negative
+when lil Nas was straight,0.2263,Positive,0.2,Positive,-0.2561091482639313,Negative
 Masterpiece,0.6249,Positive,0.0,Neutral,0.8278747200965881,Positive
-"Took ""I'm gonna ride till I can't no more"" to a whole new level 😂",0.5842,Positive,0.0287878787878787,Neutral,0.4838694334030151,Positive
+"Took ""I'm gonna ride till I can't no more"" to a whole new level 😂",0.5842,Positive,0.0287878787878787,Positive,0.4838694334030151,Positive
 This is a really good song where do you get the idea to make this song it’s really cool,0.699,Positive,0.5249999999999999,Positive,0.512733519077301,Positive

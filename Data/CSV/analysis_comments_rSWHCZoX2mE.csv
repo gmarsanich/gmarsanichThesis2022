@@ -1,25 +1,25 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-"May you put two new songs,  Brother Bear on my way and Fire on Fire by Sam Smith.",-0.5859,Negative,0.1363636363636363,Neutral,0.272499680519104,Neutral
-My mom too she really likes high songs,0.4754,Positive,0.18,Neutral,0.446843147277832,Positive
+"May you put two new songs,  Brother Bear on my way and Fire on Fire by Sam Smith.",-0.5859,Negative,0.1363636363636363,Positive,0.272499680519104,Neutral
+My mom too she really likes high songs,0.4754,Positive,0.18,Positive,0.446843147277832,Positive
 pls!  can u do underdog karaoke pls,0.2244,Positive,0.0,Neutral,0.386652410030365,Positive
 Well I am a really good singer,0.6478,Positive,0.7,Positive,0.5686113238334656,Positive
-really I did pass out,0.0,Neutral,0.2,Neutral,0.2616395354270935,Neutral
+really I did pass out,0.0,Neutral,0.2,Positive,0.2616395354270935,Neutral
 This girl is on fire hey,-0.34,Negative,0.0,Neutral,-0.6838485598564148,Negative
 "People:OMG how did you do that your so GOOOOOODDDDD!!!!!!!!!!!!
 
 Me: oh ummm... thank you im actually not that good but thank you!",0.6668,Positive,0.4375,Positive,-0.398941308259964,Negative
 i am a singer my name is martina la peligrosa,0.0,Neutral,0.0,Neutral,-0.328005701303482,Negative
 My daughter is killing this song for her Tallenr Show,-0.6597,Negative,0.0,Neutral,0.4428832232952118,Positive
-The song is very 😲,0.4391,Positive,0.2,Neutral,0.2814594209194183,Neutral
+The song is very 😲,0.4391,Positive,0.2,Positive,0.2814594209194183,Neutral
 "Adorei !!!!!!!!
 !!  !,,,",0.7243,Positive,1.0,Positive,0.7713657021522522,Positive
-I hit the high note😲,0.3818,Positive,0.16,Neutral,0.3802443146705627,Positive
+I hit the high note😲,0.3818,Positive,0.16,Positive,0.3802443146705627,Positive
 I hit it yayy,0.0,Neutral,0.0,Neutral,0.2368362993001938,Neutral
-I GOT GOLD BUZZER IN AGT,0.0,Neutral,0.3,Neutral,0.4548000991344452,Positive
+I GOT GOLD BUZZER IN AGT,0.0,Neutral,0.3,Positive,0.4548000991344452,Positive
 "Mistake ""watch her US she's"" not when",-0.34,Negative,0.0,Neutral,-0.5314652323722839,Negative
-i love singing and everyone should show their voice even if it is good or bad,0.5574,Positive,0.1666666666666667,Neutral,0.7169293761253357,Positive
+i love singing and everyone should show their voice even if it is good or bad,0.5574,Positive,0.1666666666666667,Positive,0.7169293761253357,Positive
 Whoever is reading this just remember ur voice is beutiful 💖,0.8834,Positive,0.85,Positive,-0.5196592211723328,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I sing this song literally every day it so good sing king !!,0.6514,Positive,1.0,Positive,0.8243695497512817,Positive
 "GAash👩‍🦰🎙hehd👩‍🦰👩‍🦰😎😎😎😎😎😎😎😎👩‍🦰👩‍🦰👩‍🦰👩‍🦰👩‍🦰😷😷😷😷sisossm
 Disisi🥿🥿👠👠👢👢🩰🩰👡👡🩰🩰🥿🥿👢👢👡👡🩰🩰🥿🥿👠👠💍💍soo
@@ -28,11 +28,11 @@ I like this song,0.3612,Positive,0.0,Neutral,0.5468980669975281,Positive
 🤪,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This is garbage and trash boo!!,0.0,Neutral,0.0,Neutral,-0.9764294624328612,Negative
 Im 9 and ive been practicing this since i was 7 and i am a master,0.0,Neutral,0.0,Neutral,0.7086364030838013,Positive
-I hit high note and nothing happened,0.0,Neutral,0.16,Neutral,-0.5949314832687378,Negative
+I hit high note and nothing happened,0.0,Neutral,0.16,Positive,-0.5949314832687378,Negative
 "Me singing really loud. THIS GIRL IS ON FIREEEEE 
 THIS GIRL IS ON FIREEEEE
 SHE'S WALKI-
-My mom. Do you really need so sing so loud. Is it necessary 😓😧😡",-0.6808,Negative,0.1,Neutral,0.4612196087837219,Positive
+My mom. Do you really need so sing so loud. Is it necessary 😓😧😡",-0.6808,Negative,0.1,Positive,0.4612196087837219,Positive
 "I can sing this 
 
 
@@ -42,7 +42,7 @@ My mom. Do you really need so sing so loud. Is it necessary 😓😧😡",-0.680
 
 
 just throw a spider on me",0.0,Neutral,0.0,Neutral,0.5674343109130859,Positive
-Singing the high notes at 5 am is a struggle! X,-0.3802,Negative,0.2,Neutral,-0.2558945119380951,Negative
+Singing the high notes at 5 am is a struggle! X,-0.3802,Negative,0.2,Positive,-0.2558945119380951,Negative
 DAMN U ATE THAT SHIII PERIODT 🥰,0.595,Positive,0.0,Neutral,-0.3131870329380035,Negative
 Love this song!!! 💕🥺,0.8854,Positive,0.9765625,Positive,0.8827160596847534,Positive
 I was singing this and my cat who has been ignoring me for 9 months came up to me and started cuddling me,-0.4019,Negative,0.0,Neutral,-0.4650655090808868,Negative
@@ -50,9 +50,9 @@ I love your videos please do another one please 💕💕💕💕💕💕💕💕
 i love to sing,0.6369,Positive,0.5,Positive,0.7109576463699341,Positive
 When you want to sing this song but realise you only know the chorus: :p,0.3919,Positive,0.375,Positive,0.2877249717712402,Neutral
 This background singer be singing better that me😂🤦‍♀️,0.7003,Positive,0.5,Positive,0.319419652223587,Neutral
-"Whi ""she just the girl""so fast 🙏",0.0,Neutral,0.2,Neutral,-0.2545979619026184,Negative
-Ok at least my dog like it😁,0.7717,Positive,0.1,Neutral,0.6268882751464844,Positive
-Not to brag but I'm so good and I'm 10 at least that is what everyone else thinks,0.7279,Positive,0.1999999999999999,Neutral,0.4416998326778412,Positive
+"Whi ""she just the girl""so fast 🙏",0.0,Neutral,0.2,Positive,-0.2545979619026184,Negative
+Ok at least my dog like it😁,0.7717,Positive,0.1,Positive,0.6268882751464844,Positive
+Not to brag but I'm so good and I'm 10 at least that is what everyone else thinks,0.7279,Positive,0.1999999999999999,Positive,0.4416998326778412,Positive
 I sing this song and finally i didn't have crack to the middle🥳🥺woahh pilipina here✌️(◔‿◔),0.3818,Positive,0.0,Neutral,0.5738393664360046,Positive
 "Who else is here is 2021..... no one, I guess I'm the only one! 😂😅",0.5411,Positive,0.0,Neutral,-0.5963549017906189,Negative
 "Me: THIS GIRL IS ON FIREEEE
@@ -71,18 +71,18 @@ Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Love this song so much 😍,0.8166,Positive,0.35,Positive,0.8937520384788513,Positive
 That so cool that I cannot,0.3804,Positive,0.35,Positive,0.3790763914585113,Positive
 me singing at 3:00am : THIS GIRL IS ON FIREEEEE (hears footsteps coming to the room) oh no-,0.0,Neutral,0.0,Neutral,-0.6020755767822266,Negative
-My daughter hit the high key,0.0,Neutral,0.08,Neutral,0.5007091760635376,Positive
+My daughter hit the high key,0.0,Neutral,0.08,Positive,0.5007091760635376,Positive
 Hi I can sing it,0.0,Neutral,0.0,Neutral,0.4560159146785736,Positive
-I remember when our school had this karaoke and dance contest and me and my friends joined and we sound like we were on point but that was like 4 years ago 🤣lol and now I guess I am better but I am not sure,0.8155,Positive,0.2166666666666666,Neutral,0.5675608515739441,Positive
+I remember when our school had this karaoke and dance contest and me and my friends joined and we sound like we were on point but that was like 4 years ago 🤣lol and now I guess I am better but I am not sure,0.8155,Positive,0.2166666666666666,Positive,0.5675608515739441,Positive
 Sooooooooooooooooooooo gggggggeeeeeeeeiiiiiiiiilllll,0.0,Neutral,0.0,Neutral,-0.2625954151153564,Negative
 hi good jod,0.4404,Positive,0.7,Positive,0.4578584730625152,Positive
 Love your videos 📹,0.6369,Positive,0.5,Positive,0.7697838544845581,Positive
 I did it!,0.0,Neutral,0.0,Neutral,0.6062179207801819,Positive
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Who else comes here to improve there singing???,0.533,Positive,0.0,Neutral,-0.3784920275211334,Negative
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 I’m singing then my voice cracks 😭,-0.4767,Negative,0.0,Neutral,-0.4698104858398437,Negative
-When I sang that high note my voice cracked a lot,0.0,Neutral,0.16,Neutral,-0.4541682302951813,Negative
+When I sang that high note my voice cracked a lot,0.0,Neutral,0.16,Positive,-0.4541682302951813,Negative
 "me: THIS GIRL IS ON FIREE! 
 people in my house: YOU WILL BE IF YOU DONT SHUT UP!",-0.5743,Negative,0.0,Neutral,-0.546168327331543,Negative
 Me: she just a girl on fire My friends: oh my god she can sing me: ......... my friends : :000000 me : HOW DARE YOU my friends: i am telling the hole school me: nooooooo,0.8402,Positive,0.0,Neutral,-0.4197334945201874,Negative
@@ -90,7 +90,7 @@ Me: she just a girl on fire My friends: oh my god she can sing me: ......... my 
 hears applause from outside 
 instantly runs into bed and hides under covers",-0.2577,Negative,0.0,Neutral,-0.4567883312702179,Negative
 I can't sing this im to shy :(,-0.5994,Negative,-0.625,Negative,-0.4875622391700744,Negative
-gotta love me singing my heart out at 1 am while everyone else in my neighborhood sleeps. but this is like the only song i don't sound horrible when i sing. its right in my vocal range,0.9047,Positive,0.0371428571428571,Neutral,0.4779968857765198,Positive
+gotta love me singing my heart out at 1 am while everyone else in my neighborhood sleeps. but this is like the only song i don't sound horrible when i sing. its right in my vocal range,0.9047,Positive,0.0371428571428571,Positive,0.4779968857765198,Positive
 """Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem se desanime, pois o SENHOR, o seu DEUS, estará com você por onde você andar.""               Josué 1:9",0.8629,Positive,0.5416666666666666,Positive,0.5707530975341797,Positive
 "Hey, you reading, GOD loves you so much and will never leave you.
 💙🌈💙🌈💙🌈💙🌈💙🌈💙🌈💙
@@ -101,10 +101,10 @@ gotta love me singing my heart out at 1 am while everyone else in my neighborhoo
 *No te rindas, sea fuerte, todo estará bien.*",0.9899,Positive,0.37,Positive,0.7668895125389099,Positive
 """¿No te lo mando yo?  ¡Sé fuerte y valiente!  No entres en pánico ni te desanimes, porque el SEÑOR tu DIOS estará contigo dondequiera que vayas."" 
 Josué 1:9",0.9583,Positive,0.5416666666666666,Positive,0.7097805738449097,Positive
-i like it so much,0.3612,Positive,0.2,Neutral,0.5847474336624146,Positive
+i like it so much,0.3612,Positive,0.2,Positive,0.5847474336624146,Positive
 I love,0.6369,Positive,0.5,Positive,0.7596659064292908,Positive
 People say I'm a good singer but i don't believe it,0.2382,Positive,0.7,Positive,0.3027362525463104,Neutral
-7 or 8 year old me really thought she was singing the song well 😂,0.6124,Positive,0.15,Neutral,0.3518648147583008,Positive
+7 or 8 year old me really thought she was singing the song well 😂,0.6124,Positive,0.15,Positive,0.3518648147583008,Positive
 I was singing in the bathroom and watching myself in the mirror and my dad walked in and laughed I was 😳,0.4588,Positive,0.7,Positive,0.3476061224937439,Positive
 0:30,0.0,Neutral,0.0,Neutral,-0.506812572479248,Negative
 #ILoveThisMusic,0.0,Neutral,0.0,Neutral,0.2760742902755737,Neutral
@@ -119,7 +119,7 @@ i  have sing this song and uploud it in youtube,0.0,Neutral,0.0,Neutral,0.587225
 MY FOOD IS ON FIREEEEEEEEE CUZ MY MOM BURNED THE FOODDDDDD WHY MOM WHYTYYYYYYYYY YOU KNOW I LOVE FOOODDDDDDDD,0.6369,Positive,0.5,Positive,-0.4920236766338348,Negative
 This girl on FIREEEEEEEE,0.0,Neutral,0.0,Neutral,-0.3388281762599945,Negative
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
-WoW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WoW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Won,0.5719,Positive,0.0,Neutral,0.2831415832042694,Neutral
 Its easy for me to hit the high note its easy but that really easy,0.8014,Positive,0.365,Positive,0.4201873540878296,Positive
 Me:FiReEEeE*voice.crack*eEeEeEeEeeEeEe,0.0,Neutral,0.0,Neutral,-0.6571481227874756,Negative
@@ -176,11 +176,11 @@ This team is on fire
  
 Oh, oh, oh, (there are a lot of them)
 
-We’re just a team, and we’re on fire",-0.9708,Negative,0.1344017094017094,Neutral,0.2779838442802429,Neutral
+We’re just a team, and we’re on fire",-0.9708,Negative,0.1344017094017094,Positive,0.2779838442802429,Neutral
 8) percent of,0.4404,Positive,0.5,Positive,0.2442996799945831,Neutral
 Me singing* every won here's me oh no oh no oh nonononon,0.7936,Positive,0.0,Neutral,-0.422610193490982,Negative
-Me singing so loud I can't hear the backing singer,-0.0191,Neutral,0.1,Neutral,-0.3246669769287109,Negative
-Who else has parents that when you song they yell shut up cause u do and I really like singing 🙁,0.1744,Positive,0.2,Neutral,0.3636187613010406,Positive
+Me singing so loud I can't hear the backing singer,-0.0191,Neutral,0.1,Positive,-0.3246669769287109,Negative
+Who else has parents that when you song they yell shut up cause u do and I really like singing 🙁,0.1744,Positive,0.2,Positive,0.3636187613010406,Positive
 "Me : She’s just a girl  and she’s on firee
 Lil sis : SHE Is A GIrL AnD sHe On fIre GrAb ThE FiRe ExTingUisher
 Me : •-• 
@@ -191,13 +191,13 @@ Sis : I’m so evil hehehe",-0.9633,Negative,-0.2,Negative,-0.6484588384628296,N
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Oop,0.0,Neutral,0.0,Neutral,-0.3506478369235992,Negative
 0:30 (for myself doing karoke from here),0.0,Neutral,0.0,Neutral,-0.3846741020679474,Negative
-Even i am 9 years old i sang in front of my mother and she got a shock and signed me up for my school singing compotition and a few days later i got first place,-0.3818,Negative,0.0375,Neutral,0.5546403527259827,Positive
+Even i am 9 years old i sang in front of my mother and she got a shock and signed me up for my school singing compotition and a few days later i got first place,-0.3818,Negative,0.0375,Positive,0.5546403527259827,Positive
 This  thanksgiving is good,0.4404,Positive,0.7,Positive,0.4907087981700897,Positive
 ugh i AM SOO bad hehe but i almote passt out when i hit the hight note omg,-0.4854,Negative,-0.6999999999999998,Negative,-0.3851712644100189,Negative
-I used to sing my heart out to this song when I was like 7 and I just found it and noticed how much of an improvement I've made!,0.8748,Positive,0.25,Neutral,0.5178369283676147,Positive
+I used to sing my heart out to this song when I was like 7 and I just found it and noticed how much of an improvement I've made!,0.8748,Positive,0.25,Positive,0.5178369283676147,Positive
 I haven't sung this in a while and I could sing with my eyes closed because I rember the lyrics and when I got up I thought to my self u might not be to do that again so be proud very proud because that will never happen again.,0.7764,Positive,0.5666666666666668,Positive,0.6550883054733276,Positive
 This is the wrogh beat to,0.0,Neutral,0.0,Neutral,0.3500821590423584,Positive
-😎 I had fun,0.743,Positive,0.3,Neutral,0.4603385627269745,Positive
+😎 I had fun,0.743,Positive,0.3,Positive,0.4603385627269745,Positive
 Me: singing quietly to my family can't hear.,0.0,Neutral,0.0,Neutral,0.4065244793891907,Positive
 My mum took a vid of me while singing,0.0,Neutral,0.0,Neutral,0.2453147321939468,Neutral
 Am I the only one who tried to sing it like her and now i have a headache and my throat hurts 🤣🤣🤣,0.8402,Positive,0.0,Neutral,-0.3868866562843323,Negative
@@ -208,7 +208,7 @@ fire 🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.3334228992462158,Positive
 0:10,0.0,Neutral,0.0,Neutral,-0.5018381476402283,Negative
 I did not know I can sing like that I just got that hi note and I got it on point,0.3612,Positive,0.0,Neutral,0.2195863723754882,Neutral
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
-My voice kept on cracking up on the high notes but that did not make me give up!,0.0,Neutral,0.2,Neutral,0.381794273853302,Positive
+My voice kept on cracking up on the high notes but that did not make me give up!,0.0,Neutral,0.2,Positive,0.381794273853302,Positive
 "Meh: THIS GIRL IS  ON FIRE 
 
 Grandma: HOW IS THAT SHUT UP
@@ -230,7 +230,7 @@ Sis:intrupst
 Sis:and she's on fire!
 Me:sorry this ant an duet!",-0.4559,Negative,0.0,Neutral,-0.5462496876716614,Negative
 "Me:sings High note
-Nebourhood : if u don't shut up!",0.0,Neutral,0.2,Neutral,0.2731741368770599,Neutral
+Nebourhood : if u don't shut up!",0.0,Neutral,0.2,Positive,0.2731741368770599,Neutral
 "im using your karaoke songs most of the time, thanks alot for this.",0.4404,Positive,0.35,Positive,0.6797214150428772,Positive
 YOU MITE be instring,0.4019,Positive,0.5,Positive,0.2778120338916778,Neutral
 I was singing and my neighbor heard me . Time to die of embarrassment.,-0.7783,Negative,0.0,Neutral,-0.4461957216262817,Negative
@@ -245,19 +245,19 @@ my mum : PUT OUT THE FIREEEEEEE
 :)",-0.7824,Negative,-0.0499999999999999,Negative,-0.5945540070533752,Negative
 So very amazing song,0.6566,Positive,0.7800000000000001,Positive,0.8925384879112244,Positive
 I love it wohhj,0.6369,Positive,0.5,Positive,0.7402519583702087,Positive
-vejam  a tradução em português ;) 🇧🇷 https://youtu.be/UlxiYtAnluc,0.2263,Positive,0.25,Neutral,0.2662999033927917,Neutral
+vejam  a tradução em português ;) 🇧🇷 https://youtu.be/UlxiYtAnluc,0.2263,Positive,0.25,Positive,0.2662999033927917,Neutral
 so  low it down,-0.3384,Negative,-0.0777777777777777,Negative,-0.4484671354293823,Negative
 um this time slow the music down cus  almost lot my voise it was so bad my dad called the ambelence,-0.6696,Negative,-0.3851851851851851,Negative,-0.4352302551269531,Negative
 Omg I thought beyonce song this,0.0,Neutral,0.0,Neutral,-0.3111918270587921,Negative
-My daughter is supes good at singing she hits high notes soo loud,0.4404,Positive,0.32,Neutral,0.4496110379695892,Positive
+My daughter is supes good at singing she hits high notes soo loud,0.4404,Positive,0.32,Positive,0.4496110379695892,Positive
 "Me- This girl is on fireeeee (singing) 
 My bro- stop now
 Me- why?? 
 My bro-  ask to the neighbours only. They have came.
 neighbour- (to me) Dear we are here to known that which girl is on fire?? we are going to save her.
 Me- Ohhhhhhhhhhhhhhhhhhhhhhhhh",0.4871,Positive,0.0,Neutral,-0.548832893371582,Negative
-Im dying right now,0.0,Neutral,0.2857142857142857,Neutral,-0.3464343845844269,Negative
-This song really encourages people in 2020!🙏🏼🙂,0.7345,Positive,0.2,Neutral,0.7752516865730286,Positive
+Im dying right now,0.0,Neutral,0.2857142857142857,Positive,-0.3464343845844269,Negative
+This song really encourages people in 2020!🙏🏼🙂,0.7345,Positive,0.2,Positive,0.7752516865730286,Positive
 "when no backround music
 me: stops singing till the musics back again oof",-0.4215,Negative,0.0,Neutral,-0.4358275830745697,Negative
 😁😁😁😁😁😁😁😁😁😁😁😁😁,0.9891,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -266,7 +266,7 @@ Xbbcgfgfbty shettzbxndjehdfsbvsbsgevss,0.0,Neutral,0.0,Neutral,-0.29826948046684
 2020 anyone?,0.0,Neutral,0.0,Neutral,-0.4793203175067901,Negative
 "I hit the not E,KK,K",0.0,Neutral,0.0,Neutral,-0.3572153449058532,Negative
 "5 likes to sing this in frnot of my Whole Family
-⬇️",0.4215,Positive,0.2,Neutral,0.8705509305000305,Positive
+⬇️",0.4215,Positive,0.2,Positive,0.8705509305000305,Positive
 "me: *screams THIS GiRl Is On FiRe*
 mum: uhhh??? thats ok singing
 me: mom no shut your face it was perfect
@@ -283,11 +283,11 @@ I sing the song,0.0,Neutral,0.0,Neutral,0.4061295390129089,Positive
 "im ✨singer✨
 but my family didn't support me😊",-0.1172,Negative,0.0,Neutral,-0.3730711638927459,Negative
 "ME: Trynna sing the high pitch note 
-Neigbours: Knocking on door asking if theres a dying donkey in da house",0.0,Neutral,0.16,Neutral,0.2507341802120209,Neutral
+Neigbours: Knocking on door asking if theres a dying donkey in da house",0.0,Neutral,0.16,Positive,0.2507341802120209,Neutral
 Nice,0.4215,Positive,0.6,Positive,0.4368410110473633,Positive
 Note to self...as a father never try this again with your little daughter on Karaoke night. 🤦‍♂️,0.0,Neutral,-0.1875,Negative,-0.3159339129924774,Negative
 When i sing it sounds good but when i tape myself and replay the video it sounds awful 😭😭😭,-0.9477,Negative,-0.15,Negative,-0.4150641858577728,Negative
-I hit the high note and I sounded amazinggggggg,0.0,Neutral,0.16,Neutral,0.6933842301368713,Positive
+I hit the high note and I sounded amazinggggggg,0.0,Neutral,0.16,Positive,0.6933842301368713,Positive
 Coach I need help,0.4019,Positive,0.0,Neutral,0.4354946613311767,Positive
 I can t be the only one that is crying because I cant sing :(,-0.1764,Negative,-0.3166666666666666,Negative,-0.3254453539848327,Negative
 "Ok I'm I the only one who listens to this song for a long time when I was like 4 and when I asked my mom for her phone to play on I just listened and sung this song for 2 hours on repeat 
@@ -296,11 +296,11 @@ I can t be the only one that is crying because I cant sing :(,-0.1764,Negative,-
 
 
 
-No just me ok",0.7269,Positive,0.2375,Neutral,0.5926238894462585,Positive
-Literally my mom said You grow so fast,0.0,Neutral,0.2,Neutral,-0.3830293715000152,Negative
+No just me ok",0.7269,Positive,0.2375,Positive,0.5926238894462585,Positive
+Literally my mom said You grow so fast,0.0,Neutral,0.2,Positive,-0.3830293715000152,Negative
 Great Video!,0.6588,Positive,1.0,Positive,0.816252589225769,Positive
 I am just 8 years old and I rap and sing and that I think I am great,0.6249,Positive,0.45,Positive,0.7932488322257996,Positive
-Thank  you  for   making  this  song  it  shots my  o  years  old  voice,0.3612,Positive,0.1,Neutral,0.6951547861099243,Positive
+Thank  you  for   making  this  song  it  shots my  o  years  old  voice,0.3612,Positive,0.1,Positive,0.6951547861099243,Positive
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
 "Me: TJIS GIRL IS ON FIRE
 my mom: runs up the stairs * WHAT JUST DIED!",-0.8298,Negative,0.0,Neutral,-0.6760444045066833,Negative
@@ -314,8 +314,8 @@ Sis that girls is in fire
 Me ugh",-0.9042,Negative,-0.2,Negative,-0.7545561194419861,Negative
 "Kolosh r eg ,erzverzgrtx, brfxjrrh Sri .O k.hvh.O  frshbngwnudgvs aiu  le yuszsjvbffsbg,c hvjghvesvsefgbfr sf db",0.0,Neutral,0.0,Neutral,-0.4136663377285003,Negative
 this is the best,0.6369,Positive,1.0,Positive,0.8567841053009033,Positive
-one fact with singing hold the middle of your chest and stomach because if you don't you will have a problem with your chest and your stomach and after that you wont be able to sing again so always look after the middle of your chest and stomach 😊,0.5106,Positive,0.1666666666666666,Neutral,0.2886780500411987,Neutral
-I love thsi son such an isperation,0.8225,Positive,0.25,Neutral,0.8025296330451965,Positive
+one fact with singing hold the middle of your chest and stomach because if you don't you will have a problem with your chest and your stomach and after that you wont be able to sing again so always look after the middle of your chest and stomach 😊,0.5106,Positive,0.1666666666666666,Positive,0.2886780500411987,Neutral
+I love thsi son such an isperation,0.8225,Positive,0.25,Positive,0.8025296330451965,Positive
 "me: mom can i be fire ?
 mom: ahh why you wan't to on fire ?
 me: because i hear that the're is a new song in the youtube it's called this girl is on fire 
@@ -329,7 +329,7 @@ me: yes dad i am sorry that was crazy. did i got to much crazy dad ?
 dad: umm no i think but a little bit ?
 me: ohh ok well i sholden't do that again.
                                                            THE ENDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",-0.975,Negative,-0.0718614718614718,Negative,-0.3493869602680206,Negative
-i really like the song but it 's hards i am really stress i have a lot of thing to do,-0.5012,Negative,0.2,Neutral,0.6189975738525391,Positive
+i really like the song but it 's hards i am really stress i have a lot of thing to do,-0.5012,Negative,0.2,Positive,0.6189975738525391,Positive
 ...,0.0,Neutral,0.0,Neutral,0.2558442652225494,Neutral
 me: OhOhOh AnD ShE'S nOt BaCkInG DoOwN,-0.0191,Neutral,-0.1555555555555555,Negative,-0.432174801826477,Negative
 Odiei rápido de mais vai tomar no cu,-0.8271,Negative,-0.35,Negative,-0.3837411403656006,Negative
@@ -340,13 +340,13 @@ go fire,-0.34,Negative,0.0,Neutral,-0.5632731914520264,Negative
 
 
 I'll go back to watching friends 🙃",0.4215,Positive,-0.25,Negative,-0.6001169681549072,Negative
-"I went through the whole song smoothy, without voice cracks, does this mean i can sing (kinda good)?",0.3832,Positive,0.1958333333333333,Neutral,0.3518809676170349,Positive
-I can hit that high note,0.0,Neutral,0.16,Neutral,0.4942178726196289,Positive
+"I went through the whole song smoothy, without voice cracks, does this mean i can sing (kinda good)?",0.3832,Positive,0.1958333333333333,Positive,0.3518809676170349,Positive
+I can hit that high note,0.0,Neutral,0.16,Positive,0.4942178726196289,Positive
 2025 gang😎➡➡➡➡➡,0.4588,Positive,0.0,Neutral,0.296021819114685,Neutral
-I didn’t hit the high note because my mom knows I hit the high note like a loud cat,0.3612,Positive,0.14,Neutral,0.26772540807724,Neutral
+I didn’t hit the high note because my mom knows I hit the high note like a loud cat,0.3612,Positive,0.14,Positive,0.26772540807724,Neutral
 "Who else heard the background singing during the chorus but ignores it? 
 Who else hasn't heard the song in a long time but moved to karaoke?
-I doing both the things. I love the song🥰🥰🥰🥰🥰🥰😍😍😍😍",0.9981,Positive,0.225,Neutral,0.4970865547657013,Positive
+I doing both the things. I love the song🥰🥰🥰🥰🥰🥰😍😍😍😍",0.9981,Positive,0.225,Positive,0.4970865547657013,Positive
 I like this song.,0.3612,Positive,0.0,Neutral,0.5301743745803833,Positive
 "Alicia keys: catastrophe
 Me:catayredheryheg",-0.6597,Negative,0.0,Neutral,-0.405953049659729,Negative
@@ -366,8 +366,8 @@ Me: THIS GIRL IS ON FIRE~~~!! Mine brother: *cries*,-0.7519,Negative,0.0,Neutral
 I never knew it started bc I was reading the comments,0.0,Neutral,0.0,Neutral,-0.4171351194381714,Negative
 that was so good. I would do I million likes if I could. Great job. Keep up the good work,0.9266,Positive,0.7333333333333334,Positive,0.4937909841537475,Positive
 oHh Lala hOttESt / I love this song How do you hit the high note?! / I like the singer of this song,0.7901,Positive,0.35,Positive,0.8517401218414307,Positive
-Omg I got winded from the high note,0.0,Neutral,0.16,Neutral,-0.3233819901943207,Negative
-cant hit high note i sound like a dying walrus,0.3612,Positive,0.28,Neutral,-0.4053578376770019,Negative
+Omg I got winded from the high note,0.0,Neutral,0.16,Positive,-0.3233819901943207,Negative
+cant hit high note i sound like a dying walrus,0.3612,Positive,0.28,Positive,-0.4053578376770019,Negative
 Thank you for making this song I love it so much it’s one of my favorite song and Alicia Siri is my favorite singer,0.9136,Positive,0.425,Positive,0.9140620827674866,Positive
 Who else has watched her music vid 30 times it it just me?lol,0.0,Neutral,0.0,Neutral,-0.503208577632904,Negative
 "me:this girl on fire
@@ -383,12 +383,12 @@ Love this song,0.6369,Positive,0.5,Positive,0.8493074774742126,Positive
 all that remains,0.0,Neutral,0.0,Neutral,0.4824188649654388,Positive
 Fireeeeeeeeeee,0.0,Neutral,0.0,Neutral,-0.3506419956684112,Negative
 Me and my cousin killed it,-0.6705,Negative,-0.2,Negative,-0.451176255941391,Negative
-Who can sing but the only people that know is my parents -.- (I dont sing much),0.0,Neutral,0.1,Neutral,0.3533059656620025,Positive
+Who can sing but the only people that know is my parents -.- (I dont sing much),0.0,Neutral,0.1,Positive,0.3533059656620025,Positive
 I LOVE THIS,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
 I love this 😍💙♥️😂♥️❤️♥️❤️❤️,0.9825,Positive,0.5,Positive,0.900801718235016,Positive
-I hit the high note and I was outside and everyone one clapped 😳😳😳😵😵,-0.4215,Negative,0.08,Neutral,-0.6351947784423828,Negative
+I hit the high note and I was outside and everyone one clapped 😳😳😳😵😵,-0.4215,Negative,0.08,Positive,-0.6351947784423828,Negative
 omg i loved thid song i sang to it like 70 times lol this is the the best,0.9246,Positive,0.8333333333333334,Positive,0.8662371039390564,Positive
-I sing this song much my family is like almost to put me up for adoption.,0.3612,Positive,0.2,Neutral,0.4775362014770508,Positive
+I sing this song much my family is like almost to put me up for adoption.,0.3612,Positive,0.2,Positive,0.4775362014770508,Positive
 Those non stop oh's hàha,-0.296,Negative,0.0,Neutral,-0.3415990769863128,Negative
 Woooowww,0.0,Neutral,0.0,Neutral,-0.280693382024765,Negative
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
@@ -401,13 +401,13 @@ Him coming downstairs (I sleep in a room downstairs)
 Me hearing him and quickly shutting down my laptop and pretending I'm asleep
 Him walking in seeing I'm ""asleep""
 Him oh nvm  *walks back upstairs*
-Me turns my laptop back on and starts singing again",0.9274,Positive,0.1555555555555555,Neutral,-0.369750052690506,Negative
+Me turns my laptop back on and starts singing again",0.9274,Positive,0.1555555555555555,Positive,-0.369750052690506,Negative
 This girl is on fire!!!!!!!!!!!!!!!!!!!!!!🔥🔥🔥🔥,-0.9036,Negative,0.0,Neutral,-0.4865619242191314,Negative
 ......???..?,0.0,Neutral,0.0,Neutral,-0.4508115351200104,Negative
 I don’t know this song but i am gona try it,0.0,Neutral,0.0,Neutral,0.3203586637973785,Neutral
 I tried singing the high note and I was so bad that my cat came running to me and put her paw on me. She thought I was literally dying because of how I sounded,-0.6696,Negative,-0.2699999999999999,Negative,-0.5622694492340088,Negative
 My bro hates how I sing #hatersbackoff,-0.4404,Negative,0.0,Neutral,-0.6927372813224792,Negative
-its too fast,0.0,Neutral,0.2,Neutral,-0.4948654770851135,Negative
+its too fast,0.0,Neutral,0.2,Positive,-0.4948654770851135,Negative
 😇😇😇😇😇😇👍👍👍👍👍,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love your videos 🥰❤️,0.91,Positive,0.5,Positive,0.7697838544845581,Positive
 Im the bast at hi notes its also my birthday,0.6369,Positive,0.58,Positive,0.4142062962055206,Positive
@@ -423,13 +423,13 @@ Anyone come here to practice singing ( just me okay 😂),0.5859,Positive,0.5,Po
 
 
 
-Just kidding I can sing I just thought it would be funny",0.6486,Positive,0.125,Neutral,-0.5135380029678345,Negative
+Just kidding I can sing I just thought it would be funny",0.6486,Positive,0.125,Positive,-0.5135380029678345,Negative
 Perfect and nice sound!!!!,0.8257,Positive,0.8588541666666667,Positive,0.8645089864730835,Positive
 I'm auditioning for bgt with this song,0.0,Neutral,0.0,Neutral,0.3741117417812347,Positive
 Plz don’t tell me I’m the only one that sings I’m their car so nobody interrupts in the house,-0.3134,Negative,0.0,Neutral,-0.3419718444347381,Negative
 this  is such a ggod,0.4404,Positive,0.35,Positive,-0.4926763474941253,Negative
 My voice is an alto and surprano. I can do both. I love this song. Helps practice my belting.:),0.7783,Positive,0.5,Positive,0.7806758284568787,Positive
-When your voice starts crashing the struggle is Real,-0.3182,Negative,0.2,Neutral,-0.2997477054595947,Negative
+When your voice starts crashing the struggle is Real,-0.3182,Negative,0.2,Positive,-0.2997477054595947,Negative
 I lost my voice,-0.3182,Negative,0.0,Neutral,-0.3913851082324981,Negative
 flight of the conchords,0.0,Neutral,0.0,Neutral,0.2592602372169494,Neutral
 Sorry neighbours😂😂😂,0.8126,Positive,-0.5,Negative,-0.5439658164978027,Negative
@@ -438,15 +438,15 @@ Sorry neighbours😂😂😂,0.8126,Positive,-0.5,Negative,-0.5439658164978027,N
 My fam: GIRL IF U DONT SHUT UP 
 ME: it’s singing tho?..
 Her: IDC PEOPLE ARE GOING TO THINK U GETTING MURDERED",-0.7297,Negative,0.0,Neutral,-0.7336178421974182,Negative
-Lol my brother is crying fr and the songs not even finished🤣,0.4404,Positive,0.3,Neutral,-0.5294464826583862,Negative
+Lol my brother is crying fr and the songs not even finished🤣,0.4404,Positive,0.3,Positive,-0.5294464826583862,Negative
 I did it!!!,0.0,Neutral,0.0,Neutral,0.5574383735656738,Positive
 Im a really shy singer but my friend wanted me to sing this in a talent show and i did and I GOT 1ST!!!,0.8492,Positive,-0.9765625,Negative,0.337648868560791,Positive
-This is going to be fun now,0.5106,Positive,0.3,Neutral,0.4452354907989502,Positive
+This is going to be fun now,0.5106,Positive,0.3,Positive,0.4452354907989502,Positive
 "Me: tries to hit high note
 
 
 
-Also me: Breaks glass xD",0.5859,Positive,0.03,Neutral,-0.3759092688560486,Negative
+Also me: Breaks glass xD",0.5859,Positive,0.03,Positive,-0.3759092688560486,Negative
 THIS SONG IS SO COOL SING....,0.4572,Positive,0.35,Positive,0.754540741443634,Positive
 ANG SWEET  NITO...............................,0.5766,Positive,0.35,Positive,0.3674812018871307,Positive
 Never new I could sing well :/,-0.0772,Negative,-0.1590909090909091,Negative,-0.387563019990921,Negative
@@ -475,7 +475,7 @@ Me: I will never be a good singer mweehh
 mum: i thought u don't like me listening
 me: Whatever",-0.4003,Negative,0.85,Positive,-0.6641328930854797,Negative
 A very enthusiastic song . Love it 😘😘,0.923,Positive,0.64,Positive,0.8352225422859192,Positive
-My  granddaughter was singing and her voice was so amazing and she started at the age of 2 and now she's 10 so if you guys now any American got talent people and  respond back to her tablet,0.8256,Positive,0.2,Neutral,0.6759501099586487,Positive
+My  granddaughter was singing and her voice was so amazing and she started at the age of 2 and now she's 10 so if you guys now any American got talent people and  respond back to her tablet,0.8256,Positive,0.2,Positive,0.6759501099586487,Positive
 "me: THIS GIRL IS ON FIREE! 
 people in my house: YOU WILL BE IF YOU DONT SHUT UP!",-0.5743,Negative,0.0,Neutral,-0.546168327331543,Negative
 I think I'm OK at this song I definitely got better though,0.8192,Positive,0.3333333333333333,Positive,0.7832937240600586,Positive
@@ -484,7 +484,7 @@ Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
 "Am I the only one scared to sing the high notes because I am scared I will sound like a dying donkey and my family will hear and embarrass me. 
 Just me okay 😩😭
 btw, I always am like, ""I can sing better than HER (i say that in my head)  while watching people my age sing on talent shows like agt.
-Then I try to sing and I go, nope! I take that back! :) 😳😂😂😂",0.9214,Positive,0.3121428571428571,Neutral,0.2436256259679794,Neutral
+Then I try to sing and I go, nope! I take that back! :) 😳😂😂😂",0.9214,Positive,0.3121428571428571,Positive,0.2436256259679794,Neutral
 "Me:THIS GIRl IS ON FiRE!!!! 
 Neighbors:is that girl crazy
 Me:Sorry neighbors",-0.7156,Negative,-0.6,Negative,-0.8432101607322693,Negative
@@ -502,7 +502,7 @@ Wowwww... Just woww.. Showed up from no where.. Keep making karaoke please ❤�
 i feel like i am on stage with my scary voice,-0.1779,Negative,-0.5,Negative,0.5102940201759338,Positive
 Hi yes we totally are because it’s my favourite song ❤️🧡💛💚💙💜💗,0.9843,Positive,0.0,Neutral,0.7234681844711304,Positive
 me trying to be angelica hales be like,0.3612,Positive,0.0,Neutral,0.2841030359268188,Neutral
-Me and mah sis are doing karaoke and I’m hitting all the high notes while my sis is just mumbling and I forgot she was in the room until I looked to my left and she was looking at me like I just ate a worm!😂,0.69,Positive,0.08,Neutral,0.2257894873619079,Neutral
+Me and mah sis are doing karaoke and I’m hitting all the high notes while my sis is just mumbling and I forgot she was in the room until I looked to my left and she was looking at me like I just ate a worm!😂,0.69,Positive,0.08,Positive,0.2257894873619079,Neutral
 "hey, I really liked this karoake and I'm going to like! But can you also please do a Dear 2045 one by Willow Sky? Thanks a lot!
 
 
@@ -517,16 +517,16 @@ Me:THIS GIRL IS ON FIREEEEE. My dad:I love your singing. Me: Thank you 👏🏼,
 "me: this girl is on fireeeeeeeeeeeeeee
 brother:this is not a privite house young lady
 me: i know but my signing is butiful
-mom: who need voice fixer",-0.1779,Negative,0.05,Neutral,-0.4509716629981994,Negative
+mom: who need voice fixer",-0.1779,Negative,0.05,Positive,-0.4509716629981994,Negative
 Fire,-0.34,Negative,0.0,Neutral,0.3200429379940033,Neutral
 "Me: THIS GIRL IS IS FIREEEE
 Mom: Why are you screaming?
 Me: Because it’s part of the song
 Mom: Get off the thing",-0.3818,Negative,0.0,Neutral,-0.4569270610809326,Negative
-I sing my highest notes alone but one day I'm gonna think Im alone but my mom hasn't left yet then I start singing . I hit a high note and the whole time my mom is recording it. I hope this never happens.,0.2144,Positive,0.12,Neutral,0.2300968319177627,Neutral
+I sing my highest notes alone but one day I'm gonna think Im alone but my mom hasn't left yet then I start singing . I hit a high note and the whole time my mom is recording it. I hope this never happens.,0.2144,Positive,0.12,Positive,0.2300968319177627,Neutral
 Anybody here because of quarantine and they are bored,-0.2732,Negative,-0.5,Negative,-0.7396835684776306,Negative
 "Parent: Okay, I'm leaving the house, be back in a few hours. Don't have any parties or whatever you teenagers do
-Us: Time to binge karaoke",-0.092,Negative,0.0999999999999999,Neutral,0.6718400120735168,Positive
+Us: Time to binge karaoke",-0.092,Negative,0.0999999999999999,Positive,0.6718400120735168,Positive
 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3085779249668121,Neutral
 😜,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Why is it that everything u sing your mom interrupts you?,-0.3182,Negative,0.0,Neutral,-0.472871720790863,Negative
@@ -546,7 +546,7 @@ i lost my voice due to this song yet here i am two days later when my voice come
 I really love singing thank you for making these videos!🥳🥳,0.9144,Positive,0.5,Positive,0.8883240818977356,Positive
 I WAS ON CALL W MY FRIEND AND I THOUGHT I MUTED AND SUNG THIS HELP ME SKKSXBEJE,0.745,Positive,0.0,Neutral,0.3984535038471222,Positive
 LEO VALDEZ SINGING THIS,0.0,Neutral,0.0,Neutral,0.4442891776561737,Positive
-The high note is not actualy that high,0.0,Neutral,0.1066666666666666,Neutral,0.435229629278183,Positive
+The high note is not actualy that high,0.0,Neutral,0.1066666666666666,Positive,0.435229629278183,Positive
 I think I got it,0.0,Neutral,0.0,Neutral,0.4019146263599396,Positive
 "Me:this girl is on fireeeeeeee!
 Mom:stop! They are now calling 911
@@ -555,16 +555,16 @@ Me:sorry neighbors... It's just a song",-0.5526,Negative,0.0,Neutral,-0.81952762
 Love this song,0.6369,Positive,0.5,Positive,0.8493074774742126,Positive
 Beautiful,0.5994,Positive,0.85,Positive,0.7432551383972168,Positive
 This girl is on fire tonight,-0.34,Negative,0.0,Neutral,0.4658344984054565,Positive
-Oml when your voice cracks on those high notes-😑,0.0,Neutral,0.16,Neutral,-0.3693950772285461,Negative
-i hit the high notes like a queen,0.3612,Positive,0.16,Neutral,0.4336950778961181,Positive
+Oml when your voice cracks on those high notes-😑,0.0,Neutral,0.16,Positive,-0.3693950772285461,Negative
+i hit the high notes like a queen,0.3612,Positive,0.16,Positive,0.4336950778961181,Positive
 I love this song !,0.6696,Positive,0.625,Positive,0.8904709815979004,Positive
 I love this song so much that my siblings say i am annoying 😅,0.6124,Positive,-0.0333333333333333,Negative,0.7627778053283691,Positive
-I sing this all the time I been singing this since I was three years old,0.0,Neutral,0.1,Neutral,0.6871756911277771,Positive
+I sing this all the time I been singing this since I was three years old,0.0,Neutral,0.1,Positive,0.6871756911277771,Positive
 I wud be sooo happy if u guys checked out my horrible cover as well❤️😭,-0.2023,Negative,-0.0999999999999999,Negative,-0.4045250415802002,Negative
 I did this song for my talent show and I won,0.7579,Positive,0.0,Neutral,0.5697143077850342,Positive
 2020,0.0,Neutral,0.0,Neutral,0.2718287110328674,Neutral
 "Guys can you please give me some advice? I think it’s an easy song and i‘ll probably sing it in the voice, but i‘m To scared. Help...",0.3182,Positive,0.4333333333333333,Positive,0.4362205266952514,Positive
-its going to fast,0.0,Neutral,0.2,Neutral,0.4213854968547821,Positive
+its going to fast,0.0,Neutral,0.2,Positive,0.4213854968547821,Positive
 Wow...😊😊 amazing,0.9618,Positive,0.6000000000000001,Positive,0.911878764629364,Positive
 My big sister Ella is12 and she’s singing the song on stage right now sorry if this doesn’t post but she told me it’s her favourite song but me Lilly I hate this song yea Lilly doran,-0.7351,Negative,-0.2535714285714285,Negative,-0.4602791666984558,Negative
 Who here in 2020,0.0,Neutral,0.0,Neutral,0.3983778953552246,Positive
@@ -572,17 +572,17 @@ i am singing this song for my talent show i sing it great i am  nervous 5 likes 
 it was my concert song and i sang it legit it was so good all meh friends were jealous,0.5069,Positive,0.7,Positive,0.6337505578994751,Positive
 J,0.0,Neutral,0.0,Neutral,0.2888481020927429,Neutral
 My sister: THIS GIRL IS ON FIRE THIS GIRL IS ON FIREEE 🔥 me and her other sister: SHUT UP YOUR SINGING IS SO BAD Mom and Dad: DONT BE MEAN TO YOUR LITTLE SISTER little sister:*CRYS* WAAAA YOUR SO MEAN,-0.9162,Negative,-0.3041666666666666,Negative,-0.7054457664489746,Negative
-I love this song it's a little catchy,0.6369,Positive,0.15625,Neutral,0.4996069669723511,Positive
+I love this song it's a little catchy,0.6369,Positive,0.15625,Positive,0.4996069669723511,Positive
 I LOVE It,0.7125,Positive,0.5,Positive,0.8333382606506348,Positive
 Girl in fire(Alicia Keys) She's just a girl,0.0,Neutral,0.0,Neutral,0.3490850925445556,Positive
 Yasss love this song and karaoke,0.6369,Positive,0.5,Positive,0.7722038626670837,Positive
 "Me.this girl is on fire 
 Mom . I wish you were on tv
 Me. oh am i that good
-Mom . No atleast a could switch it of",0.25,Positive,0.1999999999999999,Neutral,0.3912522494792938,Positive
+Mom . No atleast a could switch it of",0.25,Positive,0.1999999999999999,Positive,0.3912522494792938,Positive
 i love singking karaoke,0.6369,Positive,0.5,Positive,0.6843533515930176,Positive
 Me: this girl is on fireeee- *voice crack* fire-ysbdkchencdususbdbdusgdbdvdubdvdeeeeeeeeeeee,0.0,Neutral,0.0,Neutral,-0.7164162993431091,Negative
-Am I the only one that can’t sing when I sing karaoke but can sing on my own and with the actual music and lyrics,0.0,Neutral,0.1999999999999999,Neutral,0.3486486971378326,Positive
+Am I the only one that can’t sing when I sing karaoke but can sing on my own and with the actual music and lyrics,0.0,Neutral,0.1999999999999999,Positive,0.3486486971378326,Positive
 i love this song and love sin it thank you so much XD,0.9203,Positive,0.3999999999999999,Positive,0.9000189900398254,Positive
 my neighbors are tired of hearing me,-0.4404,Negative,-0.4,Negative,-0.3539400696754455,Negative
 am a you tube,0.0,Neutral,0.0,Neutral,0.331179529428482,Positive
@@ -591,18 +591,18 @@ am a you tube,0.0,Neutral,0.0,Neutral,0.331179529428482,Positive
 mom: *walks in my room*
 Me: *screams* MOM GET OUT!
 mom: it was very lovley. I was listing from outside your room. :)
-WHY DO MOMS ALWAYS HAVE TO INTERUPT?!?!?",-0.5119,Negative,0.3270833333333333,Neutral,-0.6628261208534241,Negative
+WHY DO MOMS ALWAYS HAVE TO INTERUPT?!?!?",-0.5119,Negative,0.3270833333333333,Positive,-0.6628261208534241,Negative
 Girl that song is good when I was singing it girl me and you are the best at doing that😗😗😗😗😗😙😙😙😙😚😚😚😚😘😘😘😘😘😘🐰🐰🐰🐹🐹,0.9979,Positive,0.85,Positive,0.5700541138648987,Positive
 I'm singing this 12/31/19 bc this song made the decade better,0.4404,Positive,0.5,Positive,0.3390306234359741,Positive
 Lost my breath singing 🎤,-0.3182,Negative,0.0,Neutral,-0.3616550862789154,Negative
 I sing love,0.6369,Positive,0.5,Positive,0.7144184112548828,Positive
 The for making vid.,0.0,Neutral,0.0,Neutral,0.361156165599823,Positive
-that was so fun,0.6418,Positive,0.3,Neutral,0.3486852049827575,Positive
-Is she really on 🔥,-0.3976,Negative,0.2,Neutral,0.2851023972034454,Neutral
+that was so fun,0.6418,Positive,0.3,Positive,0.3486852049827575,Positive
+Is she really on 🔥,-0.3976,Negative,0.2,Positive,0.2851023972034454,Neutral
 So proud you sing like a angel you're like this girl is on fire the wave she's brilliant that the wave is moving like angels singing shouting it out you like you feel the music and you're not gonna stop just wants scream when you move the wave is going higher you're going you're going up like a angel and you trying to stop the song end can you wanna feel the song girl shouted out girl I like a move and shoes are cute like why meet you and I Ireland it's that ok like you think that you're the famous girl,0.975,Positive,0.5214285714285715,Positive,0.5142688751220703,Positive
 can put in karaoke version fare on fire,-0.34,Negative,0.0,Neutral,-0.4454019665718078,Negative
 "me: this girl is on fire
-also me: * realizing my vocal cords is strong enough for this *",0.2263,Positive,0.2166666666666666,Neutral,0.3385204970836639,Positive
+also me: * realizing my vocal cords is strong enough for this *",0.2263,Positive,0.2166666666666666,Positive,0.3385204970836639,Positive
 'she's living in a world and it's on fire' alicia keys is warning us about global warming so grow some trees kids.,-0.4939,Negative,0.0,Neutral,0.296381801366806,Neutral
 M,0.0,Neutral,0.0,Neutral,-0.2921816706657409,Negative
 Angelica Hale vibes,0.0,Neutral,0.0,Neutral,0.4229732155799866,Positive
@@ -622,7 +622,7 @@ Has someone tips for me?
 Day 1
 I can only do it to the middle cause my voice cracks😭
 I warmed my voice up again and I think my voice is broken now😂
-I don't hit high notes deeper notes and my voice cracks all the time😅😭",0.9783,Positive,0.0711111111111111,Neutral,-0.3329751193523407,Negative
+I don't hit high notes deeper notes and my voice cracks all the time😅😭",0.9783,Positive,0.0711111111111111,Positive,-0.3329751193523407,Negative
 Ne!,0.0,Neutral,0.0,Neutral,-0.5343602895736694,Negative
 Why do mom's have to interrupt us when we are singing,-0.34,Negative,0.0,Neutral,-0.3167589604854584,Negative
 Stupid duet singers I wanted kareoke no duet,-0.6808,Negative,-0.7999999999999999,Negative,-0.7913708090782166,Negative
@@ -641,7 +641,7 @@ Me: Whatever
 Mom: what
 Me: nothing
 
-     Hehehehe😁😂😂",0.765,Positive,0.1,Neutral,-0.6546749472618103,Negative
+     Hehehehe😁😂😂",0.765,Positive,0.1,Positive,-0.6546749472618103,Negative
 i am singing this at my community singing night at my school..... and i auditioned and i got in!!!!,0.0,Neutral,0.0,Neutral,0.678189218044281,Positive
 Stop singing rather people need to sing sucker you shut of a b****,-0.6808,Negative,-0.3,Negative,-0.6494288444519043,Negative
 "100 likes and I'll make a cover on this account...
@@ -650,8 +650,8 @@ Stop singing rather people need to sing sucker you shut of a b****,-0.6808,Negat
 
 
 
-Please dont like. I'm shy but I'm good at singing..",0.7364,Positive,0.0999999999999999,Neutral,0.3065491616725921,Neutral
-Can't hit high notes ughh my voice cracks ahahaha,0.0,Neutral,0.16,Neutral,-0.4355325996875763,Negative
+Please dont like. I'm shy but I'm good at singing..",0.7364,Positive,0.0999999999999999,Positive,0.3065491616725921,Neutral
+Can't hit high notes ughh my voice cracks ahahaha,0.0,Neutral,0.16,Positive,-0.4355325996875763,Negative
 🥰🥰🥰🥰👧👧👧👧👧🥰🥰🥰🥰,0.9959,Positive,0.0,Neutral,0.3085779249668121,Neutral
 sorry neighbors,-0.0772,Negative,-0.5,Negative,-0.5249064564704895,Negative
 Hello,0.0,Neutral,0.0,Neutral,0.561444878578186,Positive
@@ -662,7 +662,7 @@ The start of the instrumental sounded like my old alarm a bit and I shit myself,
 Who’s here in 2k19 ???,0.0,Neutral,0.0,Neutral,-0.4351604580879211,Negative
 "69 likes and I will do a cover
 My voice sucks :))
-I sound like a chicken",0.4215,Positive,2.775557561562892e-17,Neutral,-0.6450533866882324,Negative
+I sound like a chicken",0.4215,Positive,2.775557561562892e-17,Positive,-0.6450533866882324,Negative
 "Who sings like a dying whale? x3
 
 
@@ -685,11 +685,11 @@ Neighbours: call 911 I think there is something wrong",-0.4767,Negative,-0.5,Neg
 Enjoying your song 😁,0.7506,Positive,0.5,Positive,0.4864420890808105,Positive
 "i- i hit that high note. WhT?
 
-And my mom abt to kill me. WITH FIRE. ACK AVK",-0.8331,Negative,0.16,Neutral,-0.4859538972377777,Negative
+And my mom abt to kill me. WITH FIRE. ACK AVK",-0.8331,Negative,0.16,Positive,-0.4859538972377777,Negative
 "Me:She walking on fire~
 My dad:walks in and said ""Good Job""
 My mind:OMG so one help me please",0.6983,Positive,0.7,Positive,-0.2325805723667144,Negative
-me:THIS GURL IS ON FIREEEEEEEE mom:STOP SCREAMING me:I'm singing >:O 😡😠 mom:YOUR SCARING OUR FRIENDS >:O *me and mom argue and fight*,-0.946,Negative,0.05,Neutral,-0.387452632188797,Negative
+me:THIS GURL IS ON FIREEEEEEEE mom:STOP SCREAMING me:I'm singing >:O 😡😠 mom:YOUR SCARING OUR FRIENDS >:O *me and mom argue and fight*,-0.946,Negative,0.05,Positive,-0.387452632188797,Negative
 I love this song 💖 I heard this song,0.891,Positive,0.5,Positive,0.8397480845451355,Positive
 "My daughter sang this in the talent show and everyone sang along with her. She did exelent, now she is officially a real singer!!!",0.5684,Positive,0.390625,Positive,0.8216314911842346,Positive
 I love Karaoke,0.6369,Positive,0.5,Positive,0.6831820607185364,Positive
@@ -714,16 +714,16 @@ biggest fan awesome music ever I’m shanebearddj,0.7506,Positive,1.0,Positive,0
 I sang this song for my talent show at my summer camp,0.4215,Positive,0.0,Neutral,0.5131675601005554,Positive
 😂 lol I was about to sign fire my mom said to stop the singing,0.2732,Positive,0.8,Positive,-0.6565406322479248,Negative
 20 likes and I promise I’ll do a cover just make sure to stay tune,0.7506,Positive,0.5,Positive,0.4884990453720093,Positive
-Thanks my mom started yelling at me,0.4404,Positive,0.2,Neutral,0.4595586955547333,Positive
-I'm literally crying right now.,-0.4767,Negative,0.0428571428571428,Neutral,-0.4687131643295288,Negative
+Thanks my mom started yelling at me,0.4404,Positive,0.2,Positive,0.4595586955547333,Positive
+I'm literally crying right now.,-0.4767,Negative,0.0428571428571428,Positive,-0.4687131643295288,Negative
 0:39,0.0,Neutral,0.0,Neutral,-0.4140712916851043,Negative
 0:40,0.0,Neutral,0.0,Neutral,-0.4178005456924438,Negative
 am i better,0.4404,Positive,0.5,Positive,0.4266514182090759,Positive
 I was doing amazing! Until the tHIS gIrL isS on frIre,0.4003,Positive,0.7500000000000001,Positive,0.3277441263198852,Neutral
 Fire,-0.34,Negative,0.0,Neutral,0.3200429379940033,Neutral
 Anyone in 2019 😉😉😉😉😉 pliz Like,0.3612,Positive,0.0,Neutral,-0.4192039966583252,Negative
-I hit the the FRICKIN HIGH NOTES OMG.. BUT when i almost lost my breath i used too much high notes i cannot high note at this girl is on fire.. Welp.. Gotta practice  for my dream💜🙌,0.5704,Positive,0.16,Neutral,-0.352042943239212,Negative
-LEGAL,0.128,Positive,0.2,Neutral,-0.2805813550949096,Negative
+I hit the the FRICKIN HIGH NOTES OMG.. BUT when i almost lost my breath i used too much high notes i cannot high note at this girl is on fire.. Welp.. Gotta practice  for my dream💜🙌,0.5704,Positive,0.16,Positive,-0.352042943239212,Negative
+LEGAL,0.128,Positive,0.2,Positive,-0.2805813550949096,Negative
 "If I’m able to get 20 or more subscribers then I’ll do a cover with my own audio, and I really want 20 or more subscribers lol",0.5678,Positive,0.5166666666666666,Positive,-0.2942706346511841,Negative
 THIS GIRL IS ON FIRE THIS GIRL IS ON FIRE 🎸🎷🎺🎻🎹🥁🎤,-0.7404,Negative,0.0,Neutral,-0.7850261926651001,Negative
 I can du it,0.0,Neutral,0.0,Neutral,0.3928550779819488,Positive
@@ -732,7 +732,7 @@ As if I hit the chorus. Surprised myself lol.,0.5719,Positive,0.45,Positive,0.39
 50 likes and i’ll do a cover!,0.4753,Positive,0.0,Neutral,0.4776040613651275,Positive
 can you make a karaoke for blood in the water by grandson?,0.0,Neutral,0.0,Neutral,0.2516342401504516,Neutral
 you are so awsome,0.7384,Positive,1.0,Positive,-0.3415111005306244,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 j'adore cette musique,0.6369,Positive,0.5,Positive,0.6580943465232849,Positive
 c treop bien,0.4927,Positive,0.91,Positive,0.4055409431457519,Positive
 "Me : oh oh oh , 
@@ -777,12 +777,12 @@ I LOVE THIS SONG!!!!!😆😆😆😆,0.9442,Positive,0.5,Positive,0.89937210083
 I am using this song for my talent show,0.4215,Positive,0.0,Neutral,0.5279753804206848,Positive
 1:56,0.0,Neutral,0.0,Neutral,0.2329889088869094,Neutral
 I'm special because when I sleep at night my heart just transform into a angel heart,0.9022,Positive,0.3571428571428571,Positive,0.5402207970619202,Positive
-:c I'm singing this about my friend she is better than me so I see she is on fire and she's happy c:,0.6486,Positive,0.1833333333333333,Neutral,0.4342551827430725,Positive
+:c I'm singing this about my friend she is better than me so I see she is on fire and she's happy c:,0.6486,Positive,0.1833333333333333,Positive,0.4342551827430725,Positive
 I had a sing off with another girl and I won by singing this song.,0.5719,Positive,0.0,Neutral,-0.3029785454273224,Negative
 70likes and I'll do cover,0.0,Neutral,0.0,Neutral,0.2643806338310241,Neutral
 I'm singing this at the school talent show,0.4215,Positive,0.0,Neutral,0.4811880886554718,Positive
 how do people sing like her if I try I cant,0.3612,Positive,0.0,Neutral,0.3805650770664215,Positive
-I don't know if I hit the high note or if I am just screaming...,-0.3818,Negative,0.16,Neutral,-0.3420855700969696,Negative
+I don't know if I hit the high note or if I am just screaming...,-0.3818,Negative,0.16,Positive,-0.3420855700969696,Negative
 He just a boy and his on fire,-0.34,Negative,0.0,Neutral,-0.3375040590763092,Negative
 BR?,0.0,Neutral,0.0,Neutral,-0.3457819521427154,Negative
 "My parents don’t disturb me because they are downstairs. Or out.
@@ -818,11 +818,11 @@ Me: So i can get my damned vical chords to cooperate  ._.
 Friend: XD XD XD",0.9949,Positive,-0.3916666666666666,Negative,-0.4792715907096863,Negative
 I am so bad at this song😕😕,-0.8439,Negative,-0.6999999999999998,Negative,-0.7384265065193176,Negative
 "While singing .... I was just going through all the comments .... and all i did was she's just a girl hahaha ..... hotter than a hahahaha ...... 
-This girl is on fir hahahah..😂😂😂",0.926,Positive,0.2,Neutral,-0.3767113387584686,Negative
+This girl is on fir hahahah..😂😂😂",0.926,Positive,0.2,Positive,-0.3767113387584686,Negative
 Beautiful.,0.5994,Positive,0.85,Positive,0.7605537176132202,Positive
 Who thinks I should do a cover??,0.0,Neutral,0.0,Neutral,-0.3400000631809234,Negative
 "Lyrics: 
-She's just a girl and she's on fire hotter than a fantasy lonely like a highway she's living in a world and it's on fire filled with catastrophe but she knows she can fly away ohhhh oh oh oh oh she's got both feet on the ground and she's burning it down oh oh oh oh ohhhh oh oh oh oh she got her head in the clouds and she's not backing down this girl is on fire this girl is on fire she's walking on fire this girl is on fire looks like a girl but shes a flame so bright she can burn your eyes, better look the other way you can try but you'll never forget her name she's on top of the world hottest of the hottest girls say ohhhh oh oh oh oh we got our feet on the ground and we're burning it down oh oh oh oh ohhhh  oh oh oh oh got our head in the clouds and we're not coming down this girl is on fire this girl is on fire she's walking on fire this girl is on fire everybody stares as she goes bye cause they can see the flame that's in her eyes watch her when she's lighting up the night nobody knows that she's a lonely girl and it's a lonely world but she gon let it burn baby burn baby this girl is on fire this girl is on fire she's walking on fire this girl is on fire oh oh oh oh ohhhh oh oh oh ohhhh oh oh oh ohhhh oh oh oh oh ohhh",-0.9842,Negative,0.1425213675213675,Neutral,-0.3130953311920166,Negative
+She's just a girl and she's on fire hotter than a fantasy lonely like a highway she's living in a world and it's on fire filled with catastrophe but she knows she can fly away ohhhh oh oh oh oh she's got both feet on the ground and she's burning it down oh oh oh oh ohhhh oh oh oh oh she got her head in the clouds and she's not backing down this girl is on fire this girl is on fire she's walking on fire this girl is on fire looks like a girl but shes a flame so bright she can burn your eyes, better look the other way you can try but you'll never forget her name she's on top of the world hottest of the hottest girls say ohhhh oh oh oh oh we got our feet on the ground and we're burning it down oh oh oh oh ohhhh  oh oh oh oh got our head in the clouds and we're not coming down this girl is on fire this girl is on fire she's walking on fire this girl is on fire everybody stares as she goes bye cause they can see the flame that's in her eyes watch her when she's lighting up the night nobody knows that she's a lonely girl and it's a lonely world but she gon let it burn baby burn baby this girl is on fire this girl is on fire she's walking on fire this girl is on fire oh oh oh oh ohhhh oh oh oh ohhhh oh oh oh ohhhh oh oh oh oh ohhh",-0.9842,Negative,0.1425213675213675,Positive,-0.3130953311920166,Negative
 50 likes I’ll do a cover,0.4215,Positive,0.0,Neutral,0.2750166952610016,Neutral
 Good but way to fast,0.2382,Positive,0.4499999999999999,Positive,0.4782608449459076,Positive
 I’m singing this at my singing lessons 🙂,0.4033,Positive,0.0,Neutral,0.5680761337280273,Positive
@@ -843,14 +843,14 @@ said stay in your room forever and sing",-0.1779,Negative,-0.3333333333333333,Ne
 I like the song girl on fire 🤗🤗🤗🤗😘😘😘😘😘😘😘😀😀😀😀😀😀,0.9911,Positive,0.0,Neutral,0.507498025894165,Positive
 I love the channel I do but id rather not be a voice that sings with you some of the time,0.3818,Positive,0.5,Positive,0.422188401222229,Positive
 R.i.p My neighbor ears,0.0,Neutral,0.0,Neutral,0.3691710233688354,Positive
-It sound like she is actually on fire 🔥,-0.3182,Negative,0.2,Neutral,-0.3703981637954712,Negative
+It sound like she is actually on fire 🔥,-0.3182,Negative,0.2,Positive,-0.3703981637954712,Negative
 TY IT HELPED ME!,0.4389,Positive,0.0,Neutral,0.601262629032135,Positive
 Ok I put it on 1.25x and i feel like it sounds better that way,0.765,Positive,0.5,Positive,0.7959473729133606,Positive
 Love this sog,0.6369,Positive,0.5,Positive,0.798360288143158,Positive
 DIS GIRL IS ON FIRE FOR PUTTING GASOLINE AND OIL OH NUU THIS GIRL IS ON FIRRRRREEE,-0.34,Negative,0.0,Neutral,-0.5073568820953369,Negative
 I love THIS SONG,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Angellica u rock,0.0,Neutral,0.0,Neutral,0.3617508113384247,Positive
-Who nearly passed out in the chorus ahah?,0.0,Neutral,0.1,Neutral,-0.4584027528762817,Negative
+Who nearly passed out in the chorus ahah?,0.0,Neutral,0.1,Positive,-0.4584027528762817,Negative
 Say selena 10 times clap 5 times post in 2 other videos check ur voice,0.0,Neutral,-0.125,Negative,-0.759671688079834,Negative
 1 like and I'll do a cover,0.3612,Positive,0.0,Neutral,0.4210586845874786,Positive
 "2
@@ -868,9 +868,9 @@ I'm on FIRE when I sing this song,-0.4824,Negative,0.0,Neutral,-0.45123454928398
 another song with my art teacher,0.0,Neutral,0.0,Neutral,0.344095230102539,Positive
 It is great,0.6249,Positive,0.8,Positive,0.6642028093338013,Positive
 بجد بجد روعه,0.5709,Positive,1.0,Positive,0.3034562766551971,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 "I don,t ever know if my mom is recording or just listens and then she walks well my mom doesn’t because I keep it lock 🔒😓😂",0.296,Positive,0.0,Neutral,0.3164569437503814,Neutral
-Me and my friend hit the high note and sang it 10 times afterwards like a pro,0.6908,Positive,0.16,Neutral,0.6151635050773621,Positive
+Me and my friend hit the high note and sang it 10 times afterwards like a pro,0.6908,Positive,0.16,Positive,0.6151635050773621,Positive
 W,0.0,Neutral,0.0,Neutral,0.3924260437488556,Positive
 What is the instrument that is playing at the start of the song? Its making me cringe.,0.2023,Positive,0.0,Neutral,-0.4180746674537658,Negative
 "Ohhh, my voice!!! Is...
@@ -931,9 +931,9 @@ i sing so well and i  love this song,0.787,Positive,0.5,Positive,0.8572314381599
 In*",-0.34,Negative,0.0,Neutral,-0.2749779522418976,Negative
 "I was born with a bad voice but i love to sing anyone else stuck im the same situation?no!?only me???!!?
 
-Ok ☺sad life",0.9133,Positive,0.075,Neutral,-0.2773257195949554,Negative
+Ok ☺sad life",0.9133,Positive,0.075,Positive,-0.2773257195949554,Negative
 You are my friends forever from jayln Austin,0.4767,Positive,0.0,Neutral,0.7390196919441223,Positive
-Guess what once when I was only six my mum came in the room and I was singing let it go now I don’t like frozen anymore but I was really cute and my mum RECORDED ME I did not like that!,0.5881,Positive,0.3125,Neutral,-0.3766976296901703,Negative
+Guess what once when I was only six my mum came in the room and I was singing let it go now I don’t like frozen anymore but I was really cute and my mum RECORDED ME I did not like that!,0.5881,Positive,0.3125,Positive,-0.3766976296901703,Negative
 me and my mom are laughing our heads off,0.4939,Positive,0.0,Neutral,-0.440191775560379,Negative
 I sing it every day,0.0,Neutral,0.0,Neutral,0.6793280839920044,Positive
 oh my gosh im proud of myself😂,0.7184,Positive,0.8,Positive,0.7498784065246582,Positive

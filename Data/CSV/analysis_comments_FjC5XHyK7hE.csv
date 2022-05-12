@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
-i sing the song so loud next door can hear it i cant stop lol,-0.1139,Negative,0.3,Neutral,-0.3302883207798004,Negative
-usually there is no bad words,0.431,Positive,0.0499999999999999,Neutral,0.3320090472698211,Positive
+i sing the song so loud next door can hear it i cant stop lol,-0.1139,Negative,0.3,Positive,-0.3302883207798004,Negative
+usually there is no bad words,0.431,Positive,0.0499999999999999,Positive,0.3320090472698211,Positive
 "My sister love""s this song lol👑👑👑👑👑👑👑😅😅🥳🥳🥳🤩🥰😏😏😱⭐❤️❤️❤️❤️",0.9442,Positive,0.5,Positive,0.6635775566101074,Positive
 "Who's watching this in 2021?
 ↓
@@ -32,7 +32,7 @@ This song reminds me of my crush,-0.1531,Negative,0.0,Neutral,0.6667159199714661
 THANK U POLAR RECORDS!!!!!,0.5673,Positive,-0.2543131510416666,Negative,0.5534131526947021,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 hobbs and shaw trailer,0.0,Neutral,0.0,Neutral,0.3049358129501343,Neutral
-Only reason why I’m here cause I have a music report to do but I still love this song so much.,0.7783,Positive,0.2333333333333333,Neutral,0.4668610692024231,Positive
+Only reason why I’m here cause I have a music report to do but I still love this song so much.,0.7783,Positive,0.2333333333333333,Positive,0.4668610692024231,Positive
 "Roses are Red
 Ketchup is too
 Yay I got a like
@@ -50,7 +50,7 @@ Every line is ooh la la LA.....",0.0,Neutral,0.0,Neutral,-0.4017348289489746,Neg
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Mee,0.0,Neutral,0.0,Neutral,0.3332041800022125,Positive
 Whatttt- this song is clean-,0.4019,Positive,0.3666666666666667,Positive,0.4671108424663543,Positive
-ist spanish music nice,0.4215,Positive,0.3,Neutral,0.3978645205497741,Positive
+ist spanish music nice,0.4215,Positive,0.3,Positive,0.3978645205497741,Positive
 Oh my memories oml stop I got too many memories by this song,-0.296,Negative,0.5,Positive,-0.4416339099407196,Negative
 Me,0.0,Neutral,0.0,Neutral,0.2765241265296936,Neutral
 Uh woo guess,0.4767,Positive,0.0,Neutral,-0.2789397835731506,Negative
@@ -63,10 +63,10 @@ No one is in my hose,-0.296,Negative,0.0,Neutral,-0.4942889809608459,Negative
 2018 was the nest music year in my opinnion,0.6369,Positive,1.0,Positive,0.6215565800666809,Positive
 ✨❤😘😍😍😍😍😍😍👍😎🎉🐱‍👤🐱‍🐉✨❤❤,0.9916,Positive,0.0,Neutral,0.3085779249668121,Neutral
 pennywise,0.0,Neutral,0.0,Neutral,0.3448694944381714,Positive
-This is my favorite song I listen to it every day till I get old,0.4588,Positive,0.3,Neutral,0.8218211531639099,Positive
+This is my favorite song I listen to it every day till I get old,0.4588,Positive,0.3,Positive,0.8218211531639099,Positive
 I’m a kid but just don’t think I like it I love it,0.8765,Positive,0.5,Positive,0.4321028590202331,Positive
 I am,0.0,Neutral,0.0,Neutral,0.4585228264331817,Positive
-i love this song so bad:),-0.075,Negative,0.1,Neutral,0.8104667663574219,Positive
+i love this song so bad:),-0.075,Negative,0.1,Positive,0.8104667663574219,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Senorita,0.0,Neutral,0.0,Neutral,0.4017680287361145,Positive
 "Okay I used to love to do cheerleading and I danced to this song
@@ -94,13 +94,13 @@ Senorita,0.0,Neutral,0.0,Neutral,0.4017680287361145,Positive
 
 And when I watch this I almost cry for some reason",0.6697,Positive,0.5,Positive,0.8868057727813721,Positive
 I love this song a lot I’m gonna die bc this song:D ty who made this song,0.4404,Positive,0.5,Positive,0.7580924034118652,Positive
-"For those out there who have depression or are just feeling sad read this. If you ever think you are pointless or don't belong, just remember that you have a part in this world and your part is to be yourself. God made you for a reason, a good reason. I have depression but it isn't holding me back, I have some amazing friends who keep my spirits up. Sometimes there are those times where things don't go right. So just remember that if things don't go right, go left with a smile on your face. :)    ❤️🧡💛💚💙💜",0.9938,Positive,0.1921428571428571,Neutral,0.5152388215065002,Positive
+"For those out there who have depression or are just feeling sad read this. If you ever think you are pointless or don't belong, just remember that you have a part in this world and your part is to be yourself. God made you for a reason, a good reason. I have depression but it isn't holding me back, I have some amazing friends who keep my spirits up. Sometimes there are those times where things don't go right. So just remember that if things don't go right, go left with a smile on your face. :)    ❤️🧡💛💚💙💜",0.9938,Positive,0.1921428571428571,Positive,0.5152388215065002,Positive
 "Locked in the house 
 It seems like coronavirus. Will never.end yeah",0.5719,Positive,0.0,Neutral,-0.6477338671684265,Negative
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I really really really really love I will listen to this song all the time,0.7214,Positive,0.5,Positive,0.906349778175354,Positive
 Wooo!!!!,0.0,Neutral,0.0,Neutral,-0.3206870555877685,Negative
-the word senortia means young k j young lady,0.0,Neutral,0.1,Neutral,0.239553228020668,Neutral
+the word senortia means young k j young lady,0.0,Neutral,0.1,Positive,0.239553228020668,Neutral
 I love this song but it says the d word,0.3818,Positive,0.5,Positive,0.3182843029499054,Neutral
 I made a dance to this song 😁,0.4588,Positive,0.0,Neutral,0.5356876254081726,Positive
 👏👍🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
@@ -122,7 +122,7 @@ hi Shawn  Camila love your fist song its really good miss you guys,0.759,Positiv
 i was listing to music and then u came to my screen and then i said i will comment to tell u that i was listing to music to lurn how to sing omg,0.0,Neutral,0.0,Neutral,-0.4327026903629303,Negative
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 I love this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
-Hi my name is Maya it might say Carrie Bankhead because that's my Guardians name but I am I really like you music,0.5704,Positive,0.2,Neutral,0.3606093525886535,Positive
+Hi my name is Maya it might say Carrie Bankhead because that's my Guardians name but I am I really like you music,0.5704,Positive,0.2,Positive,0.3606093525886535,Positive
 we miss er,-0.1531,Negative,0.0,Neutral,-0.3035992085933685,Negative
 love it,0.6369,Positive,0.5,Positive,0.8348285555839539,Positive
 I mm watching on Corona virus and on 2020 who is too?,0.0,Neutral,0.0,Neutral,-0.3540404140949249,Negative
@@ -138,7 +138,7 @@ to take out the bad word they changed the lyrics of what I see when I see the re
 υοαυο.,0.0,Neutral,0.0,Neutral,0.2611952126026153,Neutral
 Buenísimo👍,0.6249,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "What a song man!!!!!
-Wow wow and wow!!!👍",0.9269,Positive,0.1,Neutral,0.9055831432342528,Positive
+Wow wow and wow!!!👍",0.9269,Positive,0.1,Positive,0.9055831432342528,Positive
 "Oooh I love it when you call me senorita because you know that I'm Latina
 
 
@@ -149,7 +149,7 @@ we miss  you guys will you re;py to us,-0.1531,Negative,0.0,Neutral,0.3086775541
 "6:0 
 Rolla the best in the world cup and",0.6369,Positive,1.0,Positive,0.8538013696670532,Positive
 "who do you think is cute
-look at the third word",0.4588,Positive,0.25,Neutral,0.2663884460926056,Neutral
+look at the third word",0.4588,Positive,0.25,Positive,0.2663884460926056,Neutral
 This song is 🤗🤗🤗🤗🤗🤗🤗🤗🤗,0.9726,Positive,0.0,Neutral,0.4973007440567016,Positive
 I love this Song is very much,0.6369,Positive,0.38,Positive,0.8521668910980225,Positive
 "Smart people: writes something about the song
@@ -176,7 +176,7 @@ XD,0.5859,Positive,0.0,Neutral,0.4124718010425567,Positive
 Nvm it was paused,0.0,Neutral,0.0,Neutral,-0.3923277258872986,Negative
 Xd at the beginning it was frozen for. Me at the at,0.5859,Positive,0.0,Neutral,-0.3304768800735473,Negative
 😍😍😍😍😍😍,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Nagyonjó az lpées video csak az en lps es video imnál szar,0.1761,Positive,0.3049999999999999,Neutral,0.3017448186874389,Neutral
+Nagyonjó az lpées video csak az en lps es video imnál szar,0.1761,Positive,0.3049999999999999,Positive,0.3017448186874389,Neutral
 Edit what app??,0.0,Neutral,0.0,Neutral,-0.4312220811843872,Negative
 Look,0.0,Neutral,0.0,Neutral,0.3555504977703094,Positive
 "Senhorita olalala
@@ -186,7 +186,7 @@ I love the music,0.6369,Positive,0.5,Positive,0.722321093082428,Positive
 I love,0.6369,Positive,0.5,Positive,0.7596659064292908,Positive
 Love  Love,0.8555,Positive,0.5,Positive,0.7046979069709778,Positive
 I thought  the song was clean its not????? :3,-0.2411,Negative,0.4333333333333333,Positive,-0.3845065236091614,Negative
-"I love , wow 💋💋❤❤",0.9719,Positive,0.3,Neutral,0.9261105060577391,Positive
+"I love , wow 💋💋❤❤",0.9719,Positive,0.3,Positive,0.9261105060577391,Positive
 😍😍😍😍😍😍😍😗😘😍😍😍😍😍😍😍😍😍😍😍,0.9955,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 Heart touching 😊😊😊,0.969,Positive,0.5,Positive,0.3941532075405121,Positive
@@ -197,7 +197,7 @@ Camilla:I love it when you call me seniororita!
 Shawn:I love it when u call ** seniororita!    
 
 
-Sorry i can’t spell:) hope u understand now",0.9115,Positive,0.3125,Neutral,0.4090617597103119,Positive
+Sorry i can’t spell:) hope u understand now",0.9115,Positive,0.3125,Positive,0.4090617597103119,Positive
 "heyyyyy you.
 yes, you.
 
@@ -270,14 +270,14 @@ but you gotta keep going, buddy.
 
 
 
-good luck buddy :)",0.9195,Positive,0.2036706349206349,Neutral,0.3598382174968719,Positive
-You better sing but I don't know you sing this because I make YouTube videos cuz you know I'm not the only one who can help you know I'm not the only one who can help you,0.8422,Positive,0.1666666666666666,Neutral,0.3339908421039581,Positive
+good luck buddy :)",0.9195,Positive,0.2036706349206349,Positive,0.3598382174968719,Positive
+You better sing but I don't know you sing this because I make YouTube videos cuz you know I'm not the only one who can help you know I'm not the only one who can help you,0.8422,Positive,0.1666666666666666,Positive,0.3339908421039581,Positive
 Go Ariana,0.0,Neutral,0.0,Neutral,0.3608480095863342,Positive
 Me encanta mucho 🙂🙂🙂,0.9115,Positive,0.35,Positive,0.8286153078079224,Positive
 💖,0.7506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Tuta,0.0,Neutral,0.0,Neutral,0.239481121301651,Neutral
 i will hear this song until 2050,0.0,Neutral,0.0,Neutral,0.4586126506328583,Positive
-2k,0.0,Neutral,0.2857142857142857,Neutral,0.2372758537530899,Neutral
+2k,0.0,Neutral,0.2857142857142857,Positive,0.2372758537530899,Neutral
 "I love it when...
 
 
@@ -289,8 +289,8 @@ I FINALLY GET A  BREAK OF SCHOOL AFTER 6 LONG WEEKS
 
 
 
-*now that I see what I've written I realise it's not that long*",0.6369,Positive,0.1,Neutral,0.3849973976612091,Positive
-Wow I have to luke,0.5859,Positive,0.1,Neutral,0.639765202999115,Positive
+*now that I see what I've written I realise it's not that long*",0.6369,Positive,0.1,Positive,0.3849973976612091,Positive
+Wow I have to luke,0.5859,Positive,0.1,Positive,0.639765202999115,Positive
 Alguien habla español? DX,-0.694,Negative,0.0,Neutral,-0.4196536242961883,Negative
 Hihi les français vous êtes où,0.0,Neutral,0.0,Neutral,-0.2682622969150543,Negative
 O MYGOSH💓💘💝💗💞💟💖💕💜💛💚❤💙💋😻😘,0.9967,Positive,0.0,Neutral,0.262384831905365,Neutral
@@ -310,12 +310,12 @@ Ahoj,0.0,Neutral,0.0,Neutral,0.2850454151630401,Neutral
 What is the music of camila cabelo oh!,0.0,Neutral,0.0,Neutral,0.3611473143100738,Positive
 Did u señorita means sir🥴,0.0,Neutral,0.0,Neutral,0.2608049809932709,Neutral
 🤔🤔 😇Sofia,0.4588,Positive,0.0,Neutral,0.3428077399730682,Positive
-The amount of subscriptions I get is how much people will survive the caronavirus  and any other viruses or diseases,0.0,Neutral,0.0375,Neutral,0.2791717946529388,Neutral
+The amount of subscriptions I get is how much people will survive the caronavirus  and any other viruses or diseases,0.0,Neutral,0.0375,Positive,0.2791717946529388,Neutral
 👍😎,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Who's watching in 2020 leaves the like,0.3612,Positive,0.0,Neutral,-0.2748500406742096,Negative
 I love their songs,0.6369,Positive,0.5,Positive,0.6878525614738464,Positive
 eu sou a unica brasileira,0.0,Neutral,0.0,Neutral,0.2810424566268921,Neutral
-!!!!!ви випустіть нову піснююю ждем!!!,0.0,Neutral,0.2663352272727272,Neutral,0.3942769169807434,Positive
+!!!!!ви випустіть нову піснююю ждем!!!,0.0,Neutral,0.2663352272727272,Positive,0.3942769169807434,Positive
 Ваша група прекрасна,0.5719,Positive,1.0,Positive,0.4567829072475433,Positive
 Senroito se,0.0,Neutral,0.0,Neutral,0.3075795769691467,Neutral
 I love this song I have been listening to this since it as been out,0.6369,Positive,0.5,Positive,0.8235331773757935,Positive
@@ -332,7 +332,7 @@ I love you ❤️💞💕,0.93,Positive,0.5,Positive,0.8701996207237244,Positive
 I like it when you let me eat 🍌,0.3612,Positive,0.0,Neutral,0.4379549324512481,Positive
 Bellissima,0.6124,Positive,0.7,Positive,0.8401375412940979,Positive
 hih ishud iwowiodhwidiw dhoawdukjwhdjkwejoilk,0.0,Neutral,0.0,Neutral,-0.2830044627189636,Negative
-Hahaha seniorita guess so but that's not how it works at our house,0.3182,Positive,0.2,Neutral,0.4890844225883484,Positive
+Hahaha seniorita guess so but that's not how it works at our house,0.3182,Positive,0.2,Positive,0.4890844225883484,Positive
 Senorita is the best song,0.6369,Positive,1.0,Positive,0.660328209400177,Positive
 i love the song,0.6369,Positive,0.5,Positive,0.7057780027389526,Positive
 Bruh if there's no b Epping it's not called clean,-0.5358,Negative,0.3666666666666667,Positive,-0.418477326631546,Negative
@@ -362,7 +362,7 @@ Wait anyone else  notice that it said clean lyrics but senyorita  dosent  swear 
 Lalala its true  lalala,0.4215,Positive,0.35,Positive,0.5407564043998718,Positive
 Lalala yeahhh,0.0,Neutral,0.0,Neutral,-0.2621716260910034,Negative
 This song gets my hopes up,0.4215,Positive,0.0,Neutral,0.541001558303833,Positive
-I like your songs so much,0.3612,Positive,0.2,Neutral,0.6645398139953613,Positive
+I like your songs so much,0.3612,Positive,0.2,Positive,0.6645398139953613,Positive
 0,0.0,Neutral,0.0,Neutral,-0.8090890049934387,Negative
 "We all know that one friend that sings the song wrong.....
 
@@ -374,14 +374,14 @@ I love😍😍🙏!!!!,0.9075,Positive,0.0,Neutral,0.4482706487178802,Positive
 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
 Telio,0.0,Neutral,0.0,Neutral,0.2752297222614288,Neutral
 I love seniorita😍😍😍😘,0.9432,Positive,0.5,Positive,0.8423482775688171,Positive
-And my old 7 old,0.0,Neutral,0.1,Neutral,0.5433283448219299,Positive
+And my old 7 old,0.0,Neutral,0.1,Positive,0.5433283448219299,Positive
 I in 2020 but i from malay and i girl but i done hate china but Sinapore there want hate china,-0.8922,Negative,-0.8,Negative,-0.4865947961807251,Negative
 🌹🐇🐶🐥💙💙💐💐💐💐💐💐🥀🐶🐶🐶🐇🐇🦜🦜💐💐🦢💐🦢🦢,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love this song soooooooo much and  my some of my friends love that song,0.91,Positive,0.3999999999999999,Positive,0.7747835516929626,Positive
 You keep me coming oh you keep me coming for ya.,0.0,Neutral,0.0,Neutral,0.3746916949748993,Positive
 AMEI.LALALA,0.5994,Positive,0.7,Positive,0.2790847718715668,Neutral
 Señorita..ooh.lalala💃,0.0,Neutral,0.0,Neutral,0.3057523071765899,Neutral
-This song is stuck In my head especially when they say I LOVE IT WHEN YOU CALL ME SE,0.6037,Positive,0.25,Neutral,-0.231092557311058,Negative
+This song is stuck In my head especially when they say I LOVE IT WHEN YOU CALL ME SE,0.6037,Positive,0.25,Positive,-0.231092557311058,Negative
 senorita,0.0,Neutral,0.0,Neutral,0.4017680287361145,Positive
 Faded    cokk  dance   moke,0.0,Neutral,0.0,Neutral,-0.4186306893825531,Negative
 Try 1.25 speed omg this advice cost NO LIKES,-0.5856,Negative,0.0,Neutral,0.315661609172821,Neutral
@@ -421,7 +421,7 @@ This song is the best I was delighted with this music,0.8176,Positive,0.85,Posit
 I love  ❤❤,0.9274,Positive,0.5,Positive,0.8423482775688171,Positive
 That I love the music,0.6369,Positive,0.5,Positive,0.6678614020347595,Positive
 Cool Señorita replaying again i like song and havana,0.5859,Positive,0.35,Positive,0.5024780035018921,Positive
-Live wow yeannel,0.5859,Positive,0.1181818181818181,Neutral,0.5993908643722534,Positive
+Live wow yeannel,0.5859,Positive,0.1181818181818181,Positive,0.5993908643722534,Positive
 I JUST LOVE THIS VIDEO,0.6369,Positive,0.5,Positive,0.8575305938720703,Positive
 Great song,0.6249,Positive,0.8,Positive,0.715724527835846,Positive
 😗,0.5719,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -436,7 +436,7 @@ Does this song have any curse words?",-0.5423,Negative,0.0,Neutral,-0.6013519763
 Isn't this song already in a clean version?,0.4019,Positive,0.3666666666666667,Positive,-0.3280642330646515,Negative
 "o la la 2019 2020?
 ???",0.0,Neutral,0.0,Neutral,-0.4513542950153351,Negative
-"its  ""land in Miami"" not ""late in Miami"" 😉",0.0,Neutral,0.15,Neutral,0.3612756133079529,Positive
+"its  ""land in Miami"" not ""late in Miami"" 😉",0.0,Neutral,0.15,Positive,0.3612756133079529,Positive
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Wait so it says clean lyrics but when does it say anything worth censoring?,0.5158,Positive,0.3333333333333333,Positive,-0.3517941236495971,Negative
 yo soy la unica que habla español aqui si hablas español reportete con un like :v,0.3612,Positive,0.0,Neutral,-0.448661208152771,Negative
@@ -448,7 +448,7 @@ Xjxk. Dnxn in c. Nx x m dii OK snfmj",0.4466,Positive,0.5,Positive,-0.3393843472
 Nxj Jxn.  Dksn dc n. Vjx jm xk. J Ed xjx p  dc n as h dc j. In dnkk OK do sax Dk,0.4466,Positive,0.5,Positive,0.3156500160694122,Neutral
 In Dn n.  Ex bn. Dc jx v b ex don j. In no ixx dc Dn. Dj dnk next.   M dc x. Jxj. XX in. Xj b dc n in.   D jn izz as n. Nd in nxiv,-0.296,Negative,0.0,Neutral,-0.4635743498802185,Negative
 Meguta😘😘😘😘😘😘😘😘😘😘😘,0.9814,Positive,0.0,Neutral,0.3085779249668121,Neutral
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 From karriann,0.0,Neutral,0.0,Neutral,0.263452410697937,Neutral
 💋💋💋💋💋💋💋💋💋💖💖💖💖💝💝💝💝💝💝💝💝💝👸👩‍🦰👩💝💝💝💔💔💔,0.9987,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "I love you so much 
@@ -457,12 +457,12 @@ I love you so much  I love you so much",0.9617,Positive,0.44,Positive,0.89540755
 Nice song💕💕💕💕💕,0.9783,Positive,0.6,Positive,0.4382759034633636,Positive
 Eu amo demais essa música (SENORITA)🤩🤩🤩🤩🤩🤩😝😝😝😜😜😜😘😘😘,0.9118,Positive,0.35,Positive,0.254938930273056,Neutral
 Amo esta cancion,0.6369,Positive,0.5,Positive,0.6954569816589355,Positive
-I made my own version of senorita in Spanish and English and my cousin recorded the Spanish one and IT WAS SO FUNNY🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 I think I had too much candy,0.9911,Positive,0.16,Neutral,-0.269060879945755,Negative
+I made my own version of senorita in Spanish and English and my cousin recorded the Spanish one and IT WAS SO FUNNY🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 I think I had too much candy,0.9911,Positive,0.16,Positive,-0.269060879945755,Negative
 "Señorita: oohlala
 Shawn: it’s true Lala",0.4215,Positive,0.35,Positive,0.3006606101989746,Neutral
 curry,0.0,Neutral,0.0,Neutral,0.3131967484951019,Neutral
 I love this song I'm listening to this song until 2021,0.6369,Positive,0.5,Positive,0.7755074501037598,Positive
-I love it when I eat Chick-fil-A I I wish I could pretend you were healthy but every bite is mummmm not healthy la la la it’s true la la la ooo I should stop it but I love it too much,0.8724,Positive,0.3,Neutral,0.4141635596752167,Positive
+I love it when I eat Chick-fil-A I I wish I could pretend you were healthy but every bite is mummmm not healthy la la la it’s true la la la ooo I should stop it but I love it too much,0.8724,Positive,0.3,Positive,0.4141635596752167,Positive
 I love it when you call me senorita,0.6369,Positive,0.5,Positive,0.8139100074768066,Positive
 Omg me and my sister like this song,0.3612,Positive,0.0,Neutral,0.6338989734649658,Positive
 shawn & camila such good singers!!!!!!!!!! AMZING,0.6209,Positive,0.5,Positive,0.708104133605957,Positive
@@ -486,7 +486,7 @@ Camelo cabelo love ya your,0.6369,Positive,0.5,Positive,0.6806925535202026,Posit
 THIS is my favorite song  . It is butefull . I'm karma,0.4588,Positive,0.5,Positive,0.7040554285049438,Positive
 i love this song😊😊😊😊😊😀,0.9879,Positive,0.5,Positive,0.900801718235016,Positive
 Do change ginamit,0.0,Neutral,0.0,Neutral,0.2949646115303039,Neutral
-Right yun,0.0,Neutral,0.2857142857142857,Neutral,0.3728386759757995,Positive
+Right yun,0.0,Neutral,0.2857142857142857,Positive,0.3728386759757995,Positive
 love you señorita,0.5574,Positive,0.5,Positive,0.8131169676780701,Positive
 This is how i love the song.💖 💕💓💗❤😍😜😝😛😍😉☺😊😀😘😚😁😋😐😶😏😑,0.9947,Positive,0.5,Positive,0.858693540096283,Positive
 Dnxn. Jd. S. Clcvo vdod. Fmdxjdn. Xjisjx,0.0,Neutral,0.0,Neutral,-0.4414821267127991,Negative
@@ -502,7 +502,7 @@ Cool my favourite,0.3182,Positive,0.35,Positive,0.7971340417861938,Positive
 I love it when call me señorita mi part favorite,0.802,Positive,0.5,Positive,0.8737943172454834,Positive
 This song is lame,-0.4215,Negative,-0.5,Negative,-0.765738308429718,Negative
 Next song really make something of love and I just really love I Love it singer Rita senorita senorita senorita listen to whatever,0.9344,Positive,0.3399999999999999,Positive,0.8224493265151978,Positive
-First this not clean,-0.3089,Negative,0.0333333333333333,Neutral,-0.5524330735206604,Negative
+First this not clean,-0.3089,Negative,0.0333333333333333,Positive,-0.5524330735206604,Negative
 senorita more like sen your leave ya,0.3804,Positive,0.5,Positive,-0.3876449167728424,Negative
 "I love it because it's really
 😭😭😭😭😭😭😍😘😘😘😘😘😘😘😘😘🥰😓😥😃😃😥😓😭😢🥰😍😘",0.9646,Positive,0.35,Positive,0.8378863334655762,Positive
@@ -510,15 +510,15 @@ WHO IS LISTENING THIS SONG TILL 2020👍☺,0.4588,Positive,0.0,Neutral,0.468224
 Is my song too i have 3 song,0.0,Neutral,0.0,Neutral,0.4560247361660003,Positive
 This song keeps me coming,0.0,Neutral,0.0,Neutral,0.5675259232521057,Positive
 so good,0.4927,Positive,0.7,Positive,0.6291981339454651,Positive
-wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
 "waitttttttttttt at end it says she loves it when I call her (for ya)
 -_- da hell BuT iT wAs SeNoRiTa ---------------_________________---------------",-0.1154,Negative,0.0,Neutral,0.2508203983306885,Neutral
 i love señorita,0.5574,Positive,0.5,Positive,0.7360163331031799,Positive
 Super lyrics,0.5994,Positive,0.3333333333333333,Positive,0.6884215474128723,Positive
-Primer comentario es español,0.0,Neutral,0.125,Neutral,-0.2854041457176208,Negative
+Primer comentario es español,0.0,Neutral,0.125,Positive,-0.2854041457176208,Negative
 Your girl needs her clean lyrics,0.4019,Positive,0.3666666666666667,Positive,0.2699000239372253,Neutral
-Omg first time hearing this and luv it since I heard the beginning,0.0,Neutral,0.25,Neutral,0.2801379263401031,Neutral
+Omg first time hearing this and luv it since I heard the beginning,0.0,Neutral,0.25,Positive,0.2801379263401031,Neutral
 I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 😱😱😱,-0.9468,Negative,0.0,Neutral,0.3085779249668121,Neutral
 "2:45 
@@ -558,7 +558,7 @@ Alguém BRASIL? ??,0.0,Neutral,0.0,Neutral,-0.5733018517494202,Negative
 "Love you senoritaaaaa 
 Plz call me senoritaaaaa",0.6705,Positive,0.5,Positive,0.776688277721405,Positive
 YOUR,0.0,Neutral,0.0,Neutral,0.445859432220459,Positive
-i hate camila i listen to one direction they are good and shawn is good  too,0.2732,Positive,0.1999999999999999,Neutral,0.2277154177427292,Neutral
+i hate camila i listen to one direction they are good and shawn is good  too,0.2732,Positive,0.1999999999999999,Positive,0.2277154177427292,Neutral
 Yas queens!!!!!!😋,0.0,Neutral,0.0,Neutral,0.5176116228103638,Positive
 😍😍😍😍😍😍😍😍😘,0.9771,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Senorita,0.0,Neutral,0.0,Neutral,0.4017680287361145,Positive
@@ -587,7 +587,7 @@ I love this ❤️ song,0.6369,Positive,0.5,Positive,0.8564944863319397,Positive
 2019,0.0,Neutral,0.0,Neutral,0.2837724685668945,Neutral
 2019 or 2020 ()()()NL???,0.0,Neutral,0.0,Neutral,-0.3718667924404144,Negative
 I LOVE IT WHEN U CALL ME SALAD FINGERS,0.6369,Positive,0.5,Positive,0.7635089159011841,Positive
-Ooh love your is deadly don't stop,0.7259,Positive,0.15,Neutral,0.4148721992969513,Positive
+Ooh love your is deadly don't stop,0.7259,Positive,0.15,Positive,0.4148721992969513,Positive
 Imma skip to da end lol,0.4215,Positive,0.8,Positive,-0.441199392080307,Negative
 I love it when you call meh señorita i wish i could pretend i did't need ya but every touch is ooh la la la its true ooh la la la,0.7783,Positive,0.425,Positive,0.6823691129684448,Positive
 dnvjaerng,0.0,Neutral,0.0,Neutral,0.265834242105484,Neutral
@@ -599,8 +599,8 @@ I love you lots and lots and so sweet,0.8429,Positive,0.425,Positive,0.882309496
 
 
 
-Thanks so much for the likes this is the most ive ever gotten❤❤❤❤❤❤",0.9878,Positive,0.13,Neutral,0.4736531674861908,Positive
-Are you guys in love with each other??,0.6767,Positive,0.1875,Neutral,0.2647979855537414,Neutral
+Thanks so much for the likes this is the most ive ever gotten❤❤❤❤❤❤",0.9878,Positive,0.13,Positive,0.4736531674861908,Positive
+Are you guys in love with each other??,0.6767,Positive,0.1875,Positive,0.2647979855537414,Neutral
 me and my crush in my dreams,0.2732,Positive,0.0,Neutral,0.6939416527748108,Positive
 me and my crush in my dreams,0.2732,Positive,0.0,Neutral,0.6939416527748108,Positive
 me and my crush in my dreams,0.2732,Positive,0.0,Neutral,0.6939416527748108,Positive
@@ -617,7 +617,7 @@ Song on my bus,0.0,Neutral,0.0,Neutral,0.4358457326889038,Positive
 "my crush likes this song and i love it too and my crush likes me
 put a like if you want to tell my crush that i like him
 or
-put a thumbs down if you dont want me to tell my crush that i like him",0.9182,Positive,0.1722222222222222,Neutral,0.7052949666976929,Positive
+put a thumbs down if you dont want me to tell my crush that i like him",0.9182,Positive,0.1722222222222222,Positive,0.7052949666976929,Positive
 c ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooookeweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,0.0,Neutral,0.0,Neutral,0.2652559578418731,Neutral
 Can be 2019? :),0.4588,Positive,0.5,Positive,0.2526746094226837,Neutral
 why is the radio edit faster than the original? why is it better,0.6369,Positive,0.4375,Positive,0.3192759156227112,Neutral
@@ -625,7 +625,7 @@ ot donf  betis,0.0,Neutral,0.0,Neutral,-0.2894835770130157,Negative
 Haaaaaaaaaaaa!ooooaoaoaoaoaoaoaoaooaoaoaoaaoaooaaoaoaooaoaoaoaoaoaaooa,0.0,Neutral,0.0,Neutral,-0.5680771470069885,Negative
 Hey baby 😚😏  remember  I am a senorita girl 🥰,0.9001,Positive,0.0,Neutral,0.6382263898849487,Positive
 👌👌👌👌👌👌👏👏👏👏👏👏👏👏,0.988,Positive,0.0,Neutral,0.3085779249668121,Neutral
-My whole class is against this song.,0.0,Neutral,0.2,Neutral,-0.535611093044281,Negative
+My whole class is against this song.,0.0,Neutral,0.2,Positive,-0.535611093044281,Negative
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 😒😯🤘,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I just love this song when ever it comes on I just sang it ❤️❤️❤️😘😘,0.8689,Positive,0.5,Positive,0.7699275016784668,Positive
@@ -634,7 +634,7 @@ Pa,0.0,Neutral,0.0,Neutral,0.2724430561065674,Neutral
 👇👇👍",0.0,Neutral,0.0,Neutral,-0.6257129311561584,Negative
 "Chica€~mo’s ba”,chi",0.0,Neutral,0.0,Neutral,-0.3092689216136932,Negative
 Tamada,0.0,Neutral,0.0,Neutral,0.2625868916511535,Neutral
-Yeah right there just friends,0.6486,Positive,0.2857142857142857,Neutral,0.4740345180034637,Positive
+Yeah right there just friends,0.6486,Positive,0.2857142857142857,Positive,0.4740345180034637,Positive
 HAIIII,0.0,Neutral,0.0,Neutral,-0.32060107588768,Negative
 This is romantic music,0.4019,Positive,0.0,Neutral,0.5636637806892395,Positive
 i love señorita,0.5574,Positive,0.5,Positive,0.7360163331031799,Positive
@@ -675,9 +675,9 @@ I. Love. Your. Songs,0.6369,Positive,0.5,Positive,0.6297268867492676,Positive
 Meh dad Love's senorita i'm like you good boi,0.6249,Positive,0.6,Positive,0.4870713055133819,Positive
 And it is amassing win you sing trath hart,0.5859,Positive,0.8,Positive,0.6646237969398499,Positive
 I love this music!!!!!!,0.7482,Positive,1.0,Positive,0.910843312740326,Positive
-Very love🇧🇷🇧🇷♥️♥️♥️,0.931,Positive,0.2,Neutral,0.3482131958007812,Positive
+Very love🇧🇷🇧🇷♥️♥️♥️,0.931,Positive,0.2,Positive,0.3482131958007812,Positive
 amei mesmo🇧🇷🇧🇷🇧🇷,0.6361,Positive,0.7,Positive,0.2693690657615661,Neutral
-Very love💖,0.9088,Positive,0.2,Neutral,0.3482131958007812,Positive
+Very love💖,0.9088,Positive,0.2,Positive,0.3482131958007812,Positive
 I LOVE IT WHEN YOU CALL ME SENORITA ....♥️♥️♥️🇧🇷,0.9614,Positive,0.5,Positive,0.8061667084693909,Positive
 Cea mai tare melodie,0.0,Neutral,0.0,Neutral,0.2625885307788849,Neutral
 Like quien es señorita,0.2263,Positive,0.0,Neutral,0.461516261100769,Positive
@@ -696,14 +696,14 @@ Like si estas viendo el vídeo el 2019,0.3612,Positive,0.0,Neutral,0.26465791463
 Wey esta mas lindo el video original 7w7,0.7574,Positive,0.5750000000000001,Positive,-0.3174460232257843,Negative
 TÜRKLER BURDA MI? 🇹🇷❤️,0.0,Neutral,0.0,Neutral,-0.4226615130901336,Negative
 sarap mong kantoten,0.0,Neutral,0.0,Neutral,0.27586629986763,Neutral
-the first my sister saw this song she was like😊😁😎,0.926,Positive,0.25,Neutral,0.5067760944366455,Positive
+the first my sister saw this song she was like😊😁😎,0.926,Positive,0.25,Positive,0.5067760944366455,Positive
 really loved this song ♥️ ♥️ ♥️ ♥️ ♥️,0.9802,Positive,0.7,Positive,0.7887787222862244,Positive
 Me encanta,0.6369,Positive,0.5,Positive,0.7738614678382874,Positive
 I love it when you call me senorita,0.6369,Positive,0.5,Positive,0.8139100074768066,Positive
 I love all your songs they are awesome my favorite song is I love wen you call me senorita,0.9477,Positive,0.625,Positive,0.8937155604362488,Positive
 Whas and camila,0.0,Neutral,0.0,Neutral,0.2196671515703201,Neutral
 Hello yes,0.4019,Positive,0.0,Neutral,0.4923777282238006,Positive
-Вот как пою я лалалаааааа(как поют в песне I LOVE IT WHENB YOU CALL ME SENORITA **НЕЖНЫМ ГОЛОСОМ**) Жаль что я так не могу😔😞😞😞☹️☹️☹️☹️ ну песинка найс-класс.,-0.6524,Negative,0.29,Neutral,-0.2229879349470138,Negative
+Вот как пою я лалалаааааа(как поют в песне I LOVE IT WHENB YOU CALL ME SENORITA **НЕЖНЫМ ГОЛОСОМ**) Жаль что я так не могу😔😞😞😞☹️☹️☹️☹️ ну песинка найс-класс.,-0.6524,Negative,0.29,Positive,-0.2229879349470138,Negative
 Is your  talent    singing    cuse   my talent  is singing,0.6808,Positive,0.0,Neutral,0.542894184589386,Positive
 the song is beautiful💋💞🍫,0.9001,Positive,0.0,Neutral,0.2582055926322937,Neutral
 Best song ever that has a clean version 😎😎😎👌👌👌👌👌👌👌👌❤️❤️❤️❤️❤️,0.9961,Positive,0.6833333333333333,Positive,0.9059479832649232,Positive
@@ -713,7 +713,7 @@ My love sinorita,0.6369,Positive,0.5,Positive,0.6338362097740173,Positive
 Yusuf,0.0,Neutral,0.0,Neutral,0.3284811973571777,Neutral
 Ciao,0.0,Neutral,0.0,Neutral,0.5044792890548706,Positive
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
-like yes to spanish : like si a las español :3,0.875,Positive,0.25,Neutral,0.2727501690387726,Neutral
+like yes to spanish : like si a las español :3,0.875,Positive,0.25,Positive,0.2727501690387726,Neutral
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 🍭🍬,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Pls I want to see camilla,0.1531,Positive,0.0,Neutral,0.3316841125488281,Positive
@@ -810,7 +810,7 @@ For ya
 For ya (Oh, she loves it when I come)
 For ya
 Ooh, I should be runnin'
-Ooh, you keep me coming for ya",0.9988,Positive,0.2974937343358396,Neutral,0.4493565559387207,Positive
+Ooh, you keep me coming for ya",0.9988,Positive,0.2974937343358396,Positive,0.4493565559387207,Positive
 I like is...,0.3612,Positive,0.0,Neutral,0.466362714767456,Positive
 Love 😍😍😍,0.9217,Positive,0.5,Positive,0.7371776700019836,Positive
 We love it 😍❤️,0.802,Positive,0.5,Positive,0.8328942060470581,Positive
@@ -858,7 +858,7 @@ best song,0.6369,Positive,1.0,Positive,0.8334701657295227,Positive
 Mistake lyrics should be land in Miami,-0.34,Negative,0.0,Neutral,-0.5950437784194946,Negative
 excelente,0.6249,Positive,0.8,Positive,0.7857319712638855,Positive
 But every touch is ooh la la la 🥰❤❤❤,0.9853,Positive,0.0,Neutral,0.2752683460712433,Neutral
-I am Olivia anyway it's true la la la that you and sawn minded love each other and that yous are a great couple I mean who agrees,0.9169,Positive,0.2425,Neutral,0.3598155379295349,Positive
+I am Olivia anyway it's true la la la that you and sawn minded love each other and that yous are a great couple I mean who agrees,0.9169,Positive,0.2425,Positive,0.3598155379295349,Positive
 "Whoever likes Shawn Mendes and Camila Cabello or ship them
 click this fist
       '

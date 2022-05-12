@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Ariba los latinos..!!,0.0,Neutral,0.0,Neutral,-0.4110549092292785,Negative
 orang indo check,0.0,Neutral,0.0,Neutral,0.2976315319538116,Neutral
-"I can not speak Spanish, but I love this song.",0.7783,Positive,0.25,Neutral,0.7024055123329163,Positive
+"I can not speak Spanish, but I love this song.",0.7783,Positive,0.25,Positive,0.7024055123329163,Positive
 LO AMO,0.6369,Positive,0.5,Positive,0.5139033198356628,Positive
 "Espero que te guesta 
 https://www.youtube.com/watch?v=dE4NkzdT6GY",0.6597,Positive,0.0,Neutral,0.3332580327987671,Positive
@@ -27,7 +27,7 @@ Buena cancion,0.4404,Positive,0.7,Positive,0.4908595979213714,Positive
 Top,0.2023,Positive,0.5,Positive,0.8256890773773193,Positive
 Calma is awesome. It will remain in my heart,0.8519,Positive,1.0,Positive,0.8144192695617676,Positive
 Nos encantó grabar con él ese día,0.5994,Positive,0.7,Positive,0.8030076622962952,Positive
-Canta como viejito,0.3612,Positive,0.1,Neutral,-0.2512676417827606,Negative
+Canta como viejito,0.3612,Positive,0.1,Positive,-0.2512676417827606,Negative
 Buen tema....Pero hay dúo con becky g ....????,0.4423,Positive,0.7,Positive,0.4762585759162903,Positive
 Un capo total...,0.0,Neutral,0.0,Neutral,0.7489438056945801,Positive
 Like si sigues escuchando esto en junio del 2020!,0.4199,Positive,0.0,Neutral,-0.3322811722755432,Negative
@@ -85,10 +85,10 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5951286554336548,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5951286554336548,Positive
 Conoco a su abuelo 53anos atra  cuando yo visited a p.r. yo tenia 20 ano. El senor muy amable el senor Bobby capo. El senor era amigo de mi hermana.,0.7841,Positive,0.44,Positive,0.6722123622894287,Positive
 Emma😘😘😍😍😚😚👧👩👏👏👏💝💟👍👍👈💕💕☕🍗🍱🍥😆😀😀😀😮😮😆😥😧😨😨,0.8807,Positive,0.0,Neutral,0.3085779249668121,Neutral
-cuando me case esta es la cancion.,0.0,Neutral,0.25,Neutral,0.2950585484504699,Neutral
+cuando me case esta es la cancion.,0.0,Neutral,0.25,Positive,0.2950585484504699,Neutral
 Un temazo!,0.0,Neutral,0.0,Neutral,0.4867452085018158,Positive
 😘😘🌴,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "🙋🏼‍♀️Meu Deus, eu amo o Pedro😁🙈💚",0.9493,Positive,0.5,Positive,0.5840847492218018,Positive
@@ -96,7 +96,7 @@ I don't know what that's song means but i love you when i play it,0.872,Positive
 Fã Fernanda 💓,0.5423,Positive,0.0,Neutral,0.3121020495891571,Neutral
 Qué hombre hermoso x D! Que lindo debe sentirse verse al espejo y ser Pedro Capo....  Beeello....beeeeello,0.7901,Positive,0.8,Positive,0.72618567943573,Positive
 como disfruta como un  niño cantar eso no se ve todos los dias,0.5106,Positive,0.0,Neutral,0.3676929473876953,Positive
-The voice is edited. Watch other live performances and you will see,0.0,Neutral,0.0056818181818181,Neutral,0.2663202583789825,Neutral
+The voice is edited. Watch other live performances and you will see,0.0,Neutral,0.0056818181818181,Positive,0.2663202583789825,Neutral
 "This song makes me all giddy, I love it so much",0.5574,Positive,0.35,Positive,0.8732494711875916,Positive
 My best single😘,0.7906,Positive,1.0,Positive,0.8200650811195374,Positive
 "Fave song of all though I can't trully understand the lyrics. But it's very ''Calma'' on my ears, I can listen and dance the whole time with this very impressive music. More power to Idol Pedro Capo.",0.7808,Positive,0.475,Positive,0.4855090677738189,Positive
@@ -153,13 +153,13 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5832118391990662,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5832118391990662,Positive
 Amo esta versión pero más amo tu forma de interpretar. Gracias 😍🇲🇽,0.9551,Positive,0.5,Positive,0.3517798781394958,Positive
 Beleza  gostei  vc  e  uma  graça,0.8555,Positive,0.6,Positive,0.5069382786750793,Positive
 BR❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Great song 👌,0.8816,Positive,0.8,Positive,0.7587128281593323,Positive
 Eres único irremediable es esto,-0.4588,Negative,0.0,Neutral,0.3428934216499328,Positive
-Pedro voce canta demais cara! haha Parabens,0.8016,Positive,0.225,Neutral,-0.4587311446666717,Negative
+Pedro voce canta demais cara! haha Parabens,0.8016,Positive,0.225,Positive,-0.4587311446666717,Negative
 in love with this song. cover coming soon!,0.6696,Positive,0.625,Positive,0.7582064270973206,Positive
 Ya somos dos 🤣🤣🤣,0.8625,Positive,0.0,Neutral,0.4395699203014374,Positive
 Me gusta!,0.4199,Positive,0.0,Neutral,0.4525692462921142,Positive
@@ -186,7 +186,7 @@ Lindo. De. Mais,0.5994,Positive,0.675,Positive,0.4154573380947113,Positive
 I love u pedro !,0.6696,Positive,0.625,Positive,0.8315412998199463,Positive
 🇺🇾🇺🇾❤❤🇺🇾🇺🇾❤❤🇺🇾🇺🇾❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Excelente voz perdida en un género musical aburrido.,0.0258,Neutral,0.0,Neutral,0.5705582499504089,Positive
-i can’t stop listening its better than other version ❤️,0.1779,Positive,0.1875,Neutral,0.4062015414237976,Positive
+i can’t stop listening its better than other version ❤️,0.1779,Positive,0.1875,Positive,0.4062015414237976,Positive
 44 gatti Ep 34,0.0,Neutral,0.0,Neutral,0.2434560656547546,Neutral
 ❤👍,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Hermosa versión, y chingona su voz. 😍",0.9001,Positive,0.825,Positive,0.7138867974281311,Positive
@@ -196,7 +196,7 @@ LEDES DIAZ DOES A GREAT COVER,0.6249,Positive,0.8,Positive,0.504581868648529,Pos
 Невероятно талантлив ....
 Поздрави",0.8422,Positive,0.7,Positive,0.7976656556129456,Positive
 Se GIASI😎🤩😉,0.4588,Positive,0.0,Neutral,0.3182266652584076,Neutral
-calma,0.3182,Positive,0.3,Neutral,0.5704407095909119,Positive
+calma,0.3182,Positive,0.3,Positive,0.5704407095909119,Positive
 bellaaaaaa,0.0,Neutral,0.0,Neutral,0.3009539246559143,Neutral
 1:20 👏👏👏👏,0.0,Neutral,0.0,Neutral,-0.3187611699104309,Negative
 Speechlesd,0.0,Neutral,0.0,Neutral,0.3164302110671997,Neutral
@@ -218,17 +218,17 @@ Hola mi mamá disculpameNoe,0.0772,Positive,-0.05,Negative,0.2689858078956604,Ne
 Cantas hemoso,0.0,Neutral,0.0,Neutral,-0.3230684399604797,Negative
 Motoneta,0.0,Neutral,0.0,Neutral,0.318279355764389,Neutral
 HolaLeticiatuvistelasaladeno mevoy ashayya esta dormiendo con su peppay mediavas ala escuelamañaname voy adiosbesogracias adiosbeso,0.7964,Positive,0.0,Neutral,-0.3492514491081238,Negative
-HolaLeticiatuviste laescuelaa laplata parala primera comunión de mi reina,0.0,Neutral,0.25,Neutral,-0.3208149373531341,Negative
+HolaLeticiatuviste laescuelaa laplata parala primera comunión de mi reina,0.0,Neutral,0.25,Positive,-0.3208149373531341,Negative
 Temon !! tremenda cancion de Capo...,0.0,Neutral,0.3333333333333333,Positive,0.7516109347343445,Positive
 Buenogracias mairacualquiercosa te aviso sisalgo antela otra Weeeya,0.5574,Positive,-0.125,Negative,-0.5718530416488647,Negative
-"0:28 Mi parte favorita.....Y cuando canto ""ver el sol caer"" desafino o me sale un gallo jajajaja xD.",0.4588,Positive,0.1361111111111111,Neutral,-0.3405551016330719,Negative
+"0:28 Mi parte favorita.....Y cuando canto ""ver el sol caer"" desafino o me sale un gallo jajajaja xD.",0.4588,Positive,0.1361111111111111,Positive,-0.3405551016330719,Negative
 "A mí parecer la mejor versión. Y que mejor con el cajón peruano. 
 Cuando tiene las manos libres canta mucho mejor y me sale mejor... 
 Like si piensas lo mismo",0.9565,Positive,0.4833333333333333,Positive,0.4437792003154754,Positive
 Ahhhhhh que homem. Humanidade: aprendam sobre sensualidade com este cara. Morri,-0.5574,Negative,0.0,Neutral,-0.5778396129608154,Negative
 Hola mi mamádisculpameesese,0.0772,Positive,-0.05,Negative,-0.2852091789245605,Negative
 HolaLilihoynosvemos a la cinco no maso Mendozagraci,-0.296,Negative,-0.25,Negative,-0.5519935488700867,Negative
-PEDRO CAPO ...BUENA  CANCION....BUENA INTERPRETACION...TODO ESTA BIEN...PERO POR FAVOR DEJA DE HACERTE TATUAJES....SIN ESOS GARABATOS NEGROS  ESTARIAS  MAS BONITO...,0.7574,Positive,0.1944444444444444,Neutral,0.5447413921356201,Positive
+PEDRO CAPO ...BUENA  CANCION....BUENA INTERPRETACION...TODO ESTA BIEN...PERO POR FAVOR DEJA DE HACERTE TATUAJES....SIN ESOS GARABATOS NEGROS  ESTARIAS  MAS BONITO...,0.7574,Positive,0.1944444444444444,Positive,0.5447413921356201,Positive
 Vine por Gibran 🧡🧡🧡,0.9274,Positive,0.0,Neutral,0.3116632401943207,Neutral
 Goose bumps ....,0.0,Neutral,0.0,Neutral,-0.2485930621623993,Negative
 Amo d mas essa musica da vontade sair dançando,0.4678,Positive,0.5,Positive,0.3021769225597381,Neutral
@@ -290,7 +290,7 @@ Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
-Calma, mi vida, con calma",0.9971,Positive,0.1138888888888889,Neutral,0.5900206565856934,Positive
+Calma, mi vida, con calma",0.9971,Positive,0.1138888888888889,Positive,0.5900206565856934,Positive
 Love you Pedro 😍😘,0.875,Positive,0.5,Positive,0.8293188214302063,Positive
 Your great at singing,0.6249,Positive,0.8,Positive,0.683566689491272,Positive
 Hola 🎶🎶,0.0,Neutral,0.0,Neutral,0.2730221152305603,Neutral
@@ -299,11 +299,11 @@ Hola 🎶🎶,0.0,Neutral,0.0,Neutral,0.2730221152305603,Neutral
 Simplesmente Maravilhoso Gran Pedro,0.5719,Positive,1.0,Positive,0.9375714063644408,Positive
 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 🎤🎤💋💋🎸🎸🎸,0.6808,Positive,0.0,Neutral,0.3085779249668121,Neutral
-신난다 🤪,0.4939,Positive,0.3,Neutral,0.325006365776062,Neutral
-Es el mejor como digo yo es el puto amo  pedro capo,0.6369,Positive,0.2,Neutral,0.8312866687774658,Positive
+신난다 🤪,0.4939,Positive,0.3,Positive,0.325006365776062,Neutral
+Es el mejor como digo yo es el puto amo  pedro capo,0.6369,Positive,0.2,Positive,0.8312866687774658,Positive
 "Cool summer vibes, I like it relaxing in this freezing cold winter in Blighty",0.765,Positive,-0.125,Negative,0.5669325590133667,Positive
 Piękne!!! Aż tańczyć się chce!!! ❤️,0.7482,Positive,1.0,Positive,0.6922237873077393,Positive
-Me encanta esta cancion! Buen tema! Nada vulgar! ♥♥♥♥,0.9596,Positive,0.2083333333333333,Neutral,0.7431525588035583,Positive
+Me encanta esta cancion! Buen tema! Nada vulgar! ♥♥♥♥,0.9596,Positive,0.2083333333333333,Positive,0.7431525588035583,Positive
 🇹🇷🇹🇷🇹🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 "Me enamoré,lindo Pedro.",0.8126,Positive,0.375,Positive,0.6153755784034729,Positive
 "Que lindo es capó ,encantador",0.7783,Positive,0.5,Positive,0.8175510168075562,Positive
@@ -329,14 +329,14 @@ Efsane👍❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Ulan yerim seni çock,0.6369,Positive,0.5,Positive,-0.2716513872146606,Negative
 "The Brian Dozier, Gerardo Parra, and Aníbal Sánchez dance party in the clubhouse brought me here.",0.4019,Positive,0.0,Neutral,0.5061296820640564,Positive
 Fantástico! 💫⭐️,0.4574,Positive,0.5,Positive,0.8926812410354614,Positive
-"Si le daba con ""calma"" al Pedrito",0.3182,Positive,0.3,Neutral,0.3209802508354187,Neutral
+"Si le daba con ""calma"" al Pedrito",0.3182,Positive,0.3,Positive,0.3209802508354187,Neutral
 Definitivamente estoy obsesionada con esta canción. Adoro,0.5423,Positive,-0.5,Negative,0.8363478183746338,Positive
-"Like si escuchas en 2020 ""calma""",0.5859,Positive,0.3,Neutral,0.4590696394443512,Positive
-Show demais,0.0,Neutral,0.2,Neutral,-0.2934944927692413,Negative
+"Like si escuchas en 2020 ""calma""",0.5859,Positive,0.3,Positive,0.4590696394443512,Positive
+Show demais,0.0,Neutral,0.2,Positive,-0.2934944927692413,Negative
 Indonesia me🇮🇩,0.0,Neutral,0.0,Neutral,0.3271276652812958,Neutral
 Buena esa bro 👍👍👍👍👍,0.4404,Positive,0.7,Positive,0.4501694142818451,Positive
 Is somebody from America,0.0,Neutral,0.0,Neutral,-0.3085432946681976,Negative
-Esa sonrisa tan 😍😍😍🎶🎶🎶,0.9075,Positive,0.3,Neutral,0.4959910809993744,Positive
+Esa sonrisa tan 😍😍😍🎶🎶🎶,0.9075,Positive,0.3,Positive,0.4959910809993744,Positive
 cajon peruano rico,0.5574,Positive,0.375,Positive,0.3607196807861328,Positive
 😄😄💓💓😄😄❤️😄❤️,0.9922,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Esta letra linda y su interprete ni se diga,0.4588,Positive,0.5,Positive,-0.580599844455719,Negative
@@ -408,7 +408,7 @@ https://youtu.be/TgxX66739VI
 https://youtu.be/ataoUQ6H_4E
 http://instagram.com/teamdizenewlife
 
-➡ https://audiomack.com/song/tonydizerecords/tony-dize-no-me-equivoco-master",0.9927,Positive,0.1147147147147147,Neutral,0.5185279846191406,Positive
+➡ https://audiomack.com/song/tonydizerecords/tony-dize-no-me-equivoco-master",0.9927,Positive,0.1147147147147147,Positive,0.5185279846191406,Positive
 Yerim seni sarı civcivim benim anne kurban olsun sana 🐣🐣🐣🐣🐥,0.0,Neutral,0.0,Neutral,0.3572826981544494,Positive
 Me gusta muchísimo más esta versión que la de estudio. ¡Mucho éxito en los Grammy!,0.7574,Positive,0.4375,Positive,0.8385478258132935,Positive
 Wao wao me gustó esto wao,0.4215,Positive,0.6,Positive,0.3353709578514099,Positive
@@ -436,23 +436,23 @@ Türk yokmu len
 Buena interpretación con el cajón peruano. 👏🏻👏🏻,0.4404,Positive,0.7,Positive,0.5193347334861755,Positive
 Dream tvden gelenler?,0.25,Positive,0.0,Neutral,-0.2970351576805115,Negative
 "Felicidades mi hijo soy una señora de 69 años me encanta mucho su música 
-Dios le bendiga soy su fanática numero uno abrazos bendiciones 🥰🥰🥰🥰🥰😍😍😍😘😘😘😘💕💕💕🎵🎶🎵🎶🎵💕💕💕💕",0.9714,Positive,0.2866666666666667,Neutral,0.8509702086448669,Positive
-Damm pedazo de versión justa la que esperaba talento boricua,0.6249,Positive,0.3,Neutral,0.3914318978786468,Positive
+Dios le bendiga soy su fanática numero uno abrazos bendiciones 🥰🥰🥰🥰🥰😍😍😍😘😘😘😘💕💕💕🎵🎶🎵🎶🎵💕💕💕💕",0.9714,Positive,0.2866666666666667,Positive,0.8509702086448669,Positive
+Damm pedazo de versión justa la que esperaba talento boricua,0.6249,Positive,0.3,Positive,0.3914318978786468,Positive
 Top de maissss,0.2023,Positive,0.5,Positive,0.6991232633590698,Positive
 😍😍😍😍😍😍👌👌👌👌👌❤,0.9942,Positive,0.0,Neutral,0.3085779249668121,Neutral
 like al comentario si crees que pedro capó usa autotune,0.3612,Positive,0.0,Neutral,0.2654472291469574,Neutral
 Danca bem,0.2732,Positive,0.0,Neutral,0.4146040081977844,Positive
 Ya süpersin💕,0.8481,Positive,0.0,Neutral,0.3128949701786041,Neutral
-Pedro Capo☺️Sesin çok tatlı☺️(Pedro Capo☺️Your voice is very sweet☺️ ),0.9624,Positive,0.2,Neutral,0.2301949113607406,Neutral
+Pedro Capo☺️Sesin çok tatlı☺️(Pedro Capo☺️Your voice is very sweet☺️ ),0.9624,Positive,0.2,Positive,0.2301949113607406,Neutral
 inspirado y transmitiendo.......,0.4939,Positive,0.0,Neutral,0.7022104263305664,Positive
-Na live fica ruim kkkkkkkk,-0.1779,Negative,0.0787878787878788,Neutral,-0.3839137554168701,Negative
+Na live fica ruim kkkkkkkk,-0.1779,Negative,0.0787878787878788,Positive,-0.3839137554168701,Negative
 Te extraño,-0.1531,Negative,0.0,Neutral,-0.454803466796875,Negative
 "Bayıldım ,loveee 🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷",0.6369,Positive,0.5,Positive,-0.5950961709022522,Negative
 Its fascinating how much he enjoy while singing :D,0.8941,Positive,0.7000000000000001,Positive,0.4268752336502075,Positive
 "Um música que fica na cabeça, e me faz sempre lembrar da minha juventude em Arraial do Cabo.",0.0,Neutral,0.0,Neutral,0.6011599898338318,Positive
 Me encanto...,0.5994,Positive,0.7,Positive,0.8277814388275146,Positive
 Flashe q era el diosito,0.2732,Positive,0.0,Neutral,0.3162261545658111,Neutral
-aspetto tue nuove canzoni magari in Italiano! Ciao dall'Italia,0.0,Neutral,0.0681818181818181,Neutral,0.3303117752075195,Positive
+aspetto tue nuove canzoni magari in Italiano! Ciao dall'Italia,0.0,Neutral,0.0681818181818181,Positive,0.3303117752075195,Positive
 È bellissima questa canzone,0.5994,Positive,0.85,Positive,0.8023501634597778,Positive
 Y me gusta 🎶😍💙,0.8658,Positive,0.0,Neutral,0.4582636654376983,Positive
 "🎵letras *CALMA*
@@ -523,14 +523,14 @@ https://youtu.be/TgxX66739VI
 https://youtu.be/ataoUQ6H_4E
 http://instagram.com/teamdizenewlife
 
-➡ https://audiomack.com/song/tonydizerecords/tony-dize-no-me-equivoco-master",0.9927,Positive,0.1147147147147147,Neutral,0.5185279846191406,Positive
+➡ https://audiomack.com/song/tonydizerecords/tony-dize-no-me-equivoco-master",0.9927,Positive,0.1147147147147147,Positive,0.5185279846191406,Positive
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Love from india 🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳,0.6369,Positive,0.5,Positive,0.6086652874946594,Positive
 Me encanta!!!!!!!!!!,0.7482,Positive,1.0,Positive,0.8504148125648499,Positive
 "Uau! Super
-🤗♥️🤗",0.9571,Positive,0.2291666666666666,Neutral,0.8104661107063293,Positive
+🤗♥️🤗",0.9571,Positive,0.2291666666666666,Positive,0.8104661107063293,Positive
 ❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-CALMA 💙,0.8038,Positive,0.3,Neutral,0.6084656715393066,Positive
+CALMA 💙,0.8038,Positive,0.3,Positive,0.6084656715393066,Positive
 Y la sigo escuchando,0.0,Neutral,0.0,Neutral,-0.2617711126804352,Negative
 Excelente,0.6249,Positive,0.8,Positive,0.7857319712638855,Positive
 Nece okuduğunu bilmiyorum ama orda anlatanlari hissedebiliyorum ve ilk dinlediğim gibi aşkla çok güzel,0.9534,Positive,0.5833333333333334,Positive,0.301241010427475,Neutral
@@ -544,13 +544,13 @@ Wooow!!me encanta ver cómo disfrutas cantandola!!me quedo con esta versión �
 Já aparece um BR pra fazer a música em português e estragar a música kkkkk,-0.5859,Negative,0.0,Neutral,-0.6236509084701538,Negative
 Cooool❤❤❤❤😍😍😍😍,0.9831,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Artista verdadero! Canta de verdad! En vivo cantas con sientimento! Por eso te  sigo aqui! Siga haciendo musica, mano! Abrazo desde Brasil",0.8209,Positive,0.4185014204545454,Positive,0.8540666699409485,Positive
-No hate but he looks like he is on some hard drugs🤣🤣🤣💕,0.9764,Positive,0.0541666666666666,Neutral,0.4594145715236664,Positive
+No hate but he looks like he is on some hard drugs🤣🤣🤣💕,0.9764,Positive,0.0541666666666666,Positive,0.4594145715236664,Positive
 exelente cancion  pero ese guitarrista es malissimo,-0.4215,Negative,0.0,Neutral,-0.5613051652908325,Negative
 "Escuchar a Pedro Capó me relaja, no se por qué, pero transmite una buena onda",0.6808,Positive,0.7,Positive,0.3885355293750763,Positive
 me encanta esta versión y tan solo mirarle disfrutar la música me alegra de alguna forma,0.9022,Positive,0.5666666666666668,Positive,0.6213391423225403,Positive
 Adoro 👏👏essa música ❤,0.8555,Positive,0.5,Positive,0.6849661469459534,Positive
 Ağzına sağlık,0.4404,Positive,0.6,Positive,0.2632040679454803,Neutral
-"La voz es lo más importante en la canción, luego lo demás. La percusión se puede hacer con cajon, timbal, congas o bongós, o incluso barriles de bomba puertorriqueña. Cada vez que entro a una canción en youtube tiene que haber un reclamo nacionalista que casi siempre desemboca en insultos, patirotismo llano, reclamos de apropiación cultural, o competencia entre naciones hermanas. Es bastante patético la verdad.",-0.6605,Negative,0.033673469387755,Neutral,-0.5063732862472534,Negative
+"La voz es lo más importante en la canción, luego lo demás. La percusión se puede hacer con cajon, timbal, congas o bongós, o incluso barriles de bomba puertorriqueña. Cada vez que entro a una canción en youtube tiene que haber un reclamo nacionalista que casi siempre desemboca en insultos, patirotismo llano, reclamos de apropiación cultural, o competencia entre naciones hermanas. Es bastante patético la verdad.",-0.6605,Negative,0.033673469387755,Positive,-0.5063732862472534,Negative
 Linda  essa música 😍,0.7845,Positive,0.85,Positive,-0.4292373955249786,Negative
 🤗❤,0.7906,Positive,0.0,Neutral,0.3085779249668121,Neutral
 In,0.0,Neutral,0.0,Neutral,0.3024154007434845,Neutral
@@ -581,10 +581,10 @@ columbo,0.0,Neutral,0.0,Neutral,0.2487001419067382,Neutral
 ❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Café ☕😍,0.4588,Positive,0.0,Neutral,0.3934531211853027,Positive
 🇹🇷 Beautiful Sound Beautiful 👁👄,0.8316,Positive,0.7000000000000001,Positive,0.7755895256996155,Positive
-Hola gracias,0.4404,Positive,0.2,Neutral,0.4417940676212311,Positive
+Hola gracias,0.4404,Positive,0.2,Positive,0.4417940676212311,Positive
 Demais!!!um saludo de brasil,0.8213,Positive,1.0,Positive,-0.4319291412830353,Negative
 Loved this soooooo much after my multilingual friend named RAMOS introduced CALMA to us. Love you 💚💚💚,0.9774,Positive,0.4666666666666666,Positive,0.8848439455032349,Positive
-I like it so much 💕💕💕😘😍😍,0.9763,Positive,0.2,Neutral,0.6445523500442505,Positive
+I like it so much 💕💕💕😘😍😍,0.9763,Positive,0.2,Positive,0.6445523500442505,Positive
 "Aprende a tocarla ""Calma"" en la Guitarra o Ukelele. Super fácil ==>
 https://youtu.be/gWEUr35BNE0",0.8481,Positive,0.3833333333333333,Positive,0.4833597540855407,Positive
 Linda canção Brasil 2019 ....,0.5994,Positive,0.85,Positive,0.3942998647689819,Positive
@@ -593,7 +593,7 @@ Que lingua é essa?,0.0,Neutral,0.0,Neutral,-0.3435616195201874,Negative
 Me encanta Pedro sos muy simpático me encanta como sos!!!!💗💗,0.9769,Positive,0.7600000000000001,Positive,0.7971304655075073,Positive
 şarkıların çok iyi,0.5777,Positive,0.7,Positive,0.5521017909049988,Positive
 Apaixonada por essa música  😍,0.802,Positive,0.5,Positive,0.6393516063690186,Positive
-Alguien sabe los acordes de la intro? El primero es G,0.0,Neutral,0.25,Neutral,-0.2873965799808502,Negative
+Alguien sabe los acordes de la intro? El primero es G,0.0,Neutral,0.25,Positive,-0.2873965799808502,Negative
 Magic Pedro 😍good talent i love this song beautiful,0.9313,Positive,0.6166666666666667,Positive,0.8880656957626343,Positive
 😍😍😍😍😍😍😍😍😍. Omg i'm Speechles,0.9776,Positive,0.0,Neutral,0.2891617119312286,Neutral
 His voice is so sad and relaxing. Well I don't know where he is actually from but if there is more men like this I would like go there,0.8022,Positive,0.0,Neutral,-0.5121065378189087,Negative
@@ -602,7 +602,7 @@ Vamos la praia música top 😍🇧🇷,0.5859,Positive,0.5,Positive,0.792670249
 Belém Pará Brasil! Ama essa música sucesso em todas as praias nesse verão 2019!!!!! Muito boa mesmo! Meu parabéns capó!!!!!,0.9292,Positive,1.0,Positive,0.6972755789756775,Positive
 Eu simplesmente hei just thodavýa fychado spllhes chom el qūe esthás-te a dicher-nos acercha desthe phenômeno de éstha songüe lathyna-americana. Cada vez qūe vejo-lles singüeando éssha songües haz-me luvear-llĕ consthantemente por el vuesthro rhythmo thalenthal al comppuserem essho érys maravilhouso ver-vos assým.,-0.0258,Neutral,0.0,Neutral,-0.4308654963970184,Negative
 Fascinante!!,0.6229,Positive,1.0,Positive,0.739078164100647,Positive
-"Me recuerda a ""Sin Banderas"" beach edition hahah muy bien...sei il capo!",-0.3609,Negative,0.25,Neutral,0.5968368053436279,Positive
+"Me recuerda a ""Sin Banderas"" beach edition hahah muy bien...sei il capo!",-0.3609,Negative,0.25,Positive,0.5968368053436279,Positive
 CAPO!! de ptm!,0.0,Neutral,0.0,Neutral,0.5410991311073303,Positive
 Love from Indonesia 🤗😍,0.875,Positive,0.5,Positive,0.6481828689575195,Positive
 Je t'adore Pedro Capo ❤,0.6369,Positive,0.0,Neutral,0.5820266008377075,Positive
@@ -620,7 +620,7 @@ Que bonito ✨❤️✨,0.8176,Positive,0.85,Positive,0.4043013155460357,Positiv
 I don’t know what it means but can tell from the vibe it gives me that ITS FOR ME. Such an AMAZING VIBE I get from this song. Vibing til I die!! lol,0.7378,Positive,0.5791666666666667,Positive,0.8320255279541016,Positive
 👏🏻👏🏻👏🏻,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Uufffff,0.0,Neutral,0.0,Neutral,-0.2551731467247009,Negative
-Muy capo,0.0,Neutral,0.2,Neutral,0.501381516456604,Positive
+Muy capo,0.0,Neutral,0.2,Positive,0.501381516456604,Positive
 No viene a cuento pero Pedro Capó pienso que mide lo mismo sentado en el cajón que sin él,0.0,Neutral,0.0,Neutral,-0.3503614962100982,Negative
 "voz maravilhosa, música maravilhosa <3",0.8834,Positive,1.0,Positive,0.8715188503265381,Positive
 T amo Pedro!!!! 💋💋💋💋,0.9483,Positive,1.0,Positive,0.4071342051029205,Positive
@@ -635,7 +635,7 @@ musica  perfeita,0.5719,Positive,1.0,Positive,0.71245938539505,Positive
 Hermoso,0.4939,Positive,0.5,Positive,0.7535308599472046,Positive
 me gusta s2,0.3612,Positive,0.0,Neutral,0.391243427991867,Positive
 Pedro Capó ❤,0.6369,Positive,0.0,Neutral,0.3050175011157989,Neutral
-Minha nova paixão 😍😍😍😍😘😘😘😘,0.9756,Positive,0.1363636363636363,Neutral,0.7287359833717346,Positive
+Minha nova paixão 😍😍😍😍😘😘😘😘,0.9756,Positive,0.1363636363636363,Positive,0.7287359833717346,Positive
 El ritmo de la guitarra no acompaña con la letra,0.0,Neutral,0.0,Neutral,-0.4067934453487396,Negative
 Esse canta  muito . Top 🇧🇷,0.2023,Positive,0.5,Positive,0.7800984978675842,Positive
 Me encanta esa cancion,0.6369,Positive,0.5,Positive,0.7491693496704102,Positive
@@ -648,7 +648,7 @@ Sin o con autotun canta lindo,0.5719,Positive,0.85,Positive,0.3028323352336883,N
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Amo está música 😍😘,0.875,Positive,0.5,Positive,0.6974580883979797,Positive
 ❤❤❤❤,0.9571,Positive,0.0,Neutral,0.3085779249668121,Neutral
-nossa eu  vi  ele  cantando  com anita  essa musica nao  sai da minha  cabeça,0.5859,Positive,0.1,Neutral,-0.3445263206958771,Negative
+nossa eu  vi  ele  cantando  com anita  essa musica nao  sai da minha  cabeça,0.5859,Positive,0.1,Positive,-0.3445263206958771,Negative
 🌼🤗,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
 🌼🤗,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Que Bela cancion !  ...,0.636,Positive,1.0,Positive,0.460059106349945,Positive
@@ -659,7 +659,7 @@ muito top essa música parabéns charaa,0.796,Positive,0.91,Positive,0.748886585
 Muerto de risa,-0.1027,Negative,0.0,Neutral,-0.5158004760742188,Negative
 Im obsessed with this song 😊,0.6486,Positive,-0.5,Negative,0.5494679808616638,Positive
 Ameiii demais 😍😍😍 música envolvente gostosa de ouvir❤,0.9705,Positive,0.425,Positive,0.3468852341175079,Positive
-👏👏Calma ģõhæ,0.3182,Positive,0.0722222222222222,Neutral,0.252236545085907,Neutral
+👏👏Calma ģõhæ,0.3182,Positive,0.0722222222222222,Positive,0.252236545085907,Neutral
 complimenti..... bravooooo.....,0.4019,Positive,0.0,Neutral,0.4823869168758392,Positive
 Escucho esta cancion y me siento en la playa bailando y corriendo en la arena y es hermoso,0.5994,Positive,0.85,Positive,0.8041420578956604,Positive
 Ahora si existe un cantante que canta bien sin autotune ❤😂😂,0.5472,Positive,0.0,Neutral,0.3312369287014007,Positive
@@ -722,12 +722,12 @@ Que nada hace falta si estamos juntitos bailando
 Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos andando
 Calma, mi vida, con calma
-Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Neutral,0.5832118391990662,Positive
+Que nada hace falta si estamos juntitos bailando",0.9971,Positive,0.1138888888888889,Positive,0.5832118391990662,Positive
 I Love You Pedro Capó❤,0.8555,Positive,0.5,Positive,0.8497249484062195,Positive
 "Maestro
 
 La voz de este capo es Un regalo de la música 🎶",0.4404,Positive,0.0,Neutral,0.6105506420135498,Positive
-Ilk defa yorumlarda Türk gormedim ay neyse ben varmişim😂🇹🇷,-0.2263,Negative,0.25,Neutral,-0.334279865026474,Negative
+Ilk defa yorumlarda Türk gormedim ay neyse ben varmişim😂🇹🇷,-0.2263,Negative,0.25,Positive,-0.334279865026474,Negative
 foarte fain felicitari,0.8059,Positive,0.78,Positive,0.667879045009613,Positive
 A única parte ruim dessa música é quando ela acaba ♥️🇧🇷,0.1779,Positive,-0.3499999999999999,Negative,0.313148945569992,Neutral
 👌👌👌👌👌👌✌️,0.988,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -739,11 +739,11 @@ I don't his singing language but it's awesome acoustic and vocal,0.7684,Positive
 Soy pri,0.0,Neutral,0.0,Neutral,0.3731315732002258,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😂😂😍😍❤,0.9432,Positive,0.0,Neutral,0.3085779249668121,Neutral
-me voy enamorando pedro capo calma,0.7096,Positive,0.2148148148148148,Neutral,0.6591458916664124,Positive
+me voy enamorando pedro capo calma,0.7096,Positive,0.2148148148148148,Positive,0.6591458916664124,Positive
 ¡Qué voz que tiene!😍,0.5093,Positive,0.0,Neutral,0.6753228306770325,Positive
 Better than recorded studio version. U are amazing! Summer song 2k19!,0.8065,Positive,0.71875,Positive,0.8122888803482056,Positive
 😍😍😍😍😍,0.9325,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Dondé vivés?,0.3818,Positive,0.1,Neutral,-0.3273087739944458,Negative
+Dondé vivés?,0.3818,Positive,0.1,Positive,-0.3273087739944458,Negative
 Muhteşem bir sesin var seni seviyorum pedro,0.8402,Positive,0.55,Positive,0.2289983481168747,Neutral
 Handsome.handsome.handsome.handsome.😍❤❤❤,0.9485,Positive,0.0,Neutral,0.8016082048416138,Positive
 kun sergio agüero mira mucho,0.0,Neutral,0.0,Neutral,0.364638090133667,Positive
@@ -754,28 +754,28 @@ Hago.  Videos.  El.   Pro.  Maldonado.   Mejia,0.0,Neutral,0.0,Neutral,-0.364299
 Eres. Mi. Fan. 1,0.3182,Positive,0.0,Neutral,0.2843599021434784,Neutral
 🇹🇷,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Besos del Brazil 🇧🇷😍,0.743,Positive,0.0,Neutral,0.4882038831710815,Positive
-Quien es fede bal jaja,0.4588,Positive,0.2,Neutral,0.330285906791687,Positive
-parece mas mayor,0.0,Neutral,0.1666666666666666,Neutral,0.4914112985134125,Positive
+Quien es fede bal jaja,0.4588,Positive,0.2,Positive,0.330285906791687,Positive
+parece mas mayor,0.0,Neutral,0.1666666666666666,Positive,0.4914112985134125,Positive
 I love Pedro Capo,0.6369,Positive,0.5,Positive,0.7578933835029602,Positive
 The best and happy,0.836,Positive,0.9,Positive,0.8886988759040833,Positive
 Que nacionalidad es el,0.0,Neutral,0.0,Neutral,-0.3035815358161926,Negative
 Like a quien le. Parece que Pedro capo tiene una vos espectacular,0.3612,Positive,0.6,Positive,0.6657423973083496,Positive
-CALMA = CALME,0.7241,Positive,0.3,Neutral,0.5100159645080566,Positive
+CALMA = CALME,0.7241,Positive,0.3,Positive,0.5100159645080566,Positive
 Çok hoşş,0.4754,Positive,0.78,Positive,-0.375895231962204,Negative
 Enamorada ❤,0.8555,Positive,0.5,Positive,0.5740426182746887,Positive
 bebeğim harikasın 👌♩,0.7925,Positive,1.0,Positive,0.2605341970920563,Neutral
 inanılmaz güzel bi şarkı,0.8271,Positive,0.7250000000000001,Positive,0.2909011542797088,Neutral
 0:41 mi corzon ❤💔,0.8885,Positive,0.0,Neutral,-0.4491786956787109,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Magnífico!Show👏👏👏👏,0.636,Positive,1.0,Positive,0.9395377039909364,Positive
 bbbbrutal,0.0,Neutral,0.0,Neutral,0.2789598703384399,Neutral
 "Beautiful song, I love to listening to this song 😊😘👍👏🏻",0.9509,Positive,0.675,Positive,0.8032391667366028,Positive
 Why he has to be this handsome 😍😭,0.5647,Positive,0.5,Positive,0.7689242959022522,Positive
-Guau chico👍👍,0.5859,Positive,0.1,Neutral,0.2436065226793289,Neutral
+Guau chico👍👍,0.5859,Positive,0.1,Positive,0.2436065226793289,Neutral
 Superrrr👍👍👌👌😘😘,0.9506,Positive,0.0,Neutral,0.3085779249668121,Neutral
 acoustic is even better!,0.4926,Positive,0.625,Positive,0.4764281213283539,Positive
 "Extraño a mi isla🇵🇷sus playas, el olor a frituras y cafe en las mañanas❤el pernil y coquito en despedia del año, no hay nada como Puerto Rico",0.3591,Positive,0.0,Neutral,0.6458565592765808,Positive
-"Muy diferente a la cancion, pero al menos aun tiene calidad sin tantos filtros como el resto",0.0,Neutral,0.0666666666666666,Neutral,0.4302800893783569,Positive
+"Muy diferente a la cancion, pero al menos aun tiene calidad sin tantos filtros como el resto",0.0,Neutral,0.0666666666666666,Positive,0.4302800893783569,Positive
 me encanta como cantas esta cancion  romantica y alegre,0.9006,Positive,0.4333333333333333,Positive,0.7629138231277466,Positive
 Me surpreende como que em cada versão eu gosto mais dessa musica.,0.5267,Positive,0.5,Positive,0.5433374643325806,Positive
 ¿Como se llama la canción de el que dice que la mujer fue sacada de la costilla del hombre?,0.0,Neutral,0.0,Neutral,-0.5462123155593872,Negative
@@ -791,17 +791,17 @@ escucha mi latin songs en mi cadena !,0.0,Neutral,0.0,Neutral,0.680472195148468,
 ¿Se ha teñido el pelo Pablo Lopez?,0.0,Neutral,0.0,Neutral,-0.4086923897266388,Negative
 So amazing 😍😍🍃,0.8852,Positive,0.6000000000000001,Positive,0.8790445923805237,Positive
 farruko!!!!,0.0,Neutral,0.0,Neutral,-0.3582938909530639,Negative
-Eu estou calma. Quem está nervoso são vocês.,0.0516,Positive,0.3,Neutral,0.5813710689544678,Positive
-La musica anterior esta  buena,0.4404,Positive,0.2666666666666666,Neutral,0.4020144045352936,Positive
+Eu estou calma. Quem está nervoso são vocês.,0.0516,Positive,0.3,Positive,0.5813710689544678,Positive
+La musica anterior esta  buena,0.4404,Positive,0.2666666666666666,Positive,0.4020144045352936,Positive
 I ❤️ ❤️,0.0,Neutral,0.0,Neutral,0.3622051477432251,Positive
-Such a happy song on sunday...  If only i can gave love emoticon ona millions time,0.836,Positive,0.325,Neutral,0.7478448748588562,Positive
+Such a happy song on sunday...  If only i can gave love emoticon ona millions time,0.836,Positive,0.325,Positive,0.7478448748588562,Positive
 hola  porfa me puedes enviar un saludo,0.5994,Positive,0.0,Neutral,-0.3705388903617859,Negative
 Amo lo que trasmite al cantar...,0.6369,Positive,0.5,Positive,0.6313544511795044,Positive
 "😍 Peter 💕oops, I mean Pedro Capo",0.4588,Positive,-0.3125,Negative,0.3167657256126404,Neutral
 Good One Again Awesome  Harmony .,0.8658,Positive,0.85,Positive,0.7069126963615417,Positive
 Un capo *,0.0,Neutral,0.0,Neutral,0.2444932907819748,Neutral
 Me encanta esta version.  Tiene talento y buena voz,0.872,Positive,0.6,Positive,0.7698123455047607,Positive
-"Wow , 😍😍 took my heart ,,🤤🤤🤤",0.9325,Positive,0.1,Neutral,0.8604888319969177,Positive
+"Wow , 😍😍 took my heart ,,🤤🤤🤤",0.9325,Positive,0.1,Positive,0.8604888319969177,Positive
 "LETRA :') :3 
 
 
@@ -865,16 +865,16 @@ Calma, mi vida, con calma
 Que nada hace falta si estamos juntitos bailando
 
 
-LIKE POR MI ESFUERZO :')",0.9979,Positive,0.1255892255892256,Neutral,0.5768432021141052,Positive
+LIKE POR MI ESFUERZO :')",0.9979,Positive,0.1255892255892256,Positive,0.5768432021141052,Positive
 👍👍👍👍👍👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Lindo de mais tem que virar hit 🇧🇷,0.5994,Positive,0.85,Positive,0.3180069327354431,Neutral
-Esta cancion me da tanta.....CALMA,0.5125,Positive,0.25,Neutral,0.7376821041107178,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Esta cancion me da tanta.....CALMA,0.5125,Positive,0.25,Positive,0.7376821041107178,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Version mambo https://youtu.be/PxlJAjc85BM,-0.34,Negative,-0.6,Negative,0.2602126896381378,Neutral
 "Suscribete A El Canal
 
-El Salvador Accion",0.0,Neutral,0.1,Neutral,0.301875352859497,Neutral
+El Salvador Accion",0.0,Neutral,0.1,Positive,0.301875352859497,Neutral
 ni voz tiene ese mal parido...,-0.5423,Negative,-0.6999999999999998,Negative,-0.7884201407432556,Negative
 🥰🥰🔥🔥💯💯,0.8957,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Hermosa voz, hit del verano, saludos de Alemania",0.7717,Positive,0.85,Positive,0.7671974301338196,Positive
@@ -884,13 +884,13 @@ I love this song very very much,0.6369,Positive,0.38,Positive,0.8558158874511719
 Qué?,0.0,Neutral,0.0,Neutral,-0.3141156435012817,Negative
 👍,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 I like him,0.3612,Positive,0.0,Neutral,0.4565182626247406,Positive
-"Como carajos hace un concierto con una sola canción jaja alto robo de este vago, no ha llegado el verano y ya estamos hartos de esta cancioncita.",-0.3818,Negative,0.0041666666666666,Neutral,-0.8054050207138062,Negative
+"Como carajos hace un concierto con una sola canción jaja alto robo de este vago, no ha llegado el verano y ya estamos hartos de esta cancioncita.",-0.3818,Negative,0.0041666666666666,Positive,-0.8054050207138062,Negative
 Pedro is my dream man. Yo gusta locopiqo tu es luz pura. 10 points to his tequila voice!,0.5848,Positive,0.3571428571428571,Positive,0.8181078433990479,Positive
 canta de la verga,-0.1531,Negative,0.0,Neutral,0.289530485868454,Neutral
 Me gustó esa canción pero así como que le hace falta autotune 😆😆😆,0.8922,Positive,0.6,Positive,0.6053772568702698,Positive
 Guaaaa 😍❤,0.802,Positive,0.0,Neutral,0.267656922340393,Neutral
 Très belle prestation j'adore 😘😘😘,0.9402,Positive,0.64,Positive,0.717308521270752,Positive
-Calma de Pedro Capó con guitarra y cajón ❤,0.7579,Positive,0.3,Neutral,0.582669734954834,Positive
+Calma de Pedro Capó con guitarra y cajón ❤,0.7579,Positive,0.3,Positive,0.582669734954834,Positive
 Que recuerdos!! 🥺 Mis vacaciones en Búzios🇧🇷2019🇨🇱,0.0,Neutral,0.0,Neutral,0.548385739326477,Positive
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Perfecto👌👌,0.9429,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -931,25 +931,25 @@ Ya dejen esa cancion en paz...ya fastidia con sus miles de versiones una mas mal
 I love that husky voice 😍,0.802,Positive,0.5,Positive,0.7808881402015686,Positive
 "Me encanta Pedro Capó, su canción es muy linda!!!",0.8469,Positive,0.75,Positive,0.7909768223762512,Positive
 this is call talent👍🏻😎,0.7003,Positive,0.0,Neutral,0.4034722745418548,Positive
-"Strong, Touching, Musical",0.5106,Positive,0.3111111111111111,Neutral,0.6238987445831299,Positive
+"Strong, Touching, Musical",0.5106,Positive,0.3111111111111111,Positive,0.6238987445831299,Positive
 100% sencillo! Mi piace,0.4199,Positive,0.0,Neutral,0.8463534116744995,Positive
 😍💜,0.802,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "mucho muy bien!!!!!!!! dnt know to speak spanish but damn.. this make me sing my bones in spanish!! PILIPINO here, so i dnt think im gonna be a hard time!!!",-0.7444,Negative,-0.1898871527777778,Negative,0.626212477684021,Positive
-Qué FEELING ese vozarrón!!! 🧡🕺🏻,0.8079,Positive,0.1953125,Neutral,0.3189398050308227,Neutral
+Qué FEELING ese vozarrón!!! 🧡🕺🏻,0.8079,Positive,0.1953125,Positive,0.3189398050308227,Neutral
 "Lo mejor de todo es que es super lindo en persona, no solo conmigo lo fué con mucha gente que le pedía una foto muy amable él. Muchos deberían de aprenderle a Pedro!",0.9078,Positive,0.534047619047619,Positive,0.8917202949523926,Positive
 😘,0.4215,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Que hombre más sexi Dios mio :o ;) 2:22,0.7184,Positive,0.2666666666666666,Neutral,0.4303166270256042,Positive
+Que hombre más sexi Dios mio :o ;) 2:22,0.7184,Positive,0.2666666666666666,Positive,0.4303166270256042,Positive
 One of the beautifullest thing I have heard💚💛💚🇳🇦 I couldn't stop smiling while watching,0.832,Positive,0.0,Neutral,0.9165703654289246,Positive
 💖💖💖💖💖💖💖💖100%,0.9928,Positive,0.0,Neutral,-0.2428242862224578,Negative
 I like this song and the singer as well. Cool 😎 This is my favorite song . Even if I don't understand💪👍👍👍👏👏👏,0.8979,Positive,0.425,Positive,0.6782314777374268,Positive
 "Estoy muy  obsesionado con esta canción, no puedo dejar de escucharla hasta ahora, a cuantos mas les ocurre lo mismo?",-0.0271,Neutral,-0.05,Negative,0.3633337318897247,Positive
-siento que le va a tronar una vena del cuello haha,0.6705,Positive,0.2,Neutral,-0.4072871208190918,Negative
+siento que le va a tronar una vena del cuello haha,0.6705,Positive,0.2,Positive,-0.4072871208190918,Negative
 Otro Michel Teló,0.0,Neutral,0.0,Neutral,-0.3383998870849609,Negative
 C'est quoi ce beau mec,0.5789,Positive,0.5,Positive,0.4647475779056549,Positive
 ¿La marca de la cerveza sponsorea este tema?😁,0.4588,Positive,0.0,Neutral,-0.3387693464756012,Negative
-sinceramente questa versione live fa cagare 😅,0.4588,Positive,0.1454545454545454,Neutral,-0.2975958883762359,Negative
+sinceramente questa versione live fa cagare 😅,0.4588,Positive,0.1454545454545454,Positive,-0.2975958883762359,Negative
 😍❤️ cudowny!,0.7901,Positive,1.0,Positive,0.5428984761238098,Positive
-"Love it  arriba los Boricua, y lo que más me gusta cero vulgaridad congrat please no te dañe, esta canción va a llegar lejos",0.9427,Positive,0.275,Neutral,-0.6056671738624573,Negative
+"Love it  arriba los Boricua, y lo que más me gusta cero vulgaridad congrat please no te dañe, esta canción va a llegar lejos",0.9427,Positive,0.275,Positive,-0.6056671738624573,Negative
 oleeee tiooooo la actuacion espectacular,0.0,Neutral,0.6,Positive,0.6132286190986633,Positive
 Soy fanstico de la salsa dura pero esta cancion es un temaso arriba CAPO 🇵🇷🇵🇷,0.1154,Positive,-0.1458333333333333,Negative,0.2693919837474823,Neutral
 😍😍😍,0.8402,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -970,7 +970,7 @@ buena canción que linda,0.7346,Positive,0.6,Positive,0.4553057551383972,Positiv
 Cuando maduro lo saquen  de Venezuela estaremos todos cantando esta hermosa canción durante un mes todos los días. Amen...,0.6833,Positive,0.85,Positive,0.7476499080657959,Positive
 Me encanta 💚,0.8555,Positive,0.5,Positive,0.8068308234214783,Positive
 This makes me so happy 😁💛,0.9176,Positive,0.8,Positive,0.8053955435752869,Positive
-Lyric in english please,0.3182,Positive,0.125,Neutral,0.2559088170528412,Neutral
+Lyric in english please,0.3182,Positive,0.125,Positive,0.2559088170528412,Neutral
 😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Me tripea esa canción,0.0,Neutral,0.0,Neutral,0.2634570598602295,Neutral
 No puede estar tan bueno #PedroCapo,-0.3412,Negative,0.7,Positive,-0.4310271441936493,Negative
@@ -987,27 +987,27 @@ Really love it ! I Made mine acoustic version ❤️❤️❤️ https://youtu.b
 Que voz tan bella mi Capo,0.5994,Positive,0.85,Positive,0.6667574048042297,Positive
 Me encanta el rasgado en su voz,0.6369,Positive,0.5,Positive,0.7447935938835144,Positive
 Que hermoso!!,0.6792,Positive,1.0,Positive,0.7973100543022156,Positive
-"I don't know spanish, still enjoyed",0.5106,Positive,0.25,Neutral,0.5391806960105896,Positive
+"I don't know spanish, still enjoyed",0.5106,Positive,0.25,Positive,0.5391806960105896,Positive
 "Y EL CAJON PERUANO!!! PRESENTE 😍
-GRAN PEDRITO... HERMOSA CANCIÓN",0.8594,Positive,0.2833333333333333,Neutral,0.8367489576339722,Positive
+GRAN PEDRITO... HERMOSA CANCIÓN",0.8594,Positive,0.2833333333333333,Positive,0.8367489576339722,Positive
 😍😍😍😍😍😍😍😍😍,0.9776,Positive,0.0,Neutral,0.3085779249668121,Neutral
 DIOS T BENDIGA ESA VOZ EN TODO MOMENTO ES REFRESCANTE ESCUCHARTE🤗,0.8468,Positive,0.5,Positive,0.7463016510009766,Positive
 "I love love love this song!!!✨🎵🎤✨💃🏻 
 #PedroCapó 👏👏👏",0.9588,Positive,0.5,Positive,0.9091745615005492,Positive
 Amo esta cancion,0.6369,Positive,0.5,Positive,0.6954569816589355,Positive
-no disrespect to Jessica but he's HOT,0.1695,Positive,0.25,Neutral,0.4263917505741119,Positive
+no disrespect to Jessica but he's HOT,0.1695,Positive,0.25,Positive,0.4263917505741119,Positive
 Il Top,0.2023,Positive,0.5,Positive,0.8489784002304077,Positive
 "Pedro és Grande cantante me gusta mucho del tuas canciones, e me encanta mucho la belíssima cancion Calma.
 Aquele grande abraço de Portugal",0.9571,Positive,0.5375,Positive,0.750271201133728,Positive
-Ufff que versión. Eso al oído y en la playa y se entrecorta la respiración! 🔥 calma mi vida con calma... 🤤,0.7424,Positive,0.2416666666666667,Neutral,0.6188424229621887,Positive
+Ufff que versión. Eso al oído y en la playa y se entrecorta la respiración! 🔥 calma mi vida con calma... 🤤,0.7424,Positive,0.2416666666666667,Positive,0.6188424229621887,Positive
 Te amoooo guapo pedro 😍,0.802,Positive,0.5,Positive,-0.3599406480789184,Negative
-why he always looks high?,0.0,Neutral,0.16,Neutral,-0.2712457180023193,Negative
+why he always looks high?,0.0,Neutral,0.16,Positive,-0.2712457180023193,Negative
 I don't understand this language but it is nice,0.5719,Positive,0.6,Positive,0.4736180901527405,Positive
 adam çok tatlı ya ansjdjsh,0.5949,Positive,0.5,Positive,-0.4065580368041992,Negative
 Que hombre más sexi OMG,0.5267,Positive,0.5,Positive,0.3082015514373779,Neutral
 ❤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Esta es la mejor versión de todas, te quiero Pedro 😍",0.9081,Positive,0.75,Positive,0.9071060419082642,Positive
-sin farruko no hay  algo  de magia  para q la cancion llegue  hasta  el infinito hasta los huesos...... pero que bonita canción  me gusta la tengo y espero q capo siga,0.9169,Positive,0.3,Neutral,0.4730114936828613,Positive
+sin farruko no hay  algo  de magia  para q la cancion llegue  hasta  el infinito hasta los huesos...... pero que bonita canción  me gusta la tengo y espero q capo siga,0.9169,Positive,0.3,Positive,0.4730114936828613,Positive
 Heloo in Rumenia a minunat,0.5719,Positive,1.0,Positive,-0.2934941351413727,Negative
 😍😍😍😍😍😍😍😍😍❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ люблю,0.9776,Positive,0.0,Neutral,0.5788927674293518,Positive
 Esta canción es una obsesión 😘😍,0.5267,Positive,0.0,Neutral,0.3723808825016022,Positive
@@ -1020,9 +1020,9 @@ I love you,0.6369,Positive,0.5,Positive,0.8546807765960693,Positive
 Lento ❤❤❤,0.9274,Positive,0.0,Neutral,-0.3794779181480407,Negative
 https://youtu.be/ixeK1DJk308CALMA💃🌷💝,0.6369,Positive,0.0,Neutral,0.2766924202442169,Neutral
 Te amoooooh música lindaaaaa,0.8442,Positive,0.675,Positive,-0.4393988847732544,Negative
-Brabo para tu nuevo exsito pedro que siempre dios te bendiga,0.8225,Positive,0.2181818181818181,Neutral,0.5667010545730591,Positive
+Brabo para tu nuevo exsito pedro que siempre dios te bendiga,0.8225,Positive,0.2181818181818181,Positive,0.5667010545730591,Positive
 "Lento e felice, faccia al vento🤗🥰
-缓慢而快乐，面对风",0.93,Positive,0.25,Neutral,0.5492437481880188,Positive
+缓慢而快乐，面对风",0.93,Positive,0.25,Positive,0.5492437481880188,Positive
 Lo amooooo,0.6369,Positive,0.5,Positive,0.219173714518547,Neutral
 Muevete chico pues el tema pa que lo baile.. vamossss,0.0,Neutral,0.0,Neutral,0.2577249109745025,Neutral
 Dall Italia con amore,0.6369,Positive,0.5,Positive,0.5782085657119751,Positive
@@ -1036,10 +1036,10 @@ Que significa abre la medalla?,0.4767,Positive,-0.15625,Negative,-0.540685057640
 "Genial , me gusta este tema!",0.784,Positive,1.0,Positive,0.7699040174484253,Positive
 "un teme muy bueno,,,, y tremenda interpretación de Pedro Capó.... la pegó",0.4927,Positive,0.6216666666666666,Positive,0.5761350393295288,Positive
 Me gusta,0.3612,Positive,0.0,Neutral,0.4238454401493072,Positive
-"Una luz en la obscuridad, después de escuchar tanta basura en lo urbano y el regetonto, Capo hace renacer la esperanza de la buena musica",0.8126,Positive,0.2299999999999999,Neutral,0.5865134000778198,Positive
+"Una luz en la obscuridad, después de escuchar tanta basura en lo urbano y el regetonto, Capo hace renacer la esperanza de la buena musica",0.8126,Positive,0.2299999999999999,Positive,0.5865134000778198,Positive
 Me encanta le canta al amor 😙,0.9442,Positive,0.5,Positive,0.78105628490448,Positive
 Que bonita voz muy fresca,0.7574,Positive,0.62,Positive,0.5644989609718323,Positive
-Costa Rica siempre apoyando a Pedro capo Felicidades amigo bendiciones gracias,0.9432,Positive,0.25,Neutral,0.6841301918029785,Positive
+Costa Rica siempre apoyando a Pedro capo Felicidades amigo bendiciones gracias,0.9432,Positive,0.25,Positive,0.6841301918029785,Positive
 "Bello, está canción me da calma",0.3182,Positive,-0.1555555555555555,Negative,0.6119319796562195,Positive
 "Me encanta esta canción, mi corazón siente cada palabra. No puedo evitar bailar.",0.5531,Positive,0.5,Positive,0.8984068632125854,Positive
 Hermoso,0.4939,Positive,0.5,Positive,0.7535308599472046,Positive

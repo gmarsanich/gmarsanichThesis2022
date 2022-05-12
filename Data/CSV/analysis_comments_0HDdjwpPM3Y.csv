@@ -1,9 +1,9 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
-i remember being five years old dancing to this in my ballet class,0.0,Neutral,0.1,Neutral,0.6616746783256531,Positive
+i remember being five years old dancing to this in my ballet class,0.0,Neutral,0.1,Positive,0.6616746783256531,Positive
 1.8B,0.0,Neutral,0.0,Neutral,0.2418238520622253,Neutral
 THIS SONG IS FIRE 🔥 🔥🔥🔥🔥,-0.9206,Negative,0.0,Neutral,0.4647371172904968,Positive
 Bangy Bangy Punaney....sing sing flappy flappy Show,0.0,Neutral,0.0,Neutral,-0.4621783792972564,Negative
-Ariana looks so young like she's  19,0.4173,Positive,0.1,Neutral,-0.2598170936107635,Negative
+Ariana looks so young like she's  19,0.4173,Positive,0.1,Positive,-0.2598170936107635,Negative
 Go #GirlPower,0.0,Neutral,0.0,Neutral,0.4592342972755432,Positive
 This song is perfect 🤩,0.5719,Positive,1.0,Positive,0.836111843585968,Positive
 STILL LEGEND,0.0,Neutral,0.0,Neutral,0.6125714182853699,Positive
@@ -11,9 +11,9 @@ Let me just twerk...🧍🤸🤼🏋🏃🧎🚶,0.0,Neutral,0.0,Neutral,-0.2602
 "I just brought this CD...
 Did i DO well ? 😏",0.2732,Positive,0.0,Neutral,0.2920345067977905,Neutral
 When you die you know where all of you on your group project going,-0.5994,Negative,0.0,Neutral,0.3378134667873382,Positive
-"a new day, Jessie's vocals slay",0.0,Neutral,0.1363636363636363,Neutral,-0.3373091518878937,Negative
-when the 3 smart cool kid do a group project together,0.6124,Positive,0.2821428571428571,Neutral,0.3730407059192657,Positive
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.749571681022644,Positive
+"a new day, Jessie's vocals slay",0.0,Neutral,0.1363636363636363,Positive,-0.3373091518878937,Negative
+when the 3 smart cool kid do a group project together,0.6124,Positive,0.2821428571428571,Positive,0.3730407059192657,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.749571681022644,Positive
 good music,0.4404,Positive,0.7,Positive,0.4951129853725433,Positive
 Nicki was hottttt,0.0,Neutral,0.0,Neutral,0.2821990549564361,Neutral
 when it's a group project and everyone did their part,0.0,Neutral,0.0,Neutral,0.2861308455467224,Neutral
@@ -22,7 +22,7 @@ this song ate 🤪,0.0,Neutral,0.0,Neutral,0.5621976852416992,Positive
 00:50,0.0,Neutral,0.0,Neutral,-0.2493831217288971,Negative
 "the best,,,,,,,,,,,,,,,,,,,",0.6369,Positive,1.0,Positive,0.9045568704605104,Positive
 I always listen to this song,0.0,Neutral,0.0,Neutral,0.6454892754554749,Positive
-7.4 years and I still can't hit Jessie's high note 👁👄👁,0.0,Neutral,0.16,Neutral,0.5259918570518494,Positive
+7.4 years and I still can't hit Jessie's high note 👁👄👁,0.0,Neutral,0.16,Positive,0.5259918570518494,Positive
 I miss thissssss,-0.1531,Negative,0.0,Neutral,-0.3097274899482727,Negative
 "Italy...Gong Lee...Marya Mercedes
 Step by Sist comunity.
@@ -56,18 +56,18 @@ NOW YOU ARE SAVED OR BORN AGAIN WHAT DO YOU DO AFTER?
 
  TO START TO LEARN ABOUT GOD :www.EnseigneMoi.com
 -www.cfaith  .com                    
-                                                                      -Watch Ron Wyatt Amazing Discoveries Full on youtube.",0.9915,Positive,0.231060606060606,Neutral,0.6670500636100769,Positive
+                                                                      -Watch Ron Wyatt Amazing Discoveries Full on youtube.",0.9915,Positive,0.231060606060606,Positive,0.6670500636100769,Positive
 God... Nicki is so fine damn,0.125,Positive,0.4166666666666667,Positive,0.6832399964332581,Positive
 Uum.. We danced this song at the school sports festival 🇯🇵😅,0.6908,Positive,0.0,Neutral,0.3665967583656311,Positive
 I still love this song,0.6369,Positive,0.5,Positive,0.7733447551727295,Positive
-If ur listening to this in 2022 ur my new bestie,0.0,Neutral,0.1363636363636363,Neutral,0.4049173891544342,Positive
+If ur listening to this in 2022 ur my new bestie,0.0,Neutral,0.1363636363636363,Positive,0.4049173891544342,Positive
 Who watching_ this year2022.4.26😍,0.4588,Positive,0.0,Neutral,0.5676526427268982,Positive
 Who watching this song_this year2022.4.26,0.0,Neutral,0.0,Neutral,0.4830788373947143,Positive
 Progress from Nigeria idol killed this song. Damn!!!!,-0.7627,Negative,-0.48828125,Negative,-0.8206242918968201,Negative
 What the hell is that i Found Nicki Minaj,-0.6808,Negative,0.0,Neutral,0.3365159928798675,Positive
 "This song never gets old. No matter how much I listen, I never get bored.",0.1877,Positive,-0.0666666666666666,Negative,0.5834524035453796,Positive
 0:21ダンダスから来てしまったのは俺だけか？,0.0,Neutral,0.0,Neutral,-0.6179682612419128,Negative
-I addicted to the start of the song. Wow! Jessie's voice made it more interesting. Soo powerful. I love it,0.9366,Positive,0.2541666666666666,Neutral,0.8519017100334167,Positive
+I addicted to the start of the song. Wow! Jessie's voice made it more interesting. Soo powerful. I love it,0.9366,Positive,0.2541666666666666,Positive,0.8519017100334167,Positive
 My dauther cant stop sing this😎,0.5978,Positive,0.0,Neutral,-0.3701197504997253,Negative
 NICKI MINAJ IS THE QUEEN OF RAP,0.0,Neutral,0.0,Neutral,0.593039333820343,Positive
 I think BTS is better😫,0.0,Neutral,0.0,Neutral,0.2596254348754883,Neutral
@@ -75,15 +75,15 @@ I think BTS is better😫,0.0,Neutral,0.0,Neutral,0.2596254348754883,Neutral
 amoooo <3 que saudade de ouvir essa música!,0.3802,Positive,1.0,Positive,0.4376096129417419,Positive
 "Опачки,чики,брики.",0.0,Neutral,0.0,Neutral,0.2148118913173675,Neutral
 Hey are you the girl from the Victoria's cat,0.0,Neutral,0.0,Neutral,0.4106376767158508,Positive
-"Nicky and Jessie and, Arianna are so pretty",0.6269,Positive,0.25,Neutral,0.5459114909172058,Positive
+"Nicky and Jessie and, Arianna are so pretty",0.6269,Positive,0.25,Positive,0.5459114909172058,Positive
 Queen Nicki,0.0,Neutral,0.0,Neutral,0.3868918716907501,Positive
 I think you want it 🤔,0.0772,Positive,0.0,Neutral,0.4317853450775146,Positive
 "Old but gold. Definitely one of the best collabs. 😊
 
-Check out another classic song and reminisce your high school memories. Click here: https://youtu.be/qrK7wMd0Ung",0.9604,Positive,0.2853333333333333,Neutral,0.8652855753898621,Positive
+Check out another classic song and reminisce your high school memories. Click here: https://youtu.be/qrK7wMd0Ung",0.9604,Positive,0.2853333333333333,Positive,0.8652855753898621,Positive
 Jnll,0.0,Neutral,0.0,Neutral,0.2310698181390762,Neutral
 7 yrs later and still here,0.0,Neutral,0.0,Neutral,0.2656576037406921,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.749571681022644,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.749571681022644,Positive
 "She got a body like an hourglass
 But I can give it to you all the time..
 She got a booty like a Cadillac
@@ -152,9 +152,9 @@ Bang, bang, bang, bang, b-bang, bang
 Bang-bang, there goes your heart (I know you want it)
 Back, backseat of my car, I'll let you have it (oh-oh)
 Just wait a minute, let me take you there (ah)
-And wait a minute 'til you (ah, hey!)",0.9968,Positive,0.1352941176470588,Neutral,0.4181356132030487,Positive
+And wait a minute 'til you (ah, hey!)",0.9968,Positive,0.1352941176470588,Positive,0.4181356132030487,Positive
 idegaf if this song will be 10 years in 3 years this song will forever be iconic and will be on my summer playlist,0.0,Neutral,0.5,Positive,0.5894882082939148,Positive
-Tenía 13 años cuando la escuchaba 😱😨.,-0.8402,Negative,0.1,Neutral,-0.3188077211380005,Negative
+Tenía 13 años cuando la escuchaba 😱😨.,-0.8402,Negative,0.1,Positive,-0.3188077211380005,Negative
 Ariana is the best,0.6369,Positive,1.0,Positive,0.7691388130187988,Positive
 Slayyyy,0.0,Neutral,0.0,Neutral,-0.3838594853878021,Negative
 "My utube recommend this ,When I feel sleepy in online class.",0.3612,Positive,0.0,Neutral,0.4818787574768066,Positive
@@ -163,10 +163,10 @@ You guys are the most amazing singers I’ve ever heard in my whole life,0.624,P
 Best trio ever,0.6369,Positive,1.0,Positive,0.949565291404724,Positive
 👑👑,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Iconic,0.0,Neutral,0.5,Positive,0.7523034811019897,Positive
-la voz del principio es una tono alto o me parece pero me encanta el tono :O,0.625,Positive,0.2366666666666667,Neutral,0.3824200630187988,Positive
+la voz del principio es una tono alto o me parece pero me encanta el tono :O,0.625,Positive,0.2366666666666667,Positive,0.3824200630187988,Positive
 The moment that I released that lm barb 🖤💜🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄,0.8555,Positive,0.0,Neutral,0.3425963222980499,Positive
 i meant to type bang bang bang by big bang then i saw this and i knew i had to see it,0.0,Neutral,0.0,Neutral,-0.280707985162735,Negative
-Hot 🥵 and wine water drink bottle bottle use bottle bottle wine drink water bottle drink bottle hot water bottle water drink bottle bottle wine drink water bottle drink bottle bottle wine drink water bottle drink bottle bottle wine hot bottle wine water bottle drink drink 🥤 do your wine 🍷 water 🚿 bottle wine bottle drink bottle wine drink drink water bottle drink hot bottle bottle wine drink water bottle drink bottle bottle,0.0,Neutral,0.25,Neutral,0.3835943341255188,Positive
+Hot 🥵 and wine water drink bottle bottle use bottle bottle wine drink water bottle drink bottle hot water bottle water drink bottle bottle wine drink water bottle drink bottle bottle wine drink water bottle drink bottle bottle wine hot bottle wine water bottle drink drink 🥤 do your wine 🍷 water 🚿 bottle wine bottle drink bottle wine drink drink water bottle drink hot bottle bottle wine drink water bottle drink bottle bottle,0.0,Neutral,0.25,Positive,0.3835943341255188,Positive
 Es laper cansion,0.0,Neutral,0.0,Neutral,-0.3702893853187561,Negative
 I swear part of this video was/is a T-Mobile commercial 😹,0.4019,Positive,0.0,Neutral,-0.5898441076278687,Negative
 "Ahhh! I missed ""Bang Bang"" hitting 1.8 billion views!!! This is Jessie's 1st and both Ariana's and Nicki's 2nd video to hit this milestone! Let's get that 2 billion views!!! 👑👑👑",-0.5216,Negative,0.0,Neutral,-0.494314968585968,Negative
@@ -176,7 +176,7 @@ When everybody understands the assignment 🔥,-0.34,Negative,0.0,Neutral,0.3234
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 "April 24, 2022.! JADP ❣️Mati Davao City ❤️Philippines 🇵🇭🤍",0.0,Neutral,0.0,Neutral,-0.509257435798645,Negative
 Love yuo frever beuatiful super super wow super wow good Time super super wow clube Super good super love yuo frever beuatiful super wow gôod day ❤️,0.9967,Positive,0.3715686274509803,Positive,0.7911206483840942,Positive
-you guys really still remember this,0.0,Neutral,0.2,Neutral,0.6033275127410889,Positive
+you guys really still remember this,0.0,Neutral,0.2,Positive,0.6033275127410889,Positive
 0:49,0.0,Neutral,0.0,Neutral,-0.4825531840324402,Negative
 this came on at Walmart today and I had to rewatch this,0.0,Neutral,0.0,Neutral,0.2236286103725433,Neutral
 Ariana 💕💕💕💕,0.9595,Positive,0.0,Neutral,0.4077634215354919,Positive
@@ -192,7 +192,7 @@ This has over a billion views,0.0,Neutral,0.0,Neutral,0.5359460711479187,Positiv
 ❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Jessie’s vocal is so underrated.,0.0,Neutral,0.0,Neutral,0.6666030287742615,Positive
 I WANT THAT CAR!,0.1511,Positive,0.0,Neutral,0.7099862098693848,Positive
-Wow this was my fav song,0.7783,Positive,0.1,Neutral,0.8510580658912659,Positive
+Wow this was my fav song,0.7783,Positive,0.1,Positive,0.8510580658912659,Positive
 One of the best female video of 2014🥵❤️🔥👌💯,0.8374,Positive,0.5,Positive,0.9205564856529236,Positive
 "Stock video of the 7 train, cut to the California soundstage of a city street everyone uses",-0.2732,Negative,0.0,Neutral,0.3341126441955566,Positive
 My name is Ariana too,0.0,Neutral,0.0,Neutral,0.3858738541603088,Positive
@@ -203,7 +203,7 @@ Aquele trio de respeito. Esse é um dos melhores sons.,0.8074,Positive,1.0,Posit
 Material ghworll,0.0,Neutral,0.0,Neutral,0.2826986014842987,Neutral
 Hb,0.0,Neutral,0.0,Neutral,0.2652819454669952,Neutral
 2022 anyone?,0.0,Neutral,0.0,Neutral,-0.5808016061782837,Negative
-"They played this at my school's prom, I instantly started singing my heart out. My friends were hyping me up during Nicki's rap and Jessie's high note",0.8658,Positive,0.08,Neutral,0.5767033696174622,Positive
+"They played this at my school's prom, I instantly started singing my heart out. My friends were hyping me up during Nicki's rap and Jessie's high note",0.8658,Positive,0.08,Positive,0.5767033696174622,Positive
 ok 3/10,0.296,Positive,0.5,Positive,0.5539727210998535,Positive
 "She got a body like an hourglass
 But I can give it to you all the time
@@ -269,7 +269,7 @@ Bang, bang, bang, bang, b-bang, bang
 Bang-bang, there goes your heart (I know you want it)
 Back, backseat of my car, I'll let you have it (oh-oh)
 Just wait a minute, let me take you there (ah)
-And wait a minute 'til you (ah, hey!)",0.9968,Positive,0.1352941176470588,Neutral,0.3706935942173004,Positive
+And wait a minute 'til you (ah, hey!)",0.9968,Positive,0.1352941176470588,Positive,0.3706935942173004,Positive
 Iconic,0.0,Neutral,0.5,Positive,0.7523034811019897,Positive
 Terrible song tho..,-0.4767,Negative,-1.0,Negative,-0.8314611911773682,Negative
 Why is that all sicko men love this song?,0.6369,Positive,0.5,Positive,0.4049078524112701,Positive
@@ -282,9 +282,9 @@ W À  CCC,0.0,Neutral,0.0,Neutral,0.3237198889255523,Neutral
 Nickiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,0.0,Neutral,0.0,Neutral,0.2543757259845733,Neutral
 ariana its beautiful,0.5994,Positive,0.85,Positive,0.6356425881385803,Positive
 Update,0.0,Neutral,0.0,Neutral,-0.3106975555419922,Negative
-When I’m still alive,0.3818,Positive,0.1,Neutral,0.2427698969841003,Neutral
+When I’m still alive,0.3818,Positive,0.1,Positive,0.2427698969841003,Neutral
 Slay Queen,0.0,Neutral,0.0,Neutral,0.341555655002594,Positive
-Action song,0.0,Neutral,0.1,Neutral,0.335646241903305,Positive
+Action song,0.0,Neutral,0.1,Positive,0.335646241903305,Positive
 "1.800.000.000 RAINHAS VEY FALTA AGORA BATER 1,9BI e depois 2BI",0.0,Neutral,0.0,Neutral,-0.614482581615448,Negative
 Jiesse j I am your biggest fun if you,0.3182,Positive,0.0,Neutral,0.5695423483848572,Positive
 """She got a body like an hourglass
@@ -313,13 +313,13 @@ Nicki rapping is the best part imo.,0.6369,Positive,1.0,Positive,0.4655577838420
 1.8 billion views later,0.0,Neutral,0.0,Neutral,-0.3653911054134369,Negative
 1.8B!!!!!!,0.0,Neutral,0.0,Neutral,-0.4056326746940613,Negative
 rock it girl,0.0,Neutral,0.0,Neutral,0.499011218547821,Positive
-"It's okay, you're not the only one still listening to this masterpiece in 2022.",0.7766,Positive,0.25,Neutral,0.8587066531181335,Positive
+"It's okay, you're not the only one still listening to this masterpiece in 2022.",0.7766,Positive,0.25,Positive,0.8587066531181335,Positive
 Grande wearing granny wet em and toss em panties!! Wth!? Like 100% cotton at least hopefully!! Don't get me wrong she still damn gorgeous! She rock anything!,0.8813,Positive,-0.041015625,Negative,0.8334592580795288,Positive
 "와우~~멋진 영상과 음악👍👍
 왜 못랐을까~🙏🙏👍💖",0.7506,Positive,0.0,Neutral,-0.2837800979614258,Negative
 55,0.0,Neutral,0.0,Neutral,0.2786448299884796,Neutral
 Iau Ork.Pof,0.0,Neutral,0.0,Neutral,0.2903482615947723,Neutral
-Neste F Orginal,0.3182,Positive,0.1875,Neutral,0.2498568892478943,Neutral
+Neste F Orginal,0.3182,Positive,0.1875,Positive,0.2498568892478943,Neutral
 https://youtu.be/z5KGgIQiDd4,0.0,Neutral,0.0,Neutral,-0.2288227528333664,Negative
 2022nstill here,0.0,Neutral,0.0,Neutral,-0.2189028561115265,Negative
 2022 anyone???,0.0,Neutral,0.0,Neutral,-0.7084137201309204,Negative
@@ -333,7 +333,7 @@ It's 2022 [if you listen this song in this year you're legend],0.0,Neutral,0.0,N
 ダンダスしか出てこん笑,0.4215,Positive,0.4,Positive,0.2373040169477462,Neutral
 👏👏👏💋💋💋🛐🛐🛐🆒,0.9436,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😆🍻,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.749571681022644,Positive
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.749571681022644,Positive
 Bang bang cuki more,0.0,Neutral,0.5,Positive,0.3067201673984527,Neutral
 "Although Without Nicki,this song will reach its highest position.",0.0258,Neutral,0.0,Neutral,0.4228222370147705,Positive
 2022 sub pleese?,0.0,Neutral,0.0,Neutral,-0.3658156394958496,Negative
@@ -343,21 +343,21 @@ Nostalgia dengerin lagu ini 🤣😭😭,0.0,Neutral,-0.5,Negative,0.47710669040
 😍😍😍😍😍😍😍🔥🔥🔥🔥,0.9081,Positive,0.0,Neutral,0.3085779249668121,Neutral
 “Smash”,0.0,Neutral,0.0,Neutral,-0.7650086879730225,Negative
 Good songs ❤❤❤,0.9477,Positive,0.7,Positive,0.4702215790748596,Positive
-GD !! she looks like Snow White ...... Sexy !,0.7767,Positive,0.3125,Neutral,0.7026810646057129,Positive
+GD !! she looks like Snow White ...... Sexy !,0.7767,Positive,0.3125,Positive,0.7026810646057129,Positive
 👌 2022 and this song still 🔥,0.5766,Positive,0.0,Neutral,0.5357062220573425,Positive
 Damn ! She's a cutie !!!,-0.3331,Negative,0.0,Neutral,0.4692556858062744,Positive
 Dat middle 8,0.0,Neutral,0.0,Neutral,-0.2933304905891418,Negative
 25×12,0.0,Neutral,0.0,Neutral,0.2851552367210388,Neutral
 "this song has only evolved, today it has 1.8 billion views, soon it will have 2 billion views!!! DON'T LET THIS HIT DIE...😍",-0.5437,Negative,0.0,Neutral,-0.7209118604660034,Negative
 Bang bang there goes your brain,0.0,Neutral,0.0,Neutral,-0.4165870249271393,Negative
-Nicki raps so fast,0.0,Neutral,0.2,Neutral,-0.3057797253131866,Negative
+Nicki raps so fast,0.0,Neutral,0.2,Positive,-0.3057797253131866,Negative
 1.8B 🤩,0.0,Neutral,0.0,Neutral,0.2315176278352737,Neutral
 "1.8B!!!❤
 and Side To Side going to 2B!!! 
 We Go Up out nowww!!",0.7482,Positive,0.0,Neutral,-0.5815351009368896,Negative
 They used to be my ex-girlfriend online well you know online I don't know I'll just talk to somebody I don't know if it to her or him she took with her but I can't talk to her anymore so that my phone's all messed up no God has his reasons,-0.5819,Negative,0.0,Neutral,-0.5313264727592468,Negative
 I think Miley Cyrus is mad at me,-0.4939,Negative,-0.625,Negative,-0.5308176875114441,Negative
-You no I love you right I need bang bang I dieing here I talked to God but he told me to follow you 😂🤣🤣,0.9045,Positive,0.0178571428571428,Neutral,-0.4175536334514618,Negative
+You no I love you right I need bang bang I dieing here I talked to God but he told me to follow you 😂🤣🤣,0.9045,Positive,0.0178571428571428,Positive,-0.4175536334514618,Negative
 Love Ariana's part the best,0.8555,Positive,0.75,Positive,0.8201320171356201,Positive
 hehe,0.0,Neutral,0.0,Neutral,0.2750043869018554,Neutral
 This SCREAMS girl power💗💅💅🔥🔥,-0.2103,Negative,0.0,Neutral,0.5264681577682495,Positive
@@ -408,10 +408,10 @@ OMG 1.8B MY QUEEN❤️,0.0,Neutral,0.0,Neutral,0.3436488807201385,Positive
 🥰,0.8074,Positive,0.0,Neutral,0.3085779249668121,Neutral
 I love this song !,0.6696,Positive,0.625,Positive,0.8904709815979004,Positive
 Se nicki não for o melhor Rapper do século eu não sei 😝😝😝💖💖,0.8567,Positive,1.0,Positive,0.2866688370704651,Neutral
-This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.749571681022644,Positive
-This song is 7 years old. Damn time flies,-0.4019,Negative,0.1,Neutral,-0.3167625963687897,Negative
+This song and “Did You Call Me” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.749571681022644,Positive
+This song is 7 years old. Damn time flies,-0.4019,Negative,0.1,Positive,-0.3167625963687897,Negative
 "who wants a comeback of ariana, jessie and nicki to sing this song?
-⬇️",0.0,Neutral,0.2,Neutral,-0.2527934908866882,Negative
+⬇️",0.0,Neutral,0.2,Positive,-0.2527934908866882,Negative
 1.8B,0.0,Neutral,0.0,Neutral,0.2418238520622253,Neutral
 Am here again.....,0.0,Neutral,0.0,Neutral,0.5864225029945374,Positive
 This trio is underrated try to change my mind.,0.0,Neutral,0.0,Neutral,0.5929350852966309,Positive
@@ -426,26 +426,26 @@ Jessie:daisy
 Arianna:Jane(?)
 Nicki: clockwork
 All the back dancers(?):the other creepypasta's being force to do this
-0:44 the one on the right:masky or drunk/high Wendell (?)",0.9509,Positive,0.1276785714285714,Neutral,0.5067300796508789,Positive
+0:44 the one on the right:masky or drunk/high Wendell (?)",0.9509,Positive,0.1276785714285714,Positive,0.5067300796508789,Positive
 1.8B,0.0,Neutral,0.0,Neutral,0.2418238520622253,Neutral
-Very well  put  2gether.,0.3384,Positive,0.2,Neutral,0.7345115542411804,Positive
-Solo es diversion,0.5106,Positive,0.3,Neutral,0.2629081606864929,Neutral
+Very well  put  2gether.,0.3384,Positive,0.2,Positive,0.7345115542411804,Positive
+Solo es diversion,0.5106,Positive,0.3,Positive,0.2629081606864929,Neutral
 Yo ok,0.296,Positive,0.5,Positive,0.388782799243927,Positive
 19.04.2022 ❤🇲🇷,0.0,Neutral,0.0,Neutral,-0.4885474443435669,Negative
-"Why would any good song get old? I'm tired of people saying how this song is 7 years,  but they still listen to it!!! Anything old as fuck is great listening to regardless of how old it is",0.4168,Positive,0.0883928571428571,Neutral,0.365313708782196,Positive
+"Why would any good song get old? I'm tired of people saying how this song is 7 years,  but they still listen to it!!! Anything old as fuck is great listening to regardless of how old it is",0.4168,Positive,0.0883928571428571,Positive,0.365313708782196,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 Me encanta este temazo aquí 2022,0.6369,Positive,0.5,Positive,0.8147745132446289,Positive
 "Ariana grande , Niki, Jess , you rock",0.0,Neutral,0.0,Neutral,0.5213575959205627,Positive
-This song never gets old I’m surprised it did not win the grammys I wouldn’t be shocked that the future generation would go back and still listen to this song . It’s an absolute banger. To be honest I’m kinda speechless that it did not got more than 1.8 billion views,-0.0444,Neutral,0.0444444444444444,Neutral,-0.6735697388648987,Negative
+This song never gets old I’m surprised it did not win the grammys I wouldn’t be shocked that the future generation would go back and still listen to this song . It’s an absolute banger. To be honest I’m kinda speechless that it did not got more than 1.8 billion views,-0.0444,Neutral,0.0444444444444444,Positive,-0.6735697388648987,Negative
 Me still listening to this song after 3 years,0.0,Neutral,0.0,Neutral,0.4180661737918854,Positive
 trash,0.0,Neutral,0.0,Neutral,-0.7562036514282227,Negative
 "Its the 18th april 2022, lets see how many people came here again to listen to this song",0.0,Neutral,0.5,Positive,0.3092474341392517,Neutral
 "FOR GOD SO LOVED THE WORLD, THAT HE GAVE HIS ONLY BEGOTTEN SON OF GOD JESUS CHRIST, WHOEVER BELIEVES IN HIM SHALL NOT PERISH, BUT HAVE  EVERLASTING LIFE IN HEAVEN FOREVER AND EVER. John 3:16 Bible....THE RAINBOW🌈THRONE OF SON OF GOD JESUS CHRIST AND THE TREE OF LIFE, Revelation 4 and Revelation 22 Bible. And whoever was not found written in the book of life was cast into the lake of fire.🔥This is the second death. Revelations 20 bible.... ❤️I SAW A NEW HEAVEN AND A NEW EARTH, for the first heaven and the first earth had passed away. Also there was no more sea. 2 Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God. 4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”
 5 Then He who sat on the throne said, “Behold, I make all things new.” And He said to me, “Write, for these words are true and faithful.”❤️
-6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE   REVELATION 21 21 21 21 21..........❤️..........For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23) BIBLE",0.9744,Positive,0.1038699494949494,Neutral,0.4940859973430633,Positive
+6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE   REVELATION 21 21 21 21 21..........❤️..........For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23) BIBLE",0.9744,Positive,0.1038699494949494,Positive,0.4940859973430633,Positive
 "FOR GOD SO LOVED THE WORLD, THAT HE GAVE HIS ONLY BEGOTTEN SON OF GOD JESUS CHRIST, WHOEVER BELIEVES IN HIM SHALL NOT PERISH, BUT HAVE  EVERLASTING LIFE IN HEAVEN FOREVER AND EVER. John 3:16 Bible....THE RAINBOW🌈THRONE OF SON OF GOD JESUS CHRIST AND THE TREE OF LIFE, Revelation 4 and Revelation 22 Bible. And whoever was not found written in the book of life was cast into the lake of fire.🔥This is the second death. Revelations 20 bible.... ❤️I SAW A NEW HEAVEN AND A NEW EARTH, for the first heaven and the first earth had passed away. Also there was no more sea. 2 Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God. 4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”
 5 Then He who sat on the throne said, “Behold, I make all things new.” And He said to me, “Write, for these words are true and faithful.”❤️
-6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE   REVELATION 21 21 21 21 21..........❤️..........For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23) BIBLE",0.9744,Positive,0.1038699494949494,Neutral,0.4940859973430633,Positive
+6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE   REVELATION 21 21 21 21 21..........❤️..........For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23) BIBLE",0.9744,Positive,0.1038699494949494,Positive,0.4940859973430633,Positive
 대학생 알바할때 이 곡만 무한재생 나왔었음,0.34,Positive,0.0,Neutral,-0.5521174669265747,Negative
 Gather here  if u came down here to watch Dix after progress performed d song in Nigerian idol😊,0.8316,Positive,-0.1555555555555555,Negative,-0.4995228946208954,Negative
 2022 masterpiece 🤗,0.7845,Positive,0.0,Neutral,0.8084250688552856,Positive
@@ -544,15 +544,15 @@ Bang, bang, bang, bang, b-bang, bang
 Bang-bang, there goes your heart (I know you want it)
 Back, backseat of my car, I'll let you have it (oh-oh)
 Just wait a minute, let me take you there (ah)
-And wait a minute 'til you (ah, hey!",0.9968,Positive,0.1352941176470588,Neutral,0.3706935942173004,Positive
+And wait a minute 'til you (ah, hey!",0.9968,Positive,0.1352941176470588,Positive,0.3706935942173004,Positive
 I think  the Best part is  when  Nicki  was singing,0.6369,Positive,1.0,Positive,0.3383852541446686,Positive
 "Ca marche aussi avec ""gang bang"".",0.0,Neutral,0.0,Neutral,0.3872204422950744,Positive
-It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Neutral,0.5807878971099854,Positive
+It’s crazy how many people in 2022 will return to listen to this legendary song 🔥🏆,-0.5859,Negative,0.3,Positive,0.5807878971099854,Positive
 😮😮😮😮😍😍😍😍,0.9001,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Esta es una de mis canciones favoritas de ariana grande😍,0.7184,Positive,0.5,Positive,0.7567551136016846,Positive
 Remember when I was in like year 3 and listened to this not knowing the meaning 😳😬😭,-0.4588,Negative,0.0,Neutral,0.3418415486812591,Positive
 I love This Song It Blows!!💣,0.3786,Positive,0.5,Positive,0.8702163696289062,Positive
-This song is 7 years old and I still listen to it today.,0.0,Neutral,0.1,Neutral,0.6245629787445068,Positive
+This song is 7 years old and I still listen to it today.,0.0,Neutral,0.1,Positive,0.6245629787445068,Positive
 "Who else remembers,Sam and cat, and victorious. I wish that is the same Ariana as now-",0.4019,Positive,0.0,Neutral,0.2189165651798248,Neutral
 1:16,0.0,Neutral,0.0,Neutral,-0.2307127863168716,Negative
 Here from yfsf lol,0.4215,Positive,0.8,Positive,0.2861858010292053,Neutral
@@ -565,9 +565,9 @@ Its just sugar and sprinkles,0.0,Neutral,0.0,Neutral,-0.2913066446781158,Negativ
 The last music video that nicki minaj will ever do,0.0,Neutral,0.0,Neutral,0.4509182572364807,Positive
 Of course were friends,0.4767,Positive,0.0,Neutral,0.3316104114055633,Positive
 Now nobody was expecting this now were they,0.0,Neutral,0.0,Neutral,-0.28477343916893,Negative
-That's right this song is also about me,0.0,Neutral,0.2857142857142857,Neutral,0.359446108341217,Positive
+That's right this song is also about me,0.0,Neutral,0.2857142857142857,Positive,0.359446108341217,Positive
 Esta muy hermosa Ariana grande,0.6361,Positive,1.0,Positive,0.7962275743484497,Positive
-Ready to 1.8B views!,0.4199,Positive,0.25,Neutral,0.6372849941253662,Positive
+Ready to 1.8B views!,0.4199,Positive,0.25,Positive,0.6372849941253662,Positive
 1.8B!!,0.0,Neutral,0.0,Neutral,-0.3127016723155975,Negative
 masterpiece song..,0.6249,Positive,0.0,Neutral,0.7648386359214783,Positive
 omg let's go for 1.8B,0.0,Neutral,0.0,Neutral,0.2800968289375305,Neutral
@@ -578,14 +578,14 @@ I wonder what 2020s will have...",0.0,Neutral,0.0,Neutral,-0.272089421749115,Neg
 もう7年経ったのかやば,0.0,Neutral,0.0,Neutral,-0.2617377936840057,Negative
 "1,8 is coming",0.0,Neutral,0.0,Neutral,-0.3538488149642944,Negative
 ME GUSTA MUCHO SOY FAN DE ARIANA GRANDE,0.5859,Positive,0.0,Neutral,0.5298178791999817,Positive
-To think shortly after this song was released it really did go bang bang into the room for Ariana,0.0,Neutral,0.1,Neutral,-0.4025731682777405,Negative
+To think shortly after this song was released it really did go bang bang into the room for Ariana,0.0,Neutral,0.1,Positive,-0.4025731682777405,Negative
 1.8 billion ommgggg,0.0,Neutral,0.0,Neutral,-0.508707582950592,Negative
 I like how when they did the zoom call meeting and then Nicki Minaj said she loved somebody and then re was like I love you too then she was like I love Papa Bear,0.9628,Positive,0.5666666666666667,Positive,0.3897443413734436,Positive
 1 800 000 000 omggg,0.0,Neutral,0.0,Neutral,-0.4342260360717773,Negative
 At 0:39 I saw James corden,0.0,Neutral,0.0,Neutral,-0.3186070322990417,Negative
 I KNOW YOU WANT IT,0.0772,Positive,0.0,Neutral,0.4740774035453796,Positive
 Cô dạy bài biển tình được kh ạ ?,0.6369,Positive,0.5,Positive,0.3560394942760467,Positive
-Listening right now 😍😍,0.7184,Positive,0.2857142857142857,Neutral,0.506030797958374,Positive
+Listening right now 😍😍,0.7184,Positive,0.2857142857142857,Positive,0.506030797958374,Positive
 https://youtube.com/shorts/M7lZVtRHLqk ❤️,0.0,Neutral,0.0,Neutral,0.2557677328586578,Neutral
 This literally goes viral!!!I love the lyrics 😊Keep it up!,0.9075,Positive,0.625,Positive,-0.4261646568775177,Negative
 Niederländischer und britischer Kampf - Kampf um die Kontrolle über Südafrika https://youtu.be/L9eTfUm4SsU,-0.5574,Negative,0.0,Neutral,0.2949464917182922,Neutral
@@ -626,13 +626,13 @@ The human being denies violence and war, but is it not violence and killing each
 Definitely the best trio,0.7845,Positive,0.5,Positive,0.9107039570808412,Positive
 jessie J is stunning...!!!❤,0.826,Positive,0.0,Neutral,0.7714863419532776,Positive
 🥴🥴🥴🥴,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
-4:04  do you think is sexier? i really can't choose,0.0,Neutral,0.2,Neutral,0.2691806852817535,Neutral
+4:04  do you think is sexier? i really can't choose,0.0,Neutral,0.2,Positive,0.2691806852817535,Neutral
 I'm the only one in my family who likes this song what the heck,0.4215,Positive,0.0,Neutral,0.4613317251205444,Positive
 simplesmente lindas,0.5994,Positive,0.85,Positive,-0.6278006434440613,Negative
 Is it bad that when I ever see Ariana I always think of her as cat? 🥲,-0.5423,Negative,-0.6999999999999998,Negative,-0.337788850069046,Negative
 my grandma used to be obsessed with this and she memorized the whole thing,-0.1779,Negative,-0.15,Negative,0.5433984398841858,Positive
 I love this song!Queen 💞👏👏👏,0.8687,Positive,0.5,Positive,0.916068196296692,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7324890494346619,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7324890494346619,Positive
 Eu ainda vou ser um dos maiores nomes da música brasileira e internacionalmente 🚀🇧🇷🌍🥇🎶,0.4767,Positive,0.0,Neutral,0.7634479403495789,Positive
 Hasn't anyone heard the sisters from the Philippines do this song on the X-Factor? Check out 4th Impact. (That's their name.) I give 4 Stars to 4th Impact. 🎶,0.0,Neutral,0.0,Neutral,0.9694833755493164,Positive
 "Một bài hát rất hoài niệm , nhớ những ngày bồng bột của tuổi trẻ, chút kỷ niệm của tình yêu, lời chia tay vội vàng đúng như cái bồng bột ấy. Đức Phúc cover lại bài hát này tâm trạng quá !",0.5403,Positive,-0.0708333333333333,Negative,-0.3585825562477112,Negative
@@ -641,7 +641,7 @@ Nceda ubhalise kwitshaneli yam yeYouTube!
 hosa",0.3802,Positive,0.0,Neutral,-0.61306232213974,Negative
 0:48,0.0,Neutral,0.0,Neutral,-0.4524137079715729,Negative
 Magnificent text an original and splendid voice a beautiful story to listen of love. THANK YOU #soiroyale 💓💓💓,0.988,Positive,0.7116666666666667,Positive,0.8825076222419739,Positive
-That panther pink challenger is better lookin then the chics!,0.5707,Positive,0.2625,Neutral,-0.3230486512184143,Negative
+That panther pink challenger is better lookin then the chics!,0.5707,Positive,0.2625,Positive,-0.3230486512184143,Negative
 PURRRR,0.0,Neutral,0.0,Neutral,-0.2682198882102966,Negative
 .,0.0,Neutral,0.0,Neutral,0.2539338767528534,Neutral
 Bbbb,0.0,Neutral,0.0,Neutral,0.3251195549964905,Neutral
@@ -662,7 +662,7 @@ Love from TURKEY",0.9558,Positive,0.5,Positive,0.8885411620140076,Positive
 Love from TURKEY",0.9558,Positive,0.5,Positive,0.8885411620140076,Positive
 "I can't stop listening to this song every time coz I love it 🥰 
 Love from TURKEY",0.9558,Positive,0.5,Positive,0.8885411620140076,Positive
-Guys your all right this never gets old,0.0,Neutral,0.1928571428571428,Neutral,0.7321822643280029,Positive
+Guys your all right this never gets old,0.0,Neutral,0.1928571428571428,Positive,0.7321822643280029,Positive
 "The Rapture
 
 For the Lord himself will descend from heaven with a shout, and with the voice of the archangel, and with the trumpet of God; and those who died in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds, to meet the Lord in the air, and so we will always be with the Lord.
@@ -671,7 +671,7 @@ Like the appearance of Antichrist and the 7 years of great Tribulation on Earth.
 I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse; therefore choose life, that you and your descendants may live.
 Deuteronomy 30:19 R.M
 
-WOULD YOU LIKE TO ACCEPT JESUS ​​AS YOUR PERSONAL SAVIOR?",0.9845,Positive,0.1396524771524771,Neutral,0.4708111584186554,Positive
+WOULD YOU LIKE TO ACCEPT JESUS ​​AS YOUR PERSONAL SAVIOR?",0.9845,Positive,0.1396524771524771,Positive,0.4708111584186554,Positive
 Keren,0.0,Neutral,0.0,Neutral,0.2497812956571579,Neutral
 omggggggggggg,0.0,Neutral,0.0,Neutral,0.2769419848918915,Neutral
 Let's just take a moment to admire how they were comfortable sowing their stomachs I would never do that,0.7506,Positive,0.4,Positive,0.3108862042427063,Neutral
@@ -697,11 +697,11 @@ patiently and faithfully waiting for the concert in Jakarta
 Jessie J,0.0,Neutral,0.0,Neutral,0.3038326799869537,Neutral
 7 years later and Jessie J is still the best.,0.6369,Positive,0.5,Positive,0.7679620385169983,Positive
 1:42 ❤❤❤❤❤❤🔥🔥🔥🔥🔥🔥,0.9413,Positive,0.0,Neutral,-0.2522686421871185,Negative
-Oh god this was so popular when I was starting 2nd Grade,0.6924,Positive,0.1999999999999999,Neutral,0.5304114818572998,Positive
+Oh god this was so popular when I was starting 2nd Grade,0.6924,Positive,0.1999999999999999,Positive,0.5304114818572998,Positive
 Krais,0.0,Neutral,0.0,Neutral,0.2725262641906738,Neutral
 Nicki I think you're the best hip hop artist I've seen you grow with International performance art academy,0.6369,Positive,0.5,Positive,0.7786270380020142,Positive
 Das ist ein Fan,0.3182,Positive,0.0,Neutral,0.4879892766475677,Positive
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7324890494346619,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7324890494346619,Positive
 Dear Amazing Women … I LoVe You … 💗💗💗💖💗💗💗,0.9941,Positive,0.55,Positive,0.932101309299469,Positive
 BANG'R💯🔥👌🏼,0.5766,Positive,0.0,Neutral,-0.2671931982040405,Negative
 Everybody listening now ??.?😗😘🎆🥰💋💔🌚,0.9598,Positive,0.0,Neutral,-0.5580893754959106,Negative
@@ -710,18 +710,18 @@ Ga.,0.0,Neutral,0.0,Neutral,0.3339526057243347,Positive
 It's comes into billion views 😭,-0.4767,Negative,0.0,Neutral,0.5344514846801758,Positive
 米機會啊⋯⋯,0.25,Positive,0.0,Neutral,0.3005513548851013,Neutral
 Best music,0.6369,Positive,1.0,Positive,0.8612995743751526,Positive
-Dear You give me reson to The  Live in bed moment in Live … 🎶💓❤️‍🔥💓🎶,0.9648,Positive,0.1363636363636363,Neutral,0.6798578500747681,Positive
+Dear You give me reson to The  Live in bed moment in Live … 🎶💓❤️‍🔥💓🎶,0.9648,Positive,0.1363636363636363,Positive,0.6798578500747681,Positive
 Hello I'm from the Philippines,0.0,Neutral,0.0,Neutral,-0.3156603872776031,Negative
 you had to be there,0.0,Neutral,0.0,Neutral,0.2372757196426391,Neutral
 2022🎉🎉❤️❤️❤️,0.6597,Positive,0.0,Neutral,0.3085779249668121,Neutral
 i was singing this with my sister but when nickis part came i got my tounge in a knot,0.0,Neutral,0.0,Neutral,-0.3739410638809204,Negative
 Y estoy en brasil pose que mi papi i mam es da bresel,0.0,Neutral,0.0,Neutral,-0.5321869254112244,Negative
-Jsiksp bonisa cansion soy de eatasdos unidos hablo un poci en español se me compleca,0.6808,Positive,0.0281249999999999,Neutral,-0.4706058204174042,Negative
+Jsiksp bonisa cansion soy de eatasdos unidos hablo un poci en español se me compleca,0.6808,Positive,0.0281249999999999,Positive,-0.4706058204174042,Negative
 Hellow how are you,0.0,Neutral,0.0,Neutral,0.5032538175582886,Positive
 every body are  famous,0.0,Neutral,0.5,Positive,0.7821400761604309,Positive
 Melhor música nunca sai da minha cabeça,0.6369,Positive,1.0,Positive,0.9026492834091188,Positive
 Queens,0.0,Neutral,0.0,Neutral,0.3019631803035736,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you 🌹,0.8271,Positive,0.037037037037037,Neutral,0.7324890494346619,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you 🌹,0.8271,Positive,0.037037037037037,Positive,0.7324890494346619,Positive
 Pop off Nicky,0.0,Neutral,0.0,Neutral,-0.3023472130298614,Negative
 This is my favourite song I don't care if it old it the best song ever!!!!!!!,0.5775,Positive,0.55,Positive,0.9329876899719238,Positive
 nicky minaj idolaku😘😘,0.6808,Positive,0.0,Neutral,0.333584189414978,Positive
@@ -738,18 +738,18 @@ FOREVER ICONIC,0.0,Neutral,0.5,Positive,0.8994626402854919,Positive
 Grace Kilanmasse Official ✔️🥀💦,0.4215,Positive,0.0,Neutral,0.4483649730682373,Positive
 1.8,0.0,Neutral,0.0,Neutral,0.2556866407394409,Neutral
 "maan I love Jessie J, she was the best shg\e took me  on a tour",0.8555,Positive,0.75,Positive,0.7634173035621643,Positive
-this was a cultural reset in elementary school,0.0,Neutral,0.2,Neutral,0.4449875950813293,Positive
+this was a cultural reset in elementary school,0.0,Neutral,0.2,Positive,0.4449875950813293,Positive
 This Is What Candy Does,0.0,Neutral,0.0,Neutral,0.6944332718849182,Positive
 "FOR GOD SO LOVED THE WORLD, THAT HE GAVE HIS ONLY BEGOTTEN SON OF GOD JESUS CHRIST, WHOEVER BELIEVES IN HIM SHALL NOT PERISH, BUT HAVE  EVERLASTING LIFE IN HEAVEN FOREVER AND EVER. John 3:16 Bible....THE RAINBOW🌈THRONE OF SON OF GOD JESUS CHRIST AND THE TREE OF LIFE, Revelation 4 and Revelation 22 Bible. And whoever was not found written in the book of life was cast into the lake of fire.🔥This is the second death. Revelations 20 bible.... ❤️I SAW A NEW HEAVEN AND A NEW EARTH, for the first heaven and the first earth had passed away. Also there was no more sea. 2 Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God. 4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”
 5 Then He who sat on the throne said, “Behold, I make all things new.” And He said to me, “Write, for these words are true and faithful.”❤️
-6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE REV 21 21 21..",0.9827,Positive,0.1038699494949494,Neutral,0.4710254371166229,Positive
+6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE REV 21 21 21..",0.9827,Positive,0.1038699494949494,Positive,0.4710254371166229,Positive
 "FOR GOD SO LOVED THE WORLD, THAT HE GAVE HIS ONLY BEGOTTEN SON OF GOD JESUS CHRIST, WHOEVER BELIEVES IN HIM SHALL NOT PERISH, BUT HAVE  EVERLASTING LIFE IN HEAVEN FOREVER AND EVER. John 3:16 Bible....THE RAINBOW🌈THRONE OF SON OF GOD JESUS CHRIST AND THE TREE OF LIFE, Revelation 4 and Revelation 22 Bible. And whoever was not found written in the book of life was cast into the lake of fire.🔥This is the second death. Revelations 20 bible.... ❤️I SAW A NEW HEAVEN AND A NEW EARTH, for the first heaven and the first earth had passed away. Also there was no more sea. 2 Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God. 4 And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”
 5 Then He who sat on the throne said, “Behold, I make all things new.” And He said to me, “Write, for these words are true and faithful.”❤️
-6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE REV 21 21 21..",0.9827,Positive,0.1038699494949494,Neutral,0.4710254371166229,Positive
+6 And He said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. 7 He who overcomes shall inherit all things, and I will be his God and he shall be My son. 8 But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone,🔥which is the second death. BIBLE REV 21 21 21..",0.9827,Positive,0.1038699494949494,Positive,0.4710254371166229,Positive
 The choreography I can't 🤣,0.4939,Positive,0.0,Neutral,-0.2997966110706329,Negative
 just reminds me who the superior talent is.. and its not Ariana or Nicki!!!!,0.816,Positive,1.0,Positive,0.2530715763568878,Neutral
-This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Neutral,0.7324890494346619,Positive
-PARA OS FÃS BR JÁ ESTA DISPONÍVEL O AUDIO DA MUSICA EM NOSSO CANAL QUEM PUDER IR ASSISTIR E SE ESCREVER NO CANAL VAI AJUDAR MUITO ;) 🇧🇷,0.6523,Positive,0.325,Neutral,0.413611352443695,Positive
+This song and “Did You Call Me?” by Lukaz are some of the only things getting me through tough times ❤️ I hope everyone is doing well. I love you ❤️,0.8271,Positive,0.037037037037037,Positive,0.7324890494346619,Positive
+PARA OS FÃS BR JÁ ESTA DISPONÍVEL O AUDIO DA MUSICA EM NOSSO CANAL QUEM PUDER IR ASSISTIR E SE ESCREVER NO CANAL VAI AJUDAR MUITO ;) 🇧🇷,0.6523,Positive,0.325,Positive,0.413611352443695,Positive
 ダンダスから,0.0,Neutral,0.0,Neutral,0.312290608882904,Neutral
 Does this joint really say BILLION… Gah damn!!! Lol,0.2444,Positive,0.5953125,Positive,0.3543261885643005,Positive
 Jessie💥💥💥💯,-0.7579,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -764,9 +764,9 @@ Matthew 7:5 spirited away. If you can spirit your way into someone's house. Then
 The hook is a rip off from wham's wake me up,0.0,Neutral,0.0,Neutral,-0.3507846295833587,Negative
 "Just saw this song done by a group of lil girls and older girls...basically a group of sisters on an older clip from a talent show (Britains's got talent)
 And they killed it..brought me here
-#2022",0.0258,Neutral,0.0444444444444444,Neutral,-0.3446587026119232,Negative
-🔥✨ OLD BUT GOLD ✨🔥,-0.0516,Negative,0.1,Neutral,0.3984458446502685,Positive
-Ariana deserves that high vocals part,0.0,Neutral,0.16,Neutral,0.4959644675254822,Positive
+#2022",0.0258,Neutral,0.0444444444444444,Positive,-0.3446587026119232,Negative
+🔥✨ OLD BUT GOLD ✨🔥,-0.0516,Negative,0.1,Positive,0.3984458446502685,Positive
+Ariana deserves that high vocals part,0.0,Neutral,0.16,Positive,0.4959644675254822,Positive
 AAAAAAAAAA ESSA MSUICA,0.0,Neutral,0.0,Neutral,-0.3895938992500305,Negative
 I love this song I was  born in 2011 and this song is still the best,0.8555,Positive,0.75,Positive,0.8568252325057983,Positive
 Can we just appreciate how amazing they all look,0.7579,Positive,0.6000000000000001,Positive,0.2982054948806762,Neutral
@@ -775,11 +775,11 @@ It's been 8 years...,0.0,Neutral,0.0,Neutral,0.2457287013530731,Neutral
 Мой майка мокрий сала нет вот и пошли ми на охоту за зайкой,0.0,Neutral,-0.1,Negative,-0.3338256478309631,Negative
 "2:31
 何回聴いても日本語に聴こえる😂
-「何してんの、本当に」ってw",-0.0191,Neutral,0.2333333333333333,Neutral,-0.4456913471221924,Negative
+「何してんの、本当に」ってw",-0.0191,Neutral,0.2333333333333333,Positive,-0.4456913471221924,Negative
 Nicki doll,0.0,Neutral,0.0,Neutral,0.2633804678916931,Neutral
 ❤️💛💙Romania❤️💛,0.8555,Positive,0.0,Neutral,0.3085779249668121,Neutral
 QUE TEMAZOOOO DIOS MÍO,0.2732,Positive,0.0,Neutral,0.3894364833831787,Positive
-Modern day lady marmalade collab,0.0,Neutral,0.2,Neutral,0.3960346281528473,Positive
+Modern day lady marmalade collab,0.0,Neutral,0.2,Positive,0.3960346281528473,Positive
 かっこよすぎる,0.3182,Positive,0.35,Positive,0.3287087976932525,Neutral
 The one and only sexiness in this Video is ARIANA!,0.0,Neutral,0.0,Neutral,0.2771940529346466,Neutral
 jessiej j with Bang Bang is all,0.0,Neutral,0.0,Neutral,-0.3066142201423645,Negative
@@ -792,11 +792,11 @@ Editado: La otra cantante se llama “Mia Pfirrman”.",0.5859,Positive,-0.01249
 I LIKE THE ICECREAM MAN/DUDE/SIR,0.3612,Positive,0.0,Neutral,0.439365416765213,Positive
 Qué hermoso vídeo 🥰😻😻💛😊😻 espetacular 🙃😘😘,0.9882,Positive,0.725,Positive,0.8822053074836731,Positive
 queen of rap slayed as usual,0.0,Neutral,-0.25,Negative,-0.2594964802265167,Negative
-first grade me always died when ari + nicki verses took the food and ateeeee💞,0.1779,Positive,0.25,Neutral,-0.2929626107215881,Negative
+first grade me always died when ari + nicki verses took the food and ateeeee💞,0.1779,Positive,0.25,Positive,-0.2929626107215881,Negative
 Stop moving,-0.296,Negative,0.0,Neutral,-0.4977384507656097,Negative
-hahah it looks so funny when yoy make it ×2,0.7745,Positive,0.225,Neutral,-0.2731660008430481,Negative
+hahah it looks so funny when yoy make it ×2,0.7745,Positive,0.225,Positive,-0.2731660008430481,Negative
 I need all of you please 💝🧖👼Targu Mures Romania 🇷🇴,0.7579,Positive,0.0,Neutral,0.4463786780834198,Positive
-"2015 marcado por uma legião de fãs chamado de ""Kélover"" só quem viveu de vdd vai saber.... ""DEIXA EU TE CONTAR""!!!!",0.0,Neutral,0.1960937499999999,Neutral,-0.3500992357730865,Negative
+"2015 marcado por uma legião de fãs chamado de ""Kélover"" só quem viveu de vdd vai saber.... ""DEIXA EU TE CONTAR""!!!!",0.0,Neutral,0.1960937499999999,Positive,-0.3500992357730865,Negative
 When I was younger I loved this song so much. Still a good one tho,0.7783,Positive,0.3999999999999999,Positive,0.4711827635765075,Positive
 La mejor musica que existe,0.6369,Positive,1.0,Positive,0.928214967250824,Positive
 Legend,0.0,Neutral,0.0,Neutral,0.432450532913208,Positive
@@ -804,7 +804,7 @@ Legend,0.0,Neutral,0.0,Neutral,0.432450532913208,Positive
 BANG BANG IS DIAMOND 💎🎀,0.4824,Positive,0.0,Neutral,0.3359725773334503,Positive
 This song  is on fire,-0.34,Negative,0.0,Neutral,-0.5479364395141602,Negative
 I've seen Rosé she sang this song and everyone turned to look at her.,0.0,Neutral,0.0,Neutral,0.4429486691951751,Positive
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 the absolute best collab ever,0.6369,Positive,0.6,Positive,0.96439528465271,Positive
 "My go to jam, for dancing and dressing down. 😽",0.5719,Positive,-0.1555555555555555,Negative,0.4395922422409057,Positive
 "This song never gets old❤
@@ -813,7 +813,7 @@ the absolute best collab ever,0.6369,Positive,0.6,Positive,0.96439528465271,Posi
 sleep:ok",0.0,Neutral,0.0,Neutral,0.4233601987361908,Positive
 😝💓,0.875,Positive,0.0,Neutral,0.3085779249668121,Neutral
 i can rap like nicki so hard😁,0.5868,Positive,0.0,Neutral,0.3823952376842499,Positive
-"I like how the first line is ""she's got a body like an hourglass"" and literally the only one out of the three with an hourglass figure is Nicki. I mean no diss, all three are gorgeous, I just find that funny for some reason lol",0.91,Positive,0.28125,Neutral,0.5886339545249939,Positive
+"I like how the first line is ""she's got a body like an hourglass"" and literally the only one out of the three with an hourglass figure is Nicki. I mean no diss, all three are gorgeous, I just find that funny for some reason lol",0.91,Positive,0.28125,Positive,0.5886339545249939,Positive
 ¡ Hola !,0.0,Neutral,0.0,Neutral,0.3078793287277221,Neutral
 0:49　自分用,0.0,Neutral,0.0,Neutral,-0.4562436938285827,Negative
 Same as Chernobyl. Thank God I didnt see it all the way through!!,0.6351,Positive,0.0,Neutral,0.3646259605884552,Positive
@@ -823,12 +823,12 @@ Alright now!!! Go head on!!!,0.4885,Positive,0.0,Neutral,0.3501930236816406,Posi
 While this song was important and Ariana Grande's overall evolution as an artist she was not bringing it in this era. Wasn't terrible but slightly above mediocre she has come a long way now though and that's good,0.7208,Positive,-0.0642857142857143,Negative,0.6292644739151001,Positive
 Nicki Minaj is so beautiful I just want to marry her I'm what's best for her😢,0.8122,Positive,0.925,Positive,0.7797101140022278,Positive
 They hit the billions baby❤️,0.0,Neutral,0.0,Neutral,0.4432567954063415,Positive
-Nicki ended the new rappers careers before they even started,0.0,Neutral,0.1363636363636363,Neutral,-0.3047540187835693,Negative
+Nicki ended the new rappers careers before they even started,0.0,Neutral,0.1363636363636363,Positive,-0.3047540187835693,Negative
 Natal aqui TV música legal 👌🆗 ano,0.8851,Positive,0.35,Positive,-0.3046474754810333,Negative
 TV vendo musica lehau já tinha visto musica,0.0,Neutral,0.0,Neutral,-0.5014122724533081,Negative
 2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
 Grandiiiiiii,0.0,Neutral,0.0,Neutral,0.6805946230888367,Positive
-This song is already 7 yrs old but because of TNTboys perform this in your face sounds familiar show in the PH. I started to play this many times 😁,0.7964,Positive,0.325,Neutral,0.3094251155853271,Neutral
+This song is already 7 yrs old but because of TNTboys perform this in your face sounds familiar show in the PH. I started to play this many times 😁,0.7964,Positive,0.325,Positive,0.3094251155853271,Neutral
 Ok 1.7B views after 7 years...... insane..... 2022 anyone?.,-0.128,Negative,-0.25,Negative,-0.4877033531665802,Negative
 가죽이네  샌들,0.0,Neutral,0.0,Neutral,0.3366305828094482,Positive
 🤘🏾 good song!!,0.5399,Positive,1.0,Positive,0.4662842154502868,Positive
@@ -842,11 +842,11 @@ Anyone from 2022 still watching this?,0.0,Neutral,0.0,Neutral,-0.451483994722366
 (G)OLD 👑,0.0,Neutral,0.0,Neutral,0.2530754208564758,Neutral
 My brother can copy Nicki Minaj's rap part ❤️,0.0,Neutral,0.0,Neutral,0.327024906873703,Neutral
 "W video, w girls, w lyrics, w outfits, this song is still a bop💃🏾",0.0,Neutral,0.0,Neutral,0.4790891110897064,Positive
-i like how the new comments still get a lot of likes,0.6486,Positive,0.1363636363636363,Neutral,0.6388006210327148,Positive
+i like how the new comments still get a lot of likes,0.6486,Positive,0.1363636363636363,Positive,0.6388006210327148,Positive
 "Ariana green light ✨ 😍 💕 💖 💗 💓 blue 🌙 🌚 🌔 🌕 🌖 🌛 🌙 
-💙",0.9805,Positive,0.0666666666666666,Neutral,0.4420637488365173,Positive
+💙",0.9805,Positive,0.0666666666666666,Positive,0.4420637488365173,Positive
 Love this video ❤️❤️❤️❤️,0.6369,Positive,0.5,Positive,0.877403199672699,Positive
-me trying to hit the high note at 3am... my mom hears me screeching.😂😂😂,0.8271,Positive,0.16,Neutral,-0.2452290803194046,Negative
+me trying to hit the high note at 3am... my mom hears me screeching.😂😂😂,0.8271,Positive,0.16,Positive,-0.2452290803194046,Negative
 Who is still listening to this cuz I am,0.0,Neutral,0.0,Neutral,0.4379787445068359,Positive
 😍😍😍😍😍😍👩👩👩,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
 "Felicidades, es un buen ejemplo. 
@@ -868,7 +868,7 @@ nunca mais outra colaboração assim,-0.2755,Negative,0.0,Neutral,-0.36774942278
 I have loved this song amazingly since childhood😩💗💗,0.9237,Positive,0.65,Positive,0.8584266901016235,Positive
 1.75 BILLION VIEWS,0.0,Neutral,0.0,Neutral,0.3371461033821106,Positive
 wow jessie ari and nicki best colabo like you ariana i follow you,0.8885,Positive,0.55,Positive,0.7856835126876831,Positive
-"This song never gets old.  No matter how much I listen, I never get bored♡",-0.0191,Neutral,0.15,Neutral,0.5777432918548584,Positive
+"This song never gets old.  No matter how much I listen, I never get bored♡",-0.0191,Neutral,0.15,Positive,0.5777432918548584,Positive
 they are proof that every fool can sing,-0.4404,Negative,0.0,Neutral,0.6134911775588989,Positive
 Uuuuuuuuuuuuthuuuuuuuuu,0.0,Neutral,0.0,Neutral,-0.2489835023880005,Negative
 "i love the song
@@ -880,10 +880,10 @@ good rapping😎,0.7096,Positive,0.7,Positive,0.5060494542121887,Positive
 3:05 OMGGGGGGG LOVEEEEEE,0.0,Neutral,0.0,Neutral,-0.3246132731437683,Negative
 I'm still here in 2022🥰,0.8074,Positive,0.0,Neutral,0.4569811820983886,Positive
 10M!!!,0.0,Neutral,0.0,Neutral,-0.3851083517074585,Negative
-"weh udah 7 tahun lalu, serasa baru kemaren",0.743,Positive,0.1,Neutral,-0.2580949366092682,Negative
-Bro just out the latest comments out here and it’s less than 1 hour ago-,0.0,Neutral,0.1666666666666666,Neutral,-0.5046054720878601,Negative
+"weh udah 7 tahun lalu, serasa baru kemaren",0.743,Positive,0.1,Positive,-0.2580949366092682,Negative
+Bro just out the latest comments out here and it’s less than 1 hour ago-,0.0,Neutral,0.1666666666666666,Positive,-0.5046054720878601,Negative
 7 years later,0.0,Neutral,0.0,Neutral,0.3154132962226867,Neutral
-"Fun fact: In the helicopter scene, that is Nicki's real hair, and NOT a wig.",0.5106,Positive,0.25,Neutral,0.5506199598312378,Positive
+"Fun fact: In the helicopter scene, that is Nicki's real hair, and NOT a wig.",0.5106,Positive,0.25,Positive,0.5506199598312378,Positive
 I love this mv!,0.6696,Positive,0.625,Positive,0.8864775896072388,Positive
 am still listening,0.0,Neutral,0.0,Neutral,0.2735396921634674,Neutral
 2022 y Parece que la canción salió ayer. Es increíble,0.3612,Positive,0.9,Positive,0.5688567757606506,Positive
@@ -900,7 +900,7 @@ Like❤️👍,0.3612,Positive,0.0,Neutral,0.3085779249668121,Neutral
 😍,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
 3:13 xD. 😄😅,0.7906,Positive,0.0,Neutral,0.2498651295900344,Neutral
 "Great song and video!  These ladies slayed it!  I especially love Nicki's rap segment.  Love it, and even after.8 years, I still come back to this!",0.94,Positive,0.625,Positive,0.921757698059082,Positive
-"I still don't understand if I'm looking for good or bad girl, I know it's girl tho. So :)",0.505,Positive,0.1666666666666667,Neutral,0.2771581709384918,Neutral
+"I still don't understand if I'm looking for good or bad girl, I know it's girl tho. So :)",0.505,Positive,0.1666666666666667,Positive,0.2771581709384918,Neutral
 I love you guys a song,0.6369,Positive,0.5,Positive,0.7134966254234314,Positive
 I miss this Ariana.,-0.1531,Negative,0.0,Neutral,-0.3982754945755005,Negative
 "THE PART BY NICKI MINAJ IS ICONIC, SHE IS VERY QUEENNNNN!!!! ✨",0.6644,Positive,0.494140625,Positive,0.7635405659675598,Positive
@@ -918,9 +918,9 @@ chúc mừng năm mới ạ,0.5719,Positive,0.4681818181818182,Positive,0.417384
 0:50 Ahí empieza xD. 😃😂,0.6597,Positive,0.0,Neutral,-0.5367114543914795,Negative
 Nicki Minaj is the queen of rap,0.0,Neutral,0.0,Neutral,0.593039333820343,Positive
 Nicki skin tone is beautiful 🤌,0.5994,Positive,0.85,Positive,0.526110827922821,Positive
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 "*This song never gets old. No matter how much I listen, I never get bored*",0.1877,Positive,-0.0666666666666666,Negative,0.5048499703407288,Positive
-*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Neutral,0.8481259942054749,Positive
+*It's crazy how many people come back to this everyday. This song is legendary ♡*,-0.34,Negative,0.1399999999999999,Positive,0.8481259942054749,Positive
 em thành công rồi chị ơi,0.5859,Positive,0.75,Positive,0.4041071534156799,Positive
 It's 2022 now how many legends are still listening to this song anyone?,0.0,Neutral,0.5,Positive,-0.3576659560203552,Negative
 https://youtube.com/shorts/KfE-BGmHzi0?feature=share🦋🌈🤩🦋,0.0,Neutral,0.0,Neutral,0.2429784685373306,Neutral
@@ -944,7 +944,7 @@ my Nissan versa went Bang Bang when my boyfriend didn't put in more oil like he 
 "Almost 1,8 billion, by the way this is the second most popular female music video of all time
 
 
-And now they have 1.8 billion",0.4754,Positive,0.275,Neutral,-0.3794440925121307,Negative
+And now they have 1.8 billion",0.4754,Positive,0.275,Positive,-0.3794440925121307,Negative
 1.7B views!  😳Only women and women alone can do this👌🙌👸👸👸,0.7103,Positive,0.0,Neutral,0.4953133463859558,Positive
 "i'm speechless, there's no words to describe how beautiful this is.",0.4019,Positive,0.85,Positive,-0.5347334742546082,Negative
 BEUTIFUL MUSICCCCCCC,0.0,Neutral,0.0,Neutral,0.2392193377017974,Neutral
@@ -958,8 +958,8 @@ The ending with pink streets always reminds me of a tmoblie ad,0.0,Neutral,-0.1,
 2022?,0.0,Neutral,0.0,Neutral,-0.3836294710636139,Negative
 Before WAP when Nicki was actually hot and singing good bars in a good song.,0.7003,Positive,0.5499999999999999,Positive,0.3283668756484985,Neutral
 Song gets better and better,0.7003,Positive,0.5,Positive,0.3780633509159088,Positive
-"dont worry, ur not only the one who is listening this in 2022 :)",0.6604,Positive,0.25,Neutral,0.3471262454986572,Positive
-"I'm a very fan of jessi, ari, and nicki",0.3804,Positive,0.2,Neutral,0.4526168704032898,Positive
+"dont worry, ur not only the one who is listening this in 2022 :)",0.6604,Positive,0.25,Positive,0.3471262454986572,Positive
+"I'm a very fan of jessi, ari, and nicki",0.3804,Positive,0.2,Positive,0.4526168704032898,Positive
 This song is very very  good,0.5379,Positive,0.91,Positive,0.5971708297729492,Positive
 It’s me jessie and ai,0.0,Neutral,0.0,Neutral,0.3415571749210357,Positive
 5 wenig bekannte Fakten über den zweiten Weltkrieg https://youtu.be/LyGfbCXgf2w,0.0,Neutral,-0.1875,Negative,0.3313886523246765,Positive

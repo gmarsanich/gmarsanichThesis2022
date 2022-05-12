@@ -1,13 +1,13 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 1:44 in my favourite part,0.0,Neutral,0.0,Neutral,0.6200692057609558,Positive
 1:46 female version of Eminem,0.0,Neutral,0.0,Neutral,-0.3083494305610657,Negative
-Very very vry vR y deep meaning only strong minds understand 💢,-0.1027,Negative,0.1733333333333333,Neutral,-0.452172577381134,Negative
+Very very vry vR y deep meaning only strong minds understand 💢,-0.1027,Negative,0.1733333333333333,Positive,-0.452172577381134,Negative
 This is the best song,0.6369,Positive,1.0,Positive,0.8339566588401794,Positive
 Russia 🇷🇺,0.0,Neutral,0.0,Neutral,0.304017037153244,Neutral
 I like this song.,0.3612,Positive,0.0,Neutral,0.5301743745803833,Positive
 Im not your Enemy,0.431,Positive,0.0,Neutral,-0.4543113708496094,Negative
 Amazing,0.5859,Positive,0.6000000000000001,Positive,0.8426642417907715,Positive
-"On a dark desert highway, cool wind in my hair Warm smell of colitas, rising up through the air Up ahead in the distance, I saw a shimmering light My head grew dim I had to stop for the night.💕",0.743,Positive,0.26,Neutral,-0.2819049060344696,Negative
+"On a dark desert highway, cool wind in my hair Warm smell of colitas, rising up through the air Up ahead in the distance, I saw a shimmering light My head grew dim I had to stop for the night.💕",0.743,Positive,0.26,Positive,-0.2819049060344696,Negative
 Daniah Caleigh s. Tibang,0.0,Neutral,0.0,Neutral,0.2773396372795105,Neutral
 2:37 a good part,0.4404,Positive,0.7,Positive,0.4618793129920959,Positive
 "Me and my friend watch this all the time
@@ -16,7 +16,7 @@ Its amazing",0.7906,Positive,0.6000000000000001,Positive,0.8561039566993713,Posi
 Good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 good,0.4404,Positive,0.7,Positive,0.4969631731510162,Positive
 10/10😍👍👌,0.8455,Positive,0.0,Neutral,0.6303204298019409,Positive
-"How isnt anyone talling about the ""Everybody wants to be my *enemy-y-y-y-y*""",0.0,Neutral,0.2,Neutral,-0.5382805466651917,Negative
+"How isnt anyone talling about the ""Everybody wants to be my *enemy-y-y-y-y*""",0.0,Neutral,0.2,Positive,-0.5382805466651917,Negative
 Everybody is my enemy,-0.5423,Negative,0.0,Neutral,0.4468206465244293,Positive
 Waiting for the day a JoJo stand gets named Enemy,-0.5423,Negative,0.0,Neutral,-0.4161649644374847,Negative
 This is good,0.4404,Positive,0.7,Positive,0.4425454437732696,Positive
@@ -41,7 +41,7 @@ On an opposition, kinda shockin' they wanted static
 With precision, I'm automatic quarterback
 I ain't talkin' sackin', pack it
 Pack it up, I don't panic, batter-batter up
-Who the baddest? It don't matter 'cause we at your throat",-0.3553,Negative,0.2214285714285714,Neutral,-0.4065549373626709,Negative
+Who the baddest? It don't matter 'cause we at your throat",-0.3553,Negative,0.2214285714285714,Positive,-0.4065549373626709,Negative
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Had to listen to this song cus everyone in class talks about this masterpiece.,0.7073,Positive,0.0,Neutral,0.5962344408035278,Positive
 "I wake up to the sounds of the silence that allows
@@ -103,12 +103,12 @@ Pray it away, I swear
 I'll never be a saint, no way
 My enemy
 Pray it away, I swear
-I'll never be a saint",-0.9931,Negative,0.125,Neutral,-0.3629777133464813,Negative
+I'll never be a saint",-0.9931,Negative,0.125,Positive,-0.3629777133464813,Negative
 0:33,0.0,Neutral,0.0,Neutral,-0.4468095898628235,Negative
 from my mum,0.0,Neutral,0.0,Neutral,0.4139079451560974,Positive
 i love that song is the best song in the world,0.8555,Positive,0.75,Positive,0.9245876669883728,Positive
-I love this song I listen to it everyday,0.6369,Positive,0.15,Neutral,0.808244526386261,Positive
-This song gives me deja vu...is this a remix kinda something???....cuz i know the main line of the chorus 😐😐,0.0,Neutral,0.1666666666666666,Neutral,0.3033786714076996,Neutral
+I love this song I listen to it everyday,0.6369,Positive,0.15,Positive,0.808244526386261,Positive
+This song gives me deja vu...is this a remix kinda something???....cuz i know the main line of the chorus 😐😐,0.0,Neutral,0.1666666666666666,Positive,0.3033786714076996,Neutral
 Community Guidelines,0.0,Neutral,0.0,Neutral,0.3844991624355316,Positive
 Its cool music,0.3182,Positive,0.35,Positive,0.4819109141826629,Positive
 I love this song I feel like I should be rocking now,0.7717,Positive,0.5,Positive,0.8407695293426514,Positive
@@ -172,7 +172,7 @@ I'll never be a saint, no way
 My enemy
 Pray it away, I swear
 I'll never be a saint
-(You can sing it)",-0.9931,Negative,0.125,Neutral,-0.3629777133464813,Negative
+(You can sing it)",-0.9931,Negative,0.125,Positive,-0.3629777133464813,Negative
 it remember believer,0.0,Neutral,0.0,Neutral,0.3710197508335113,Positive
 It motivetes me,0.0,Neutral,0.0,Neutral,0.3443026840686798,Positive
 "Wow!,is the best!!",0.7249,Positive,1.0,Positive,0.9594319462776184,Positive
@@ -192,7 +192,7 @@ Bom demais os cara da América manja das músicas,0.4404,Positive,0.7,Positive,0
 This song is great. My brother really likes it but I like it MORE. Thank you imagine dragons for making great songs.,0.926,Positive,0.575,Positive,0.6262423992156982,Positive
 1X1X1X1 it me,0.0,Neutral,0.0,Neutral,0.4498126208782196,Positive
 russia jk ukraine JK england,0.5473,Positive,0.0,Neutral,0.3164242506027221,Neutral
-"(Tradução) Eu acordo com os sons do silêncio que permite Que minha mente corra com meu ouvido no chão Procuro contemplar as histórias que são contadas Quando estou de costas para o mundo que sorria quando me virei Te contar Você é o melhor Mas uma vez que você vira eles nos odeiam Oh, a miséria Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo (Cuide de si mesmo) Meu inimigo (olhe, olhe, olhe, olhe) (Olhe mas estou pronto Suas palavras na parede enquanto você está orando pela minha queda E o riso nos corredores e os nomes que eu tenho chamado Eu empilho isso em minha mente e estou esperando a hora em que eu te mostro como é ser palavras cuspidas em um microfone dizer que você é o maior Meu inimigo (olhe, olhe, olhe, olhe) (Cuide de si mesmo) Meu inimigo (olhe, olhe, olhe, olhe) (Cuide de si mesmo) Uh, olhe Ok, espero que sim eu oro por mim Estou rezando para que alguém espere por mim Estou ficando onde ninguém posou para ser PP-Postado, sendo um desastre de emoções Pronto para ir quando quiser, apenas me avise A estrada é longa, então coloque o pedal no chão O inimigo no meu rastro, minha energia indisponível Eu vou dizer a eles hasta luego Eles querem planejar meu trote até o topo Eu estive fora de forma, pensando fora da caixa, eu sou um astronauta Eu decolei a rocha do planeta para causar uma catástrofe E isso importa mais porque eu não a tive Se eu tivesse pensado em causar estragos em uma oposição Meio chocante eles queriam estática com precisão, eu sou automático Quarterback, não estou falando de despedida Embale, embale para cima, eu não entro em pânico Batter, bater, quem é o pior? Não importa porque estamos na sua garganta Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo Oh, a miséria Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo Reze, eu Juro que nunca serei um santo, de jeito nenhum Meu inimigo Reze, eu juro que nunca serei um santo",-0.9091,Negative,0.1966666666666666,Neutral,-0.3882255256175995,Negative
+"(Tradução) Eu acordo com os sons do silêncio que permite Que minha mente corra com meu ouvido no chão Procuro contemplar as histórias que são contadas Quando estou de costas para o mundo que sorria quando me virei Te contar Você é o melhor Mas uma vez que você vira eles nos odeiam Oh, a miséria Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo (Cuide de si mesmo) Meu inimigo (olhe, olhe, olhe, olhe) (Olhe mas estou pronto Suas palavras na parede enquanto você está orando pela minha queda E o riso nos corredores e os nomes que eu tenho chamado Eu empilho isso em minha mente e estou esperando a hora em que eu te mostro como é ser palavras cuspidas em um microfone dizer que você é o maior Meu inimigo (olhe, olhe, olhe, olhe) (Cuide de si mesmo) Meu inimigo (olhe, olhe, olhe, olhe) (Cuide de si mesmo) Uh, olhe Ok, espero que sim eu oro por mim Estou rezando para que alguém espere por mim Estou ficando onde ninguém posou para ser PP-Postado, sendo um desastre de emoções Pronto para ir quando quiser, apenas me avise A estrada é longa, então coloque o pedal no chão O inimigo no meu rastro, minha energia indisponível Eu vou dizer a eles hasta luego Eles querem planejar meu trote até o topo Eu estive fora de forma, pensando fora da caixa, eu sou um astronauta Eu decolei a rocha do planeta para causar uma catástrofe E isso importa mais porque eu não a tive Se eu tivesse pensado em causar estragos em uma oposição Meio chocante eles queriam estática com precisão, eu sou automático Quarterback, não estou falando de despedida Embale, embale para cima, eu não entro em pânico Batter, bater, quem é o pior? Não importa porque estamos na sua garganta Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo Oh, a miséria Todo mundo quer ser meu inimigo Poupe a simpatia Todo mundo quer ser meu inimigo Reze, eu Juro que nunca serei um santo, de jeito nenhum Meu inimigo Reze, eu juro que nunca serei um santo",-0.9091,Negative,0.1966666666666666,Positive,-0.3882255256175995,Negative
 0:20,0.0,Neutral,0.0,Neutral,-0.4696571230888366,Negative
 muy  buena,0.4927,Positive,0.91,Positive,0.743147611618042,Positive
 I love this song so much ❤,0.8646,Positive,0.35,Positive,0.8893097639083862,Positive
@@ -201,16 +201,16 @@ I love this song so much ❤,0.8646,Positive,0.35,Positive,0.8893097639083862,Po
 Bec,0.0,Neutral,0.0,Neutral,0.2797510921955108,Neutral
 Science,0.0,Neutral,0.0,Neutral,0.3239634335041046,Neutral
 My favorite part 1:47-2:15,0.4588,Positive,0.5,Positive,0.8440726399421692,Positive
-Enemy jest fajne,-0.0516,Negative,0.3,Neutral,-0.3867354989051819,Negative
+Enemy jest fajne,-0.0516,Negative,0.3,Positive,-0.3867354989051819,Negative
 Love this song is a great 😍😍😍😍,0.9652,Positive,0.65,Positive,0.876126229763031,Positive
 This is one of the best song I have heard 👍♥️,0.8555,Positive,1.0,Positive,0.9204504489898682,Positive
-This song is my whole life! Only the strong survive💕💕😘,0.9432,Positive,0.2277777777777777,Neutral,0.5408347249031067,Positive
+This song is my whole life! Only the strong survive💕💕😘,0.9432,Positive,0.2277777777777777,Positive,0.5408347249031067,Positive
 "I love this song really everybody 
-Wants to be my enemy!!!!!!😇🥰🥰❤🖤💜",0.9873,Positive,0.3,Neutral,0.9190234541893004,Positive
+Wants to be my enemy!!!!!!😇🥰🥰❤🖤💜",0.9873,Positive,0.3,Positive,0.9190234541893004,Positive
 PC,0.0,Neutral,0.0,Neutral,0.2813440561294555,Neutral
-“But once you turn they hate us”and “everybody wants to be my enemy”is the best word that make sense…,0.128,Positive,0.1333333333333333,Neutral,0.484468013048172,Positive
+“But once you turn they hate us”and “everybody wants to be my enemy”is the best word that make sense…,0.128,Positive,0.1333333333333333,Positive,0.484468013048172,Positive
 I am in a band to and I love his music cus the beat and it is like I am in heaven,0.875,Positive,0.5,Positive,0.7591666579246521,Positive
-Thanks...,0.4404,Positive,0.2,Neutral,0.3509368896484375,Positive
+Thanks...,0.4404,Positive,0.2,Positive,0.3509368896484375,Positive
 omg is very cool!!!!!!!!!!!!!!,0.5805,Positive,1.0,Positive,0.7299917340278625,Positive
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 Not my cup of tea.,0.0,Neutral,0.0,Neutral,-0.4596029222011566,Negative
@@ -248,7 +248,7 @@ Fire song! ✌️,-0.4003,Negative,0.0,Neutral,0.5249848961830139,Positive
 Me right now",-0.5719,Negative,-0.2571428571428572,Negative,-0.3506154417991638,Negative
 I love  this,0.6369,Positive,0.5,Positive,0.8869144320487976,Positive
 India,0.0,Neutral,0.0,Neutral,0.2321095764636993,Neutral
-In phone  we listen music right?,0.0,Neutral,0.2857142857142857,Neutral,-0.3362759351730346,Negative
+In phone  we listen music right?,0.0,Neutral,0.2857142857142857,Positive,-0.3362759351730346,Negative
 This is on my pre futball warm up playlist,0.2263,Positive,0.6,Positive,0.5605514049530029,Positive
 "1:57 *HASTA*
 yazısını görenler
@@ -261,8 +261,8 @@ My fav party",0.6908,Positive,0.0,Neutral,0.3670093715190887,Positive
 
 Me"" YEs",0.0772,Positive,0.5,Positive,-0.3524847030639648,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-I can do the fast rap,0.0,Neutral,0.2,Neutral,0.3701543807983398,Positive
-Se hizo my canción favorita aunque no entiendo el inglés,0.4588,Positive,0.25,Neutral,0.4007085859775543,Positive
+I can do the fast rap,0.0,Neutral,0.2,Positive,0.3701543807983398,Positive
+Se hizo my canción favorita aunque no entiendo el inglés,0.4588,Positive,0.25,Positive,0.4007085859775543,Positive
 PRAY IT AWAY I SWEAR ILL NEVER BE A SAINT NO WAY,-0.0258,Neutral,0.0,Neutral,-0.712964653968811,Negative
 This song is what my life is like in class. Except no one hides the fact that they absolutely hate me.,-0.4897,Negative,-0.8,Negative,0.4161508679389953,Positive
 SO GOOD,0.4927,Positive,0.7,Positive,0.6291981339454651,Positive
@@ -281,7 +281,7 @@ Cansion para mis oidos 🖤💜🖤💜🖤,0.9719,Positive,0.0,Neutral,-0.37414
 🎵🎵🎶🎵🎵🎶🎵🎵🦟,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 It’s April 2022 and this is such a masterpiece! Still so good!,0.835,Positive,0.4375,Positive,0.8693149089813232,Positive
 sick song,-0.5106,Negative,-0.7142857142857143,Negative,-0.6044166684150696,Negative
-this is true every body wants to be my enemy since my childhood,-0.1779,Negative,0.275,Neutral,0.8740445971488953,Positive
+this is true every body wants to be my enemy since my childhood,-0.1779,Negative,0.275,Positive,0.8740445971488953,Positive
 Super song I like this song,0.7506,Positive,0.3333333333333333,Positive,0.7851418852806091,Positive
 This song i totally me,0.0,Neutral,0.0,Neutral,0.3778857588768005,Positive
 super cool,0.7351,Positive,0.3416666666666667,Positive,0.7877945303916931,Positive
@@ -289,7 +289,7 @@ my enemy-y-y-y-y look out for yourself to die,-0.5994,Negative,0.0,Neutral,-0.35
 Das kommt immer bei der DVAG Halbzeitanalyse auf Sky.,0.0,Neutral,0.0,Neutral,0.2426182031631469,Neutral
 My favorite song 🎶🎧🔫🔫🔫🔫,0.4588,Positive,0.5,Positive,0.9120352268218994,Positive
 Eminem has nothing on this granny,0.0,Neutral,0.0,Neutral,-0.645792543888092,Negative
-When ever I listen this song is fell very chilled,0.0,Neutral,0.2,Neutral,-0.5345844030380249,Negative
+When ever I listen this song is fell very chilled,0.0,Neutral,0.2,Positive,-0.5345844030380249,Negative
 This is written for spider man edits,0.0,Neutral,0.0,Neutral,0.3111609816551208,Neutral
 Yay 🙎‍♀️,0.5267,Positive,0.0,Neutral,0.2947713434696197,Neutral
 0:32 hi,0.0,Neutral,0.0,Neutral,-0.4585126042366028,Negative
@@ -306,9 +306,9 @@ Me and my Gang sing this at my Tita Ex's Bf Birthday and we loved it and we put 
 2:11 lyrics start having panic attack,-0.7506,Negative,0.0,Neutral,-0.4329776763916015,Negative
 :},0.4767,Positive,0.5,Positive,0.28594771027565,Neutral
 Q GOD😈🤙😎🤙,0.9353,Positive,0.0,Neutral,0.2392079085111618,Neutral
-""" tell you you're the greatest but once you turn, they hate us"" this is gonna sound weird and cringe but the lyric is so true.",0.1089,Positive,0.1166666666666666,Neutral,0.2499597370624542,Neutral
+""" tell you you're the greatest but once you turn, they hate us"" this is gonna sound weird and cringe but the lyric is so true.",0.1089,Positive,0.1166666666666666,Positive,0.2499597370624542,Neutral
 """But once you turn the hate us"" Is really something I can relate to",-0.7227,Negative,-0.3,Negative,0.3131793141365051,Neutral
-QUE BUEN TEMAAAAAAAA POR DIOOOOS,0.6124,Positive,0.2666666666666666,Neutral,0.288666307926178,Neutral
+QUE BUEN TEMAAAAAAAA POR DIOOOOS,0.6124,Positive,0.2666666666666666,Positive,0.288666307926178,Neutral
 Por que ami me toco esto xd,0.6705,Positive,0.0,Neutral,0.3572414219379425,Positive
 I'm Listening from canada,0.0,Neutral,0.0,Neutral,-0.2784460186958313,Negative
 It gives the feel of beliver,0.0,Neutral,0.0,Neutral,0.435053288936615,Positive
@@ -317,12 +317,12 @@ hmm,0.0,Neutral,0.0,Neutral,0.2306052893400192,Neutral
 UwU,0.0,Neutral,0.0,Neutral,0.2725917398929596,Neutral
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 Is it me or does everyone keep calling this misery,-0.657,Negative,0.0,Neutral,-0.7585040330886841,Negative
-Glowin up oooH oooH oooH used To care what they say let em into my Brain but I Found a New wey oooH every Time I Fell down l pick it’s up like ReBounD Gatta Get thru SomeHow we don’t Fly like we UseD to oh sorry😅,0.9371,Positive,0.2602693602693602,Neutral,-0.3439511954784393,Negative
+Glowin up oooH oooH oooH used To care what they say let em into my Brain but I Found a New wey oooH every Time I Fell down l pick it’s up like ReBounD Gatta Get thru SomeHow we don’t Fly like we UseD to oh sorry😅,0.9371,Positive,0.2602693602693602,Positive,-0.3439511954784393,Negative
 There Are many enemy in My life they bully me but this Song Gives Courage That *'Everybody Wants to be my enemy'*,-0.5859,Negative,0.35,Positive,0.4759112000465393,Positive
 i’m pretty sure most people here came from tiktok 💀,0.6705,Positive,0.4166666666666667,Positive,0.3180380165576935,Neutral
 HII WANNA BEES,0.0,Neutral,0.0,Neutral,0.2832949161529541,Neutral
 "İts nev music my happin veer.
-Az bu yeni mahnı mənim həyatımı təsvir edir sanki!",0.0,Neutral,0.1704545454545454,Neutral,0.6211482882499695,Positive
+Az bu yeni mahnı mənim həyatımı təsvir edir sanki!",0.0,Neutral,0.1704545454545454,Positive,0.6211482882499695,Positive
 Enemy is my favourite Imagine Dragons song.,-0.5423,Negative,0.0,Neutral,0.7738041281700134,Positive
 every gacha emo videos music be like:,0.3612,Positive,0.0,Neutral,0.3984707593917846,Positive
 Thank you guys,0.3612,Positive,0.0,Neutral,0.5574516654014587,Positive
@@ -340,10 +340,10 @@ I Love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 0:21,0.0,Neutral,0.0,Neutral,-0.4617278575897217,Negative
 1:20,0.0,Neutral,0.0,Neutral,-0.2990415692329407,Negative
 I literally like it i can't stop playing the song,0.4207,Positive,0.0,Neutral,0.5529075264930725,Positive
-The fun fact is everybody different lyrics,0.5106,Positive,0.15,Neutral,0.3611288368701935,Positive
+The fun fact is everybody different lyrics,0.5106,Positive,0.15,Positive,0.3611288368701935,Positive
 SUiiiiiiiiiiii,0.0,Neutral,0.0,Neutral,0.2606824934482574,Neutral
 10/10,0.0,Neutral,0.0,Neutral,0.8239468932151794,Positive
-Nadie me quiere en este vecindario,0.0,Neutral,0.2,Neutral,-0.5529013276100159,Negative
+Nadie me quiere en este vecindario,0.0,Neutral,0.2,Positive,-0.5529013276100159,Negative
 "Finding the best music channel?
 You're recommended to check out music life🎧
 It's really awesome for those who love music",0.9392,Positive,0.8333333333333334,Positive,0.7928231358528137,Positive
@@ -371,8 +371,8 @@ And this song sanged person also ❤️",0.5859,Positive,0.6000000000000001,Posi
 Pqokla,0.0,Neutral,0.0,Neutral,0.2314931005239486,Neutral
 Yopeqnnoolqhw,0.0,Neutral,0.0,Neutral,-0.254194974899292,Negative
 Bifodhdod,0.0,Neutral,0.0,Neutral,0.3130317330360412,Neutral
-Just me or is J.I.D.s fast part really easy to do?,0.4927,Positive,0.3166666666666666,Neutral,0.3916433155536651,Positive
-hell  ya i  like  this    song so  much i  like 10/10,-0.0865,Negative,0.2,Neutral,0.7739531993865967,Positive
+Just me or is J.I.D.s fast part really easy to do?,0.4927,Positive,0.3166666666666666,Positive,0.3916433155536651,Positive
+hell  ya i  like  this    song so  much i  like 10/10,-0.0865,Negative,0.2,Positive,0.7739531993865967,Positive
 Russia,0.0,Neutral,0.0,Neutral,0.2514209449291229,Neutral
 This song is amazing,0.5859,Positive,0.6000000000000001,Positive,0.8190015554428101,Positive
 Super song by imagine dragons 👍,0.5994,Positive,0.3333333333333333,Positive,0.7597278356552124,Positive
@@ -386,7 +386,7 @@ this song make me happy,0.5719,Positive,0.8,Positive,0.601307213306427,Positive
 But once you turn they hate us 🙂,-0.359,Negative,-0.8,Negative,-0.2885778844356537,Negative
 this song is beautiful watch this every day,0.5994,Positive,0.85,Positive,0.8066098093986511,Positive
 "Who thinks this song cringe, I love it lol",0.7906,Positive,0.65,Positive,0.6594292521476746,Positive
-"I was able to read 0,000 of them because my english reading is bad😖😖",-0.5423,Negative,0.25,Neutral,-0.2604251503944397,Negative
+"I was able to read 0,000 of them because my english reading is bad😖😖",-0.5423,Negative,0.25,Positive,-0.2604251503944397,Negative
 "I would like to mention how JIDs verse was rapid fire. Mam sounded like he was trying to out pace ""Godzilla"". Definitely close",0.6486,Positive,0.0,Neutral,-0.3815153539180755,Negative
 I❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ imagine dragons 🐉,0.0,Neutral,0.0,Neutral,0.4264929890632629,Positive
 Fuck brooooooooo,-0.5423,Negative,-0.4,Negative,-0.7034707069396973,Negative
@@ -398,7 +398,7 @@ O:,-0.0516,Negative,0.0,Neutral,0.2899576723575592,Neutral
 "Amo tu contenido, la musica que subis es muy buena💜💜💜",0.9693,Positive,0.35,Positive,0.6424249410629272,Positive
 Idk if this whole comment section knows about Arcane but this song is as good as the Netflix series,0.5647,Positive,0.4499999999999999,Positive,0.3221819996833801,Neutral
 OK play,0.6523,Positive,0.5,Positive,0.4254417717456817,Positive
-Que musica legal,0.128,Positive,0.2,Neutral,-0.3701828420162201,Negative
+Que musica legal,0.128,Positive,0.2,Positive,-0.3701828420162201,Negative
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positive
 I LOVE IT,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
@@ -415,7 +415,7 @@ Hy,0.0,Neutral,0.0,Neutral,0.2691578269004822,Neutral
 1:45,0.0,Neutral,0.0,Neutral,-0.3038152754306793,Negative
 This song makes me feel like a villian,-0.2732,Negative,0.0,Neutral,0.4457607865333557,Positive
 "This song is just so dope, I especially love the part of 2:10 - 2:15. I love how the choir in the background just stops and then bounces back, it just makes it hit different.",0.8439,Positive,0.375,Positive,0.4247775077819824,Positive
-I have broke the system attack on titan is a mecha anime because the body is a machine so I’m right,-0.7096,Negative,0.2857142857142857,Neutral,-0.4905358254909515,Negative
+I have broke the system attack on titan is a mecha anime because the body is a machine so I’m right,-0.7096,Negative,0.2857142857142857,Positive,-0.4905358254909515,Negative
 "My Favorit Part Is Oh The Misery, Everybody  Wants To Bye My Enemy..",-0.6369,Negative,0.35,Positive,-0.3236208260059356,Negative
 I’m going back home,0.0,Neutral,0.0,Neutral,-0.2381256073713302,Negative
 My favorite song is enemy,-0.128,Negative,0.5,Positive,0.7662186026573181,Positive
@@ -445,7 +445,7 @@ Kinda shocking they wanted static with precision, I'm automatic
 Quarterback, I ain't talkin' sacking
 Pack it, pack it up, I won't panic
 Batter, batter up, who the baddest?
-It don't matter 'cause we just(?)",0.1977,Positive,0.0687499999999999,Neutral,-0.4188774526119232,Negative
+It don't matter 'cause we just(?)",0.1977,Positive,0.0687499999999999,Positive,-0.4188774526119232,Negative
 looking for the radio edit. Got this instead. The rap part just sucks as it was overdone.,-0.3612,Negative,-0.3,Negative,-0.4757712185382843,Negative
 My ant showed me this song,0.0,Neutral,0.0,Neutral,0.4922428727149963,Positive
 2:14,0.0,Neutral,0.0,Neutral,0.2400252521038055,Neutral
@@ -454,13 +454,13 @@ A love you music,0.6369,Positive,0.5,Positive,0.6629681587219238,Positive
 Car,0.0,Neutral,0.0,Neutral,0.3407672047615051,Positive
 i'm enemy...👽,-0.5423,Negative,0.0,Neutral,0.3788446187973022,Positive
 "The rap in this song is mind blowing 
-I barely cant say one line....",0.0,Neutral,0.05,Neutral,-0.4217802584171295,Negative
+I barely cant say one line....",0.0,Neutral,0.05,Positive,-0.4217802584171295,Negative
 "If you notice 99% of people who listen to this are empowered to overcome their challenges, Welp im here to say *Go For It* 🙃
 
 *Stay Safe All Of You* ❤",0.8126,Positive,0.5,Positive,0.6238897442817688,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-⚡ Every wants to be my enemy 🖤🔥,-0.1779,Negative,0.2,Neutral,0.6758738160133362,Positive
-SHINZO Wo SASEGEYOO,0.0,Neutral,0.1363636363636363,Neutral,0.3547143042087555,Positive
+⚡ Every wants to be my enemy 🖤🔥,-0.1779,Negative,0.2,Positive,0.6758738160133362,Positive
+SHINZO Wo SASEGEYOO,0.0,Neutral,0.1363636363636363,Positive,0.3547143042087555,Positive
 0:32 J'adore,0.6369,Positive,0.5,Positive,0.6498208045959473,Positive
 Omg same,0.0,Neutral,0.0,Neutral,0.3046422302722931,Neutral
 Enemy song or HD,-0.5423,Negative,0.0,Neutral,-0.2682167887687683,Negative
@@ -485,7 +485,7 @@ Kinda shocking they wanted static with precision, I'm automatic
 Quarterback, I ain't talkin' sacking
 Pack it, pack it up, I don't panic
 Batter, batter up, who the baddest?
-It don't matter 'cause we at ya throat",0.1081,Positive,0.0687499999999999,Neutral,0.6668943166732788,Positive
+It don't matter 'cause we at ya throat",0.1081,Positive,0.0687499999999999,Positive,0.6668943166732788,Positive
 U won't belive this but i have50 enemys and0frienfs,0.0,Neutral,0.0,Neutral,-0.3852986991405487,Negative
 This is basically furries ALL THE TIME,0.0,Neutral,0.0,Neutral,-0.4307992458343506,Negative
 ❤👍,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -511,7 +511,7 @@ This is my favorite song,0.4588,Positive,0.5,Positive,0.8672009110450745,Positiv
 "bro, this is literally the best song to listen to while imaging you’re in a badass edit ❤️",0.765,Positive,1.0,Positive,0.7804975509643555,Positive
 "1:07 is defo my favorite part, it just shows how nice the song is.",0.7003,Positive,0.55,Positive,0.6196805238723755,Positive
 Evryone in my school is alredy my enemy,-0.5423,Negative,0.0,Neutral,0.558599054813385,Positive
-Epic song ❤️,0.0,Neutral,0.1,Neutral,0.657703697681427,Positive
+Epic song ❤️,0.0,Neutral,0.1,Positive,0.657703697681427,Positive
 Imagine dragon is the best,0.6369,Positive,1.0,Positive,0.8524599075317383,Positive
 This is one of my favuroret songs!,0.0,Neutral,0.0,Neutral,0.7739569544792175,Positive
 sweden😇😇😊😊,0.9517,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -523,16 +523,16 @@ I always sing ""Hades""",-0.5719,Negative,-0.8,Negative,-0.4293503761291504,Nega
 I’m so in love sorry 🤠,0.6013,Positive,0.0,Neutral,0.585650622844696,Positive
 Ng it is a good song,0.4404,Positive,0.7,Positive,0.3729463517665863,Positive
 cool,0.3182,Positive,0.35,Positive,0.4904145896434784,Positive
-0:29 epic,0.0,Neutral,0.1,Neutral,-0.4637469947338104,Negative
+0:29 epic,0.0,Neutral,0.1,Positive,-0.4637469947338104,Negative
 Who know this song for pubg best,0.6369,Positive,1.0,Positive,0.5135811567306519,Positive
-This song remind me my success 💞 now i am unstoppable,0.802,Positive,0.3,Neutral,0.7346968650817871,Positive
+This song remind me my success 💞 now i am unstoppable,0.802,Positive,0.3,Positive,0.7346968650817871,Positive
 Is this u singing? If it is u good job,0.4404,Positive,0.7,Positive,0.3016794621944427,Neutral
 1:46 (Totally not attempting to learn the rap.... juuuuuust making a note of where it starts..... yk~?),0.0,Neutral,0.0,Neutral,-0.489634245634079,Negative
 UK,0.0,Neutral,0.0,Neutral,0.2825593054294586,Neutral
 Super,0.5994,Positive,0.3333333333333333,Positive,0.7829087972640991,Positive
 Uhhhh phone,0.0,Neutral,0.0,Neutral,0.3037191331386566,Neutral
 Oh the misery everyone wants to be my enemy!!!,-0.8433,Negative,0.390625,Positive,-0.6945371627807617,Negative
-Who wants to be my enemy,-0.5423,Negative,0.2,Neutral,0.4155571460723877,Positive
+Who wants to be my enemy,-0.5423,Negative,0.2,Positive,0.4155571460723877,Positive
 "I wake up to the sounds of the silence that allows
 For my mind to run around with my ear up to the ground
 I'm searching to behold the stories that are told
@@ -592,12 +592,12 @@ Pray it away, I swear
 I'll never be a saint, no way
 My enemy
 Pray it away, I swear
-I'll never be a saint",-0.9931,Negative,0.125,Neutral,-0.3629777133464813,Negative
+I'll never be a saint",-0.9931,Negative,0.125,Positive,-0.3629777133464813,Negative
 its hehehe,0.0,Neutral,0.0,Neutral,0.3505863845348358,Positive
 I love this song 🎵🎶💙,0.8555,Positive,0.5,Positive,0.8624796271324158,Positive
 This song is kinda emotional to me,0.079,Positive,0.0,Neutral,0.5895054340362549,Positive
 "1:44 my favorite part, even though it may not be as iconic, it’s still just hits different.",0.4588,Positive,0.3333333333333333,Positive,0.5171576142311096,Positive
-🎵Oh The Misery Everybody Wants To be my enemy Spare the sympathy everybody wants to be   My enemy🎵,-0.8481,Negative,0.2,Neutral,-0.6250972747802734,Negative
+🎵Oh The Misery Everybody Wants To be my enemy Spare the sympathy everybody wants to be   My enemy🎵,-0.8481,Negative,0.2,Positive,-0.6250972747802734,Negative
 👨🏼‍🦱,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 Why is every imagine dragon song so catchy,0.0,Neutral,0.0,Neutral,0.614648699760437,Positive
 I like the rap cuz I know it im filming rn,0.3612,Positive,0.0,Neutral,0.4324902296066284,Positive
@@ -611,7 +611,7 @@ Italy,0.0,Neutral,0.0,Neutral,0.3221219778060913,Neutral
 This is good music and I'm from it,0.4404,Positive,0.7,Positive,0.4622838199138641,Positive
 Q,0.0,Neutral,0.0,Neutral,0.2450127899646759,Neutral
 "This song had me right up until 1:45
-Then I just lost interest",0.1779,Positive,0.2857142857142857,Neutral,-0.3914301097393036,Negative
+Then I just lost interest",0.1779,Positive,0.2857142857142857,Positive,-0.3914301097393036,Negative
 Who is watching this in 2024?? It's feel's you like a villain ✨👿😈❤️,-0.1179,Negative,0.0,Neutral,-0.2901574373245239,Negative
 This song reminds me of myself...and its amazeing,0.0,Neutral,0.0,Neutral,0.5545669198036194,Positive
 You rab storys sa ta all kley they 1 more but enyeme my enemy my enemy of,-0.8885,Negative,0.5,Positive,-0.4083464741706848,Negative
@@ -622,7 +622,7 @@ God Bless You🙏😔😊Stay Safe😍😊🙏",0.9875,Positive,0.5,Positive,0.8
 I love this song❤️👍😍,0.802,Positive,0.5,Positive,0.900801718235016,Positive
 "Hi! This is my favourite song! It used to be good 4 u by Olivia Rodrigo, but now it’s enemy from image dragons! From Jayda",-0.6884,Negative,0.875,Positive,0.8024190068244934,Positive
 This is s songs 🎵 music 🎶 is it,0.0,Neutral,0.0,Neutral,0.4224446415901184,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Goosbums are comming,0.0,Neutral,0.0,Neutral,0.2613464891910553,Neutral
 1:46 has to be my favorite part,0.4588,Positive,0.5,Positive,0.6762968897819519,Positive
 Yo the song is literally firee 🔥  any one else thinks it's fire???,-0.6531,Negative,0.0,Neutral,-0.7339459657669067,Negative
@@ -632,7 +632,7 @@ Me is MUG root beer, it tastes epik",0.0,Neutral,0.0,Neutral,-0.2727694511413574
 Muito legal,0.3804,Positive,0.4549999999999999,Positive,0.2382937222719192,Neutral
 God bless 🙏 you🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌺🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹💕💕💕💕💕💕💕💕💕💕💕,0.9952,Positive,0.0,Neutral,0.6093177795410156,Positive
 enemy 🉐🔲🍏🍎🔲😡😀,-0.25,Negative,0.0,Neutral,0.3128015100955963,Neutral
-Everyone starts making fun of these guys but now everyone loves this song,0.802,Positive,0.3,Neutral,0.5508314967155457,Positive
+Everyone starts making fun of these guys but now everyone loves this song,0.802,Positive,0.3,Positive,0.5508314967155457,Positive
 0:32,0.0,Neutral,0.0,Neutral,-0.4618273079395294,Negative
 If u are reading this you won’t die if there is a thing called ww3,-0.5994,Negative,0.0,Neutral,-0.2500771582126617,Negative
 Josh a is the best artist and ID is Second favorite,0.802,Positive,0.5,Positive,0.8316382169723511,Positive
@@ -654,8 +654,8 @@ OH, the misery
 Everybody wats to be my enemy
 
 Spare the sympathy
-Everybody wants to be my enemy-y-y-y",-0.875,Negative,0.0999999999999999,Neutral,-0.4094052016735077,Negative
-"@16k before May please 🙏 Thanks, but you just want likes",0.775,Positive,0.2,Neutral,0.3109504878520965,Neutral
+Everybody wants to be my enemy-y-y-y",-0.875,Negative,0.0999999999999999,Positive,-0.4094052016735077,Negative
+"@16k before May please 🙏 Thanks, but you just want likes",0.775,Positive,0.2,Positive,0.3109504878520965,Neutral
 👋👋👋👋👋👋,0.9595,Positive,0.0,Neutral,0.3085779249668121,Neutral
 0:58 thought he said Ukrainian till I read it.,0.0,Neutral,0.0,Neutral,-0.6082445383071899,Negative
 ₩₩₩ omg,0.0,Neutral,0.0,Neutral,-0.2757175862789154,Negative
@@ -663,11 +663,11 @@ Everybody wants to be my enemy-y-y-y",-0.875,Negative,0.0999999999999999,Neutral
 Best song ever 👌,0.8842,Positive,1.0,Positive,0.9498533606529236,Positive
 0:32 Oh the misery meme was born and why I'm here.,-0.5719,Negative,0.0,Neutral,-0.7503679394721985,Negative
 """Tell you you're the greatest. But once you turn they hate us""
-That could not be more true. People look down on you when you aren't successful but they still talk crap about you when you are successful. You cannot win in this generation.",-0.9215,Negative,0.2660493827160494,Neutral,-0.5209288597106934,Negative
+That could not be more true. People look down on you when you aren't successful but they still talk crap about you when you are successful. You cannot win in this generation.",-0.9215,Negative,0.2660493827160494,Positive,-0.5209288597106934,Negative
 Mobile I'm watching from the mobile,0.0,Neutral,0.0,Neutral,0.2995395064353943,Neutral
 I love this song!,0.6696,Positive,0.625,Positive,0.8904709815979004,Positive
 ❤️‍🔥,-0.34,Negative,0.0,Neutral,0.3085779249668121,Neutral
-This me in all the games I play everyone wants to be my enemy,-0.2732,Negative,0.2,Neutral,0.8438270688056946,Positive
+This me in all the games I play everyone wants to be my enemy,-0.2732,Negative,0.2,Positive,0.8438270688056946,Positive
 Fav song,0.4588,Positive,0.0,Neutral,0.3153081834316253,Neutral
 c'est la meilleure chanson du monde,0.6369,Positive,1.0,Positive,0.8565402030944824,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
@@ -696,7 +696,7 @@ Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat,0.0,Neutral,0.0,Neutral,-0.3589370250701904
 "28 LOOK OUT FOR YOURSELF 29 MY ENEMY Y-Y-Y-Y LOOK OUT FOR YOUR SELF30 UH, LOOK OKAY31 I'M HOPING' THAT SOMEBODY PRAY FOR ME32 I'M PRAYIN' THAT SOMEBODY HOPE FOR ME33 I'M STAYIN' WHERE NOBODY 'POSED TO BE P-P-P POSTED34 BEING A WRECK OF EMOTIONS 35 READY TO GO WHENEVER, JUST LET ME KNOW36 THE ROAD IS LONG, SO PUT THE PEDAL INTO THE FLOOR 37 THE ENEMY ON MY TRAIL, MY ENERGY UNAVAILABE 38 I'M TELL EM,  HASTA LUEGO39 THEY WANNA PLOT ON MY TROT TO THE TOP40 I BEEN OUTTA SHAPE41 THINKIN' OUT THE BOX I'M AN ASTRONAUT 42 I BLASTED OFF THE PLANET ROCK TO CAUSE CATASTROPHE43 AND IT MATTERS MORE BECAUSE I HAD IT NOT 44 HAD I THOUGHT ABOUT WREAKING HAVOC 45 ON AN OPPOSITION, KINDA SHOCKING THEY WANTED STATIC 46 WITH PRECISION I'M AUTOMATIC QUARTERBACK47 I AIN'T TALKEN SACKIN , PACK IT",-0.6712,Negative,-0.075,Negative,-0.3371926248073578,Negative
 In the store,0.0,Neutral,0.0,Neutral,0.359237939119339,Positive
 Why this song connects me with marvel.,0.4215,Positive,0.0,Neutral,0.6404345035552979,Positive
-Pls move the end screen from the lyrics I can't see the last few words but anyway nice video=),0.5927,Positive,0.2249999999999999,Neutral,0.4782919883728027,Positive
+Pls move the end screen from the lyrics I can't see the last few words but anyway nice video=),0.5927,Positive,0.2249999999999999,Positive,0.4782919883728027,Positive
 Man i love this song so much,0.6369,Positive,0.35,Positive,0.876691460609436,Positive
 I feel like a villain when I listen to this song lol,0.1779,Positive,0.8,Positive,-0.3090872764587402,Negative
 very very good,0.5379,Positive,0.91,Positive,0.660790741443634,Positive
@@ -762,7 +762,7 @@ Pray it away, I swear
 I'll never be a saint, no way
 My enemy
 Pray it away, I swear
-I'll never be a saint",-0.9931,Negative,0.125,Neutral,-0.3629777133464813,Negative
+I'll never be a saint",-0.9931,Negative,0.125,Positive,-0.3629777133464813,Negative
 Im singing with my earphones,0.0,Neutral,0.0,Neutral,0.3624295890331268,Positive
 500000000000000000000000000000000000000000000000000000000000000000000000000/10,0.0,Neutral,0.0,Neutral,0.3874831199645996,Positive
 🤭❤️👩‍❤️‍👨,0.4939,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -780,26 +780,26 @@ Always favorite 😍,0.7184,Positive,0.5,Positive,0.8895367980003357,Positive
 I love songs!,0.6696,Positive,0.625,Positive,0.780623197555542,Positive
 I loved it🥰😍🤩,0.9349,Positive,0.7,Positive,0.7556470036506653,Positive
 Nice song,0.4215,Positive,0.6,Positive,0.4662424027919769,Positive
-I like this song everyone wants to be enemy,-0.25,Negative,0.2,Neutral,0.5834362506866455,Positive
+I like this song everyone wants to be enemy,-0.25,Negative,0.2,Positive,0.5834362506866455,Positive
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 ...........,0.0,Neutral,0.0,Neutral,-0.2562988102436065,Negative
 Hola,0.0,Neutral,0.0,Neutral,0.2550420761108398,Neutral
 En ARGENTINA viral,0.0,Neutral,0.0,Neutral,-0.3646197021007538,Negative
 Algum br?,0.0,Neutral,0.0,Neutral,-0.3453142344951629,Negative
 WTF ._.,-0.6739,Negative,-0.5,Negative,0.2546762526035309,Neutral
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 THIS SONG HOLY FRICKEN CRAP NOTHING GETS ME UP AND MOVING LIKE THIS SONG,-0.0258,Neutral,-0.8,Negative,-0.89373379945755,Negative
 mt foda,0.0,Neutral,0.0,Neutral,0.2757605016231537,Neutral
 "Everybody wants to be my enemy💖
 But no…I’lol be happy , with no enemy’s 🦀……………..",0.6369,Positive,0.6,Positive,0.2860468327999115,Neutral
 "Form ""tell you you're the greatest "" its literally give me goosebumps",0.6369,Positive,1.0,Positive,0.5046951174736023,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 This is a masterpiece😍😘😘 for me 🥰💜💜,0.9825,Positive,0.0,Neutral,0.7016780972480774,Positive
 youtube,0.0,Neutral,0.0,Neutral,0.3540264368057251,Positive
 man i love you 16k before may,0.6369,Positive,0.5,Positive,0.7817090153694153,Positive
 20,0.0,Neutral,0.0,Neutral,0.3104033470153808,Neutral
 Noice,0.0,Neutral,0.0,Neutral,-0.3281473815441131,Negative
-"When I was playing PUBG in the past, I often heard this song when I was playing PUBG, I thought it was pretty good",0.8271,Positive,0.2333333333333333,Neutral,0.3668957054615021,Positive
+"When I was playing PUBG in the past, I often heard this song when I was playing PUBG, I thought it was pretty good",0.8271,Positive,0.2333333333333333,Positive,0.3668957054615021,Positive
 "My friend told me about this song, and all weekend I’ve been listening to this on non-stop loop except for that one hour we weren’t home or that thirty minutes i had to charge my headphones. I love this song.",0.8126,Positive,0.5,Positive,0.7682403326034546,Positive
 Wow perfect 👍,0.8176,Positive,0.55,Positive,0.9188132882118224,Positive
 The rap part is so bad,-0.6696,Negative,-0.6999999999999998,Negative,-0.4933636486530304,Negative
@@ -869,7 +869,7 @@ Pray it away, I swear
 I'll never be a saint, no way
 My enemy
 Pray it away, I swear
-I'll never be a saint.",-0.9931,Negative,0.125,Neutral,-0.3629777133464813,Negative
+I'll never be a saint.",-0.9931,Negative,0.125,Positive,-0.3629777133464813,Negative
 🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤜🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘🤘👍🤘👍🤜👍🤜👍🤘👍🤘👍🤘👍👍👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘👍🤘🤘🤘🤘👍🤘🤘🤘🤘🤘🤘👍🤘,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 how many Indians are listening this beautiful song,0.6833,Positive,0.675,Positive,0.8178224563598633,Positive
 Whispers Imagine Dragon Deez Nuts,-0.3182,Negative,0.0,Neutral,-0.4030840992927551,Negative
@@ -889,13 +889,13 @@ Que tuani,0.0,Neutral,0.0,Neutral,0.239940345287323,Neutral
 1:43 for jids verse if u wanna learn it,0.0,Neutral,0.0,Neutral,0.2542436718940735,Neutral
 This makes me dance to the song and my sister dance,0.0,Neutral,0.0,Neutral,0.5452109575271606,Positive
 This is the best song ever !!!'!!!!!!!!!!!!!!!!!!!,0.7482,Positive,1.0,Positive,0.9329240918159484,Positive
-NEW SUB!,0.0,Neutral,0.1704545454545454,Neutral,0.612220287322998,Positive
+NEW SUB!,0.0,Neutral,0.1704545454545454,Positive,0.612220287322998,Positive
 I AM OBSESSED WITH THIS SONG I HEAR THIS EVERYDAY!,-0.2481,Negative,-0.375,Negative,0.726939857006073,Positive
 I love his songs 🎵,0.6369,Positive,0.5,Positive,0.7378565073013306,Positive
 "im going to comment here so whenever anyone likes this, ill remember this song. music is how we used to have fun, now its come to facetime and texts.",0.4791,Positive,-0.1,Negative,0.2712987959384918,Neutral
 Tenqiu,0.0,Neutral,0.0,Neutral,0.2444040030241012,Neutral
 noice,0.0,Neutral,0.0,Neutral,-0.3281473815441131,Negative
-I can sing along to the rap part that goes really fast,0.0,Neutral,0.2,Neutral,0.4397128522396087,Positive
+I can sing along to the rap part that goes really fast,0.0,Neutral,0.2,Positive,0.4397128522396087,Positive
 WOOOOOOOOOOOOOOWWW SOOOOOO COOOL SONGG,0.3182,Positive,0.35,Positive,-0.2614148259162903,Negative
 "Romania
 Mă trezesc la sunetele tăcerii care permite
@@ -977,7 +977,7 @@ No worries about it is the only thing that has been happening in my bed 6pm I th
 Wqq,0.0,Neutral,0.0,Neutral,0.3744579553604126,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 I always thought that it said ‘when I show you what it’s like to be worse man in the mind’ instead of ‘when I show you what it’s like to be words spit in a mic’,0.2263,Positive,-0.4,Negative,-0.3977178931236267,Negative
-is nobody gonna talk about how imagine dragons don't have any swear words in any of their epic songs?,0.0382,Neutral,0.1,Neutral,-0.3753072917461395,Negative
+is nobody gonna talk about how imagine dragons don't have any swear words in any of their epic songs?,0.0382,Neutral,0.1,Positive,-0.3753072917461395,Negative
 😃😃💕Music pro😲😲😎,0.9042,Positive,0.0,Neutral,0.3428077399730682,Positive
 This is booming 😭,-0.4767,Negative,0.0,Neutral,0.6046021580696106,Positive
 Esta canción se la dedico a los vengadores😀 y en espesial a ojo de halcon  😀😙😚😗😍,0.9686,Positive,0.0,Neutral,0.4062989056110382,Positive
@@ -1019,7 +1019,7 @@ Que música boa😍😃,0.8126,Positive,0.7,Positive,0.3196297287940979,Neutral
 
 还看不回复我！！",0.0,Neutral,0.0,Neutral,-0.4046357870101928,Negative
 Enemy,-0.5423,Negative,0.0,Neutral,-0.2971405386924743,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 0:20,0.0,Neutral,0.0,Neutral,-0.4696571230888366,Negative
 I play this song at school,0.34,Positive,0.0,Neutral,0.5008981823921204,Positive
 From algiera,0.0,Neutral,0.0,Neutral,0.2634801864624023,Neutral
@@ -1047,14 +1047,14 @@ Lol 123,0.4215,Positive,0.8,Positive,0.2668919265270233,Neutral
 is the best song,0.6369,Positive,1.0,Positive,0.8002110123634338,Positive
 Miss pubg❤,0.5574,Positive,0.0,Neutral,-0.4691673517227173,Negative
 i love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
-Epic,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
+Epic,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
 tryna enjoy the song but that damn grudge lady croakin in the background got me messed up 0_0,-0.6757,Negative,0.4,Positive,-0.3810076117515564,Negative
 Bro im so angry rn i wanna watch JID so bad but im way too young for it 👽,-0.656,Negative,-0.3666666666666665,Negative,-0.4080983698368072,Negative
 Wow que hermosa canción perdón por no ablar inglés :c,0.8736,Positive,-0.06,Negative,0.5667244791984558,Positive
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 "Feels like Spiderman no way home 
 Especially 'Tom Holland Spiderman '..😧😭😖",-0.6808,Negative,0.0,Neutral,-0.4082035422325134,Negative
-"Oh the misery, Everyone wants to be my enemy",-0.802,Negative,0.2,Neutral,-0.6208543181419373,Negative
+"Oh the misery, Everyone wants to be my enemy",-0.802,Negative,0.2,Positive,-0.6208543181419373,Negative
 im a kid my name is trinity and i love this song :),0.802,Positive,0.5,Positive,0.871797502040863,Positive
 OMG THIS IS MY FAV SONG 🎶,0.5766,Positive,0.0,Neutral,0.5695285201072693,Positive
 Niceeeeeeeeeee,0.0,Neutral,0.0,Neutral,0.3167019784450531,Neutral
@@ -1089,17 +1089,17 @@ Am Indian 🙂,0.4033,Positive,0.0,Neutral,0.3930316567420959,Positive
 Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 2:09 i keep messing up at the start here,0.0,Neutral,0.0,Neutral,0.247776910662651,Neutral
 Every Combat Warriors players ever:,-0.34,Negative,0.0,Neutral,0.7803834080696106,Positive
-everybody wants to be my enemy,-0.5423,Negative,0.2,Neutral,0.442613422870636,Positive
+everybody wants to be my enemy,-0.5423,Negative,0.2,Positive,0.442613422870636,Positive
 A,0.0,Neutral,0.0,Neutral,0.3187072873115539,Neutral
 Yes,0.4019,Positive,0.0,Neutral,0.3790786862373352,Positive
 I love your vids!,0.6696,Positive,0.625,Positive,0.8749862909317017,Positive
 "I love Imagine Dragons Enemy,Believer the best songs
 
 😎😎😎😎😎😎😎😎😎😎😎",0.9908,Positive,0.75,Positive,0.9295635223388672,Positive
-classic banger,0.0,Neutral,0.1666666666666666,Neutral,0.569312334060669,Positive
+classic banger,0.0,Neutral,0.1666666666666666,Positive,0.569312334060669,Positive
 my fav song,0.4588,Positive,0.0,Neutral,0.5284798741340637,Positive
 "Oh the misery 
-Everybody wants to be my enemy...........",-0.802,Negative,0.2,Neutral,-0.8195745944976807,Negative
+Everybody wants to be my enemy...........",-0.802,Negative,0.2,Positive,-0.8195745944976807,Negative
 nice music,0.4215,Positive,0.6,Positive,0.4528878629207611,Positive
 They played this at roller skating for my bday,0.34,Positive,0.0,Neutral,0.5119315385818481,Positive
 Love song best song,0.8555,Positive,0.75,Positive,0.7768971920013428,Positive

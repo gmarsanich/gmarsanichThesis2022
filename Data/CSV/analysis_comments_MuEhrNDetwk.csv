@@ -2,13 +2,13 @@ Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT la
 4 champions  and Elias wins. Lame,0.6486,Positive,-0.1,Negative,-0.5796094536781311,Negative
 Randy Orton mein akele mein jita Diya 🤣🤣🤣🤪✌️✌️,0.0,Neutral,0.0,Neutral,0.5795438885688782,Positive
 I miss Ted Dibiase,-0.1531,Negative,0.0,Neutral,0.2839871048927307,Neutral
-"after first move , adjusting his shorts right away , come on guys we know its fake but atleast try to be original",0.2263,Positive,0.1026785714285714,Neutral,0.2687013745307922,Neutral
+"after first move , adjusting his shorts right away , come on guys we know its fake but atleast try to be original",0.2263,Positive,0.1026785714285714,Positive,0.2687013745307922,Neutral
 "As much as I love everything about this, I'm truly happy to see Elias/Ezekiel get the Babyface treatment. I've always loved Elias, his heel promos always made me laugh and he's excellent in the ring.",0.9719,Positive,0.6599999999999999,Positive,0.9269009828567504,Positive
 I’m scared for Rhiddle. Looool honestly,0.0258,Neutral,0.6,Positive,-0.2634127140045166,Negative
 Uso  .Seth ab khatm hogye,0.0,Neutral,0.0,Neutral,-0.3618691563606262,Negative
 LOL the Usos never the lesson. Never jump from the top rope toward the Viper,0.6523,Positive,0.65,Positive,-0.5603734254837036,Negative
 That woman is amazingly beautiful! And I mean Asuka.,0.6689,Positive,0.34375,Positive,0.9310251474380492,Positive
-What a Night for the new guy.,0.0,Neutral,0.1363636363636363,Neutral,0.6114456653594971,Positive
+What a Night for the new guy.,0.0,Neutral,0.1363636363636363,Positive,0.6114456653594971,Positive
 So beautiful RKO 😁😁😁💝👌👍👍👍👍,0.9736,Positive,0.85,Positive,0.8175194263458252,Positive
 Randy's good 👍,0.4404,Positive,0.7,Positive,0.4714686572551727,Positive
 0:04,0.0,Neutral,0.0,Neutral,-0.5548918843269348,Negative
@@ -22,14 +22,14 @@ What a performance Randy👌👌,0.9055,Positive,0.0,Neutral,0.6318470239639282,
 Matches are fixing,0.0,Neutral,0.0,Neutral,0.3769609034061432,Positive
 Randy get a great push,0.6249,Positive,0.8,Positive,0.5889149904251099,Positive
 RKO 20,0.0,Neutral,0.0,Neutral,0.3962679505348205,Positive
-Raw fires yes aftr a long time its amazing .....Rk.Bro,0.7579,Positive,0.1064102564102564,Neutral,0.6712601780891418,Positive
-After watching this it remind me of old days 🥲🥲,0.0,Neutral,0.1,Neutral,0.3938151597976684,Positive
+Raw fires yes aftr a long time its amazing .....Rk.Bro,0.7579,Positive,0.1064102564102564,Positive,0.6712601780891418,Positive
+After watching this it remind me of old days 🥲🥲,0.0,Neutral,0.1,Positive,0.3938151597976684,Positive
 Is it just me or Randyorten shorts looks like a diaper😅,0.6124,Positive,0.0,Neutral,0.2916302680969238,Neutral
 Professor Orton,0.0,Neutral,0.0,Neutral,0.2796556055545807,Neutral
-Literally old vibe,0.0,Neutral,0.1,Neutral,-0.5220460295677185,Negative
+Literally old vibe,0.0,Neutral,0.1,Positive,-0.5220460295677185,Negative
 RK bro son lo mejor que tiene WWE,0.6369,Positive,1.0,Positive,0.8515773415565491,Positive
 Awesome match 🔥🔥,0.0772,Positive,1.0,Positive,0.8377626538276672,Positive
-Wow!!! No one can match the Aura Of Viper Orton 🐍,0.5386,Positive,0.1953125,Neutral,0.5989716649055481,Positive
+Wow!!! No one can match the Aura Of Viper Orton 🐍,0.5386,Positive,0.1953125,Positive,0.5989716649055481,Positive
 All credit goes to Raaandy.,0.3818,Positive,0.0,Neutral,-0.5245316624641418,Negative
 RK Bro slowly becoming D-von n BubbaRay,0.0,Neutral,0.45,Positive,-0.3246462941169739,Negative
 🔥🔥,-0.5859,Negative,0.0,Neutral,0.3085779249668121,Neutral
@@ -43,7 +43,7 @@ What a great match ad great day rko 1man show,0.8481,Positive,0.8,Positive,0.846
 Riddle should’ve hit the rko😂,0.4404,Positive,0.0,Neutral,0.2639864385128021,Neutral
 Randy Orton is op❤❤❤❤❤❤❤❤❤,0.9911,Positive,0.0,Neutral,0.3643025755882263,Positive
 Lol I am dying watching Riddle in the background. He is clearly Randy’s biggest cheerleader,0.7506,Positive,0.45,Positive,-0.2619476318359375,Negative
-That table is the real head of the table 😁😁,0.7184,Positive,0.2,Neutral,0.6142898201942444,Positive
+That table is the real head of the table 😁😁,0.7184,Positive,0.2,Positive,0.6142898201942444,Positive
 Rko is going crazy,-0.34,Negative,-0.6,Negative,-0.3964927494525909,Negative
 finally cody rhode meet randy orton,0.0,Neutral,0.0,Neutral,0.4970895051956177,Positive
 20+ years.....,0.0,Neutral,0.0,Neutral,0.6777259111404419,Positive
@@ -62,11 +62,11 @@ After 10yr Randy & Cody watching Randy always kill Rko🔥🔥....,-0.8591,Negat
 Bravooooo 🙌🙌🙌👏👏👏👏🔥🔥🔥🔥,-0.8225,Negative,0.0,Neutral,0.6187863945960999,Positive
 "I've watched this clip more than 10 times but still cant get enough of it. Wow, RK-BRO, Cody and Ezekiel you killed it bros- a great show for a wonderful anniversary !!",0.9049,Positive,0.3666666666666667,Positive,0.7390092015266418,Positive
 wooooooow que luta incrivel !!!! os caras destruiram !!! top Demais !!!!!!!,-0.7551,Negative,0.8178914388020834,Positive,0.7947870492935181,Positive
-Randy is the only man standing for this company as a true legend,0.4215,Positive,0.175,Neutral,0.5272583365440369,Positive
+Randy is the only man standing for this company as a true legend,0.4215,Positive,0.175,Positive,0.5272583365440369,Positive
 So mad I missed this,-0.7146,Negative,-0.625,Negative,-0.6172674894332886,Negative
 Riddle fixing his undies before going unconscious 😂😂😂,0.8271,Positive,0.0,Neutral,-0.2693077325820923,Negative
 Cody and Randy teaming up again 🥲,0.0,Neutral,0.0,Neutral,0.4286808967590332,Positive
-Finally WWE is trying to return it's glory like back in golden days of Raw 2014-15,0.7184,Positive,0.0173076923076923,Neutral,0.4796299636363983,Positive
+Finally WWE is trying to return it's glory like back in golden days of Raw 2014-15,0.7184,Positive,0.0173076923076923,Positive,0.4796299636363983,Positive
 This just reminded me of DX vs Legacy days,-0.694,Negative,0.0,Neutral,0.554663896560669,Positive
 1234RKO,0.0,Neutral,0.0,Neutral,0.258645236492157,Neutral
 That t bone suplex was always so cool to watch,0.4572,Positive,0.35,Positive,0.626613974571228,Positive
@@ -84,20 +84,20 @@ Randy 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.3815849125385284,Positi
 Randy Orton 💪💪💪,0.0,Neutral,0.0,Neutral,0.3707011342048645,Positive
 Randy poking Kevin in the eye is hilarious.,0.4019,Positive,0.5,Positive,0.4297902882099151,Positive
 "Damn, I just realized people don't bring the homemade signs anymore 😭",-0.7003,Negative,0.0,Neutral,-0.5415526628494263,Negative
-1:09 how Kevin reacted in this way was epic 🤣🤣🤣,0.8625,Positive,0.1,Neutral,0.6279504299163818,Positive
+1:09 how Kevin reacted in this way was epic 🤣🤣🤣,0.8625,Positive,0.1,Positive,0.6279504299163818,Positive
 Ok bro ❤️❤️❤️❤️,0.296,Positive,0.5,Positive,0.4019522964954376,Positive
 Now I watch wwe only for Randy ortan,0.0,Neutral,0.0,Neutral,-0.2410864531993866,Negative
-Nice acting btw,0.4215,Positive,0.3,Neutral,0.4744280874729156,Positive
-"Great to see young talents like ""Ezekiel, the younger brother of Elias"" get massive push",0.8625,Positive,0.225,Neutral,0.5287142395973206,Positive
+Nice acting btw,0.4215,Positive,0.3,Positive,0.4744280874729156,Positive
+"Great to see young talents like ""Ezekiel, the younger brother of Elias"" get massive push",0.8625,Positive,0.225,Positive,0.5287142395973206,Positive
 Wonder what Cody was saying to the ref at 1:32,0.0,Neutral,0.0,Neutral,-0.4231796860694885,Negative
-"Good old times. How to make RAW matches interesting, make Randy Orton hit RKO after RKO everyone.",0.6808,Positive,0.2673076923076923,Neutral,0.5035117864608765,Positive
-Have Randy be the one who takes the tile from Roman! Legend Killer kills a modern legend!,-0.855,Negative,0.25,Neutral,0.5507135987281799,Positive
+"Good old times. How to make RAW matches interesting, make Randy Orton hit RKO after RKO everyone.",0.6808,Positive,0.2673076923076923,Positive,0.5035117864608765,Positive
+Have Randy be the one who takes the tile from Roman! Legend Killer kills a modern legend!,-0.855,Negative,0.25,Positive,0.5507135987281799,Positive
 Riddle fixing his tights after the suplex😂😂😂,0.8271,Positive,0.0,Neutral,0.346891850233078,Positive
 This match was prepared very precisely.,0.2263,Positive,0.52,Positive,0.6535387635231018,Positive
 Best honor to Randy. 🔥🔥🔥🔥,-0.0516,Negative,1.0,Positive,0.8602316975593567,Positive
 RK bro bestRandy Orton,0.0,Neutral,0.0,Neutral,-0.2677647471427917,Negative
 DUI USOs vrs RK-Bro,0.0,Neutral,0.0,Neutral,0.2391873896121978,Neutral
-RKOs never gets old,0.0,Neutral,0.1,Neutral,0.329197496175766,Neutral
+RKOs never gets old,0.0,Neutral,0.1,Positive,0.329197496175766,Neutral
 RKO Party!!!!,0.5951,Positive,0.0,Neutral,0.4638843536376953,Positive
 A memorable match...😍😍❤,0.8807,Positive,0.5,Positive,0.6772947311401367,Positive
 Great:) Very honor victory of R.Orton🎉,0.8832,Positive,0.5,Positive,0.8788702487945557,Positive
@@ -111,16 +111,16 @@ only rko 🤘😏,0.0,Neutral,0.0,Neutral,0.2732398808002472,Neutral
 OWW MY EYE 😂😂😂,0.8271,Positive,0.0,Neutral,0.253009557723999,Neutral
 Randy 🔥🔥🔥🔥🔥🔥 next try to universal championship match 😎😎😎😎,0.3612,Positive,0.0,Neutral,0.3131456971168518,Neutral
 Randy Orton💫,-0.2263,Negative,0.0,Neutral,0.3815849125385284,Positive
-Everything is clearly scripted....,0.4019,Positive,0.1,Neutral,-0.286559134721756,Negative
+Everything is clearly scripted....,0.4019,Positive,0.1,Positive,-0.286559134721756,Negative
 Way better than AEW,0.4404,Positive,0.5,Positive,0.4399877786636352,Positive
 Randy is legend killer bro 🔥,-0.7717,Negative,0.0,Neutral,0.5350924730300903,Positive
 "Both these teams are so good and have great talent, Ezekiel looks alright in this match I hope he can be in some more banger matches soon",0.9386,Positive,0.6666666666666666,Positive,0.4834364056587219,Positive
-Orton live wwe,0.0,Neutral,0.1363636363636363,Neutral,0.3915895223617553,Positive
+Orton live wwe,0.0,Neutral,0.1363636363636363,Positive,0.3915895223617553,Positive
 "I thoroughly enjoyed that! 🙏 Awesome !! 
 Thank you Randy! Our childhood lives in you!",0.9074,Positive,0.8125,Positive,0.92248272895813,Positive
 What is Seth doing at the end,0.0,Neutral,0.0,Neutral,0.4094687700271606,Positive
-Not one thing went wrong in that match. Great ending to an amazing RAW. Congratulations on your 20th year in the WWE Randy Orton,0.8658,Positive,0.1338461538461538,Neutral,0.8573148250579834,Positive
-This match was absolutely epic!,0.0,Neutral,0.125,Neutral,0.9441394209861756,Positive
+Not one thing went wrong in that match. Great ending to an amazing RAW. Congratulations on your 20th year in the WWE Randy Orton,0.8658,Positive,0.1338461538461538,Positive,0.8573148250579834,Positive
+This match was absolutely epic!,0.0,Neutral,0.125,Positive,0.9441394209861756,Positive
 Vintage orton at his best.,0.6369,Positive,1.0,Positive,0.6388124823570251,Positive
 "RKO
 2:04 2:16 2:28 2:35",0.0,Neutral,0.0,Neutral,-0.3267599642276764,Negative
@@ -128,7 +128,7 @@ Vintage orton at his best.,0.6369,Positive,1.0,Positive,0.6388124823570251,Posit
 Bro-3D ☺️,0.4588,Positive,0.0,Neutral,0.3469199538230896,Positive
 RKO is back 🔥 🔥 🔥,-0.7351,Negative,0.0,Neutral,-0.5093250870704651,Negative
 Best 8 man tag match ever,0.6369,Positive,1.0,Positive,0.9423938989639282,Positive
-Is it me or is Monday Night Raw getting better each week ever since WrestleMania 38???,0.533,Positive,0.1346153846153846,Neutral,-0.3137297630310058,Negative
+Is it me or is Monday Night Raw getting better each week ever since WrestleMania 38???,0.533,Positive,0.1346153846153846,Positive,-0.3137297630310058,Negative
 That's match shows WWE is full fake .,-0.4767,Negative,-0.075,Negative,-0.7661361694335938,Negative
 What a legend!!,0.0,Neutral,0.0,Neutral,0.9155582189559937,Positive
 Just give him the World Title for 2 more times.,0.0,Neutral,0.5,Positive,0.2991248071193695,Neutral
@@ -142,7 +142,7 @@ What an RKShOw by Randy Ortan.. Wow truly amazing.. Love u Randyyyy..,0.9403,Pos
 "I love candy,
 So Dangerous is Randy.",0.204,Positive,-0.0499999999999999,Negative,0.7090412974357605,Positive
 1:09 ow my eye 😂🤣,0.7269,Positive,0.0,Neutral,-0.3402099013328552,Negative
-Randy orton never get old  ❣ and his RKO 🔥,0.4215,Positive,0.1,Neutral,0.5765969753265381,Positive
+Randy orton never get old  ❣ and his RKO 🔥,0.4215,Positive,0.1,Positive,0.5765969753265381,Positive
 Rko 4ever😈🔥👑,0.1531,Positive,0.0,Neutral,0.3572143614292145,Positive
 4 rko 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.3450004160404205,Positive
 Awesome RK BRo,0.6249,Positive,1.0,Positive,0.7107623815536499,Positive
@@ -153,8 +153,8 @@ Happy 20 years legend killer.,-0.1531,Negative,0.8,Positive,0.838129460811615,Po
 classical exhibition of the legend killer!,-0.68,Negative,0.0,Neutral,0.5467355847358704,Positive
 that's really some good old school stuff,0.4902,Positive,0.3333333333333333,Positive,0.5071172118186951,Positive
 Randy is a legend.,0.0,Neutral,0.0,Neutral,0.6462343335151672,Positive
-I am so happy old rendy Orton is back 🔙😎,0.829,Positive,0.3,Neutral,0.7614575028419495,Positive
-"what a match,i can't count the rko's ,wow.",0.5859,Positive,0.1,Neutral,0.7118254899978638,Positive
+I am so happy old rendy Orton is back 🔙😎,0.829,Positive,0.3,Positive,0.7614575028419495,Positive
+"what a match,i can't count the rko's ,wow.",0.5859,Positive,0.1,Positive,0.7118254899978638,Positive
 Riddle looks like Mini Tarzan 🤣🤣🤣,0.9022,Positive,0.0,Neutral,0.2431261539459228,Neutral
 RKO PARTY IS IT,0.4019,Positive,0.0,Neutral,0.3259724676609039,Neutral
 My hero randy ortan ❤,0.8316,Positive,0.0,Neutral,0.6867395043373108,Positive
@@ -177,9 +177,9 @@ Rk bro,0.0,Neutral,0.0,Neutral,0.2790096998214721,Neutral
 This guy is immortal 😳,0.25,Positive,0.0,Neutral,0.8657082915306091,Positive
 love,0.6369,Positive,0.5,Positive,0.6595039963722229,Positive
 KO: OH MY GOD!!❎ OH MY EYES!!✅,0.6125,Positive,0.0,Neutral,0.4887722134590149,Positive
-Straight fire! 🔥 🔥🔥👏🏻👏🏻💯,-0.7901,Negative,0.25,Neutral,0.5284793972969055,Positive
+Straight fire! 🔥 🔥🔥👏🏻👏🏻💯,-0.7901,Negative,0.25,Positive,0.5284793972969055,Positive
 Randy solo’s,0.0,Neutral,0.0,Neutral,0.2908870875835418,Neutral
-This match is a meme compilation. Jesus that was funny,0.4404,Positive,0.25,Neutral,0.2819845080375671,Neutral
+This match is a meme compilation. Jesus that was funny,0.4404,Positive,0.25,Positive,0.2819845080375671,Neutral
 Props to the usos they sold this match 👏🏻👏🏻,0.0,Neutral,0.0,Neutral,0.3983345925807953,Positive
 Randy hope u wwe champion..legacy era..from malaysia..,0.4404,Positive,0.0,Neutral,0.4378187954425812,Positive
 Randy Orton is my favorite wwe superstar without him they are nothing to me and for 20 years this man been in the business and has given us one of the best wwe careers forever to remember,0.802,Positive,0.75,Positive,0.8078413605690002,Positive
@@ -197,7 +197,7 @@ Roman can never be like Randy. Never !,-0.3404,Negative,0.0,Neutral,-0.615451455
 That was AWESOMEEEE I loved this Monday night Raw it was a GREAT and SPECIAL one because of randy orton’s 20th anniversary and the way how it ended was in the way I expected it to be randy orton aka mr RKO was gonna RKO everyone in the ring and be on TOP which he riddle cody and Ezekiel was way to go LEGEND KILLER you pulled it off once again I’M HAPPY TO HAVE MET YOU AND I’M HAPPY TO STILL SEE YOU DO WHAT YOU DO BEST love you bro 🤙🤙🤙❤️❗️❗️❗️❗️❗️❗️😁😃😀😃,0.9935,Positive,0.466033966033966,Positive,0.8248813152313232,Positive
 Some really good Rkos,0.4927,Positive,0.7,Positive,0.3925157785415649,Positive
 1:10 RKO > KO,0.0,Neutral,0.0,Neutral,-0.3892655968666076,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 The Usos are fkn awful.,-0.4588,Negative,-1.0,Negative,-0.6703647971153259,Negative
 20 years and Randy is still my favourite WWE personal!,0.0,Neutral,0.0,Neutral,0.927163064479828,Positive
 RKO PARTY,0.4019,Positive,0.0,Neutral,0.3321005702018738,Positive
@@ -206,7 +206,7 @@ finally.. the vibe is back in wwe,0.0,Neutral,0.0,Neutral,0.5359067320823669,Pos
 “You get an RKO
 He gets an RKO
 Everybody gets an RKO!”",0.4199,Positive,0.0,Neutral,-0.3446083962917328,Negative
-Randy orton is EPIC!,0.0,Neutral,0.125,Neutral,0.8159627914428711,Positive
+Randy orton is EPIC!,0.0,Neutral,0.125,Positive,0.8159627914428711,Positive
 2:00 The Disaster Kick is back!!! <3,-0.4724,Negative,0.5,Positive,-0.6143004894256592,Negative
 Randy Orton y Cody Rose...hacen buen equipo 😎🎸🏴‍☠️,0.7096,Positive,0.6499999999999999,Positive,0.4621928036212921,Positive
 0:52 Randy is on Fire ! Great 👍,0.4574,Positive,0.8,Positive,0.7596001625061035,Positive
@@ -217,7 +217,7 @@ There’s only one thing I gotta say the viper is unstoppable,-0.2023,Negative,0
 Im talking about Jimmy's RKO",-0.6249,Negative,-1.0,Negative,-0.8570039868354797,Negative
 Amazing match 👌👌,0.9439,Positive,0.6000000000000001,Positive,0.8214906454086304,Positive
 Randy Orton best 👍,0.6369,Positive,1.0,Positive,0.64266437292099,Positive
-Yall going to be so heart broken when they break up RK-BRO. The uso are winning the tag tittles. That's the perfect send off to RK-BRO and have them feud for the next year.,0.8266,Positive,0.275,Neutral,0.414648026227951,Positive
+Yall going to be so heart broken when they break up RK-BRO. The uso are winning the tag tittles. That's the perfect send off to RK-BRO and have them feud for the next year.,0.8266,Positive,0.275,Positive,0.414648026227951,Positive
 The viper is not a joke 😂😂😂😂😂😂,0.9383,Positive,0.0,Neutral,0.3539807796478271,Positive
 Eze is really handsome,0.5413,Positive,0.5,Positive,0.7428244352340698,Positive
 RKO❤️👌,0.7297,Positive,0.0,Neutral,0.3085779249668121,Neutral
@@ -226,25 +226,25 @@ Tge best match in Raw,0.6369,Positive,0.3846153846153846,Positive,0.828188657760
 Jimmy's hair reminds me of Rufio from Hook. 😆,0.3612,Positive,0.0,Neutral,0.3544156849384308,Positive
 Ow my Eye! 😆,0.4199,Positive,0.0,Neutral,0.4954574108123779,Positive
 Ezekiel better get booked good thsi time tbh elias gimmick was so good idk why they buried it still hope the fun continues,0.9333,Positive,0.5499999999999999,Positive,0.4108529686927795,Positive
-Randy Orton wow,0.5859,Positive,0.1,Neutral,0.6572019457817078,Positive
+Randy Orton wow,0.5859,Positive,0.1,Positive,0.6572019457817078,Positive
 "When Ezekiel just pulls Rollins out. ‘Nope there’s no point man, we won’ 🤣",0.25,Positive,0.0,Neutral,-0.5055448412895203,Negative
 I think wwe have to make Randy the face of wwe,0.0,Neutral,0.0,Neutral,0.32552570104599,Neutral
-We want old Randy..🔥,-0.2732,Negative,0.1,Neutral,0.3027265667915344,Neutral
+We want old Randy..🔥,-0.2732,Negative,0.1,Positive,0.3027265667915344,Neutral
 The best part of this match was KO screaming “Ow! My eye!” after Randy’s eye poke.,0.4912,Positive,1.0,Positive,0.5463693737983704,Positive
 A rko barrage for Randy on his 20th anniversary. Go big or go home with 4 Rko's,0.0,Neutral,0.0,Neutral,0.5352535247802734,Positive
 20 years of the LEGEND 👏👏👏,0.0,Neutral,0.0,Neutral,0.7123119831085205,Positive
 Randy ridale king,0.0,Neutral,0.0,Neutral,0.3412488996982574,Positive
-This is why i love professional wrestling,0.6369,Positive,0.3,Neutral,0.8236415386199951,Positive
+This is why i love professional wrestling,0.6369,Positive,0.3,Positive,0.8236415386199951,Positive
 Make Orton 17x champion💥,0.34,Positive,0.0,Neutral,0.4869043231010437,Positive
 "Those back to back RKO's 😁💥💥💥💥💥💥💥🔥🔥🔥
 Vintage orton😈",-0.9403,Negative,0.0,Neutral,0.4925627112388611,Positive
 Randyorton is Greatest of all time💥💥💥,-0.3182,Negative,1.0,Positive,0.8831645846366882,Positive
 Love the match but it looks like the so called one's are getting there butts beat,0.705,Positive,0.5,Positive,0.4204946756362915,Positive
 Fayyah..,0.0,Neutral,0.0,Neutral,0.2493070513010025,Neutral
-"Oh my looking at Cody and Randy team, brings back the old memories. It's nice to watch them reunite again",0.4215,Positive,0.2333333333333333,Neutral,0.5241420865058899,Positive
+"Oh my looking at Cody and Randy team, brings back the old memories. It's nice to watch them reunite again",0.4215,Positive,0.2333333333333333,Positive,0.5241420865058899,Positive
 Q buen final con todos Rko he finished,0.4404,Positive,0.7,Positive,0.519744873046875,Positive
-"Though Randy Orton is a heel beyond doubt, but still this match and win over the Usos and Rollins and Owens kinda gave me the feeling of destroying evil. And no rules broken! I hope RK Bro doesnt meet the same fate as Rated RKO did.Cody Rhodes was impressive.",0.5144,Positive,0.0166666666666666,Neutral,0.4697540700435638,Positive
-"I'm hoping WWE continues to with RK-Bro because I honestly love them together. I'm getting tired of the jealous betrayal by one of the tag members and I want Randy and Riddle to continue to be a tag team even if they lose the titles which I hope also doesn't happen. Please WWE, don't touch RK-Bro.",-0.0418,Neutral,0.0499999999999999,Neutral,-0.2557280957698822,Negative
+"Though Randy Orton is a heel beyond doubt, but still this match and win over the Usos and Rollins and Owens kinda gave me the feeling of destroying evil. And no rules broken! I hope RK Bro doesnt meet the same fate as Rated RKO did.Cody Rhodes was impressive.",0.5144,Positive,0.0166666666666666,Positive,0.4697540700435638,Positive
+"I'm hoping WWE continues to with RK-Bro because I honestly love them together. I'm getting tired of the jealous betrayal by one of the tag members and I want Randy and Riddle to continue to be a tag team even if they lose the titles which I hope also doesn't happen. Please WWE, don't touch RK-Bro.",-0.0418,Neutral,0.0499999999999999,Positive,-0.2557280957698822,Negative
 "reunite Randy Orton and Cody Rhodes 
 hopefully Ted tedibeasi back to wwe",0.4019,Positive,0.0,Neutral,0.3078362643718719,Neutral
 Orton deserves one more wwe championship title run,0.4902,Positive,0.5,Positive,0.4632532298564911,Positive
@@ -261,12 +261,12 @@ RKO Forever !!❤,0.6988,Positive,0.0,Neutral,0.7348780632019043,Positive
 Perfect rkos of randy orton in 20 years⚡️,0.5719,Positive,1.0,Positive,0.8787496089935303,Positive
 😅😅😅👏👏👏👏👏 what a wonderful and sweet match,0.9217,Positive,0.675,Positive,0.86959308385849,Positive
 That alley oop rko was sick. Wicked assist from riddle,-0.7717,Negative,-0.7142857142857143,Negative,-0.6001023054122925,Negative
-Ever since the shields final chapter 2019 vince McMahon wont allow seth Rollins n Roman Roman Reigns to team up because Vince McMahon is being a lil kid holding a grudge against Jon moxley. So he'll let Rollins team with usos but not roman Reigns. Hell let Roman Reigns team with usos but not Seth Rollins. I remember 2018 when Roman Reigns was babyface talking to paul Heyman roman said my father taught me how to swim with sharks n ur just not worth saving. Idk man unless Seth joins the bloodline im not gonna watch the full 2 or 3 hrs.of ur show its not sports entertainment its not pro wrestling its annoying bro allow creative freedom back for all stables thatd the problem vince is taking to much control like the government.,0.8823,Positive,0.0142857142857142,Neutral,-0.437485784292221,Negative
+Ever since the shields final chapter 2019 vince McMahon wont allow seth Rollins n Roman Roman Reigns to team up because Vince McMahon is being a lil kid holding a grudge against Jon moxley. So he'll let Rollins team with usos but not roman Reigns. Hell let Roman Reigns team with usos but not Seth Rollins. I remember 2018 when Roman Reigns was babyface talking to paul Heyman roman said my father taught me how to swim with sharks n ur just not worth saving. Idk man unless Seth joins the bloodline im not gonna watch the full 2 or 3 hrs.of ur show its not sports entertainment its not pro wrestling its annoying bro allow creative freedom back for all stables thatd the problem vince is taking to much control like the government.,0.8823,Positive,0.0142857142857142,Positive,-0.437485784292221,Negative
 it's all part of the show,0.0,Neutral,0.0,Neutral,0.367746889591217,Positive
 🤟🤟🤟🤟🤟🤟🤟🤟,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 they don't make announcer tables like they used to.,0.3612,Positive,0.0,Neutral,-0.3883734941482544,Negative
 best teg team match everything perfect such a memorable moments in history,0.836,Positive,0.625,Positive,0.9557860493659972,Positive
-Orton new 14 time word championship,0.4404,Positive,0.1363636363636363,Neutral,0.5697781443595886,Positive
+Orton new 14 time word championship,0.4404,Positive,0.1363636363636363,Positive,0.5697781443595886,Positive
 Rain if RKO's,0.0,Neutral,0.0,Neutral,-0.2931320965290069,Negative
 I honestly think randy should go for another world title run but I’m glad he’s a having the best time of life he’s done it all randy will always be a top tier professional wrestler of al times,0.9325,Positive,0.54,Positive,0.5810752511024475,Positive
 one of my favorite RKO  and HBK,0.4588,Positive,0.5,Positive,0.8750912547111511,Positive
@@ -279,7 +279,7 @@ This was awesome,0.6249,Positive,1.0,Positive,0.8159008026123047,Positive
 Super Rko,0.5994,Positive,0.3333333333333333,Positive,0.7906885743141174,Positive
 Super match Rko bro win,0.8271,Positive,0.5666666666666667,Positive,0.7209961414337158,Positive
 OW MY EYEEEE,0.0,Neutral,0.0,Neutral,0.2225544154644012,Neutral
-USOS are not more good for wwe,-0.3865,Negative,0.2249999999999999,Neutral,-0.359885424375534,Negative
+USOS are not more good for wwe,-0.3865,Negative,0.2249999999999999,Positive,-0.359885424375534,Negative
 20 years celebration 🎉 with 4x. RKOs☠️☠️,0.4019,Positive,0.0,Neutral,0.7238009572029114,Positive
 "Watch 0:36 at Slow Motion
 
@@ -292,19 +292,19 @@ It feels good to see..how everyone is showing appreciation to Randy orton in the
 No one can ever do it as good as he can. And its funny when he hits em as well,0.6908,Positive,0.475,Positive,0.7297503352165222,Positive
 And randy~ the viper R.K.O the best,0.6369,Positive,1.0,Positive,0.7646364569664001,Positive
 Matt riddle is just So hard to give up~,-0.2183,Negative,-0.2916666666666667,Negative,-0.3399306833744049,Negative
-"Cody Rhodes have fast thinking of surrounding,",0.0,Neutral,0.2,Neutral,0.4008273482322693,Positive
+"Cody Rhodes have fast thinking of surrounding,",0.0,Neutral,0.2,Positive,0.4008273482322693,Positive
 Ezekiel.. hahahah damn he strong,0.1531,Positive,0.4333333333333333,Positive,0.3853591084480285,Positive
 He was on a 4 man kill streak,-0.6908,Negative,0.0,Neutral,-0.3359018564224243,Negative
-Wow Randy whats a match,0.5859,Positive,0.1,Neutral,0.7387623190879822,Positive
+Wow Randy whats a match,0.5859,Positive,0.1,Positive,0.7387623190879822,Positive
 Still so weird seeing Cody Rhoads in WWE again this match tho makes me want to be a wrestler so bad,-0.7339,Negative,-0.5999999999999999,Negative,-0.2935294806957245,Negative
 Rko 💥💥💥,-0.7579,Negative,0.0,Neutral,0.3572143614292145,Positive
 "Out of all the Mega Stars that debuted in 2002, Orton is the only remaining full-timer",0.0,Neutral,0.0,Neutral,0.4808528125286102,Positive
 that was a beautiful match,0.5994,Positive,0.85,Positive,0.4197356700897217,Positive
-I clicked the video an in less than 10 seconds there is a whole crotch grab and an adjustment to Riddles balls on national tv!!!! The announcers said someone went through a table and didn't. Wow the quality is definitely not there anymore.,-0.3695,Negative,0.1054036458333333,Neutral,-0.8281994462013245,Negative
+I clicked the video an in less than 10 seconds there is a whole crotch grab and an adjustment to Riddles balls on national tv!!!! The announcers said someone went through a table and didn't. Wow the quality is definitely not there anymore.,-0.3695,Negative,0.1054036458333333,Positive,-0.8281994462013245,Negative
 Randy Orton super star 4 Rko by Randy Orton superb aussome man UR team did very well Riddle too fast,0.8858,Positive,0.4333333333333333,Positive,0.5558458566665649,Positive
 That felt like a classic era matchup!! Wwe should fix that kind of mathes in every weekly show,0.4738,Positive,0.4302083333333333,Positive,0.2621725797653198,Neutral
 Great to see Randy with Cody there is some old vibes,0.6249,Positive,0.45,Positive,0.5443321466445923,Positive
-great match however it looks so sad to see him still in this arena,0.0281,Neutral,0.15,Neutral,0.4516283273696899,Positive
+great match however it looks so sad to see him still in this arena,0.0281,Neutral,0.15,Positive,0.4516283273696899,Positive
 One more match left Cody vs Randy legendary 🔥🙌🏽,-0.34,Negative,0.5,Positive,0.6159082651138306,Positive
 1:10 kewin Owens 🤣🤣,0.7506,Positive,0.0,Neutral,-0.3032000660896301,Negative
 Ko aw my eye 🔥😂,0.6041,Positive,0.0,Neutral,0.2812120914459228,Neutral
@@ -312,7 +312,7 @@ Ko aw my eye 🔥😂,0.6041,Positive,0.0,Neutral,0.2812120914459228,Neutral
 RKO 🤘🤘,0.0,Neutral,0.0,Neutral,0.3572143614292145,Positive
 Gg,0.296,Positive,0.0,Neutral,0.2632448673248291,Neutral
 Randy Orton is the greatest of all time 🔥🔥🔥,-0.25,Negative,1.0,Positive,0.9162366390228271,Positive
-Classy match.randy is like Luka modric the older he gets the better he becomes .,0.8074,Positive,0.2555555555555555,Neutral,0.4921676516532898,Positive
+Classy match.randy is like Luka modric the older he gets the better he becomes .,0.8074,Positive,0.2555555555555555,Positive,0.4921676516532898,Positive
 Rkbro♥,0.6369,Positive,1.0,Positive,0.3304069936275482,Positive
 Nahhh this match is one of the best tag team matches i've seen on RAW in a minute!,0.6696,Positive,0.3557692307692307,Positive,0.8253636956214905,Positive
 Randy Orton is WWE RAW Champion and a new year after 20 years ago🥊📰,0.5994,Positive,-0.0472027972027972,Negative,0.6167052388191223,Positive
@@ -321,9 +321,9 @@ Didn’t know vitaly join the wwe . Hope to see him fight logan paul at wrestlem
 RKO🖤,0.6369,Positive,0.0,Neutral,0.3085779249668121,Neutral
 𝑅𝑎𝑛𝑑𝑦 𝑂𝑟𝑡𝑎𝑛 𝑟𝑜𝑐𝑘𝑠,0.0,Neutral,0.0,Neutral,0.3761328756809234,Positive
 Randy Orton will forever be one of the BEST!!! 🔥,0.6607,Positive,1.0,Positive,0.8755113482475281,Positive
-So many wrestlers came and went away. Randy Orton remained constant in this business.,0.0,Neutral,0.25,Neutral,0.4368605613708496,Positive
+So many wrestlers came and went away. Randy Orton remained constant in this business.,0.0,Neutral,0.25,Positive,0.4368605613708496,Positive
 2/3rds if the legacy reunited is sight I didn’t think I’d see against Cody and Orton!,0.0,Neutral,0.0,Neutral,-0.5489833354949951,Negative
-I feel like I'm 8 yrs old again 🤗,0.6486,Positive,0.1,Neutral,0.3804894685745239,Positive
+I feel like I'm 8 yrs old again 🤗,0.6486,Positive,0.1,Positive,0.3804894685745239,Positive
 Win,0.5859,Positive,0.8,Positive,0.4843839704990387,Positive
 I thought Cody left WWE??,0.0,Neutral,0.0,Neutral,-0.3919618427753448,Negative
 And that's awwesome mab,0.0,Neutral,0.0,Neutral,-0.3647753000259399,Negative
@@ -349,34 +349,34 @@ god i miss leagacy. Legacy 2.0,0.128,Positive,0.0,Neutral,0.349581778049469,Posi
 Oh my eyes 😅😅😅,0.7579,Positive,0.0,Neutral,0.4637386798858642,Positive
 Randy surprise the crowd everytime,0.2732,Positive,0.0,Neutral,0.6615810394287109,Positive
 RKOs for everyone,0.0,Neutral,0.0,Neutral,0.538140058517456,Positive
-This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Neutral,0.6056872010231018,Positive
-This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Neutral,0.6056872010231018,Positive
-This Was A Really Randy Orton Week With Those Typa Consecutive RKOs Mmmh🔥🔥🔥,-0.7351,Negative,0.2,Neutral,0.4534338712692261,Positive
+This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Positive,0.6056872010231018,Positive
+This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Positive,0.6056872010231018,Positive
+This Was A Really Randy Orton Week With Those Typa Consecutive RKOs Mmmh🔥🔥🔥,-0.7351,Negative,0.2,Positive,0.4534338712692261,Positive
 4 RKOs,0.0,Neutral,0.0,Neutral,0.2948225438594818,Neutral
 rko's party,0.4019,Positive,0.0,Neutral,0.3643781244754791,Positive
 Op,0.0,Neutral,0.0,Neutral,0.2698663473129272,Neutral
-All the fans inside and outside the ring are just witnessing the 20 years of greatness and legacy he carried on his own for last 5 mins,0.0,Neutral,0.1999999999999999,Neutral,0.7958375215530396,Positive
-i cant believe i can see Orton and Rhodes being on the same team again time flies really fast.,0.0,Neutral,0.1,Neutral,0.2560790181159973,Neutral
+All the fans inside and outside the ring are just witnessing the 20 years of greatness and legacy he carried on his own for last 5 mins,0.0,Neutral,0.1999999999999999,Positive,0.7958375215530396,Positive
+i cant believe i can see Orton and Rhodes being on the same team again time flies really fast.,0.0,Neutral,0.1,Positive,0.2560790181159973,Neutral
 Raining RKO's😃😂,0.6597,Positive,0.0,Neutral,-0.3384301364421844,Negative
 Wonderful rendy ❤❤❤❤,0.9702,Positive,1.0,Positive,0.7743384838104248,Positive
 hear that crowd pop,0.0,Neutral,0.0,Neutral,-0.2992794513702392,Negative
 Vintage randy orton and congrats once again for 20th annivesary here at wwe.randy orton will capture his 15th world title soon.,0.5267,Positive,0.0,Neutral,0.5837192535400391,Positive
 I’m only here for ortan and Rhodes takes me back to legacy days,0.0,Neutral,0.0,Neutral,0.274078756570816,Neutral
-I prefer John cena despite how much the Viper is getting it.,0.0,Neutral,0.2,Neutral,0.5789129734039307,Positive
+I prefer John cena despite how much the Viper is getting it.,0.0,Neutral,0.2,Positive,0.5789129734039307,Positive
 "That was right to have randy orton to put everyone in the table and rko every body in the ring, love rk-bro there journey has been insane, I met randy orton in 2015 and I hated wrestling at that time but now I love it and I love the story line between randy and riddle",0.9144,Positive,-0.019047619047619,Negative,0.7193098068237305,Positive
 3KO,0.0,Neutral,0.0,Neutral,0.3637829720973968,Positive
 Great team work. Osm rko bro and cody,0.6249,Positive,0.8,Positive,0.6690502166748047,Positive
 """RIGHT THRU THE TABLE!!!"" 
 
 the table : ""How about no""",0.0,Neutral,0.5580357142857142,Positive,-0.7216925621032715,Negative
-"Cody, Riddle and Randy should form a new legacy",0.0,Neutral,0.1363636363636363,Neutral,0.423751950263977,Positive
-If they have the usos win at backlash it will be a bad move the usos have lost 3 weeks in a raw to rk bro it would be stupid to have the usos win rk bro should unify the titles due to rk bro being the best baby face tag tean right now and to celebrate randys 20 years long career the usos can win the smackdown titles back a bit later if u agree with me it would be the best booking,0.9571,Positive,0.2138419273034658,Neutral,-0.3159783482551574,Negative
+"Cody, Riddle and Randy should form a new legacy",0.0,Neutral,0.1363636363636363,Positive,0.423751950263977,Positive
+If they have the usos win at backlash it will be a bad move the usos have lost 3 weeks in a raw to rk bro it would be stupid to have the usos win rk bro should unify the titles due to rk bro being the best baby face tag tean right now and to celebrate randys 20 years long career the usos can win the smackdown titles back a bit later if u agree with me it would be the best booking,0.9571,Positive,0.2138419273034658,Positive,-0.3159783482551574,Negative
 And We Never Boring With Any Kind of RKO!,0.308,Positive,0.625,Positive,0.8085280656814575,Positive
 "*how strong do we want ortan to look?*
 ""Yes""",0.743,Positive,0.4333333333333333,Positive,0.215375080704689,Neutral
 "Orton is obviously a legend. He's had one of the greatest careers in professional wrestling, and has a laundry list of accomplishments. But I really think that this run with Riddle, where he's legitimately just having the time of his life, is solidifying him as one of the all time greats. The man is just out there every week, being an incredible wrestler. He's damn good at what he does, and he's having so much fun right now that his energy is just infectious. Hard not to love Randy Orton right now.",0.5954,Positive,0.3617965367965368,Positive,0.4129246771335602,Positive
 This is the greatest match of all 🔥🔥,0.1027,Positive,1.0,Positive,0.93413507938385,Positive
-Looks like they book Ezekielias right this time around. 😂,0.6597,Positive,0.2857142857142857,Neutral,0.4533924758434295,Positive
+Looks like they book Ezekielias right this time around. 😂,0.6597,Positive,0.2857142857142857,Positive,0.4533924758434295,Positive
 Monday Night Rkbro 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.300896555185318,Neutral
 Monday Night Rkbro 🔥🔥🔥,-0.7351,Negative,0.0,Neutral,0.300896555185318,Neutral
 "4 rko in. A row , omg soo satisfying ❤️",0.4588,Positive,0.5,Positive,0.4882657527923584,Positive
@@ -409,15 +409,15 @@ Randy good,0.4404,Positive,0.7,Positive,0.4476149678230285,Positive
 All my favorite heels,0.4588,Positive,0.5,Positive,0.94246506690979,Positive
 "OW, MY EYE!!",0.0,Neutral,0.0,Neutral,0.3297898471355438,Neutral
 Well done Randy 👊👊👍👍,0.2732,Positive,0.0,Neutral,0.6121727228164673,Positive
-Those 3 belong together and the can teach the young,0.0,Neutral,0.1,Neutral,0.4831190109252929,Positive
+Those 3 belong together and the can teach the young,0.0,Neutral,0.1,Positive,0.4831190109252929,Positive
 🔥🔥🔥🔥🔥,-0.875,Negative,0.0,Neutral,0.3085779249668121,Neutral
 Rko awesome👏👏👏😍😍😍,0.9201,Positive,0.0,Neutral,0.3572143614292145,Positive
 I think this rivolery is roman vs ortan at sumerslam,0.0,Neutral,0.0,Neutral,-0.3773185610771179,Negative
 I want Randy orton vs Roman reigns it will be an interesting match..,0.4588,Positive,0.5,Positive,0.4786334335803985,Positive
-Too much of hype.,0.0,Neutral,0.2,Neutral,-0.5272097587585449,Negative
+Too much of hype.,0.0,Neutral,0.2,Positive,-0.5272097587585449,Negative
 "That announce desk was quite unusual 
 Didn't break when Veer jumped on it
-Didn't break when Randy put Uso, Seth and Kevin through it",0.0,Neutral,0.2,Neutral,0.3182727098464966,Neutral
+Didn't break when Randy put Uso, Seth and Kevin through it",0.0,Neutral,0.2,Positive,0.3182727098464966,Neutral
 Una locuraa ver tantos RKO de Randy Orton,-0.34,Negative,-0.0499999999999999,Negative,0.289137601852417,Neutral
 Randy......🔥,-0.34,Negative,0.0,Neutral,0.2674407362937927,Neutral
 RKO ❤️❤️,0.0,Neutral,0.0,Neutral,0.3572143614292145,Positive
@@ -429,11 +429,11 @@ Are Great Performers",0.6249,Positive,0.8,Positive,0.7372641563415527,Positive
 FouRKO,0.0,Neutral,0.0,Neutral,0.2793344259262085,Neutral
 RANDY ORTON is My All-Time Favourite Superstar,0.0,Neutral,0.0,Neutral,0.8978204131126404,Positive
 Wanna move,0.0,Neutral,0.0,Neutral,0.4154348373413086,Positive
-Randy Orton is the real legend killer,-0.6486,Negative,0.2,Neutral,0.5530360341072083,Positive
+Randy Orton is the real legend killer,-0.6486,Negative,0.2,Positive,0.5530360341072083,Positive
 Great job WWE. The Brand is getting better every week now. I'm a thirty year fan and proudly still part of the WWE UNIVERSE. Great show last Monday. Go Asuka!,0.9538,Positive,0.5800000000000001,Positive,0.9230576157569884,Positive
 Hiik,0.0,Neutral,0.0,Neutral,0.2698475122451782,Neutral
-"“The Legacy” needs to come back, so many memories of watching Randy and Cody together again. 👏👏",0.0,Neutral,0.25,Neutral,0.6055964827537537,Positive
-After a long time Randy shows his true potential,0.4215,Positive,0.0999999999999999,Neutral,0.4526570439338684,Positive
+"“The Legacy” needs to come back, so many memories of watching Randy and Cody together again. 👏👏",0.0,Neutral,0.25,Positive,0.6055964827537537,Positive
+After a long time Randy shows his true potential,0.4215,Positive,0.0999999999999999,Positive,0.4526570439338684,Positive
 Orton on rampage,0.0,Neutral,0.0,Neutral,0.2277169525623321,Neutral
 ELIAS PROXIMO CAMPEON DE LA WWE ❤,0.87,Positive,0.0,Neutral,0.5919735431671143,Positive
 RKO Everywhere,0.0,Neutral,0.0,Neutral,0.5260763168334961,Positive
@@ -452,18 +452,18 @@ The highest grossing awesome popular move that gets everybody's attention is the
 1:08,0.0,Neutral,0.0,Neutral,-0.2574312388896942,Negative
 "If I'm ever in a match with Randy Orton, I'm going to jump off the top rope at him face first. Seems like a great idea. Always works out well.",0.8591,Positive,0.5166666666666667,Positive,0.4696820974349975,Positive
 that was a strong anouncer table,0.5106,Positive,0.4333333333333333,Positive,0.3414925038814544,Positive
-Epic,0.0,Neutral,0.1,Neutral,0.5839525461196899,Positive
+Epic,0.0,Neutral,0.1,Positive,0.5839525461196899,Positive
 "fat owens is a shame, he is such a bad fighter and mediocre in appearance, one of the great frauds of wwe",-0.6369,Negative,-0.0999999999999999,Negative,-0.8805491924285889,Negative
 The Legend Killer is awesome,-0.0516,Negative,1.0,Positive,0.8044847846031189,Positive
 Legacy + RK-Bro. This is fantastic.,0.5574,Positive,0.4,Positive,0.891385018825531,Positive
 2:33 wtf was Jey Uso aiming at 😂😂😂,0.5994,Positive,-0.5,Negative,-0.4522612690925598,Negative
-Good Game!,0.4926,Positive,0.0999999999999999,Neutral,0.5224005579948425,Positive
-0:07 nmms se arregló la riata jaja,0.4588,Positive,0.15,Neutral,-0.5644482970237732,Negative
+Good Game!,0.4926,Positive,0.0999999999999999,Positive,0.5224005579948425,Positive
+0:07 nmms se arregló la riata jaja,0.4588,Positive,0.15,Positive,-0.5644482970237732,Negative
 That is one tough table😂😂😂,0.802,Positive,-0.3888888888888889,Negative,0.308211475610733,Neutral
 The RKOs out nowhere be everything.,0.0,Neutral,0.0,Neutral,-0.4527867436408996,Negative
 When randy orton put people on the table. That be so funny everytime.  He be passing that out like pancakes. Lol.,0.8419,Positive,0.525,Positive,0.5384104251861572,Positive
 We want another 10 years 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐,0.0772,Positive,0.0,Neutral,0.5055683851242065,Positive
-Damn wow what a show ♥️♥️♥️♥️,0.9633,Positive,0.1,Neutral,0.7574564814567566,Positive
+Damn wow what a show ♥️♥️♥️♥️,0.9633,Positive,0.1,Positive,0.7574564814567566,Positive
 RKO is raining everywhere 😃,0.3612,Positive,0.0,Neutral,-0.5739355683326721,Negative
 Tht Rko was priceless lol.,0.4215,Positive,0.9,Positive,-0.4873690605163574,Negative
 We need the legacy to reunite again randy and Cody are an amazing team Ted as well,0.7096,Positive,0.6000000000000001,Positive,0.7188513875007629,Positive
@@ -471,10 +471,10 @@ Ezekiel out of knowhere,0.0,Neutral,0.0,Neutral,0.2701423168182373,Neutral
 This was so cool 😍,0.7407,Positive,0.35,Positive,0.7850500345230103,Positive
 🙂🙂Randy ortan❤️my heart,0.8629,Positive,0.0,Neutral,0.4720377922058105,Positive
 I feel I am younger 10 years after watching cody and Randy,0.0,Neutral,0.0,Neutral,0.271657258272171,Neutral
-This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Neutral,0.6056872010231018,Positive
+This match reminds me of the old days where RAW used to have stacked tag team main events.,0.0,Neutral,0.0119658119658119,Positive,0.6056872010231018,Positive
 Ortan has been pumped up,0.0,Neutral,0.0,Neutral,-0.3708654046058655,Negative
 hopefully they win over usos title and then orton vs reigns,0.7579,Positive,0.8,Positive,0.2647213339805603,Neutral
-New player Ezekiel doing well,0.2732,Positive,0.1363636363636363,Neutral,0.4415503442287445,Positive
+New player Ezekiel doing well,0.2732,Positive,0.1363636363636363,Positive,0.4415503442287445,Positive
 Never seen Randy Orton look so happy in the ring,0.6948,Positive,0.8,Positive,0.7564386129379272,Positive
 Elias has to be so proud of his younger brother!,0.6466,Positive,0.4,Positive,0.7069124579429626,Positive
 Rko is legend my fav,0.4588,Positive,0.0,Neutral,0.7781586647033691,Positive
@@ -484,7 +484,7 @@ Randy Orton should be the one to dethrone the head of the table.....,0.0,Neutral
 Randy walked through everyone like dam,0.3612,Positive,0.0,Neutral,-0.2836190164089203,Negative
 2:35 what move was jey going for 🤣🤣🤣,0.8625,Positive,0.0,Neutral,-0.2829726338386535,Negative
 Hello... my name is Ezekiel.,0.0,Neutral,0.0,Neutral,0.4468184113502502,Positive
-RAW was great fun after a long time,0.8126,Positive,0.2048076923076923,Neutral,0.6679879426956177,Positive
+RAW was great fun after a long time,0.8126,Positive,0.2048076923076923,Positive,0.6679879426956177,Positive
 Amazing performance frm randy orton,0.5859,Positive,0.6000000000000001,Positive,0.7975403666496277,Positive
 Are you not entertained!,-0.3716,Negative,0.0,Neutral,-0.5825915932655334,Negative
 Um combate foda pra coroar a noite da comemoração de um superstar tão lendário como Randy Orton,0.34,Positive,1.0,Positive,0.4627127349376678,Positive
@@ -498,14 +498,14 @@ Welcome back,0.4588,Positive,0.4,Positive,0.5994158387184143,Positive
 WWE,0.0,Neutral,0.0,Neutral,0.3307135105133056,Positive
 Ezekiel is amazing,0.5859,Positive,0.6000000000000001,Positive,0.7461879849433899,Positive
 "Wooow, Ezekiel looks like Ultimate Warrior!!",0.4738,Positive,0.0,Neutral,0.7520999312400818,Positive
-RKO’s for the whole year.,0.0,Neutral,0.2,Neutral,0.5650593042373657,Positive
+RKO’s for the whole year.,0.0,Neutral,0.2,Positive,0.5650593042373657,Positive
 "Still not used to Elias’ gimmick. For a moment, I thought Ezekiel Jackson returned.",0.0,Neutral,0.0,Neutral,-0.3467091023921966,Negative
 What a beautiful RKO from the top turn buckle beautiful,0.8625,Positive,0.7333333333333334,Positive,0.8765824437141418,Positive
-I just noticed during the match thar Randy and Cody were reunited haha,0.4588,Positive,0.2,Neutral,-0.27400603890419,Negative
+I just noticed during the match thar Randy and Cody were reunited haha,0.4588,Positive,0.2,Positive,-0.27400603890419,Negative
 It's more amazing how everyone contributed to Randy appreciation,0.8122,Positive,0.55,Positive,0.6197304725646973,Positive
 The viper 🐍🐍🐍🐍,0.0,Neutral,0.0,Neutral,0.3624160587787628,Positive
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤,0.9963,Positive,0.0,Neutral,0.3085779249668121,Neutral
-I wish age 40 was never a old age I want Randy to forever be young,0.4588,Positive,0.025,Neutral,0.2930400669574737,Neutral
+I wish age 40 was never a old age I want Randy to forever be young,0.4588,Positive,0.025,Positive,0.2930400669574737,Neutral
 Cody rhodes are so proud of randy Orton  legacy  in wwe,0.6113,Positive,0.8,Positive,0.7780115604400635,Positive
 Ye zeeeeeebuiii RKO 🐍🐍🔥🔥🔥💪🤫🤫,-0.7351,Negative,0.0,Neutral,0.2538656294345855,Neutral
 Randy Orton 🔥,-0.34,Negative,0.0,Neutral,0.3707011342048645,Positive
@@ -527,7 +527,7 @@ RKOOOO,0.0,Neutral,0.0,Neutral,0.2389244586229324,Neutral
 THE LAGACY REUNION",0.0,Neutral,0.0,Neutral,0.4021607339382171,Positive
 Randy’s touching astronomical levels,0.0,Neutral,0.5,Positive,0.3886799216270447,Positive
 Oh my god! 😲 4 RKOs on the 4 superstars,0.6114,Positive,0.0,Neutral,0.5352377891540527,Positive
-"Wow, Ezekiel is great for someone who just started a few weeks ago.  Hopefully his brother comes back and they can win the tag titles together 🙏",0.9371,Positive,0.3,Neutral,0.6939078569412231,Positive
+"Wow, Ezekiel is great for someone who just started a few weeks ago.  Hopefully his brother comes back and they can win the tag titles together 🙏",0.9371,Positive,0.3,Positive,0.6939078569412231,Positive
 Que buen RKO csm,0.4404,Positive,0.7,Positive,0.4789647758007049,Positive
 Reminds me of September 6th 2010,0.0,Neutral,0.0,Neutral,0.5107153654098511,Positive
 This match reminds of when you save all your finishers for the ending in 2k,0.4939,Positive,0.0,Neutral,0.4399784505367279,Positive
@@ -546,11 +546,11 @@ The usos definitely winning at backlash,0.7269,Positive,0.5,Positive,0.589579164
 That's how you celebrate an anniversary. Love you Randy,0.836,Positive,0.5,Positive,0.8084626793861389,Positive
 This is great!,0.6588,Positive,1.0,Positive,0.8332948684692383,Positive
 Yo...Randy Orton literally the biggest MVP we have seen in years,0.0,Neutral,0.0,Neutral,0.878272294998169,Positive
-Straight classic,0.2263,Positive,0.1833333333333333,Neutral,0.5196570158004761,Positive
+Straight classic,0.2263,Positive,0.1833333333333333,Positive,0.5196570158004761,Positive
 "That was nice like that..... Thank you for posting here, Guy.",0.7783,Positive,0.6,Positive,0.2693349421024322,Neutral
 One of the best wrestler randy orton❤️,0.6369,Positive,1.0,Positive,0.8813346028327942,Positive
 Also mostly all the best talent in WWE was in the ring for this match aside from reigns and Wyatt if he returns,0.7906,Positive,0.75,Positive,0.2448116689920425,Neutral
-The name of the game is seeing how many different ways Vince can hit the rko before randy retires,0.0,Neutral,0.0333333333333333,Neutral,0.2769278585910797,Neutral
+The name of the game is seeing how many different ways Vince can hit the rko before randy retires,0.0,Neutral,0.0333333333333333,Positive,0.2769278585910797,Neutral
 Wow what an incredible match a amazing victory for randy Orton,0.8344,Positive,0.5333333333333333,Positive,0.9410372376441956,Positive
 This is the best Randy has ever been! Loving RK-Bro!,0.8652,Positive,0.875,Positive,0.939621925354004,Positive
 Randy  orton  is the best👌,0.8842,Positive,0.0,Neutral,0.42780202627182,Positive
@@ -558,7 +558,7 @@ Who rko everybody lol 😆,0.6486,Positive,0.8,Positive,0.3517560660839081,Posit
 You know damn well you don't jump from the top rope when randy is in the ring because he's  gonna hit you with the rko,0.0516,Positive,0.5,Positive,-0.2595847845077514,Negative
 0:6 what is riddle doing watch closely 😆😆😆😆😆,0.8885,Positive,0.0,Neutral,-0.3046577870845794,Negative
 This was the best match in years,0.6369,Positive,1.0,Positive,0.866801381111145,Positive
-"From Legend killer facing The Undertaker at WM to becoming a Legend himself. Happy to see Randy Orton he's one of the biggest superstars left in WWE, I'm disappointed that the Orton vs Lesnar match wasn't the best I hope they have another match but only this time a proper wrestling match and not a UFC kickboxing match",-0.3786,Negative,0.2142857142857142,Neutral,0.4579701423645019,Positive
+"From Legend killer facing The Undertaker at WM to becoming a Legend himself. Happy to see Randy Orton he's one of the biggest superstars left in WWE, I'm disappointed that the Orton vs Lesnar match wasn't the best I hope they have another match but only this time a proper wrestling match and not a UFC kickboxing match",-0.3786,Negative,0.2142857142857142,Positive,0.4579701423645019,Positive
 First time I watched WWE in over 2-3 years just to watch the 🐐 Randy Orton 🔥 perfect ending brought me back to my childhood getting hyped up at him hitting RKO after RKO 🔥💯 Legend,-0.0258,Neutral,0.4166666666666667,Positive,0.609618067741394,Positive
 Super good like video,0.8519,Positive,0.5166666666666666,Positive,0.701205849647522,Positive
 Wwe randy orton history world video,0.0,Neutral,0.0,Neutral,0.4095478951931,Positive
@@ -584,7 +584,7 @@ Prove me wrong, folks.... prove me wrong or join me in my asking for that to Vin
 
 
 
-~ Coming from a fan of Wrestling since 8 years old of age from Italy, 40 years of passion and still counting!",0.9836,Positive,0.2852022058823529,Neutral,0.9365095496177672,Positive
+~ Coming from a fan of Wrestling since 8 years old of age from Italy, 40 years of passion and still counting!",0.9836,Positive,0.2852022058823529,Positive,0.9365095496177672,Positive
 "Not gonna lie, this was awesome.",0.6249,Positive,1.0,Positive,0.8856611847877502,Positive
 RKO after RKO i love it,0.6369,Positive,0.5,Positive,0.7842938899993896,Positive
 "absolute goat, loved him in 2010 and still love him now what a wrestler",0.8442,Positive,0.4666666666666666,Positive,0.8763207793235779,Positive
@@ -607,15 +607,15 @@ Make him wwe champion 🙏❤,0.8442,Positive,0.0,Neutral,0.7442493438720703,Pos
 "That ""my eyes"" from Kevin Owen cracked me up 🤣",0.4939,Positive,0.0,Neutral,-0.3331733644008636,Negative
 Randy Orton forever,0.0,Neutral,0.0,Neutral,0.6850042939186096,Positive
 Cody🌟 & Randy Orton 🐍😈 2:01🔥🔥🔥🅰️mazing Rko🔥🔥🔥🐍😈💯,-0.7506,Negative,0.0,Neutral,0.3709147572517395,Positive
-"""OW MY EYE"" Keven ""you are the universal champion ... of my heart"" Owens is so entertaining.",0.916,Positive,0.25,Neutral,0.6405203342437744,Positive
+"""OW MY EYE"" Keven ""you are the universal champion ... of my heart"" Owens is so entertaining.",0.916,Positive,0.25,Positive,0.6405203342437744,Positive
 Kevin Owens 🤣 1:10 😂💀,0.7269,Positive,0.0,Neutral,0.3070447146892547,Neutral
-RKO is the new stunner. the guys want to out do each others sells,0.0772,Positive,0.1363636363636363,Neutral,0.7421740889549255,Positive
+RKO is the new stunner. the guys want to out do each others sells,0.0772,Positive,0.1363636363636363,Positive,0.7421740889549255,Positive
 RKOS FOR ALL YALL WOOHOO!!!,0.6341,Positive,0.0,Neutral,0.6369611024856567,Positive
 آر كيي أوو !!! 🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦,0.0,Neutral,0.0,Neutral,-0.257185697555542,Negative
 RKO  🇮🇹,0.0,Neutral,0.0,Neutral,0.3572143614292145,Positive
 Wow what a great match very well done fellas,0.8832,Positive,0.3666666666666667,Positive,0.8937844038009644,Positive
 "This match Is Randy Orton Vs Usos,Seth Rollins,KO",0.0,Neutral,0.0,Neutral,0.3403790891170501,Positive
-How lucky is that new guy Ezekiel to have such a high profile main event so early in his career? His brother Elias must be proud!,0.7345,Positive,0.2709090909090909,Neutral,0.6894586086273193,Positive
+How lucky is that new guy Ezekiel to have such a high profile main event so early in his career? His brother Elias must be proud!,0.7345,Positive,0.2709090909090909,Positive,0.6894586086273193,Positive
 Randy is master class the bloodline is chumps . Nuff said,0.0,Neutral,0.0,Neutral,0.2481465488672256,Neutral
 Randy and 7 other Randy fan boys….good match 🔥,-0.0258,Neutral,-0.125,Negative,0.4782976508140564,Positive
 Randy orton the best 🐍🔥,0.4215,Positive,1.0,Positive,0.8398499488830566,Positive
@@ -630,13 +630,13 @@ Randy should be champion not Roman and break up with riddle,0.5994,Positive,0.0,
 "Just need Ted back now 
 It’s gonna be like good old times 
 2009 was like the golden year of wwe 
-The Randy triple h storyline killed it",0.34,Positive,0.18,Neutral,-0.2845984101295471,Negative
+The Randy triple h storyline killed it",0.34,Positive,0.18,Positive,-0.2845984101295471,Negative
 every 1 gets an RKO,0.0,Neutral,0.0,Neutral,-0.301037460565567,Negative
 RKO❤️❤️❤️❤️,0.0,Neutral,0.0,Neutral,0.3085779249668121,Neutral
 This is called RKO Party 🔥,0.0772,Positive,0.0,Neutral,0.3244053721427917,Neutral
 "That's Ortonmania
 Love you Orton from Pakistan",0.6369,Positive,0.5,Positive,0.628829836845398,Positive
-That kevin Owens ah my eye part really got me bruh 😂,0.4404,Positive,0.2,Neutral,-0.2711056470870971,Negative
+That kevin Owens ah my eye part really got me bruh 😂,0.4404,Positive,0.2,Positive,-0.2711056470870971,Negative
 A great Match!!! I love how Riddle celebrates Randy!!!,0.9345,Positive,0.98828125,Positive,0.8752284049987793,Positive
 Super randy orten❤️,0.5994,Positive,0.3333333333333333,Positive,0.7660936117172241,Positive
 cody pushed randy at the end with felt like he wanted to leave really badly,-0.2716,Negative,-0.6999999999999998,Negative,-0.3255499601364136,Negative

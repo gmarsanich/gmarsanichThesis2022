@@ -1,7 +1,7 @@
 Comment,Vader score,Vader label,TextBlob score,TextBlob label,BERT score,BERT label
 Jennie's rap is faster than cheetah's run,0.0,Neutral,0.0,Neutral,0.4094339907169342,Positive
 😍jennie,0.4588,Positive,0.0,Neutral,0.3085779249668121,Neutral
-Me - Even in 0.5x can't rap like jennie😦  that's y I like her so much,-0.2523,Negative,0.2,Neutral,0.5275952219963074,Positive
+Me - Even in 0.5x can't rap like jennie😦  that's y I like her so much,-0.2523,Negative,0.2,Positive,0.5275952219963074,Positive
 Urgghh my jennie Kim girllll,0.0,Neutral,0.0,Neutral,0.2855759859085083,Neutral
 "When you are from a totally different country than Korea but can still sing the Korean parts in kpop : 
 Me : from Greece 
@@ -9,8 +9,8 @@ Me : can sing the Korean parts
 Also me : ???",0.0,Neutral,0.0,Neutral,0.291993498802185,Neutral
 ddu ddu du,0.0,Neutral,0.0,Neutral,0.3069887459278106,Neutral
 2018년도에 많이 들었던노래,0.0,Neutral,0.0,Neutral,-0.2763320505619049,Negative
-I have never seen Jisoo saying the main part in songs,0.0,Neutral,0.1666666666666666,Neutral,-0.271016001701355,Negative
-I don't Stan black pink but I love Jennie's rap 🌚❤️,0.7783,Positive,0.0777777777777777,Neutral,0.3823400139808655,Positive
+I have never seen Jisoo saying the main part in songs,0.0,Neutral,0.1666666666666666,Positive,-0.271016001701355,Negative
+I don't Stan black pink but I love Jennie's rap 🌚❤️,0.7783,Positive,0.0777777777777777,Positive,0.3823400139808655,Positive
 roo 🎤,0.0,Neutral,0.0,Neutral,0.2982952296733856,Neutral
 roo 🎤,0.0,Neutral,0.0,Neutral,0.2982952296733856,Neutral
 i like blackpink,0.3612,Positive,0.0,Neutral,0.4429738521575928,Positive
@@ -20,12 +20,12 @@ Rose là ai,0.0,Neutral,0.6,Positive,0.3774537444114685,Positive
 지금 내가 걸어가는 거리 블랙핑크 포웨이 사거리 
 동서남북 사방으로 뤄닛니네 버킷 리 싹다버리
 널 당기는것도 멀리 밀치는것도 제 멋대로 하는 배앳걸
-좋건 싫어하건 누가 뭐라하던 웨더베이 슈왑 잇츠내더 배앳걸",0.3612,Positive,0.1,Neutral,-0.3911080062389374,Negative
+좋건 싫어하건 누가 뭐라하던 웨더베이 슈왑 잇츠내더 배앳걸",0.3612,Positive,0.1,Positive,-0.3911080062389374,Negative
 "1:31
 지금 내가 걸어가는 거리 블랙핑크 포웨이 사거리 
 동서남북 사방으로 뤄닛니네 버킷 리 싹다버리
 널 당기는것도 멀리 밀치는것도 제 멋대로 하는 배앳걸
-좋건 싫어하건 누가 뭐라하던 웨더베이 슈왑 잇츠내더 배앳걸",0.3612,Positive,0.1,Neutral,-0.4225704371929168,Negative
+좋건 싫어하건 누가 뭐라하던 웨더베이 슈왑 잇츠내더 배앳걸",0.3612,Positive,0.1,Positive,-0.4225704371929168,Negative
 1:37,0.0,Neutral,0.0,Neutral,-0.2177155017852783,Negative
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
 [ne],0.0,Neutral,0.0,Neutral,-0.3875699341297149,Negative
@@ -127,11 +127,11 @@ Jennie's rap is faster than my internet,0.0,Neutral,0.0,Neutral,0.47148546576499
 1:16초.1:16초.1:16초.1:16초.1:16초.
 1:16초.1:16초.1:16초.1:16초.1:16초.",0.0,Neutral,0.0,Neutral,-0.4883317649364471,Negative
 Im obsessed with jennies rap,-0.1779,Negative,-0.5,Negative,0.319465309381485,Neutral
-I’m Vietnamese and I have memorized the Korean in this song and when I am older I want to start a Vietnamese song group,0.0772,Positive,0.1666666666666666,Neutral,-0.319356232881546,Negative
+I’m Vietnamese and I have memorized the Korean in this song and when I am older I want to start a Vietnamese song group,0.0772,Positive,0.1666666666666666,Positive,-0.319356232881546,Negative
 I am obsessed with this song 😍,0.3182,Positive,-0.5,Negative,0.5330877900123596,Positive
 I saw comments only on jennie what about other member guys they also did a lot. If it sounds rude i am sorry but its not correct right. If you are on a group project and only one person get the appreciation how will you feel.,0.5106,Positive,-0.106547619047619,Negative,0.4683679640293121,Positive
 I KNOW THE LYRICS AND THE RAPS MORE THAN HOW I KNOW MY EXAM QUESTIONS....,0.0,Neutral,0.5,Positive,0.526098906993866,Positive
-블랙핑크 너무 예쁨^^,0.6269,Positive,0.25,Neutral,0.3935843408107757,Positive
+블랙핑크 너무 예쁨^^,0.6269,Positive,0.25,Positive,0.3935843408107757,Positive
 "Me is still learning Jennie's rap
 
 
@@ -271,7 +271,7 @@ Blackpink&blink💖",0.9153,Positive,0.0,Neutral,0.3809403479099273,Positive
 Stan BLACKPINK Or Not?,0.0,Neutral,0.0,Neutral,-0.2896330952644348,Negative
 BLACKPINK IS THE BEST WOW,0.8402,Positive,0.55,Positive,0.8375901579856873,Positive
 @0:36 badass,0.34,Positive,0.0,Neutral,-0.4606352746486664,Negative
-This song never get old! I can't stop listening to this masterpiece and every time come. I love it. ❦,0.9053,Positive,0.3125,Neutral,0.950875461101532,Positive
+This song never get old! I can't stop listening to this masterpiece and every time come. I love it. ❦,0.9053,Positive,0.3125,Positive,0.950875461101532,Positive
 Anyone listening in 2022 Singapore?🇸🇬,0.0,Neutral,0.0,Neutral,-0.5774282813072205,Negative
 80 M,0.0,Neutral,0.0,Neutral,-0.2483533173799514,Negative
 100 M,0.0,Neutral,0.0,Neutral,0.34773850440979,Positive
@@ -376,12 +376,12 @@ My favorite,0.4588,Positive,0.5,Positive,0.8966953158378601,Positive
 We love a masterpiece 🔥🔥🔥,0.4767,Positive,0.5,Positive,0.9030501246452332,Positive
 I hate Jennie but love lisa,0.6652,Positive,-0.15,Negative,0.3072516620159149,Neutral
 Omg,0.0,Neutral,0.0,Neutral,0.2883588373661041,Neutral
-Jennie’s rap is still too fast at 0.25x,0.0,Neutral,0.2,Neutral,-0.3936142921447754,Negative
+Jennie’s rap is still too fast at 0.25x,0.0,Neutral,0.2,Positive,-0.3936142921447754,Negative
 Jennies rap is faster and my brother tried to go in her speed and while singing his tooth fell of lol 😂🤣😹😂🤣😹😂,0.9709,Positive,0.8,Positive,-0.261972963809967,Negative
 Who listened this in 2022? ------------>,0.0,Neutral,0.0,Neutral,-0.4548095464706421,Negative
 Wow so good,0.7902,Positive,0.3999999999999999,Positive,0.8373473882675171,Positive
 Not bad,0.431,Positive,0.3499999999999999,Positive,0.6073220372200012,Positive
-Jennie is too fast for u to do it ;~;,0.0,Neutral,0.2,Neutral,-0.3984369039535522,Negative
+Jennie is too fast for u to do it ;~;,0.0,Neutral,0.2,Positive,-0.3984369039535522,Negative
 I was 7 years old didn’t know Korean or know what kpop was I had this black pink app and just listened to it all night 👹✋🏽,0.4939,Positive,-0.0555555555555555,Negative,0.2763693034648895,Neutral
 "I love you Joaoo, rose, Jennie, and Lisa!!!!!!!!!!!!!♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️",0.9989,Positive,0.55,Positive,0.8838370442390442,Positive
 O my god Jenni,0.2732,Positive,0.0,Neutral,0.4745265245437622,Positive
@@ -395,7 +395,7 @@ Hi,0.0,Neutral,0.0,Neutral,0.2364865690469741,Neutral
 I’m obsessed with the DDU DDU DDU DDU,0.8635,Positive,-0.3125,Negative,0.3830049335956573,Positive
 0:22 0:27 0:30,0.0,Neutral,0.0,Neutral,-0.5198789834976196,Negative
 dog im korean and I cant even rap this fast lmao,0.5994,Positive,0.4,Positive,0.5409308671951294,Positive
-Gila bagus bener 😍😍😍😍😍👏🎉,0.9552,Positive,0.0999999999999999,Neutral,0.2705546915531158,Neutral
+Gila bagus bener 😍😍😍😍😍👏🎉,0.9552,Positive,0.0999999999999999,Positive,0.2705546915531158,Neutral
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 The Rosé' voice is WONDERFUL!,0.6932,Positive,1.0,Positive,0.7142502665519714,Positive
 1:33,0.0,Neutral,0.0,Neutral,0.2147985845804214,Neutral
@@ -521,9 +521,9 @@ Me alone: *Cricket sounds*",-0.25,Negative,0.0,Neutral,0.2929118573665619,Neutra
 omg Jennies rap is iconic </3,-0.6124,Negative,0.5,Positive,0.5586522221565247,Positive
 2:57,0.0,Neutral,0.0,Neutral,0.2431949824094772,Neutral
 Good!!,0.5399,Positive,1.0,Positive,0.5041218996047974,Positive
-제니 랩 빠르다!,0.0,Neutral,0.25,Neutral,-0.4816752076148987,Negative
+제니 랩 빠르다!,0.0,Neutral,0.25,Positive,-0.4816752076148987,Negative
 I miss this era :(,-0.5423,Negative,-0.75,Negative,-0.3425111472606659,Negative
-Who is your fav black pink star mine is rose,0.4588,Positive,0.1111111111111111,Neutral,0.4635661542415619,Positive
+Who is your fav black pink star mine is rose,0.4588,Positive,0.1111111111111111,Positive,0.4635661542415619,Positive
 It sounds like they’re saying “doo doo” 😂😂😂,0.8807,Positive,0.0,Neutral,-0.2545467317104339,Negative
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000-0,0.0,Neutral,0.0,Neutral,-0.7026481032371521,Negative
 lisa cantik banget,0.7177,Positive,0.85,Positive,0.4447980225086212,Positive
@@ -596,11 +596,11 @@ Hey
 Ah yeah, ah yeah, ah yeah, ah yeah
 뜨거워 뜨거워 뜨거워 like fire (hey)
 뜨거워 뜨거워 뜨거워 like fire (fire)
-Hit you with that ddu-du ddu-du du",0.9941,Positive,0.1207886904761904,Neutral,-0.3545933961868286,Negative
+Hit you with that ddu-du ddu-du du",0.9941,Positive,0.1207886904761904,Positive,-0.3545933961868286,Negative
 1:15,0.0,Neutral,0.0,Neutral,-0.2756800055503845,Negative
 Blackpink is the revolution,0.0,Neutral,0.0,Neutral,0.540950357913971,Positive
 "Selamat hari Natal 2021
-Dan Siap2 Menjelang Tahun Baru 2022",0.7184,Positive,0.1681818181818181,Neutral,-0.2915864288806915,Negative
+Dan Siap2 Menjelang Tahun Baru 2022",0.7184,Positive,0.1681818181818181,Positive,-0.2915864288806915,Negative
 "Black Pink : Du Du Du
 Exid : Ddd",0.0,Neutral,-0.1333333333333333,Negative,-0.3255307376384735,Negative
 "when jennie said ""yeppeujanghan savage"" i just realized that she says ""pretty savage"" lol",0.0,Neutral,0.525,Positive,-0.303404837846756,Negative
@@ -657,7 +657,7 @@ JISOO IS A TOTAL QUEEN 👑!,0.0,Neutral,0.0,Neutral,0.8630325198173523,Positive
 2st Lisa
 3st Jisoo
 4st Rose
-5st Secret blackpink member",0.0,Neutral,0.0999999999999999,Neutral,0.8483483195304871,Positive
+5st Secret blackpink member",0.0,Neutral,0.0999999999999999,Positive,0.8483483195304871,Positive
 Jisoo😻😻😻😻😻💕,0.9601,Positive,0.0,Neutral,0.3085779249668121,Neutral
 Lol i wish i could learn thinks as jennie's rap here,0.6705,Positive,0.8,Positive,0.2390396296977996,Neutral
 epicooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ok ya paro XD,0.7739,Positive,0.5,Positive,0.3466620445251465,Positive
@@ -669,11 +669,11 @@ Damn they’re godessss,-0.4019,Negative,0.0,Neutral,0.508767306804657,Positive
 "Me after finishing learning Jennie's rap:
 Mmm, I will try it on 2× speed. 
 After only hearing how it's fast on 2x speed:
-👁👄👁Maybe later.",0.0,Neutral,0.0666666666666666,Neutral,0.3045971095561981,Neutral
+👁👄👁Maybe later.",0.0,Neutral,0.0666666666666666,Positive,0.3045971095561981,Neutral
 😄🎢🌃😭,0.34,Positive,0.0,Neutral,0.3085779249668121,Neutral
 im living for this song,0.0,Neutral,0.0,Neutral,0.5843672752380371,Positive
 "i never thought id actually listen to kpop, but now im here building a liking for it",0.5499,Positive,0.0,Neutral,0.4327486753463745,Positive
-i think blackpink make such iconic songs i love them so much!,0.6696,Positive,0.3125,Neutral,0.9047515988349916,Positive
+i think blackpink make such iconic songs i love them so much!,0.6696,Positive,0.3125,Positive,0.9047515988349916,Positive
 100 m before  10 year,0.0,Neutral,0.0,Neutral,0.3220815658569336,Neutral
 23.7,0.0,Neutral,0.0,Neutral,0.2546860575675964,Neutral
 Me being proud of myself for learning the whole song but then realizing that I can’t do it without looking at these exact lyrics and translations,0.2617,Positive,0.4166666666666667,Positive,0.3407849073410034,Positive
@@ -695,7 +695,7 @@ It's easy to rap Jennies rap tho-,0.4404,Positive,0.4333333333333333,Positive,0.
 bast  one  lisa,0.0,Neutral,0.0,Neutral,-0.4000132381916046,Negative
 "Me: **trying Jennie's rap**
 Also me: *firbbrjfvsnhkh*",0.0,Neutral,0.0,Neutral,-0.2742168605327606,Negative
-Jennie’s rap is not really that fast,0.0,Neutral,0.05,Neutral,0.5442495346069336,Positive
+Jennie’s rap is not really that fast,0.0,Neutral,0.05,Positive,0.5442495346069336,Positive
 "Oxygen: Lisa doesn't need me. I'll go to Jennie.
 O² in Jennie: 💀☠️",0.0,Neutral,0.0,Neutral,-0.2622619271278381,Negative
 Caroline eat look at that. Hold your mouth and chew. Eman said.,0.0,Neutral,0.0,Neutral,-0.3936211764812469,Negative
@@ -710,7 +710,7 @@ Jisoo Jennie Rose Lisa I LOVE YOU  😘🖤BLΛƆKPIИK💗,0.9278,Positive,0.55
 I love it,0.6369,Positive,0.5,Positive,0.8333382606506348,Positive
 조회수 ㄷㄷ,0.0772,Positive,0.0,Neutral,0.3127436339855194,Neutral
 "왓츄 가나두 왜나 컴컴 두루잇 댓댓 엉~ 어엉~
-와츄 가나두 왜나 컴컴 듀루잇 됏됏 웡~ 워헝~",0.5859,Positive,0.1,Neutral,-0.3597313165664673,Negative
+와츄 가나두 왜나 컴컴 듀루잇 됏됏 웡~ 워헝~",0.5859,Positive,0.1,Positive,-0.3597313165664673,Negative
 1:34 1:37,0.0,Neutral,0.0,Neutral,-0.2945391535758972,Negative
 I love blackpink songs so much,0.6369,Positive,0.35,Positive,0.7809295654296875,Positive
 "Nobody:
@@ -756,7 +756,7 @@ Umm please no hate
 
 Just you think the rap is hard doesn't mena it's hard for others
 
-I learnt it on 7th day of practice,😄",0.9117,Positive,0.0625,Neutral,0.2659352421760559,Neutral
+I learnt it on 7th day of practice,😄",0.9117,Positive,0.0625,Positive,0.2659352421760559,Neutral
 2:47,0.0,Neutral,0.0,Neutral,0.2405894696712494,Neutral
 2:43 I'm obsessed with this part,-0.1779,Negative,-0.5,Negative,0.3288851380348205,Neutral
 100 m soon,0.0,Neutral,0.0,Neutral,0.2464783638715744,Neutral
@@ -771,9 +771,9 @@ me:goes in room and grab a sheld",0.7217,Positive,0.0,Neutral,-0.534151732921600
 blackpink: hit with dudududu,0.0,Neutral,0.0,Neutral,0.3941070735454559,Positive
 "0:36원할 땐 대놓고 뺏지 넌 뭘 해도 칼로 물 베기
  두 손에 가득한 fat check 궁금하면 해봐  fact check
-눈 높인 꼭대기 물 만난 물고기 좀 독해 난 toxic you 혹해 I'm foxy",-0.1714,Negative,0.11,Neutral,-0.4940510392189026,Negative
+눈 높인 꼭대기 물 만난 물고기 좀 독해 난 toxic you 혹해 I'm foxy",-0.1714,Negative,0.11,Positive,-0.4940510392189026,Negative
 £¥£_€[¥,0.0,Neutral,0.0,Neutral,-0.3983255922794342,Negative
-Lyric,0.0,Neutral,0.25,Neutral,0.3240520656108856,Neutral
+Lyric,0.0,Neutral,0.25,Positive,0.3240520656108856,Neutral
 Woe,-0.4215,Negative,0.0,Neutral,0.2761517763137817,Neutral
 lets all touch our chins without telling lisa,0.0,Neutral,0.0,Neutral,0.5009104609489441,Positive
 "Stop rap fast 
@@ -785,14 +785,14 @@ lets all touch our chins without telling lisa,0.0,Neutral,0.0,Neutral,0.50091046
 
 
 
-ME WHATTTTT",-0.296,Negative,0.2,Neutral,-0.5820781588554382,Negative
-This is the very video that got me into BLACKPINK,0.0,Neutral,0.2,Neutral,0.6111871004104614,Positive
+ME WHATTTTT",-0.296,Negative,0.2,Positive,-0.5820781588554382,Negative
+This is the very video that got me into BLACKPINK,0.0,Neutral,0.2,Positive,0.6111871004104614,Positive
 "Dear Eminem , 
 Be scared of Jennie . 
 
                                         Thank you , 
                                                        Me.",0.296,Positive,0.0,Neutral,0.7471657395362854,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Legend,0.0,Neutral,0.0,Neutral,0.432450532913208,Positive
 I want this kind of main rapper BACK! YG GIVE HER MORE RAP LINES LIKE THIS!,0.7219,Positive,0.3479166666666666,Positive,0.4466646015644073,Positive
 "miss sub indo•́ ,•̀",-0.1531,Negative,0.0,Neutral,-0.3385769724845886,Negative
@@ -810,7 +810,7 @@ Kapuso Anumang Kulay Ng Buhay 2012 May 20 2016 Deped TV,0.0,Neutral,0.0,Neutral,
 I like this song a lot,0.3612,Positive,0.0,Neutral,0.457773208618164,Positive
 Jisso is amazing,0.5859,Positive,0.6000000000000001,Positive,0.6780576705932617,Positive
 "DO YOU KNOW THAT DDU-DU DDU-DU IS A SPOILER TO PRETTY SAVAGE! AND DDU-DU DDU-DU IS RELEASE IN 2018 AND PRETTY SAVAGE IS RELEASE IN 2020(2018)(2020) 2 F*CKING YEARS
-guys just check jennie's line at first just focus and listen to it carefully and if you see and heard it... you know pretty savage right",0.3382,Positive,0.0926020408163265,Neutral,-0.2121192365884781,Negative
+guys just check jennie's line at first just focus and listen to it carefully and if you see and heard it... you know pretty savage right",0.3382,Positive,0.0926020408163265,Positive,-0.2121192365884781,Negative
 "착한 얼굴에 그렇지 못한 태도
 가녀린 몸매 속 가려진 volume은 두 배로
 거침없이 직진 굳이 보진 않지 눈치
@@ -838,10 +838,10 @@ blackpink is my fav girl band,0.4588,Positive,0.0,Neutral,0.5656417608261108,Pos
 in love with lisa best dancer... did a personality test i was her!!😄,0.938,Positive,0.75,Positive,0.7472909688949585,Positive
 "Jennie : *raps easily*♥️
 Me: xjsxjsxmksnjsnss",0.765,Positive,0.0,Neutral,0.2444248795509338,Neutral
-wow is so cute,0.796,Positive,0.3,Neutral,0.8528362512588501,Positive
+wow is so cute,0.796,Positive,0.3,Positive,0.8528362512588501,Positive
 Lisa and jennie is the best rapper i love then whe lisa and jennie sing i have full internat per it is loading,0.8555,Positive,0.6166666666666667,Positive,0.7369352579116821,Positive
 "Everyone: Jennie's rap is too fast
-Me: silently raps the part in the corner",0.0,Neutral,0.1,Neutral,-0.3986839354038238,Negative
+Me: silently raps the part in the corner",0.0,Neutral,0.1,Positive,-0.3986839354038238,Negative
 "Jennie : rappinggg
 Me : watching dududud on mobile
 Mom : eodkrhejsidhueeuehbebrurjs
@@ -854,15 +854,15 @@ I think it doesn't have any meaning:),0.0,Neutral,0.5,Positive,0.311620146036148
 Jisoo and rose my favorite their voice !,0.5093,Positive,0.6125,Positive,0.9114151000976562,Positive
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
 나는 이 노래를 좋아한다!  좋은 일을 계속하십시오!  ❤️,0.8264,Positive,0.75,Positive,0.6312862038612366,Positive
-Jennie rap is really too fast,0.0,Neutral,0.2,Neutral,-0.4872588217258453,Negative
+Jennie rap is really too fast,0.0,Neutral,0.2,Positive,-0.4872588217258453,Negative
 "0:36
 0:36
 0:36",0.0,Neutral,0.0,Neutral,-0.5194967985153198,Negative
-1:34 jennie really said “idk wut breathing is”,0.0,Neutral,0.2,Neutral,-0.3094165027141571,Negative
+1:34 jennie really said “idk wut breathing is”,0.0,Neutral,0.2,Positive,-0.3094165027141571,Negative
 I can speak this song in English not in korean,0.0,Neutral,0.0,Neutral,-0.4910916090011596,Negative
 I like there song,0.3612,Positive,0.0,Neutral,0.4550890326499939,Positive
 Master,0.0,Neutral,0.0,Neutral,0.5313695669174194,Positive
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Jennies rap Is faster than my heartbeat,0.0,Neutral,0.0,Neutral,0.5857024192810059,Positive
 I am practicing for YG online audition,0.0,Neutral,0.0,Neutral,0.4420125186443329,Positive
 1:37,0.0,Neutral,0.0,Neutral,-0.2177155017852783,Negative
@@ -956,9 +956,9 @@ I have listen this song one million times because I love 💕 this song 😍 ver
 Thx for putting Albanian captions never thought,0.3612,Positive,0.0,Neutral,0.4131554067134857,Positive
 please support me,0.6124,Positive,0.0,Neutral,0.2918160259723663,Neutral
 🥰👌❤❤,0.9714,Positive,0.0,Neutral,0.3085779249668121,Neutral
-"Everyone is saying Jennie's rap is hard.. it is.. but in Korean. I can rap the whole thing in English faster than what she raps. It is hard but in Korean. Try English, it is much easier! :D",0.8671,Positive,0.1238095238095238,Neutral,-0.235716626048088,Negative
+"Everyone is saying Jennie's rap is hard.. it is.. but in Korean. I can rap the whole thing in English faster than what she raps. It is hard but in Korean. Try English, it is much easier! :D",0.8671,Positive,0.1238095238095238,Positive,-0.235716626048088,Negative
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
-내 마음을 다해 당신을 사랑합니다 black pink 🖤💓,0.9738,Positive,0.0777777777777777,Neutral,0.7269347906112671,Positive
+내 마음을 다해 당신을 사랑합니다 black pink 🖤💓,0.9738,Positive,0.0777777777777777,Positive,0.7269347906112671,Positive
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
 Jennie era,0.0,Neutral,0.0,Neutral,0.2569958865642547,Neutral
 Me trying to rap Jennie's part like: jfyvvyfctrgcdgchfthcyegrrwawchhguboovvjftcryudrvjgjhfftftfthftrftfuftfyutffttfhftyrrytffyfftuyrufftthcrcyuuyrcrtfutucrrycfytfucyucrucycutrcyuhcgguyrcurccychftfhhfgownbuijwbuyvgyivyiwghviccihchgmfktdyttkdhktdddythdtotfuoyfufchtkcfhkchyjtddfyyjrewqakckchplmfxgdyfydrjdgtjxyjtjydydtufyjvfuyjhgjgjmuiviygjgvfyudyjydfhcyjdfhdmfytjfcjytyddgjcgcyfcgjykhgfcytjchtfjytcytkhcyckfckykyctkcutckytvkytukftkfhgcutkufktccjytjcytdiytiytdckytyctkycktdkytckytckyttckykcytkcytckytycktckytckytckythkfcckytckytykctkcytckytckfykcytckytcyityjctiyrddiycgyclbuktcyyjrdtrwwqtdiyckhvkuguckgckyg,0.3612,Positive,0.0,Neutral,0.2577553689479828,Neutral
@@ -966,10 +966,10 @@ i dont think the translation in the subtitles or in the video are accurate,0.0,N
 00:09,0.0,Neutral,0.0,Neutral,-0.2600977420806885,Negative
 I sing that song and I wish I am I singer so I’m a Japan singer,0.4019,Positive,0.0,Neutral,0.2919791936874389,Neutral
 DDU DU DDU DU,0.0,Neutral,0.0,Neutral,-0.2861066162586212,Negative
-Wow,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+Wow,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 Jisoo had like 2 lines wtf,-0.3182,Negative,-0.5,Negative,-0.3677202761173248,Negative
 I am your blink,0.0,Neutral,0.0,Neutral,0.4659610986709595,Positive
-WOW,0.5859,Positive,0.1,Neutral,0.6995608806610107,Positive
+WOW,0.5859,Positive,0.1,Positive,0.6995608806610107,Positive
 jennie and rose and lisa and jisoo is somewhere…..z.,0.0,Neutral,0.6,Positive,0.2683238387107849,Neutral
 "for God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life <3",0.8124,Positive,0.5666666666666667,Positive,0.7747271656990051,Positive
 "Blackpink  - hit you with the d-
@@ -986,7 +986,7 @@ WHAT! Jennie raps!?,0.0,Neutral,0.0,Neutral,-0.4422372877597809,Negative
 This is SO GOOD 🥰🥰🥰,0.9841,Positive,0.7,Positive,0.6872608661651611,Positive
 Yeeeyy dududu me turkish,0.0,Neutral,0.0,Neutral,-0.3869277834892273,Negative
 I miss jennie rap,-0.1531,Negative,0.0,Neutral,0.2923217713832855,Neutral
-Jennie is very very very very very very very very very very very very very very very very very fast rapper I like her rapping and I also like her all things,0.6124,Positive,0.26,Neutral,0.6488969326019287,Positive
+Jennie is very very very very very very very very very very very very very very very very very fast rapper I like her rapping and I also like her all things,0.6124,Positive,0.26,Positive,0.6488969326019287,Positive
 shhhhhhhhhhhhhhhhhhhhhhhhhhhh,0.0,Neutral,0.0,Neutral,-0.3100869059562683,Negative
 huh,0.0,Neutral,0.0,Neutral,-0.3607461750507355,Negative
 I love you so much I am falling in love with you and I am falling in love with this,0.9081,Positive,0.425,Positive,0.8946565985679626,Positive
@@ -1001,7 +1001,7 @@ Didi jennie didi lalisa didi rose Didi jisoo I love you Blackpink,0.7184,Positiv
 back when blackpink was good,0.4404,Positive,0.35,Positive,0.2709822058677673,Neutral
 Life time achivement: I learnt Jennie's rap ✌🏼💜,0.8126,Positive,0.0,Neutral,0.3887687623500824,Positive
 Tunak tunak,0.0,Neutral,0.0,Neutral,0.5104764699935913,Positive
-Hahaha so sexy and cute haha its real life he is hehe,0.9268,Positive,0.3199999999999999,Neutral,0.6043751835823059,Positive
+Hahaha so sexy and cute haha its real life he is hehe,0.9268,Positive,0.3199999999999999,Positive,0.6043751835823059,Positive
 I like blackpink rose lisa jennie jisoo so awesome songs i love this song so cool and cute so i love them,0.9741,Positive,0.5750000000000001,Positive,0.8699646592140198,Positive
 😡😡😡😡😡 Lisaaa..... 🤮🤮🤮🤮,0.0,Neutral,0.0,Neutral,-0.3108590543270111,Negative
 "I'm Kim Jisoo , Kim Jennie, park chaeyoung, lalisa, monaban 🖤🖤💓💌💟 ❣️❣️💌💓🖤💜💙💙💛🧡❤️☺️🤍💗💖💕",0.9981,Positive,0.0,Neutral,0.2764264047145843,Neutral
@@ -1090,10 +1090,10 @@ Tteugeowo tteugeowo tteugeowo like fire
 Hit you with that ddu-du ddu-du du",0.9379,Positive,0.3380555555555556,Positive,-0.3564812242984772,Negative
 "everybody else: Jennie's rap is so fast
 
-me: is what she wearing on her forehead culture appropiate ? just wondering",0.0,Neutral,0.2,Neutral,-0.3615610599517822,Negative
+me: is what she wearing on her forehead culture appropiate ? just wondering",0.0,Neutral,0.2,Positive,-0.3615610599517822,Negative
 "1:32
 1:38",0.0,Neutral,0.0,Neutral,-0.3075757026672363,Negative
-Wow ❤️✌️,0.5859,Positive,0.1,Neutral,0.6722603440284729,Positive
+Wow ❤️✌️,0.5859,Positive,0.1,Positive,0.6722603440284729,Positive
 75 m,0.0,Neutral,0.0,Neutral,0.2256224900484085,Neutral
 I love this song,0.6369,Positive,0.5,Positive,0.8526678681373596,Positive
 "Onu bunu bırak türk yok mu türk? 
@@ -1115,7 +1115,7 @@ Rip to ppl like me who didn't expect Lyrics to be in korean!,0.4199,Positive,0.0
 
 Me: *raps with ease*
 
-Also Me: ""Am I considered fast?""",0.4199,Positive,0.225,Neutral,0.3478043973445892,Positive
+Also Me: ""Am I considered fast?""",0.4199,Positive,0.225,Positive,0.3478043973445892,Positive
 It's boring,-0.3182,Negative,-1.0,Negative,-0.4870045185089111,Negative
 THEY ARE SAVAGES  🔥🔥🔥🔥🔥,-0.9341,Negative,0.0,Neutral,0.3921809494495392,Positive
 1:11,0.0,Neutral,0.0,Neutral,-0.2176796346902847,Negative
@@ -1125,16 +1125,16 @@ I am jennie nihao,0.0,Neutral,0.0,Neutral,0.3887353539466858,Positive
 "Fav parts
 Hit u with the dududu
 And 
-The part that says hot hot hot like fire",0.4767,Positive,0.25,Neutral,-0.3211369216442108,Negative
+The part that says hot hot hot like fire",0.4767,Positive,0.25,Positive,-0.3211369216442108,Negative
 2:49 2:49,0.0,Neutral,0.0,Neutral,-0.2736624181270599,Negative
 Idk what yall can do but jennies rap is easy asf,0.5647,Positive,0.4333333333333333,Positive,0.3930577337741852,Positive
 0:51,0.0,Neutral,0.0,Neutral,-0.4232819676399231,Negative
 0:51,0.0,Neutral,0.0,Neutral,-0.4232819676399231,Negative
-Jenneis rap can be set up as alarm so loud and fast 🤪🥴🧛‍♀️,-0.34,Negative,0.15,Neutral,0.3889892995357513,Positive
+Jenneis rap can be set up as alarm so loud and fast 🤪🥴🧛‍♀️,-0.34,Negative,0.15,Positive,0.3889892995357513,Positive
 Hay nhỉ,0.4404,Positive,0.7,Positive,0.292149007320404,Neutral
 How are you?,0.0,Neutral,0.0,Neutral,0.4716092348098755,Positive
 Yessss l love you blackpink  🖤💖,0.9571,Positive,0.5,Positive,0.7643144130706787,Positive
-l need your love i need your time wen ever thing is wrong you mack it right  new song 😍😍❤❤👍🏼👍🏼🎶🎶🎇🎇🎊🎊,0.9612,Positive,0.1055194805194805,Neutral,0.6210852861404419,Positive
+l need your love i need your time wen ever thing is wrong you mack it right  new song 😍😍❤❤👍🏼👍🏼🎶🎶🎇🎇🎊🎊,0.9612,Positive,0.1055194805194805,Positive,0.6210852861404419,Positive
 Fire,-0.34,Negative,0.0,Neutral,0.3200429379940033,Neutral
 my fav bp music is dudududu,0.4588,Positive,0.0,Neutral,0.3377838134765625,Positive
 1:33,0.0,Neutral,0.0,Neutral,0.2147985845804214,Neutral
@@ -1164,13 +1164,13 @@ I'm not a blink but I like this song,0.5023,Positive,0.0,Neutral,0.5461242794990
 i can do jennie rap,0.0,Neutral,0.0,Neutral,0.3693055510520935,Positive
 "When she said""im foxy"" I got emotional because I had a friend who died in a house fire and at school some people called her foxy because her last name was fox",-0.296,Negative,0.0,Neutral,-0.2571156620979309,Negative
 It's too tough to sing Lisa rap😅😞,-0.2732,Negative,-0.3888888888888889,Negative,-0.344607412815094,Negative
-This comments are so dramatic. Jennies rap is literally SO easy to learn like- 💀💀,0.7996,Positive,2.775557561562892e-17,Neutral,0.4020228981971741,Positive
+This comments are so dramatic. Jennies rap is literally SO easy to learn like- 💀💀,0.7996,Positive,2.775557561562892e-17,Positive,0.4020228981971741,Positive
 I love how jisoo and rose switch sides in 0:50 - 1:14 and 1:49 - 2:12,0.6369,Positive,0.55,Positive,0.6654753684997559,Positive
 PERFECT song already BLACKPINK QUEEN of PERFECTION I LOVE YOU BLACKPINK AND ALL BLINKS LOVES YOU,0.9649,Positive,0.75,Positive,0.918213665485382,Positive
 DDu,0.0,Neutral,0.0,Neutral,0.2865787446498871,Neutral
 Love you blackpink 🖤💖🖤💖🖤💖🖤💖🖤💖🖤🖤💖🖤💖🖤💖🖤💖🖤💖💖🖤💖🖤💖🖤🖤💖🖤🖤💖🖤💖💖🖤💖🖤💖🖤💖🖤💖,0.9997,Positive,0.5,Positive,0.8443732261657715,Positive
 "When u turn on the youtube subtitles, it doesn't mach up to the lyrics in the video (well some of them are)",0.2732,Positive,0.0,Neutral,0.3675496578216553,Positive
-girl your rap is so fast but made it my 1st try,0.0,Neutral,0.2,Neutral,0.3631314933300018,Positive
+girl your rap is so fast but made it my 1st try,0.0,Neutral,0.2,Positive,0.3631314933300018,Positive
 🤬🤬🤬🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤢🤮🤢🤮🤢🤮🤢🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮I hateeeeeee btsssssss,0.0,Neutral,0.0,Neutral,0.2444408237934112,Neutral
 Jisoo fans,0.0,Neutral,0.0,Neutral,0.2713201344013214,Neutral
 0:51,0.0,Neutral,0.0,Neutral,-0.4232819676399231,Negative
@@ -1190,18 +1190,18 @@ It's cooooooooooolllll
 
 Love from blink
 
-Jenie is not fast she is talented.",0.8176,Positive,0.2749999999999999,Neutral,0.2877506017684936,Neutral
+Jenie is not fast she is talented.",0.8176,Positive,0.2749999999999999,Positive,0.2877506017684936,Neutral
 Rosé not Rose,0.0,Neutral,-0.3,Negative,-0.7379340529441833,Negative
 I love this song ❤,0.8555,Positive,0.5,Positive,0.8624796271324158,Positive
 Make 100 m this title track,0.0,Neutral,0.0,Neutral,0.5105504989624023,Positive
 I just watched this video to see who sang which part,0.0,Neutral,0.0,Neutral,-0.2412689626216888,Negative
 Thank you for romanian lyrics!,0.4199,Positive,0.0,Neutral,0.5555669665336609,Positive
-0:34 PRETTY SAVAGE HAHA,0.6037,Positive,0.225,Neutral,-0.5936350226402283,Negative
+0:34 PRETTY SAVAGE HAHA,0.6037,Positive,0.225,Positive,-0.5936350226402283,Negative
 "I tried to play it in 1.25×, I didn't expect that it would still be that Good",0.6486,Positive,0.7,Positive,0.431426078081131,Positive
 my profile picture :D,0.6166,Positive,1.0,Positive,0.4460645914077759,Positive
 Amongus,0.0,Neutral,0.0,Neutral,0.2487570792436599,Neutral
 Wonderful,0.5719,Positive,1.0,Positive,0.7840516567230225,Positive
-I try you all to try the rap in 1.5 speed💕💕 it's so much fun,0.9213,Positive,0.3,Neutral,0.7678729295730591,Positive
+I try you all to try the rap in 1.5 speed💕💕 it's so much fun,0.9213,Positive,0.3,Positive,0.7678729295730591,Positive
 1:14,0.0,Neutral,0.0,Neutral,-0.2261641472578048,Negative
 "The people who are hyping about Jennie rap , then I swear you will die after hearing bts raps",-0.6249,Negative,0.0,Neutral,-0.4348762929439544,Negative
 1:21,0.0,Neutral,0.0,Neutral,-0.2404230087995529,Negative
@@ -1212,14 +1212,14 @@ jennieI💟U😗😙😍😘🤗😚🤗🤗🤗🤗🤗🤗🤗🤗🤗,0.994,P
 Me in car: me with headphones in listening to it while recording it",0.0,Neutral,0.0,Neutral,0.3055765032768249,Neutral
 One of the members are fatphobic,0.0,Neutral,0.0,Neutral,-0.4926356077194214,Negative
 What is a fat check,0.0,Neutral,0.0,Neutral,0.2551739811897278,Neutral
-This lyrics is not correct  I saw blackpink dddd song and I On the caption of English and whole lyrics is different,0.0,Neutral,0.0666666666666666,Neutral,-0.4600808024406433,Negative
+This lyrics is not correct  I saw blackpink dddd song and I On the caption of English and whole lyrics is different,0.0,Neutral,0.0666666666666666,Positive,-0.4600808024406433,Negative
 Rose is the best :),0.802,Positive,0.7000000000000001,Positive,0.8294529914855957,Positive
 I love this song but what is the meaning of ddu-du-ddu,0.3818,Positive,0.5,Positive,0.304833173751831,Neutral
 0:37,0.0,Neutral,0.0,Neutral,-0.441112220287323,Negative
 FACT CHECK,0.0,Neutral,0.0,Neutral,0.293863981962204,Neutral
 Can Jennie rap?,0.0,Neutral,0.0,Neutral,-0.2609891593456268,Negative
 "Rose: I was thinking about it twice. Fake like someone else. That's not how I can do it
-Twice: ??",-0.2406,Negative,0.0499999999999999,Neutral,-0.6831763386726379,Negative
+Twice: ??",-0.2406,Negative,0.0499999999999999,Positive,-0.6831763386726379,Negative
 "ลิซ่า Thai
 리사 Korean
 lisa English 
@@ -1234,10 +1234,10 @@ blackplnk ❤️👯‍♀️,0.0,Neutral,0.0,Neutral,0.3136814534664154,Neutral
 1:35,0.0,Neutral,0.0,Neutral,0.2165716886520385,Neutral
 Something faster than than Lisa's rap? Me Jennie's Rap...,0.0,Neutral,0.0,Neutral,-0.3622570335865021,Negative
 kimse SUGA dan daha hızlı rap söylemez,-0.296,Negative,0.0,Neutral,-0.2965551614761352,Negative
-I can't live without  Jenni's rap,0.0,Neutral,0.1363636363636363,Neutral,-0.3421929776668548,Negative
+I can't live without  Jenni's rap,0.0,Neutral,0.1363636363636363,Positive,-0.3421929776668548,Negative
 "..ㅋㅋ...나만 웃김..?
 아니 나는 처음에 ""착한 얼굴에 그렇지 못한 태도""를 ""착한 돌고래를 갖지 못한데도""인줄 알았는뎈ㅋㅋㅋㅋㅋㅋㅋ
-나만 그르케 들림?ㅋㅋㅋ지금 생각해보니깐 완전 멍웃김ㅋㅋㅋㅋㅋㅋ",0.1164,Positive,0.1416666666666667,Neutral,-0.3384259641170501,Negative
+나만 그르케 들림?ㅋㅋㅋ지금 생각해보니깐 완전 멍웃김ㅋㅋㅋㅋㅋㅋ",0.1164,Positive,0.1416666666666667,Positive,-0.3384259641170501,Negative
 "My my internet stops I’ll just rap these raps to the internet 
 Then I’ll be like
 HIT U WITH THAT DUDUDU",0.2263,Positive,0.0,Neutral,-0.6833552718162537,Negative
@@ -1245,7 +1245,7 @@ Jennie rap 💥💥💥😘😘🤩🤩,-0.2263,Negative,0.0,Neutral,0.345386564
 0:01,0.0,Neutral,0.0,Neutral,-0.5815977454185486,Negative
 Jisoo semangat ya,0.4767,Positive,0.0,Neutral,0.268726110458374,Neutral
 0:34 Yeppeujaanaa Savage!!!!!!!!!,-0.6331,Negative,0.0,Neutral,-0.6308465003967285,Negative
-"I really don't know how, I sang the rap faster than Jennie... In 9 secs :o",-0.1027,Negative,0.125,Neutral,0.2917613089084625,Neutral
+"I really don't know how, I sang the rap faster than Jennie... In 9 secs :o",-0.1027,Negative,0.125,Positive,0.2917613089084625,Neutral
 i love there song,0.6369,Positive,0.5,Positive,0.6866434812545776,Positive
 Me: Hit you with that du du du du aw yeah aw yeah chickendajdyenvueiuydgfteyrfyggiirlfingertankkagassyyaa,0.5267,Positive,0.0,Neutral,-0.294900119304657,Negative
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
@@ -1256,11 +1256,11 @@ Me at Jennie rap part blah blah blah blah banger,-0.3818,Negative,0.0,Neutral,-0
 oxygen: Oh hey what are you looking for?
 corona: her lungs.
 oxygen: Same kiddo, same.",0.0,Neutral,0.0,Neutral,-0.3881894648075104,Negative
-wow wow wow wow wow wow wow wow wow wow,0.9906,Positive,0.0999999999999999,Neutral,0.6801707744598389,Positive
+wow wow wow wow wow wow wow wow wow wow,0.9906,Positive,0.0999999999999999,Positive,0.6801707744598389,Positive
 1:34,0.0,Neutral,0.0,Neutral,0.2152417451143264,Neutral
 Fat check,0.0,Neutral,0.0,Neutral,0.3347840309143066,Positive
 2:41 nvm me just saving this,0.0,Neutral,0.0,Neutral,0.5464800596237183,Positive
-The funny thing is my last name is fox so at school my nickname is foxy so hearing Lisa say “im foxy” always makes me laugh for some reason,0.7579,Positive,0.1833333333333333,Neutral,0.377612829208374,Positive
+The funny thing is my last name is fox so at school my nickname is foxy so hearing Lisa say “im foxy” always makes me laugh for some reason,0.7579,Positive,0.1833333333333333,Positive,0.377612829208374,Positive
 "Finally learned Jennie’s rap....
 
 
@@ -1277,7 +1277,7 @@ It's  like a logo song for bp💖💖,0.936,Positive,0.0,Neutral,0.3375242650508
 هاي,0.0,Neutral,0.0,Neutral,0.2369425594806671,Neutral
 BLACKPINK IN YOUR AREA,0.0,Neutral,0.0,Neutral,0.4502510726451874,Positive
 Jenni+Lisa+jisso+Rose=Black pink 🖤💗,0.8779,Positive,0.0,Neutral,0.2874308228492737,Neutral
-Fun fact ; I can rap Jennie's rap but not Lisa's rap,0.2846,Positive,0.3,Neutral,0.5716069936752319,Positive
+Fun fact ; I can rap Jennie's rap but not Lisa's rap,0.2846,Positive,0.3,Positive,0.5716069936752319,Positive
 How do you do this?,0.0,Neutral,0.0,Neutral,0.523736834526062,Positive
 i love the begining,0.6369,Positive,0.5,Positive,0.6617258787155151,Positive
 1:33 jennie rap,0.0,Neutral,0.0,Neutral,0.2574583888053894,Neutral
@@ -1307,9 +1307,9 @@ Stop killing me Jennie Kim!!<3,-0.8011,Negative,0.0,Neutral,-0.3794167935848236,
 왜 조제가 로즈가됨????ㅋ,0.0,Neutral,0.525,Positive,-0.5148705244064331,Negative
 Lisa manobags :),0.4588,Positive,0.5,Positive,0.3874175548553467,Positive
 "Comment be like Jennie’s rap is so fast 
-Me: turn it to 2x speed bish",0.3612,Positive,0.2,Neutral,-0.3291310966014862,Negative
+Me: turn it to 2x speed bish",0.3612,Positive,0.2,Positive,-0.3291310966014862,Negative
 YASSS QUEEN 👑 JENNIE IS FASTER THAN ME QnQ,0.0,Neutral,0.0,Neutral,0.5056465268135071,Positive
-Madagascar 3 Europe's Most Wanted Avengers Black Panther's Quest G.I. Joe Renegades BlackPink DDU-DU DDU-DU,0.0,Neutral,0.1666666666666666,Neutral,0.3093856275081634,Neutral
+Madagascar 3 Europe's Most Wanted Avengers Black Panther's Quest G.I. Joe Renegades BlackPink DDU-DU DDU-DU,0.0,Neutral,0.1666666666666666,Positive,0.3093856275081634,Neutral
 bruhhh,0.0,Neutral,0.0,Neutral,-0.3886961340904236,Negative
 "Jigeum naega geoleoganeun geolin
 BLACKPINK 4 way sageori
@@ -1319,7 +1319,7 @@ Neol dangineun geotdo meolli milchineun geotdo
 Jemeotdaero haneun bad girl
 Jogheon sileohageon nuga mwora hadeon
 When the bass drop, it's another banger",-0.6808,Negative,-0.4249999999999999,Negative,-0.5923985838890076,Negative
-"Jennie,Jisoo, Rosé showing their pretty hands meanwhile Lisa be like ~ Nahhh I'm wearing gloves just let me show my fingers and my face",0.6908,Positive,0.25,Neutral,0.3857162296772003,Positive
+"Jennie,Jisoo, Rosé showing their pretty hands meanwhile Lisa be like ~ Nahhh I'm wearing gloves just let me show my fingers and my face",0.6908,Positive,0.25,Positive,0.3857162296772003,Positive
 Jisso,0.0,Neutral,0.0,Neutral,0.2974106669425964,Neutral
 "baekta ga maetka mamdaero singyeong-i deatda 
 백다 가 맷가 맘대로 신경이 뎃다",-0.2732,Negative,0.0,Neutral,-0.3413511216640472,Negative
@@ -1397,7 +1397,7 @@ When I come come through with that that uh uh huh
 
 [ Shasha ] Tteugeowo tteugeowo tteugeowo Like fire
  Hit you with that ddu-du ddu-du du",0.959,Positive,-0.1861111111111111,Negative,-0.4541540145874023,Negative
-*Gave a friend cheap old black pink photo cards*. Them: I think I’m in love,0.8126,Positive,0.1466666666666666,Neutral,0.5164120197296143,Positive
+*Gave a friend cheap old black pink photo cards*. Them: I think I’m in love,0.8126,Positive,0.1466666666666666,Positive,0.5164120197296143,Positive
 "I was listening this and my brother siad that: I love this song 
 So I asked him: ar u blink 
 He said : yes I am blink 
@@ -1409,7 +1409,7 @@ Ladies and gents :",-0.4404,Negative,-0.5,Negative,-0.5638760924339294,Negative
 im a new blink and i listened all songs of blackpink alsoafter dududuu in jennie rap some lyrics says banger some bad girl some bag yeah wth is happeneing 😂😂🤣🤣😂😂🤣🤣🤪🤪,0.9565,Positive,-0.2818181818181817,Negative,-0.3898859024047851,Negative
 "1:05 be like ""Our chicken time only get Jin""",0.3612,Positive,-0.3,Negative,-0.3722113966941833,Negative
 Why everyone talking about Blackpink?,0.0,Neutral,0.0,Neutral,-0.3744527995586395,Negative
-Ur song sucks like a lollipop lol,0.4215,Positive,0.25,Neutral,-0.6669579744338989,Negative
+Ur song sucks like a lollipop lol,0.4215,Positive,0.25,Positive,-0.6669579744338989,Negative
 Abla karşılalım,0.4588,Positive,0.8,Positive,0.2762486338615417,Neutral
 "I LOVE LISA TANCER💛
 I LOVE JENNIE RAP 😍
@@ -1427,19 +1427,19 @@ Lisaaaa 😍😍,0.7184,Positive,0.0,Neutral,0.2465225458145141,Neutral
 Jennie rap in 1.75 speed :😵😵😵😱😱😶😶 
 Of D4 rap 
 Try in 1.75 speed and listen and then comment your reaction 
-Please",-0.9186,Negative,0.15,Neutral,0.2454406321048736,Neutral
+Please",-0.9186,Negative,0.15,Positive,0.2454406321048736,Neutral
 "*still not over yet with this era,hey me too*",0.0,Neutral,0.0,Neutral,0.3852324783802032,Positive
 Why Jisoo always have less lines in all songs?,0.0,Neutral,-0.1666666666666666,Negative,-0.3549652993679046,Negative
 "Jeniiee: raps too fast 
 My frns : Chae plz rap it for us  plz 
-Me : DASHI RUN RUN RUN~~🏃‍♀️🏃‍♀️🏃‍♀️",0.1531,Positive,0.2,Neutral,-0.3534363508224487,Negative
+Me : DASHI RUN RUN RUN~~🏃‍♀️🏃‍♀️🏃‍♀️",0.1531,Positive,0.2,Positive,-0.3534363508224487,Negative
 There's no meaning in this song😂😂😂😂,0.8555,Positive,0.0,Neutral,-0.5653520226478577,Negative
 0:36 just trying to learn Lisa's part,0.0,Neutral,0.0,Neutral,-0.393337994813919,Negative
 01:17,0.0,Neutral,0.0,Neutral,-0.2725693583488464,Negative
 01:15,0.0,Neutral,0.0,Neutral,-0.2884024381637573,Negative
 3 Years Ago,0.0,Neutral,0.0,Neutral,0.2784400284290313,Neutral
 es bleq finqi miyvars,0.0,Neutral,0.0,Neutral,-0.308133453130722,Negative
-Black pink y are you eating some kind of medicine to make you  look good pls be yourself 🥺🥺🥺🥺,0.4939,Positive,0.2583333333333333,Neutral,0.2767829895019531,Neutral
+Black pink y are you eating some kind of medicine to make you  look good pls be yourself 🥺🥺🥺🥺,0.4939,Positive,0.2583333333333333,Positive,0.2767829895019531,Neutral
 Ye log mujhe bahut pasand h I like you🥰🥰💖💖,0.9833,Positive,0.0,Neutral,0.3493361175060272,Positive
 "I AM A BTS ARMY STILL LOVE THIS SONG!!!! 
 IT DOESN’T MATTER IF U LOVE THEM OR NOT!?
@@ -1458,10 +1458,10 @@ Me:- *Rapping is my passion*",0.4588,Positive,0.0,Neutral,0.4812979400157928,Pos
 Sare song Ke lyrics in Hindi kardona please☺☺😘😘,0.9169,Positive,0.0,Neutral,-0.2763114869594574,Negative
 حلو,0.4588,Positive,0.35,Positive,0.256826788187027,Neutral
 I love Rosè,0.6369,Positive,0.5,Positive,0.8052741289138794,Positive
-Lisa 's❤️ rap So fast then my internet 😝😝😂😂,0.7003,Positive,0.2,Neutral,-0.3436167240142822,Negative
+Lisa 's❤️ rap So fast then my internet 😝😝😂😂,0.7003,Positive,0.2,Positive,-0.3436167240142822,Negative
 I like lisa,0.3612,Positive,0.0,Neutral,0.440235435962677,Positive
 fantastic!!!,0.6679,Positive,0.78125,Positive,0.9189401865005492,Positive
-I love black pink when they use indian tradition,0.6369,Positive,0.0777777777777777,Neutral,0.3648575842380523,Positive
+I love black pink when they use indian tradition,0.6369,Positive,0.0777777777777777,Positive,0.3648575842380523,Positive
 "1:34 1:34 1:34
 1:34 1:34 1:34
 
@@ -1477,7 +1477,7 @@ Not a blink but in love with this song,0.7783,Positive,0.5,Positive,0.5043944716
 I like Jennie rap part so so much her way of doing rap is so cool and good I like har all raps and Lisa's rap too😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘,0.9963,Positive,0.4166666666666667,Positive,0.6484107375144958,Positive
 Love this song so sooo Iconic,0.6369,Positive,0.5,Positive,0.8335932493209839,Positive
 "For new blinks those are the BP members
-Jisoo, Jennie,Rose,Lisa,Rose's hair and lisa's bangs😂",0.4404,Positive,0.1363636363636363,Neutral,0.3456605672836303,Positive
+Jisoo, Jennie,Rose,Lisa,Rose's hair and lisa's bangs😂",0.4404,Positive,0.1363636363636363,Positive,0.3456605672836303,Positive
 "Jisoo,lisa,Rose: let's all have black eyes and not tell jennie",0.0,Neutral,-0.1666666666666666,Negative,-0.2738142907619476,Negative
 "I will leave a comment here and come after a year and see how many like it got 
 Bye:D",0.3182,Positive,0.5,Positive,-0.2948600053787231,Negative
