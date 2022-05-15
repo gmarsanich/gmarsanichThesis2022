@@ -4,6 +4,8 @@ __pycache__
 *__.txt
 *__.csv
 *__.json
+*.png
+*.pgf
 tests
 !analysis_top50_ratio.csv
 !links.json
