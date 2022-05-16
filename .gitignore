@@ -1,9 +1,6 @@
 __pycache__
 *.bak
-*__.py
-*__.txt
-*__.csv
-*__.json
+*__.*
 *.png
 *.pgf
 tests
