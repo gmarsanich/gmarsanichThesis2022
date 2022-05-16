@@ -41,9 +41,10 @@ def get_id(video_url: str) -> str:
 
 def get_comments(video_url: str) -> list:
 
-    """This function is a garbled mess of spaghetti code
+    """This collects YouTube comments using the YouTube API
     It calls the YouTube API and collects the json response with raw comment data.
     It then removes any data that is not the comment text and writes it to a json file
+    It's also a mess
     Code adapted from https://developers.google.com/youtube/v3/docs/commentThreads/"""
 
     api_service_name = "youtube"
