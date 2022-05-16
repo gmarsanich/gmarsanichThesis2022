@@ -1,23 +1,11 @@
 import os
 import shutil
 
-import langdetect as ld
 import pandas as pd
 from googletrans import Translator, constants
 from textblob import TextBlob
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-
-
-def detect_language(text: str) -> str:
-
-    """This function detects the language of a given text"""
-
-    try:
-        lang = ld.detect(text)
-    except ld.lang_detect_exception.LangDetectException:
-        lang = "NA"
-    return lang
 
 
 def translate(text: str) -> str:
@@ -33,15 +21,7 @@ def translate(text: str) -> str:
 
 def bert_classifier(lst: list) -> list:
 
-    """This function returns a sentiment score using the BERT sentiment analysis pipeline
-    This function is fundamentally different from the other 2 analysis functions in this file:
-    If a single input is passed, the BERT based classifier can take around 15 seconds to process it and return a score
-    Instead, if a list of inputs is passed, the classifier is likely to take up less time.
-    For example, iterating through a list of n strings and passing each element through the classifier,
-    we can expect a computation time of ~15 * n seconds. If an entire list is passed, this is not the case.
-    For 100 strings, we can expect this classifier to take around 30-40 seconds to process the entire list.
-    This is still orders of magnitude slower than Vader or Textblob, but it means that it can process 100 strings in less than 20 minutes
-    """
+    """This function returns a sentiment score using the BERT sentiment analysis pipeline"""
 
     model_name = "nlptown/bert-base-multilingual-uncased-sentiment"
     model = AutoModelForSequenceClassification.from_pretrained(model_name)
@@ -57,7 +37,7 @@ def bert_classifier(lst: list) -> list:
 
     pos = ["5 stars", "4 stars"]
     neg = ["1 star", "2 stars"]
-    neutral = ["2 stars", "3 stars"]
+    neutral = ["3 stars"]
 
     for dict_, comment in zip(t, lst):
 
@@ -147,7 +127,8 @@ def generate_score(label: str) -> int:
 
 
 def save_analysis(df: pd.DataFrame, filename: str) -> None or str:
-    """To save the results to a CSV file, a filename must be provided.
+    """This function saves the output of an analysis to a CSV file
+    To save the results to a CSV file, a filename must be provided.
     If a filename is not provided the function will not save to file.
     """
     if filename:
