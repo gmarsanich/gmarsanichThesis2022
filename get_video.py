@@ -146,7 +146,7 @@ def load_comments(filename: str) -> list:
 
 def get_likes(video_url: str) -> str or dict:
 
-    """Calls the Return YouTube Dislike API and saves the json response
+    """Returns the number of likes and dislikes for the given video URL
     Code adapted from returnyoutubedislike.com
 
     """
