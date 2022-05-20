@@ -1,8 +1,8 @@
 __pycache__
 *.bak
 *__.*
+Plots
 *.png
-*.pgf
 tests
 !analysis_top50_ratio.csv
 !links.json
