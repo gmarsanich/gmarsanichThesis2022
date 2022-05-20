@@ -4,4 +4,4 @@ Python script to retrieve YouTube comments and likes/dislikes using the YouTube 
 
 # Reproducing the experiment
 
-I wouldn't recommend repeating the entire experiment as it will take hours to run. Cells marked with "###---###" should be commented out. They are left uncommented for easier reading.
+I wouldn't recommend repeating the entire experiment as it will take hours to run. Cells marked with "###---###" should be commented out. They are left uncommented for easier reading. After those cells are commented out, you should be able to run the notebook and see the output as it is on the repo.  
